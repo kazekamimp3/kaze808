@@ -78,6 +78,17 @@ def project(root):
   out['Research Evidence'].append({'Source':n,'Actor or Topic':Path(n).stem.replace('_',' '),'Source Type':'Preserved source-owner evidence; coverage varies by owner','Verified Coverage':'Exact module bytes verified SHA256 '+v['sha256']+'. Read full owner for original primary/secondary/scene coverage; no fresh web verification claimed.','Open Gaps':'No new audiovisual certification. Owner-local unknowns remain. Legacy portability/loadout/crossover rules remain open for Kratos; removed swap wording in GOW research is subordinate to current Kaze removals.' if 'GOW_Baldur' in n else 'Read owner-local evidence limits; indexed does not mean every claim is verified.'})
  for n,v in m['logical_modules'].items():
   out['Source Owners'].append({'Logical Owner':n,'Physical Source':v['physical_source'],'Role':v['role'],'SHA256':v['sha256'],'Byte Offset':v['byte_offset'],'Byte Length':v['byte_length'],'Release':m['release']})
+ overlay_path=Path(root)/'continuity/REFERENCE_OVERLAY.json'
+ if overlay_path.exists():
+  overlay=json.loads(overlay_path.read_text(encoding='utf-8'))
+  keys={'Characters':'Character','Episodes':'Episode','Consequences':'Event','Author Decisions':'Decision'}
+  out['Episodes']=[r for r in out['Episodes'] if r['Episode']!='S3 Episode 21']
+  for table,records in overlay.items():
+   if table not in keys:raise ValueError('Unexpected overlay table: '+table)
+   key=keys[table]; merged={r[key]:r for r in out[table]}
+   if len({r[key] for r in records})!=len(records):raise ValueError('Duplicate overlay keys: '+table)
+   for record in records:merged[record[key]]=record
+   out[table]=list(merged.values())
  return out
 if __name__=='__main__':
  root=Path(sys.argv[1] if len(sys.argv)>1 else '.');out=project(root)

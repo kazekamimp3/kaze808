@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 25,
+  "title": "No Promises",
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "delivery_policy": "Render the exact saved reviewed manuscript. Next interaction reconciles actual final-response delivery as DELIVERED_PROVISIONAL; author acceptance remains separate.",
+  "delivery_evidence": {
+    "manuscript": "S3_Episode_25_No_Promises.txt",
+    "sha256": "da0967077bb28a30fa369dd173d1f155cce0c2381888fd4b99c688f5fbf9a13d",
+    "author_acceptance": "NOT_CLAIMED"
+  },
+  "predecessor": {
+    "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+    "episode": 24,
+    "title": "House Rules",
+    "status": "DELIVERED_PROVISIONAL",
+    "exact_manuscript_sha256": "f2d763071b0d723184b4c5d26b3aff7a2e99b7795e217ccee4c13f278ad8d3fc",
+    "evidence": "Exact E24 text was delivered in the preceding conversation; latest user directs the two missing hookups to the next episode, then requests PLAY.",
+    "author_acceptance": "NOT_CLAIMED; romance execution criticized, continuation authorized",
+    "original_prepared_checkpoint_preserved": true,
+    "correction_scope": "Latest next-episode instruction supersedes the proposed E23/E24 retroactive revisions. E25 creates new encounters. E23/E24 originals and earlier event history remain unchanged. E21 presentation revision remains unapplied."
+  },
+  "source_authority": {
+    "manifest_sha256": "6bd2e87d866cdf2c30ba24ac2f19b0db38ee45ebaef8a708a83919a2b141d733",
+    "release": "THE_SINS_NOXUS_SOLO_BRIAR_FIRST_MEETING_20261018",
+    "all28_physical_sources_matched": true,
+    "latest_author_direction": "Both Samira and Elise have mutually chosen one-on-one off-page hookups with Kaze in E25. No retroactive hookup inserted into E23 or E24; no global automatic-attraction power activated.",
+    "source_installation": "NONE; separate new episode and checkpoint only"
+  },
+  "scene_clock": {
+    "opening": "E24 dusk/early dark at the fishing shelter, same day as Samira first living return and Elise first encounter.",
+    "elapsed": "Return to countryhouse that night, first Elise hookup, return to shelter and one completed overnight; next day walk to crossing and inland wayhouse, afternoon to evening there.",
+    "endpoint": "Evening/night the following day in lamplit Copper Cup wagon yard. Three completed overnight intervals since E20; fourth overnight has not happened.",
+    "world": "World time continues for ensemble and enemies. No unseen gang sale, payment, mission, travel or upgrade asserted."
+  },
+  "positions": {
+    "Kaze_Briar_Samira": "Together at cup-toss bench in Copper Cup wagon yard, regional inland Noxus at junction of river road and broader inland route. Copper Cup is a new ordinary local wayhouse, not a renamed capital or canonical major city.",
+    "rooms": "Two rooms paid for. Briar holds one key; Kaze used the other room with Samira. Actual overnight occupancy not yet enacted.",
+    "Elise": "Last directly seen alive in human form in undamaged west bedroom of the previously damaged countryhouse; returned through orchard gate by her own report. Later departure unknown.",
+    "Elise_guests": "Two remaining guests with luggage observed leaving by carriage on road past Kaze/Briar; destination and eventual fate unknown. No sailing or sacrifice enacted.",
+    "house_attacker": "Elise reports alive when carried out. Final prognosis/location unknown, not newly certified healed.",
+    "Orren": "Metalwork carrier at Copper Cup; last seen securing Samira letter in leather packet under coat. Wagon locked box holds traded pistol. Departure planned at first light, not enacted.",
+    "other_actors": "Baldur, Venn, all Sins, TPP and other selected cast retain last witnessed evidence, not frozen positions or invented subsequent events."
+  },
+  "relationships": {
+    "Kaze_Elise": "First mutually chosen sexual encounter in E25, human-form Elise, private one-on-one and non-graphic. Direct invitation, reciprocal teasing and remembered new intimacy. No alliance, debt, forgiveness, ownership, enchantment, toxin resistance or promise of future consent.",
+    "Kaze_Samira": "First mutually chosen sexual encounter in E25, private one-on-one and non-graphic. Samira explicitly retains weapons claim and anger at Arthur; Kaze states he would oppose her killing Arthur. Attraction does not resolve that conflict. Direct invitation and initiating kisses.",
+    "Kaze_Briar": "Two earlier hookups remain total, E21 and E24; none added here. Companionship continues. Briar challenges return to Elise and speaks her own boundaries, chooses where to sit, depart and spend evening, accepts own room key. No exclusivity, marriage or Sin admission.",
+    "Briar_Elise": "Briar rejects separation, unsolicited touch/control and further pillory discussion. Elise acknowledges she should have allowed departure. Local de-escalation, not general absolution or guaranteed future safety.",
+    "Briar_Samira": "Developing shared teasing and company; no sexual encounter, automatic attraction or new membership.",
+    "Arthur_message": "Samira says she will speak to Arthur herself when she finds him; Kaze confirms he has delivered no message. No contact or resolved confrontation."
+  },
+  "resources": {
+    "Kaze_cash": {
+      "opening_silver": 14,
+      "spent_silver": 6,
+      "purchase": "Two rooms and food for three at Copper Cup",
+      "ending_silver": 8,
+      "scope": "Known carried tranche only; no change to gang treasury"
+    },
+    "Kaze_condition_gear": "No new wound, ability, upgrade, copy or recovery claim. Previously healed wounds remain healed. Trousers knee still torn/stained; shirtless appearance retained. Black Marrow remains integrated/undrawn; no formed extra weapon, electrical or portal use.",
+    "Briar": "Pillory intact and never released. No new injury, frenzy, repair, upgrade or cash grant. Acquires own room key. Takes wrapped ham from house and shares it at shelter, consumed without recorded leftovers.",
+    "Samira_weapons": "Trades one of the two ordinary loaded single-shot pistols obtained E23 to Orren for one seat to next market town plus letter delivery to Lani/Miel. One ordinary loaded pistol remains, plus E23 knife, powder flask and ball pouch; no shot or reload in E25. Pistol/knife set bedside then visibly returned to belt before leaving room. Which of two ordinary pistols traded not specified.",
+    "Samira_injury": "Left wrist remains splinted, painful on jostling, one functional hand used for writing/handling/catching cup. No magical healing, recovered chest deficit or exact healing deadline invented.",
+    "Samira_original_gear": "Original specialist pistols and explosive blade still last confirmed in gang/BELLY custody. No return, duplicate, substitute special weapon, or completed manufacture.",
+    "letter": "New sealed letter addressed to Lani and Miel; written by Samira, Kaze holds paper, full contents not disclosed/read. Orren accepts actual custody in leather packet. Delivery promised, not completed. Makers receipt/response/location not established beyond carrier stated trade route.",
+    "cup_game": "Briar breaks one cup; she reports instructor paid one copper to end lesson. No money deducted from Kaze or new Briar wealth. Kaze knocks another off bench, Samira catches it intact with available hand; no new damage charge.",
+    "house": "E24 damage persists, servants clearing debris. No instantaneous rebuild, ownership transfer, compensation or new structural destruction.",
+    "other_holdings": "Six stolen Purple Pain cases, gang loot, TPP finances and all unrelated established holdings unresolved/unchanged by this episode."
+  },
+  "knowledge": {
+    "Kaze_Briar": "Hear Elise returned by orchard gate and report wounded man alive when carried away. See her still-hosted pair leave by carriage. Find Samira by known bridge/old mill direction plus actual driver report of taking her to Copper Cup. No telepathy, remote power tracking or map created.",
+    "Samira": "Learns Elise encounter and subsequent hookup from pair at table; source is spoken report, not remote knowledge. Knows Kaze would defend Arthur from lethal attack. No BELLY location, gang present location, entire Kaze kit or Elise secret affiliations disclosed.",
+    "Elise": "Knows pair renewed boundaries, Kaze desire and interest in seeing Vilemaw; hears he has not agreed to voyage. No full immortality mechanics or tattoo-based powers learned.",
+    "Briar": "Knows where Kaze goes with Elise because he tells her, has local evidence of first hookup and later hears Samira invitation. No private bedroom conversation automatically shared.",
+    "Orren": "Deals with living Samira and holds her addressed sealed letter; not shown reading contents. No gang secrets automatically learned.",
+    "witnesses": "Inn staff hear portions of table conversation and roof reference; their future retellings are not yet enacted. House staff witness pair return/depart, not private bedroom contents.",
+    "narrator": "Mimir narrative role retained, not physical party member. His concern about Elise passengers and interpretations remain his, not actor knowledge."
+  },
+  "outline_delta": {
+    "completed_now": [
+      "Elise reunion, local de-escalation and first hookup",
+      "Samira reunion, first hookup, one ordinary pistol traded for transport/message service",
+      "Samira letter written and entrusted to Orren",
+      "Briar separate lodging choice and continued voluntary companionship"
+    ],
+    "next_cursor": "Episode26, Copper Cup yard at night. Rooms paid; actual night, first-light departure and travel arrangements remain to enact.",
+    "reachable_next": "Samira intends paid seat to market town; Kaze asks Briar whether to see it and she agrees. No seats purchased for Kaze/Briar, mandatory escort contract, travel completion or permanent party merge.",
+    "Elise_Vilemaw": "Renewed contact and Kaze curiosity only. No sailing agreement, departure, precise route, confrontation, victory or allegiance.",
+    "retained_selected": "Kratos remains unplayed/unlocated; Baldur last seen alive excavating in E22; other selected native/crossover developments remain conditional on access and independent motives.",
+    "retained_consequences": "Harbor gate/casualties, quarry destruction, house injuries/damage, Samira original death/theft, Heisenberg stolen product and TPP debts remain live.",
+    "earlier_revisions": "No E21/E23/E24 manuscript corrected or overwritten. E25-specific latest author instruction implemented prospectively."
+  },
+  "episode_record_contract": {
+    "exact_manuscript_sha256": "da0967077bb28a30fa369dd173d1f155cce0c2381888fd4b99c688f5fbf9a13d",
+    "review_file": "S3_Episode_25_Review.json",
+    "body_words": 4039,
+    "assumed_wpm": 150,
+    "estimated_minutes": 26.93,
+    "measured_audio": false,
+    "complete_final_reread": true,
+    "author_acceptance": false
+  }
+}

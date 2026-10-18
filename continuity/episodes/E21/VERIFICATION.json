@@ -1,0 +1,23 @@
+{
+  "status": "LOCAL_EXACT_READBACK_VERIFIED",
+  "files": {
+    "S3_Episode_21_Checkpoint.json": {
+      "sha256": "d04b5cb58f3e1165af9b6ac24a7ba853b9c8cd95638e8888769e940c2102b5ee",
+      "bytes": 19766
+    },
+    "S3_Episode_21_Review.json": {
+      "sha256": "629614786e819fe1e4a85eac7391a7d4164355756c5f4c6f0f49d0cff5862f54",
+      "bytes": 9651
+    },
+    "working_brief.md": {
+      "sha256": "0daa02041c8aba56e151ef8afffb6d56a4a48b7860191ace4c424a8fc49736f4",
+      "bytes": 3088
+    },
+    "S3_Episode_21_Good_Company.txt": {
+      "sha256": "f5ae63c7b5bb546d4224d651eb06fd03083fc7b9219a1317839b172ef1d151f5",
+      "bytes": 23351
+    }
+  },
+  "episode_body_words": 3841,
+  "duration_estimate_minutes": 25.61
+}

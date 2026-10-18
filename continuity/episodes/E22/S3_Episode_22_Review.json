@@ -1,0 +1,133 @@
+{
+  "episode": 22,
+  "exact_manuscript_sha256": "2390c2554bce87c4bc1d3b39d3db0c3934c663ff2dc9ba827dfd86ec043ad6fe",
+  "assistant_editorial_judgment_not_author_acceptance": true,
+  "full_text_reads": [
+    {
+      "file": "episode_draft_v1.txt",
+      "sha256": "3d971cf25764469c398b22c0a84ced479a5fbc1d8d8210b99bcebd8b0dfe5c56",
+      "body_words": 3592,
+      "coverage": "Complete reopened text read beginning through final sentence in a separate tool result. No missing/truncated manuscript output."
+    },
+    {
+      "file": "episode_revised_v2.txt",
+      "sha256": "f263e8999bcff96585a2d0790ac0c8a759260ff86adc9347f5d2efe2772031ee",
+      "body_words": 4027,
+      "coverage": "Complete reopened text read beginning through final sentence in a separate tool result. No missing/truncated manuscript output."
+    },
+    {
+      "file": "episode_final_v3.txt",
+      "sha256": "2390c2554bce87c4bc1d3b39d3db0c3934c663ff2dc9ba827dfd86ec043ad6fe",
+      "body_words": 4014,
+      "coverage": "Complete reopened text read beginning through final sentence in a separate tool result. No missing/truncated manuscript output."
+    }
+  ],
+  "source_coverage": {
+    "reused_complete_reads": "Unchanged full E21 mechanics/psychology/voice/shared presentation/relationship source reads, recorded by E21 review hashes; no claim to have newly reread every large owner this turn. All453 extracted logical modules and28 attached physical sources verified against current manifest.",
+    "new_full_owner": "research/GOW_Baldur_Kratos_Fidelity_20261018.md",
+    "refreshed": "Full condensed outline, Briar owner, romance owner, installed instructions/read-first, source doctrine; scoped Kaze current mechanics, Shrine, sword, recovery, psychology S39 and current authority/outline sections. Broad partial routing outputs not counted as full owner reads.",
+    "fidelity_limit": "Uses retained primary developer and attributed transcript research; no fresh audiovisual audition or exhaustive new web research claimed.",
+    "hashes": {
+      "canon/characters/kaze_current.md": "7599d28a4c712ca076cf9cb43ff15e09d517e05b64c792d48ca77d6b17aa5c7a",
+      "canon/characters/kaze_psychology.md": "0dacdf0b26697a1589ec190d6ba4e1c0b081448f4b3ceb26c4422d4827ad4cca",
+      "canon/characters/kaze_future_progression.md": "2b4a05aa52ba7084319f3e13b64849086b8696a136dc38dc59e9d2a8d1ba0389",
+      "character_sources/Kaze_Character_Source.txt": "cf14cdd13d45ef60c157da6985e8e81977e1e548ccf9b6c2e5cb18dea91f18af",
+      "character_sources/season3/Briar_Character_Source.txt": "888b526a1ab8646f96965431d753cefd348a56100867ada2a8c2593031732613",
+      "character_sources/Black_Mimir_Narration_Source.txt": "d9c8d74faab73b72cf12f843a14f2961302e70ad39d480a680ed8727049e0bf5",
+      "research/GOW_Baldur_Kratos_Fidelity_20261018.md": "ece537a0fc4801123c16e31c7ab4d32cc4b34176a33f05e3000654db85a82a8f",
+      "canon/relationships/Kaze_Adult_Romance_20261018.md": "d1e07d0fcb71070c90616bbdbe087fd2acabecbaac6204557f4511626e7dc145",
+      "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md": "0071bd518d993d03473cb79bdeca58097dd7e2f66d950157188c0c0ecf76bb8f",
+      "topic_sources/Season_3_Condensed_Outline.txt": "72f82a4d93902486b723bde7df9ef5c6ff53d6e3b6ec2c5866290e23ff886088"
+    }
+  },
+  "actual_repairs": [
+    {
+      "category": "DRAFTING",
+      "found": "3592-word initial draft below3750 target; Briar contribution light outside spectator position.",
+      "repair": "Added recalled E21 line and substantive discussion of travel/carrying that she later chooses; added a concrete local gate-repair demand and a brief sensory-deprivation exchange that changes Kaze interest. Final length earned through those changes."
+    },
+    {
+      "category": "DRAFTING",
+      "found": "Narrator version/extraction phrasing overclaimed how Baldur arrived.",
+      "repair": "Replaced with recognition and explicit lack of arrival knowledge. Baldur reports snow/trees then quarry; no transport mechanism or exact extraction event invented."
+    },
+    {
+      "category": "DRAFTING",
+      "found": "Sword point entered a cliff without explicitly moving Baldur back against it.",
+      "repair": "Added actual push to cliff before penetration; right-hand sword and free left hand remain legible."
+    },
+    {
+      "category": "REVIEW",
+      "found": "Delayed-cut explanation overexplained compliance; seated-sword dismissal and pillory sentence needed precision.",
+      "repair": "Compressed explanation to actual cuts/full-seat trigger, maintained hand on hilt for dismissal, clarified pillory supports choice rather than producing sensation."
+    },
+    {
+      "category": "REVIEW",
+      "found": "Revised narration asserted the rider gave no attacker description without on-page evidence; ambiguous His after Baldur paragraph.",
+      "repair": "Removed unsupported report-content claim; explicitly names Kaze at sword dismissal."
+    }
+  ],
+  "source_passage_checks": [
+    {
+      "passage": "Kaze felt it, understood it, and stayed where he was.",
+      "source": "kaze_current TWO-LAYER DANGER PERCEPTION + Kaze_Character_Source injury-tolerant preference",
+      "resolution": "Incoming physical threat sensed, not hidden origin or curse; chosen opening is not forgotten warning system. Modest actual wounds then visible rapid recovery; no default full armor."
+    },
+    {
+      "passage": "His head shifted back into place.",
+      "source": "GOW_Baldur_Kratos_Fidelity2018 curse/neck-break survival",
+      "resolution": "Baldur remains cursed and unfeeling; physical damage/recovery and displacement do not break enchantment. No elemental charge/dragon/Odin contact."
+    },
+    {
+      "passage": "He swung Black Marrow through it...Cleave...He seated Black Marrow completely.",
+      "source": "kaze_future_progression Shrine cursed-energy integration + sword-only correction; kaze_current delayed sword cuts/full-seat trigger",
+      "resolution": "Cleave delivered through real singular sword contact on stone; valid cuts delayed by retained sword mechanic, released by actual full sheathing. Not empty-hand Cleave, telekinetic rock deletion or arbitrary thought detonation."
+    },
+    {
+      "passage": "See, now I do not want to / No. I wanted him over there.",
+      "source": "kaze_psychology S39 agency/pretext/role reassignment + GOW interaction register",
+      "resolution": "Curiosity/test becomes refusal to serve as demanded cure; terrain confinement/disengagement chosen. Broader soul/Domain/WCS tools not declared ineffective or tested against curse. No adaptation, bypass, reward or universal immunity granted; no permanent kill objective falsely confirmed."
+    },
+    {
+      "passage": "Harbor watch sent a rider this morning...Their gate fell down yesterday.",
+      "source": "E21 matching manuscript/checkpoint + Reputation_Propagation",
+      "resolution": "Newly enacted short-range report/order on same next morning. Local repair work responds to gate damage, not universal faction awareness. New quarry witnesses acquire actual observed evidence; no subsequent report asserted."
+    },
+    {
+      "passage": "I am trying to impress somebody...Again.",
+      "source": "E21 wall dialogue + current adult romance owner + physical super-jump owner",
+      "resolution": "Actual shared callback changes familiarity; she requests carrying; real hands/pillory clearance, launch, arc and landing. No old partner ledger or automatic sexual outcome."
+    }
+  ],
+  "weakest_span": "Initial middle exposition and low-weight observer role. Repaired by developing Baldur actual hope and Briar travel preference, while shortening delayed-cut explanation. Foreman exchange retained because it changes current rebuilding resources and makes E21 destruction produce a specific non-patrol consequence.",
+  "ending": "Current encounter ends by physical displacement and Kaze choosing departure, with Baldur visibly alive and digging out. Briar chooses new travel experience and a reciprocal again callback; no announced next opponent or forced conquest.",
+  "regressions": {
+    "R01": {
+      "status": "PASS",
+      "evidence": "Current danger perception, eye movement reading, living sword, Cleave, delayed cuts and jumps appear with real access; retired electricity/Swap/portals absent. No curse bypass assumed."
+    },
+    "R02": {
+      "status": "PASS",
+      "evidence": "Lip closes during fight, nose closes during dialogue, torso soreness fading. Clothing tear, black/red blood and dust persist. Quarry remains destroyed and people harmed."
+    },
+    "R03": {
+      "status": "NOT_APPLICABLE",
+      "evidence": "No BELLY scene, swallow, switching or new gang custody."
+    },
+    "R04": {
+      "status": "PASS",
+      "evidence": "Actual local rider order; narrator historical knowledge never becomes actor mistletoe knowledge. No remote group updates or frozen clock."
+    },
+    "R05": {
+      "status": "PASS",
+      "evidence": "Kaze voluntary curiosity becomes defiant refusal; Baldur presses/attacks seeking sensation; Briar chooses vantage, asks her own question and later requests carrying. Assistant editorial judgment, not measured fidelity."
+    }
+  },
+  "runtime": {
+    "body_words": 4014,
+    "assumed_wpm": 150,
+    "estimated_minutes": 26.76,
+    "measured_audio": false
+  },
+  "limits": "Exact whole-cast unseen state, detailed worker casualty accounting, Baldur eventual escape time and untested curse interactions remain unasserted. No material unsupported action left dependent on those questions."
+}

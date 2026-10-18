@@ -1,0 +1,147 @@
+{
+  "episode": 25,
+  "exact_manuscript_sha256": "da0967077bb28a30fa369dd173d1f155cce0c2381888fd4b99c688f5fbf9a13d",
+  "author_acceptance": false,
+  "full_text_read_coverage": [
+    {
+      "file": "episode_draft_v1.txt",
+      "sha256": "151b13326902d69e8e55bcfb531bbc0dd977e9f1c8dcb39aebfa565e59b3ff4f",
+      "coverage": "Entire completed text reopened through exec and read, no truncation. 3586 body words."
+    },
+    {
+      "file": "episode_revised_v2.txt",
+      "sha256": "f8724560e25b9777cdc91b4ae6da9be933360e92c9b45a0ef81c366be3f68949",
+      "coverage": "Entire revised text reopened and read, no truncation. Further repetition and witnessing repair identified."
+    },
+    {
+      "file": "episode_final_v3.txt",
+      "sha256": "da0967077bb28a30fa369dd173d1f155cce0c2381888fd4b99c688f5fbf9a13d",
+      "coverage": "Entire final text reopened and reread after all prose edits, no truncation. Copied byte-identically to final manuscript."
+    }
+  ],
+  "source_coverage": {
+    "fresh_complete_reads": "Exact E23 and E24 manuscripts; individual Kaze, Briar, Samira, Elise, Mimir, romance, sole scene doctrine; solo configuration and Briar override. E24 checkpoint available completely in preceding state plus refreshed output.",
+    "reused_complete_reads": "Unchanged full Kaze mechanics/psychology/progression/shared systems and scoped current authority, complete Samira/Elise structured profiles and research, as recorded in preceding E21–24 review records. No assertion that hashes constitute comprehension or that all large owners were freshly reread.",
+    "targeted_refresh": "Current manifest authority/cursor/routes, physical hashes, current authority resolution and availability, current solo schedule, native agendas with later overrides. Historical Samira-dead and Briar-companion outline entries yield to later life/first-meeting overrides and E21–25 evidence.",
+    "truncated_outputs": "Initial broad manifest/bootstrap and combined source outputs truncated; not counted as full reads. Relevant manuscript and smaller owner reads subsequently returned completely. Reused prior complete reads explicitly scoped.",
+    "hashes": {
+      "canon/characters/kaze_current.md": "7599d28a4c712ca076cf9cb43ff15e09d517e05b64c792d48ca77d6b17aa5c7a",
+      "canon/characters/kaze_psychology.md": "0dacdf0b26697a1589ec190d6ba4e1c0b081448f4b3ceb26c4422d4827ad4cca",
+      "canon/characters/kaze_future_progression.md": "2b4a05aa52ba7084319f3e13b64849086b8696a136dc38dc59e9d2a8d1ba0389",
+      "character_sources/Kaze_Character_Source.txt": "cf14cdd13d45ef60c157da6985e8e81977e1e548ccf9b6c2e5cb18dea91f18af",
+      "character_sources/season3/Briar_Character_Source.txt": "888b526a1ab8646f96965431d753cefd348a56100867ada2a8c2593031732613",
+      "character_sources/season3/Elise_Character_Source.txt": "123db809f5d29df0dfe7b7dd028c3ce6cb562e5d68e9179a1f8f50bd3d60f275",
+      "character_sources/Black_Mimir_Narration_Source.txt": "d9c8d74faab73b72cf12f843a14f2961302e70ad39d480a680ed8727049e0bf5",
+      "canon/relationships/Kaze_Adult_Romance_20261018.md": "d1e07d0fcb71070c90616bbdbe087fd2acabecbaac6204557f4511626e7dc145",
+      "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md": "0071bd518d993d03473cb79bdeca58097dd7e2f66d950157188c0c0ecf76bb8f",
+      "reference/runeterra/champion_appendix.md": "9756e792e2b3a1cd594f7023203f4a32f5c832ef6e98a3c6f8396f288424cf2a",
+      "reference/research/Noxus_Cast_Fidelity_Research.md": "f661f53882d00c20a5225ce2744e2f10ebed801cf535532270cc31269664faba",
+      "topic_sources/Season_3_Condensed_Outline.txt": "72f82a4d93902486b723bde7df9ef5c6ff53d6e3b6ec2c5866290e23ff886088",
+      "character_sources/season3/Samira_Character_Source.txt": "475700e0ddb141170639d482098d89e96bbba8d1ec3150fa5fcbaa0e0fb48bad"
+    },
+    "research_limits": "Retained textual primary-source research reused. No fresh web search, video audition or new claim of full performed vocal fidelity."
+  },
+  "actual_repairs": [
+    {
+      "category": "DRAFTING",
+      "finding": "V1 3586 words below current 3750 minimum; intimacy aftermath lacked meaningful individual development.",
+      "repair": "Developed Samira difficult letter to makers and her explicit wish for life beyond the shot; developed Elise/Kaze curiosity about Vilemaw without itinerary or outcome grant. Added useful choices/dialogue, no prolonged combat or erotic detail."
+    },
+    {
+      "category": "DRAFTING",
+      "finding": "V1 Briar said shelter had only most of a roof, contrary to E24 sound roof.",
+      "repair": "Changed to sound shelter and explicitly different damaged roof."
+    },
+    {
+      "category": "DRAFTING",
+      "finding": "Half-day arrival led too abruptly to supper/evening, with clinical known-purse wording.",
+      "repair": "Explicit afternoon arrival, wait for supper, evening transition; coins physically counted six paid/eight retained."
+    },
+    {
+      "category": "DRAFTING",
+      "finding": "Narrator no-miraculous-doorway and no-spell clauses read like compliance explanation.",
+      "repair": "Replaced with actual route, footman recognition and Mimir skeptical comparison."
+    },
+    {
+      "category": "DRAFTING",
+      "finding": "Weapons set bedside lacked explicit return before endpoint.",
+      "repair": "Samira visibly puts remaining pistol and knife back in belt before coming downstairs."
+    },
+    {
+      "category": "REVIEW",
+      "finding": "V2 repeated Later transition and generalized unwitnessed carriage departure.",
+      "repair": "V3 single Afterward transition, actual carriage passes pair on road; added lamplit yard for nighttime visual action."
+    }
+  ],
+  "source_passage_comparisons": [
+    {
+      "source": "E24 final shelter and orchard retreat; E25 opening/return",
+      "resolution": "Same-night voluntary walk back, newly observed human Elise at house with stated orchard-gate return. No teleport, prior encounter rewrite or forgotten threat."
+    },
+    {
+      "source": "Kaze psychology/character + E24 before-the-knife statement",
+      "resolution": "Thought I was finished wanting it / I am not recognizes changed decision and self-interest. Briar objects, speaks and leaves on own terms. No moral acquittal for Kaze or forced heroic rescue of guests."
+    },
+    {
+      "source": "Elise full owner: allure, predation, social access, non-universal influence",
+      "resolution": "Maintains guests and prospective voyage, acknowledges tactical mistake, chooses intimate invitation directly. No magical compulsion, universal resistance or redeemed personality asserted."
+    },
+    {
+      "source": "Samira full owner, E14 exact evidence reused, E23 weapons and injury",
+      "resolution": "Broken left wrist retained, one of two loaded ordinary pistols traded. Original specialist gear stays stolen. She chooses pleasure while explicitly retaining claim and hostility to Arthur."
+    },
+    {
+      "source": "Romance owner and latest E25 author instruction",
+      "resolution": "Two direct invitations, reciprocation, one-on-one off-page encounters, differentiated follow-up conversations; no orientation change, automatic seduction stat, debt exchange or general immunity. E23/E24 remain unchanged."
+    },
+    {
+      "source": "E23 bridge route and Samira knows whom to ask",
+      "resolution": "Known road followed; actual driver reports carrying her to new wayhouse and identifies Orren. Carrier relationship/service is newly enacted local fiction, not falsely cited historical canon."
+    },
+    {
+      "source": "Sole scene doctrine and source availability",
+      "resolution": "No combat necessary in relationship-focused continuation. Powerful alternatives available but unchosen; no invented threat or suppression of powers to prolong encounters."
+    }
+  ],
+  "five_review_responsibilities": {
+    "capabilities": "No removed powers/new upgrade. Briar strength in small jump/cup throw and Kaze ordinary controlled toss consistent with physical baseline. No unjustified wound/healing claims.",
+    "presentation": "Single title, Mimir first-person commentary, ordinary punctuation, clear routes/day transition/speakers. No internal production headings in manuscript.",
+    "world": "Witnessed damaged house, carried guests, real messenger and trade with future delivery pending. Offstage consequence clocks continue.",
+    "behavior": "Kaze provocative/self-interested, Briar autonomy/curiosity, Elise composure/appetite, Samira thrill/anger/humor retained; editorial judgment, not automated certification.",
+    "story": "Specific adult relationships advance and material weapons thread moves by trade/letter. Ends on voluntary social activity and reachable travel interest, not forced battle or universal reconciliation."
+  },
+  "weakest_span": "Initial travel and rule-like narrator explanations. Removed compliance phrasing; retained brief wall/cart humor for reciprocal Briar agency and location transition. Deepened letter passage instead of padding travel.",
+  "regressions": {
+    "cash_and_custody": {
+      "status": "PASS",
+      "evidence": "14 minus 6 = 8; one ordinary pistol transfers to Orren, one remains loaded with Samira; blade/pistol restored to belt; letter actual handover only."
+    },
+    "house_and_shelter": {
+      "status": "PASS",
+      "evidence": "Countryhouse damage persists; fishing shelter sound roof; no invented repair."
+    },
+    "relationship_continuity": {
+      "status": "PASS",
+      "evidence": "Elise1/Samira1 newly enacted; Briar2 remains; no exclusivity, admission or forgiveness. Latest next-episode instruction supersedes retroactive revision proposal."
+    },
+    "actor_knowledge": {
+      "status": "PASS",
+      "evidence": "Samira learns house story at table. Driver route knowledge reported. No secret read of letter, BELLY disclosure or remote delivery."
+    },
+    "combat_spectacle": {
+      "status": "NOT_APPLICABLE",
+      "evidence": "No fight staged; prior fights only discussed."
+    },
+    "measured_TTS": {
+      "status": "NOT_RUN",
+      "evidence": "Text-only episode; runtime estimate uses assumed rate."
+    }
+  },
+  "runtime": {
+    "body_words": 4039,
+    "assumed_wpm": 150,
+    "estimated_minutes": 26.93,
+    "measured_audio": false
+  },
+  "remaining_limits": "Narrative quality and chemistry are editorial judgments. No claim of author acceptance, fresh audiovisual research, live source installation or enacted next-day departure. Earlier E21 presentation correction remains unapplied."
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 24,
+  "title": "House Rules",
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "delivery_policy": "Render exact final reviewed text. Reconcile actual final response at next interaction as DELIVERED_PROVISIONAL; author acceptance separate.",
+  "delivery_evidence": {
+    "manuscript": "S3_Episode_24_House_Rules.txt",
+    "sha256": "f2d763071b0d723184b4c5d26b3aff7a2e99b7795e217ccee4c13f278ad8d3fc",
+    "author_acceptance": "NOT_CLAIMED"
+  },
+  "predecessor": {
+    "episode": 23,
+    "status": "DELIVERED_PROVISIONAL",
+    "sha256": "9614e04b871c5b6cd3dc69596433ad9d59acdbb8380d5a82edd76fc81471bd63",
+    "evidence": "Exact matching episode delivered in preceding final response; user later requests PLAY. No separate author acceptance. E21 romance passage flagged for correction, original remains unchanged; no rewrite silently imported.",
+    "next_episode": 24
+  },
+  "source_authority": {
+    "manifest_sha256": "6bd2e87d866cdf2c30ba24ac2f19b0db38ee45ebaef8a708a83919a2b141d733",
+    "release": "THE_SINS_NOXUS_SOLO_BRIAR_FIRST_MEETING_20261018",
+    "all28_physical_sources_matched": true,
+    "note": "ActualE21–23 delivery supersedes packagedE20 cursor. Latest conversational romance direction applies within non-graphic presentation. No Project source installation performed byPLAY."
+  },
+  "scene_clock": {
+    "opening": "Same midday asE23 ending, pair on upstream road from rivercrossing.",
+    "endpoint": "Dusk/early dark the same day, after afternoonreception and chosenintimacy. No dawn or completed new overnight; still two overnight intervals sinceE20.",
+    "world": "Ensemble presentation paused only. Alloffstage clocks continue; no newly asserted gang mission/sale/payment/response."
+  },
+  "positions": {
+    "Kaze_Briar": "At empty old fishing shelter beside quiet riverbend along sidepath beyond countryhouse. Bench under sound roof, open side faceswater; dusk, sitting together. Remain inlandNoxus regionalvalley, no sea/regionaltransfer.",
+    "Elise": "Lastseen alive in giantspiderform moving overorchardwall intoorchard, branchesreceding. Exactlaterdestination/reversion/treatment unknown; Kaze allowsdeparture.",
+    "Venn": "Alive leaving sittingroom and emerginghousegarden; finalexchange withBriar. Subsequenttravel unplayed.",
+    "house_attacker": "Alive lastobserved, onehand severed and head/faceinjury, upstairsdoorway. Two servants approach withcloths/basin; ultimatefateunknown.",
+    "guests_staff": "Evacuating damagedhall; carriages departing court. No completecasualtytally or guaranteedalluninjured.",
+    "Samira_Baldur_ensemble": "No new observation. Preserve exact lastconfirmedE23/E22/E20 information, not assume positions frozen."
+  },
+  "relationships": {
+    "Kaze_Briar": "Firstmeeting/hookupE21; currentsecondmutuallychosenhookup occursE24. Two total. Shared dance, distinct reciprocalteasing, independent refusal and communicationagreement: Kaze says he would tell her before taking such avoyage. No exclusivity, marriage, admission or guaranteednextdestination.",
+    "Elise_Kaze": "First current solo encounter: overtadultflirting and reciprocalverbalplay, recruitmentrefused, hostilityafterknife/web. No intimatecontact/hookup, allegiance, contract, charm-immunity or forgiveness established.",
+    "Elise_Briar": "First current solo encounter; refusal of separation and offeredrestraint intervention. No ownership, formeracquaintance or sourceorganizationrecognition granted.",
+    "Briar_Venn": "New adultNoxian collector condescends towardrestraint; Briar later drags him clear offoreleg and demands respect. Gratitude expressed, no paiddebt/contract/friendship."
+  },
+  "resources": {
+    "cash": "Kaze14silver knowntranche unchanged. No payment, stolenvaluables or newwalletbalance. Briar cash unestablished.",
+    "Kaze_gear": "BlackMarrow singular; drawnright-handed fromleft-hip temporarysheath, used againstwrist/webs, laterfullysheathed and receded. Noacquisition/upgrade/copy. Pants knee remains torn and priorstains retained; blackAirForces unchanged.",
+    "Kaze_condition": "No new onpagewound. Prior healedlip/nose notreopened; no imposedongoing disability. He turns intowebpath, breakswallanchor, no toxicbite occurred.",
+    "Briar_condition": "No new onpagewound. Pillory intact, neverreleased, remains underhercontrol. Freshblood triggershungryattention whichsheactivelyredirects withrestrainthelp; no frenzy/cure. Smallbloodspot onpillory rubbedlater.",
+    "food_wine": "E23skewersfinished, Kaze discardsstick; Briar eats receptionroast. Both offeredwine, Briarsetsuntastedcupaside; Kaze sets his scarcelytouchedcupdown, exactingestionunquantified. No intoxicationestablished.",
+    "Elise": "Retains transformation/webcapacity; loses currentreceptioncontrol and concealedpersona beforewitnesses. No actualartifactloss, severedlimb, death or quantifiedhealing shown.",
+    "house_damage": "Plaster wall torn; upstairs shutters/balconyrail shattered; glassroof breached; terracepillar/arch partlycollapsed; disorder/damagedfurnishings. Not entirehouse destroyed or acquired bypair.",
+    "other_holdings": "All prior gang loot, originalSamiraweapons and sixPurplePaincases lastknowncustody preserved. No offscreen transactions."
+  },
+  "combat": {
+    "trigger": "Houseattacker barsBriar exit and reaches knife towardherside aftershe refusesrestraint offer.",
+    "sequence": "Kaze senses/reads actualattack and severshand; Briar strikesattackerwithpillory. Elise websKaze swordarm then transforms. He tearsweakwallanchor, cutsremainingstrands, left-handgrapple/shoulderlift throwsher throughbalcony ontohallroof. Groundlanding cracksstonearch. Elise physicallywithdraws; noextendedparity.",
+    "outcome": "No confirmeddeath inE24. Attacker severelyinjured; Elisealive/retreating. Pairunwounded, no powerreward.",
+    "constraints": "Webcasting/rappel uses realanchors. No permanentElisecontrol, instantescapeportal, automaticpoisonresistance or uniqueartifact theft."
+  },
+  "knowledge": {
+    "Kaze_Briar": "LearnElise name, noblehostess role, claimed ShadowIslesroute and patronVilemaw throughspeech; curse stated aloudbeforeKaze reacts. Witness coercion, webattack andspiderform. SourceBlackRose affiliation, Helia address, fullcultstructure and returnmechanism not disclosed.",
+    "Elise": "Hears pairnames and since-yesterdaytravelreport. Sees Briarcontrol/refusal/pillory, Kaze unusualsword and dominantphysicalability. No remoteSinsdossier, BELLY location, actualfullkit, immortalityrule or E21/E22crimes automaticallyknown.",
+    "Venn": "Hears recruitmentproposal and patron claims, sees violence/transformation, recognizes need to addressBriar directly. Promise oflongevity not verified. Fatherhistory is newlyspoken selfreport.",
+    "house_witnesses": "Downstairsguests see giantspider fallthroughroof and Kaze terraceaction; they do not automatically hearprivateproposal. Servants/attacker differingactualsightlines preserved.",
+    "narrator": "Mimir supplies broadElise/BlackMist context tolistener only; possibleinfluence onVenn explicitly uncertain. Expectedrumors not certifiedfutureevents.",
+    "remote": "No report actually sent toBlackRose,Swain,Vilemaw,gang orothers. Samira message toArthur remains undelivered."
+  },
+  "outline_delta": {
+    "completed_now": [
+      "First current soloElise encounter and failedrecruitment",
+      "Actualweb/spiderconfrontation and voluntarydisengagement",
+      "Pairfirstdance and secondconsensualnon-graphic intimacy"
+    ],
+    "Elise_status": "ACTIVE_ALIVE_HOSTILE; reception/sacrifice recruitment disrupted withactualwitnesses. Future response possible through herresources and trueknowledge, not automaticallyplannedretaliation enacted.",
+    "new_access_information": "ShadowIsles andVilemaw name heard. No sailingagreement, boat, maps, departure, route-specificknowledge or futurevictory.",
+    "next_cursor": "Episode25 begins from rivershelter atdusk unless a supportedelapsedtransition ischosen. Third overnight notyetcompleted.",
+    "retained_unplayed": "Kratos separateunplayed/unlocated; other selectedcrossovers/natives/duels remain pending atactualaccess opportunities. No compulsoryIsles-nextroute.",
+    "retained_consequences": "Samira alive butoriginalgear stolen; E21harborgate/casualties, E22quarrydestruction, E20Heisenberg stolenproduct andTPP debt remain unresolved. No unseenresolution.",
+    "previous_feedback": "E21 original romancepresentation flagged; original/eventhistory retained until actualseparaterevision, no silentretroactive rewrite."
+  },
+  "episode_record_contract": {
+    "exact_manuscript_sha256": "f2d763071b0d723184b4c5d26b3aff7a2e99b7795e217ccee4c13f278ad8d3fc",
+    "review_file": "S3_Episode_24_Review.json",
+    "body_words": 3782,
+    "assumed_wpm": 150,
+    "estimated_minutes": 25.21,
+    "measured_audio": false,
+    "complete_final_reread": true,
+    "author_acceptance": false
+  }
+}

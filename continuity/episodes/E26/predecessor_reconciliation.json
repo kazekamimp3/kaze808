@@ -1,0 +1,11 @@
+{
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 25,
+  "title": "No Promises",
+  "status": "DELIVERED_PROVISIONAL",
+  "exact_manuscript_sha256": "da0967077bb28a30fa369dd173d1f155cce0c2381888fd4b99c688f5fbf9a13d",
+  "original_prepared_checkpoint_preserved": true,
+  "evidence": "E25 exact final was delivered in the preceding turn; current user requests play. Reconciliation is separate from the preserved original prepared checkpoint.",
+  "author_acceptance": "NOT_CLAIMED; continuation authorized",
+  "earlier_revisions": "No retroactive E21/E23/E24/E25 revision. E21 presentation correction remains unapplied. Prospective Elise/Samira E25 encounters preserved."
+}

@@ -457,5 +457,13 @@
   "scheduler": {
     "installed": false,
     "reason": "Connected-service writes performed in this session; no background credentials or unattended synchronization configured"
+  },
+  "connected_play": {
+    "startup": "PLAY_START_HERE.md",
+    "current": "continuity/CURRENT.json",
+    "ledger": "continuity/DELIVERY_LEDGER.json",
+    "overlay": "continuity/REFERENCE_OVERLAY.json",
+    "refresh": "Explicit connected tools each authorized PLAY; no unattended synchronization",
+    "pre_handoff_commit": "d1024666f2b2000d3a2eae311bf11ffb364f4bdb"
   }
 }

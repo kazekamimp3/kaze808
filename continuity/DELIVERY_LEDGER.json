@@ -1,0 +1,313 @@
+{
+  "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "manifest_sha256": "6bd2e87d866cdf2c30ba24ac2f19b0db38ee45ebaef8a708a83919a2b141d733",
+  "episodes": [
+    {
+      "episode": 21,
+      "title": "Good Company",
+      "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "manuscript": "continuity/episodes/E21/S3_Episode_21_Good_Company.txt",
+      "manuscript_sha256": "f5ae63c7b5bb546d4224d651eb06fd03083fc7b9219a1317839b172ef1d151f5",
+      "checkpoint": "continuity/episodes/E21/S3_Episode_21_Checkpoint.json",
+      "checkpoint_sha256": "d04b5cb58f3e1165af9b6ac24a7ba853b9c8cd95638e8888769e940c2102b5ee",
+      "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_basis": "Exact delivered transcript carried forward in this conversation and matching successor checkpoint reconciliation; E26 is the latest delivered endpoint confirmed by current author request. Original prepared checkpoint is immutable.",
+      "predecessor_sha256": "12c91032405edf9c8aae912d55f52d66481d6e4ecdf151e02f8727ce27905d58",
+      "preserved_files": [
+        {
+          "path": "continuity/episodes/E21/S3_Episode_21_Checkpoint.json",
+          "sha256": "d04b5cb58f3e1165af9b6ac24a7ba853b9c8cd95638e8888769e940c2102b5ee",
+          "bytes": 19766
+        },
+        {
+          "path": "continuity/episodes/E21/S3_Episode_21_Good_Company.txt",
+          "sha256": "f5ae63c7b5bb546d4224d651eb06fd03083fc7b9219a1317839b172ef1d151f5",
+          "bytes": 23351
+        },
+        {
+          "path": "continuity/episodes/E21/S3_Episode_21_Review.json",
+          "sha256": "629614786e819fe1e4a85eac7391a7d4164355756c5f4c6f0f49d0cff5862f54",
+          "bytes": 9651
+        },
+        {
+          "path": "continuity/episodes/E21/VERIFICATION.json",
+          "sha256": "0acf59faf8164a36b6e4fc6b091340e90f0fa4e8a59e274317e6813ea1a83829",
+          "bytes": 719
+        },
+        {
+          "path": "continuity/episodes/E21/working_brief.md",
+          "sha256": "0daa02041c8aba56e151ef8afffb6d56a4a48b7860191ace4c424a8fc49736f4",
+          "bytes": 3088
+        }
+      ]
+    },
+    {
+      "episode": 22,
+      "title": "A Bigger Hammer",
+      "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "manuscript": "continuity/episodes/E22/S3_Episode_22_A_Bigger_Hammer.txt",
+      "manuscript_sha256": "2390c2554bce87c4bc1d3b39d3db0c3934c663ff2dc9ba827dfd86ec043ad6fe",
+      "checkpoint": "continuity/episodes/E22/S3_Episode_22_Checkpoint.json",
+      "checkpoint_sha256": "e37b3909a3de1f541b2d1a2b0deedcf74aee88ce733babb33214b900a0a80526",
+      "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_basis": "Exact delivered transcript carried forward in this conversation and matching successor checkpoint reconciliation; E26 is the latest delivered endpoint confirmed by current author request. Original prepared checkpoint is immutable.",
+      "predecessor_sha256": "f5ae63c7b5bb546d4224d651eb06fd03083fc7b9219a1317839b172ef1d151f5",
+      "preserved_files": [
+        {
+          "path": "continuity/episodes/E22/S3_Episode_22_A_Bigger_Hammer.txt",
+          "sha256": "2390c2554bce87c4bc1d3b39d3db0c3934c663ff2dc9ba827dfd86ec043ad6fe",
+          "bytes": 24186
+        },
+        {
+          "path": "continuity/episodes/E22/S3_Episode_22_Checkpoint.json",
+          "sha256": "e37b3909a3de1f541b2d1a2b0deedcf74aee88ce733babb33214b900a0a80526",
+          "bytes": 17480
+        },
+        {
+          "path": "continuity/episodes/E22/S3_Episode_22_Review.json",
+          "sha256": "0e3cc04266c0a1f193c66be29ff2e93c95801f0e53b50b241f599d2044d5c7ef",
+          "bytes": 9542
+        },
+        {
+          "path": "continuity/episodes/E22/VERIFICATION.json",
+          "sha256": "b0102573db028657b61806ae2cced5d0c5268eef3c1435e13ecb49a8f927db95",
+          "bytes": 357
+        },
+        {
+          "path": "continuity/episodes/E22/attached_source_verification.json",
+          "sha256": "787f2c4e3ea7c64f3c095f1d585fe88edf5c59cbe9086449ba36967d5d4b35a4",
+          "bytes": 5355
+        },
+        {
+          "path": "continuity/episodes/E22/predecessor_reconciliation.json",
+          "sha256": "c15a0a8bb0773d59e358cd4fd64d16b3a1d66f7e5e8d9621cc6741bc11a257ce",
+          "bytes": 442
+        },
+        {
+          "path": "continuity/episodes/E22/working_brief.txt",
+          "sha256": "32b50fdecc615fd07e58f42b5c9aaf16e2b35adcd5c7973b3652c403c31c3f4f",
+          "bytes": 4097
+        }
+      ]
+    },
+    {
+      "episode": 23,
+      "title": "The Wrong Story",
+      "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "manuscript": "continuity/episodes/E23/S3_Episode_23_The_Wrong_Story.txt",
+      "manuscript_sha256": "9614e04b871c5b6cd3dc69596433ad9d59acdbb8380d5a82edd76fc81471bd63",
+      "checkpoint": "continuity/episodes/E23/S3_Episode_23_Checkpoint.json",
+      "checkpoint_sha256": "94e0f124edda35137c2ba5323ef8adc3fd82811e6f7ee36fa94794fb9a6cca68",
+      "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_basis": "Exact delivered transcript carried forward in this conversation and matching successor checkpoint reconciliation; E26 is the latest delivered endpoint confirmed by current author request. Original prepared checkpoint is immutable.",
+      "predecessor_sha256": "2390c2554bce87c4bc1d3b39d3db0c3934c663ff2dc9ba827dfd86ec043ad6fe",
+      "preserved_files": [
+        {
+          "path": "continuity/episodes/E23/S3_Episode_23_Checkpoint.json",
+          "sha256": "94e0f124edda35137c2ba5323ef8adc3fd82811e6f7ee36fa94794fb9a6cca68",
+          "bytes": 8681
+        },
+        {
+          "path": "continuity/episodes/E23/S3_Episode_23_Review.json",
+          "sha256": "ba2784293d7ef865dfc4911322fa67f7d455ceb259a4c4231f29a03e293042e1",
+          "bytes": 10800
+        },
+        {
+          "path": "continuity/episodes/E23/S3_Episode_23_The_Wrong_Story.txt",
+          "sha256": "9614e04b871c5b6cd3dc69596433ad9d59acdbb8380d5a82edd76fc81471bd63",
+          "bytes": 24591
+        },
+        {
+          "path": "continuity/episodes/E23/VERIFICATION.json",
+          "sha256": "20a3d2e6c5cefdfa4993d0b9dbfef66f002c7647fef074e8d3b5bc1449ab7518",
+          "bytes": 916
+        },
+        {
+          "path": "continuity/episodes/E23/attached_source_verification.json",
+          "sha256": "787f2c4e3ea7c64f3c095f1d585fe88edf5c59cbe9086449ba36967d5d4b35a4",
+          "bytes": 5355
+        },
+        {
+          "path": "continuity/episodes/E23/predecessor_reconciliation.json",
+          "sha256": "77dbe3da79faaaba330f5ffe5dd1c501f96eebda5c23cff008ce464892b045fc",
+          "bytes": 319
+        },
+        {
+          "path": "continuity/episodes/E23/working_brief.txt",
+          "sha256": "5eb9db30e5d90d3dc188d1acd32a1eb1be69f7fbf7b46c5c19cefc3c774f333a",
+          "bytes": 4162
+        }
+      ]
+    },
+    {
+      "episode": 24,
+      "title": "House Rules",
+      "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "manuscript": "continuity/episodes/E24/S3_Episode_24_House_Rules.txt",
+      "manuscript_sha256": "f2d763071b0d723184b4c5d26b3aff7a2e99b7795e217ccee4c13f278ad8d3fc",
+      "checkpoint": "continuity/episodes/E24/S3_Episode_24_Checkpoint.json",
+      "checkpoint_sha256": "8f92ff2cdcb7c4664388fbfcf1edd9a2f151e9afc8acbe7fd2186670098bb599",
+      "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_basis": "Exact delivered transcript carried forward in this conversation and matching successor checkpoint reconciliation; E26 is the latest delivered endpoint confirmed by current author request. Original prepared checkpoint is immutable.",
+      "predecessor_sha256": "9614e04b871c5b6cd3dc69596433ad9d59acdbb8380d5a82edd76fc81471bd63",
+      "preserved_files": [
+        {
+          "path": "continuity/episodes/E24/S3_Episode_24_Checkpoint.json",
+          "sha256": "8f92ff2cdcb7c4664388fbfcf1edd9a2f151e9afc8acbe7fd2186670098bb599",
+          "bytes": 8988
+        },
+        {
+          "path": "continuity/episodes/E24/S3_Episode_24_House_Rules.txt",
+          "sha256": "f2d763071b0d723184b4c5d26b3aff7a2e99b7795e217ccee4c13f278ad8d3fc",
+          "bytes": 23386
+        },
+        {
+          "path": "continuity/episodes/E24/S3_Episode_24_Review.json",
+          "sha256": "0e01f3bd2d9f114faff94fac2d9a064cd3222cd87ff2fcc46104e503f3540c40",
+          "bytes": 12191
+        },
+        {
+          "path": "continuity/episodes/E24/VERIFICATION.json",
+          "sha256": "d19ba348cf828a52f51c8011dc85180a4fbf04bc7de02e1448f4bbd5a507c8e7",
+          "bytes": 880
+        },
+        {
+          "path": "continuity/episodes/E24/attached_source_verification.json",
+          "sha256": "787f2c4e3ea7c64f3c095f1d585fe88edf5c59cbe9086449ba36967d5d4b35a4",
+          "bytes": 5355
+        },
+        {
+          "path": "continuity/episodes/E24/predecessor_reconciliation.json",
+          "sha256": "0144fa57e28dda6f575a9d721ad9a552b59dff345a0a8aa30d653fc64b3efa87",
+          "bytes": 397
+        },
+        {
+          "path": "continuity/episodes/E24/working_brief.txt",
+          "sha256": "7d48fc54fc4e308c647a96bb76733c36d2c0adf8989a765a86d74e5ac77dfb1f",
+          "bytes": 3161
+        }
+      ]
+    },
+    {
+      "episode": 25,
+      "title": "No Promises",
+      "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "manuscript": "continuity/episodes/E25/S3_Episode_25_No_Promises.txt",
+      "manuscript_sha256": "da0967077bb28a30fa369dd173d1f155cce0c2381888fd4b99c688f5fbf9a13d",
+      "checkpoint": "continuity/episodes/E25/S3_Episode_25_Checkpoint.json",
+      "checkpoint_sha256": "ea313133936933caffddf00d8296ccc049d8b0b5c50f45da82a5b25ad21c1407",
+      "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_basis": "Exact delivered transcript carried forward in this conversation and matching successor checkpoint reconciliation; E26 is the latest delivered endpoint confirmed by current author request. Original prepared checkpoint is immutable.",
+      "predecessor_sha256": "f2d763071b0d723184b4c5d26b3aff7a2e99b7795e217ccee4c13f278ad8d3fc",
+      "preserved_files": [
+        {
+          "path": "continuity/episodes/E25/S3_Episode_25_Checkpoint.json",
+          "sha256": "ea313133936933caffddf00d8296ccc049d8b0b5c50f45da82a5b25ad21c1407",
+          "bytes": 10957
+        },
+        {
+          "path": "continuity/episodes/E25/S3_Episode_25_No_Promises.txt",
+          "sha256": "da0967077bb28a30fa369dd173d1f155cce0c2381888fd4b99c688f5fbf9a13d",
+          "bytes": 24902
+        },
+        {
+          "path": "continuity/episodes/E25/S3_Episode_25_Review.json",
+          "sha256": "4f7ab16927162e0576f8cff8c9577050d3d3b842e5fa8c9d7d75779d7dbebae5",
+          "bytes": 10497
+        },
+        {
+          "path": "continuity/episodes/E25/VERIFICATION.json",
+          "sha256": "af4536755847688f2276839f047663d797283bd01d30afd39bfd8e52eff99ef6",
+          "bytes": 529
+        },
+        {
+          "path": "continuity/episodes/E25/attached_source_verification.json",
+          "sha256": "79e40f670acda986b8b7ae34dc1e6f060da579dde6c735f9d4247a0f4c1c3d0f",
+          "bytes": 3977
+        },
+        {
+          "path": "continuity/episodes/E25/predecessor_reconciliation.json",
+          "sha256": "01dcb98db50adc190ae19a710c715bb8629961fa41f9c89161b23a4ee3d13d06",
+          "bytes": 796
+        },
+        {
+          "path": "continuity/episodes/E25/working_brief.txt",
+          "sha256": "ab5a28cf94e0bd624fbca870fef575f6156ff6de1a5696d0cbbae8eac5b442dd",
+          "bytes": 4019
+        }
+      ]
+    },
+    {
+      "episode": 26,
+      "title": "Room to Move",
+      "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "manuscript": "continuity/episodes/E26/S3_Episode_26_Room_to_Move.txt",
+      "manuscript_sha256": "4f638b1d11a1677fc2c5e44d00695f77f28638b9f0c5b545e3b1f08cc27d8a21",
+      "checkpoint": "continuity/episodes/E26/S3_Episode_26_Checkpoint.json",
+      "checkpoint_sha256": "45fe3a13fb1bc92da93628cbdfcefeedf77b20b14d7ad4b8783a1e11d27a32c5",
+      "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_basis": "Exact delivered transcript carried forward in this conversation and matching successor checkpoint reconciliation; E26 is the latest delivered endpoint confirmed by current author request. Original prepared checkpoint is immutable.",
+      "predecessor_sha256": "da0967077bb28a30fa369dd173d1f155cce0c2381888fd4b99c688f5fbf9a13d",
+      "preserved_files": [
+        {
+          "path": "continuity/episodes/E26/S3_Episode_26_Checkpoint.json",
+          "sha256": "45fe3a13fb1bc92da93628cbdfcefeedf77b20b14d7ad4b8783a1e11d27a32c5",
+          "bytes": 11139
+        },
+        {
+          "path": "continuity/episodes/E26/S3_Episode_26_Review.json",
+          "sha256": "4ba63b9324f2ea8634f2010742fc85ee5c5438e8ea4920644c14e8443898fe46",
+          "bytes": 11223
+        },
+        {
+          "path": "continuity/episodes/E26/S3_Episode_26_Room_to_Move.txt",
+          "sha256": "4f638b1d11a1677fc2c5e44d00695f77f28638b9f0c5b545e3b1f08cc27d8a21",
+          "bytes": 23429
+        },
+        {
+          "path": "continuity/episodes/E26/VERIFICATION.json",
+          "sha256": "8d362ec325fdacc8f10d24bc6679d5b73454db127e088551515e76dc83be6ffa",
+          "bytes": 428
+        },
+        {
+          "path": "continuity/episodes/E26/attached_source_verification.json",
+          "sha256": "20919ffdbd6fa578e8087c75d1c26fc4893f490fb88e0f7dfb16a06c75938ada",
+          "bytes": 6385
+        },
+        {
+          "path": "continuity/episodes/E26/predecessor_reconciliation.json",
+          "sha256": "99cab81dd34ffcba7c458ffa5d7937ec1ca50f71f6022a0f3ba583c36f02b3fb",
+          "bytes": 696
+        },
+        {
+          "path": "continuity/episodes/E26/working_brief.txt",
+          "sha256": "be9fe5e9e8606c44a454c1905a0d411c07530fe50b40d7aca1c124b65e0c1a32",
+          "bytes": 4746
+        }
+      ]
+    }
+  ],
+  "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. No historical prepared checkpoint rewritten. E21 presentation complaint remains unapplied; E23/E24 prospective encounter correction was enacted in E25, not retroactively.",
+  "current_delivered_episode": 26,
+  "next_episode": 27,
+  "author_overrides": [
+    {
+      "path": "continuity/author/Kaze_Romance_OFF_After_E26.json",
+      "sha256": "4a40186ce5614247b67403f0cfb388884ba71d1f5272b413e530016afe76557a"
+    }
+  ],
+  "prepared_episode": null
+}

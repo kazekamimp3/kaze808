@@ -16,3 +16,4 @@ jobs:
       - run: python -m pip install PyYAML==6.0.2
       - run: python scripts/validate.py .
       - run: python scripts/test_integrity.py
+      - run: python scripts/validate_continuity.py .

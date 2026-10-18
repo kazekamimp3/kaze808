@@ -1,0 +1,7 @@
+{
+  "episode": 23,
+  "status": "DELIVERED_PROVISIONAL",
+  "sha256": "9614e04b871c5b6cd3dc69596433ad9d59acdbb8380d5a82edd76fc81471bd63",
+  "evidence": "Exact matching episode delivered in preceding final response; user later requests PLAY. No separate author acceptance. E21 romance passage flagged for correction, original remains unchanged; no rewrite silently imported.",
+  "next_episode": 24
+}

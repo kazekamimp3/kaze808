@@ -1,0 +1,11 @@
+{
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 24,
+  "title": "House Rules",
+  "status": "DELIVERED_PROVISIONAL",
+  "exact_manuscript_sha256": "f2d763071b0d723184b4c5d26b3aff7a2e99b7795e217ccee4c13f278ad8d3fc",
+  "evidence": "Exact E24 text was delivered in the preceding conversation; latest user directs the two missing hookups to the next episode, then requests PLAY.",
+  "author_acceptance": "NOT_CLAIMED; romance execution criticized, continuation authorized",
+  "original_prepared_checkpoint_preserved": true,
+  "correction_scope": "Latest next-episode instruction supersedes the proposed E23/E24 retroactive revisions. E25 creates new encounters. E23/E24 originals and earlier event history remain unchanged. E21 presentation revision remains unapplied."
+}

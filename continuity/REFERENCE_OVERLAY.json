@@ -1,0 +1,163 @@
+{
+  "Episodes": [
+    {
+      "Episode": "S3 Episode 21: Good Company",
+      "Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Delivery Status": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
+      "Manuscript SHA256": "f5ae63c7b5bb546d4224d651eb06fd03083fc7b9219a1317839b172ef1d151f5",
+      "Checkpoint Source": "continuity/episodes/E21/S3_Episode_21_Checkpoint.json"
+    },
+    {
+      "Episode": "S3 Episode 22: A Bigger Hammer",
+      "Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Delivery Status": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
+      "Manuscript SHA256": "2390c2554bce87c4bc1d3b39d3db0c3934c663ff2dc9ba827dfd86ec043ad6fe",
+      "Checkpoint Source": "continuity/episodes/E22/S3_Episode_22_Checkpoint.json"
+    },
+    {
+      "Episode": "S3 Episode 23: The Wrong Story",
+      "Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Delivery Status": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
+      "Manuscript SHA256": "9614e04b871c5b6cd3dc69596433ad9d59acdbb8380d5a82edd76fc81471bd63",
+      "Checkpoint Source": "continuity/episodes/E23/S3_Episode_23_Checkpoint.json"
+    },
+    {
+      "Episode": "S3 Episode 24: House Rules",
+      "Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Delivery Status": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
+      "Manuscript SHA256": "f2d763071b0d723184b4c5d26b3aff7a2e99b7795e217ccee4c13f278ad8d3fc",
+      "Checkpoint Source": "continuity/episodes/E24/S3_Episode_24_Checkpoint.json"
+    },
+    {
+      "Episode": "S3 Episode 25: No Promises",
+      "Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Delivery Status": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
+      "Manuscript SHA256": "da0967077bb28a30fa369dd173d1f155cce0c2381888fd4b99c688f5fbf9a13d",
+      "Checkpoint Source": "continuity/episodes/E25/S3_Episode_25_Checkpoint.json"
+    },
+    {
+      "Episode": "S3 Episode 26: Room to Move",
+      "Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Delivery Status": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
+      "Manuscript SHA256": "4f638b1d11a1677fc2c5e44d00695f77f28638b9f0c5b545e3b1f08cc27d8a21",
+      "Checkpoint Source": "continuity/episodes/E26/S3_Episode_26_Checkpoint.json"
+    }
+  ],
+  "Characters": [
+    {
+      "Character": "Samira",
+      "Continuity Status": "Alive; E23 return and E25 encounter occurred; E26 aboard Orren wagon toward Lask.",
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Authority Source": "character_sources/season3/Samira_Character_Source.txt; continuity/CURRENT.json",
+      "Evidence Level": "Exact delivered E21–26 + scoped author override; acceptance separate",
+      "Notes": "Complete source routes: [\"character_sources/season3/Samira_Character_Source.txt\"]\nCurrent E26 reconciliation: Left wrist still braced; one ordinary loaded pistol, knife, powder and balls. Specialist weapons remain stolen BELLY loot. Letter with Orren undelivered. No gang admission or automatic Kratos-name knowledge."
+    },
+    {
+      "Character": "Kaze",
+      "Continuity Status": "E26 delivered: on foot beside Lask road with Briar, ahead of Orren wagon; romance OFF prospectively.",
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Authority Source": "character_sources/Kaze_Character_Source.txt; continuity/CURRENT.json",
+      "Evidence Level": "Exact delivered E21–26 + scoped author override; acceptance separate",
+      "Notes": "Complete source routes: [\"character_sources/Kaze_Character_Source.txt\", \"canon/characters/kaze_current.md\", \"canon/characters/kaze_psychology.md\", \"canon/characters/other_originals.md\", \"canon/characters/s37_kit_application.md\", \"research_sources/Kaze_Removal_Evidence.txt\", \"canon/characters/kaze_future_progression.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Group_Relationships.txt\", \"canon/relationships/Kaze_Adult_Romance_20261018.md\"]\nCurrent E26 reconciliation: Six silver from known tranche; functional wounds healed, torn trousers/blood/dust persist. Black Marrow integrated. No new upgrade. E26 knowledge limits apply."
+    },
+    {
+      "Character": "Kratos",
+      "Continuity Status": "Post-Valhalla; E26 first encounter occurred; departed alone toward quarry hills.",
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Authority Source": "research/GOW_Baldur_Kratos_Fidelity_20261018.md; continuity/CURRENT.json",
+      "Evidence Level": "Exact delivered E21–26 + scoped author override; acceptance separate",
+      "Notes": "Do not import historical placements, grants or superseded membership.\nCurrent E26 reconciliation: Alive, injured but walking. No defeat, surrender, recruitment or scheduled rematch. Own claim of prior Baldur killing does not break present curse."
+    },
+    {
+      "Character": "Baldur",
+      "Continuity Status": "Cursed 2018; E22 encounter occurred; alive, escape later reported firsthand in E26.",
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Authority Source": "research/GOW_Baldur_Kratos_Fidelity_20261018.md; continuity/CURRENT.json",
+      "Evidence Level": "Exact delivered E21–26 + scoped author override; acceptance separate",
+      "Notes": "Do not import historical placements, grants or superseded membership.\nCurrent E26 reconciliation: Exact current location unknown. Curse intact; no mistletoe knowledge or cure granted to Kaze."
+    },
+    {
+      "Character": "Elise",
+      "Continuity Status": "E24 encounter and E25 encounter occurred; last observed at damaged countryhouse.",
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Authority Source": "character_sources/season3/Elise_Character_Source.txt; continuity/CURRENT.json",
+      "Evidence Level": "Exact delivered E21–26 + scoped author override; acceptance separate",
+      "Notes": "Complete source routes: [\"character_sources/season3/Elise_Character_Source.txt\"]\nCurrent E26 reconciliation: Alive; Vilemaw agenda retained; no agreed voyage, forgiveness, redemption or current remote observation."
+    },
+    {
+      "Character": "Briar",
+      "Continuity Status": "E21 first meeting occurred; E26 voluntary companion with Kaze; stays with him.",
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Authority Source": "character_sources/season3/Briar_Character_Source.txt; continuity/CURRENT.json",
+      "Evidence Level": "Exact delivered E21–26 + scoped author override; acceptance separate",
+      "Notes": "Complete source routes: [\"character_sources/season3/Briar_Character_Source.txt\", \"canon/relationships/Kaze_Adult_Romance_20261018.md\"]\nCurrent E26 reconciliation: Pillory intact, uninjured, no automatic Sin admission. Two prior hookups preserved as history; romance OFF does not enact breakup or departure."
+    }
+  ],
+  "Author Decisions": [
+    {
+      "Decision": "Kaze romance OFF after E26; Briar stays",
+      "Effective Date": "After E26; latest explicit author instruction",
+      "Authority Path": "continuity/author/Kaze_Romance_OFF_After_E26.json",
+      "Scope": "Prospective Kaze romance, flirting, sexual pursuit, hookups and escalation OFF. Preserve delivered history. Briar stays; no breakup, departure or membership change.",
+      "Supersedes": "Earlier Kaze romance ON only; all unrelated author decisions retained."
+    },
+    {
+      "Decision": "Adult romance and agency",
+      "Effective Date": "2026-10-18; qualified after E26",
+      "Authority Path": "canon/relationships/Kaze_Adult_Romance_20261018.md; continuity/author/Kaze_Romance_OFF_After_E26.json",
+      "Scope": "Historical source remains preserved; Kaze romance OFF prospectively. Other characters retain agency and source-supported relationships.",
+      "Supersedes": "Prospective ON execution superseded by latest explicit OFF instruction; history not erased."
+    }
+  ],
+  "Consequences": [
+    {
+      "Event": "E21 delivered reconciliation",
+      "Episode Evidence": "continuity/episodes/E21/S3_Episode_21_Checkpoint.json",
+      "Affected Actors": "See full checkpoint for actual position, witnesses and knowledge; no global information transfer",
+      "World Effect": "Kaze reaches Noxus and first meets Briar. Harbor-watch casualties/gate destruction occur; first mutual off-page hookup and voluntary companionship. Known cash 20→15. No old shared history restored.",
+      "Acceptance Status": "DELIVERED_PROVISIONAL; not automatic author acceptance"
+    },
+    {
+      "Event": "E22 delivered reconciliation",
+      "Episode Evidence": "continuity/episodes/E22/S3_Episode_22_Checkpoint.json",
+      "Affected Actors": "See full checkpoint for actual position, witnesses and knowledge; no global information transfer",
+      "World Effect": "Cursed Baldur first encounter; quarry wrecked by sword-delivered delayed cuts. Baldur alive and digging, curse intact. Kaze wounds heal; cloth damage persists.",
+      "Acceptance Status": "DELIVERED_PROVISIONAL; not automatic author acceptance"
+    },
+    {
+      "Event": "E23 delivered reconciliation",
+      "Episode Evidence": "continuity/episodes/E23/S3_Episode_23_Checkpoint.json",
+      "Affected Actors": "See full checkpoint for actual position, witnesses and knowledge; no global information transfer",
+      "World Effect": "Samira appears alive while historical killing/theft remain. She kills Berren, gains two ordinary pistols, knife and ammunition. Kaze food cost 15→14. No hookup in this episode.",
+      "Acceptance Status": "DELIVERED_PROVISIONAL; not automatic author acceptance"
+    },
+    {
+      "Event": "E24 delivered reconciliation",
+      "Episode Evidence": "continuity/episodes/E24/S3_Episode_24_Checkpoint.json",
+      "Affected Actors": "See full checkpoint for actual position, witnesses and knowledge; no global information transfer",
+      "World Effect": "Elise first encounter at countryhouse, violence/webs/destruction, Elise escapes alive. Pair reaches fishing shelter; Briar second off-page hookup. No Elise hookup or Vilemaw voyage.",
+      "Acceptance Status": "DELIVERED_PROVISIONAL; not automatic author acceptance"
+    },
+    {
+      "Event": "E25 delivered reconciliation",
+      "Episode Evidence": "continuity/episodes/E25/S3_Episode_25_Checkpoint.json",
+      "Affected Actors": "See full checkpoint for actual position, witnesses and knowledge; no global information transfer",
+      "World Effect": "Return to countryhouse; first Elise hookup and later first Samira hookup, mutual/off-page. Samira trades one pistol for Orren seat and letter service. Kaze 14→8. No retroactive first-encounter rewrite.",
+      "Acceptance Status": "DELIVERED_PROVISIONAL; not automatic author acceptance"
+    },
+    {
+      "Event": "E26 delivered reconciliation",
+      "Episode Evidence": "continuity/episodes/E26/S3_Episode_26_Checkpoint.json",
+      "Affected Actors": "See full checkpoint for actual position, witnesses and knowledge; no global information transfer",
+      "World Effect": "Fourth overnight since E20; Orren/Samira depart. Kratos first encounter/fight; Baldur escape report, curse-break method unknown. Kratos leaves alone. Kaze pays 2 silver:8→6. Pair rejoins wagon on road; Lask not reached; letter undelivered.",
+      "Acceptance Status": "DELIVERED_PROVISIONAL; not automatic author acceptance"
+    },
+    {
+      "Event": "Briar/Kaze prior-history invalidated",
+      "Episode Evidence": "state/work/Briar_First_Meeting_Author_Override_20261018.json; continuity/episodes/E21/S3_Episode_21_Checkpoint.json",
+      "Affected Actors": "Kaze; Briar",
+      "World Effect": "Pre-E21 shared history remains superseded. First actual meeting now occurred in delivered E21; voluntary companionship continues through E26. No old gifts, balance or gang admission restored.",
+      "Acceptance Status": "Author configuration + delivered E21–26; acceptance separate"
+    }
+  ]
+}

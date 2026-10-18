@@ -1,0 +1,888 @@
+{
+  "tables": {
+    "tables": [
+      {
+        "id": "tblsOUdXP1ddAXlcd",
+        "name": "Characters",
+        "primaryFieldId": "fldEn8VjDGIchFB3c",
+        "fields": [
+          {
+            "id": "fldEn8VjDGIchFB3c",
+            "name": "Character",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldvFqVKntPsCuzfM",
+            "name": "Continuity Status",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fld75rD0I7OJ7Xy52",
+            "name": "Current Branch",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldgFywttrbgvTVXu",
+            "name": "Authority Source",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldtBvZDQAlee1tsq",
+            "name": "Evidence Level",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldv5TiuKPXqBDlfY",
+            "name": "Notes",
+            "type": "multilineText"
+          }
+        ]
+      },
+      {
+        "id": "tblWgCrRZlvAFxcnH",
+        "name": "Episodes",
+        "primaryFieldId": "fldQ39CgD7JS7hGcP",
+        "fields": [
+          {
+            "id": "fldQ39CgD7JS7hGcP",
+            "name": "Episode",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldOWQBOc43AuglSK",
+            "name": "Branch",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldvxHY1hGNN4xryw",
+            "name": "Delivery Status",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldyFVOk2heNHrFwo",
+            "name": "Manuscript SHA256",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldLPqL6ESRBGsJr5",
+            "name": "Checkpoint Source",
+            "type": "singleLineText"
+          }
+        ]
+      },
+      {
+        "id": "tblGXrug2XupEizQu",
+        "name": "Abilities and Equipment",
+        "primaryFieldId": "fldMAyQ2URi5VRkDy",
+        "fields": [
+          {
+            "id": "fldMAyQ2URi5VRkDy",
+            "name": "System or Item",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldQ7k5EdoRqc8iQt",
+            "name": "Owner",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldSq2f0Vhj6HlZwj",
+            "name": "Availability",
+            "type": "singleLineText"
+          },
+          {
+            "id": "flddi14NsIpbJp2G3",
+            "name": "Mechanics Owner",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldaW9VZMyDYk1xXp",
+            "name": "Limitations",
+            "type": "multilineText"
+          }
+        ]
+      },
+      {
+        "id": "tblEwLrh6iRNL4b1P",
+        "name": "Consequences",
+        "primaryFieldId": "fld7LyjMFXYELt2WI",
+        "fields": [
+          {
+            "id": "fld7LyjMFXYELt2WI",
+            "name": "Event",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldpuuAoGZuCJduYC",
+            "name": "Episode Evidence",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldjqI2ye216KwNbQ",
+            "name": "Affected Actors",
+            "type": "multilineText"
+          },
+          {
+            "id": "fldXbUzxTdYlRXTiH",
+            "name": "World Effect",
+            "type": "multilineText"
+          },
+          {
+            "id": "fld2dEG7IUxHtVK7S",
+            "name": "Acceptance Status",
+            "type": "singleLineText"
+          }
+        ]
+      },
+      {
+        "id": "tbl5dFC7den6PyDSw",
+        "name": "Author Decisions",
+        "primaryFieldId": "fldF3P4g2S0YowQ5t",
+        "fields": [
+          {
+            "id": "fldF3P4g2S0YowQ5t",
+            "name": "Decision",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fld2N9Ztqc5mk0QCF",
+            "name": "Effective Date",
+            "type": "singleLineText"
+          },
+          {
+            "id": "flda9CovKY88iog2q",
+            "name": "Authority Path",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldFKPNQHs18hEZLQ",
+            "name": "Scope",
+            "type": "multilineText"
+          },
+          {
+            "id": "fld5eZDQSfrG8xRXG",
+            "name": "Supersedes",
+            "type": "multilineText"
+          }
+        ]
+      },
+      {
+        "id": "tbl5BbvaMkUCnBSmr",
+        "name": "Research Evidence",
+        "primaryFieldId": "fldH4fHhMKXfePLXX",
+        "fields": [
+          {
+            "id": "fldH4fHhMKXfePLXX",
+            "name": "Source",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldlJuHBxAXgJ7nMb",
+            "name": "Actor or Topic",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldBGd0CB6CAtLEWf",
+            "name": "Source Type",
+            "type": "singleLineText"
+          },
+          {
+            "id": "flddaOR57nVxvAiv0",
+            "name": "Verified Coverage",
+            "type": "multilineText"
+          },
+          {
+            "id": "fldLr4N61hCvNoKMc",
+            "name": "Open Gaps",
+            "type": "multilineText"
+          }
+        ]
+      },
+      {
+        "id": "tblBBMeYq55LGq9dk",
+        "name": "Source Owners",
+        "description": "Derived navigation for all exact manifest owners. Hashes verify bytes, not canon acceptance. Original source hierarchy remains controlling.",
+        "primaryFieldId": "fldeB4IAWA6cywmsy",
+        "fields": [
+          {
+            "id": "fldeB4IAWA6cywmsy",
+            "name": "Logical Owner",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldFyi8ykcQ2GVkLy",
+            "name": "Physical Source",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldMAWmcPdWoNtwTG",
+            "name": "Role",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldHa5zppimcr5OJa",
+            "name": "SHA256",
+            "type": "singleLineText"
+          },
+          {
+            "id": "fldUNqRtFyk8LqFft",
+            "name": "Byte Offset",
+            "type": "number"
+          },
+          {
+            "id": "fld0Zgi4WH0cFjs32",
+            "name": "Byte Length",
+            "type": "number"
+          },
+          {
+            "id": "fldMlFOa8Tu4LIocq",
+            "name": "Release",
+            "type": "singleLineText"
+          }
+        ]
+      }
+    ]
+  },
+  "characters": {
+    "records": [
+      {
+        "id": "rec8QirJf4xBVh094",
+        "createdTime": "2026-10-18T22:20:09.000Z",
+        "cellValuesByFieldId": {
+          "fld75rD0I7OJ7Xy52": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldEn8VjDGIchFB3c": "Samira",
+          "fldgFywttrbgvTVXu": "character_sources/season3/Samira_Character_Source.txt",
+          "fldtBvZDQAlee1tsq": "Derived exact-owner route; no new life-status/event adjudication",
+          "fldv5TiuKPXqBDlfY": "Complete source routes: [\"character_sources/season3/Samira_Character_Source.txt\"]",
+          "fldvFqVKntPsCuzfM": "Source catalog only; current life, membership and location require scoped state owner"
+        }
+      },
+      {
+        "id": "recNrlIiUZJeQc8Xu",
+        "createdTime": "2026-10-18T21:26:56.000Z",
+        "cellValuesByFieldId": {
+          "fld75rD0I7OJ7Xy52": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldEn8VjDGIchFB3c": "Kaze",
+          "fldgFywttrbgvTVXu": "character_sources/Kaze_Character_Source.txt",
+          "fldtBvZDQAlee1tsq": "Derived exact-owner route; no new life-status/event adjudication",
+          "fldv5TiuKPXqBDlfY": "Complete source routes: [\"character_sources/Kaze_Character_Source.txt\", \"canon/characters/kaze_current.md\", \"canon/characters/kaze_psychology.md\", \"canon/characters/other_originals.md\", \"canon/characters/s37_kit_application.md\", \"research_sources/Kaze_Removal_Evidence.txt\", \"canon/characters/kaze_future_progression.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Group_Relationships.txt\", \"canon/relationships/Kaze_Adult_Romance_20261018.md\"]\nLast confirmed position: Inside BELLY at platform edge; no new injury, sword not drawn this episode. E19 wound remains closed; no new combat adaptation.",
+          "fldvFqVKntPsCuzfM": "E20 inside BELLY in Zaun; Noxus solo planned, not traveled"
+        }
+      },
+      {
+        "id": "recWuboACoYmMuwkZ",
+        "createdTime": "2026-10-18T22:20:10.000Z",
+        "cellValuesByFieldId": {
+          "fld75rD0I7OJ7Xy52": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldEn8VjDGIchFB3c": "Kratos",
+          "fldgFywttrbgvTVXu": "research/GOW_Baldur_Kratos_Fidelity_20261018.md",
+          "fldtBvZDQAlee1tsq": "Author configuration / full owner required",
+          "fldv5TiuKPXqBDlfY": "Do not import historical placements, grants or superseded membership.",
+          "fldvFqVKntPsCuzfM": "Selected prospective; no arrival/encounter/outcome awarded"
+        }
+      },
+      {
+        "id": "recdqse4i2mwQQXO8",
+        "createdTime": "2026-10-18T22:20:10.000Z",
+        "cellValuesByFieldId": {
+          "fld75rD0I7OJ7Xy52": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldEn8VjDGIchFB3c": "Baldur",
+          "fldgFywttrbgvTVXu": "research/GOW_Baldur_Kratos_Fidelity_20261018.md",
+          "fldtBvZDQAlee1tsq": "Author configuration / full owner required",
+          "fldv5TiuKPXqBDlfY": "Do not import historical placements, grants or superseded membership.",
+          "fldvFqVKntPsCuzfM": "Selected prospective; no arrival/encounter/outcome awarded"
+        }
+      },
+      {
+        "id": "recmapUv7rQI8gv95",
+        "createdTime": "2026-10-18T22:20:09.000Z",
+        "cellValuesByFieldId": {
+          "fld75rD0I7OJ7Xy52": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldEn8VjDGIchFB3c": "Elise",
+          "fldgFywttrbgvTVXu": "character_sources/season3/Elise_Character_Source.txt",
+          "fldtBvZDQAlee1tsq": "Derived exact-owner route; no new life-status/event adjudication",
+          "fldv5TiuKPXqBDlfY": "Complete source routes: [\"character_sources/season3/Elise_Character_Source.txt\"]",
+          "fldvFqVKntPsCuzfM": "Source catalog only; current life, membership and location require scoped state owner"
+        }
+      },
+      {
+        "id": "recp5eOxToImMlRRq",
+        "createdTime": "2026-10-18T21:26:56.000Z",
+        "cellValuesByFieldId": {
+          "fld75rD0I7OJ7Xy52": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldEn8VjDGIchFB3c": "Briar",
+          "fldgFywttrbgvTVXu": "character_sources/season3/Briar_Character_Source.txt",
+          "fldtBvZDQAlee1tsq": "Derived exact-owner route; no new life-status/event adjudication",
+          "fldv5TiuKPXqBDlfY": "Complete source routes: [\"character_sources/season3/Briar_Character_Source.txt\", \"canon/relationships/Kaze_Adult_Romance_20261018.md\"]\nLast confirmed position: No active shared BELLY/travel placement under latest correction; first meeting with Kaze planned in Noxus. Read state/work/Briar_First_Meeting_Author_Override_20261018.json",
+          "fldvFqVKntPsCuzfM": "Independent; first meeting pending; no prior shared history"
+        }
+      }
+    ],
+    "metadata": {
+      "totalRecordCount": 6
+    }
+  },
+  "tblWgCrRZlvAFxcnH": {
+    "records": [
+      {
+        "id": "rec9II3NNkwz7MggI",
+        "createdTime": "2026-10-18T21:26:58.000Z",
+        "cellValuesByFieldId": {
+          "fldLPqL6ESRBGsJr5": "https://drive.google.com/file/d/1sAN7mD4Ni9fi_9xYykMeo9N0niQQ8GFX/view?usp=drivesdk — S3_Episode_21_Checkpoint.json (prospective only). Live cursor remains E20; story time unchanged. Existing reviewed draft reused; 22 cited source hashes match current release.",
+          "fldOWQBOc43AuglSK": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldQ39CgD7JS7hGcP": "S3 Episode 21: Good Company",
+          "fldvxHY1hGNN4xryw": "PREPARED_SAVED_NOT_YET_DELIVERED; NO PLAY; acceptance not inferred",
+          "fldyFVOk2heNHrFwo": "f5ae63c7b5bb546d4224d651eb06fd03083fc7b9219a1317839b172ef1d151f5"
+        }
+      },
+      {
+        "id": "recLaSEngQ2rceKPY",
+        "createdTime": "2026-10-18T21:26:58.000Z",
+        "cellValuesByFieldId": {
+          "fldLPqL6ESRBGsJr5": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json",
+          "fldOWQBOc43AuglSK": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldQ39CgD7JS7hGcP": "S3 Episode 20: The Express Service",
+          "fldvxHY1hGNN4xryw": "Delivered; acceptance not inferred; scoped later author overrides apply",
+          "fldyFVOk2heNHrFwo": "12c91032405edf9c8aae912d55f52d66481d6e4ecdf151e02f8727ce27905d58"
+        }
+      },
+      {
+        "id": "recRAHqw6h9n13hJE",
+        "createdTime": "2026-10-18T22:20:12.000Z",
+        "cellValuesByFieldId": {
+          "fldLPqL6ESRBGsJr5": "state/episodes/Season_3_Episode_19_Checkpoint_Current.json",
+          "fldOWQBOc43AuglSK": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldQ39CgD7JS7hGcP": "S3 Episode 19: Narrow Mercy",
+          "fldvxHY1hGNN4xryw": "Delivered; acceptance not inferred; scoped later author overrides apply",
+          "fldyFVOk2heNHrFwo": "bad564d22fd6064be29168de434d604d7aeeb48b1274277214a7fc3eb03fa126"
+        }
+      }
+    ],
+    "metadata": {
+      "totalRecordCount": 3
+    }
+  },
+  "tbl5dFC7den6PyDSw": {
+    "records": [
+      {
+        "id": "recB0ZF6tGLnMx23K",
+        "createdTime": "2026-10-18T22:20:17.000Z",
+        "cellValuesByFieldId": {
+          "fld2N9Ztqc5mk0QCF": "2026-10-18",
+          "fld5eZDQSfrG8xRXG": "Only same-responsibility conflicts within explicit scope; no blanket history or source deletion",
+          "fldF3P4g2S0YowQ5t": "Authority and conflict resolution",
+          "fldFKPNQHs18hEZLQ": "Read complete scoped owner. No story advancement; source hierarchy retained.",
+          "flda9CovKY88iog2q": "authority/Resolution_Register.json"
+        }
+      },
+      {
+        "id": "recF8HP96d2iduSK2",
+        "createdTime": "2026-10-18T22:20:17.000Z",
+        "cellValuesByFieldId": {
+          "fld2N9Ztqc5mk0QCF": "2026-10-18",
+          "fld5eZDQSfrG8xRXG": "Only same-responsibility conflicts within explicit scope; no blanket history or source deletion",
+          "fldF3P4g2S0YowQ5t": "Female living-return scope and exceptions",
+          "fldFKPNQHs18hEZLQ": "Read complete scoped owner. No story advancement; source hierarchy retained.",
+          "flda9CovKY88iog2q": "state/work/Female_Roster_Restoration_20261018.json"
+        }
+      },
+      {
+        "id": "recL1L0cbGSjJZWBc",
+        "createdTime": "2026-10-18T22:20:17.000Z",
+        "cellValuesByFieldId": {
+          "fld2N9Ztqc5mk0QCF": "2026-10-18",
+          "fld5eZDQSfrG8xRXG": "Only same-responsibility conflicts within explicit scope; no blanket history or source deletion",
+          "fldF3P4g2S0YowQ5t": "Kaze solo / ensemble presentation hold",
+          "fldFKPNQHs18hEZLQ": "Read complete scoped owner. No story advancement; source hierarchy retained.",
+          "flda9CovKY88iog2q": "state/work/Kaze_Solo_Romance_20261018.json"
+        }
+      },
+      {
+        "id": "recMrOV7Lr5ENWskZ",
+        "createdTime": "2026-10-18T21:26:59.000Z",
+        "cellValuesByFieldId": {
+          "fld2N9Ztqc5mk0QCF": "2026-10-18",
+          "fld5eZDQSfrG8xRXG": "Only same-responsibility conflicts within explicit scope; no blanket history or source deletion",
+          "fldF3P4g2S0YowQ5t": "Briar first-meeting override",
+          "fldFKPNQHs18hEZLQ": "Read complete scoped owner. No story advancement; source hierarchy retained.",
+          "flda9CovKY88iog2q": "state/work/Briar_First_Meeting_Author_Override_20261018.json"
+        }
+      },
+      {
+        "id": "recSdfoDoAE2ukoOb",
+        "createdTime": "2026-10-18T22:20:17.000Z",
+        "cellValuesByFieldId": {
+          "fld2N9Ztqc5mk0QCF": "2026-10-18",
+          "fld5eZDQSfrG8xRXG": "Only same-responsibility conflicts within explicit scope; no blanket history or source deletion",
+          "fldF3P4g2S0YowQ5t": "Recovery, repairs, Inside Job and TPP portrayal",
+          "fldFKPNQHs18hEZLQ": "Read complete scoped owner. No story advancement; source hierarchy retained.",
+          "flda9CovKY88iog2q": "canon/presentation/Season3_Approved_Portrayal_Patch_20261018.md"
+        }
+      },
+      {
+        "id": "recc4gRb0TtHTeHVu",
+        "createdTime": "2026-10-18T21:26:59.000Z",
+        "cellValuesByFieldId": {
+          "fld2N9Ztqc5mk0QCF": "2026-10-18",
+          "fld5eZDQSfrG8xRXG": "Only same-responsibility conflicts within explicit scope; no blanket history or source deletion",
+          "fldF3P4g2S0YowQ5t": "Removed identities exclusion",
+          "fldFKPNQHs18hEZLQ": "Read complete scoped owner. No story advancement; source hierarchy retained.",
+          "flda9CovKY88iog2q": "authority/Character_Removal_20261018.json"
+        }
+      },
+      {
+        "id": "recrnow6NqcBFe8rG",
+        "createdTime": "2026-10-18T22:20:17.000Z",
+        "cellValuesByFieldId": {
+          "fld2N9Ztqc5mk0QCF": "2026-10-18",
+          "fld5eZDQSfrG8xRXG": "Only same-responsibility conflicts within explicit scope; no blanket history or source deletion",
+          "fldF3P4g2S0YowQ5t": "Adult romance and agency",
+          "fldFKPNQHs18hEZLQ": "Read complete scoped owner. No story advancement; source hierarchy retained.",
+          "flda9CovKY88iog2q": "canon/relationships/Kaze_Adult_Romance_20261018.md"
+        }
+      }
+    ],
+    "metadata": {
+      "totalRecordCount": 7
+    }
+  },
+  "tblEwLrh6iRNL4b1P": {
+    "records": [
+      {
+        "id": "rec45Z2IA7aUQQTT8",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Delivered provisional; limited author overrides take precedence",
+          "fld7LyjMFXYELt2WI": "E20 consequence 10",
+          "fldXbUzxTdYlRXTiH": "Noxian harbor damage and threatened earlier report persist, but no earlier or new report is presumed received.",
+          "fldjqI2ye216KwNbQ": "See exact event and scoped actor knowledge",
+          "fldpuuAoGZuCJduYC": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json#/actor_knowledge_and_consequences/9"
+        }
+      },
+      {
+        "id": "rec5maBOSaQ2F3WEw",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: other_balances",
+          "fldXbUzxTdYlRXTiH": "Apply increments to retained balances; no invented whole treasury. E14 remaining cash/valuables unaffected.",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/other_balances"
+        }
+      },
+      {
+        "id": "rec6Pyh9VhjTYrilE",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Delivered provisional; limited author overrides take precedence",
+          "fld7LyjMFXYELt2WI": "E20 consequence 09",
+          "fldXbUzxTdYlRXTiH": "No footage of outside fight exists; Charles/Meatwad only filmed actual inside interactions.",
+          "fldjqI2ye216KwNbQ": "See exact event and scoped actor knowledge",
+          "fldpuuAoGZuCJduYC": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json#/actor_knowledge_and_consequences/8"
+        }
+      },
+      {
+        "id": "rec6wKZ91ooXZrymi",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: retained_equipment",
+          "fldXbUzxTdYlRXTiH": "E18 repaired Critic sight, mask cheek/cowl/headlamp remain repaired. Hawking projector still separately cracked/unrepaired. Existing revolvers, rifle, artifacts and collectibles unchanged; no future tech gain.",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/retained_equipment"
+        }
+      },
+      {
+        "id": "rec81ip54MA9iExM1",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: shots_fired",
+          "fldXbUzxTdYlRXTiH": "0",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/shots_fired"
+        }
+      },
+      {
+        "id": "rec9Wg7BvnSdcFvbw",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: TPP",
+          "fldXbUzxTdYlRXTiH": "2 silver 10 copper last known; 4 silver rent due this evening, 3 silver loan. Unfinished Tahiti painting and four mangoes at HQ. Existing tattoos/artist consequences unchanged.",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/TPP"
+        }
+      },
+      {
+        "id": "recAeZLTzgYOxtMFm",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Delivered provisional; limited author overrides take precedence",
+          "fld7LyjMFXYELt2WI": "E20 consequence 01",
+          "fldXbUzxTdYlRXTiH": "Pell supplies lower freight road/red water tower/Dessa reporting instructions from hiring office; no prior plant visit invented.",
+          "fldjqI2ye216KwNbQ": "See exact event and scoped actor knowledge",
+          "fldpuuAoGZuCJduYC": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json#/actor_knowledge_and_consequences/0"
+        }
+      },
+      {
+        "id": "recAqpaGWT5ErpA7i",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Delivered provisional; limited author overrides take precedence",
+          "fld7LyjMFXYELt2WI": "E20 consequence 06",
+          "fldXbUzxTdYlRXTiH": "Dessa knows Daniel first name, appearance, named ship, fitter Pell; observed robbery with visible other raiders. No automatic full legal names or notebook targeting knowledge transferred to Heisenberg.",
+          "fldjqI2ye216KwNbQ": "See exact event and scoped actor knowledge",
+          "fldpuuAoGZuCJduYC": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json#/actor_knowledge_and_consequences/5"
+        }
+      },
+      {
+        "id": "recFKp4IL4gSozttr",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Delivered provisional; limited author overrides take precedence",
+          "fld7LyjMFXYELt2WI": "E20 consequence 05",
+          "fldXbUzxTdYlRXTiH": "Dessa confirms line still troublesome and six sold cases available; this proves neither total shutdown nor complete factory layout or total empire inventory.",
+          "fldjqI2ye216KwNbQ": "See exact event and scoped actor knowledge",
+          "fldpuuAoGZuCJduYC": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json#/actor_knowledge_and_consequences/4"
+        }
+      },
+      {
+        "id": "recGP0Tc5HKllJSLN",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: new_Sins_injuries",
+          "fldXbUzxTdYlRXTiH": "[]",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/new_Sins_injuries"
+        }
+      },
+      {
+        "id": "recHCtQaf3BQJN5Dt",
+        "createdTime": "2026-10-18T21:31:17.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Author configuration; no event",
+          "fld7LyjMFXYELt2WI": "Briar/Kaze prior-history invalidated",
+          "fldXbUzxTdYlRXTiH": "First actual meeting pending in solo Noxus continuation.",
+          "fldjqI2ye216KwNbQ": "Kaze; Briar",
+          "fldpuuAoGZuCJduYC": "state/work/Briar_First_Meeting_Author_Override_20261018.json"
+        }
+      },
+      {
+        "id": "recHafJODumNxUrsO",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: remaining_cash_split",
+          "fldXbUzxTdYlRXTiH": "{\"Arthur\": 150, \"Kaze\": 20, \"Daniel\": 20, \"Chris\": 20, \"Billy\": 20}",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/remaining_cash_split"
+        }
+      },
+      {
+        "id": "recLDzSsCUwbF70yJ",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: cashbox",
+          "fldXbUzxTdYlRXTiH": "Stolen ordinary metal cashbox, Daniel magically opened; 270 silver removed and allocated; empty box remains by workshop bench.",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/cashbox"
+        }
+      },
+      {
+        "id": "recMHMf7X0sjSYLwy",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: Harl_directions",
+          "fldXbUzxTdYlRXTiH": "Shipping-paper coastal sketch in Daniel custody; practical landmarks, not exact survey or omniscient navigation.",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/Harl_directions"
+        }
+      },
+      {
+        "id": "recMIB5kmp9d51m6U",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: vehicle",
+          "fldXbUzxTdYlRXTiH": "One blue/gold Subaru/X-wing deployed twice and recalled empty twice. Ground demonstration, ordinary controlled flight, one overnight rest; no weapon fire, overdrive or damage. Fuel used and not restored by recall; quantities/range/refuel method unspecified. Currently in Chris's ball.",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/vehicle"
+        }
+      },
+      {
+        "id": "recOfunXJ9Af6WqkJ",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: Billy_E20_share",
+          "fldXbUzxTdYlRXTiH": "20 silver earmarked separately inside BELLY; actual physical handoff not performed.",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/Billy_E20_share"
+        }
+      },
+      {
+        "id": "recQy1EEgiihKI6Vb",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Delivered provisional; limited author overrides take precedence",
+          "fld7LyjMFXYELt2WI": "E20 consequence 08",
+          "fldXbUzxTdYlRXTiH": "Warehouse door broken, maul guard dead, sword guard badly injured, stock and cash removed. This is one receiving-works robbery, not overthrow or capture of Heisenberg empire.",
+          "fldjqI2ye216KwNbQ": "See exact event and scoped actor knowledge",
+          "fldpuuAoGZuCJduYC": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json#/actor_knowledge_and_consequences/7"
+        }
+      },
+      {
+        "id": "recRc9ZUpavLYbFqx",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Delivered provisional; limited author overrides take precedence",
+          "fld7LyjMFXYELt2WI": "E20 consequence 04",
+          "fldXbUzxTdYlRXTiH": "Daniel chooses early departure and robbery, conducts approach and owns combat/consequences; peers independently support. No new leadership office or equal-screen-time quota.",
+          "fldjqI2ye216KwNbQ": "See exact event and scoped actor knowledge",
+          "fldpuuAoGZuCJduYC": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json#/actor_knowledge_and_consequences/3"
+        }
+      },
+      {
+        "id": "recYTvPMC9Jj9jeMu",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: ship_cargo",
+          "fldXbUzxTdYlRXTiH": "Heisenberg-contracted replacement pumps remain aboard Narrow Mercy with fitters, not Sins-owned or delivered.",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/ship_cargo"
+        }
+      },
+      {
+        "id": "recaIz71aUveQfmeC",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Delivered provisional; limited author overrides take precedence",
+          "fld7LyjMFXYELt2WI": "E20 consequence 03",
+          "fldXbUzxTdYlRXTiH": "Arthur learned real controls, brakes, fuel dependence, belt use, transformation and ordinary flight firsthand. No repeat first-car introduction; he is not trained to drive or pilot by this experience.",
+          "fldjqI2ye216KwNbQ": "See exact event and scoped actor knowledge",
+          "fldpuuAoGZuCJduYC": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json#/actor_knowledge_and_consequences/2"
+        }
+      },
+      {
+        "id": "recd0JHTzVqChpdn8",
+        "createdTime": "2026-10-18T21:31:17.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Delivered, not automatically accepted",
+          "fld7LyjMFXYELt2WI": "E20 delivered",
+          "fldXbUzxTdYlRXTiH": "E21 must start from exact E20 evidence; no automatic new world gains.",
+          "fldjqI2ye216KwNbQ": "Kaze; Sins",
+          "fldpuuAoGZuCJduYC": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json"
+        }
+      },
+      {
+        "id": "recdcTAGyit5zcE3V",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: unassigned_common_cash_silver",
+          "fldXbUzxTdYlRXTiH": "20",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/unassigned_common_cash_silver"
+        }
+      },
+      {
+        "id": "receKaQ0VSPGspncy",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Delivered provisional; limited author overrides take precedence",
+          "fld7LyjMFXYELt2WI": "E20 consequence 07",
+          "fldXbUzxTdYlRXTiH": "Dessa pulls physical bell; workers flee, one young worker runs along road. Their destination, actual report arrival and Heisenberg response remain pending.",
+          "fldjqI2ye216KwNbQ": "See exact event and scoped actor knowledge",
+          "fldpuuAoGZuCJduYC": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json#/actor_knowledge_and_consequences/6"
+        }
+      },
+      {
+        "id": "recep1aZvYjFevmVU",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: reimbursement",
+          "fldXbUzxTdYlRXTiH": "{\"Daniel\": 20, \"voyage_reimbursement_unpaid\": 0}",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/reimbursement"
+        }
+      },
+      {
+        "id": "rech9vHYIfFeWZjfS",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: stock",
+          "fldXbUzxTdYlRXTiH": "Exactly SIX cases of genuine Purple Pain from Heisenberg's Rivermark works; Dessa named product/employer and said already sold. One of these six was inspected, not an extra seventh. All physically swallowed intact into BELLY protected storage; Chris reclosed inspected case. No vials removed/consumed/sold. Unit counts/value/buyer unknown.",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/stock"
+        }
+      },
+      {
+        "id": "recilMGJF39vVxQLk",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: portrait",
+          "fldXbUzxTdYlRXTiH": "Kaze/Briar portrait-dependent history superseded; no current gift/custody grant. Unrelated painting continuity preserved.",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/portrait"
+        }
+      },
+      {
+        "id": "recoUS3YXgA8Y4czv",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: known_balances",
+          "fldXbUzxTdYlRXTiH": "{\"Daniel_silver\": 110}",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/known_balances"
+        }
+      },
+      {
+        "id": "recr7ewjsa5o1axqj",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: cash_taken_silver",
+          "fldXbUzxTdYlRXTiH": "270",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/cash_taken_silver"
+        }
+      },
+      {
+        "id": "recrPf4yfPcFcumiA",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Delivered provisional; limited author overrides take precedence",
+          "fld7LyjMFXYELt2WI": "E20 consequence 02",
+          "fldXbUzxTdYlRXTiH": "Harl draws broad coastal directions and retains control of ship; passenger fare was not refunded by him.",
+          "fldjqI2ye216KwNbQ": "See exact event and scoped actor knowledge",
+          "fldpuuAoGZuCJduYC": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json#/actor_knowledge_and_consequences/1"
+        }
+      },
+      {
+        "id": "recvKU50Os0YsZr9P",
+        "createdTime": "2026-10-18T22:20:15.000Z",
+        "cellValuesByFieldId": {
+          "fld2dEG7IUxHtVK7S": "Derived current reconciliation; no new transfer or gain",
+          "fld7LyjMFXYELt2WI": "E20 resource: Chris_E19_share",
+          "fldXbUzxTdYlRXTiH": "Billy-to-Chris 12-silver transfer now explicitly completed before shore departure.",
+          "fldjqI2ye216KwNbQ": "As specified in source",
+          "fldpuuAoGZuCJduYC": "state/Post_Chris_Restart.json#/current_reconciliation_20261018/current_resources/Chris_E19_share"
+        }
+      }
+    ],
+    "metadata": {
+      "totalRecordCount": 30
+    }
+  },
+  "notionindex": {
+    "id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "title": "Episode and Checkpoint Index",
+    "text": "Here is the result of \"fetch\" for the Page with URL https://app.notion.com/p/3fd4e1b729b3817ca530d91a167c9f1a as of 2026-10-18T23:09:59.760Z:\n<page url=\"https://app.notion.com/p/3fd4e1b729b3817ca530d91a167c9f1a\">\n<ancestor-path>\n<parent-page url=\"https://app.notion.com/p/3fd4e1b729b38146b48cc3f823ebddd0\" title=\"S7NS | Encyclopedia and Production Index\"/>\n</ancestor-path>\n<properties>\n{\"title\":\"Episode and Checkpoint Index\"}\n</properties>\n<iconMetadata>null</iconMetadata>\n<content>\nE20 The Express Service is delivered but not automatically author accepted; E21 is next. Current checkpoint route: state/episodes/Season_3_Episode_20_Checkpoint_Current.json and state/Post_Chris_Restart.json. A revised manuscript must preserve original, have full-text review, paired checkpoint and exact receipt.\n## Status\nReference index only. Full source must be retrieved for consequential use.\n## Available exact manuscript and checkpoint pairs\n<table header-row=\"true\">\n<tr>\n<td>Episode</td>\n<td>Status</td>\n<td>Manuscript SHA256</td>\n<td>Checkpoint owner</td>\n</tr>\n<tr>\n<td>S3 Episode 19: Narrow Mercy</td>\n<td>Delivered; acceptance not inferred; scoped later author overrides apply</td>\n<td>bad564d22fd6064be29168de434d604d7aeeb48b1274277214a7fc3eb03fa126</td>\n<td>state/episodes/Season_3_Episode_19_Checkpoint_Current.json</td>\n</tr>\n<tr>\n<td>S3 Episode 20: The Express Service</td>\n<td>Delivered; acceptance not inferred; scoped later author overrides apply</td>\n<td>12c91032405edf9c8aae912d55f52d66481d6e4ecdf151e02f8727ce27905d58</td>\n<td>state/episodes/Season_3_Episode_20_Checkpoint_Current.json</td>\n</tr>\n<tr>\n<td>S3 Episode 21: Good Company</td>\n<td>PREPARED_SAVED_NOT_YET_DELIVERED; NO PLAY; acceptance not inferred</td>\n<td>f5ae63c7b5bb546d4224d651eb06fd03083fc7b9219a1317839b172ef1d151f5</td>\n<td>[Prepared manuscript, review and prospective checkpoint](https://drive.google.com/file/d/1sAN7mD4Ni9fi_9xYykMeo9N0niQQ8GFX/view?usp=drivesdk)</td>\n</tr>\n</table>\n## Connected production archive\n[Original manuscripts](https://drive.google.com/drive/folders/1yZ_Od3m5UfsucD4z8JZhV9VOxhNl-mrm) and [episode checkpoints](https://drive.google.com/drive/folders/1Qo50lIkX00gXxNZSs6-6gaJ_7pOEsouE) contain the exact available E19/E20 pairs. E20 manuscript bytes match `12c91032405edf9c8aae912d55f52d66481d6e4ecdf151e02f8727ce27905d58`. Earlier history remains in the complete source snapshot; missing standalone manuscripts are not reconstructed. E16 Revised supersedes original E16.\n## Active prospective continuity\nApply the latest Briar first-meeting amendment to immutable delivered evidence. No joint departure or prior contact is current. Kaze's last witnessed position is Zaun/BELLY; Noxus is planned. E21 Good Company is prepared and undelivered. The existing reviewed manuscript was reused unchanged, fully reread, and its 22 recorded source hashes matched the verified release. Its checkpoint describes prospective events only; live continuity remains at E20. 3,841 body words; 25.61 minutes estimated at 150 words per minute, not measured audio. WORLD TIME: no elapsed story time generated by integration. Delivery never means blanket author acceptance.\n</content>\n</page>",
+    "url": "https://app.notion.com/p/3fd4e1b729b3817ca530d91a167c9f1a?pvs=204",
+    "metadata": {
+      "type": "page"
+    },
+    "cover": null,
+    "icon": null,
+    "path": "S7NS | Encyclopedia and Production Index",
+    "verification": {
+      "state": "unverified"
+    },
+    "page_last_edited_at": "2026-10-18T23:09:59.760Z"
+  },
+  "notionhub": {
+    "id": "3fd4e1b7-29b3-8146-b48c-c3f823ebddd0",
+    "title": "📚 S7NS | Encyclopedia and Production Index",
+    "text": "Here is the result of \"fetch\" for the Page with URL https://app.notion.com/p/3fd4e1b729b38146b48cc3f823ebddd0 as of 2026-10-18T23:09:59.760Z:\n<page url=\"https://app.notion.com/p/3fd4e1b729b38146b48cc3f823ebddd0\" icon=\"📚\">\n<ancestor-path></ancestor-path>\n<properties>\n{\"title\":\"S7NS \\\\| Encyclopedia and Production Index\"}\n</properties>\n<iconMetadata>{\"type\":\"emoji\",\"emoji\":\"📚\"}</iconMetadata>\n<content>\nRead-only navigational encyclopedia and production index for S7NS. Not canon and never a replacement for the project's authoritative source hierarchy.\n## Current orientation\n- Branch: S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017\n- Delivered: Season 3 Episode 20, The Express Service. Delivery is not automatic acceptance.\n- Next: Episode 21, unwritten until authorized PLAY.\n- Current solo focus: Kaze and Briar, first meeting pending under author override.\n## Where truth lives\n- MANIFEST.yaml and authority/Resolution_Register.json control file routing and conflict resolution.\n- authority/Character_Removal_20261018.json controls identity exclusion.\n- state/Post_Chris_Restart.json and newest matching-branch episode evidence control the cursor.\n- `canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md` is the sole story construction procedure.\n- Complete mechanics, voice, psychology and relationship owners remain mandatory when relevant.\n## Production integrations\nAirtable reference base: S7NS Continuity Control (Reference), now 772 readback-verified records including 453 source-owner routes. Existing Drive production folders now contain the original verified source snapshot and available exact E19/E20 manuscript/checkpoint pairs. All seven encyclopedia sections are populated in place. GitHub is now connected: private `kazekamimp3/kaze808`, selected-repository App scope, 44 exact imported files and a successful remote source-integrity run. The verified import is commit `a8796b3bd4c5c2b94c893b55db9dcc79fca5b703`; checkpoint branch `checkpoint/s7ns-verified-import-20261018` preserves it. AI Voice Generator is excluded by author direction; no active narration provider is selected. Research and visual production retain source/approval gates.\n## Populated sections\nCharacters, mechanics and restrictions, episode archive, consequences, author decisions, research and evidence, approved visuals, and audio playback. Populated as derived source directories; full source owners remain mandatory. Historical current labels cannot override newer scoped author instructions.\n## Change control\nProposed change -\\> authorized owner + routes updated -\\> manifest hashes updated -\\> validation -\\> confirmed installation readback -\\> only authorized PLAY -\\> provisional delivery -\\> author acceptance separately.\n<page url=\"https://app.notion.com/p/3fd4e1b729b381eaa01ed17c56d5ad0f\">Characters and Relationships</page>\n<page url=\"https://app.notion.com/p/3fd4e1b729b38128a72cec577e5d38a8\">Mechanics and Restrictions</page>\n<page url=\"https://app.notion.com/p/3fd4e1b729b3817ca530d91a167c9f1a\">Episode and Checkpoint Index</page>\n<page url=\"https://app.notion.com/p/3fd4e1b729b3817b952de88c4e91f4cb\">Author Decisions and Exclusions</page>\n<page url=\"https://app.notion.com/p/3fd4e1b729b38114a1cddc041841904a\">Research Evidence and Gaps</page>\n<page url=\"https://app.notion.com/p/3fd4e1b729b38108945af88a89ce4ad7\">Audio and Visual Production</page>\n<page url=\"https://app.notion.com/p/3fd4e1b729b381288437e8f67811bb08\">Validation and Change Control</page>\n</content>\n</page>",
+    "url": "https://app.notion.com/p/3fd4e1b729b38146b48cc3f823ebddd0?pvs=204",
+    "metadata": {
+      "type": "page"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "📚"
+    },
+    "verification": {
+      "state": "unverified"
+    },
+    "page_last_edited_at": "2026-10-18T23:02:05.599Z"
+  },
+  "driveepisodes": {
+    "files": [
+      {
+        "id": "1sAN7mD4Ni9fi_9xYykMeo9N0niQQ8GFX",
+        "title": "S3_Episode_21_Good_Company.zip",
+        "mime_type": "application/zip",
+        "size": "24983",
+        "url": "https://drive.google.com/file/d/1sAN7mD4Ni9fi_9xYykMeo9N0niQQ8GFX/view?usp=drivesdk",
+        "display_url": "https://drive.google.com/file/d/1sAN7mD4Ni9fi_9xYykMeo9N0niQQ8GFX/view?usp=drivesdk",
+        "file_or_folder": "file",
+        "created_time": "2026-10-18T23:09:42.818Z",
+        "modified_time": "2026-10-18T23:09:42.818Z",
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": false,
+        "permissions": null,
+        "source_visibility_status": "not_shared",
+        "can_download": true,
+        "can_list_children": false
+      }
+    ]
+  },
+  "drivecp": {
+    "files": [
+      {
+        "id": "1jA9DNrUpEA2kW6pZt1OZSc_mUAvthaC5",
+        "title": "Season_3_Episode_20_Checkpoint_Current.json",
+        "mime_type": "application/json",
+        "size": "12224",
+        "url": "https://drive.google.com/file/d/1jA9DNrUpEA2kW6pZt1OZSc_mUAvthaC5/view?usp=drivesdk",
+        "display_url": "https://drive.google.com/file/d/1jA9DNrUpEA2kW6pZt1OZSc_mUAvthaC5/view?usp=drivesdk",
+        "file_or_folder": "file",
+        "created_time": "2026-10-18T22:21:19.656Z",
+        "modified_time": "2026-10-18T22:21:19.656Z",
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": false,
+        "permissions": null,
+        "source_visibility_status": "not_shared",
+        "can_download": true,
+        "can_list_children": false
+      },
+      {
+        "id": "1gVxP7IH5YTOs32434KSKvOjIjCEhkgqr",
+        "title": "Season_3_Episode_19_Checkpoint_Current.json",
+        "mime_type": "application/json",
+        "size": "192033",
+        "url": "https://drive.google.com/file/d/1gVxP7IH5YTOs32434KSKvOjIjCEhkgqr/view?usp=drivesdk",
+        "display_url": "https://drive.google.com/file/d/1gVxP7IH5YTOs32434KSKvOjIjCEhkgqr/view?usp=drivesdk",
+        "file_or_folder": "file",
+        "created_time": "2026-10-18T22:21:15.351Z",
+        "modified_time": "2026-10-18T22:21:15.351Z",
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": false,
+        "permissions": null,
+        "source_visibility_status": "not_shared",
+        "can_download": true,
+        "can_list_children": false
+      }
+    ]
+  }
+}

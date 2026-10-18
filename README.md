@@ -1,6 +1,6 @@
 # S7NS connected production implementation
 
-WORK ONLY. No story advancement, changed character mechanics, reset or automatic acceptance.
+Startup: read `PLAY_START_HERE.md` and `continuity/DELIVERY_LEDGER.json` before every WORK or PLAY. The original import was WORK ONLY; later exact delivered evidence is reconciled separately. No automatic author acceptance.
 
 The 28 physical source bundles and supplied manifest remain byte-identical to the verified original package. Operational scripts and integrations are separate from canon.
 
@@ -36,7 +36,7 @@ python scripts/project_reference.py . > desired.json
 python scripts/sync_plan.py desired.json integrations/airtable_readback.json
 ```
 
-The saved readback produces zero operations against the current projection. Exact primary keys avoid duplicate creation. Only changed projected fields are updated; unmatched existing rows are preserved. Execute approved output through connected Airtable tools and fetch every written field again. Never write back to canon from Airtable or Notion. There are no stored credentials or unattended scheduler.
+The original saved readback describes the import baseline. Current projection applies `continuity/REFERENCE_OVERLAY.json` after the immutable source snapshot; compare with the newest live readback, not that stale baseline. Exact primary keys avoid duplicate creation. Only changed projected fields are updated; unmatched existing rows are preserved. Execute approved output through connected Airtable tools and fetch every written field again. Never write back to canon from Airtable or Notion. There are no stored credentials or unattended scheduler.
 
 The projection is a navigation/reference model, not a complete semantic adjudication of every actor. Catalog inclusion grants no membership, life status, arrival, equipment or knowledge. Current availability requires source owners and the newest actual branch evidence.
 

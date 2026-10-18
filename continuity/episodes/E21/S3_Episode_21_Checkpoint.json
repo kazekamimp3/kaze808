@@ -1,0 +1,258 @@
+{
+  "schema_version": "S3_EPISODE_CHECKPOINT_V2",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 21,
+  "title": "Good Company",
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "delivery_policy": "Render exact reviewed manuscript unchanged. Upon matching response, next interaction reconciles DELIVERED_PROVISIONAL. Author acceptance remains separate.",
+  "delivery_evidence": {
+    "filename": "S3_Episode_21_Good_Company.txt",
+    "sha256": "f5ae63c7b5bb546d4224d651eb06fd03083fc7b9219a1317839b172ef1d151f5",
+    "encoding": "UTF-8",
+    "body_words": 3841,
+    "assumed_words_per_minute": 150,
+    "estimated_minutes": 25.61,
+    "audio_measured": false,
+    "next_episode": 22
+  },
+  "predecessor": {
+    "episode": 20,
+    "manuscript_sha256": "12c91032405edf9c8aae912d55f52d66481d6e4ecdf151e02f8727ce27905d58",
+    "checkpoint_owner": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json",
+    "scope": "Inherit unaffected facts through current installed reconciliation, not immutable Briar relationship/location entries."
+  },
+  "source_authority": {
+    "manifest_sha256": "6bd2e87d866cdf2c30ba24ac2f19b0db38ee45ebaef8a708a83919a2b141d733",
+    "release": "THE_SINS_NOXUS_SOLO_BRIAR_FIRST_MEETING_20261018",
+    "installed_instructions_sha256": "e90d217522e64af2465c5e9ccd88b0688664d6af25256075678bde2fa44e5fe5",
+    "highest_scoped_owner": "state/work/Briar_First_Meeting_Author_Override_20261018.json",
+    "romance_owner": "canon/relationships/Kaze_Adult_Romance_20261018.md",
+    "life_owner": "state/work/Female_Roster_Restoration_20261018.json",
+    "rule": "No original or installed owner overwritten by this PLAY. New actual events are in this paired record."
+  },
+  "scene_clock": {
+    "departure": "E20 afternoon, after theft/interior allocation: Kaze tells gang Noxus direction; Billy authorizes physical egress onto empty Zaun service road.",
+    "travel": "Coastal launches reversing E20 actual route; one overnight rest, next-afternoon Noxian port arrival. No ocean crossing or exact distance invented.",
+    "meeting_day": "Day after E20: afternoon first meeting, terrace fight, hour inland on foot, evening inn.",
+    "endpoint": "Morning after first meeting: approximately two calendar days after E20, two overnight intervals total; exact hours/global day number unspecified.",
+    "world": "All clocks progress; TPP due-that-evening rent is now past its due time. No payment, eviction or convenient gang activity asserted."
+  },
+  "final_positions": {
+    "Kaze": "Walking inland on hill road beyond roadside inn about an hour's walk inland from previously visited unnamed Noxian coastal port. With Briar. No capital arrival.",
+    "Briar": "Same road beside Kaze, voluntarily continuing with him. First-ever shared travel now earned. Pillory retained.",
+    "ensemble": "Last confirmed at E20 Zaun service-road/BELLY endpoint, with Kaze actual departure update. Other present whereabouts after elapsed time unobserved; no frozen world or fabricated mission.",
+    "Hadran_clerk": "Recognized Kaze at gate, reported to Rask, last directly seen fleeing with two soldiers; precise location after collapse unknown.",
+    "terrace_proprietor": "Alive at ruined eating house, seeking help for injured cart driver.",
+    "innkeeper": "At roadside inn, heard incoming rider's account of collapsed gate; no evidenced identification of guests as attackers.",
+    "rider": "At inn describing gate collapse; origin/extent of personal eyewitness evidence unspecified, no names heard."
+  },
+  "relationship": {
+    "Kaze_Briar_met": true,
+    "first_meeting_episode": 21,
+    "first_meeting_place": "Broken parapet above coastal road at previously visited Noxian port",
+    "hookups_completed_current_continuity": 1,
+    "intimacy": "First mutual one-on-one hookup at inn, non-graphic/off-page; explicit aftermath confirms sex. Both adults, voluntary, clarity retained.",
+    "exclusive": false,
+    "formal_Sins_member": false,
+    "companion": "Briar chooses to accompany Kaze next morning; no permanent loyalty or control assigned.",
+    "new_shared_memory": [
+      "parapet sausage/name tattoos/grills exchange",
+      "terrace meal interrupted by clerk and harbor watch",
+      "Briar independently repels grabbing soldier",
+      "Kaze destroys gate and ruins meal",
+      "proprietor refusal; honest road exchange",
+      "inn meal and disputed cheese",
+      "pillory/body conversation; first kiss and intimacy",
+      "joint choice of inland hill road"
+    ],
+    "superseded_not_restored": [
+      "old E16–20 relationship and gifts",
+      "portrait",
+      "former34silver",
+      "shared BELLY residence",
+      "earlier familiarity/carrying",
+      "old romance ledgers/pregnancies"
+    ]
+  },
+  "resources": {
+    "Kaze_cash": "20silver E20 known tranche carried;1silver terrace meal+4silver inn food/room/washing=5spent,15of this tranche remain. Earlier independent balances unchanged/unquantified;15is not asserted entire wealth.",
+    "Briar_cash": "No former balance restored; no coin receipt/new personal balance established.",
+    "weapons": "Singular Black Marrow drawn and used, dismissed into Kaze at ridge; no weapon acquisition, new adaptation, copied technique or power earned. Other prior artifacts/custody not moved or duplicated.",
+    "clothing": "Existing appearance retained. Opponent blood on chest/waistband and stone dust in locs; actual separate washing at inn. No new garment/repair or shoe destruction.",
+    "Briar_equipment": "Original hemolith pillory retained; no removal, break, cure, gift or new weapon.",
+    "BELLY": "Six Purple Pain cases unsold last-confirmed; former Briar20silver is unassigned communal cash, Billy20earmarked not handed over by this episode. Other E20 shares/custody remain; no fabricated offscreen disposition.",
+    "other": "Food consumed; no terrace knife, plate, enemy weapon or cart taken. Briar's earlier sausage theft newly established by her statement, not a new financial balance."
+  },
+  "combat_outcomes": {
+    "Kaze_new_injuries": [],
+    "Briar_new_injuries": [],
+    "Kaze_confirmed_kills": [
+      "first shieldman: shield driven through chest into column",
+      "Captain Rask: thrown into stone arch, fatal neck/back damage",
+      "first bolt-thrower crewman: shoulder strike through battlement, fatal fall/impact",
+      "second crewman: arm/throat sword cut, dead at machine"
+    ],
+    "Briar_attack": "Second shieldman headbutted and kicked into terrace wall; alive badly hurt at last observation, eventual fate unknown.",
+    "other_injuries": "Cart driver crawling with injured leg; no final recovery or full casualty count asserted.",
+    "escape": "Crossbowman/stair guard/clerk flee before collapse; not deliberately spared from a chosen kill objective.",
+    "damage": "Near gate tower and arch collapse; portcullis twisted, road blocked; opposite tower damaged but standing; bolt thrower destroyed; terrace column/awning/paving/bench/plate damaged; cart crushed. Collateral is real, no secretly empty arena.",
+    "mechanics": "Retained threat attention, living sword bond, real right-hand draw, physical force/jumps/rebounds. No sword-only Cleave/WCS violation because neither used. No BLACKCURRENT, Rinnegan/Swap, retired demons, portals, extra weapons or flight."
+  },
+  "actor_knowledge": {
+    "Kaze": "Learns Briar name, her stated restraint preference and history of being made to kill, her independent wishes; observes physical capability. Audience Black Rose explanation does not automatically give him its name or full origin. Knows clerk identified him and watch sought gunman responsible for Samira death. Learns local gate-collapse account is beginning to travel.",
+    "Briar": "Learns Kaze name from visible tattoo/introduction, some bronze-horse robbery story, witnessed watch accusation and Kaze capabilities; hears limited sword explanation. No private BELLY knowledge, gang membership or complete kit download.",
+    "watch_clerk": "Actual local recognition/communication; no remote Rivermark report established. Their account of Samira killing is past historical fact, not proof of current death after life override.",
+    "others": "No absent champion, ensemble or distant institution receives new events automatically."
+  },
+  "retained_author_configuration": {
+    "romance_enabled": true,
+    "female_life_override": "Remains in force; Samira historical killing still occurred. No return staged or return knowledge granted here. Grayson, Sky Young, Cassandra Kiramman remain dead.",
+    "kits": "Latest installed retentions/removals and sword-only rule remain. No source ancestry or eye change.",
+    "preservation": "Seasons1–2, confirmed campfire Specials, resetE1–20 and inactive old S3 preserved. Author removal remains controlling. Rick/Morty independent; Briar potential later admission voluntary/unanimous."
+  },
+  "outline_delta": {
+    "completed_now": [
+      "Kaze departure and solo Noxus arrival",
+      "Briar first meeting",
+      "early reciprocal romance/first hookup",
+      "voluntary ongoing pair travel",
+      "local response to previously witnessed gang robbery and Arthur killing",
+      "new harbor-watch casualties and gate destruction"
+    ],
+    "next_cursor": "E22 follows the pair on chosen inland Noxian hill road after morning departure. World consequences live. Exact destination/encounter open.",
+    "remaining": "Baldur cursed2018 and separate Ragnarok/Valhalla Kratos remain selected but unencountered/unordered; no native/imported matchup spent or awarded. Other Sins' encounters remain theirs. No compulsory region tour.",
+    "ensemble": "Presentation paused; six-case score/Heisenberg wider empire, Deadpool, TPP rent and other threads retained with elapsed timeline and no silent resolution."
+  },
+  "episode_record_contract": {
+    "evaluation": "Assistant source comparison and editorial judgment; not author acceptance or measured audio.",
+    "full_text_reads": [
+      {
+        "version": "initial draft",
+        "sha256": "371c254fa29dd3ca967c735e6fe28cc16b429387a83261d4d3cf7fd199d1fab1",
+        "body_words": 3698,
+        "coverage": "Beginning through final sentence, separate read after draft completion."
+      },
+      {
+        "version": "revised v2",
+        "sha256": "d21de6df9c9dc78a3cf38abdcfb9b86ac19de09d1920a0bfbe335851fa0e5949",
+        "body_words": 3825,
+        "coverage": "Complete reopened text, beginning through ending."
+      },
+      {
+        "version": "final v3",
+        "sha256": "f5ae63c7b5bb546d4224d651eb06fd03083fc7b9219a1317839b172ef1d151f5",
+        "body_words": 3841,
+        "coverage": "Complete reopened text, beginning through ending, after blood/dust persistence repair."
+      }
+    ],
+    "observed_repairs": [
+      {
+        "category": "DRAFTING",
+        "before": "Two days earlier conflicted with one overnight/second-afternoon arrival.",
+        "repair": "Previous afternoon departure, one coastal night, next-afternoon meeting; additional inn night and next morning endpoint. Explicit Billy-authorized egress."
+      },
+      {
+        "category": "DRAFTING",
+        "before": "Empty hands description while Briar held food.",
+        "repair": "Gaze goes toward carts, then food."
+      },
+      {
+        "category": "DRAFTING",
+        "before": "Unclear hand use while Black Marrow remains drawn; two bolt-thrower impacts risk implied indestructible wood.",
+        "repair": "Free hand specified; machine splinters on roof; Kaze uses his heel on next floor."
+      },
+      {
+        "category": "DRAFTING",
+        "before": "Second shieldman grabbed Briar with no immediate tactical reason.",
+        "repair": "Shown attempt to pull her between himself and Kaze; she independently counters."
+      },
+      {
+        "category": "DRAFTING",
+        "before": "Initial3698 words below current minimum; ordinary curiosity dominated Briar conversation.",
+        "repair": "Added source-grounded discussion of choices beyond assigned killing, plus clearer first-encounter appearance and Kaze-initiated kiss. Final3841 words,25.61 estimated minutes at150wpm."
+      },
+      {
+        "category": "REVIEW",
+        "before": "Revised text carried bloody fingers but underexpressed visible physical aftermath.",
+        "repair": "Added opponent blood on exposed chest/waistband and stone dust in locs; later paid washing provides actual cleanup."
+      }
+    ],
+    "passage_source_comparisons": [
+      {
+        "passage": "He retraced the coast...long launches from solid ground, landings on headlands",
+        "owners": [
+          "canon/characters/kaze_current.md#PHYSICAL PROFILE / SUPER-JUMP",
+          "state/evidence/S3_Reset_Episode_20_20261018.txt"
+        ],
+        "finding": "Reverses a route actually traversed in E20 with same physical ballistic mechanism; no boat timetable, ocean jump, portal or sustained flight imposed."
+      },
+      {
+        "passage": "The blade turned into the bolt's path...sharing his alarm",
+        "owners": [
+          "canon/characters/kaze_current.md#TWO-LAYER DANGER PERCEPTION",
+          "canon/characters/kaze_future_progression.md#THE BLACK MARROW"
+        ],
+        "finding": "Detected imminent attack, chosen draw and nonverbal integrated sword response; no separate talking mind or imposed armor. A small warning is not a lethality upgrade."
+      },
+      {
+        "passage": "With his free hand...drove it into the roof...drove his heel into the floor below",
+        "owners": [
+          "canon/characters/kaze_current.md#Super-jump / physical force",
+          "character_sources/Kaze_Character_Source.txt#destructive appetite"
+        ],
+        "finding": "Direct physical demolition with spatial anchors and persistent collapse; no electrical/Swap/Ki blast, forced parity or upgrade. Four clear kills, one Briar-caused injured soldier, civilian injury and business loss."
+      },
+      {
+        "passage": "This helps me think...You didn't say it was broken",
+        "owners": [
+          "character_sources/season3/Briar_Character_Source.txt",
+          "canon/relationships/Kaze_Adult_Romance_20261018.md"
+        ],
+        "finding": "Pillory enables clarity and remains hers. No ownership, cure, forced frenzy or rescue debt. Reciprocal attraction, explicit approach and chosen privacy precede off-page intimacy."
+      },
+      {
+        "passage": "Hadran's clerk...hurried back toward the soldiers",
+        "owners": [
+          "state/evidence/S3_Reset_Episode_19_20261018.txt",
+          "topic_sources/Reputation_Propagation.txt"
+        ],
+        "finding": "Previously surviving firsthand observer identifies Kaze physically and reports on-page to nearby captain; Arthur's prior killing supplies a concrete group consequence. No invented Rivermark message already arrived."
+      }
+    ],
+    "weakest_span": "Early post-fight explanatory judgments were the weakest span. Removed generic no-contest commentary and made the extra demolition visibly his choice. Retained brief proprietor refusal and road conversation because they alter the pair's understanding without transforming Kaze into a rescuer or Briar into a moral supervisor.",
+    "ending": "First meeting, first mutual hookup and chosen companionship actually occur. A morning road choice completes this episode; no mandatory future fighter tease or new outcome award.",
+    "regressions": {
+      "R01": "PASS: current retained physical/sword/sensing options used; removed systems absent; direct-sight fire/Shrine unnecessary because chosen close work resolves ordinary opponents.",
+      "R02": "PASS: no invented Kaze injury; blood/dust persist to washing; killed people, wrecked business and blocked road remain.",
+      "R03": "PASS limited scope: only Billy exterior in departure bridge, actual egress; no interior combat or switching exercised.",
+      "R04": "PASS: one eyewitness report at real local distance; two overnight intervals; no source knowledge transferred to actors.",
+      "R05": "PASS editorial: Kaze questions/provokes then chooses excessive destruction and later restraint; Briar negotiates, fights for herself and chooses company; no required full-cast exchange."
+    },
+    "unresolved": "No material episode-blocking ambiguity. Exact wider calendar, full offstage resource changes, ultimate fate of injured people and post-flight clerk/guards location remain unasserted. No new audiovisual fidelity certification.",
+    "sources_read_in_full": {
+      "character_sources/Kaze_Character_Source.txt": "cf14cdd13d45ef60c157da6985e8e81977e1e548ccf9b6c2e5cb18dea91f18af",
+      "canon/characters/kaze_current.md": "7599d28a4c712ca076cf9cb43ff15e09d517e05b64c792d48ca77d6b17aa5c7a",
+      "canon/characters/kaze_psychology.md": "0dacdf0b26697a1589ec190d6ba4e1c0b081448f4b3ceb26c4422d4827ad4cca",
+      "canon/characters/kaze_future_progression.md": "2b4a05aa52ba7084319f3e13b64849086b8696a136dc38dc59e9d2a8d1ba0389",
+      "character_sources/season3/Briar_Character_Source.txt": "888b526a1ab8646f96965431d753cefd348a56100867ada2a8c2593031732613",
+      "character_sources/Black_Mimir_Narration_Source.txt": "d9c8d74faab73b72cf12f843a14f2961302e70ad39d480a680ed8727049e0bf5",
+      "canon/relationships/Kaze_Adult_Romance_20261018.md": "d1e07d0fcb71070c90616bbdbe087fd2acabecbaac6204557f4511626e7dc145",
+      "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md": "0071bd518d993d03473cb79bdeca58097dd7e2f66d950157188c0c0ecf76bb8f",
+      "canon/characters/s37_kit_application.md": "f8340a6a71653db5eb3a4a58c72962cd406dd4c4fdce2d4392f7f181361575c9",
+      "topic_sources/Shared_Combat_and_Power_Rules_Source.txt": "98985f9e2d3a6ed8073110cbc33b68c470b85b7e6f3cae75081662bdf104a211",
+      "topic_sources/Runeterra_World_and_Travel_Source.txt": "cb2d59a375d1f1a8ea104c79f69d7a055a3f81a9a528f1beba3c8414244f43bf",
+      "reference/research/Runeterra_Travel_and_Noxus_Geography_Audit.md": "5c09f60141cc150cab8f90507a2cba8c826e4a4f9b1a88c798dc39837843bd4e",
+      "topic_sources/Reputation_Propagation.txt": "9a03f96819013001e576fa525b3db8e3d61ebdbe873a718276085b777032a9ec",
+      "topic_sources/Narration_and_Episode_Presentation_Source.txt": "0fa7c5d574d3d5033e0760c12ad1c0dd410984075a25db7c3cbd45b811736909",
+      "topic_sources/Kaze_Street_Politics_and_Retaliation_Source.txt": "7f994157f517a372c1e446055073611d3961cf97bc50c0546443b0d304319b1a",
+      "state/work/Briar_First_Meeting_Author_Override_20261018.json": "640ef954ee0bf81972830004b0a7c73775d454973a288457de3e200bfe5b59cc",
+      "state/work/Kaze_Solo_Romance_20261018.json": "2f31d3e8c1f18f610dc368eb77d8b1c1491e3d76b8d2de0ea03548a9c0762114",
+      "research/Noxus_Women_20261018.md": "14beaa08702bc1aa76cf94ae7ec878a45ac98c53bfa043c046d291f65aad520c",
+      "topic_sources/Season_3_Condensed_Outline.txt": "72f82a4d93902486b723bde7df9ef5c6ff53d6e3b6ec2c5866290e23ff886088",
+      "state/evidence/S3_Reset_Episode_20_20261018.txt": "12c91032405edf9c8aae912d55f52d66481d6e4ecdf151e02f8727ce27905d58",
+      "state/episodes/Season_3_Episode_20_Checkpoint_Current.json": "a04da18712cfdc91c64a0c7c5ca810aa3ffdbb46b94642617a8f36b289c55a7c",
+      "state/evidence/S3_Reset_Episode_19_20261018.txt": "bad564d22fd6064be29168de434d604d7aeeb48b1274277214a7fc3eb03fa126"
+    },
+    "structured_sections_read": "Resolution_Register all current authority/overrides excluding full_source_responsibilities index; manifest current reconciliation; outline movements, crossover deployment, consequence register and solo schedule; full Briar appendix profile; applicable preserved Briar research sections; editorial regression memory. Large optional unrelated TPP future-bank output truncated and not used or claimed as full research."
+  }
+}

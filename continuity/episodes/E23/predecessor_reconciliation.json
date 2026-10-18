@@ -1,0 +1,7 @@
+{
+  "episode": 22,
+  "status": "DELIVERED_PROVISIONAL",
+  "sha256": "2390c2554bce87c4bc1d3b39d3db0c3934c663ff2dc9ba827dfd86ec043ad6fe",
+  "evidence": "Exact matching final response in this conversation, followed by user PLAY. Author acceptance not separately claimed. Original files unchanged.",
+  "next_episode": 23
+}

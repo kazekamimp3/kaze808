@@ -1,0 +1,8 @@
+{
+  "manuscript_sha256": "2390c2554bce87c4bc1d3b39d3db0c3934c663ff2dc9ba827dfd86ec043ad6fe",
+  "checkpoint_sha256": "e37b3909a3de1f541b2d1a2b0deedcf74aee88ce733babb33214b900a0a80526",
+  "body_words": 4014,
+  "readback": "Exact local saved bytes match fully reviewed final-v3; JSON parsed from saved files.",
+  "episode": 22,
+  "matching_checkpoint": true
+}

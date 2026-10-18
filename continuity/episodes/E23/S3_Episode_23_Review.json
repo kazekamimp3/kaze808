@@ -1,0 +1,134 @@
+{
+  "episode": 23,
+  "exact_manuscript_sha256": "9614e04b871c5b6cd3dc69596433ad9d59acdbb8380d5a82edd76fc81471bd63",
+  "assistant_editorial_judgment_not_author_acceptance": true,
+  "full_text_reads": [
+    {
+      "version": "initial complete draft",
+      "body_words": 3469,
+      "coverage": "Entire reopened manuscript read in one untruncated tool result after writing; subsequently revised."
+    },
+    {
+      "version": "final revised draft",
+      "sha256": "9614e04b871c5b6cd3dc69596433ad9d59acdbb8380d5a82edd76fc81471bd63",
+      "body_words": 4042,
+      "coverage": "Entire revised manuscript reopened and read from title through final sentence in one untruncated tool result after all prose edits. No later prose change."
+    }
+  ],
+  "source_coverage": {
+    "reused_complete_reads": "Unchanged E21/E22 complete Kaze current mechanics, psychology, progression, shared systems/presentation and current authority reads; earlier review records retain exact scope. No assertion of fresh full reading of every large owner.",
+    "new_or_refreshed_full_reads": "Samira individual owner; entire actual E14 manuscript; complete Samira profile within appendix; full relevant Samira research section; female-life override; Briar, romance, Mimir and scene doctrine owners. Full current condensed outline and GOW owner refreshed during preparation.",
+    "physical_verification": "All28 attached physical sources matched retained manifest hashes; manifest unchanged. Identity verification is not a claim of newly comprehending every bundled source.",
+    "truncation": "Partial broad routing/source outputs are not counted as complete reads. Both manuscript review outputs were complete.",
+    "hashes": {
+      "canon/characters/kaze_current.md": "7599d28a4c712ca076cf9cb43ff15e09d517e05b64c792d48ca77d6b17aa5c7a",
+      "canon/characters/kaze_psychology.md": "0dacdf0b26697a1589ec190d6ba4e1c0b081448f4b3ceb26c4422d4827ad4cca",
+      "canon/characters/kaze_future_progression.md": "2b4a05aa52ba7084319f3e13b64849086b8696a136dc38dc59e9d2a8d1ba0389",
+      "character_sources/Kaze_Character_Source.txt": "cf14cdd13d45ef60c157da6985e8e81977e1e548ccf9b6c2e5cb18dea91f18af",
+      "character_sources/season3/Briar_Character_Source.txt": "888b526a1ab8646f96965431d753cefd348a56100867ada2a8c2593031732613",
+      "character_sources/season3/Samira_Character_Source.txt": "475700e0ddb141170639d482098d89e96bbba8d1ec3150fa5fcbaa0e0fb48bad",
+      "character_sources/Black_Mimir_Narration_Source.txt": "d9c8d74faab73b72cf12f843a14f2961302e70ad39d480a680ed8727049e0bf5",
+      "canon/relationships/Kaze_Adult_Romance_20261018.md": "d1e07d0fcb71070c90616bbdbe087fd2acabecbaac6204557f4511626e7dc145",
+      "state/work/Female_Roster_Restoration_20261018.json": "ffc1e32b43195c7c95460aa1aef6a2b36f056253fff0baf2c2e23ef4a264eb04",
+      "state/work/Briar_First_Meeting_Author_Override_20261018.json": "640ef954ee0bf81972830004b0a7c73775d454973a288457de3e200bfe5b59cc",
+      "reference/research/Noxus_Cast_Fidelity_Research.md": "f661f53882d00c20a5225ce2744e2f10ebed801cf535532270cc31269664faba",
+      "reference/runeterra/champion_appendix.md": "9756e792e2b3a1cd594f7023203f4a32f5c832ef6e98a3c6f8396f288424cf2a",
+      "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md": "0071bd518d993d03473cb79bdeca58097dd7e2f66d950157188c0c0ecf76bb8f",
+      "topic_sources/Season_3_Condensed_Outline.txt": "72f82a4d93902486b723bde7df9ef5c6ff53d6e3b6ec2c5866290e23ff886088"
+    },
+    "historical_episode14_sha256": "b1520dadabc364b1de8ed0c07538dd6f8b4a5b55c8e89453a307829e9d48a8c6",
+    "research_limit": "Retained source-backed textual research reused; no fresh web or audiovisual audition claimed."
+  },
+  "actual_repairs": [
+    {
+      "category": "DRAFTING",
+      "found": "Initial3469-word draft below current25–30-minute direction; Briar/Samira first exchange too brief and Berren lending weapon under-motivated.",
+      "repair": "Expanded their independent first conversation, retained pillory agency, gave merchant a concrete demand for a demonstration and Berren plausible weapon confidence. Added brief public meal that shows changed local reception and pair intimacy, with actual expenditure."
+    },
+    {
+      "category": "DRAFTING",
+      "found": "Empty pitcher later spilled water; chair damage lacked impact detail.",
+      "repair": "Made it a water pitcher and explicitly split chair rung with thrown pistol."
+    },
+    {
+      "category": "REVIEW",
+      "found": "Our table could physically locate narrator; draft asserted Samira had no money; post-expansion street transition repeated ascent.",
+      "repair": "Their table; changed money assertion to flirtatious charge; established corner view instead of second ascent."
+    }
+  ],
+  "material_source_passage_checks": [
+    {
+      "passage": "His legs compressed...kept one arm beneath her knees...landed on grassy bank.",
+      "source": "Current Kaze ballistic movement plus exactE22 endpoint.",
+      "resolution": "Actual selected landing, physical arc/carry/impact, no portal/flight. Existing healed lip/nose remain healed; washing removes blood, not clothing damage."
+    },
+    {
+      "passage": "Samira was alive...Her death had happened...On a cart...I do not know.",
+      "source": "Female_Roster_Restoration_20261018 + entire actualE14 + E19 reported body removal.",
+      "resolution": "Author-authorized living return staged at coherent regional crossing; no fake death, immortality, new resurrection power, all-healing or death-gap surveillance. Cart arrival is newly spoken self-report, not certified travel mechanism for return."
+    },
+    {
+      "passage": "Arthur took your guns...And my sword?...That too.",
+      "source": "E14 actual weapon looting after Samira death, female-life property rule.",
+      "resolution": "Samira learns custody claim now. Original specialist gear stays gang loot in BELLY; nothing duplicated. Samira learns Arthur name in this exchange, no BELLY location/interior or remote gang state."
+    },
+    {
+      "passage": "She watched his shoulder...kicked its water pitcher...single shot...two short cuts...bench...She fired once.",
+      "source": "Complete Samira owner/profile and retained Daredevil Impulse research.",
+      "resolution": "Footwork before discharge, one-handed ordinary firearm use and improvisation, braced left wrist protected. Berren one discharge; Samira one discharge. No bullet-speed evasion or supernatural immunity; brief decisive fight ends with his death."
+    },
+    {
+      "passage": "She told me to watch...shifted his foot...pulled their bench backward.",
+      "source": "Kaze capability/psychology owners + doctrine decisive-option rule.",
+      "resolution": "Kaze can dominate ordinary Berren but chooses to watch Samira agency/show; observes escalation and moves bench clear of scramble. No suppressed danger sense or invented inability to act."
+    },
+    {
+      "passage": "No. You asked where my people are. Answer is no...You do not get to make that afternoon charming.",
+      "source": "Kaze selective loyalty + Samira retained memories/no default forgiveness + current romance.",
+      "resolution": "Reciprocal adult verbal sparring does not erase Arthur murder or grant Samira gang location, automatic consent, alliance or intimacy."
+    },
+    {
+      "passage": "Then tomorrow...You can remember yesterday.",
+      "source": "E21 first meeting/hookup + E22 chosen carry + current romance.",
+      "resolution": "Specific emerging couple history and voluntary affection; no restored earlier Briar ledger, exclusivity, membership, second hookup or automatic future event."
+    }
+  ],
+  "five_review_responsibilities": {
+    "capability_combat": "Current kits respected; only physical leap used by Kaze, no mandatory ability showcase in another actor confrontation. Samira visibly constrained by missing specialist gear and wrist injury.",
+    "narration_presentation": "Mimir sole ordinary personal narrator, first-time Samira/Arthur context, single title, readable actors/geometry; no internal labels or author-file commentary.",
+    "lore_living_world": "Native Noxian regional settlement, credible local story route via Berren self-report; no capital teleport, instant global knowledge or erased crime.",
+    "behavior_group": "Kaze curious/flirtatious/selectively loyal; Briar autonomous and companion; Samira thrill-seeking and angry with independent agenda. Offstage ensemble unobserved.",
+    "story_causality": "Local man exploits real death for hiring credit; wounded returnee chooses public exposure, provokes demonstration and meets lethal escalation; gets actual ordinary gear and states unresolved claim on stolen originals."
+  },
+  "weakest_span": "Initial first-table exchange did not give Briar enough independent participation and the loaded-gun handoff relied too heavily on vanity. Revised exchange and merchant demonstration request supply character stakes and local pressure. Later short meal earns its space as public reception plus a physical reciprocal joke and familiarity; no prolonged fight used for length.",
+  "ending": "Samira departs independently with acquired ordinary weapons and unresolved claim, not recruited or reconciled. Kaze/Briar continue upstream and choose to remember their own shared beginning. No forced next opponent.",
+  "regressions": {
+    "R01": {
+      "status": "PASS",
+      "evidence": "No removed electrical/spatial/League powers. Leap physically grounded; omitted overwhelming attack is voluntary spectating. Samira no imaginary specialist arsenal."
+    },
+    "R02": {
+      "status": "PASS",
+      "evidence": "Kaze healed tissue not relocked; stains/tear retained after actual rinse. Samira braced wrist retained, no supernatural healing granted."
+    },
+    "R03": {
+      "status": "NOT_APPLICABLE",
+      "evidence": "No BELLY entry/body-switching or exterior change; existing original Samira loot custody preserved."
+    },
+    "R04": {
+      "status": "PASS",
+      "evidence": "Berren reports port story two days earlier; actual witnesses know current return/fight only. Samira learns gear claim through dialogue; no remote message actually sent."
+    },
+    "R05": {
+      "status": "PASS",
+      "evidence": "Distinct choices and specific chemistry; Kaze no rescuer role, Samira no automatic forgiveness; Briar neither jealous prop nor assigned conscience. Editorial assessment, not measured performance."
+    }
+  },
+  "runtime": {
+    "body_words": 4042,
+    "assumed_wpm": 150,
+    "estimated_minutes": 26.95,
+    "measured_audio": false
+  },
+  "limits": "No explanation for author-level restoration, exact past cart route, further watch arrival, unseen ensemble moves or Baldur escape asserted. These unknowns do not block the enacted local encounter."
+}
