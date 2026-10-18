@@ -5,13 +5,26 @@
   "manifest_sha256": "6bd2e87d866cdf2c30ba24ac2f19b0db38ee45ebaef8a708a83919a2b141d733",
   "github": {
     "repository": "kazekamimp3/kaze808",
-    "privacy": "PRIVATE_VERIFIED_GITHUB_API",
+    "visibility": "private",
     "installation_id": 172842142,
     "repository_selection": "selected",
     "accessible_repositories": [
       "kazekamimp3/kaze808"
     ],
-    "deployment": "UPLOAD_IN_PROGRESS"
+    "import_commit": "a8796b3bd4c5c2b94c893b55db9dcc79fca5b703",
+    "import_tree": "84c38034116fea6bdbbb2fcfb81f33dc6dc944cc",
+    "verified_import_files": 44,
+    "source_tree_errors": [],
+    "workflow": {
+      "run_id": 39174615257,
+      "job_id": 117814633542,
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/kazekamimp3/kaze808/actions/runs/39174615257"
+    },
+    "rollback_branch": "checkpoint/s7ns-verified-import-20261018",
+    "source_retrieval": "Remote manifest, current-state owner, E20 checkpoint and E20 manuscript exact",
+    "source_bytes_unchanged": true
   },
   "airtable": {
     "base_id": "appKCCr9zg0rsfbOI",

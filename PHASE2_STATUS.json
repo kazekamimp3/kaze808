@@ -1,9 +1,9 @@
 {
-  "status": "GITHUB_IMPORT_IN_PROGRESS",
+  "status": "CONNECTED_SOURCE_IMPLEMENTATION_VERIFIED_WITH_EXPLICIT_MEDIA_LIMITS",
   "repository": "kazekamimp3/kaze808",
   "repository_privacy_verified": true,
-  "github_upload": false,
-  "github_actions_activated": false,
+  "github_upload": true,
+  "github_actions_activated": true,
   "airtable_readback_verified": true,
   "airtable_records": 772,
   "notion_sections_populated": 7,
@@ -16,5 +16,9 @@
   "narration_provider": null,
   "ai_voice_generator": "AUTHOR_REJECTED_DISABLED",
   "receipt": "integrations/IMPLEMENTATION_RECEIPT.json",
-  "github_app_access_verified": true
+  "github_app_access_verified": true,
+  "github_actions_result": "success",
+  "verified_import_commit": "a8796b3bd4c5c2b94c893b55db9dcc79fca5b703",
+  "checkpoint_branch": "checkpoint/s7ns-verified-import-20261018",
+  "permissions_scope": "kaze808 only"
 }

@@ -1,6 +1,6 @@
 {
   "mode": "WORK_ONLY_NO_PLAY",
-  "status": "PARTIAL_IMPLEMENTATION_AUTHENTICATION_BLOCKED",
+  "status": "CONNECTED_SOURCE_IMPLEMENTATION_VERIFIED_WITH_EXPLICIT_MEDIA_LIMITS",
   "canon_bytes_changed": false,
   "story_days_advanced": 0,
   "new_episodes": 0,
@@ -158,9 +158,26 @@
   },
   "github": {
     "repository": "kazekamimp3/kaze808",
-    "privacy": "UNVERIFIED_AUTHENTICATION_BLOCKED",
-    "app_access": "No accessible installations returned",
-    "deployment": "NOT_UPLOADED"
+    "visibility": "private",
+    "installation_id": 172842142,
+    "repository_selection": "selected",
+    "accessible_repositories": [
+      "kazekamimp3/kaze808"
+    ],
+    "import_commit": "a8796b3bd4c5c2b94c893b55db9dcc79fca5b703",
+    "import_tree": "84c38034116fea6bdbbb2fcfb81f33dc6dc944cc",
+    "verified_import_files": 44,
+    "source_tree_errors": [],
+    "workflow": {
+      "run_id": 39174615257,
+      "job_id": 117814633542,
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/kazekamimp3/kaze808/actions/runs/39174615257"
+    },
+    "rollback_branch": "checkpoint/s7ns-verified-import-20261018",
+    "source_retrieval": "Remote manifest, current-state owner, E20 checkpoint and E20 manuscript exact",
+    "source_bytes_unchanged": true
   },
   "narration": {
     "status": "PROVIDER_REJECTED_BY_AUTHOR",
@@ -178,12 +195,35 @@
     "test": "Textual request-validation gates only; no image generated in this WORK task"
   },
   "remaining": [
-    "Secure GitHub sign-in",
-    "Verify private repository and inspect existing contents",
-    "Resolve App access for only the requested repository",
-    "Scoped upload without overwriting unrelated files; commit/branch/Actions result readback",
-    "Narration provider selection remains unset after author rejection; no further audio generation",
-    "Actual visual production needs approved image bytes; no generation requested"
+    "Narration provider unset after author rejection; no episode audio generated",
+    "Approved image bytes required before derivative visual generation",
+    "No unattended cross-service synchronization configured; source-to-reference refresh is through connected tools"
   ],
-  "resume": "Continue these same workspace IDs and package. Do not repeat completed population, source retrieval or create duplicate workspaces."
+  "resume": "Continue these same workspace IDs and package. Do not repeat completed population, source retrieval or create duplicate workspaces.",
+  "previous_authentication_blocked_checkpoint": {
+    "status": "PARTIAL_IMPLEMENTATION_AUTHENTICATION_BLOCKED",
+    "github": {
+      "repository": "kazekamimp3/kaze808",
+      "privacy": "UNVERIFIED_AUTHENTICATION_BLOCKED",
+      "app_access": "No accessible installations returned",
+      "deployment": "NOT_UPLOADED"
+    }
+  },
+  "remote_source_retrieval": [
+    {
+      "owner": "state/Post_Chris_Restart.json",
+      "sha256": "203fa5b469e4285335c852dbe513eeef7dfef0c57272b42d459b3d291827a800",
+      "exact": true
+    },
+    {
+      "owner": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json",
+      "sha256": "a04da18712cfdc91c64a0c7c5ca810aa3ffdbb46b94642617a8f36b289c55a7c",
+      "exact": true
+    },
+    {
+      "owner": "state/evidence/S3_Reset_Episode_20_20261018.txt",
+      "sha256": "12c91032405edf9c8aae912d55f52d66481d6e4ecdf151e02f8727ce27905d58",
+      "exact": true
+    }
+  ]
 }
