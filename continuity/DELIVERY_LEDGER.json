@@ -298,6 +298,57 @@
           "bytes": 4746
         }
       ]
+    },
+    {
+      "episode": 27,
+      "title": "The Highest Bidder",
+      "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "manuscript": "continuity/episodes/E27/S3_Episode_27_The_Highest_Bidder.txt",
+      "manuscript_sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
+      "checkpoint": "continuity/episodes/E27/S3_Episode_27_Checkpoint.json",
+      "checkpoint_sha256": "a52993f9602f9cfb31ef4040df2177034ae5340b88d598a57c7afbd541f527a1",
+      "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_basis": "Reviewed and saved before final response; actual delivery must be reconciled next interaction.",
+      "predecessor_sha256": "4f638b1d11a1677fc2c5e44d00695f77f28638b9f0c5b545e3b1f08cc27d8a21",
+      "preserved_files": [
+        {
+          "path": "continuity/episodes/E27/S3_Episode_27_Checkpoint.json",
+          "sha256": "a52993f9602f9cfb31ef4040df2177034ae5340b88d598a57c7afbd541f527a1",
+          "bytes": 10818
+        },
+        {
+          "path": "continuity/episodes/E27/S3_Episode_27_Review.json",
+          "sha256": "eaef67763da3547a916228c7bbb924c15928fa4aef6fb65afece4b619585c1d4",
+          "bytes": 7575
+        },
+        {
+          "path": "continuity/episodes/E27/S3_Episode_27_The_Highest_Bidder.txt",
+          "sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
+          "bytes": 24510
+        },
+        {
+          "path": "continuity/episodes/E27/VERIFICATION.json",
+          "sha256": "41fafea64d5ba596555f97d1c5fff39ac2f58f2b4b94e79ae87dfde55b4e8f47",
+          "bytes": 312
+        },
+        {
+          "path": "continuity/episodes/E27/attached_source_verification.json",
+          "sha256": "20919ffdbd6fa578e8087c75d1c26fc4893f490fb88e0f7dfb16a06c75938ada",
+          "bytes": 6385
+        },
+        {
+          "path": "continuity/episodes/E27/predecessor_reconciliation.json",
+          "sha256": "0fe070b550f1c02aef381942839ee6162eb29f767c3ade63266d7eef5bb660c2",
+          "bytes": 510
+        },
+        {
+          "path": "continuity/episodes/E27/working_brief.md",
+          "sha256": "62ee69b90c326bd1ea8da1428bc5b5314ad7c1ba49bd2f1a13648e22e559c931",
+          "bytes": 4595
+        }
+      ]
     }
   ],
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. No historical prepared checkpoint rewritten. E21 presentation complaint remains unapplied; E23/E24 prospective encounter correction was enacted in E25, not retroactively.",
@@ -309,5 +360,11 @@
       "sha256": "4a40186ce5614247b67403f0cfb388884ba71d1f5272b413e530016afe76557a"
     }
   ],
-  "prepared_episode": null
+  "prepared_episode": {
+    "episode": 27,
+    "manuscript": "continuity/episodes/E27/S3_Episode_27_The_Highest_Bidder.txt",
+    "manuscript_sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
+    "checkpoint": "continuity/episodes/E27/S3_Episode_27_Checkpoint.json",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED"
+  }
 }

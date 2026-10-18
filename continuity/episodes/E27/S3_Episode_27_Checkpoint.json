@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 27,
+  "title": "The Highest Bidder",
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "delivery_policy": "Deliver this exact reviewed text. On next interaction verify actual response against this hash before marking DELIVERED_PROVISIONAL; do not infer acceptance or advance live cursor merely from preparation.",
+  "delivery_evidence": {
+    "manuscript": "S3_Episode_27_The_Highest_Bidder.txt",
+    "sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
+    "author_acceptance": "NOT_ASSERTED"
+  },
+  "predecessor": {
+    "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+    "episode": 26,
+    "title": "Room to Move",
+    "status": "DELIVERED_PROVISIONAL",
+    "exact_manuscript_sha256": "4f638b1d11a1677fc2c5e44d00695f77f28638b9f0c5b545e3b1f08cc27d8a21",
+    "original_prepared_checkpoint_preserved": true,
+    "author_acceptance": "NOT_ASSERTED",
+    "evidence": "Exact delivered manuscript and matching checkpoint reconciled in connected handoff; author explicitly requests direct continuation. No retrospective revision."
+  },
+  "source_authority": {
+    "manifest_sha256": "6bd2e87d866cdf2c30ba24ac2f19b0db38ee45ebaef8a708a83919a2b141d733",
+    "release": "THE_SINS_NOXUS_SOLO_BRIAR_FIRST_MEETING_20261018",
+    "physical_sources_verified": 28,
+    "full_sources_preserved": true,
+    "connected_handoff_commit": "b77c89fec68a5fddd2a3f1ab4467415f2c2f818f",
+    "author_override": "continuity/author/Kaze_Romance_OFF_After_E26.json"
+  },
+  "author_control": {
+    "KAZE_ROMANCE_ENABLED": false,
+    "Briar_stays": true,
+    "history_preserved": true,
+    "new_romance_or_hookup": false,
+    "relationship_breakup": false
+  },
+  "time": {
+    "opening": "Immediate E26 morning road exchange, Kaze/Briar beside Orren/Samira wagon after landing",
+    "elapsed": "Morning walk into Lask, local office, food, yard sale and departure; no overnight or precise clock invented",
+    "completed_overnights_since_E20": 4
+  },
+  "positions": {
+    "Kaze_Briar_Samira_Naganeka": "Moving away from eastern Lask beyond last timber rack on road. Kaze pulls ballista carriage by raised drawbar; Briar and Samira walk alongside. Naganeka remains imprisoned in actual ballista.",
+    "Orren": "Last seen unloading metal fittings at Lask ironmonger, then entering shed; no longer driving party.",
+    "letter": "Samira sealed letter is in local western-gate carrier office outgoing south-road satchel. Clerk says after market bell; departure and remote delivery NOT observed.",
+    "Veyr": "Alive, last seen damaged siege-yard threshold; cash chest broken, some coins in hand.",
+    "Dresk": "Town edge beside discarded transport bands, looking after departing trio/ballista; one soldier inspecting bands. Four soldiers survived and withdrew, exact final position of remaining three unspecified.",
+    "Kratos": "E26 last observed toward quarry hills; no new observation.",
+    "Baldur": "E26 firsthand escape report retained, curse intact, current whereabouts unknown.",
+    "Elise": "E25 countryhouse last known; no new activity asserted.",
+    "ensemble": "E20 last-known Zaun/BELLY positions retained as last-known only; focus paused, world not frozen."
+  },
+  "events": [
+    "Walk to Lask; paid ride fulfilled. Orren hands letter to clerk and pays postage from own purse; local outgoing custody only.",
+    "Kaze spends one silver on food for three, six to five. Enters Veyr sale with Briar/Samira.",
+    "Veyr unveils actual Darkin ballista. Dresk seeks siege weapon for unnamed ridge hold. Driver reports prior harbor gate collapse caused route blockage, detour axle failure, half cargo loss and moved sale.",
+    "Kaze steps boundary rope, grabbed by guard, kills him through shield cart wheel; punches second guard through gallery. Second final fate unknown.",
+    "Crossbow bolt deflected on existing right forearm structure; Kaze breaks crane base, swinging chain kills crossbowman, wrecks platform/cash chest. No coins looted.",
+    "Spearman attacks Briar, cuts upper arm. She closes range, traps spear against closed pillory, headbutts/bites and kills guard. Blood feeding closes wound. Two guards flee.",
+    "Kaze stops ballista carriage before crew escape through service doors. Samira rescues nearby woman, draws pistol but fires no shots. Dresk and soldiers withdraw alive.",
+    "Close voice at actual weapon introduces Naganeka of Zuretta. She requests removal; no host, possession, manifestation, assimilation or projectile demonstration.",
+    "Kaze deliberately breaks front gate despite available wide rear service doors, steals intact ballista/carriage without paying. Pottery and merchant property damaged.",
+    "Orren disclaims further obligation. Outside east town pair discuss voluntary company/restraint; Naganeka does not agree to serve Kaze.",
+    "Kaze removes two modern transport bands only. Ancient prison intact. Trio continue with ballista, Dresk watches from town edge."
+  ],
+  "state": {
+    "Kaze": {
+      "money_silver": 5,
+      "money_change": "6 minus 1 food; no auction payment or cash-chest loot",
+      "condition": "No new functional wound; prior healed injuries remain healed. Bare chest, blood/dust persist, fresh enemy blood on hand, knee tear widened by own thread pull. No clothes repair.",
+      "equipment": "Black Marrow singular/integrated, not drawn. Existing right forearm defense only. New physical custody of ballista/carriage, not new personal power.",
+      "powers": "No upgrade, automatic assimilation or kill growth. Danger sense contextual not omniscient. Cleave/WCS unused and sword-only; removed packages remain removed."
+    },
+    "Briar": {
+      "condition": "Upper-arm spear cut closes during actual feeding; blood on skin/mouth persists. Pillory intact/closed throughout, no frenzy.",
+      "agency": "Defends herself, chooses dialogue and company; stays with Kaze, no gang admission/exclusivity or resumed romantic pursuit."
+    },
+    "Samira": {
+      "left_wrist": "Still braced/injured",
+      "equipment": [
+        "one ordinary loaded pistol",
+        "knife",
+        "powder flask",
+        "lead-ball pouch"
+      ],
+      "shots": 0,
+      "specialist_weapons": "Still stolen BELLY loot; no recovery, replacement or blacksmith delivery",
+      "agency": "Voluntary temporary travel until boring, not Sin membership",
+      "history": "Prior E25 hookup and grievances preserved; no new flirt/hookup while OFF."
+    },
+    "Orren": {
+      "pistol": "Traded ordinary pistol remains last-known wrapped/locked rear box; no transfer or shot",
+      "letter": "Forwarded to local clerk, not remotely delivered",
+      "cargo": "Metal fittings being unloaded; horses/wagon undamaged as observed"
+    },
+    "Naganeka": {
+      "identity": "Naganeka of Zuretta, actual imprisoned Darkin ballista, newly encountered",
+      "custody": "Physically transported by Kaze on original wheeled carriage; brackets remain, two modern bands removed",
+      "abilities_shown": "Quiet nearby speech only; no range theorem, projectile effect, living host, weapon/body swap, beast form or curse bypass established",
+      "intent": "Leave buyers and seek future self-directed agency; neither grateful servant nor recruited Sin",
+      "prison": "Ancient soul bindings unchanged; no new body"
+    },
+    "relationships": "Briar stays. Historical two Briar hookups and one each Samira/Elise retained without repetition or new count. OFF controls prospective behavior, not deletion."
+  },
+  "knowledge": {
+    "Kaze_Briar_Samira": "Hear Veyr/driver coastal disruption and Dresk procurement aim; hear Naganeka name/request and modern restraints versus prison distinction. No automatic full Darkin biography, host method, long-range plan or global recognition.",
+    "Samira": "Can infer Kaze/Briar involvement in harbor gate from exchange; not granted omniscient E21 details or Kratos name/private E26 discussion.",
+    "Naganeka": "Hears Kaze own introduction and Briar own introduction, local speech while near weapon. Samira name not spoken to her on-page. No full Sin history, offstage knowledge or compulsory obedience.",
+    "Veyr": "Reads Kaze tattoo, witnesses damage/theft. Has prior weapon speech experience; not shown hearing harbor admission or connecting Kaze to original gate collapse.",
+    "Dresk": "Witnesses formidable violence and theft, hears local public exchanges as positioned. No automatic secret kit, remote law network or all gang crimes knowledge.",
+    "Orren": "Sees trio and ballista/blood/damaged gate on exit, not all interior violence/dialogue.",
+    "narrator": "Mimir narration remains separate from actor hearing; source explanation does not transfer full source knowledge."
+  },
+  "consequences": {
+    "confirmed_dead": "Three Veyr guards: shield-wheel victim and crossbowman killed by Kaze, spearman killed by Briar. Gallery guard fate unknown. Two guards flee. No named canon character death.",
+    "damage": "Shield cart/axle, gallery/floor, crane, platform/cash chest, front gate stonework, outside pottery; civilians injured among gallery wreckage, number/fates unspecified. Ballista carriage still functional.",
+    "military": "Dresk loses access to planned purchase but retains four soldiers; ridge siege not depicted or resolved. No automatic Swain/Darius/LeBlanc notice.",
+    "prior": "Harbor casualties/gate, quarry loss, vineyard/countryhouse damage, theft/debts/Heisenberg product and all gang history retained. New driver testimony gives concrete local cascade, not global omniscience."
+  },
+  "outline_delta": {
+    "completed_now": [
+      "Lask arrival",
+      "local letter forwarding",
+      "first Naganeka encounter",
+      "ballista custody theft and modern transport-band removal"
+    ],
+    "next_cursor": "E28 after actual E27 delivery, road beyond eastern Lask timber racks",
+    "open_threads": [
+      "Actual consequences of local deaths/theft",
+      "Naganeka agency and possible compatible escape, no outcome granted",
+      "Letter south-road dispatch/remote receipt pending",
+      "Samira equipment grievance",
+      "Kratos independent quarry inquiry and cursed Baldur alive",
+      "Other selected encounters conditional on actual access/choices"
+    ],
+    "not_replayed": "E19 Deadpool, E22 Baldur and E26 Kratos introductions remain completed; old superseded S3 outcomes not imported"
+  },
+  "episode_record_contract": {
+    "exact_manuscript_sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
+    "review_file": "S3_Episode_27_Review.json",
+    "body_words": 4016,
+    "assumed_wpm": 150,
+    "estimated_minutes": 26.77,
+    "measured_audio": false,
+    "complete_final_reread": true,
+    "author_acceptance": false
+  }
+}

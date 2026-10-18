@@ -95,5 +95,12 @@
     "retained_selected": "Other crossover/native opportunities conditional on agency and access. Elise/Vilemaw curiosity retained without departure or outcome. Baldur alive/report moving, no reset or repeated initial introduction.",
     "prior_completed": "E19 Deadpool introduction/recovery and E22 Baldur first fight remain completed despite stale prospective register text; no repeat intro required."
   },
-  "scope": "Derived routing/current evidence overlay, not replacement of full owners. Original E26 relationship descriptions remain historical; OFF controls prospective writing."
+  "scope": "Derived routing/current evidence overlay, not replacement of full owners. Original E26 relationship descriptions remain historical; OFF controls prospective writing.",
+  "prepared_episode": {
+    "episode": 27,
+    "manuscript": "continuity/episodes/E27/S3_Episode_27_The_Highest_Bidder.txt",
+    "manuscript_sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
+    "checkpoint": "continuity/episodes/E27/S3_Episode_27_Checkpoint.json",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED"
+  }
 }

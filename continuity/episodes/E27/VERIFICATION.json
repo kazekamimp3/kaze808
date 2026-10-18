@@ -1,0 +1,9 @@
+{
+  "exact_manuscript_sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
+  "copy_equals_reviewed_final": true,
+  "checkpoint_hash_matches": true,
+  "review_hash_matches": true,
+  "physical_sources_unchanged": true,
+  "body_words": 4016,
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED"
+}

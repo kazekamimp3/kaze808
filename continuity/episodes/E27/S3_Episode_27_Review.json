@@ -1,0 +1,87 @@
+{
+  "episode": 27,
+  "exact_manuscript_sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
+  "author_acceptance": false,
+  "full_text_read_coverage": [
+    {
+      "file": "episode_draft_v1.txt",
+      "sha256": "bda13e4fa2677f4240ea6e156cc07e8f9a75b0c23f4e356e61920d63cfbeaf67",
+      "coverage": "Complete draft reopened and read before substantive revision."
+    },
+    {
+      "file": "episode_revised_v2.txt",
+      "sha256": "07555e894ee74319f1c2fba7bac3f8eac395926bcf861bc296e9d2f59ea6b1c5",
+      "coverage": "Complete revision reopened/read, untruncated 6063-token result; further repairs identified."
+    },
+    {
+      "file": "episode_final_v3.txt",
+      "sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
+      "coverage": "Initial combined output truncated and not credited. After final food-continuity repair, complete final reread in untruncated ranges 1–250,251–500,501–727. No later prose edits."
+    }
+  ],
+  "source_coverage": {
+    "hashes": {
+      "canon/characters/kaze_current.md": "7599d28a4c712ca076cf9cb43ff15e09d517e05b64c792d48ca77d6b17aa5c7a",
+      "canon/characters/kaze_psychology.md": "0dacdf0b26697a1589ec190d6ba4e1c0b081448f4b3ceb26c4422d4827ad4cca",
+      "canon/characters/kaze_future_progression.md": "2b4a05aa52ba7084319f3e13b64849086b8696a136dc38dc59e9d2a8d1ba0389",
+      "character_sources/Kaze_Character_Source.txt": "cf14cdd13d45ef60c157da6985e8e81977e1e548ccf9b6c2e5cb18dea91f18af",
+      "character_sources/season3/Briar_Character_Source.txt": "888b526a1ab8646f96965431d753cefd348a56100867ada2a8c2593031732613",
+      "character_sources/season3/Elise_Character_Source.txt": "123db809f5d29df0dfe7b7dd028c3ce6cb562e5d68e9179a1f8f50bd3d60f275",
+      "character_sources/Black_Mimir_Narration_Source.txt": "d9c8d74faab73b72cf12f843a14f2961302e70ad39d480a680ed8727049e0bf5",
+      "canon/relationships/Kaze_Adult_Romance_20261018.md": "d1e07d0fcb71070c90616bbdbe087fd2acabecbaac6204557f4511626e7dc145",
+      "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md": "0071bd518d993d03473cb79bdeca58097dd7e2f66d950157188c0c0ecf76bb8f",
+      "reference/runeterra/champion_appendix.md": "9756e792e2b3a1cd594f7023203f4a32f5c832ef6e98a3c6f8396f288424cf2a",
+      "reference/research/Noxus_Cast_Fidelity_Research.md": "f661f53882d00c20a5225ce2744e2f10ebed801cf535532270cc31269664faba",
+      "topic_sources/Season_3_Condensed_Outline.txt": "72f82a4d93902486b723bde7df9ef5c6ff53d6e3b6ec2c5866290e23ff886088",
+      "character_sources/season3/Samira_Character_Source.txt": "475700e0ddb141170639d482098d89e96bbba8d1ec3150fa5fcbaa0e0fb48bad",
+      "research/GOW_Baldur_Kratos_Fidelity_20261018.md": "ece537a0fc4801123c16e31c7ab4d32cc4b34176a33f05e3000654db85a82a8f",
+      "topic_sources/Season3_Current_Roster_Register_20261018.json": "16327ae9aba4707f6a6df663436c14e8c243f084fa38b01798c16fbd0404bcde",
+      "character_sources/runeterra_extended/Naganeka_of_Zuretta_Fidelity_Source.txt": "a9b8c2c502c08a15f73cf323f27707c911d90ec31890c40f07441f3a9b38184b",
+      "topic_sources/Darkin_Continuity_and_Deployment_Source.txt": "a9c20d3b58c3eb62e5ba300cc0c01cbd722e1822c0df1f9b7079685cb4ff84dd",
+      "topic_sources/Season_3_Darkin_Plots.json": "c3b12582c81f2d31e1ac1866c7bcebb688036866c2237a240837b7a758386e2e",
+      "topic_sources/Kaze_Street_Politics_and_Retaliation_Source.txt": "7f994157f517a372c1e446055073611d3961cf97bc50c0546443b0d304319b1a"
+    },
+    "fresh_complete_reads": "Exact E26 manuscript/checkpoint; short Kaze portrayal; Briar; Samira; Black Mimir recovered across chunks; scene doctrine; condensed outline; Naganeka fidelity; full Darkin deployment; street politics owner.",
+    "reused_complete_reads": "Unchanged full Kaze mechanics/psychology/progression/shared owners from retained same-session research; identity reverified, not falsely labeled new reads.",
+    "targeted_reads": "Naganeka plot entry and current crossover/consequence registers; material kit clauses; all manifest and episode-pair hashes verified.",
+    "limits": "Combined truncated source outputs not credited as full reads. Official new card JSON unavailable; secondary card-flavor reproduction and creator-attributed whisper reference used narrowly, no audio audition or invented stat profile."
+  },
+  "actual_repairs": [
+    "V1 too short: added causal harbor transport losses and moved sale, plus substantive voluntary-restraint conversation; no filler fight expansion.",
+    "Road horses corrected to stay on road, shield cart distinguished from ballista carriage, gate/service-door geometry clarified.",
+    "Ordinary bolt no longer inflicts unsupported deep wound; uses established right-forearm defense, not new kit.",
+    "Briar attacked by spear with causal approach instead of arbitrary pillory grab; blood-fed recovery and closed restraint retained.",
+    "Naganeka learns name through actual introduction, not narration; no automatic freed body.",
+    "Captain explicit speaker; Days avoids false chronology precision; blood aftermath and seated drawbar posture clarified.",
+    "Introductions explain Samira/Briar briefly, blood magic recovery understandable to new listener.",
+    "Final food repair changes swallowed last meat to another bite so later mouthful is consistent."
+  ],
+  "five_review_responsibilities": {
+    "capabilities": "Source-governed danger warning, fast baseline physical action, existing forearm defense and blood healing; no invented upgrades or mandatory weaker options.",
+    "presentation": "Single Mimir narrator, short distinct speech, concrete yard anchors and introductions, physical stages before damage; no internal system labels in scene.",
+    "world": "E21 gate consequence returns through actual driver testimony; new local NPCs/goals, letter custody, military buyers and bystanders retain causal stakes.",
+    "behavior": "Kaze knowingly steals/escalates, Briar acts independently, Samira rescues civilian and uses sound hand, captain preserves soldiers, Naganeka pursues own agency.",
+    "story": "Selected Naganeka opportunity enacted with actual custody change, no repeated duel or pre-awarded escape. Briar stays and romance remains OFF."
+  },
+  "weakest_span": "V1 ending too thin and length below target; restraint dialogue now changes how Briar and Naganeka understand voluntary company, without promising a host. V1 seller was generic; driver loss now carries real prior consequences.",
+  "regressions": {
+    "inventory_money": "PASS: 6->5, zero shots, no stolen coin gain; specialist weapons absent.",
+    "damage": "PASS: three confirmed deaths, fourth guard unknown, civic damage persists, healed wound does not clean blood/clothes.",
+    "actor_knowledge": "PASS: names and information arise through spoken/witnessed access; no remote messages auto-delivered.",
+    "romance": "PASS: OFF, no flirting/intimacy; prior history retained without breakup.",
+    "prison": "PASS: modern transport bands only; soul prison/body/weapon powers not upgraded.",
+    "audio": "NOT_RUN; text-runtime estimate only"
+  },
+  "runtime": {
+    "body_words": 4016,
+    "assumed_wpm": 150,
+    "estimated_minutes": 26.77,
+    "measured_audio": false
+  },
+  "web_evidence_urls": [
+    "https://www.runeterrafire.com/cards/naganeka-of-zuretta",
+    "https://www.runeterrafire.com/cards/the-darkin-ballista",
+    "https://x.com/Spideraxe30/status/1567193453989175296"
+  ],
+  "remaining_limits": "No author acceptance, audio measurement, exhaustive future outcome, new Actions success or Project-UI instruction installation claimed."
+}

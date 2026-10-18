@@ -41,6 +41,13 @@
       "Delivery Status": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
       "Manuscript SHA256": "4f638b1d11a1677fc2c5e44d00695f77f28638b9f0c5b545e3b1f08cc27d8a21",
       "Checkpoint Source": "continuity/episodes/E26/S3_Episode_26_Checkpoint.json"
+    },
+    {
+      "Episode": "S3 Episode 27: The Highest Bidder",
+      "Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Delivery Status": "PREPARED_SAVED_NOT_YET_DELIVERED; author acceptance NOT_ASSERTED",
+      "Manuscript SHA256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
+      "Checkpoint Source": "continuity/episodes/E27/S3_Episode_27_Checkpoint.json"
     }
   ],
   "Characters": [
