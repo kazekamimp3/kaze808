@@ -1,0 +1,47 @@
+LATEST: KAZE AND BRIAR HAVE NEVER MET
+state/work/Briar_First_Meeting_Author_Override_20261018.json supersedes previous shared-history/companion claims below. Noxus solo first female encounter is Briar, then early mutual non-graphic intimacy planned. Not already together. Keep unrelated history/world consequences. NO PLAY.
+
+LATEST NOXUS SOLO AND CHAMPION REGION AMENDMENT
+Noxus opening with Briar planned; account for travel from exact E20. World consequences/clock continue while ensemble focus pauses. Selected encounters remain unordered. Grayson, Sky Young and Cassandra Kiramman remain DEAD, superseding any older blanket living-return wording below. Female Runeterra list means champions, use reference/Female_Champion_Regions_20261018.json. See state/work/Kaze_Solo_Romance_20261018.json and state/work/Female_Roster_Restoration_20261018.json. NO PLAY.
+
+LATEST FEMALE ROSTER / ROMANCE AMENDMENT AFTER E20
+Female life status now follows state/work/Female_Roster_Restoration_20261018.json. Samira/Jinx/Vi/Caitlyn and other deceased roster women restored living; deaths remain history, no staged return or automatic knowledge/relationship. Tristana18 and adult Gwen eligibility retained. Romance ON; strengthened reciprocal progression, non-graphic adult group encounters possible. NO PLAY until requested. This supersedes prior no-Isolde-resurrection wording below; no old romance/pregnancy/power is restored.
+
+LATEST AUTHOR OVERRIDE — 18 OCTOBER 2026 HONOLULU, AFTER E20
+Kaze romance is ON prospectively; read canon/relationships/Kaze_Adult_Romance_20261018.md. Kaze solo adventures begin next with Briar; ensemble paused under the parallel-cursor rule. Preserve E20 and earlier actual history. Later OFF/ON paragraphs below are historical where conflicting; Briar membership/stay direction and Rick/Morty nonmembership remain. No old Isolde event or automatic attraction/success grant.
+
+RETAINED PREVIOUS AUTHOR RECORD
+THE SINS — CURRENT SCOPED AUTHOR UPDATE
+17 October 2026, Pacific/Honolulu. WORK ONLY; NO STORY ADVANCEMENT.
+Branch: S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017
+
+AUTHORITY AND ROUTING
+Read this update before the controlling manifest and relevant full owners. It records the latest explicit author decisions and overrides only contradictory membership, departure-planning and Kaze-romance configuration in older sources. It is an additional current author layer, not a replacement for the complete character, psychology, voice, lore, mechanics, research or storytelling-repair owners. The original manifest and source bundles remain intact. The existing doctrine remains the single storytelling procedure.
+
+BRIAR STAYS
+Author: “when does briar leave the gang? i want to change that so that she doesnt leave.”
+The departure recorded as Episode 14 belongs to the superseded old Season 3. It has not occurred in the active reset. At the last delivered reset Episode 15 endpoint, Briar has not yet met or joined the Sins.
+Keep the selected independent introduction, developing relationships, her own voluntary choice and unanimous admission by the actual then-current members. Once she joins, she stays with the gang. Remove the departure arc from this branch; do not import or recreate the old farewell, require a return, or manufacture an expulsion to reproduce it.
+Preserve adult characterization, independent goals, meaningful disagreements, self-chosen restraint and the real risks of blood frenzy. Staying does not make her property, a child, a pet, an automatic subordinate or Kaze's assigned romantic partner. Shared action or a meal alone does not establish membership.
+Affected owners: character_sources/season3/Briar_Character_Source.txt; topic_sources/Season_3_Post_Chris_Rebuilt_Outline.json and .txt; topic_sources/Group_Relationships.txt; topic_sources/Character_Application_Routes.txt; topic_sources/Darkin_Continuity_and_Deployment_Source.txt; topic_sources/Season_3_Continuity_and_Crossover_Source.txt. Their old departure claims are inactive for this reset.
+
+KAZE ROMANCE ON
+Author: “also i want to turn kaze romance back on”.
+Effective author configuration: KAZE_ROMANCE_ENABLED = true.
+This is the explicit direct toggle defined by state/current_state.yaml and canon/characters/kaze_psychology.md. It supersedes older OFF wording wherever repeated. Apply it prospectively after delivered Episode 15, including the next unreleased episode.
+His complete existing psychology, speech and adult chemistry can inform flirting, pursuit, romantic affection and consensual non-graphic intimacy. Attraction, reciprocity and outcomes remain character-driven. No partner is assigned and no past encounter, relationship, consent or attraction is reconstructed. All other actors retain agency. The toggle changes no powers, physical state, possessions or story clock.
+Affected owners: state/current_state.yaml; character_sources/Kaze_Character_Source.txt; canon/characters/kaze_psychology.md; canon/characters/global_originals.md; topic_sources/Ensemble_Scene_Application.txt; authority/ENGINE.md; canon/presentation/PRESENTATION.md. Preserve their full nonconflicting detail and existing relationship boundaries.
+
+RICK AND MORTY REMAIN NONMEMBERS
+Clarifying author decision: “rick and morty can still be in the story but they do not join the gang”.
+Both may remain independent actors in the story. Neither joins the Seven Sins. Supersede both planned admissions and all older descriptions that assume Sins membership. This is not removal from the story, replacement by other characters, a new expulsion or an invented prior membership.
+They may meet, visit, collaborate, disagree or act separately through actual motives, choices, resources and access. Neither receives a member vote, automatic attendance, default gang spoils, resident status or access to Billy's interior merely from an older cast listing.
+Preserve their separate identities, existing source versions, voices, supported abilities, source knowledge and nonconflicting author-approved relationship directions. In particular, Rick can still back Billy's old-days claims when actually aware, and remains the selected sole inventor of Billy's future evolution. That future scene still needs actual access, Billy's informed consent and new execution; gang membership is not required. Billy's later body and tongue remain unearned until that occurs. Chris's permanent vehicle/source configuration is not removed or reassigned. Morty remains excluded from sexualized content.
+Affected owners: state/Post_Chris_Restart.json and state/current_state.yaml relationship/membership projections; current season outlines; topic_sources/Character_Application_Routes.txt; topic_sources/Group_Relationships.txt; character_sources/Sins_Group_and_Reputation_Source.txt; any older roster or plan that assumes either admission. Full sources remain available.
+
+CONTINUATION AND PRESERVATION
+Last delivered main episode: Season 3 Episode 15, “The Other Side”. Its exact manuscript and matching checkpoint remain unchanged and delivered-provisional; no implicit author acceptance is invented.
+Manuscript SHA-256: f916a1e5ba8c1b9f044385a6c473cea5b7eaf33cdb35f79b578b8b7553847104
+Checkpoint SHA-256: 41a329cca51c7342fb3b602861cbd42992b5207301baff19782d915d51be54bc
+Next episode is 16 when PLAY resumes. Any private Episode 16 draft is undelivered and establishes no events. Do not restart Episode 1 from the reset-opening source cursor, import superseded Season 3 events, or turn planned outcomes into present knowledge, relationships or possessions.
+Preserve Seasons 1–2, confirmed campfire Specials, the installed storytelling repair, exact delivered reset episodes/checkpoints, full nonconflicting owners and originals/rollback evidence. This update creates no scene, injury, death, resurrection, meeting, transfer or passage of story time. No unresolved choice remains among these three author directions.

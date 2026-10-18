@@ -1,0 +1,189 @@
+{
+  "mode": "WORK_ONLY_NO_PLAY",
+  "status": "PARTIAL_IMPLEMENTATION_AUTHENTICATION_BLOCKED",
+  "canon_bytes_changed": false,
+  "story_days_advanced": 0,
+  "new_episodes": 0,
+  "manifest_sha256": "6bd2e87d866cdf2c30ba24ac2f19b0db38ee45ebaef8a708a83919a2b141d733",
+  "source_integrity": {
+    "physical": 28,
+    "logical": 453,
+    "complete_routes": 156,
+    "result": "PASS",
+    "mutation_tests": [
+      "baseline copy passes",
+      "corrupted physical file fails",
+      "missing source fails",
+      "path traversal fails"
+    ],
+    "exact_E20_retrieval": true
+  },
+  "airtable": {
+    "base_id": "appKCCr9zg0rsfbOI",
+    "tables": {
+      "Characters": {
+        "count": 110,
+        "errors": []
+      },
+      "Episodes": {
+        "count": 3,
+        "errors": []
+      },
+      "Abilities and Equipment": {
+        "count": 28,
+        "errors": []
+      },
+      "Consequences": {
+        "count": 30,
+        "errors": []
+      },
+      "Author Decisions": {
+        "count": 7,
+        "errors": []
+      },
+      "Research Evidence": {
+        "count": 41,
+        "errors": []
+      },
+      "Source Owners": {
+        "count": 453,
+        "errors": []
+      }
+    },
+    "total_records": 772,
+    "field_readback": "Every projected field matched",
+    "duplicate_keys": 0,
+    "idempotent_sync_operations": 0
+  },
+  "notion": {
+    "hub": "https://app.notion.com/p/3fd4e1b729b38146b48cc3f823ebddd0?pvs=204",
+    "pages": [
+      {
+        "page": "S7NS | Encyclopedia and Production Index",
+        "characters": 3276,
+        "table_rows": 0,
+        "untruncated": true,
+        "no_unknown_blocks": true
+      },
+      {
+        "page": "Author Decisions and Exclusions",
+        "characters": 3379,
+        "table_rows": 8,
+        "untruncated": true,
+        "no_unknown_blocks": true
+      },
+      {
+        "page": "Research Evidence and Gaps",
+        "characters": 12042,
+        "table_rows": 42,
+        "untruncated": true,
+        "no_unknown_blocks": true
+      },
+      {
+        "page": "Audio and Visual Production",
+        "characters": 3051,
+        "table_rows": 0,
+        "untruncated": true,
+        "no_unknown_blocks": true
+      },
+      {
+        "page": "Validation and Change Control",
+        "characters": 3469,
+        "table_rows": 0,
+        "untruncated": true,
+        "no_unknown_blocks": true
+      },
+      {
+        "page": "Mechanics and Restrictions",
+        "characters": 8237,
+        "table_rows": 29,
+        "untruncated": true,
+        "no_unknown_blocks": true
+      },
+      {
+        "page": "Episode and Checkpoint Index",
+        "characters": 2626,
+        "table_rows": 4,
+        "untruncated": true,
+        "no_unknown_blocks": true
+      },
+      {
+        "page": "Characters and Relationships",
+        "characters": 23420,
+        "table_rows": 110,
+        "untruncated": true,
+        "no_unknown_blocks": true
+      }
+    ],
+    "duplicates_created": 0
+  },
+  "drive": {
+    "workspace": "https://drive.google.com/drive/folders/1RrEZtbm3JO1ZvIF-ZJvsno79ZGVZQPaz",
+    "source_zip_sha256": "e6078c1291d4074d874302d4cb743020f2c5f15d39535481efd49d18d1208694",
+    "source_zip_readback_exact": true,
+    "file_checks": [
+      {
+        "name": "S7NS_Reference_Projection_20261018.json",
+        "sha256": "5c39e455feac8c1867a6f80003da377d06a8ac0e0ee055586722180bcdcd7e55",
+        "bytes": 286758,
+        "exact_match": true
+      },
+      {
+        "name": "Season_3_Episode_19_Checkpoint_Current.json",
+        "sha256": "e672d8eca93cd6b4a22c2fb2956de8073f9dd2ec078d4efddf9928c1cfdc9fef",
+        "bytes": 192033,
+        "exact_match": true
+      },
+      {
+        "name": "S3_Episode_20_The_Express_Service.txt",
+        "sha256": "12c91032405edf9c8aae912d55f52d66481d6e4ecdf151e02f8727ce27905d58",
+        "bytes": 24830,
+        "exact_match": true
+      },
+      {
+        "name": "S3_Episode_19_Narrow_Mercy.txt",
+        "sha256": "bad564d22fd6064be29168de434d604d7aeeb48b1274277214a7fc3eb03fa126",
+        "bytes": 24578,
+        "exact_match": true
+      },
+      {
+        "name": "Season_3_Episode_20_Checkpoint_Current.json",
+        "sha256": "a04da18712cfdc91c64a0c7c5ca810aa3ffdbb46b94642617a8f36b289c55a7c",
+        "bytes": 12224,
+        "exact_match": true
+      }
+    ],
+    "permissions": "Uploaded files read back shared=false; owner-only permission metadata",
+    "original_snapshot_preserved": true
+  },
+  "github": {
+    "repository": "kazekamimp3/kaze808",
+    "privacy": "UNVERIFIED_AUTHENTICATION_BLOCKED",
+    "app_access": "No accessible installations returned",
+    "deployment": "NOT_UPLOADED"
+  },
+  "narration": {
+    "status": "PROVIDER_REJECTED_BY_AUTHOR",
+    "disabled_provider": "AI Voice Generator",
+    "active_provider": null,
+    "test_scope": "Only a short non-story technical sample was sent before rejection; no manuscript or episode sent",
+    "gate": "Exact reviewed manuscript hash; complete speech and pronunciation owners; 3750–4500 prose words at assumed 150wpm; no rewrite, new delivery or acceptance",
+    "long_form_status": "NOT_BENCHMARKED",
+    "automatic_rewrite": false
+  },
+  "visuals": {
+    "tool": "image_gen.imagegen",
+    "gate": "Read complete character owner and inspect approved visual bytes first; do not substitute obsolete art; variants remain derivatives until author approval; no new powers; no source replacement",
+    "approved_reference_bytes": "Not in this repository-ready text package; exact reference required for production",
+    "test": "Textual request-validation gates only; no image generated in this WORK task"
+  },
+  "remaining": [
+    "Secure GitHub sign-in",
+    "Verify private repository and inspect existing contents",
+    "Resolve App access for only the requested repository",
+    "Scoped upload without overwriting unrelated files; commit/branch/Actions result readback",
+    "Narration provider selection remains unset after author rejection; no further audio generation",
+    "Actual visual production needs approved image bytes; no generation requested"
+  ],
+  "resume": "Continue these same workspace IDs and package. Do not repeat completed population, source retrieval or create duplicate workspaces."
+}
