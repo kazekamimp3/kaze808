@@ -155,6 +155,10 @@
     {
       "path": "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json",
       "status": "LATEST_AUTHOR_BELLY_ROOMMATES"
+    },
+    {
+      "path": "continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json",
+      "status": "LATEST_AUTHOR_NARRATOR_AND_RIVALRY_OVERRIDE"
     }
   ],
   "carried_forward_unstaged": {
@@ -179,7 +183,7 @@
     "authorized_episode": null,
     "next_episode": 33,
     "last_delivered_episode": 32,
-    "basis": "Latest author WORK changes TPP true identity, future Clifford surgery and Kaze OFF; no E33 authorized or story advance."
+    "basis": "Latest author WORK selected Deadpool as prospective sole main narrator and broadened TPP multi-roster/Zid rivalry. No E33 PLAY authorized or generated."
   },
   "delivery_status": "DELIVERED_PROVISIONAL",
   "delivery_reconciliation": "continuity/episodes/E32/DELIVERY_RECONCILIATION.json",
@@ -411,5 +415,13 @@
     "Frylock": "AUTHOR_SELECTED_NEW_CROSSOVER_FUTURE_ENTRY_UNENACTED",
     "current_residents": "Charles and Meatwad remain inside; Chris/Billy body rules unchanged",
     "tone": "Hoarder's cave, salvage-fueled resident projects and grotesque character-driven escalating comedy; physical inventory and camera access evidence required"
-  }
+  },
+  "primary_narrator": "DEADPOOL / WADE WILSON, beginning E33",
+  "primary_narration_owner": "canon/presentation/Deadpool_Primary_Narration_After_E32_20261019.md",
+  "narrator_voice_research": "research/Deadpool_Primary_Narrator_Full_Speech_and_Rick_Contrast_20261019.md",
+  "black_mimir_main_narrator_status": "HISTORICAL_ONLY_THROUGH_DELIVERED_E32; preserves person/history, not current ordinary narrator from E33",
+  "newest_author_narrator_tpp_directive": "continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json",
+  "deadpool_narrator_and_embodied_character_separation": "Wade narrator sees available enacted scenes as a story, but physical Deadpool has no new telepathy, omniscience, secret BELLY vision, future knowledge or locations.",
+  "current_TPP_world_intersections": "TPP and prospective Zid can encounter any causally accessible living S3 roster, not only Sins; real people choose independently; guide continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md",
+  "current_vibe": "catastrophic absurdism, grotesque BELLY roommate sitcom, disgusting verbal warfare, sudden sincerity, total committed stupidity"
 }
