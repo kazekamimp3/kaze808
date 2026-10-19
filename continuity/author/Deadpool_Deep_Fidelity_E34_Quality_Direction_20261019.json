@@ -1,0 +1,34 @@
+{
+  "schema": "S7NS_AUTHOR_SCOPED_EDITORIAL_FEEDBACK_V1",
+  "date": "2026-10-19",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "mode": "WORK_ONLY_NO_PLAY",
+  "authority": "User explicitly requested deep research on Deadpool speech, transcripts, fourth-wall/meta awareness; user agreed to assistant's listed E34 quality recommendations. Correct assistant's false-positive Dana/Mana criticism from verified exact text.",
+  "research_owner": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
+  "narrator_owner": "canon/presentation/Deadpool_Primary_Narration_After_E32_20261019.md",
+  "author_approved_future_editing": {
+    "deadpool": "Raise priority of the distinctive post-2024 Wade voice: controlled/hyperverbal audience conspiracy, smart filthy specifics, recursive meta, self-mythology corrected by pain, sincere pauses and vulnerability; only Wade owns fourth-wall narrator role, Rick secondary, no new embodied Wade.",
+    "s7ns": "Preserve current Sins individuality and continuity. Comic tangents must alter interpretation or relationships and land on truth, not replace continuity explanation.",
+    "tpp": "Move from repetitive cargo-ledger administrative deals into more original elaborate, risky, character-driven crimes and rivalries with real means, changing gains/losses, access and independent victims. No obligatory Dr Evil/Austin arrival or all-cast quota.",
+    "kk": "Explore the twenty-foot independent tree person's full botanical, social, humor, utility, healing/support and emotional possibilities. Learn from all actual accessible Sins/roommates, not only Kaze. Do not repeat automatic attacked-tree-kills-philosophizes template, force a Sin admission or auto-kill.",
+    "episode_34": "Keep successful K.K./Kaze honest disagreement and meaningful TPP gains, retain original manuscript, improve subsequent narration and variety rather than reset."
+  },
+  "retracted_assistant_criticism": {
+    "claim": "E34 forgot Dana/Mana's BELLY egress",
+    "verdict": "FALSE_POSITIVE_WITHDRAWN",
+    "exact_existing_text": "Behind him, Billy accepted Daynuh's request to leave and brought him and Mahnuh out in turn. Chris stayed inside with his household and the live monitor.",
+    "source": "continuity/episodes/E34/S3_Episode_34_A_Bad_Influence.txt",
+    "rule": "Do not patch, replay, add a duplicate egress, or treat this passage as missing."
+  },
+  "episode_delivery_and_acceptance": {
+    "last_episode_played_in_conversation": 34,
+    "episode_34_author_acceptance": "NOT_ASSERTED",
+    "episode_34_rating": "Assistant feedback only; numeric score is NOT author-selected canon.",
+    "story_days_advanced_by_this_work": 0,
+    "rewrite_original_E34": false,
+    "next_episode": "35 only if E34 is separately reconciled as delivered; future PLAY requires new author command"
+  },
+  "evidence_scope": "Three film script/transcript research with individual creator interviews. Full audio voice/acoustic analysis and all-drafts exhaustiveness not claimed.",
+  "cutover": "Additive GitHub author/editorial owner; no claim of updating Project attached bundles, MANIFEST hashes or custom instructions. No automatic ESKETIT QAPX.",
+  "scope": "Prospective narrator/editorial controls; past delivered story unchanged."
+}
