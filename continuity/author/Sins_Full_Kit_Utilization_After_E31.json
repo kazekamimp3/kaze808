@@ -108,5 +108,32 @@
   },
   "next_action": "Apply this overlay through PLAY_START_HERE.md alongside current owner routes and sole story doctrine during next authorized WORK/PLAY, especially before E32 story decisions.",
   "acceptance": "NOT_ASSERTED",
-  "story_advance": false
+  "story_advance": false,
+  "related_speech_behavior_audit": "continuity/editorial/Sins_Speech_Behavior_Audit_After_E31_20261018.json",
+  "current_full_portrayal_application": {
+    "status": "SOURCE-GROUNDED_FORWARD_AUTHORING_APPLICATION_NOT_NEW_AUTHOR-SELECTED_POWERS_OR_SCENES",
+    "finding": "Full character psychology, voice, behavior, interpersonal instincts and player humor are being narrowed alongside the full-kit underuse. E30/E31 passage comparisons and evidence limits live in the linked editorial audit; old media research retains recorded scope.",
+    "owner_routes": [
+      "character_sources/Kaze_Character_Source.txt and canon/characters/kaze_psychology.md S39-K01–K40",
+      "character_sources/Chris_Character_Source.txt and existing Theo/IDC adaptation",
+      "character_sources/Billy_Character_Source.txt and music/prehistoric speech owners",
+      "character_sources/Daniel_Character_Source.txt and canon/characters/daniel_humor.md, Davidson/Cummins/Jo Koy research",
+      "character_sources/Arthur_Character_Source.txt and Arthur speech/RDR2 retained evidence",
+      "approved_rolloff/staged/ZID_CHARACTER_AND_REVEAL_PATCH.md and retained group relations",
+      "character_sources/Sins_Group_and_Reputation_Source.txt and topic_sources/Group_Relationships.txt",
+      "character_sources/Black_Mimir_Narration_Source.txt; canon/presentation/PRESENTATION.md"
+    ],
+    "rules": [
+      "Preserve each actual person’s conversational engine, independent motive, emotional contradictions, humor and recurrent personal habits, not just a signature line or combat outfit.",
+      "Let a joke, strategic question, memory, challenge, tenderness, intimidation, lie, boast or private grievance change what an interlocutor chooses, not exist as a detachable stock exchange.",
+      "Use the whole available kit and whole personality together: skill, fear, curiosity, affection, deception and object-specific motives determine which ability or social tactic gets selected.",
+      "Zid is a reinstated character with independent Sid-dominant voice and Jerry-like relational pressure, but E30/E31 lack his appearance and his exact position cannot be invented to satisfy coverage.",
+      "Black Mimir remains first-person, Scottish/Chicago, profane where earned, personally fallible and TTS-legible, not generic neutral action reportage or a vessel for authoring rules.",
+      "No joke, monologue, technique, scene length, cast attendance, accent or profanity quota; no imitation of a research performer or unverified actor/audio-performance certification.",
+      "Current author corrections for Kaze alcohol, shameless adult flirting and 99 percent attraction remain controlling without overriding consent or fabricating E31 Katarina romance."
+    ],
+    "story_delta": false,
+    "retroactive_rewrite": false,
+    "review": "Apply the existing sole Season3_Scene_Decision_Doctrine_20261010.md whole-draft read/repair/reread, using actual audit passage/source comparisons, never a second checklist-only review engine."
+  }
 }
