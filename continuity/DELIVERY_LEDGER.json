@@ -452,6 +452,21 @@
       "delivery_reconciliation": "continuity/episodes/E31/DELIVERY_RECONCILIATION.json",
       "delivery_basis": "E31 exact prose delivered in chat, not accepted; source pair preserved.",
       "predecessor_sha256": "32dcc04c32d793b82cc8eb4737bbe10f19a22745f7b57d328bbe8cee54f4ad2f"
+    },
+    {
+      "episode": 32,
+      "title": "No Horizon",
+      "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "manuscript": "continuity/episodes/E32/S3_Episode_32_No_Horizon.txt",
+      "manuscript_sha256": "2ecb5636e02885b90e07b222a18b6865961173fecd7ca5a79424cc220b1849ad",
+      "checkpoint": "continuity/episodes/E32/S3_Episode_32_Checkpoint.json",
+      "checkpoint_sha256": "f85963d42eaa3aac908b24df3dc8523d3854e66ea68977089908257fe93da9b6",
+      "review": "continuity/episodes/E32/S3_Episode_32_Review.json",
+      "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_basis": "Full reviewed 4454-word episode, GitHub manuscript/checkpoint/review Git blob readback exact to local saved bytes; final PLAY response not yet delivered.",
+      "predecessor_sha256": "8aff3a9fd9266b5a38477270099c35ac1eb9da859d7ace3d6352d9cd9f907845"
     }
   ],
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. No historical prepared checkpoint rewritten. E21 presentation complaint remains unapplied; E23/E24 prospective encounter correction was enacted in E25, not retroactively.",
@@ -480,13 +495,13 @@
       "hash_note": "Use exact live blob/current file, do not guess hash"
     }
   ],
-  "prepared_episode": null,
+  "prepared_episode": 32,
   "playback_control": {
-    "paused": true,
-    "authorized_episode": null,
+    "paused": false,
+    "authorized_episode": 32,
     "next_episode": 32,
     "last_delivered_episode": 31,
-    "basis": "Author interrupted next PLAY for character/voice/world corrections. No E32 authored/delivered; E31 delivered provisional, author acceptance NOT_ASSERTED."
+    "basis": "E32 PLAY requested, reviewed prepared, no delivery or acceptance inferred before actual rendered response."
   },
   "previous_prepared_episode_history": 30,
   "latest_world_consequence_control": "continuity/author/World_Serpent_and_Autonomous_S3_Roster_After_E31_20261018.json"
