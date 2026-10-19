@@ -1151,11 +1151,11 @@
     }
   },
   "playback_control": {
-    "paused": true,
-    "authorized_episode": null,
+    "paused": false,
+    "authorized_episode": 32,
     "next_episode": 32,
     "last_delivered_episode": 31,
-    "basis": "The author paused the next episode during Kaze romance, full-kit, Mimir, TPP, living-world and world-serpent revisions. WORK is no story advance, no E32 delivered. E31 saved prepared file is a preserved historical artifact after actual delivery."
+    "basis": "Author PLAY E32; reviewed pair prepared, not yet delivered. Original E29 prepared provenance remains intact."
   },
   "historical_prior_to_E30_cursor": {
     "status": "ACTIVE_ENSEMBLE_AFTER_E29_ROMANCE_ON_NAGANEKA_DROPPED",
@@ -1200,5 +1200,18 @@
   },
   "prepared_episode_historical_label": "Original prepared_episode object describes E29's original checkpoint. It is preserved for provenance, not active E32 preparation.",
   "recurring_living_encounter_authority": "continuity/author/Recurring_Living_Roster_Encounters_After_E31_20261018.json",
-  "recurring_living_encounter_rule": "Living cast may meet and remeet Sins, Noxian actors, TPP and each other as often as real motives/encounters support. A completed introductory appearance never removes availability. Respect dead status and explicit offstage hold."
+  "recurring_living_encounter_rule": "Living cast may meet and remeet Sins, Noxian actors, TPP and each other as often as real motives/encounters support. A completed introductory appearance never removes availability. Respect dead status and explicit offstage hold.",
+  "prepared_episode_after_E31": {
+    "episode": 32,
+    "title": "No Horizon",
+    "manuscript": "continuity/episodes/E32/S3_Episode_32_No_Horizon.txt",
+    "manuscript_sha256": "2ecb5636e02885b90e07b222a18b6865961173fecd7ca5a79424cc220b1849ad",
+    "checkpoint": "continuity/episodes/E32/S3_Episode_32_Checkpoint.json",
+    "checkpoint_sha256": "f85963d42eaa3aac908b24df3dc8523d3854e66ea68977089908257fe93da9b6",
+    "review": "continuity/episodes/E32/S3_Episode_32_Review.json",
+    "body_words": 4454,
+    "estimated_minutes_at_150_wpm": 29.69,
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED"
+  }
 }
