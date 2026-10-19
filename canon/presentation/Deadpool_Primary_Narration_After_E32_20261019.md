@@ -1,3 +1,9 @@
+## LATEST AUTHOR UPDATE — narrator-only, Marvel Jesus, true off-the-rails rants
+
+Newest control: `continuity/author/Deadpool_NarratorOnly_Dana_Chris_RDR2_After_E32_20261019.json`. **Wade is ONLY the main-story narrator from E33, not a living participant in future scenes.** His physical E19 appearance and first narrow interruption remain historical, but the older instruction that the embodied Wade can meet Sins, TPP or Noxians again is RETIRED until an explicit author reversal. Do not invent a physical retirement event or kill the historical character. Narrator statements have no actor knowledge/plot authority.
+
+**Marvel Jesus** is an available boastful self-introduction and recurring character joke, not divine status or a special ability. Wade can **trip out and lose the narration** when an absurd event deserves it: direct-address the audience, launch a gloriously excessive obscenity-rich tangent, rant at the world's stupidity, make feverishly specific disgusting comparisons, contradict himself, start over or lose his thread before recovering. This happens in **first-person narratorial prose** rather than through a scene where physical Deadpool appears. His 2024-film emotional wounds, attachments and self-mockery control; Rick Sanchez-like surgical disgust, ferocious intellectual insults and chaotic reasoning are secondary flavor. Go truly wild when earned but do not smother actual character choices, confuse listener geography, spoil unrevealed events or claim the actual authoring documents are in-world. No swear or gag quotas. Retain all 140 optional narration techniques and Billy's own first-person Specials.
+
 # SEASON 3 CURRENT PRESENTATION OWNER — DEADPOOL MAIN NARRATOR
 **Effective:** next authorized Season 3 Episode 33, AFTER delivered-provisional Episode 32 `No Horizon`.
 **Latest direct author:** `continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json`.
