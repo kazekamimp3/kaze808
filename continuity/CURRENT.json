@@ -163,6 +163,10 @@
     {
       "path": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
       "status": "LATEST_AUTHOR_SCOPED"
+    },
+    {
+      "path": "continuity/author/Mimir_Kratos_Chris_Stash_Clifford_Visual_QAPX_After_E32_20261019.json",
+      "status": "LATEST_DIRECT_AUTHOR_WORK_STAGING"
     }
   ],
   "carried_forward_unstaged": {
@@ -445,5 +449,28 @@
     "story_clock_advanced": false,
     "source_route": "routing/Current_Roster_Kit_Overrides_20261019.json",
     "note": "Resume latest checkpoint and active sources; do not revisit or reenact earlier events; no E33 yet."
-  }
+  },
+  "latest_author_Mimir_stash_Clifford_QAPX": "continuity/author/Mimir_Kratos_Chris_Stash_Clifford_Visual_QAPX_After_E32_20261019.json",
+  "mimir_kratos_after_valhalla": {
+    "same_mimir": "Same formerly narrating project Mimir reanimated head on post-Valhalla Kratos hip, full canon memory/voice and physical-sense limits. Deadpool alone narrates future main episodes.",
+    "Kratos": "Post-Valhalla reflective God of War, last seen E26 toward quarry hills; no later route inferred.",
+    "companion_owner": "canon/characters/Kratos_Mimir_Post_Valhalla_Companions_20261019.md",
+    "physical_access": "As of newest author portrayal Mimir is physically on Kratos belt; his own previous omnipresent narrator access is retired."
+  },
+  "chris_BELLY_food_stash": {
+    "pepsi": "Pepsi in BOTTLES, not cans, no exact ounces",
+    "peanut_butter": "Reese's peanut butter (exact product unspecified)",
+    "cereal": "Eyeholes cereal",
+    "location": "Inside BELLY real hoarded domestic storage",
+    "inventory": "No endless replenishment; counts and shelving unknown",
+    "source": "canon/characters/Chris_Food_Stash_20261019.md"
+  },
+  "clifford_Marston_live_visual": {
+    "neck": "Bent/crooked due to retained repeated cliff falls/pushes by Chris and Arthur; appear consistently",
+    "tattoos": "Their earlier incomplete stick-and-poke markings + distinct incomplete TP from E17",
+    "condition": "Until author-enacted future surgery wheelchair/lived limitations persist; later walking surgery doesn't automatically heal neck or remove markings",
+    "source": "character_sources/crossover_extended/Clifford_Marston_Visual_20261019.md",
+    "event_status": "Current look, no new shove/tattoo/surgery PLAY"
+  },
+  "QAPX_cutover_stage": "Prepared new source owner files and consolidated replacement/project-instructions proposal, NOT yet installed or approved by QAPX."
 }
