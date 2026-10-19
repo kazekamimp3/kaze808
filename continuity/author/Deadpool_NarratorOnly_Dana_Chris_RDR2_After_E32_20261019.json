@@ -14,13 +14,14 @@
   "dana_chris": {
     "status": "AUTHOR_SELECTED_RECURRING_DOWNTIME_RELATIONSHIP",
     "activity": "Play RDR2 together more often at the existing single interior BELLY gaming station; real choices and changing friendship matter",
-    "Chris": "No honor concern; compulsive looting, poker, horse antics, antagonizing NPCs, save-file vigilance and sincere attachment to story people",
-    "Dana": "Practical craftsman/protector and mischief-loving friend; actual game preferences will be established in scenes rather than invented as previous canon",
+    "Chris": "Latest author hard lock: Chris DOES NOT CARE ABOUT HONOR, values looting, antagonizing, chaos and his RDR2 save/story. Their mismatch produces recurring genuine shared gameplay scenes, not a fixed skit.",
+    "Dana": "LATEST AUTHOR HARD LOCK: Dana LIKES HIGH HONOR RDR2 playthroughs, prefers honorable, practical and protective gameplay; occasional individually earned departures possible. Do not invent the specific progress or saves.",
     "access": "Dana current position unresolved after E32; reach game room only through real entry and Billy's rules; Chris must be interior to play; Dana's 8ft10/840lb physical scale and seating/access stay real",
     "relationship": "Contrast, productive arguments, silly competitions and emotional bonding; no mandatory scene/joke schedule",
     "owner": "canon/relationships/Dana_Chris_RDR2_Contrast_After_E32_20261019.md"
   },
   "preserve": "Kaze romance OFF, Dana/Mana loyal, Zid prospective TPP betrayal, all E1-E32 delivered scenes",
   "next": 33,
-  "no_story_advance": true
+  "no_story_advance": true,
+  "latest_RDR2_override": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json"
 }
