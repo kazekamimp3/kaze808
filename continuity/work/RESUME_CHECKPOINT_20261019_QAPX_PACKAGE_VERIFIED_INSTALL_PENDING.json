@@ -1,0 +1,99 @@
+{
+  "schema": "S7NS_QAPX_VERIFIED_CANDIDATE_RESUME_CHECKPOINT_V1",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "mode": "WORK_NO_PLAY",
+  "status": "GITHUB_CANDIDATE_FULLY_SAVED_READBACK_VALIDATED_CHATGPT_PROJECT_INSTALL_NOT_PERFORMED",
+  "prior_checkpoint": "continuity/work/RESUME_CHECKPOINT_20261019_QAPX_FALLBACK_CONTINUED.json",
+  "prior_stage": "continuity/work/RESUME_CHECKPOINT_20261019_QAPX_STAGED_AFTER_E32.json",
+  "latest_delivered": {
+    "episode": 32,
+    "title": "No Horizon",
+    "evidence": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED"
+  },
+  "next": {
+    "episode": 33,
+    "written": false,
+    "played": false,
+    "not_accepted": true
+  },
+  "source_evidence": {
+    "original_physical_files": 28,
+    "original_logical_modules": 453,
+    "original_sha256_match": "28/28",
+    "new_bundle_added": 1,
+    "compiled_full_logical_owner_sections": 44,
+    "repoint_existing": 6,
+    "additional": 38,
+    "final_physical": 29,
+    "final_logical": 491,
+    "integrity_status": "PREPARED_VERIFIED_GITHUB_ONLY_NOT_INSTALLED",
+    "first_failed_hash_pass_and_repair_recorded": true
+  },
+  "files": {
+    "00_S7NS_QAPX_CURRENT_OWNERS.md": {
+      "path": "project_install/20261019/00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "sha256": "bffdde71a650c30b65ef71ef32c2ac0ef9a5678bbd7d7936ea0de60299821af5",
+      "bytes": 923468,
+      "github_blob_sha1": "12c2e890e5dd08ba2f9feca1dde669aa993c9368"
+    },
+    "MANIFEST.yaml": {
+      "path": "project_install/20261019/MANIFEST.yaml",
+      "sha256": "ab4de72b3f200111b6f6c9f28589791c24aea520029e6443b8a0ad00927724f3",
+      "bytes": 327721,
+      "github_blob_sha1": "00a416676cb5c46c64240456b1aaf82cded2b6b5"
+    },
+    "S7NS_PROJECT_INSTRUCTIONS_READY.txt": {
+      "path": "project_install/20261019/S7NS_PROJECT_INSTRUCTIONS_READY.txt",
+      "sha256": "3839b8a93a2b52c68a5574b00a545a5d8ac2ddf17a3312f25eff4ec0649bd667",
+      "bytes": 7975,
+      "github_blob_sha1": "58a16a100838b1ccb0866b954be6de31d0864ec7"
+    },
+    "QAPX_INTEGRITY_INDEX.json": {
+      "path": "project_install/20261019/QAPX_INTEGRITY_INDEX.json",
+      "sha256": "5b0e8a6ecc87885197139d0f4f4d8e19d38e06119293f714bd6bfa8cc8df9a72",
+      "bytes": 14592,
+      "github_blob_sha1": "d152ed5b3c947ab271a16bce502d7924b0120a78"
+    },
+    "VERIFICATION_REPORT_FINAL.json": {
+      "path": "project_install/20261019/VERIFICATION_REPORT_FINAL.json",
+      "sha256": "8134289e524643075f2aa4b2b72d68018b7a7d87682a4ec4e79e34376aa1d158",
+      "bytes": 1839,
+      "github_blob_sha1": "15f05feabf83e3de804e781812d690db84c28fa2"
+    },
+    "INSTALL_README.md": {
+      "path": "project_install/20261019/INSTALL_README.md",
+      "sha256": "8a83737797d6eed61179d9eeece9a10add4a4b995f309948ae6d3679ebbcbb20",
+      "bytes": 3256,
+      "github_blob_sha1": "fe0f46e1a51ee4a30fa86b357222feba42ee295c"
+    }
+  },
+  "installation": {
+    "project_files_added": 0,
+    "project_files_replaced": 0,
+    "project_custom_instructions_changed": false,
+    "project_install_verified": false,
+    "reason": "Connected GitHub allows source commits and readback, but current standard chat has no authorized direct Project attachment/custom instruction editor; manual steps in INSTALL_README.md",
+    "required_manual_steps": [
+      "Add exact new 00_S7NS_QAPX_CURRENT_OWNERS.md to existing Project sources",
+      "Replace current MANIFEST.yaml only, do not delete 28 originals",
+      "Paste entire under-8000 S7NS_PROJECT_INSTRUCTIONS_READY.txt into Project custom instructions",
+      "Reopen and independently read back installed source names/content and Project instructions before declaring cutover complete"
+    ]
+  },
+  "next_unfinished_step": "MANUAL_PROJECT_UI_ATTACHMENT_PLUS_INSTRUCTIONS_CUTOVER_AND_READBACK_ONLY; no research restart or regenerated sources",
+  "cross_service": "GitHub saved and checked. Airtable/Notion/Google Drive sync is NOT confirmed by this pass.",
+  "preserve": [
+    "All exact S1-2, five Specials and S3 E1-E32 manuscripts/checkpoints original versions",
+    "Latest author overrides including loyal Dana/Mana, excluded Teemo, Deadpool narrator-only, Kratos/Mimir, older serpent, Kaze romance OFF, TPP, BELLY, real complete kits",
+    "No E33 story event, no author acceptance, no fictional scene or time advance"
+  ],
+  "verification_summary": [
+    "Candidate exact whole-file SHA-256 and bytes",
+    "29 physical bundles (original 28 unchanged plus add-on)",
+    "491 manifest logical entries unique",
+    "All 44 owner payload digests, offsets, lengths and manifest routes match",
+    "Route/access addenda both current and consistent for all 42 source owners",
+    "Project instructions 7,966 chars <=8,000"
+  ]
+}
