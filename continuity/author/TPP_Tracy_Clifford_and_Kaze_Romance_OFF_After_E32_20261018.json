@@ -1,0 +1,47 @@
+{
+  "schema": "S7NS_LATEST_AUTHOR_PENDING_APPLICATION_CHECKPOINT_V1",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "mode": "WORK_NO_PLAY",
+  "author_changes": {
+    "Brusta": "The actual full-sized man in Brusta Thymes is Tracy Morgan, not Busta Rhymes. Brian and the TPP crew incorrectly believe he is Busta. Preserve the Brusta Thymes nickname as their mistaken belief. Brian is the separate fictional adult miniature human conjoined to the larger man's shoulder, NOT Brian Griffin from Family Guy.",
+    "Clifford": "Clifford Marston (same adult Jack Marston) is to undergo a future shoddy off-brand Vader-like operation restoring walking by established surgery and mechanical support. Narration deliberately imitates the *expectation* of an Anakin-to-Vader surgical reveal, withholding identity fairly until final reveal that patient is Clifford. Do not imply actual Anakin, real Star Wars history or an already-completed operation. Research John Marston's cadence but do not confuse father John with adult Jack.",
+    "Kaze": "ROMANCE OFF prospectively immediately after delivered E32. Preserve previously delivered intimacy, kisses, adult partner history and author-selected future pregnancy outcomes without new automatic relationships. No new flirting/hookup scripted while toggle OFF.",
+    "TPP": "Needs more source-faithful comedic ensemble energy with differentiated Dutch, Brian, Tracy and Clifford personalities; stronger criminal rivalry and genuine motivations. Influences already preserved; no catchphrase quota.",
+    "absurd_crossovers": "User requests suggestions for unexpected humorous Season 3 arrivals; Buzz Lightyear and Woody are examples, not automatically approved/deployed members."
+  },
+  "research_completed_and_verified": [
+    {
+      "file": "research_sources/Tracy_Morgan_Speech_Fidelity_After_E32_20261018.md",
+      "github_blob": "cb57f20d2608eb4e750f8b04eeab70daefd81988"
+    },
+    {
+      "file": "research_sources/John_Marston_RDR_Speech_and_Clifford_Contrast_20261018.md",
+      "github_blob": "55844efdbbdc231bf9e76b442aa7ee936d42f602"
+    }
+  ],
+  "unfinished": [
+    "Update current author romance and TPP identity/source owners and routes, without rewriting delivered manuscripts.",
+    "Reconcile TPP cast reference label and future Clifford surgical option into active outline.",
+    "Prepare grounded absurd-crossover suggestions as optional, not automatically canon.",
+    "Read back changes and mark actual complete/partial status."
+  ],
+  "delivered": {
+    "last": 32,
+    "title": "No Horizon",
+    "acceptance": "NOT_ASSERTED",
+    "next": 33
+  },
+  "preserve": [
+    "Original Season 1-2/Specials and E1-E32 exact prose",
+    "Dana and Mana restored loyal, Zid betrayal to TPP future",
+    "Chris/Billy one-exterior, entire full kit/speech/psychology",
+    "Actual E32 TPP harbor ledger and World Serpent consequences"
+  ],
+  "not_enacted": [
+    "Clifford surgical reconstruction",
+    "TPP discovering Tracy is not Busta",
+    "new WTF crossover arrivals",
+    "E33 scene"
+  ],
+  "no_play": true
+}
