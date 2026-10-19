@@ -16,8 +16,7 @@
   "prepared_episode": null,
   "continuation_authorization": {
     "episode": 36,
-    "status": "NOT_AUTHORIZED",
-    "note": "PLAY E35 authorization was consumed by E35 delivery. Feature edit/audit request is distinct; no fresh PLAY E36."
+    "status": "NOT_AUTHORIZED"
   },
   "state_owner": "continuity/episodes/E35/S3_Episode_35_Checkpoint.json",
   "state_rule": "Exact E34 scene positions/resources/knowledge in paired checkpoint govern; PREPARED pre-delivery labels superseded only by separate E34 delivery receipt. No reset, author acceptance or new story events from WORK.",
@@ -87,8 +86,8 @@
   "work_research_saved": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
   "latest_scoped_editorial": "continuity/author/Deadpool_Deep_Fidelity_E34_Quality_Direction_20261019.json",
   "work_only_story_days_advanced": 0,
-  "work_resume_checkpoint_latest": "continuity/work/RESUME_CHECKPOINT_E35_UNDER_NEW_MANAGEMENT_FEATURE_AUDIT_20261019.json",
-  "work_resume_checkpoint_latest_git_blob_sha1": "df3bd94c2f01e85e0a9674161eae80cf714a9fa9",
+  "work_resume_checkpoint_latest": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_ABSURDITY_TRIPLE_PLAY_FEATURE_PREPARED_20261019.json",
+  "work_resume_checkpoint_latest_git_blob_sha1": "92aea421caadcc919a7a2bf70f47307ed0df5e0d",
   "comedy_speech_research_latest": "research/Rick_ATHF_Trover_TPP_Comedy_Dialogue_DeepPass_20261019.md",
   "comedy_speech_research_git_blob_sha1": "f0c2af5389ac12562aee32d636ea996f533d9555",
   "storytelling_comedy_audit_latest": "continuity/editorial/S7NS_Projectwide_Story_Comedy_Routing_Audit_After_E34_20261019.md",
@@ -138,5 +137,12 @@
   "feature_E33_E35_directors_cut_audit_blob_sha1": "8dbb08fe26bfb50c33d6f18af01d172b5bb922eb",
   "feature_E33_E35_work_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_UNDER_NEW_MANAGEMENT_FEATURE_AUDIT_20261019.json",
   "feature_E33_E35_work_checkpoint_blob_sha1": "df3bd94c2f01e85e0a9674161eae80cf714a9fa9",
-  "feature_E33_E35_status": "AUTHOR_APPROVED_SEPARATE_COMBINED_PRESENTATION_DIRECTION; SOURCE_BASED_AUDIT_SAVED; FEATURE_MANUSCRIPT_NOT_YET_CREATED; E36_UNWRITTEN_NOT_AUTHORIZED"
+  "feature_E33_E35_status": "PREPARED_REVIEWED_SAVED_NOT_YET_PLAYED_TO_CHAT",
+  "latest_author_play_format": "continuity/author/Chris_Mundane_Absurdity_Triple_Episode_Feature_Author_20261019.json",
+  "latest_chris_character_application": "canon/characters/Chris_Everyday_Absurdity_Cumulative_Character_Application_20261019.md",
+  "default_PLAY_format_owner": "canon/presentation/S7NS_Triple_Episode_Seamless_Feature_PLAY_Default_20261019.md",
+  "default_PLAY_format": "THREE_CONSECUTIVE_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_OVERRIDDEN",
+  "play_presentation_retrieval_route": "routing/Chris_Triple_Play_Feature_And_140_Technique_Active_Routes_20261019.json",
+  "feature_E33_E35_final": "continuity/features/E33_E35/S3_Under_New_Management_Complete_Directors_Cut_FINAL.txt",
+  "feature_E33_E35_paired_checkpoint": "continuity/features/E33_E35/S3_Under_New_Management_Complete_Directors_Cut_Checkpoint.json"
 }
