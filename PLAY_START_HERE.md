@@ -1,5 +1,9 @@
 # Connected S7NS startup and PLAY
 
+## Latest author correction: full Sins kit must be actively considered
+
+Read `continuity/author/Sins_Full_Kit_Utilization_After_E31.json` together with the COMPLETE relevant actor owners, especially `character_sources/Arthur_Character_Source.txt` and `canon/characters/s37_kit_application.md`. Latest author feedback says Arthur's HIGH NOON, THE COUNT, cyber-eye, kinetic bank and full body/weapon systems, and the rest of the Sins' earned kits, have been substantially underused. Reconstruct the substantive scene from the full available options, character choice and actual mechanical constraints BEFORE writing a narrower move. Do not hide earned charge/Hypercharge as future, use default UNSHAKEN for everything, or replace authored abilities with generic shots and banter. Apply to perception, movement, preparation, dialogue, high-stakes combat, ordinary utility and consequences, not a move showcase or quota. E31 was delivered; E32 remains author-paused. Preserve originals and existing romance, power removal, one-exterior, pacing and story procedure boundaries.
+
 ## Current author pause after delivered Episode 31
 
 Read `continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json#/latest_author_amendment_after_E31` before inherited romance, alcohol or pending-attraction language. The author has explicitly specified: Kaze does not drink alcohol; he shamelessly flirts in every eligible adult-female encounter regardless of the situation; his sexual-attraction success rate is 99 percent. He is a confident, highly effective player, not a timid suitor repeatedly brushed off. Show normally successful, character-specific attraction and developing pursuit without using duties or danger as a blanket delay. Attraction does not grant sexual consent, perfect mind-reading or control of another character. Keep the existing non-graphic adult intimacy rules, full character depth, ensemble focus and pacing correction.
