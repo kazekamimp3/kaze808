@@ -1147,7 +1147,8 @@
     "continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json",
     "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
     "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
-    "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json"
+    "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json",
+    "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json"
   ],
   "encounter_register": "continuity/Runeterra_Women_Encounter_Register.json",
   "encounter_register_sha256": "705c5cdf25ae6cb5823e85cb1940f014782634b90b90ff362de5fa13274790dd",
@@ -1429,6 +1430,12 @@
       "status": "AUTHOR_SELECTED_ROSTER_PROSPECTIVE_NOT_INTRODUCED",
       "source": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
       "requirement": "Real physical arrival, canonical body/scale, psychology/agency and power limits; independent choice, no cameo quota."
+    },
+    {
+      "name": "Frylock",
+      "status": "AUTHOR_SELECTED_ROSTER_PROSPECTIVE_NOT_INTRODUCED",
+      "destination": "BELLY roommate, author-planned on-page entry",
+      "source": "research/Transcript_Based_Catastrophic_Absurdism_After_E32_20261019.md"
     }
   ],
   "author_current_absurd_comedy_repair": {
@@ -1442,5 +1449,13 @@
     "patient": "Clifford = adult Jack Marston, not father John or Anakin",
     "presentation": "Vader-like deliberately misleading operation; reveal Clifford at end of surgical sequence, genuine physical/technical costs.",
     "source": "research_sources/John_Marston_RDR_Speech_and_Clifford_Contrast_20261018.md"
+  },
+  "BELLY_absurd_roommates_authority": "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json",
+  "current_comedy_research": "research/Transcript_Based_Catastrophic_Absurdism_After_E32_20261019.md",
+  "BELLY_roommate_future": {
+    "Master_Shake": "AUTHOR_SELECTED_FUTURE_ENTRY_UNENACTED",
+    "Frylock": "AUTHOR_SELECTED_NEW_CROSSOVER_FUTURE_ENTRY_UNENACTED",
+    "current_residents": "Charles and Meatwad remain inside; Chris/Billy body rules unchanged",
+    "tone": "Hoarder's cave, salvage-fueled resident projects and grotesque character-driven escalating comedy; physical inventory and camera access evidence required"
   }
 }
