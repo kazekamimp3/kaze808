@@ -797,7 +797,9 @@
       "status": "INTRODUCTION_AND_PAID_RECOVERY_COMPLETED_E19",
       "source_routes": [
         "character_sources/season3/Deadpool_Character_Source.txt"
-      ]
+      ],
+      "reencounter_allowed": true,
+      "return_policy": "May independently reencounter the Sins, Noxians, TPP or fellow crossovers based on actual shared access; previous meeting remains remembered, no compulsory visit."
     },
     {
       "identity": "Tai Lung",
@@ -857,7 +859,9 @@
       "status": "FIRST_ENCOUNTER_COMPLETED_E30; INDEPENDENT_WITH_REFUGEES_AT_LAST_OBSERVATION",
       "source_routes": [
         "character_sources/season3/Magneto_Character_Source.txt"
-      ]
+      ],
+      "reencounter_allowed": true,
+      "return_policy": "May independently reencounter the Sins, Noxians, TPP or fellow crossovers based on actual shared access; previous meeting remains remembered, no compulsory visit."
     },
     {
       "identity": "Lord Starkiller",
@@ -1113,7 +1117,8 @@
     "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
     "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
     "continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
-    "continuity/author/World_Serpent_and_Autonomous_S3_Roster_After_E31_20261018.json"
+    "continuity/author/World_Serpent_and_Autonomous_S3_Roster_After_E31_20261018.json",
+    "continuity/author/Recurring_Living_Roster_Encounters_After_E31_20261018.json"
   ],
   "encounter_register": "continuity/Runeterra_Women_Encounter_Register.json",
   "encounter_register_sha256": "705c5cdf25ae6cb5823e85cb1940f014782634b90b90ff362de5fa13274790dd",
@@ -1193,5 +1198,7 @@
     ],
     "no_play": true
   },
-  "prepared_episode_historical_label": "Original prepared_episode object describes E29's original checkpoint. It is preserved for provenance, not active E32 preparation."
+  "prepared_episode_historical_label": "Original prepared_episode object describes E29's original checkpoint. It is preserved for provenance, not active E32 preparation.",
+  "recurring_living_encounter_authority": "continuity/author/Recurring_Living_Roster_Encounters_After_E31_20261018.json",
+  "recurring_living_encounter_rule": "Living cast may meet and remeet Sins, Noxian actors, TPP and each other as often as real motives/encounters support. A completed introductory appearance never removes availability. Respect dead status and explicit offstage hold."
 }
