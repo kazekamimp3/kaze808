@@ -1,0 +1,83 @@
+{
+  "schema": "S7NS_E32_REVIEW_V1",
+  "episode": 32,
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "source_basis": [
+    "Current connected PLAY_START_HERE.md, CURRENT and SEASON3_ACTIVE_OUTLINE.json checked; delivered E31 text and matching checkpoint; active after-E31 author overlays for serpent scale, recurring cast, TPP/Zid, organized crime, full kit, romance and Mimir",
+    "Physical uploaded MANIFEST.yaml and extracted logical complete owners from /mnt/data/S7NS_E32/owners, including Kaze/Chris/Billy/Daniel/Arthur full owners; Jormungandr/Thor/Katarina and Black Mimir, group relationships, presentation catalogue and sole scene doctrine",
+    "Recent E30 and E31 passage-specific feedback/chronology; TPP E19 checkpoint historical position near same Noxian port with rented headquarters"
+  ],
+  "draft_process": {
+    "original_body_words": 5032,
+    "revised_body_words": 4454,
+    "assumed_wpm": 150,
+    "estimated_minutes": 29.69,
+    "text_edits": [
+      "Removed 648 words of repetitive recap, setup and explanations while retaining all enacted causal steps.",
+      "Reworked Hessa emergency-rescue motive: launch caught in crosscurrent and driven seaward despite steering to inner berth, not voluntarily taking injured sailors sightseeing.",
+      "Replaced repeated fishermen rescue by a new Noxian patrol-cutter decision to fire at serpent; serpent grounds it using physical wake while sparing complete crushing.",
+      "Clarified harbor office access and TPP physical theft from vacated office, no pre-installed magic document location.",
+      "Clarified Kaze historical recognition, current bottle, Daniel cloud adjacency, Thor connection, and actual planet coil.",
+      "Read the full final text sequentially from opening through end and repaired remaining staging passages."
+    ]
+  },
+  "passage_vs_sources": [
+    {
+      "passage": "Katarina stops at arcade, kisses Kaze then independently leaves for governor.",
+      "owners": "after-E31 Kaze romance/never alcohol; current Katarina full owner; E31 delivered close",
+      "result": "Kaze proactive, adult mutual attraction visible, agency/mission maintained; no new sex/knowledge/child."
+    },
+    {
+      "passage": "E32 ocean body stretches around Runeterra, observed in Noxus and independently Bilgewater; two material maritime incidents and physical warning chain.",
+      "owners": "World Serpent author-scale overlay; Jormungandr GOW snapshot and Runeterra travel",
+      "result": "Author-chosen current global coil enacted without pretending late-S2 coast already globally flooded; source younger intelligence and no spontaneous language/time teleport."
+    },
+    {
+      "passage": "E31 money stays uncounted while Arthur/Chris/Billy dispute handling.",
+      "owners": "E31 checkpoint, group ownership/pay split",
+      "result": "No phantom shares, new coins, acid incident or automatic 60% payout while uncounted."
+    },
+    {
+      "passage": "E32 quay break: cyber-eye reads link strain, HIGH NOON concentrated slug hits exposed iron, Kaze Black Marrow cuts timber, Daniel ice retrieves wheelchair.",
+      "owners": "Arthur full weapon/body/eye source; s37 kit; Daniel and Kaze complete sources",
+      "result": "Functional distinct kits, actual safety/backstop and targets, no arbitrary COUNT charge or offscreen fake shot."
+    },
+    {
+      "passage": "Billy decides to yield exterior to Chris for engine repair; one same-location inversion.",
+      "owners": "Chris/Billy BELLY full owner; E31 endpoint",
+      "result": "Chris exterior afterward, Billy full-size inside, no duplicated exterior or unwarranted empty interior."
+    },
+    {
+      "passage": "Dutch/Clifford/Busta/Brian ticket scam and manuscript ledger theft during real harbor crisis.",
+      "owners": "TPP existing E12/E17 history, independent rival crew author directives",
+      "result": "Actual competing operation, their own money uncertainty and future opportunity, not unseen rent settlement or Zid betrayal."
+    },
+    {
+      "passage": "Thor visible from Noxian coastal overlook, displays Mulenear lightning but withholds attack; younger serpent looks toward him.",
+      "owners": "Thor/Jormungandr sources and late-S2 shared arrival",
+      "result": "Source snapshot retained, no magical time portal, obligatory fight, omniscient Sins or guarantee of home route."
+    },
+    {
+      "passage": "Black Mimir subjective cold open, fair horizon image reversal, independent parallel coast, subjective older-serpent recognition and fallible translation.",
+      "owners": "Black Mimir narrator owner, PRESENTATION 140 optional techniques, single scene doctrine",
+      "result": "Concrete selected storytelling operations used, not checklist recital or source-file access."
+    }
+  ],
+  "observed_editorial_risks": [
+    "Ensemble choose to revisit harbor largely for curiosity rather than new paid score; material big change rests on planet-scale encounter and rival TPP theft. This is intentional variation but may not satisfy a user expecting a gang heist every episode.",
+    "Other major Noxus named leaders absent because report travel and locations not yet earned; no obligatory cameo demanded.",
+    "Only Noxus and one Bilgewater witness visibly observed present serpent events; world-wide coil established, other region-specific damage unknown and must not be invented retrospectively.",
+    "Scene rhythm relies on maritime peril and small stakes within massive scale; author reaction to entertainment/pacing remains unverified."
+  ],
+  "full_review": {
+    "method": "All text reopened sequentially across three continuous chunks after trimming; changed passages repaired; entire final file pass required before release, with paragraph scan and exact hash.",
+    "mechanical_status": "PASS_WITH_DOCUMENTED_UNKNOWNS",
+    "editorial_status": "REVISED_NOT_AUTHOR_ACCEPTED",
+    "body_words": 4454,
+    "manuscript_sha256": "2ecb5636e02885b90e07b222a18b6865961173fecd7ca5a79424cc220b1849ad",
+    "hash_covers_final_bytes": true
+  },
+  "delivery_state": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "acceptance": "NOT_ASSERTED",
+  "network_readback": "NOT_YET_PERFORMED"
+}
