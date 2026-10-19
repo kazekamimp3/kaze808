@@ -18,5 +18,52 @@
   "interpretation_limits": "These are editorial diagnoses of this episode and its plan routing, not proof every earlier/future episode fails.",
   "repair": "Resume ensemble; prioritize existing major score/opposition and developing interpersonal comedy; compress routine stretches; full outline statuses refreshed. Use existing doctrine sections 2–4, not another competing procedure.",
   "next_review": "Identify what changes the listener’s interest through the draft and its weakest span; if actual material cannot earn 25–30 minutes, rebuild/develop a useful strand before prose expansion. No fixed twist/fight/scene quota.",
-  "future_quality": "Requires actual draft review and listener feedback; saving this configuration does not certify an unwritten episode."
+  "future_quality": "Requires actual draft review and listener feedback; saving this configuration does not certify an unwritten episode.",
+  "followup_feedback": [
+    {
+      "episode": 30,
+      "title": "The Right of Passage",
+      "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "author_feedback": "the pacing is dragging so fucken hard man. or something. idk what it is",
+      "status": "AUTHOR_CRITICISM_RECORDED; EDITORIAL_REPAIR_NOT_YET_IMPLEMENTED_OR_LISTENER_VERIFIED",
+      "basis": "Complete Episode 30 as rendered in this conversation, read together with the existing E27 feedback and the fresh E30 review record. This feedback entry does not certify byte-level delivery reconciliation or modify any manuscript/checkpoint.",
+      "review_owner": "continuity/episodes/E30/S3_Episode_30_Review.json",
+      "author_acceptance": "NOT_ASSERTED; explicit engagement criticism",
+      "assistant_editorial_assessment": {
+        "qualification": "The following are passage-grounded editorial interpretations, not an author-confirmed diagnosis, a universal judgment of the season, or a new storytelling doctrine.",
+        "central_problem": "Low dramatic progression for the episode's length. Frequent actions and jokes do not sufficiently develop a Sins-owned objective, deepen an unresolved relationship, or create sustained curiosity.",
+        "passage_comparisons": [
+          {
+            "evidence": "The group chooses the river road toward inland Noxus near the opening and ends walking inland with the road open.",
+            "assessment": "The crossing and refugee escape are real changes, but the main group has mostly removed a transit obstacle. Its own larger undertaking remains vague. A meaningful local event is not automatically enough development for a full-length episode."
+          },
+          {
+            "evidence": "Magneto catches and returns the first gun's iron shot; Kaze kills the second gun's crew before it fires. After the immediate artillery threat ends, the text continues through Sorell's escape, sight-assembly salvage, the Magneto/Kaze argument, cart assistance, wounded-soldier questions, crossing-versus-flying talk, the crossing, refugee aftermath, reporting, Heisenberg status, Inside Job and final road banter.",
+            "assessment": "The extended aftermath spends too much attention on settled or low-yield information rather than developing another consequential choice. Some individual beats have value, but their accumulation weakens the ending."
+          },
+          {
+            "evidence": "Chris/Arthur repeatedly revisit salvage objections; Kaze/Daniel repeatedly exchange provocation and quips; the Magneto/Kaze challenge settles into mutual interest without a substantive bargain or persistent shared dispute.",
+            "assessment": "The voices are active but many exchanges repeat the same social function. Developed comedy or emotional tension should change the interaction, not merely decorate travel and cleanup."
+          },
+          {
+            "evidence": "Narration says Kaze is not reading Magneto's thoughts or stealing his physics, that Arthur's cybernetic body does not surrender itself, and that reports travel by actual horses rather than a miracle.",
+            "assessment": "Production safeguards leak into audience-facing explanations of things that are not happening. Relevant limits should be legible through actual action instead of repeated defensive commentary."
+          },
+          {
+            "evidence": "The E30 review records reducing 4687 draft words to 4491 body words, checking injuries/access and tightening repeated exposition, then marks PASS_FOR_LOCAL_REVIEW. The delivered episode repeats the E27 problem of prolonged logistics and post-conflict discussion.",
+            "assessment": "Continuity checks and compliance with a duration target did not prevent a structural engagement failure. The review must challenge the episode premise and payoff, not only tighten wording within an underdeveloped premise."
+          }
+        ],
+        "recommended_application_within_existing_rules": [
+          "Give the next authorized episode a concrete, actively chosen ensemble objective tied to the retained season direction, rather than another default roadblock, acquisition or permission dispute.",
+          "Compress settled transit, routine salvage, repeated warnings and proof-of-continuity commentary. Do not suppress necessary action geography or real aftermath.",
+          "Preserve humor and quieter character depth, but develop exchanges through changed intentions, status, cooperation or emotional understanding rather than interchangeable quip queues.",
+          "Keep the author-selected 25–30-minute target. Earn it with substantial developing action, choices, relationships or a causally useful independent strand. Do not pad one thin encounter or silently shorten the target.",
+          "Require a meaningful local payoff in the group's undertaking. Avoid ending solely with travel resuming or someone becoming potentially interesting later. This does not require a fixed twist quota, constant combat, stronger guards, forced named-character fights or predetermined losses.",
+          "Apply the already-installed scene doctrine and full-text review. No new plugin, architecture rebuild, season reset, cast purge or duplicated workflow is proposed as the cure."
+        ]
+      },
+      "scope": "Feedback maintenance only. No episode rewritten, replayed or newly generated; no story time advanced; no author acceptance or completed editorial repair asserted. Future changes still require actual drafting, full review and separate delivery."
+    }
+  ]
 }
