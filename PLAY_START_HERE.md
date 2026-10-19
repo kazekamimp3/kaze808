@@ -1,3 +1,7 @@
+## Latest after-E32 TPP identity, Clifford surgery and romance OFF
+
+Read `continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json` before old TPP and Kaze romance headers, with `research_sources/Tracy_Morgan_Speech_Fidelity_After_E32_20261018.md` and `research_sources/John_Marston_RDR_Speech_and_Clifford_Contrast_20261018.md`. Brusta is physically Tracy Morgan, whom Brian and the TPP gang mistake for Busta Rhymes; the mini conjoined human is original fictional Brian, NOT Family Guy's Brian Griffin. Clifford is adult Jack Marston, NOT father John; planned off-brand Vader walking surgery and final Clifford-reveal are future, NOT delivered E32. Kaze ROMANCE OFF prospectively, retains prior relationship history, and previous compulsory flirt instructions are suspended while OFF. Preserve all E1–E32 texts, full sources, Dana/Mana loyalty, Zid future betrayal. E33 not played; WORK creates no scene.
+
 Library 112+70 agency reference: `/S7NS/Season3_Character_Agency_Matrix_20261018.json` and `/S7NS/Season3_Character_Agency_Reading_Map_20261018.md` contain individual source-bounded motivations for the broader selected cast. Treat as a derived working guide only; open each original current actor owner before PLAY, and do not infer attendance or adult eligibility from a roster listing.
 
 ## CURRENT: Source-grounded Season 3 actor motives
