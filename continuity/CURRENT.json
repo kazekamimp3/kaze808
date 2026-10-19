@@ -147,7 +147,11 @@
       "status": "LATEST_AUTHOR_OVERRIDE"
     },
     "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
-    "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json"
+    "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
+    {
+      "path": "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json",
+      "status": "LATEST_ACTIVE_AUTHOR_SELECTION"
+    }
   ],
   "carried_forward_unstaged": {
     "Orren": {
@@ -358,8 +362,8 @@
     "physical_person": "Tracy Morgan",
     "false_public_identity": "Busta Rhymes",
     "name_used": "Brusta Thymes",
-    "Brian": "fictional miniature adult conjoined person, not Brian Griffin",
-    "change_type": "author identity revelation, not prior episode rewrite"
+    "Brian": "Original conjoined miniature fictional adult",
+    "emotional_state": "FURIOUS at mistaken identity; resents gang, trapped by conjoinment, does not consent to membership, wants independence."
   },
   "Clifford_upcoming_reconstruction": {
     "status": "AUTHOR_SELECTED_FUTURE_NOT_ENACTED",
@@ -391,5 +395,9 @@
   },
   "active_Kaze_romance_authority": "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
   "current_WTF_recommendations": "continuity/work/WTF_Crossover_Candidates_After_E32_20261018.json",
-  "current_characters_matrix": "/S7NS/Season3_Character_Agency_Matrix_After_Brusta_20261018.json"
+  "current_characters_matrix": "/S7NS/Season3_Character_Agency_Matrix_After_Brusta_20261018.json",
+  "latest_current_roster_comedy_update": "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json",
+  "season3_new_crossovers": "continuity/SEASON3_ACTIVE_OUTLINE.json#season3_WTF_crossover_additions",
+  "TPP_new_members": "continuity/SEASON3_ACTIVE_OUTLINE.json#TPP_author_selected_new_members",
+  "latest_comedy_source": "research/Comedy_Escalation_Profanity_RickMorty_Trover_20261019.md"
 }
