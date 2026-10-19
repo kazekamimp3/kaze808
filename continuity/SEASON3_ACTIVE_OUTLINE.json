@@ -1146,7 +1146,8 @@
     "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
     "continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json",
     "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
-    "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json"
+    "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
+    "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json"
   ],
   "encounter_register": "continuity/Runeterra_Women_Encounter_Register.json",
   "encounter_register_sha256": "705c5cdf25ae6cb5823e85cb1940f014782634b90b90ff362de5fa13274790dd",
@@ -1297,10 +1298,11 @@
   "latest_author_TPP_and_romance": "continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json",
   "TPP_Tracy_identity": {
     "physical_person": "Tracy Morgan",
-    "false_public_identity": "Busta Rhymes",
-    "name_used": "Brusta Thymes",
-    "Brian": "fictional miniature adult conjoined person, not Brian Griffin",
-    "change_type": "author identity revelation, not prior episode rewrite"
+    "mistaken_identity": "Busta Rhymes (sometimes mangled to Buster Ryans)",
+    "existing_alias": "Brusta Thymes",
+    "Brian": "fictional adult human miniature conjoined to Tracy's shoulder, NOT Brian Griffin",
+    "tracy_psychology": "FURIOUS, not amiable; resents entire gang, is trapped physically with unwanted Brian on shoulder, wants autonomy and to stop mistaken name. Does NOT want TPP affiliation; no automatic agreement.",
+    "continuity": "E1–32 prior 'Busta' references reflect characters' mistaken beliefs, no old prose rewrite"
   },
   "Clifford_upcoming_reconstruction": {
     "status": "AUTHOR_SELECTED_FUTURE_NOT_ENACTED",
@@ -1336,5 +1338,109 @@
     "WTF": "Woody/Buzz author examples, other suggestions only, no selected arrivals.",
     "play_status": "WORK_ONLY, E32 delivered provisional, E33 next not played."
   },
-  "current_character_agency_matrix_library": "/S7NS/Season3_Character_Agency_Matrix_After_Brusta_20261018.json"
+  "current_character_agency_matrix_library": "/S7NS/Season3_Character_Agency_Matrix_After_Brusta_20261018.json",
+  "latest_comedic_research_authority": "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json",
+  "current_comedy_and_crude_language_source": "research/Comedy_Escalation_Profanity_RickMorty_Trover_20261019.md",
+  "new_tpp_roster_source": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+  "TPP_author_selected_new_members": [
+    {
+      "name": "Eric Cartman / The Coon",
+      "age": "CHILD",
+      "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED"
+    },
+    {
+      "name": "Jimmy Valmer",
+      "age": "CHILD",
+      "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED"
+    },
+    {
+      "name": "Timmy Burch",
+      "age": "CHILD",
+      "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED"
+    },
+    {
+      "name": "Dr. Evil",
+      "age": "ADULT",
+      "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED"
+    },
+    {
+      "name": "Austin Powers",
+      "age": "ADULT",
+      "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED"
+    }
+  ],
+  "season3_WTF_crossover_additions": [
+    {
+      "name": "Woody (Toy Story toy)",
+      "status": "AUTHOR_SELECTED_ROSTER_PROSPECTIVE_NOT_INTRODUCED",
+      "source": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+      "requirement": "Real physical arrival, canonical body/scale, psychology/agency and power limits; independent choice, no cameo quota."
+    },
+    {
+      "name": "Buzz Lightyear (Toy Story toy)",
+      "status": "AUTHOR_SELECTED_ROSTER_PROSPECTIVE_NOT_INTRODUCED",
+      "source": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+      "requirement": "Real physical arrival, canonical body/scale, psychology/agency and power limits; independent choice, no cameo quota."
+    },
+    {
+      "name": "Courage the Cowardly Dog",
+      "status": "AUTHOR_SELECTED_ROSTER_PROSPECTIVE_NOT_INTRODUCED",
+      "source": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+      "requirement": "Real physical arrival, canonical body/scale, psychology/agency and power limits; independent choice, no cameo quota."
+    },
+    {
+      "name": "Johnny Bravo",
+      "status": "AUTHOR_SELECTED_ROSTER_PROSPECTIVE_NOT_INTRODUCED",
+      "source": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+      "requirement": "Real physical arrival, canonical body/scale, psychology/agency and power limits; independent choice, no cameo quota."
+    },
+    {
+      "name": "Master Shake",
+      "status": "AUTHOR_SELECTED_ROSTER_PROSPECTIVE_NOT_INTRODUCED",
+      "source": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+      "requirement": "Real physical arrival, canonical body/scale, psychology/agency and power limits; independent choice, no cameo quota."
+    },
+    {
+      "name": "Daffy Duck",
+      "status": "AUTHOR_SELECTED_ROSTER_PROSPECTIVE_NOT_INTRODUCED",
+      "source": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+      "requirement": "Real physical arrival, canonical body/scale, psychology/agency and power limits; independent choice, no cameo quota."
+    },
+    {
+      "name": "Skipper (Penguins of Madagascar)",
+      "status": "AUTHOR_SELECTED_ROSTER_PROSPECTIVE_NOT_INTRODUCED",
+      "source": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+      "requirement": "Real physical arrival, canonical body/scale, psychology/agency and power limits; independent choice, no cameo quota."
+    },
+    {
+      "name": "Kowalski (Penguins of Madagascar)",
+      "status": "AUTHOR_SELECTED_ROSTER_PROSPECTIVE_NOT_INTRODUCED",
+      "source": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+      "requirement": "Real physical arrival, canonical body/scale, psychology/agency and power limits; independent choice, no cameo quota."
+    },
+    {
+      "name": "Rico (Penguins of Madagascar)",
+      "status": "AUTHOR_SELECTED_ROSTER_PROSPECTIVE_NOT_INTRODUCED",
+      "source": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+      "requirement": "Real physical arrival, canonical body/scale, psychology/agency and power limits; independent choice, no cameo quota."
+    },
+    {
+      "name": "Private (Penguins of Madagascar)",
+      "status": "AUTHOR_SELECTED_ROSTER_PROSPECTIVE_NOT_INTRODUCED",
+      "source": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+      "requirement": "Real physical arrival, canonical body/scale, psychology/agency and power limits; independent choice, no cameo quota."
+    }
+  ],
+  "author_current_absurd_comedy_repair": {
+    "research": "research/Comedy_Escalation_Profanity_RickMorty_Trover_20261019.md",
+    "tone": "Bizarre, gleefully inappropriate, dark, filthy, surreal, gross, insulting, sudden emotional shifts, profane without word limits; jokes emerge from motives and real scene escalation.",
+    "pacing": "Sketch-like status reversals within driven episode; avoid endless improv and obligatory noise, use silence/punchline cuts.",
+    "content_limits": "Keep minor cast age-appropriate; adult raunch separate; speaker-specific vocabulary, not generic profanity smearing."
+  },
+  "current_TPP_Clifford_surgery": {
+    "status": "FUTURE_AUTHOR_SELECTED_UNENACTED",
+    "patient": "Clifford = adult Jack Marston, not father John or Anakin",
+    "presentation": "Vader-like deliberately misleading operation; reveal Clifford at end of surgical sequence, genuine physical/technical costs.",
+    "source": "research_sources/John_Marston_RDR_Speech_and_Clifford_Contrast_20261018.md"
+  }
 }
