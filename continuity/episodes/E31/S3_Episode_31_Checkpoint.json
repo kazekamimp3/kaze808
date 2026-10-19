@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 31,
+  "title": "Dead Money",
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "S3_Episode_31_Dead_Money.txt",
+  "manuscript_sha256": "8aff3a9fd9266b5a38477270099c35ac1eb9da859d7ace3d6352d9cd9f907845",
+  "predecessor": {
+    "episode": 30,
+    "status": "DELIVERED_PROVISIONAL",
+    "manuscript_sha256": "32dcc04c32d793b82cc8eb4737bbe10f19a22745f7b57d328bbe8cee54f4ad2f",
+    "checkpoint_sha256": "39f559cb2c4d48ed93cca3fb7d5e6af0ae2c6c06f228a25f0834662ca9bd4752",
+    "delivery_reconciliation": "continuity/episodes/E30/DELIVERY_RECONCILIATION.json",
+    "original_unchanged": true
+  },
+  "time": {
+    "elapsed": "Several hours of the same day after the E30 ravine; arrival in an inland market town after sunset, operation that evening. No added overnight.",
+    "completed_overnights_since_E20": 6,
+    "endpoint": "Night, Odran house courtyard in the newly presented inland Noxian market town; not the capital."
+  },
+  "positions": {
+    "Billy": "Sole exterior in courtyard, turned toward open gate after two chest intakes.",
+    "Chris": "Full-sized inside BELLY after one explicit courtyard switch, own equipment follows him. No later exterior action.",
+    "Kaze": "Exterior beneath stairs with Arthur; Black Marrow reintegrated.",
+    "Arthur": "Exterior beneath stairs with Kaze.",
+    "Daniel": "Exterior with spear, bottle and acquired company banner.",
+    "Teemo": "One bound consciousness with Chris rifle/mask, now interior; no second body.",
+    "Charles_Meatwad": "Inside BELLY throughout; no filmed scene or exterior visit.",
+    "Katarina": "Left courtyard through arch into town street with desk order and messenger dispatch case; next destination/receipt not enacted."
+  },
+  "events": [
+    "Sins select a local financier kidnapping after arrival; Katarina has independently killed Odran immediately before their entry. This is new E31 fiction, not a recovered earlier event.",
+    "First presented Kaze/Daniel/Arthur encounter with Katarina; her objective concerns the company intended to attack provincial governor. No Swain command, family chronology or prior shared history invented.",
+    "Brief corpse-chair ruse delays discovery; Arthur brings one of three money chests and captain escort upstairs. Chris learns unpaid-company grievance through a nearby soldier and shares it with Daniel.",
+    "Teemo audibly distinguishes escort from unpaid company through current observation/hearing; Chris changes shot angle. No remote aim/fire/control.",
+    "Arthur shoots drawing bodyguard. Captain pushes a carrier into line and flees study. Kaze catches and redirects captain pistol upward; contact shot passes through his palm, away from Chris. Captain stabs his side; Kaze kills him with headbutt and captain own sword.",
+    "Chris fires THE CRITIC once at arch crossbowman from fountain stone rest, handles recoil, ejects case, then draws but does not fire CHOW MAIN. Daniel spear-foot leap and close head slam; Katarina close dagger response. Arthur second shot stops departing dispatch rider.",
+    "One chest is given to departing company for disarmament and noninterference, chosen by Daniel/Arthur with Chris information and Kaze assent. No army recruited or future loyalty purchased.",
+    "Chris switches to Billy on actual courtyard ground. Kaze brings upper chest down and uses Black Marrow to open two retained chests, showing gold and silver. Billy physically swallows both into storage.",
+    "Katarina takes orders; Kaze proposes drink, she leaves without accepting. No hookup, new partner, pregnancy, admission or scheduled return."
+  ],
+  "resources": {
+    "new_loot": "Two distinct iron-bound coin chests, actual gold and silver observed, exact totals uncounted, common property not yet divided. Hasps cut; lids closed before intake.",
+    "given_away": "Third original chest to departing soldiers; claimed advance pay, contents/count not inspected by Sins. Not also in BELLY.",
+    "older_funds": "2100 new E28 common silver plus20 older common, Kaze5 personal, Daniel110 personal and other prior balances unchanged. New chests not double-counted into these totals.",
+    "ammo": "Chris THE CRITIC one existing compatible cartridge consumed; one spent casing left courtyard. CHOW MAIN drawn/holstered, zero rounds. Arthur one UNSHAKEN revolver fires twice; no charge/Count/Hypercharge. No reserve totals or refill granted.",
+    "vehicle": "Subaru remains recalled, no use/refuel.",
+    "other": "Daniel takes one mundane Loyalty beyond gold banner; Arthur wipes gun with it and returns it. Chris bent E30 sight assembly retained unrepaired. No other abandoned weapons/horse/wagon/body loot taken."
+  },
+  "injuries": {
+    "Kaze": "Palm perforation/broken fingers and stab beneath ribs; rapid healing shown through actual intervening action, blood remains. Existing trouser tears persist; no new trouser wound.",
+    "Chris_Arthur_Daniel_Billy_Katarina": "No new disabling injury described; recoil physically borne by exterior Chris, not BELLY.",
+    "casualties": "Odran throat cut; Veylan crushed face and sword through throat; bodyguard face shot; crossbowman heavy projectile; Daniel spear victim and head-slam victim down; Katarina dagger victim down; dispatch rider jaw/neck shot. No exhaustive casualty census or survivor resurrection invented. One escort ear/fragment wound, departing wounded assisted. Servant fled alive."
+  },
+  "knowledge": "Only actual room/courtyard witnesses, spoken reports and collected orders. No new remote Heisenberg, governor, capital, Sorell or TPP knowledge. Warning delivery pending.",
+  "controls": {
+    "KAZE_ROMANCE_ENABLED": true,
+    "focus_mode": "ENSEMBLE",
+    "Briar_active_plot": false,
+    "Naganeka_active_plot": false,
+    "removed_identities_excluded": true,
+    "Rick_Morty_members": false,
+    "earlier_partner_pregnancies": "Selected future and undiscovered; unchanged.",
+    "other_threads": "All nonconflicting latest current/outline directions retained. No Samira repair/arrival, TPP rent resolution, Rick evolution, R2/Zid location or automatic world freeze."
+  },
+  "next": "Reconcile exact E31 delivery before E32. No repeat kidnapping/captain/coin acquisition. Continue from actual new money, Katarina contact and local witnesses; no compulsory cleanup or report parade.",
+  "episode_record_contract": {
+    "review": "S3_Episode_31_Review.json",
+    "body_words": 3985,
+    "assumed_wpm": 150,
+    "estimated_minutes": 26.57,
+    "measured_audio": false,
+    "complete_final_reread": true
+  }
+}
