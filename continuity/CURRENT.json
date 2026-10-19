@@ -174,8 +174,17 @@
       "Naganeka host/liberation/deployment and continued group transport"
     ]
   },
-  "scope": "Exact delivered E29 state plus prospective scoped author control. No E30 generated; no physical ballista discard, death or elapsed time enacted in WORK.",
-  "prepared_episode": null,
+  "scope": "Last delivered E29; E30 reviewed pair prepared and verified in GitHub but not yet delivered. No E30 events promoted to current until actual delivery reconciliation.",
+  "prepared_episode": {
+    "episode": 30,
+    "title": "The Right of Passage",
+    "manuscript": "continuity/episodes/E30/S3_Episode_30_The_Right_of_Passage.txt",
+    "manuscript_sha256": "4b1770f5a511e049c97c37f00ed2150d8c636e91b0f0d61d032dafe4663aa337",
+    "checkpoint": "continuity/episodes/E30/S3_Episode_30_Checkpoint.json",
+    "checkpoint_sha256": "b9eea43d1ea8919b501ef7e3df7842b5a81dab3b002e17196a57e754a9c4b891",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED"
+  },
   "checkpoint_sha256": "c2477d40c92f9694eff61a3db5ce273a69eeae3a67415d9ff9cde975a0d2c521",
   "author_overrides": [
     "continuity/author/Kaze_Romance_OFF_After_E26.json",
@@ -201,11 +210,11 @@
     "qualification": "Last witnessed evidence, not freeze or new observation. Samira letter dispatch/receipt still unverified; cursed Baldur alive. Retained TPP clock advances normally; no invented payment or eviction."
   },
   "playback_control": {
-    "paused": true,
-    "authorized_episode": null,
+    "paused": false,
+    "authorized_episode": 30,
     "next_episode": 30,
     "last_delivered_episode": 29,
-    "basis": "E29 delivery reconciled; current instruction is WORK author control only. Await new PLAY for E30; ensemble presentation remains active."
+    "basis": "Author PLAY requested E30; exact reviewed pair now prepared in connected GitHub and Library; reconcile delivered text after response, not before."
   },
   "delivery_status": "DELIVERED_PROVISIONAL",
   "delivery_reconciliation": "continuity/episodes/E29/DELIVERY_RECONCILIATION.json",
