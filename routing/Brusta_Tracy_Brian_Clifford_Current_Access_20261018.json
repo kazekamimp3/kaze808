@@ -1,0 +1,44 @@
+{
+  "schema": "S7NS_SCOPED_TRUE_IDENTITY_AND_VOICE_OWNER_ROUTE_V1",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "current_author": "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
+  "independent_romance_control": "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
+  "roster": [
+    {
+      "identity": "Tracy Morgan (Brusta conjoined larger body)",
+      "status": "ACTUAL_AUTHOR_SELECTED_TRUE_IDENTITY",
+      "owner": "character_sources/crossover_extended/Tracy_Morgan_Brusta_Current_20261018.md",
+      "speech": "research_sources/Tracy_Morgan_Speech_Fidelity_After_E32_20261018.md",
+      "mechanics": [
+        "character_sources/crossover_extended/Brian_Fictional_Conjoined_Character_Source.txt",
+        "character_sources/crossover_extended/Busta_Rhymes_Conjoined_Brian_Fictional_Source.txt",
+        "topic_sources/Busta_Brian_Conjoined_Arc_20261008.txt"
+      ],
+      "historical": "Former Busta Rhymes references are TPP's in-world mistake, not a second Busta or Tracy Jordan."
+    },
+    {
+      "identity": "Brian (fictional miniature adult)",
+      "status": "UNCHANGED_PHYSICAL_CHARACTER_CORRECTED_NAME",
+      "owner": "character_sources/crossover_extended/Brian_Fictional_Conjoined_Character_Source.txt",
+      "psychology": "topic_sources/Busta_Brian_Conjoined_Arc_20261008.txt",
+      "incorrect_alias": "Brian Griffin (Family Guy) FALSE IMPORT; project Brian is human and separate from a real person's biography",
+      "current": "Tracy's shoulder, believes host is Busta."
+    },
+    {
+      "identity": "Clifford Marston = adult Jack Marston (RDR1 1914)",
+      "status": "ACTIVE_TPP_RECOVERED_INJURED",
+      "owner": "character_sources/crossover_extended/Jack_Marston_RDR1_Adult_1914_Duel_Source.txt",
+      "father_speech": "research_sources/John_Marston_RDR_Speech_and_Clifford_Contrast_20261018.md",
+      "future": "Off-brand Vader reconstructive surgery enabling actual supported walking, fair Anakin impression until last-line Clifford reveal. NOT COMPLETED."
+    }
+  ],
+  "tpp": {
+    "tone": "continuity/editorial/TPP_Ensemble_Tone_After_E32_20261018.md",
+    "historical_influence_research": "research_sources/Ensemble_Instigation_Research.txt",
+    "last_delivered": "E32 ticket scam and stolen harbormaster cargo declarations ledger; unpaid rent unresolved; Zid separate future betrayal not yet enacted."
+  },
+  "wtf_candidates": "continuity/work/WTF_Crossover_Candidates_After_E32_20261018.json",
+  "historical_manifest_policy": "The uploaded MANIFEST.yaml and 08_CROSSOVER_EXTENDED bundle contain historical Busta and mislabelled Griffin material. They are preserved and overridden on that identity only. Current direct author corrections are read before inherited texts. Other physical events/source owners retain nonconflicting material.",
+  "no_play": true,
+  "next_episode": 33
+}
