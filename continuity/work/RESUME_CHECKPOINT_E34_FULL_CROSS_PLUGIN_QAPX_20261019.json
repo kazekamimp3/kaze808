@@ -208,5 +208,29 @@
     "tool_gap": "Current connected Files actions can read Project file surface and manage personal Library, but cannot mutate Project attachment membership or Project custom instructions. Cloud Browser control is a separate ChatGPT Work UI flow unavailable to this tool session. Thus no live Project install is claimed.",
     "resume_policy": "On next turn read GitHub continuity/CURRENT.json, this exact checkpoint and exact E34 checkpoint. If UI install is not verified, report staged. Never repeat Airtable or Notion writes, Drive doc creation, original source scan or transcript research. If a newer delivered episode exists, resume from newer evidence.",
     "E35_play": "Not authorized by WORK; any future PLAY must be new user command after actual source evaluation."
+  },
+  "post_checkpoint_verified_delta": {
+    "Airtable_Source_Owner_records_staged_and_readback": 9,
+    "record_ids": [
+      "recB9TbLWGSLXKvpr",
+      "reczS2eSAO3e20yjO",
+      "recor48256Us9AFj0",
+      "recGnhYVCfmEUayGk",
+      "recpCmlC8GKyofocE",
+      "recRtXpK7HQvXqfVM",
+      "recDifR9CTVdA4las",
+      "recXJZJt3MvKCyPdD",
+      "rec8FiwjhtYbTdNaW"
+    ],
+    "Airtable_Author_Decision_row_scoped_stage_updated_readback": "recXBuyzR8qVhpY8D",
+    "total_Airtable_specific_records_touched_in_current_integration": 31,
+    "Notion_Validation_And_Change_Control_page_update_readback": "3fd4e1b7-29b3-8128-8437-e8f67811bb08",
+    "Notion_total_reconciled_pages_readback": 6,
+    "Drive_existing_handoff_doc_final_checkpoint_link_inserted_and_readback": true,
+    "Drive_doc_id": "1KEpw3tacpU2bx2ltd6pYDF8bme6zDVyc0bk-mVE7aXU",
+    "Project_UI_installation_performed": false,
+    "story_days_advanced": 0,
+    "author_acceptance": "NOT_ASSERTED",
+    "post_checkpoint_rule": "New nine Airtable staged routes are derived metadata. The actual 9 Project attachments + corrected manifest + Project instruction replacements are NOT installed/verified. Resume only at live Project installation/readback, not resynchronizing completed work."
   }
 }
