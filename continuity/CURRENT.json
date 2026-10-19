@@ -344,5 +344,7 @@
     "no_scene_or_time_added": true,
     "immediate_retrieval_required": true
   },
-  "current_author_directive": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json"
+  "current_author_directive": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
+  "current_character_driven_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json#actor_driven_outline_revision",
+  "current_noxus_crossover_choice_guide": "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md"
 }
