@@ -1,0 +1,20 @@
+{
+  "schema": "S7NS_CURRENT_AUTHORITY_RESOLUTION_V2",
+  "current_status": "SUPERSEDED_FOR_DANA_AND_MANA_BY_LATEST_DIRECT_AUTHOR_REINSTATEMENT",
+  "prior_status": "ACTIVE_EXPLICIT_AUTHOR_REMOVAL",
+  "current_author_owner": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
+  "effective": "After delivered-provisional E32; this latest instruction directly reverses the 2026-10-18 removal.",
+  "removed_character_ids": [],
+  "reinstated_character_ids": [
+    "dana",
+    "mana"
+  ],
+  "betrayal_status": {
+    "dana": "NEVER_BETRAYED",
+    "mana": "NEVER_BETRAYED"
+  },
+  "priority": "Latest author's reinstatement defeats earlier removal bans, sanitized-source absence and Project instruction historical exclusion for these two identities. Restored owners and normal character routing are active prospectively.",
+  "historical_source": "The original removal record remains intact within the immutable 01_BOOT_AUTHORITY.md snapshot, and original removed package is not overwritten. Its contents are now historical for this scope.",
+  "story": "No retroactive E19-E32 scenes, death, expulsion, revenge, recruitment, teleportation or betrayal are created. No PLAY event enacted.",
+  "other_scope": "All unrelated authority and established characters unaffected."
+}
