@@ -38,7 +38,7 @@
 
 **Heimdall.** DEAD in current branch E15. Source contempt/Odin loyalty survives only as informed historical knowledge and consequences; no new living duel. Owner: `character_sources/Heimdall_GOW_Character_Source.txt`.
 
-**Deadpool.** After his completed E19 paid introduction, still seeks payment, belonging and comedic self-presentation hiding emotional needs. He can take/reject another reachable job or meet Sins, Noxians, TPP and crossovers again. No first-entrance replay, automatic TemPad or audience-knowledge telepathy. Owner: `character_sources/season3/Deadpool_Character_Source.txt`.
+**Deadpool.** After his completed physical E19 paid introduction, the latest author removes his physical role entirely from E33 onward. He is ONLY the ordinary first-person main narrator, with film-authentic Wade personality, an optional 'Marvel Jesus' introduction and wild reactive rants. No further physical job, Sins/TPP/Noxian encounter or actor intelligence. Preserve earlier embodied history. Current owner: `canon/presentation/Deadpool_Primary_Narration_After_E32_20261019.md`; direct update `continuity/author/Deadpool_NarratorOnly_Dana_Chris_RDR2_After_E32_20261019.json`.
 
 **Tai Lung.** Alive and injured after E13 defeat, with recognition/mastery wounds rooted in Shifu's rejection. He can adapt or double down on entitlement, but a future challenge needs time to recover and a genuinely reachable reason. Owner: `character_sources/season3/Tai_Lung_Character_Source.txt`.
 
