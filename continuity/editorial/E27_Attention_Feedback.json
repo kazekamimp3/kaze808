@@ -1,0 +1,22 @@
+{
+  "episode": 27,
+  "manuscript_sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
+  "author_feedback": "dismiss briar from plot. unpause group. theres a lack of keeping my attention throughout this episode. i hope the outline isnt all like this",
+  "acceptance": "NOT_ASSERTED; pacing criticized",
+  "original_unchanged": true,
+  "categories": [
+    "DRAFTING",
+    "REVIEW",
+    "MAINTENANCE"
+  ],
+  "observed_weaknesses": [
+    "Travel/letter/food logistics delay the central attraction.",
+    "A single auction acquisition supplies most of a 4016-word runtime; guard resistance is decided immediately.",
+    "Post-fight ownership/restraint dialogue extends the ending without comparable escalation or payoff.",
+    "Solo scheduling holds the richer ensemble threads, while stale plan labels still call delivered encounters pending."
+  ],
+  "interpretation_limits": "These are editorial diagnoses of this episode and its plan routing, not proof every earlier/future episode fails.",
+  "repair": "Resume ensemble; prioritize existing major score/opposition and developing interpersonal comedy; compress routine stretches; full outline statuses refreshed. Use existing doctrine sections 2–4, not another competing procedure.",
+  "next_review": "Identify what changes the listener’s interest through the draft and its weakest span; if actual material cannot earn 25–30 minutes, rebuild/develop a useful strand before prose expansion. No fixed twist/fight/scene quota.",
+  "future_quality": "Requires actual draft review and listener feedback; saving this configuration does not certify an unwritten episode."
+}

@@ -1,0 +1,27 @@
+{
+  "type": "active_author_configuration_override",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "date_honolulu": "2026-10-18",
+  "date_utc": "2026-10-19",
+  "effective_after_episode": 27,
+  "author_command": "dismiss briar from plot. unpause group. theres a lack of keeping my attention throughout this episode. i hope the outline isnt all like this",
+  "KAZE_ROMANCE_ENABLED": false,
+  "Briar_stays": false,
+  "Briar_active_plot": false,
+  "ensemble_paused": false,
+  "focus_mode": "ENSEMBLE",
+  "Briar_scope": "Remove Briar from active story scheduling and ongoing companionship; supersede stays/mandatory future admission. Keep existing history and full source. A brief causal exit can be handled at next authorized PLAY, then she stays offstage. No return scheduled. No death, betrayal, disappearance event or erased past is enacted by this WORK change.",
+  "ensemble_scope": "End solo exclusivity immediately for planning; resume group-led plotting at the next episode. Chris, Billy, Daniel and Arthur have independent consequential choices; Kaze return is a reachable intention requiring real travel/contact, not already performed. Retained other membership is not erased; unknown positions remain unknown.",
+  "world_clock": "Four overnights since E20 have elapsed in the delivered solo. E20 group/TPP facts are last-confirmed anchors, not a frozen present. Reconcile elapsed time and genuine evidence when resuming; no invented completed score, sale, debt resolution, upgrade or remote report.",
+  "pacing": "Use the existing sole scene doctrine to earn 25–30 minutes through developing choices, suspense, comedy and substantive payoff. Compress routine logistics and decided guard fights. Prioritize the group’s unfinished main developments over another extended incidental acquisition.",
+  "supersedes": [
+    "Briar stays clause of Kaze_Romance_OFF_After_E26.json only",
+    "Kaze/Briar solo scheduling and ensemble hold",
+    "Future automatic priority of Briar companionship/admission"
+  ],
+  "preserves": "Romance OFF; delivered history; originals; full fidelity owners; source removals; selected nonconflicting season developments; independent actor agency.",
+  "story_days_advanced": 0,
+  "new_story_events": [],
+  "next_episode": 28,
+  "PLAY_authorized_by_this_command": false
+}

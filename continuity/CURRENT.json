@@ -1,106 +1,187 @@
 {
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "E26 delivered + latest romance OFF author instruction",
+  "as_of": "E27 delivered + latest author dismiss-Briar/resume-ensemble instruction",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "checkpoint": "continuity/episodes/E26/S3_Episode_26_Checkpoint.json",
-  "manuscript": "continuity/episodes/E26/S3_Episode_26_Room_to_Move.txt",
-  "manuscript_sha256": "4f638b1d11a1677fc2c5e44d00695f77f28638b9f0c5b545e3b1f08cc27d8a21",
-  "author_override": "continuity/author/Kaze_Romance_OFF_After_E26.json",
+  "checkpoint": "continuity/episodes/E27/S3_Episode_27_Checkpoint.json",
+  "manuscript": "continuity/episodes/E27/S3_Episode_27_The_Highest_Bidder.txt",
+  "manuscript_sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
+  "author_override": "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
   "KAZE_ROMANCE_ENABLED": false,
-  "Briar_stays": true,
+  "Briar_stays": false,
+  "Briar_active_plot": false,
+  "ensemble_paused": false,
+  "focus_mode": "ENSEMBLE",
   "history_unchanged": true,
-  "next_episode": 27,
+  "next_episode": 28,
+  "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+  "next_outline": "continuity/SEASON3_NEXT.md",
+  "editorial_feedback": "continuity/editorial/E27_Attention_Feedback.json",
   "time": {
-    "opening": "Same night at E25 Copper Cup yard endpoint",
-    "elapsed": "One full overnight, first-light preparation and morning encounter/travel",
-    "completed_overnights_since_E20": 4,
-    "endpoint": "Morning, field beside Lask road ahead of Orren wagon; no exact clock time or calendar date invented"
+    "opening": "Immediate E26 morning road exchange, Kaze/Briar beside Orren/Samira wagon after landing",
+    "elapsed": "Morning walk into Lask, local office, food, yard sale and departure; no overnight or precise clock invented",
+    "completed_overnights_since_E20": 4
   },
   "positions": {
-    "Kaze_Briar": "On foot together in field beside road, a ballistic leap ahead of Orren wagon after leaving Copper Cup. Briar has been set down. Lask not reached.",
-    "Samira_Orren": "Wagon moving on road toward Lask; Samira on step holding rail with sound hand at final exchange, Orren driving. Both within speaking distance of pair.",
-    "Kratos": "Last observed walking alone toward quarry hills, opposite market route, disappearing round bend after looking back. Later position unknown.",
-    "foreman_landlord": "Last observed Copper Cup; foreman beside his cart, landlord with two coins. No newly hired wagons or repairs completed.",
-    "Baldur": "E22 direct evidence alive digging out remains. E26 foreman reports seeing him exit through retaining wall, ask for black-sword fighter and walk through scrub. Current whereabouts unobserved.",
-    "Elise": "Last observed countryhouse E25; no new location or action asserted.",
-    "ensemble": "Last known E20 positions preserved (Billy Zaun service road, other Sins BELLY). Focus paused, elapsed world time not frozen; no invented new activities."
+    "Kaze_Briar_Samira_Naganeka": "Moving away from eastern Lask beyond last timber rack on road. Kaze pulls ballista carriage by raised drawbar; Briar and Samira walk alongside. Naganeka remains imprisoned in actual ballista.",
+    "Orren": "Last seen unloading metal fittings at Lask ironmonger, then entering shed; no longer driving party.",
+    "letter": "Samira sealed letter is in local western-gate carrier office outgoing south-road satchel. Clerk says after market bell; departure and remote delivery NOT observed.",
+    "Veyr": "Alive, last seen damaged siege-yard threshold; cash chest broken, some coins in hand.",
+    "Dresk": "Town edge beside discarded transport bands, looking after departing trio/ballista; one soldier inspecting bands. Four soldiers survived and withdrew, exact final position of remaining three unspecified.",
+    "Kratos": "E26 last observed toward quarry hills; no new observation.",
+    "Baldur": "E26 firsthand escape report retained, curse intact, current whereabouts unknown.",
+    "Elise": "E25 countryhouse last known; no new activity asserted.",
+    "ensemble": "E20 last-known Zaun/BELLY positions retained as last-known only; focus paused, world not frozen."
   },
   "state": {
     "Kaze": {
-      "money_silver": 6,
-      "money_change": "8 minus 2 given landlord for trough",
-      "injuries": "Fight split lip/facial blows, burned/cut right shoulder, fracture beneath living forearm armor heal during scene. No continuing functional wound established.",
-      "appearance": "New dust and blood remain; existing torn trousers acquire additional torn strip at knee; no clothing repair or purchase.",
-      "equipment": "Black Marrow drawn once via right hand/temporary left-hip sheath, sheath immediately retracts, later dismissed through right hand. Singular integrated sword at endpoint. No loot.",
-      "powers": "No new acquisition, upgrade, completed exotic adaptation, kill growth or copied power. Cleave/WCS not used; their sword-only restriction retained. Removed powers remain removed."
+      "money_silver": 5,
+      "money_change": "6 minus 1 food; no auction payment or cash-chest loot",
+      "condition": "No new functional wound; prior healed injuries remain healed. Bare chest, blood/dust persist, fresh enemy blood on hand, knee tear widened by own thread pull. No clothes repair.",
+      "equipment": "Black Marrow singular/integrated, not drawn. Existing right forearm defense only. New physical custody of ballista/carriage, not new personal power.",
+      "powers": "No upgrade, automatic assimilation or kill growth. Danger sense contextual not omniscient. Cleave/WCS unused and sword-only; removed packages remain removed."
     },
     "Briar": {
-      "injuries": "None newly established",
-      "pillory": "Intact, never released",
-      "agency": "Own room, invitation, independent spectator relocation before slide, chooses market, asks for leap beside wagon not over horses.",
-      "membership": "Voluntary companion, not newly admitted Sin; no ownership/exclusivity pledge."
+      "condition": "Upper-arm spear cut closes during actual feeding; blood on skin/mouth persists. Pillory intact/closed throughout, no frenzy.",
+      "agency": "Defends herself, chooses dialogue and company; stays with Kaze, no gang admission/exclusivity or resumed romantic pursuit."
     },
     "Samira": {
-      "left_wrist": "Still braced/injured, not magically healed overnight",
-      "held_equipment": [
+      "left_wrist": "Still braced/injured",
+      "equipment": [
         "one ordinary loaded pistol",
-        "knife from E23",
+        "knife",
         "powder flask",
         "lead-ball pouch"
       ],
-      "ammo": "No shots or reload this episode",
-      "original_specialist_weapons": "Still stolen BELLY loot, not reclaimed or replaced",
-      "money": "No new money gain/spending established",
-      "transport": "Paid seat in use; no arrival or permanent traveling-party membership"
+      "shots": 0,
+      "specialist_weapons": "Still stolen BELLY loot; no recovery, replacement or blacksmith delivery",
+      "agency": "Voluntary temporary travel until boring, not Sin membership",
+      "history": "Prior E25 hookup and grievances preserved; no new flirt/hookup while OFF."
     },
     "Orren": {
-      "letter": "Samira sealed letter to Lani and Miel in leather packet under coat; delivery pending, contents not disclosed",
-      "pistol": "Traded ordinary loaded pistol remains wrapped in locked rear wagon box, no shot or transfer",
-      "cargo": "Metalwork unchanged; no damage reported"
+      "pistol": "Traded ordinary pistol remains last-known wrapped/locked rear box; no transfer or shot",
+      "letter": "Forwarded to local clerk, not remotely delivered",
+      "cargo": "Metal fittings being unloaded; horses/wagon undamaged as observed"
     },
-    "Kratos": {
-      "version": "Post-Valhalla selected import",
-      "condition": "Alive, bleeding mouth/nose/beard and struck ribs; exact injuries undiagnosed, able to walk independently. No claim of full recovery or permanent impairment.",
-      "loadout_resolution": "Leviathan, Blades of Chaos, researched Draupnir baseline; Guardian Shield physical uses only, practical armor without asserted unique bonuses; no optional runic/relic effect used. Legacy portability remains unresolved.",
-      "result": "First Kaze encounter and fight occurred; disengaged. Neither slain, surrendered, recruited or established categorically stronger."
+    "Naganeka": {
+      "identity": "Naganeka of Zuretta, actual imprisoned Darkin ballista, newly encountered",
+      "custody": "Physically transported by Kaze on original wheeled carriage; brackets remain, two modern bands removed",
+      "abilities_shown": "Quiet nearby speech only; no range theorem, projectile effect, living host, weapon/body swap, beast form or curse bypass established",
+      "intent": "Leave buyers and seek future self-directed agency; neither grateful servant nor recruited Sin",
+      "prison": "Ancient soul bindings unchanged; no new body"
     },
-    "relationships": {
-      "Briar": "Existing romance continues, kissing/talking/shared sleep; no new hookup established, prior count two retained",
-      "Samira": "Existing E25 first hookup and reciprocal teasing retained, prior count one; grievance against Arthur and Kaze loyalty unresolved",
-      "Elise": "E25 first hookup retained, count one; no new visit/forgiveness/voyage agreement"
-    }
+    "relationships": "E21–27 delivered relationship history preserved; current romance OFF. Latest instruction removes Briar from future active plotting; no departure scene has yet occurred."
   },
   "knowledge": {
-    "Kaze": "Learns Kratos name from direct introduction, observes demonstrated combat/recovery limits only. Hears foreman Baldur escape report and Kratos claim of prior killing after protection broke. Does not learn mistletoe, Freya/Atreus histories, entire loadout, arrival route or private thoughts.",
-    "Kratos": "Learns Kaze name, pair quarry testimony, foreman eyewitness report/directions, sees Kaze healing/living sword/launches. Does not gain full kit, permanent-death secret, Blacklight/Shrine names or sins history. Briar name not spoken to him.",
-    "Briar": "Hears yard names/testimony and sees fight from actual viewing positions. Her access to every quieter final Kaze/Kratos exchange is not assumed. No automatic mistletoe knowledge.",
-    "Samira": "Hears yard quarry exchange before departing, sees unnamed ash-skinned stranger there. Departs before actor-name exchange/fight, does not hear private death/protection discussion; can observe Kaze changed clothing/blood at reunion, not automatically know all combat details or Kratos name.",
-    "foreman": "Recognizes Kaze personally from quarry; hears Kaze name in yard and sees confrontation. Source of Baldur escape claim is his own stated eyewitness observation, not narration.",
-    "narrator": "Mimir personally recognizes Kratos, knows his own history, remains narrator without automatic physical body or audible actor channel."
+    "Kaze_Briar_Samira": "Hear Veyr/driver coastal disruption and Dresk procurement aim; hear Naganeka name/request and modern restraints versus prison distinction. No automatic full Darkin biography, host method, long-range plan or global recognition.",
+    "Samira": "Can infer Kaze/Briar involvement in harbor gate from exchange; not granted omniscient E21 details or Kratos name/private E26 discussion.",
+    "Naganeka": "Hears Kaze own introduction and Briar own introduction, local speech while near weapon. Samira name not spoken to her on-page. No full Sin history, offstage knowledge or compulsory obedience.",
+    "Veyr": "Reads Kaze tattoo, witnesses damage/theft. Has prior weapon speech experience; not shown hearing harbor admission or connecting Kaze to original gate collapse.",
+    "Dresk": "Witnesses formidable violence and theft, hears local public exchanges as positioned. No automatic secret kit, remote law network or all gang crimes knowledge.",
+    "Orren": "Sees trio and ballista/blood/damaged gate on exit, not all interior violence/dialogue.",
+    "narrator": "Mimir narration remains separate from actor hearing; source explanation does not transfer full source knowledge."
   },
   "consequences": {
-    "new_damage": "Inn paving cracked and trough broken; vineyard terrace walls/winepress rim/posts/ground and upper rock shoulder damaged, slide changes slope. No new death or bystander injury shown. Two silver is trough payment only, repairs not completed.",
-    "prior": "Harbor gate/casualties, quarry loss, countryhouse damage/injuries, Samira death/theft and restoration mystery, Heisenberg stolen product, TPP debt and other gang consequences retained.",
-    "living_world": "Baldur movement is new witness report, not exact current tracking. Kratos inquiry has begun, no encounter with Baldur performed. Vineyard owner can react upon actual information; no automatic police response or outcome."
+    "confirmed_dead": "Three Veyr guards: shield-wheel victim and crossbowman killed by Kaze, spearman killed by Briar. Gallery guard fate unknown. Two guards flee. No named canon character death.",
+    "damage": "Shield cart/axle, gallery/floor, crane, platform/cash chest, front gate stonework, outside pottery; civilians injured among gallery wreckage, number/fates unspecified. Ballista carriage still functional.",
+    "military": "Dresk loses access to planned purchase but retains four soldiers; ridge siege not depicted or resolved. No automatic Swain/Darius/LeBlanc notice.",
+    "prior": "Harbor casualties/gate, quarry loss, vineyard/countryhouse damage, theft/debts/Heisenberg product and all gang history retained. New driver testimony gives concrete local cascade, not global omniscience."
+  },
+  "prospective_control": {
+    "type": "active_author_configuration_override",
+    "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+    "date_honolulu": "2026-10-18",
+    "date_utc": "2026-10-19",
+    "effective_after_episode": 27,
+    "author_command": "dismiss briar from plot. unpause group. theres a lack of keeping my attention throughout this episode. i hope the outline isnt all like this",
+    "KAZE_ROMANCE_ENABLED": false,
+    "Briar_stays": false,
+    "Briar_active_plot": false,
+    "ensemble_paused": false,
+    "focus_mode": "ENSEMBLE",
+    "Briar_scope": "Remove Briar from active story scheduling and ongoing companionship; supersede stays/mandatory future admission. Keep existing history and full source. A brief causal exit can be handled at next authorized PLAY, then she stays offstage. No return scheduled. No death, betrayal, disappearance event or erased past is enacted by this WORK change.",
+    "ensemble_scope": "End solo exclusivity immediately for planning; resume group-led plotting at the next episode. Chris, Billy, Daniel and Arthur have independent consequential choices; Kaze return is a reachable intention requiring real travel/contact, not already performed. Retained other membership is not erased; unknown positions remain unknown.",
+    "world_clock": "Four overnights since E20 have elapsed in the delivered solo. E20 group/TPP facts are last-confirmed anchors, not a frozen present. Reconcile elapsed time and genuine evidence when resuming; no invented completed score, sale, debt resolution, upgrade or remote report.",
+    "pacing": "Use the existing sole scene doctrine to earn 25–30 minutes through developing choices, suspense, comedy and substantive payoff. Compress routine logistics and decided guard fights. Prioritize the group’s unfinished main developments over another extended incidental acquisition.",
+    "supersedes": [
+      "Briar stays clause of Kaze_Romance_OFF_After_E26.json only",
+      "Kaze/Briar solo scheduling and ensemble hold",
+      "Future automatic priority of Briar companionship/admission"
+    ],
+    "preserves": "Romance OFF; delivered history; originals; full fidelity owners; source removals; selected nonconflicting season developments; independent actor agency.",
+    "story_days_advanced": 0,
+    "new_story_events": [],
+    "next_episode": 28,
+    "PLAY_authorized_by_this_command": false
+  },
+  "ensemble_last_confirmed": {
+    "source": "state/Post_Chris_Restart.json#/current_reconciliation_20261018",
+    "episode": 20,
+    "positions": {
+      "Billy": "Sole exterior, walking service road away from Rivermark, Zaun. The rest of the main party voluntarily admitted under abandoned loading ramp.",
+      "Chris": "Inside BELLY at workbench, laughing during Daniel interview; one examined Purple Pain case closed; headlamp and banjo outlet returned with his exterior-to-interior transition.",
+      "Daniel": "Inside BELLY interview chair, bottle on knee then in use, spear retained, 110 silver. No new injury.",
+      "Arthur": "Inside BELLY after counting/dividing money; revolver drawn for cover but no shot. No new injury. First automobile/flight experience now actually performed.",
+      "Charles_Manson": "Inside BELLY beside Daniel, reaching toward camera; no exterior appearance or warden authority.",
+      "Meatwad": "Inside BELLY, currently holding/operating camera; backed away from Charles while filming Daniel.",
+      "Harl_and_Pell": "Departed encounter aboard Narrow Mercy. Harl, original crew and all four fitters continue ordinary ship route with contracted machinery. Actual current nautical position not shown.",
+      "Dessa": "Rivermark yard beside injured sword guard at last sight; alive, uninjured, angry; has face/name Daniel and witnessed other raiders.",
+      "maul_guard": "Dead in broken warehouse doorway from Daniel physical palm strike crushing chest; no revival or identity assigned.",
+      "sword_guard": "Alive with serious chest injury at departure, Dessa assisting; eventual survival not established.",
+      "pistol_guard": "Alive, surrendered pistol on ground in yard, last covered by Arthur; neither weapon nor guard acquired.",
+      "R2_D2": "Location unresolved in retained evidence; not staged, stored in ball, killed, duplicated or relocated. Relationship remains established; ordinary controlled flight needs no invented presence.",
+      "Deadpool": "Independent E19 endpoint at Noxian loading stage with paid recovery job completed; no new scene/travel/membership.",
+      "TPP": "Last witnessed E17 walking toward HQ. No new intervening actions established."
+    },
+    "resources": {
+      "cash_taken_silver": 270,
+      "reimbursement": {
+        "Daniel": 20,
+        "voyage_reimbursement_unpaid": 0
+      },
+      "remaining_cash_split": {
+        "Arthur": 150,
+        "Kaze": 20,
+        "Daniel": 20,
+        "Chris": 20,
+        "Billy": 20
+      },
+      "known_balances": {
+        "Daniel_silver": 110
+      },
+      "other_balances": "Apply increments to retained balances; no invented whole treasury. E14 remaining cash/valuables unaffected.",
+      "Chris_E19_share": "Billy-to-Chris 12-silver transfer now explicitly completed before shore departure.",
+      "Billy_E20_share": "20 silver earmarked separately inside BELLY; actual physical handoff not performed.",
+      "stock": "Exactly SIX cases of genuine Purple Pain from Heisenberg's Rivermark works; Dessa named product/employer and said already sold. One of these six was inspected, not an extra seventh. All physically swallowed intact into BELLY protected storage; Chris reclosed inspected case. No vials removed/consumed/sold. Unit counts/value/buyer unknown.",
+      "cashbox": "Stolen ordinary metal cashbox, Daniel magically opened; 270 silver removed and allocated; empty box remains by workshop bench.",
+      "vehicle": "One blue/gold Subaru/X-wing deployed twice and recalled empty twice. Ground demonstration, ordinary controlled flight, one overnight rest; no weapon fire, overdrive or damage. Fuel used and not restored by recall; quantities/range/refuel method unspecified. Currently in Chris's ball.",
+      "Harl_directions": "Shipping-paper coastal sketch in Daniel custody; practical landmarks, not exact survey or omniscient navigation.",
+      "ship_cargo": "Heisenberg-contracted replacement pumps remain aboard Narrow Mercy with fitters, not Sins-owned or delivered.",
+      "portrait": "Kaze/Briar portrait-dependent history superseded; no current gift/custody grant. Unrelated painting continuity preserved.",
+      "shots_fired": 0,
+      "new_Sins_injuries": [],
+      "retained_equipment": "E18 repaired Critic sight, mask cheek/cowl/headlamp remain repaired. Hawking projector still separately cracked/unrepaired. Existing revolvers, rifle, artifacts and collectibles unchanged; no future tech gain.",
+      "TPP": "2 silver 10 copper last known; 4 silver rent due this evening, 3 silver loan. Unfinished Tahiti painting and four mangoes at HQ. Existing tattoos/artist consequences unchanged.",
+      "unassigned_common_cash_silver": 20
+    },
+    "qualification": "Past confirmed evidence. Kaze current balance and location come from E27. Reconcile intervening time before granting new group activity, holdings or knowledge. Zid retained reinstatement is not canceled; exact present location needs full relevant evidence before staging."
   },
   "outline_delta": {
     "completed_now": [
-      "Kratos first arrival and introduction",
-      "Kaze/Kratos first physical encounter",
-      "Samira actual paid wagon departure",
-      "Copper Cup overnight"
+      "Lask arrival",
+      "local letter forwarding",
+      "first Naganeka encounter",
+      "ballista custody theft and modern transport-band removal"
     ],
-    "next_cursor": "Episode27, morning along Lask road, Kaze/Briar ahead of Orren/Samira wagon within speaking range",
-    "reachable_next": "Lask market/western gate intention; travel remains. Samira letter delivery and specialist weapon recovery remain pending. Kratos follows actual reported quarry lead independently, no scheduled rematch.",
-    "retained_selected": "Other crossover/native opportunities conditional on agency and access. Elise/Vilemaw curiosity retained without departure or outcome. Baldur alive/report moving, no reset or repeated initial introduction.",
-    "prior_completed": "E19 Deadpool introduction/recovery and E22 Baldur first fight remain completed despite stale prospective register text; no repeat intro required."
+    "next_cursor": "E28 ensemble-priority continuation; no new episode or exit generated",
+    "source_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+    "prior_open_threads": [
+      "Actual consequences of local deaths/theft",
+      "Naganeka agency and possible compatible escape, no outcome granted",
+      "Letter south-road dispatch/remote receipt pending",
+      "Samira equipment grievance",
+      "Kratos independent quarry inquiry and cursed Baldur alive",
+      "Other selected encounters conditional on actual access/choices"
+    ]
   },
-  "scope": "Derived routing/current evidence overlay, not replacement of full owners. Original E26 relationship descriptions remain historical; OFF controls prospective writing.",
-  "prepared_episode": {
-    "episode": 27,
-    "manuscript": "continuity/episodes/E27/S3_Episode_27_The_Highest_Bidder.txt",
-    "manuscript_sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
-    "checkpoint": "continuity/episodes/E27/S3_Episode_27_Checkpoint.json",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED"
-  }
+  "scope": "Operational current evidence and planning. E27 original state is retained as last witnessed; author control applies prospectively. No story advancement."
 }

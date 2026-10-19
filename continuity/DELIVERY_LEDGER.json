@@ -308,9 +308,9 @@
       "checkpoint": "continuity/episodes/E27/S3_Episode_27_Checkpoint.json",
       "checkpoint_sha256": "a52993f9602f9cfb31ef4040df2177034ae5340b88d598a57c7afbd541f527a1",
       "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
-      "delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "DELIVERED_PROVISIONAL",
       "author_acceptance": "NOT_ASSERTED",
-      "delivery_basis": "Reviewed and saved before final response; actual delivery must be reconciled next interaction.",
+      "delivery_basis": "Exact final Episode 27 appears in preceding assistant response, compared with saved manuscript. User now critiques its attention/pacing. Original prepared checkpoint unchanged.",
       "predecessor_sha256": "4f638b1d11a1677fc2c5e44d00695f77f28638b9f0c5b545e3b1f08cc27d8a21",
       "preserved_files": [
         {
@@ -348,23 +348,21 @@
           "sha256": "62ee69b90c326bd1ea8da1428bc5b5314ad7c1ba49bd2f1a13648e22e559c931",
           "bytes": 4595
         }
-      ]
+      ],
+      "author_feedback": "Pacing/attention criticized; future focus changed. No approval or retrospective rewrite requested."
     }
   ],
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. No historical prepared checkpoint rewritten. E21 presentation complaint remains unapplied; E23/E24 prospective encounter correction was enacted in E25, not retroactively.",
-  "current_delivered_episode": 26,
-  "next_episode": 27,
+  "current_delivered_episode": 27,
+  "next_episode": 28,
   "author_overrides": [
     {
       "path": "continuity/author/Kaze_Romance_OFF_After_E26.json",
       "sha256": "4a40186ce5614247b67403f0cfb388884ba71d1f5272b413e530016afe76557a"
+    },
+    {
+      "path": "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+      "sha256": "8c22f6fded7d476850746eb794dc0d2571708d9d023b6b34177efa16b1c61ba1"
     }
-  ],
-  "prepared_episode": {
-    "episode": 27,
-    "manuscript": "continuity/episodes/E27/S3_Episode_27_The_Highest_Bidder.txt",
-    "manuscript_sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
-    "checkpoint": "continuity/episodes/E27/S3_Episode_27_Checkpoint.json",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED"
-  }
+  ]
 }

@@ -45,7 +45,7 @@
     {
       "Episode": "S3 Episode 27: The Highest Bidder",
       "Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-      "Delivery Status": "PREPARED_SAVED_NOT_YET_DELIVERED; author acceptance NOT_ASSERTED",
+      "Delivery Status": "DELIVERED_PROVISIONAL; pacing criticized; author acceptance NOT_ASSERTED",
       "Manuscript SHA256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
       "Checkpoint Source": "continuity/episodes/E27/S3_Episode_27_Checkpoint.json"
     }
@@ -53,19 +53,19 @@
   "Characters": [
     {
       "Character": "Samira",
-      "Continuity Status": "Alive; E23 return and E25 encounter occurred; E26 aboard Orren wagon toward Lask.",
+      "Continuity Status": "E27 delivered: voluntarily leaving Lask with Kaze; no gang admission.",
       "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-      "Authority Source": "character_sources/season3/Samira_Character_Source.txt; continuity/CURRENT.json",
-      "Evidence Level": "Exact delivered E21–26 + scoped author override; acceptance separate",
-      "Notes": "Complete source routes: [\"character_sources/season3/Samira_Character_Source.txt\"]\nCurrent E26 reconciliation: Left wrist still braced; one ordinary loaded pistol, knife, powder and balls. Specialist weapons remain stolen BELLY loot. Letter with Orren undelivered. No gang admission or automatic Kratos-name knowledge."
+      "Authority Source": "character_sources/season3/Samira_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+      "Evidence Level": "Delivered evidence + explicit post-E27 author override; acceptance separate",
+      "Notes": "Complete source routes: [\"character_sources/season3/Samira_Character_Source.txt\"]\nCurrent post-E27 control: Left wrist braced, one loaded ordinary pistol, zero E27 shots. Letter at local carrier office only, specialist weapons still stolen BELLY loot. Prior history preserved; romance OFF."
     },
     {
       "Character": "Kaze",
-      "Continuity Status": "E26 delivered: on foot beside Lask road with Briar, ahead of Orren wagon; romance OFF prospectively.",
+      "Continuity Status": "E27 delivered beyond eastern Lask; ensemble focus resumes; romance OFF.",
       "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-      "Authority Source": "character_sources/Kaze_Character_Source.txt; continuity/CURRENT.json",
-      "Evidence Level": "Exact delivered E21–26 + scoped author override; acceptance separate",
-      "Notes": "Complete source routes: [\"character_sources/Kaze_Character_Source.txt\", \"canon/characters/kaze_current.md\", \"canon/characters/kaze_psychology.md\", \"canon/characters/other_originals.md\", \"canon/characters/s37_kit_application.md\", \"research_sources/Kaze_Removal_Evidence.txt\", \"canon/characters/kaze_future_progression.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Group_Relationships.txt\", \"canon/relationships/Kaze_Adult_Romance_20261018.md\"]\nCurrent E26 reconciliation: Six silver from known tranche; functional wounds healed, torn trousers/blood/dust persist. Black Marrow integrated. No new upgrade. E26 knowledge limits apply."
+      "Authority Source": "character_sources/Kaze_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+      "Evidence Level": "Delivered evidence + explicit post-E27 author override; acceptance separate",
+      "Notes": "Complete source routes: [\"character_sources/Kaze_Character_Source.txt\", \"canon/characters/kaze_current.md\", \"canon/characters/kaze_psychology.md\", \"canon/characters/other_originals.md\", \"canon/characters/s37_kit_application.md\", \"research_sources/Kaze_Removal_Evidence.txt\", \"canon/characters/kaze_future_progression.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Group_Relationships.txt\", \"canon/relationships/Kaze_Adult_Romance_20261018.md\"]\nCurrent post-E27 control: Five silver; ballista carriage in physical custody, no assimilated power. Blood/dust/torn trousers remain. Group reunion not performed."
     },
     {
       "Character": "Kratos",
@@ -93,11 +93,51 @@
     },
     {
       "Character": "Briar",
-      "Continuity Status": "E21 first meeting occurred; E26 voluntary companion with Kaze; stays with him.",
+      "Continuity Status": "Inactive for future plot by author after E27; last witnessed with Kaze beyond Lask.",
       "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-      "Authority Source": "character_sources/season3/Briar_Character_Source.txt; continuity/CURRENT.json",
-      "Evidence Level": "Exact delivered E21–26 + scoped author override; acceptance separate",
-      "Notes": "Complete source routes: [\"character_sources/season3/Briar_Character_Source.txt\", \"canon/relationships/Kaze_Adult_Romance_20261018.md\"]\nCurrent E26 reconciliation: Pillory intact, uninjured, no automatic Sin admission. Two prior hookups preserved as history; romance OFF does not enact breakup or departure."
+      "Authority Source": "character_sources/season3/Briar_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+      "Evidence Level": "Delivered evidence + explicit post-E27 author override; acceptance separate",
+      "Notes": "Complete source routes: [\"character_sources/season3/Briar_Character_Source.txt\", \"canon/relationships/Kaze_Adult_Romance_20261018.md\"]\nCurrent post-E27 control: Latest instruction supersedes stays/solo/admission priority. Brief exit at next PLAY; no new departure, death or erased history generated. Pillory intact, wound healed by feeding, history retained."
+    },
+    {
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Character": "Naganeka of Zuretta",
+      "Authority Source": "character_sources/runeterra_extended/Naganeka_of_Zuretta_Fidelity_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+      "Evidence Level": "Delivered evidence + explicit post-E27 author override; acceptance separate",
+      "Notes": "Complete source routes: [\"character_sources/runeterra_extended/Naganeka_of_Zuretta_Fidelity_Source.txt\"]\nCurrent post-E27 control: Two modern transport bands removed; ancient prison intact, no host/body/assimilation or new combat power. Independent will retained.",
+      "Continuity Status": "First encounter completed E27; actual Darkin ballista transported by Kaze."
+    },
+    {
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Character": "Chris",
+      "Authority Source": "character_sources/Chris_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+      "Evidence Level": "Delivered evidence + explicit post-E27 author override; acceptance separate",
+      "Notes": "Complete source routes: [\"character_sources/Chris_Character_Source.txt\", \"canon/characters/chris_catfish_billy_current.md\", \"canon/characters/s37_kit_application.md\", \"character_sources/Chris_Billy_BELLY_Source.txt\", \"research_sources/Chris_Speech_Research.txt\", \"research_sources/Phish_Billy_Development_Options.txt\", \"canon/characters/chris_catfish_billy_future.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Chris_RDR2_Play_Behavior_Source.txt\", \"topic_sources/Chris_Post_Five_Duels_Charles_Hawking_Arc.txt\", \"research_sources/BELLY_Drawing_Interpretation.txt\"]\nCurrent post-E27 control: Quick competent workbench repairs and full kit remain. E18 camera discovery not replayed. Intervening four overnights require actual continuity, no free stock sale or upgrade.",
+      "Continuity Status": "Ensemble presentation resumed; E20 last-confirmed BELLY anchor, later location not invented."
+    },
+    {
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Character": "Billy",
+      "Authority Source": "character_sources/Billy_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+      "Evidence Level": "Delivered evidence + explicit post-E27 author override; acceptance separate",
+      "Notes": "Complete source routes: [\"character_sources/Billy_Character_Source.txt\", \"canon/characters/chris_catfish_billy_current.md\", \"canon/characters/s37_kit_application.md\", \"character_sources/Chris_Billy_BELLY_Source.txt\", \"research_sources/Billy_Music_and_Speech_Research.txt\", \"research_sources/Phish_Billy_Development_Options.txt\", \"canon/characters/chris_catfish_billy_future.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Chris_RDR2_Play_Behavior_Source.txt\", \"topic_sources/Chris_Post_Five_Duels_Charles_Hawking_Arc.txt\", \"research_sources/BELLY_Drawing_Interpretation.txt\"]\nCurrent post-E27 control: One exterior with Chris, actual mobility and BELLY controls retained. No future Rick evolution earned by unpausing.",
+      "Continuity Status": "Ensemble presentation resumed; E20 last-confirmed Zaun exterior anchor."
+    },
+    {
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Character": "Daniel",
+      "Authority Source": "character_sources/Daniel_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+      "Evidence Level": "Delivered evidence + explicit post-E27 author override; acceptance separate",
+      "Notes": "Complete source routes: [\"character_sources/Daniel_Character_Source.txt\", \"canon/characters/daniel.md\", \"canon/characters/daniel_humor.md\", \"canon/characters/daniel_repertoire.yaml\", \"research_sources/Daniel_Davidson_Cummins_Speech_Research.txt\", \"research_sources/Daniel_Jo_Koy_Comedy_Research.txt\", \"canon/characters/global_originals.md\", \"canon/characters/s37_kit_application.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Group_Relationships.txt\"]\nCurrent post-E27 control: 110 silver last confirmed; no new injury. Consequential initiative in the main operation prioritized; no unseen completed matchup or reassigned Kaze encounter.",
+      "Continuity Status": "Ensemble presentation resumed; E20 last-confirmed BELLY anchor."
+    },
+    {
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Character": "Arthur",
+      "Authority Source": "character_sources/Arthur_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+      "Evidence Level": "Delivered evidence + explicit post-E27 author override; acceptance separate",
+      "Notes": "Complete source routes: [\"character_sources/Arthur_Character_Source.txt\", \"canon/characters/other_originals.md\", \"canon/characters/s37_kit_application.md\", \"research_sources/Arthur_Speech_Research.txt\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\"]\nCurrent post-E27 control: Independent initiative and precision retained. First car/flight E20 already happened. No unseen spending, recovered Samira gear transfer or new matchup completion.",
+      "Continuity Status": "Ensemble presentation resumed; E20 last-confirmed BELLY anchor."
     }
   ],
   "Author Decisions": [
@@ -105,7 +145,7 @@
       "Decision": "Kaze romance OFF after E26; Briar stays",
       "Effective Date": "After E26; latest explicit author instruction",
       "Authority Path": "continuity/author/Kaze_Romance_OFF_After_E26.json",
-      "Scope": "Prospective Kaze romance, flirting, sexual pursuit, hookups and escalation OFF. Preserve delivered history. Briar stays; no breakup, departure or membership change.",
+      "Scope": "Romance OFF remains active. The Briar stays clause is superseded after E27 by continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
       "Supersedes": "Earlier Kaze romance ON only; all unrelated author decisions retained."
     },
     {
@@ -114,6 +154,27 @@
       "Authority Path": "canon/relationships/Kaze_Adult_Romance_20261018.md; continuity/author/Kaze_Romance_OFF_After_E26.json",
       "Scope": "Historical source remains preserved; Kaze romance OFF prospectively. Other characters retain agency and source-supported relationships.",
       "Supersedes": "Prospective ON execution superseded by latest explicit OFF instruction; history not erased."
+    },
+    {
+      "Decision": "Briar inactive; ensemble resumed after E27",
+      "Effective Date": "2026-10-18 Honolulu / 2026-10-19 UTC",
+      "Authority Path": "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+      "Scope": "Remove Briar from active story scheduling and ongoing companionship; supersede stays/mandatory future admission. Keep existing history and full source. A brief causal exit can be handled at next authorized PLAY, then she stays offstage. No return scheduled. No death, betrayal, disappearance event or erased past is enacted by this WORK change. End solo exclusivity immediately for planning; resume group-led plotting at the next episode. Chris, Billy, Daniel and Arthur have independent consequential choices; Kaze return is a reachable intention requiring real travel/contact, not already performed. Retained other membership is not erased; unknown positions remain unknown. Kaze romance OFF. No PLAY.",
+      "Supersedes": "Prior Briar stays and solo/ensemble-hold scheduling only; full sources and delivered history preserved."
+    },
+    {
+      "Effective Date": "2026-10-18",
+      "Supersedes": "Only same-responsibility conflicts within explicit scope; no blanket history or source deletion",
+      "Decision": "Kaze solo / ensemble presentation hold",
+      "Scope": "Historical solo configuration; ensemble hold lifted after E27 by continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+      "Authority Path": "state/work/Kaze_Solo_Romance_20261018.json"
+    },
+    {
+      "Effective Date": "2026-10-18",
+      "Supersedes": "Only same-responsibility conflicts within explicit scope; no blanket history or source deletion",
+      "Decision": "Briar first-meeting override",
+      "Scope": "Historical pre-E21 correction remains; E21 first meeting occurred. Future Briar active plotting removed after E27 by continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+      "Authority Path": "state/work/Briar_First_Meeting_Author_Override_20261018.json"
     }
   ],
   "Consequences": [
@@ -163,8 +224,15 @@
       "Event": "Briar/Kaze prior-history invalidated",
       "Episode Evidence": "state/work/Briar_First_Meeting_Author_Override_20261018.json; continuity/episodes/E21/S3_Episode_21_Checkpoint.json",
       "Affected Actors": "Kaze; Briar",
-      "World Effect": "Pre-E21 shared history remains superseded. First actual meeting now occurred in delivered E21; voluntary companionship continues through E26. No old gifts, balance or gang admission restored.",
-      "Acceptance Status": "Author configuration + delivered E21–26; acceptance separate"
+      "World Effect": "Pre-E21 shared history remains superseded; actual E21 first meeting and E21–27 history retained. Latest instruction removes Briar from future active plotting; no new exit/death event enacted.",
+      "Acceptance Status": "Author configuration + delivered evidence; acceptance separate"
+    },
+    {
+      "Event": "E27 delivered reconciliation",
+      "Episode Evidence": "continuity/episodes/E27/S3_Episode_27_Checkpoint.json",
+      "Affected Actors": "Kaze, Briar, Samira, Naganeka; Veyr/Dresk and local witnesses",
+      "World Effect": "Letter local forwarding only; Kaze6->5 silver; three confirmed guard deaths, fourth unknown; merchant/civic damage and ballista theft. Naganeka remains imprisoned. Exact checkpoint controls individual knowledge.",
+      "Acceptance Status": "DELIVERED_PROVISIONAL; pacing criticized; acceptance NOT_ASSERTED"
     }
   ]
 }
