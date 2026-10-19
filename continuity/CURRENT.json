@@ -151,6 +151,10 @@
     {
       "path": "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json",
       "status": "LATEST_ACTIVE_AUTHOR_SELECTION"
+    },
+    {
+      "path": "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json",
+      "status": "LATEST_AUTHOR_BELLY_ROOMMATES"
     }
   ],
   "carried_forward_unstaged": {
@@ -399,5 +403,13 @@
   "latest_current_roster_comedy_update": "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json",
   "season3_new_crossovers": "continuity/SEASON3_ACTIVE_OUTLINE.json#season3_WTF_crossover_additions",
   "TPP_new_members": "continuity/SEASON3_ACTIVE_OUTLINE.json#TPP_author_selected_new_members",
-  "latest_comedy_source": "research/Comedy_Escalation_Profanity_RickMorty_Trover_20261019.md"
+  "latest_comedy_source": "research/Comedy_Escalation_Profanity_RickMorty_Trover_20261019.md",
+  "BELLY_absurd_roommates_authority": "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json",
+  "current_comedy_research": "research/Transcript_Based_Catastrophic_Absurdism_After_E32_20261019.md",
+  "BELLY_roommate_future": {
+    "Master_Shake": "AUTHOR_SELECTED_FUTURE_ENTRY_UNENACTED",
+    "Frylock": "AUTHOR_SELECTED_NEW_CROSSOVER_FUTURE_ENTRY_UNENACTED",
+    "current_residents": "Charles and Meatwad remain inside; Chris/Billy body rules unchanged",
+    "tone": "Hoarder's cave, salvage-fueled resident projects and grotesque character-driven escalating comedy; physical inventory and camera access evidence required"
+  }
 }
