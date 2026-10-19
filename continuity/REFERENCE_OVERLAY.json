@@ -62,6 +62,13 @@
       "Delivery Status": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
       "Manuscript SHA256": "8bbe15ee61a8e212e5184bf28cd5dace5f3d943c2a1fd78c02cd8325055d9e65",
       "Checkpoint Source": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json"
+    },
+    {
+      "Episode": "S3 Episode 32: No Horizon",
+      "Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Delivery Status": "DELIVERED_PROVISIONAL, author acceptance NOT ASSERTED",
+      "Manuscript SHA256": "2ecb5636e02885b90e07b222a18b6865961173fecd7ca5a79424cc220b1849ad",
+      "Checkpoint Source": "continuity/episodes/E32/S3_Episode_32_Checkpoint.json"
     }
   ],
   "Characters": [
@@ -123,19 +130,19 @@
     },
     {
       "Character": "Chris",
-      "Continuity Status": "E29 full-size inside BELLY at workbench; return coastal flight completed, vehicle recalled empty.",
+      "Continuity Status": "E32 sole exterior; no concern for RDR2 honor; Moose Knuckle Menace Man free on demand",
       "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-      "Authority Source": "character_sources/Chris_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json; continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
-      "Evidence Level": "Delivered E29 exact evidence + latest scoped author directive; acceptance NOT_ASSERTED; physical leave-behind pending PLAY",
-      "Notes": "Complete source routes: [\"character_sources/Chris_Character_Source.txt\", \"canon/characters/chris_catfish_billy_current.md\", \"canon/characters/s37_kit_application.md\", \"character_sources/Chris_Billy_BELLY_Source.txt\", \"research_sources/Chris_Speech_Research.txt\", \"research_sources/Phish_Billy_Development_Options.txt\", \"canon/characters/chris_catfish_billy_future.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Chris_RDR2_Play_Behavior_Source.txt\", \"topic_sources/Chris_Post_Five_Duels_Charles_Hawking_Arc.txt\", \"research_sources/BELLY_Drawing_Interpretation.txt\"]\nCurrent E29 / author update: Piloted known reverse coast with one overnight and actual exterior switches; more fuel consumed without refill. Carpenter runners for bronze carp completed with Kaze using ordinary salvage; no water function. Hawking projector remains unrepaired. Existing camera films inside only."
+      "Authority Source": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+      "Evidence Level": "CURRENT_DIRECT_AUTHOR + VERIFIED_FULL_OWNER; NOT NEW PLAY",
+      "Notes": "Only independent character-owned rifle/mask equipment, real exterior-body constraints and complete source-defined face-sit effect; no other gear mind."
     },
     {
       "Character": "Billy",
-      "Continuity Status": "E29 sole exterior on Noxian harbor shelf; Naganeka carriage outside, Kaze beside him.",
+      "Continuity Status": "E32 full-size interior; 67 years mastered lethal Kancho, seek more valid rear-angle uses",
       "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-      "Authority Source": "character_sources/Billy_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json; continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
-      "Evidence Level": "Delivered E29 exact evidence + latest scoped author directive; acceptance NOT_ASSERTED; physical leave-behind pending PLAY",
-      "Notes": "Complete source routes: [\"character_sources/Billy_Character_Source.txt\", \"canon/characters/chris_catfish_billy_current.md\", \"canon/characters/s37_kit_application.md\", \"character_sources/Chris_Billy_BELLY_Source.txt\", \"research_sources/Billy_Music_and_Speech_Research.txt\", \"research_sources/Phish_Billy_Development_Options.txt\", \"canon/characters/chris_catfish_billy_future.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Chris_RDR2_Play_Behavior_Source.txt\", \"topic_sources/Chris_Post_Five_Duels_Charles_Hawking_Arc.txt\", \"research_sources/BELLY_Drawing_Interpretation.txt\"]\nCurrent E29 / author update: Arthur/Daniel/Chris inside at endpoint; Kaze released outside. Samira specialist weapons returned; no longer gang loot. Original ballista never swallowed; ongoing transport removed by author, leave-behind pending. Silver cage and carp retained, stand complete but fountain nonfunctional. One exterior retained."
+      "Authority Source": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+      "Evidence Level": "CURRENT_DIRECT_AUTHOR + VERIFIED_FULL_OWNER; NOT NEW PLAY",
+      "Notes": "Physical two-finger clothed technique valid landed kills struck body; one exterior shared with Chris."
     },
     {
       "Character": "Daniel",
@@ -168,6 +175,22 @@
       "Evidence Level": "Delivered E29 exact witness-scoped evidence; acceptance NOT_ASSERTED",
       "Continuity Status": "E29 earlier that day in Zaun office: actual heist reports received from Serrat and a surviving clerk.",
       "Notes": "Complete source routes: [\"character_sources/Heisenberg_Character_Source.txt\", \"research_sources/Heisenberg_Research.txt\"]\nCurrent E29 / author update: Serrat witnessed 300-silver payment; clerk reports cage intake/release. Heisenberg orders wage list and forbids Serrat threatening/contacting Dessa. No completed wages, new Sins location, new counterpower or notebook use. Empire remains active."
+    },
+    {
+      "Character": "Jörmungandr",
+      "Continuity Status": "OLDER GOD OF WAR 2018 mature World Serpent, ONE body wrapped Runeterra E32",
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Authority Source": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+      "Evidence Level": "CURRENT_DIRECT_AUTHOR + VERIFIED_FULL_OWNER; NOT NEW PLAY",
+      "Notes": "Older Lake-of-Nine experiences with Mimir, Kratos, Atreus, Baldur/Thor; physical worldwide maritime effects and actual witness routes."
+    },
+    {
+      "Character": "Dana",
+      "Continuity Status": "LOYAL SIN; high-honor RDR2 player; E32 precise current location unverified",
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Authority Source": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+      "Evidence Level": "CURRENT_DIRECT_AUTHOR + VERIFIED_FULL_OWNER; NOT NEW PLAY",
+      "Notes": "Chris partnership inside actual BELLY gaming setup; high-honor preference is current author-selected."
     }
   ],
   "Author Decisions": [
@@ -219,6 +242,13 @@
       "Authority Path": "continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
       "Scope": "Naganeka and original ballista removed from ongoing group plot/transport. Brief physical leave-behind at next group departure; pending PLAY, no story time advanced. Ensemble continues.",
       "Supersedes": "Prospective E29 inland-travel agreement and active Naganeka companion, host-search, liberation and deployment hooks only; actual history preserved."
+    },
+    {
+      "Decision": "Latest older World Serpent, current signatures, honor split, all crossovers and absolute erasure",
+      "Effective Date": "After delivered E32 (2026-10-19)",
+      "Authority Path": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+      "Scope": "ONE mature World Serpent; all valid roster people may meet each other; Clifford fake Vader may meet Sith actors when physically reachable; Dana high-honor, Chris no-honor; Billy Kancho 67-year valid lethal, Chris free Moose. Excluded character has no active S7NS history/references/gear sentience.",
+      "Supersedes": "Younger serpent, GGA-triggered Moose, older character-presence/tech and older game-style unspecified guidance"
     }
   ],
   "Consequences": [
@@ -292,5 +322,15 @@
       "World Effect": "Actual coastal return/reunion; Samira weapons returned and independent south departure; carp stand completed, no fountain water system; Heisenberg hears witness reports and orders wage list. Inland group departure remains future. Naganeka travel intention now superseded by author, physical leave-behind not yet enacted.",
       "Acceptance Status": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED"
     }
-  ]
+  ],
+  "current_author_priority": {
+    "source": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+    "route": "routing/Current_Roster_Kit_Overrides_20261019.json",
+    "active_kit": "canon/characters/chris_catfish_billy_current.md",
+    "current_combat": "canon/characters/s37_kit_application.md",
+    "last_delivered": 32,
+    "next": 33,
+    "acceptance": "NOT_ASSERTED",
+    "no_story_advance": true
+  }
 }
