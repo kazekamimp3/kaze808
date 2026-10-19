@@ -508,6 +508,10 @@
       "path": "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
       "status": "LATEST_AUTHOR_TPP_IDENTITY_FUTURE_SURGERY_OR_ROMANCE_OFF",
       "scope": "AFTER_E32_WORK_NO_PLAY"
+    },
+    {
+      "path": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+      "status": "LATEST_DIRECT_AUTHOR_SCOPED_OVERRIDE"
     }
   ],
   "prepared_episode": null,
@@ -527,5 +531,11 @@
     "fictional_Brian": "Adult miniature conjoined human, not Brian Griffin",
     "Clifford": "Future off-brand Vader walking surgery not enacted",
     "new_WTF_cameos": "suggestions only"
+  },
+  "latest_author_configuration": {
+    "owner": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+    "scope": "OLDER mature World Serpent, independent crossover meetings, Clifford Sith parody, Dana high-honor/Chris no-honor RDR2, Chris free Moose, Billy frequent valid Kancho, absolute actor removal",
+    "full_owner_route": "routing/Current_Roster_Kit_Overrides_20261019.json",
+    "still_unplayed": 33
   }
 }
