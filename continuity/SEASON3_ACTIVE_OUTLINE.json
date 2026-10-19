@@ -56,7 +56,8 @@
       "title": "A family with enemies of its own",
       "direction": "TPP formed E12 following E9 Meatwad and E10–12 reunion, revival, conjoining and separation. Tai Lung defeated alive E13; Samira killed E14; Heimdall killed E15. Earlier Kaze/Briar meeting and relationship claims are superseded by the latest author first-meeting override. Other completed events and their consequences remain.",
       "native_agency": "Darius protects family and Noxian cohesion; Swain, Black Rose actors, Vladimir and other natives pursue distinct interests. Draven is alive until actual new events say otherwise. No grief derived from erased E23.",
-      "author_current_actor_first_application": "TPP independently stole E32 port cargo declarations ledger after ticket scam, not Sins property. Dutch wants money and control, Clifford still holds grudges, Busta and miniature conjoined Brian have separate interests. Zid's author-selected betrayal is future, not completed. Gang rivalry can be successful, costly or embarrassing, not compulsory cameo."
+      "author_current_actor_first_application": "TPP independently stole E32 port cargo declarations ledger after ticket scam, not Sins property. Dutch wants money and control, Clifford still holds grudges, Busta and miniature conjoined Brian have separate interests. Zid's author-selected betrayal is future, not completed. Gang rivalry can be successful, costly or embarrassing, not compulsory cameo.",
+      "current_author_identity": "Tracy Morgan true Brusta identity; miniature human Brian; all TPP members think Busta; no duplicate. Clifford future walking surgery not yet executed."
     },
     {
       "id": "ZAUN_NOXUS",
@@ -277,7 +278,8 @@
       "title": "A family with enemies of its own",
       "direction": "TPP formed E12 following E9 Meatwad and E10–12 reunion, revival, conjoining and separation. Tai Lung defeated alive E13; Samira killed E14; Heimdall killed E15. Earlier Kaze/Briar meeting and relationship claims are superseded by the latest author first-meeting override. Other completed events and their consequences remain.",
       "native_agency": "Darius protects family and Noxian cohesion; Swain, Black Rose actors, Vladimir and other natives pursue distinct interests. Draven is alive until actual new events say otherwise. No grief derived from erased E23.",
-      "author_current_actor_first_application": "TPP independently stole E32 port cargo declarations ledger after ticket scam, not Sins property. Dutch wants money and control, Clifford still holds grudges, Busta and miniature conjoined Brian have separate interests. Zid's author-selected betrayal is future, not completed. Gang rivalry can be successful, costly or embarrassing, not compulsory cameo."
+      "author_current_actor_first_application": "TPP independently stole E32 port cargo declarations ledger after ticket scam, not Sins property. Dutch wants money and control, Clifford still holds grudges, Busta and miniature conjoined Brian have separate interests. Zid's author-selected betrayal is future, not completed. Gang rivalry can be successful, costly or embarrassing, not compulsory cameo.",
+      "current_author_identity": "Tracy Morgan true Brusta identity; miniature human Brian; all TPP members think Busta; no duplicate. Clifford future walking surgery not yet executed."
     },
     {
       "id": "ZAUN_NOXUS",
@@ -477,10 +479,10 @@
       "name": "T.P.P. — Tampon Pandemic Productions",
       "members": [
         "Dutch van der Linde",
-        "Clifford Marston (same adult Jack)",
-        "Busta Rhymes / Brian Griffin (conjoined body, separate adult minds)"
+        "Clifford Marston (same adult Jack Marston; surgery future)",
+        "Tracy Morgan (full-sized, incorrectly believed to be Busta Rhymes by TPP) / Brian (miniature fictional adult shoulder-conjoined, independent mind)"
       ],
-      "identity": "One conjoined Busta/Brian with separate minds; Clifford is the same adult Jack Marston. Frank retains independent identity, body, agency and selected eventual separation; not equipment or an automatic TPP member. Dutch is Bob Ross’s twin. No duplicate/replacement actors.",
+      "identity": "ONE conjoined existing full-size Tracy Morgan + miniature project-human Brian with TWO distinct adult minds. The gang believes him to be Busta Rhymes and still calls Brusta Thymes. The real Busta Rhymes is not a duplicate actor; prior Busta-identifications by TPP are mistaken. Clifford is adult Jack, not John, with future low-budget Vader surgical reconstruction not yet enacted.",
       "development_order": "History: Meatwad E9; meeting E10; one revival/conjoining E11; Frank separation alive, Clifford reconstruction, alliance and rented HQ E12; tattoo disaster E17. No replay. Subsequent additions require new choices.",
       "developments": [
         {
@@ -696,7 +698,13 @@
         "genre_influences": "Step Brothers/Prestige Worldwide, Anchorman, Austin Powers/Dr Evil, Spaceballs, South Park/Coon and Friends/Stick of Truth, RDR2, applied as competing committed situations rather than imported actors or powers."
       },
       "research_owner": "research_sources/Ensemble_Instigation_Research.txt",
-      "current_state": "Last-confirmed E17/E20: four minds/three bodies; marks and artist killing retained, 2 silver10 copper, 4 silver rent was due E20 evening, 3 silver loan, unfinished Tahiti painting/four mangoes at HQ. Four subsequent overnights elapsed; no payment/eviction/theft outcome auto-granted. Return available when causal."
+      "current_state": "Last-confirmed E17/E20: four minds/three bodies; marks and artist killing retained, 2 silver10 copper, 4 silver rent was due E20 evening, 3 silver loan, unfinished Tahiti painting/four mangoes at HQ. Four subsequent overnights elapsed; no payment/eviction/theft outcome auto-granted. Return available when causal.",
+      "current_true_identity": "Tracy Morgan (mistaken for Busta Rhymes by all TPP members, including Brian)",
+      "current_miniature_identity": "Brian: project-specific fictional adult human conjoined near Tracy shoulder, NOT Brian Griffin",
+      "TPP_FIDELITY_SOURCE": "continuity/editorial/TPP_Ensemble_Tone_After_E32_20261018.md",
+      "TRACY_CURRENT_OWNER": "character_sources/crossover_extended/Tracy_Morgan_Brusta_Current_20261018.md",
+      "CLIFFORD_RECONSTRUCTION_AUTHOR_DIRECTION": "Future genuinely walk-enabling surgery with final-beat patient reveal: looks like Anakin/Darth Vader transformation until Clifford is named; no literal Vader, no accomplished surgery at E32.",
+      "S3_CORRECTION_STATUS": "AUTHOR_SELECTED_CURRENT_TRUE_IDENTITY_AND_FUTURE_SURGERY; prior E12/E17/E32 facts preserved; E33 not played."
     },
     "BILLY_RICK_ENGINEERED_EVOLUTION": {
       "status": "SELECTED_FUTURE_NOT_ENACTED_IN_RESET",
@@ -1079,10 +1087,10 @@
     "topic_sources/Capability_and_Speech_Overrides.txt",
     "approved_rolloff/staged/EXACT_QUOTE_REGISTER.json"
   ],
-  "current_cursor": "E32 No Horizon DELIVERED_PROVISIONAL, acceptance NOT_ASSERTED. Early afternoon at Noxian harbor, Chris exterior/Billy full-sized in BELLY; Kaze, Daniel, Arthur nearby. Dana and Mana restored as loyal existing Sins, no betrayal, current scene location unknown. Next E33 not yet played.",
+  "current_cursor": "E32 No Horizon DELIVERED_PROVISIONAL. E33 next NOT played. New author truth: Brusta's conjoined host is Tracy Morgan, TPP mistake him for Busta, human miniature Brian not Brian Griffin. Clifford is adult Jack with later surgery staged as Vader fakeout. Kaze romance OFF prospectively. Dana and Mana remain loyal Sins.",
   "pre_solo_schedule_provenance": "Unmodified prior outline preserved in rollback; current scheduling below overrides stale E17/E18 cursor and pending-introduction claims.",
   "focus_mode": "ENSEMBLE",
-  "romance_owner": "canon/relationships/Kaze_Adult_Romance_20261018.md",
+  "romance_owner": "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
   "KAZE_ROMANCE_ENABLED": false,
   "solo_schedule": {
     "status": "SUPERSEDED_BY_ENSEMBLE_RESUME_AFTER_E27",
@@ -1136,7 +1144,9 @@
     "continuity/author/World_Serpent_and_Autonomous_S3_Roster_After_E31_20261018.json",
     "continuity/author/Recurring_Living_Roster_Encounters_After_E31_20261018.json",
     "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
-    "continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json"
+    "continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json",
+    "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
+    "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json"
   ],
   "encounter_register": "continuity/Runeterra_Women_Encounter_Register.json",
   "encounter_register_sha256": "705c5cdf25ae6cb5823e85cb1940f014782634b90b90ff362de5fa13274790dd",
@@ -1251,7 +1261,7 @@
     "mode": "WORK_NO_PLAY",
     "principle": "Each roster character chooses based on personal desire, psychological tensions, source-era history, actual location/resources/knowledge, relationships and consequences. A selected encounter or duel is not a compelled choice or result.",
     "complete_profile_library": "/S7NS/Season3_Character_Agency_Matrix_20261018.json",
-    "reference_map_library": "/S7NS/Season3_Character_Agency_Reading_Map_20261018.md",
+    "reference_map_library": "/S7NS/Season3_Character_Agency_Matrix_After_Brusta_20261018.json",
     "current_cursor": "E32 DELIVERED_PROVISIONAL; E33 not played; Dana and Mana restored loyal, Zid betrayal future.",
     "source_backed_noxus_crossover_guide": "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md",
     "library_extended_matrix": "/S7NS/Season3_Character_Agency_Matrix_20261018.json",
@@ -1271,7 +1281,10 @@
       "A major encounter or reencounter needs some irreversible local shift, remembered relationship consequence or changed resource, not a quick name-drop.",
       "Retain exact fatal/hold gates and existing outcomes; plans do not certify future events.",
       "Mimir tells it with his catalog of optional 140 techniques as actual narration rather than enumerating roster facts."
-    ]
+    ],
+    "romance": "OFF by latest post-E32 author decision; past intimacy retained; formerly mandatory 99 percent attraction not forced while OFF.",
+    "reading_map_library": "/S7NS/Season3_Character_Agency_Reading_Map_After_Brusta_20261018.md",
+    "brusta_identity": "Tracy Morgan not Busta; Brian human not Family Guy. Full current routes override obsolete library keys."
   },
   "conditional_actor_intersections_examples": [
     "A soldier's real report might force a conflict between military logistics and a noble's attempt to hide a loss; Swain/Darius could disagree on how to respond.",
@@ -1294,5 +1307,34 @@
     "patient": "adult Jack Clifford Marston, not John Marston or Anakin Skywalker",
     "reveal": "Vader-style surgical misdirection, final Clifford reveal",
     "walk": "earned through source-bounded operation and mechanical components, with costs/limitations"
-  }
+  },
+  "last_author_before_current_tracy_reveal": {
+    "KAZE_ROMANCE_ENABLED": false,
+    "romance_owner": "canon/relationships/Kaze_Adult_Romance_20261018.md",
+    "tpp_members": [
+      "Dutch van der Linde",
+      "Clifford Marston (same adult Jack)",
+      "Busta Rhymes / Brian Griffin (conjoined body, separate adult minds)"
+    ],
+    "brusta_identity": "One conjoined Busta/Brian with separate minds; Clifford is the same adult Jack Marston. Frank retains independent identity, body, agency and selected eventual separation; not equipment or an automatic TPP member. Dutch is Bob Ross’s twin. No duplicate/replacement actors."
+  },
+  "author_current_tpp_tracy_correction": "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
+  "current_tpp_tracy_route": "routing/Brusta_Tracy_Brian_Clifford_Current_Access_20261018.json",
+  "current_tracy_speech_fidelity": "research_sources/Tracy_Morgan_Speech_Fidelity_After_E32_20261018.md",
+  "current_john_jack_voice_fidelity": "research_sources/John_Marston_RDR_Speech_and_Clifford_Contrast_20261018.md",
+  "current_tpp_comedy_fidelity": "continuity/editorial/TPP_Ensemble_Tone_After_E32_20261018.md",
+  "current_WTF_optional_candidates": "continuity/work/WTF_Crossover_Candidates_After_E32_20261018.json",
+  "current_post_E32_character_decisions": {
+    "brusta": "Tracy Morgan actual identity, TPP members mistake him for Busta Rhymes; Brian same fictional adult human with conjoined tiny body",
+    "clifford": "Adult Jack/Clifford, wheelchair still after E32; future off-brand Vader surgery returns walkability, fair fakeout final reveal.",
+    "KAZE_ROMANCE_ENABLED": false,
+    "source_controls": [
+      "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
+      "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
+      "routing/Brusta_Tracy_Brian_Clifford_Current_Access_20261018.json"
+    ],
+    "WTF": "Woody/Buzz author examples, other suggestions only, no selected arrivals.",
+    "play_status": "WORK_ONLY, E32 delivered provisional, E33 next not played."
+  },
+  "current_character_agency_matrix_library": "/S7NS/Season3_Character_Agency_Matrix_After_Brusta_20261018.json"
 }
