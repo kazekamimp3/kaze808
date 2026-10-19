@@ -1,0 +1,117 @@
+{
+  "schema_version": "S7NS_EPISODE_CHECKPOINT_V1",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 34,
+  "title": "A Bad Influence",
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "Existing PLAY E34 and subsequent explicit request to deliver; preserved recovery resumed, no new confirmation required.",
+  "predecessor": {
+    "episode": 33,
+    "title": "Under New Management",
+    "delivery_status": "DELIVERED_PROVISIONAL_RENDER_DEFECT",
+    "manuscript": "continuity/episodes/E33/S3_Episode_33_Under_New_Management.txt",
+    "manuscript_git_blob_sha1": "455222e09195b6bc24b386dc1bb18ecba20ad29c",
+    "checkpoint": "continuity/episodes/E33/S3_Episode_33_Checkpoint.json",
+    "checkpoint_git_blob_sha1": "bc2b14fafca94f36c3a22e5b727dc4e6745d4aec",
+    "delivery_receipt": "continuity/episodes/E33/DELIVERY_RECONCILIATION.json",
+    "recovery": "continuity/work/RESUME_CHECKPOINT_E34_RECOVERY_20261019.json",
+    "preservation": "All predecessor text and completed recovery work retained. E33 duplicated escaped chat text is not repeated story action."
+  },
+  "manuscript": {
+    "path": "continuity/episodes/E34/S3_Episode_34_A_Bad_Influence.txt",
+    "sha256": "f9258d22f226ff1cfeb9bfea0c1865c24e249aa2e88f9e9aca77403654feda3e",
+    "git_blob_sha1": "76304350283229ed2433c25fac110098f6743804",
+    "save_commit": "cfe1e79130c51670ceca6773cb208fcecdea729e",
+    "readback": "GitHub returned blob SHA matches locally computed Git blob SHA of the complete final UTF-8 manuscript.",
+    "utf8_bytes": 24216,
+    "characters": 23506,
+    "body_words": 3965,
+    "word_count_method": "Whitespace words, title excluded",
+    "assumed_words_per_minute": 150,
+    "estimated_minutes": 26.43,
+    "measured_audio": false
+  },
+  "chronology": {
+    "entry": "Same morning as E33 ending, after K.K. has emerged and spoken; eight overnights since E20.",
+    "elapsed": "Morning activity and ordinary local walking. No additional overnight or exact duration assigned.",
+    "exit": "Sins and guest K.K. have left the harbor market onto the inland road; TPP adults have returned to their rented headquarters.",
+    "absolute_D_R": null
+  },
+  "new_episode_events": [
+    "Shake proposes taking a cutting to create labor; K.K. independently refuses. This conversation establishes no cloning or reliable vegetative reproduction mechanism.",
+    "Chris reports the already-born K.K. through the existing banjo channel to exterior Billy and listeners. K.K. physically compresses through a doorway, then exits via Billy-authorized actual mouth egress. No teleportation, new born identity or exterior Chris. Dana and Mana subsequently exit by actual Billy permission and egress.",
+    "K.K. meets Kaze, Arthur, Daniel and exterior Billy, experiences sunlight, establishes and withdraws small roots in local soil, sees an already-present distant serpent section, and chooses to walk with the group. No Sin admission occurs.",
+    "TPP leaves Sava clinic with Clifford's genuine assisted walking preserved and the wheelchair, helmet and cape retained. Coon/Cartman proposes a fake hero event, Clifford refuses, and Jimmy/Timmy/Cartman choose to return to HQ rather than attend the adult transaction.",
+    "Dutch uses the stolen harbor ledger to identify reachable freight broker Pell. Pell verifies relevant diverted-shipment information against his own notice and pays sixty silver for the book. Brian implies further access; Pell interprets that as a continuing threat and attempts armed coercion. No actual extra records or access granted by Brian's claim.",
+    "Clifford fires one revolver round into the wrist of the man drawing a pistol at the rear door. That man remains alive and wounded; his pistol falls. Dutch draws his own gun but does not fire. Tracy shoves the hatchet-carrying man into the rack and withdraws with the money and conjoined Brian.",
+    "Kaze, attracted by Dutch's audible voice while at a nearby garden stall, stands at the courtyard gate. The hatchet man uses another passage, mistakes K.K.'s moving wooden arm for an obstruction, wounds his forearm and attacks again. K.K. creates a real anatomical gap around the second blow, closes wood around the hatchet, then grabs and deliberately crushes the man's head after the attacker punches his wound. One new unnamed adult dead; no automatic execution or unearned immunity.",
+    "Arthur deters Pell's escape at the window with his visible position and hand on an UNSHAKEN grip; no shot. Dutch takes the same ledger back. Clifford sees Arthur, retains his grudge, and chooses to leave instead of beginning another fight. Arthur, Kaze and Chris now observe his assisted walking/apparatus through their actual views; no automatic medical knowledge.",
+    "Tracy voluntarily supplies one of the new sixty silver at Dutch's request, despite correcting the Busta misidentification angrily. Dutch gives it to K.K. TPP departs and returns to HQ with fifty-nine newly obtained silver and the original ledger. Old cash is separate and unspecified; old rent and medical debts are not paid by this episode.",
+    "K.K. explicitly recognizes that he could have released his victim. Kaze recognizes the impulse without declaring it right. K.K. challenges Kaze's choice to watch, and Kaze concedes the criticism. Dana offers practical help without becoming a compulsory commander. The garden seller supplies a cloth; K.K. wraps his wounded forearm. No automatic healing completion.",
+    "K.K. spends his one silver on a small ordinary pear tree and its tub, listens to its care needs, and chooses to remain exterior in the sunlight as the group leaves inland. The original plain walking stick remains his. The hatchet is released from his body and left at the scene; the corpse is not swallowed.",
+    "A surviving Pell employee runs toward the local guard post. Receipt of the report, arrests, retaliation and distant knowledge remain unperformed. TPP reaches HQ, where the children have returned; Cartman tries to claim credit, Timmy and Jimmy retain agency, Tracy prioritizes obligations, and Dutch counts their new funds."
+  ],
+  "final_positions": {
+    "outside": "Billy sole exterior with Kaze, Arthur, Daniel, Dana, Mana and guest K.K. on the inland road away from the harbor market. No named inland destination or completed long-distance journey assigned.",
+    "inside_BELLY": "Full-sized Chris, Charles, Meatwad, Master Shake and Frylock in protected BOYS CLUB. Existing monitor/banjo routes and one exterior preserved. Actual plant-seed salvage/garden lamp attention, no game-save changes.",
+    "TPP": "Dutch, Clifford, actual Tracy with miniature adult human Brian, Cartman/The Coon, Jimmy and Timmy at existing rented HQ. Clifford seated for the longer return, helmet in lap; walking improvement remains valid, cape and wheelchair retained.",
+    "Pell_scene": "Pell alive at office, one man alive with shot wrist, one hatchet man dead by garden stall, frightened seller and assistant alive; local employee reporting attempt underway. Exact identities of unnamed employees remain unassigned.",
+    "remote_threads": "No new Kratos/Mimir/Thor/Katarina or remote faction positions, reports, successes or deaths asserted. Prior source-owned threads remain. No new world-serpent encirclement or global disaster."
+  },
+  "resources": {
+    "Sins_finances": "Kaze personal three silver, Daniel personal 110, prior common 2120 and two uncounted E31 chests unchanged. No division, sale or job proceeds assigned to Sins.",
+    "TPP_new_silver": 59,
+    "TPP_flow": "Pell pays 60; TPP gives K.K. 1. New net 59, not their total treasury. Ledger briefly transferred then reclaimed. Prior debts and cash retained separately; no rent/medical settlement yet.",
+    "KK_money": "Received 1 silver and spent it on pear tree/tub; zero remaining from that transaction.",
+    "KK_condition": "Forearm hatchet wound with sap and cloth wrap persists; blood on the hand used for the kill. No numerical recovery rate or full healing assertion. Hollow-Man opening closed and hatchet removed without claiming a wound from that avoided second cut.",
+    "KK_items": "Original ordinary wooden walking stick; newly purchased ordinary small pear tree and tub. No magical cane, cloned tree person or free plant army.",
+    "ammunition": "Clifford one revolver shot; no other shots or any reload shown. All previous expended ammunition remains expended. No newly conjured reserve or charge.",
+    "BELLY": "Original residents, protected chests and hoard remain. Damaged original growing tub reused for rescued vegetable seeds, existing cultivation lamp/cell remains finite. No new chair or household arrival. No swallowed corpse or outside cargo.",
+    "weapons_at_scene": "Wounded man's dropped pistol and dead man's packing hatchet not taken by Sins or TPP in the text. Dutch's gun retained, Arthur's two UNSHAKEN and transforming primary remain unchanged. Black Marrow unmanifested."
+  },
+  "knowledge_and_authority": {
+    "KK": "Learns ordinary social/property contrasts through conversation and action; knows first daylight, witnessed violence, his own chosen killing, Kaze's admitted observation, payment and care instructions. Does not know whole Sins history or his genetic provenance.",
+    "TPP": "Adults know observed giant tree and what he did, not automatically his name, biology, full kit or BELLY route. No on-page full briefing to the children. Original Tracy misidentification remains unresolved for believers.",
+    "Sins": "Exterior participants receive Chris's report and see K.K. through actual egress. Interior spectators know only live monitor view/audio and relays, not every narrator-disclosed office event. No broad telepathy.",
+    "retained_controls": "Deadpool narrator-only; Mimir already physical with Kratos; Kaze romance OFF/no alcohol; Dana/Mana loyal; current scoped K.K./Zid owner applies. Zid absent and canceled betrayal not reintroduced. Dr Evil/Austin and other future actors not introduced.",
+    "membership": "K.K. is a voluntary traveling guest, not admitted Sin; no vote occurred. Shake/Frylock and TPP's E33 recruits remain already present, not re-recruited."
+  },
+  "review": {
+    "procedure": "Existing Season3_Scene_Decision_Doctrine_20261010.md, not a new workflow.",
+    "first_complete_read": "E34 original 21944-character draft reopened in two sequential tool reads, 0:11000 and 11000:end.",
+    "source_specific_repairs": [
+      "Changed an invented past couch-stuck incident to a hypothetical comparison.",
+      "Corrected kitchen-fee callback so it did not claim a completed kitchen sale.",
+      "Removed an unsupported earlier stair attempt from Sava's dialogue.",
+      "Clarified single K.K. egress, Chris remaining inside, and helmet/cape wheelchair custody.",
+      "Rebuilt Pell's coercion from his observed reaction to Brian's claim instead of an unexplained generic greed turn.",
+      "Clarified why the fleeing man first strikes wood and removed inconsistent knife custody/action.",
+      "Made the wound wrapping explicit and retained damage without assigning invented regeneration timing.",
+      "Removed explicit future Sin-status narration and unnecessary finite-cell/second-body compliance phrasing.",
+      "Added a substantive TPP return showing usable proceeds and independent children's responses, bringing earned text into target length."
+    ],
+    "final_complete_read": {
+      "version_sha256": "f9258d22f226ff1cfeb9bfea0c1865c24e249aa2e88f9e9aca77403654feda3e",
+      "coverage": "After the last edit, reopened and read the complete resulting 23506-character text sequentially: 0:12000 and 12000:end. No subsequent prose edit.",
+      "mechanical_tests": {"literal_backslash_n_sequences": 0, "duplicate_identical_paragraphs_of_20_or_more_words": 0, "episode_headers": 1, "body_word_target": "PASS_3965"},
+      "limits": "These tests detect specific text defects, not all semantic repetition or a platform rendering guarantee. Narrative assessment is editorial judgment; no measured audio or full-corpus semantic certification."
+    },
+    "decisive_source_comparisons": [
+      "Full current K.K. owner: biological compression, real Hollow-Man gaps, Living Ironwood force, tree-first intelligent agency. Compared to doorway/hatchet/grip and later explanation; no teleport or blanket immortality.",
+      "BELLY shared access/source and E33: mouth egress authorized by Billy, Chris remains full-size inside, Monitor 2/banjo bounded. Compared to exterior report and departure sequence.",
+      "E33 Clifford outcome: assisted walking and wheelchair coexist. Compared to planted supported shot, careful threshold and voluntary seated return; no cosmetic cure or Sith powers.",
+      "Kaze current profile and current author locks: curiosity, bad-faith moral indifference and ability to be honestly corrected. Compared to the killing aftermath and his Fair response; no romance, alcohol or removed powers."
+    ],
+    "retrieval_scope": "Reused exact E33 text/checkpoint and complete sources already visible in this conversation. Fresh live CURRENT, E34 brief and complete K.K. owner; bounded active-outline section; Files doctrine/BELLY and extracted current-profile passages. Some large inherited profile outputs were truncated and are not claimed as exhaustive complete re-reads. The concrete newly used K.K. mechanics were read in the full current owner. No universal all-owner-closure certificate.",
+    "weakest_span_decision": "Kept the short pear transaction because it gives K.K. an independently chosen concrete purpose before violence and a contrasting consequence afterward; did not expand it into a gardening/administrative subplot.",
+    "known_unresolved_runtime_bug": "Cause of earlier Thinking failed remains unknown. This manuscript is preserved and checked against specific E33 escaped-text/duplication symptoms; no platform fix claimed."
+  },
+  "preservation": "No prior manuscripts, checkpoints, Project attachments/instructions or unrelated owners changed. No author acceptance inferred. Recovery brief is retained as provenance; this paired manuscript/checkpoint is the new prepared E34 artifact.",
+  "next": {
+    "episode": 35,
+    "status": "NOT_AUTHORIZED_NOT_WRITTEN",
+    "directions": "Continue inland movement and K.K. individual choices, persistent wound/pear/stick, TPP new 59 silver and hostile broker/report route. Preserve pending genuine Sin admission and other independently reachable planned threads; no repeat birth/surgery/recruitment.",
+    "delivery_reconciliation": "Once E34 chat response exists, reconcile it against this exact saved manuscript. Until then it is prepared only; acceptance remains separate."
+  }
+}
