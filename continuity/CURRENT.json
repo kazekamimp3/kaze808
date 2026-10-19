@@ -1,25 +1,25 @@
 {
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "E34 A Bad Influence DELIVERED_PROVISIONAL from visible conversation; author acceptance NOT_ASSERTED. E35 next unwritten and not authorized. New research/editorial source is WORK only.",
+  "as_of": "E35 'A Controlled Environment' fully chat-delivered provisionally after explicit PLAY E35; author acceptance NOT ASSERTED. Author favors separately revised feature-length E33–35 presentation; originals unchanged. E36 unwritten/not PLAY-authorized.",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "continuity/episodes/E34/DELIVERY_RECONCILIATION.json",
-  "last_delivered_episode": 34,
+  "delivery_reconciliation": "continuity/episodes/E35/DELIVERY_RECONCILIATION.json",
+  "last_delivered_episode": 35,
   "delivery_status": "DELIVERED_PROVISIONAL",
   "author_acceptance": "NOT_ASSERTED",
-  "checkpoint": "continuity/episodes/E34/S3_Episode_34_Checkpoint.json",
-  "checkpoint_git_blob_sha1": "a642296b25627915d2baf0bf809156ab3dc447b2",
-  "manuscript": "continuity/episodes/E34/S3_Episode_34_A_Bad_Influence.txt",
-  "manuscript_git_blob_sha1": "76304350283229ed2433c25fac110098f6743804",
-  "manuscript_sha256": "f9258d22f226ff1cfeb9bfea0c1865c24e249aa2e88f9e9aca77403654feda3e",
+  "checkpoint": "continuity/episodes/E35/S3_Episode_35_Checkpoint.json",
+  "checkpoint_git_blob_sha1": "ac0ea9f9e4aa1c1dceaaa8b92fa5b10037499697",
+  "manuscript": "continuity/episodes/E35/S3_Episode_35_A_Controlled_Environment.txt",
+  "manuscript_git_blob_sha1": "ac3ba5e6fdfd30b59b7db2c4ad6dfa0f0c41ea0f",
+  "manuscript_sha256": "5973edf985a612fdf579fdb7dd3bd0791011c7a89e1dcdb76efe1b36f11d78c7",
   "hash_scope": "E33 SHA256 retained from original checkpoint; current readback confirms the recorded Git blob identities. Corrupted E33 chat rendering is not byte-identical to the saved manuscript. E34 complete local SHA256/Git blob identities are separately recomputed and matched to GitHub below.",
-  "next_episode": 35,
+  "next_episode": 36,
   "prepared_episode": null,
   "continuation_authorization": {
-    "episode": 35,
+    "episode": 36,
     "status": "NOT_AUTHORIZED",
-    "note": "No automatic transfer of E34 PLAY authorization to E35."
+    "note": "PLAY E35 authorization was consumed by E35 delivery. Feature edit/audit request is distinct; no fresh PLAY E36."
   },
-  "state_owner": "continuity/episodes/E34/S3_Episode_34_Checkpoint.json",
+  "state_owner": "continuity/episodes/E35/S3_Episode_35_Checkpoint.json",
   "state_rule": "Exact E34 scene positions/resources/knowledge in paired checkpoint govern; PREPARED pre-delivery labels superseded only by separate E34 delivery receipt. No reset, author acceptance or new story events from WORK.",
   "prior_full_current_snapshot": {
     "path": "continuity/CURRENT.json",
@@ -48,7 +48,12 @@
     "E34_KK": "Kay Kay is now outside with Billy/Kaze/Arthur/Daniel/Dana/Mana on inland road. He deliberately killed one hatchet attacker after a real forearm injury, bought a small pear tree with given silver, retained ordinary walking stick; not yet a Sin.",
     "E34_TPP": "Dutch/Tracy/Brian/Clifford gained 59 new silver net after one transfer to K.K., reclaimed stolen ledger, have wounded enemy Pell and a surviving injured guard. Children remain TPP HQ; original debts persist.",
     "E34_egr": "Billy explicitly let Dana and Mana leave BELLY and brought them outside; earlier assistant criticism was mistaken and withdrawn.",
-    "E34_elsewhere": "Kratos/Mimir/Thor/Katarina further scenes not shown; no remote travel or omniscience inferred."
+    "E34_elsewhere": "Kratos/Mimir/Thor/Katarina further scenes not shown; no remote travel or omniscience inferred.",
+    "E35_BELLY": "Frylock/Shake use consenting but unhappy Meatwad inside offal puppet as purported child. No new birth. Charles disposes puppet into acid and leaves an ordinary spoon; Chris/household retains interpersonal consequences, food served outside.",
+    "E35_KK": "K.K. planted the single previously purchased pear tree by stream. He retains its empty pot and ordinary walking stick, bandaged forearm.",
+    "E35_TPP": "Dutch spent four new silver on show, earned nine show admission silver and stole eighteen from audience. TPP now has 82 tracked silver from E34 and E35 (prior money separate), original ledger and unpaid rent/medical debts; retreated through harbor streets from publicly identified HQ, with no new base established.",
+    "E35_Kaze": "Spent last three personal silver on meat/onions/bread. Kaze personally has zero silver, group common 2,120 unspent.",
+    "E35_Timing": "Still same day as E34 morning, E35 afternoon, eight overnights since E20. No new overnight."
   },
   "history_unchanged": true,
   "project_ui_installation_performed": true,
@@ -67,16 +72,16 @@
   },
   "prepared_artifact": null,
   "previous_delivered_episode_record": {
-    "episode": 33,
-    "manuscript": "continuity/episodes/E33/S3_Episode_33_Under_New_Management.txt",
-    "checkpoint": "continuity/episodes/E33/S3_Episode_33_Checkpoint.json",
-    "delivery_reconciliation": "continuity/episodes/E33/DELIVERY_RECONCILIATION.json",
-    "status": "DELIVERED_PROVISIONAL_RENDER_DEFECT",
+    "episode": 34,
+    "manuscript": "continuity/episodes/E34/S3_Episode_34_A_Bad_Influence.txt",
+    "checkpoint": "continuity/episodes/E34/S3_Episode_34_Checkpoint.json",
+    "delivery_reconciliation": "continuity/episodes/E34/DELIVERY_RECONCILIATION.json",
+    "delivery_status": "DELIVERED_PROVISIONAL",
     "author_acceptance": "NOT_ASSERTED"
   },
   "latest_editorial_feedback": "continuity/author/Deadpool_Deep_Fidelity_E34_Quality_Direction_20261019.json",
   "deadpool_deeppass_research": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
-  "work_status": "E34_QAPX_TARGETED_FOUR_APP_SYNCHRONIZATION_AND_SOURCE_DELTA_STAGED_VERIFIED; PROJECT_UI_CHANGED_9_BUNDLES_MANIFEST_INSTRUCTIONS_NOT_INSTALLED; E35_UNWRITTEN",
+  "work_status": "E35_DELIVERED_PROVISIONAL_AND_RECONCILED; FEATURE_E33_E35_REVISED_PRESENTATION_EDITORIAL_PLANNING; E36_UNWRITTEN_NOT_PLAY_AUTHORIZED",
   "work_new_brief": "continuity/work/DEADPOOL_20261019_RESEARCH_APPLICATION_BRIEF.md",
   "work_new_brief_git_blob_sha1": "e9db953b6e4c8b2986d34a03b4554a78fed8b56e",
   "work_research_saved": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
@@ -127,5 +132,6 @@
   "project_e34_custom_instructions_effective_context": "E34 QAPX CURRENT visible in active Project instructions; independent exact Project UI byte/hash readback unavailable",
   "project_e34_custom_instructions_exact_byte_readback_verified": false,
   "project_e34_cutover_status": "PROJECT_28_ATTACHMENTS_AND_471_LOGICAL_OWNERS_HASH_VERIFIED; INSTRUCTIONS_EFFECTIVE_E34_VISIBLE_BUT_RAW_UI_HASH_NOT_VERIFIED",
-  "story_days_advanced_by_project_source_verification": 0
+  "story_days_advanced_by_project_source_verification": 0,
+  "feature_length_E33_E35_author_direction": "Author agrees Episodes 33, 34 and 35 should become one separately reviewed/rewritten continuous feature; specific scene improvements under source/continuity audit. Original episodes stay preserved, no forced new canon or author acceptance."
 }
