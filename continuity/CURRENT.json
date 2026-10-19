@@ -53,8 +53,8 @@
   "history_unchanged": true,
   "project_ui_installation_performed": false,
   "story_days_advanced_by_reconciliation": 0,
-  "work_resume_checkpoint": "continuity/work/RESUME_CHECKPOINT_E34_RECOVERY_20261019.json",
-  "work_resume_checkpoint_git_blob_sha1": "40055f0a82b5ed23480de872aca929affa303969",
+  "work_resume_checkpoint": "continuity/work/RESUME_CHECKPOINT_E34_DEADPOOL_FIDELITY_20261019.json",
+  "work_resume_checkpoint_git_blob_sha1": "b963d659b6ce2462ec66e489b9fdc50948c01f36",
   "working_brief": "continuity/episodes/E34/working_brief.md",
   "working_brief_git_blob_sha1": "09128ad7253a05da02c3fe718420180e7dcafc31",
   "recovery_status": {
@@ -75,5 +75,11 @@
     "author_acceptance": "NOT_ASSERTED"
   },
   "latest_editorial_feedback": "continuity/author/Deadpool_Deep_Fidelity_E34_Quality_Direction_20261019.json",
-  "deadpool_deeppass_research": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md"
+  "deadpool_deeppass_research": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
+  "work_status": "DEADPOOL_DEEP_THREE_FILM_RESEARCH_AND_APPLICATION_SAVED; E35_UNWRITTEN_NOT_AUTHORIZED",
+  "work_new_brief": "continuity/work/DEADPOOL_20261019_RESEARCH_APPLICATION_BRIEF.md",
+  "work_new_brief_git_blob_sha1": "e9db953b6e4c8b2986d34a03b4554a78fed8b56e",
+  "work_research_saved": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
+  "latest_scoped_editorial": "continuity/author/Deadpool_Deep_Fidelity_E34_Quality_Direction_20261019.json",
+  "work_only_story_days_advanced": 0
 }
