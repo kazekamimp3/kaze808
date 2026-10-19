@@ -3,9 +3,9 @@
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "effective_local_date": "2026-10-18",
   "timezone": "Pacific/Honolulu",
-  "status": "AUTHOR_APPROVED_CONFIGURATION_NOT_PLAY",
+  "status": "AUTHOR_SUPERSEDED_ROMANCE_OFF_AFTER_E32",
   "authority": "Latest explicit author instructions, including the post-E31 interruption: Kaze does not drink alcohol; he shamelessly flirts in every adult-female encounter regardless of situation; his sexual-attraction success rate is 99 percent. Retain romance ON, group outline, existing partner history and selected future pregnancies, individual regional encounters and adult Zeri.",
-  "KAZE_ROMANCE_ENABLED": true,
+  "KAZE_ROMANCE_ENABLED": false,
   "KAZE_DRINKS_ALCOHOL": false,
   "KAZE_ADULT_ATTRACTION_SUCCESS_RATE": 0.99,
   "focus_mode": "ENSEMBLE",
@@ -111,5 +111,12 @@
     "previous_main_commit": "30e24a50fa485031038abd6bf88bb551a28a66e7",
     "before_post_E31_amendment_blob": "2514fbdb95ccacca4e279f37c348bca667dfcedf",
     "rule": "Restore only changed operational files/fields from captured before values or inverse scoped commit, preserving later unrelated work. Never delete original sources or manuscripts."
+  },
+  "latest_author_romance_toggle_after_E32": {
+    "KAZE_ROMANCE_ENABLED": false,
+    "effective": "After E32, current work-only author switch, no E33 scene",
+    "supersedes": "All prior prospective ON flags and compulsory adult flirting/99%-attraction runtime while OFF; history not erased.",
+    "preserve": "Previously delivered relationships, consensual encounters, future selected pregnancies and actor knowledge remain as delivered. Attraction stat is characterization only, does not force pursuit while off.",
+    "authority": "continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json"
   }
 }
