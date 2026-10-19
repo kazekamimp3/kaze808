@@ -1,3 +1,6 @@
+## QAPX standard-chat local replacement receipt — after E32 (NOT Project-installed)
+Read `continuity/work/QAPX_STANDARD_CHAT_PREINSTALL_RECEIPT_20261019.json` before resuming QAPX. It records 13 verified locally rebuilt original source bundles, 9 added scoped modules, a 462-module reindexed MANIFEST, compact Project-instruction replacement and an exact local ZIP SHA-256, plus rollback and outstanding Project UI installation. The ZIP itself was generated in the requesting chat, NOT uploaded to GitHub or installed into ChatGPT Project attachments. Full GitHub direct character owners are unchanged by this receipt. E32 delivered provisional, E33 unwritten. Do not claim external synchronization or PLAY.
+
 # S7NS startup
 
 Before every WORK or PLAY, read `PLAY_START_HERE.md`, `integrations/registry.json`, `continuity/DELIVERY_LEDGER.json`, `continuity/CURRENT.json`, and every active scoped author override. Do not start from the frozen E20 source snapshot alone.
