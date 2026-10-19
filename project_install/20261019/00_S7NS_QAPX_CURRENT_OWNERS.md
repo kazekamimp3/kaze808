@@ -6960,3 +6960,738 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
 
 <!-- END LOGICAL OWNER: research/Comedy_Escalation_Profanity_RickMorty_Trover_20261019.md -->
 
+<!-- BEGIN LOGICAL OWNER: routing/QAPX_ROUTE_ADDENDUM_20261019.json | ROLE: derived_route -->
+{
+  "schema": "S7NS_QAPX_ROUTE_ADDENDUM_20261019",
+  "full_base_index": "routing/MASTER_SOURCE_INDEX.json",
+  "manifest_locator": "MANIFEST.yaml",
+  "current_entry": "authority/QAPX_CURRENT_PRIORITY_20261019.md",
+  "current_evidence": "continuity/CURRENT.json",
+  "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
+  "latest_status": "E32_DELIVERED_PROVISIONAL_E33_UNWRITTEN",
+  "precedence": "This addendum supersedes only conflicting old responsibility paths; full old source index remains route for unchanged 453 owners.",
+  "new_or_repointed_modules": [
+    {
+      "module": "authority/QAPX_CURRENT_PRIORITY_20261019.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 423,
+      "byte_length": 2194,
+      "sha256": "12ef8edd4c54933dd382160e1803beee716d3595707313441c6e75a732d624b4",
+      "role": "current"
+    },
+    {
+      "module": "character_sources/Chris_Character_Source.txt",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 2910,
+      "byte_length": 48161,
+      "sha256": "d512d904408bfb7ef9371c4e615bce50ee9eb3827191a45f557c07bd76e47845",
+      "role": "current"
+    },
+    {
+      "module": "character_sources/Billy_Character_Source.txt",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 51237,
+      "byte_length": 46734,
+      "sha256": "cf11b260acf7c02f84c0d1ce855346f1657b0f78461f9d50d899cd294beea86e",
+      "role": "current"
+    },
+    {
+      "module": "canon/characters/chris_catfish_billy_current.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 98140,
+      "byte_length": 198170,
+      "sha256": "6c2b34b18adf5dfcc776b5fa056a4983b6b4d754b25dcb4532dd8df5d79f21e3",
+      "role": "current"
+    },
+    {
+      "module": "canon/characters/chris_catfish_billy_future.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 296481,
+      "byte_length": 64282,
+      "sha256": "7c386ce4e0d4746cba1d1a3f96e56c56e0b925371b8dd3c0671cb0ba130b8b3a",
+      "role": "current"
+    },
+    {
+      "module": "canon/characters/s37_kit_application.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 360926,
+      "byte_length": 25779,
+      "sha256": "0b77f4da3dbb3839c6250b7042ada6601a0864b1c2372f1b80b633cb86e391c8",
+      "role": "current"
+    },
+    {
+      "module": "character_sources/Jormungandr_Character_Source.txt",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 386872,
+      "byte_length": 4969,
+      "sha256": "c7c7bd2389908345eaaadda1978307752ea44694b697d47d4fa2b38ccc73128e",
+      "role": "current"
+    },
+    {
+      "module": "canon/characters/dana_mana.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 391998,
+      "byte_length": 75751,
+      "sha256": "3ceb1a6dad57906b7b7d49cf9b6417b07205153d8d2340449a868a52f1cd1323",
+      "role": "current"
+    },
+    {
+      "module": "character_sources/Dana_Character_Source.txt",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 467899,
+      "byte_length": 6720,
+      "sha256": "05143bb333411f494eb9c5303896ce056301c23ab5eee0c6408ff8274fed41cf",
+      "role": "current"
+    },
+    {
+      "module": "character_sources/Mana_Character_Source.txt",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 474783,
+      "byte_length": 5445,
+      "sha256": "3826690b0265361ef05576c6b52a69addf212bf5515a72794374785eba847298",
+      "role": "current"
+    },
+    {
+      "module": "canon/presentation/Deadpool_Primary_Narration_After_E32_20261019.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 480416,
+      "byte_length": 5662,
+      "sha256": "217088ab4aaa5efeceea15d782de8f33068e5544657ad646eee26a3f10a99ee5",
+      "role": "current"
+    },
+    {
+      "module": "continuity/CURRENT.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 486380,
+      "byte_length": 38298,
+      "sha256": "0fc878c0206e4a3eb32ac43daa2c3e48fe59a69392b08a93024921142e0036ba",
+      "role": "current"
+    },
+    {
+      "module": "continuity/DELIVERY_LEDGER.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 524810,
+      "byte_length": 27315,
+      "sha256": "874a31939638d02f1ce203d98cdd2476accafb1399d8843c4fd8428b8466f9d7",
+      "role": "current"
+    },
+    {
+      "module": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 552272,
+      "byte_length": 129227,
+      "sha256": "6db4a78aa1c74a140aa6369e840e1926cf36b52bed6bcc29950f61893afb92fe",
+      "role": "current"
+    },
+    {
+      "module": "routing/Current_Roster_Kit_Overrides_20261019.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 681665,
+      "byte_length": 3766,
+      "sha256": "a86d22a030d6d6e7d9ce94409e46de3b8d71bf49d35997b2b94b048590f03d90",
+      "role": "current"
+    },
+    {
+      "module": "authority/Character_Removal_Teemo_20261019.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 685606,
+      "byte_length": 2373,
+      "sha256": "f4332b8027cdc397828e23f9fae932efdc8ba33b57cad85234df4e3c98c0c44d",
+      "role": "current"
+    },
+    {
+      "module": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 688166,
+      "byte_length": 7948,
+      "sha256": "0d11aa71191c6ab6efc6a4997105dd6bb49b5b011ac69bc16e1925ae079ec92a",
+      "role": "current"
+    },
+    {
+      "module": "continuity/author/Mimir_Kratos_Chris_Stash_Clifford_Visual_QAPX_After_E32_20261019.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 696341,
+      "byte_length": 7888,
+      "sha256": "e624bef132884159599db4ccca93efa7e6de6055392c252277decadc197cbb78",
+      "role": "current"
+    },
+    {
+      "module": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 704495,
+      "byte_length": 6113,
+      "sha256": "0edd20c131dca6cf49aadc192d083ffbe28154f2c071fbea785a97228f3a29b9",
+      "role": "current"
+    },
+    {
+      "module": "continuity/author/Deadpool_NarratorOnly_Dana_Chris_RDR2_After_E32_20261019.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 710866,
+      "byte_length": 2375,
+      "sha256": "5ff6d1526a350f666d83c9a5da7af5b5d5ac61db21b084f98097ed21b2457c63",
+      "role": "current"
+    },
+    {
+      "module": "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 713470,
+      "byte_length": 11214,
+      "sha256": "02109a60f972265b9a52828114cb5de15421c7623ac05146d8cc08006dea936e",
+      "role": "current"
+    },
+    {
+      "module": "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 724984,
+      "byte_length": 2824,
+      "sha256": "045ca8f3dceef8bc67a3b20269b2f68749a1c2eca146bee885ee53e1ffdf1e6f",
+      "role": "current"
+    },
+    {
+      "module": "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 728038,
+      "byte_length": 3454,
+      "sha256": "11be8fadf3cf28d0789c8deafc2c3aa069e6fec3bd3dc1e40606ce24bba907fb",
+      "role": "current"
+    },
+    {
+      "module": "continuity/author/Zid_Betrayal_TPP_Author_Direction_After_E31.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 731720,
+      "byte_length": 2842,
+      "sha256": "013880cae0cf69a9d1b68e7371f4e4c083bee010db81bb43dff4360b4172d686",
+      "role": "current"
+    },
+    {
+      "module": "continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 734795,
+      "byte_length": 6706,
+      "sha256": "6a309cc486dfd85946c3151d5110c47b75902bebb451ab586393657d810b896c",
+      "role": "current"
+    },
+    {
+      "module": "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 741726,
+      "byte_length": 1812,
+      "sha256": "63616c290f4b9026929a21eaa754239317337dec98ff6655485e1f7a0c97f281",
+      "role": "current"
+    },
+    {
+      "module": "canon/characters/Kratos_Mimir_Post_Valhalla_Companions_20261019.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 743740,
+      "byte_length": 3396,
+      "sha256": "de8a23042b682d7dacd4511cf4d02349df6f8e01ef9e344c0e68c1b8d4203ceb",
+      "role": "current"
+    },
+    {
+      "module": "canon/characters/Chris_Food_Stash_20261019.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 747325,
+      "byte_length": 2361,
+      "sha256": "fa012ca2ed60fe96f14ae738ed0e5dd6a42173d91654b906d641536252f99555",
+      "role": "current"
+    },
+    {
+      "module": "character_sources/crossover_extended/Clifford_Marston_Visual_20261019.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 749881,
+      "byte_length": 2969,
+      "sha256": "42e21a6da506e92e40f9b605a28b2f1447b425cc08a3dfdaf0d4e7bb420ef007",
+      "role": "current"
+    },
+    {
+      "module": "canon/relationships/Dana_Chris_RDR2_Contrast_After_E32_20261019.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 753066,
+      "byte_length": 3098,
+      "sha256": "5ddd6f35e06292324f33cedaf59d9e21375b87269598c69fa5f7a116c477b837",
+      "role": "current"
+    },
+    {
+      "module": "canon/characters/Chris_Billy_Signatures_Teemo_Erasure_20261019.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 756373,
+      "byte_length": 4576,
+      "sha256": "5cc3ebded8a94d2ec03b8a54f783e09953af65b0081f2fe9a23c1b84bd2ea527",
+      "role": "current"
+    },
+    {
+      "module": "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 761174,
+      "byte_length": 10268,
+      "sha256": "d283b157cd6bfd23c127e87a330e5d854daf4b6419a5d70067143e9843c7fe52",
+      "role": "current"
+    },
+    {
+      "module": "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 771661,
+      "byte_length": 11704,
+      "sha256": "99779e0072e2f8cdf7fa21ab02a679bf2a1711c3befb74e8c5f4e82c8c7a7633",
+      "role": "current"
+    },
+    {
+      "module": "continuity/episodes/E32/S3_Episode_32_Checkpoint.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 783667,
+      "byte_length": 9968,
+      "sha256": "d6d32a1cdda53b3bb3f2a752404c15d4242cfcddf295359a0650dd297ac6a44c",
+      "role": "reference_evidence"
+    },
+    {
+      "module": "continuity/work/QAPX_AUTHOR_HANDOFF_20261019.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 793824,
+      "byte_length": 19208,
+      "sha256": "dae82a2ec7d2182aad18b0b853e0c9f98c391be34d50d91ae1c778433247b888",
+      "role": "reference_evidence"
+    },
+    {
+      "module": "continuity/work/RESUME_CHECKPOINT_20261019_QAPX_FALLBACK_CONTINUED.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 813239,
+      "byte_length": 2233,
+      "sha256": "7540bff90227a877469303553034b26a4e3cd03f85b3d4f53276166a874f1201",
+      "role": "reference_evidence"
+    },
+    {
+      "module": "research/Deadpool_Primary_Narrator_Full_Speech_and_Rick_Contrast_20261019.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 815708,
+      "byte_length": 16721,
+      "sha256": "f5d18131ebf3454cec96e0ff0ad98d81953ac7a0d79b290205198e3a91d06bd6",
+      "role": "reference_evidence"
+    },
+    {
+      "module": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 832655,
+      "byte_length": 13063,
+      "sha256": "bab3dd86d5e92b2092ecfe3c2c787466a7bc191feb6552742ec1949f4cda83aa",
+      "role": "reference_evidence"
+    },
+    {
+      "module": "research/Transcript_Based_Catastrophic_Absurdism_After_E32_20261019.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 845938,
+      "byte_length": 8092,
+      "sha256": "7d8b0abbac51dcf2715d3abebafd684a481902d88866f00fb80047a646d3b1a2",
+      "role": "reference_evidence"
+    },
+    {
+      "module": "continuity/editorial/Sins_Speech_Behavior_Audit_After_E31_20261018.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 854260,
+      "byte_length": 16333,
+      "sha256": "3ab2bcccc2b0441ef740df615b9d9fc762818e4e3f82e05bc2d83be9f5bd3fe9",
+      "role": "reference_evidence"
+    },
+    {
+      "module": "continuity/author/Sins_Full_Kit_Utilization_After_E31.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 870811,
+      "byte_length": 14268,
+      "sha256": "f184412aa5b946535198bb7763519671e032edb9e57f14ef53664618f65e0a3a",
+      "role": "reference_evidence"
+    },
+    {
+      "module": "research/Comedy_Escalation_Profanity_RickMorty_Trover_20261019.md",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 885291,
+      "byte_length": 7540,
+      "sha256": "95944f752343151ef1d423c606f611fd56280f4f0c209010845d3a621e42cb23",
+      "role": "reference_evidence"
+    }
+  ],
+  "responsibility_routes": {
+    "author_and_removals": [
+      "authority/QAPX_CURRENT_PRIORITY_20261019.md",
+      "authority/Character_Removal_Teemo_20261019.json",
+      "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json"
+    ],
+    "delivery": [
+      "continuity/CURRENT.json",
+      "continuity/DELIVERY_LEDGER.json",
+      "continuity/episodes/E32/S3_Episode_32_Checkpoint.json"
+    ],
+    "story_procedure": "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+    "current_kit": "canon/characters/s37_kit_application.md",
+    "kaze": "canon/characters/kaze_current.md",
+    "dana_mana": [
+      "canon/characters/dana_mana.md",
+      "character_sources/Dana_Character_Source.txt",
+      "character_sources/Mana_Character_Source.txt"
+    ],
+    "chris_billy": [
+      "character_sources/Chris_Character_Source.txt",
+      "character_sources/Billy_Character_Source.txt",
+      "canon/characters/chris_catfish_billy_current.md",
+      "canon/characters/chris_catfish_billy_future.md"
+    ],
+    "deadpool_narrator": "canon/presentation/Deadpool_Primary_Narration_After_E32_20261019.md",
+    "kratos_mimir": "canon/characters/Kratos_Mimir_Post_Valhalla_Companions_20261019.md",
+    "clifford": "character_sources/crossover_extended/Clifford_Marston_Visual_20261019.md",
+    "TPP_and_world": [
+      "continuity/SEASON3_ACTIVE_OUTLINE.json",
+      "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md",
+      "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md"
+    ],
+    "latest_work": "continuity/work/RESUME_CHECKPOINT_20261019_QAPX_FALLBACK_CONTINUED.json"
+  }
+}
+
+<!-- END LOGICAL OWNER: routing/QAPX_ROUTE_ADDENDUM_20261019.json -->
+
+<!-- BEGIN LOGICAL OWNER: complete_sources/QAPX_ACCESS_ADDENDUM_20261019.json | ROLE: derived_retrieval_view -->
+{
+  "schema": "S7NS_QAPX_COMPLETE_SOURCE_ACCESS_ADDENDUM_20261019",
+  "full_base_index": "complete_sources/ACCESS_INDEX.json",
+  "policy": "Full current owner bytes in one supplementary physical Project source. Use authoritative manifest byte offsets; complete owners in original bundles remain necessary for unchanged details. Never treat short summaries as complete reads.",
+  "entries": [
+    {
+      "owner": "authority/QAPX_CURRENT_PRIORITY_20261019.md",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 423,
+      "byte_length": 2194,
+      "sha256": "12ef8edd4c54933dd382160e1803beee716d3595707313441c6e75a732d624b4"
+    },
+    {
+      "owner": "character_sources/Chris_Character_Source.txt",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 2910,
+      "byte_length": 48161,
+      "sha256": "d512d904408bfb7ef9371c4e615bce50ee9eb3827191a45f557c07bd76e47845"
+    },
+    {
+      "owner": "character_sources/Billy_Character_Source.txt",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 51237,
+      "byte_length": 46734,
+      "sha256": "cf11b260acf7c02f84c0d1ce855346f1657b0f78461f9d50d899cd294beea86e"
+    },
+    {
+      "owner": "canon/characters/chris_catfish_billy_current.md",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 98140,
+      "byte_length": 198170,
+      "sha256": "6c2b34b18adf5dfcc776b5fa056a4983b6b4d754b25dcb4532dd8df5d79f21e3"
+    },
+    {
+      "owner": "canon/characters/chris_catfish_billy_future.md",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 296481,
+      "byte_length": 64282,
+      "sha256": "7c386ce4e0d4746cba1d1a3f96e56c56e0b925371b8dd3c0671cb0ba130b8b3a"
+    },
+    {
+      "owner": "canon/characters/s37_kit_application.md",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 360926,
+      "byte_length": 25779,
+      "sha256": "0b77f4da3dbb3839c6250b7042ada6601a0864b1c2372f1b80b633cb86e391c8"
+    },
+    {
+      "owner": "character_sources/Jormungandr_Character_Source.txt",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 386872,
+      "byte_length": 4969,
+      "sha256": "c7c7bd2389908345eaaadda1978307752ea44694b697d47d4fa2b38ccc73128e"
+    },
+    {
+      "owner": "canon/characters/dana_mana.md",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 391998,
+      "byte_length": 75751,
+      "sha256": "3ceb1a6dad57906b7b7d49cf9b6417b07205153d8d2340449a868a52f1cd1323"
+    },
+    {
+      "owner": "character_sources/Dana_Character_Source.txt",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 467899,
+      "byte_length": 6720,
+      "sha256": "05143bb333411f494eb9c5303896ce056301c23ab5eee0c6408ff8274fed41cf"
+    },
+    {
+      "owner": "character_sources/Mana_Character_Source.txt",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 474783,
+      "byte_length": 5445,
+      "sha256": "3826690b0265361ef05576c6b52a69addf212bf5515a72794374785eba847298"
+    },
+    {
+      "owner": "canon/presentation/Deadpool_Primary_Narration_After_E32_20261019.md",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 480416,
+      "byte_length": 5662,
+      "sha256": "217088ab4aaa5efeceea15d782de8f33068e5544657ad646eee26a3f10a99ee5"
+    },
+    {
+      "owner": "continuity/CURRENT.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 486380,
+      "byte_length": 38298,
+      "sha256": "0fc878c0206e4a3eb32ac43daa2c3e48fe59a69392b08a93024921142e0036ba"
+    },
+    {
+      "owner": "continuity/DELIVERY_LEDGER.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 524810,
+      "byte_length": 27315,
+      "sha256": "874a31939638d02f1ce203d98cdd2476accafb1399d8843c4fd8428b8466f9d7"
+    },
+    {
+      "owner": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 552272,
+      "byte_length": 129227,
+      "sha256": "6db4a78aa1c74a140aa6369e840e1926cf36b52bed6bcc29950f61893afb92fe"
+    },
+    {
+      "owner": "routing/Current_Roster_Kit_Overrides_20261019.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 681665,
+      "byte_length": 3766,
+      "sha256": "a86d22a030d6d6e7d9ce94409e46de3b8d71bf49d35997b2b94b048590f03d90"
+    },
+    {
+      "owner": "authority/Character_Removal_Teemo_20261019.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 685606,
+      "byte_length": 2373,
+      "sha256": "f4332b8027cdc397828e23f9fae932efdc8ba33b57cad85234df4e3c98c0c44d"
+    },
+    {
+      "owner": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 688166,
+      "byte_length": 7948,
+      "sha256": "0d11aa71191c6ab6efc6a4997105dd6bb49b5b011ac69bc16e1925ae079ec92a"
+    },
+    {
+      "owner": "continuity/author/Mimir_Kratos_Chris_Stash_Clifford_Visual_QAPX_After_E32_20261019.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 696341,
+      "byte_length": 7888,
+      "sha256": "e624bef132884159599db4ccca93efa7e6de6055392c252277decadc197cbb78"
+    },
+    {
+      "owner": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 704495,
+      "byte_length": 6113,
+      "sha256": "0edd20c131dca6cf49aadc192d083ffbe28154f2c071fbea785a97228f3a29b9"
+    },
+    {
+      "owner": "continuity/author/Deadpool_NarratorOnly_Dana_Chris_RDR2_After_E32_20261019.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 710866,
+      "byte_length": 2375,
+      "sha256": "5ff6d1526a350f666d83c9a5da7af5b5d5ac61db21b084f98097ed21b2457c63"
+    },
+    {
+      "owner": "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 713470,
+      "byte_length": 11214,
+      "sha256": "02109a60f972265b9a52828114cb5de15421c7623ac05146d8cc08006dea936e"
+    },
+    {
+      "owner": "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 724984,
+      "byte_length": 2824,
+      "sha256": "045ca8f3dceef8bc67a3b20269b2f68749a1c2eca146bee885ee53e1ffdf1e6f"
+    },
+    {
+      "owner": "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 728038,
+      "byte_length": 3454,
+      "sha256": "11be8fadf3cf28d0789c8deafc2c3aa069e6fec3bd3dc1e40606ce24bba907fb"
+    },
+    {
+      "owner": "continuity/author/Zid_Betrayal_TPP_Author_Direction_After_E31.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 731720,
+      "byte_length": 2842,
+      "sha256": "013880cae0cf69a9d1b68e7371f4e4c083bee010db81bb43dff4360b4172d686"
+    },
+    {
+      "owner": "continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 734795,
+      "byte_length": 6706,
+      "sha256": "6a309cc486dfd85946c3151d5110c47b75902bebb451ab586393657d810b896c"
+    },
+    {
+      "owner": "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 741726,
+      "byte_length": 1812,
+      "sha256": "63616c290f4b9026929a21eaa754239317337dec98ff6655485e1f7a0c97f281"
+    },
+    {
+      "owner": "canon/characters/Kratos_Mimir_Post_Valhalla_Companions_20261019.md",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 743740,
+      "byte_length": 3396,
+      "sha256": "de8a23042b682d7dacd4511cf4d02349df6f8e01ef9e344c0e68c1b8d4203ceb"
+    },
+    {
+      "owner": "canon/characters/Chris_Food_Stash_20261019.md",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 747325,
+      "byte_length": 2361,
+      "sha256": "fa012ca2ed60fe96f14ae738ed0e5dd6a42173d91654b906d641536252f99555"
+    },
+    {
+      "owner": "character_sources/crossover_extended/Clifford_Marston_Visual_20261019.md",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 749881,
+      "byte_length": 2969,
+      "sha256": "42e21a6da506e92e40f9b605a28b2f1447b425cc08a3dfdaf0d4e7bb420ef007"
+    },
+    {
+      "owner": "canon/relationships/Dana_Chris_RDR2_Contrast_After_E32_20261019.md",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 753066,
+      "byte_length": 3098,
+      "sha256": "5ddd6f35e06292324f33cedaf59d9e21375b87269598c69fa5f7a116c477b837"
+    },
+    {
+      "owner": "canon/characters/Chris_Billy_Signatures_Teemo_Erasure_20261019.md",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 756373,
+      "byte_length": 4576,
+      "sha256": "5cc3ebded8a94d2ec03b8a54f783e09953af65b0081f2fe9a23c1b84bd2ea527"
+    },
+    {
+      "owner": "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 761174,
+      "byte_length": 10268,
+      "sha256": "d283b157cd6bfd23c127e87a330e5d854daf4b6419a5d70067143e9843c7fe52"
+    },
+    {
+      "owner": "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md",
+      "category": "current_full_or_scoped_owner",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 771661,
+      "byte_length": 11704,
+      "sha256": "99779e0072e2f8cdf7fa21ab02a679bf2a1711c3befb74e8c5f4e82c8c7a7633"
+    },
+    {
+      "owner": "continuity/episodes/E32/S3_Episode_32_Checkpoint.json",
+      "category": "reference_evidence",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 783667,
+      "byte_length": 9968,
+      "sha256": "d6d32a1cdda53b3bb3f2a752404c15d4242cfcddf295359a0650dd297ac6a44c"
+    },
+    {
+      "owner": "continuity/work/QAPX_AUTHOR_HANDOFF_20261019.md",
+      "category": "reference_evidence",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 793824,
+      "byte_length": 19208,
+      "sha256": "dae82a2ec7d2182aad18b0b853e0c9f98c391be34d50d91ae1c778433247b888"
+    },
+    {
+      "owner": "continuity/work/RESUME_CHECKPOINT_20261019_QAPX_FALLBACK_CONTINUED.json",
+      "category": "reference_evidence",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 813239,
+      "byte_length": 2233,
+      "sha256": "7540bff90227a877469303553034b26a4e3cd03f85b3d4f53276166a874f1201"
+    },
+    {
+      "owner": "research/Deadpool_Primary_Narrator_Full_Speech_and_Rick_Contrast_20261019.md",
+      "category": "reference_evidence",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 815708,
+      "byte_length": 16721,
+      "sha256": "f5d18131ebf3454cec96e0ff0ad98d81953ac7a0d79b290205198e3a91d06bd6"
+    },
+    {
+      "owner": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+      "category": "reference_evidence",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 832655,
+      "byte_length": 13063,
+      "sha256": "bab3dd86d5e92b2092ecfe3c2c787466a7bc191feb6552742ec1949f4cda83aa"
+    },
+    {
+      "owner": "research/Transcript_Based_Catastrophic_Absurdism_After_E32_20261019.md",
+      "category": "reference_evidence",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 845938,
+      "byte_length": 8092,
+      "sha256": "7d8b0abbac51dcf2715d3abebafd684a481902d88866f00fb80047a646d3b1a2"
+    },
+    {
+      "owner": "continuity/editorial/Sins_Speech_Behavior_Audit_After_E31_20261018.json",
+      "category": "reference_evidence",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 854260,
+      "byte_length": 16333,
+      "sha256": "3ab2bcccc2b0441ef740df615b9d9fc762818e4e3f82e05bc2d83be9f5bd3fe9"
+    },
+    {
+      "owner": "continuity/author/Sins_Full_Kit_Utilization_After_E31.json",
+      "category": "reference_evidence",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 870811,
+      "byte_length": 14268,
+      "sha256": "f184412aa5b946535198bb7763519671e032edb9e57f14ef53664618f65e0a3a"
+    },
+    {
+      "owner": "research/Comedy_Escalation_Profanity_RickMorty_Trover_20261019.md",
+      "category": "reference_evidence",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 885291,
+      "byte_length": 7540,
+      "sha256": "95944f752343151ef1d423c606f611fd56280f4f0c209010845d3a621e42cb23"
+    }
+  ],
+  "workflow": "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md"
+}
+
+<!-- END LOGICAL OWNER: complete_sources/QAPX_ACCESS_ADDENDUM_20261019.json -->
+
