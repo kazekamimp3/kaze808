@@ -1,6 +1,6 @@
 # Season 3 — group-led continuation after Episode 28
 
-Episode 28 is DELIVERED_PROVISIONAL; author acceptance remains NOT_ASSERTED. Episode 29 is paused, not drafted. Read the exact E28 manuscript/checkpoint, current ledger and latest author control at `continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json`.
+Episode 28 is DELIVERED_PROVISIONAL; author acceptance remains NOT_ASSERTED. Episode 29, Personal Property, is PREPARED_SAVED_NOT_YET_DELIVERED after authorized PLAY. Reconcile the exact final response with its saved manuscript/checkpoint before advancing to Episode30. Delivered state below remains E28 until then. Read the exact E28 manuscript/checkpoint, current ledger and latest author control at `continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json`.
 
 Kaze romance is ON again, within the existing ensemble outline. Restore proactive adult flirting, reciprocal banter and recurring relationship-specific familiarity, with consensual non-graphic intimacy and remembered aftermath. It does not restore the exclusive solo schedule, make every woman interested, or replace Chris, Billy, Daniel and Arthur's initiatives and matchups. Zeri is explicitly adult in this branch; no numerical age is invented.
 
@@ -14,4 +14,4 @@ Individual encounter slots are in `continuity/Runeterra_Women_Encounter_Register
 
 Preserve Noxian contest/payoff, sea/Isles, southern, Ionian and northern/western selected developments and other Sins' matchups. Interleave individual meetings through meaningful operations; do not impose a checklist tour, fixed episode quota, teleportation or automatic information sharing.
 
-At the next authorized PLAY, start at a worthwhile beat and let the group choose. Keep the installed storytelling repair and full-owner retrieval. Earn 25–30 minutes through developing story, not logistics padding; read the whole draft, repair it and reread the complete revision before saving. This WORK update advances no story time.
+At the next authorized PLAY, start at a worthwhile beat and let the group choose. Keep the installed storytelling repair and full-owner retrieval. Earn 25–30 minutes through developing story, not logistics padding; read the whole draft, repair it and reread the complete revision before saving. This delivered-state guide is not the prepared E29 checkpoint; only the matching delivered response promotes its events.

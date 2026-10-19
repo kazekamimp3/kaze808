@@ -55,6 +55,13 @@
       "Delivery Status": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
       "Manuscript SHA256": "761b672c08c3a7b6ca21585a0f25b0426d6b88342a3084800fab49e8e3dae332",
       "Checkpoint Source": "continuity/episodes/E28/S3_Episode_28_Checkpoint.json"
+    },
+    {
+      "Episode": "S3 Episode 29: Personal Property",
+      "Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Delivery Status": "PREPARED_SAVED_NOT_YET_DELIVERED; author acceptance NOT_ASSERTED",
+      "Manuscript SHA256": "8bbe15ee61a8e212e5184bf28cd5dace5f3d943c2a1fd78c02cd8325055d9e65",
+      "Checkpoint Source": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json"
     }
   ],
   "Characters": [

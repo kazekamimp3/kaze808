@@ -1,0 +1,21 @@
+{
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "predecessor_episode": 28,
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "checks": [
+    {
+      "file": "S3_Episode_28_An_Early_Withdrawal.txt",
+      "github_match": true,
+      "drive_match": true,
+      "sha256": "761b672c08c3a7b6ca21585a0f25b0426d6b88342a3084800fab49e8e3dae332"
+    },
+    {
+      "file": "S3_Episode_28_Checkpoint.json",
+      "github_match": true,
+      "drive_match": true,
+      "sha256": "9d005a41a2c148fafc3173261f1e819a8d2c56c6001ed6718e7ce00664bc7f70"
+    }
+  ],
+  "source_reuse_hashes_matched": 34
+}

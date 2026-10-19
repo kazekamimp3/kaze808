@@ -1118,5 +1118,35 @@
   "cross_movement_women_slots": [
     "RW_EVELYNN",
     "RW_KINDRED"
-  ]
+  ],
+  "prepared_episode": {
+    "episode": 29,
+    "checkpoint": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "prospective_delta": {
+      "completed_now": [
+        "Actual coastal return and group reunion",
+        "Samira specialist weapons returned and temporary not-today truce",
+        "Samira voluntary south departure, romance/history retained",
+        "Heisenberg actual eyewitness-report receipt",
+        "Carp stand/Inside Job continuation"
+      ],
+      "next_cursor": "E30 only after exact E29 delivery is reconciled; evening harbor shelf, next inland departure still planned.",
+      "pending": [
+        "Actual inland departure and any town/capital arrival",
+        "Naganeka host/liberation or chosen deployment",
+        "Samira weaponsmith arrival/repair and letter receipt",
+        "Heisenberg wage list/payment or pursuit execution",
+        "Remaining selected crossover/regional meetings and other Sins matchups",
+        "Pregnancy discovery"
+      ],
+      "active_outline_policy": "Prepared29 does not replace delivered28 facts until response reconciled; retain all selected future movements without automatic outcomes."
+    }
+  },
+  "playback_control": {
+    "paused": false,
+    "authorized_episode": 29,
+    "next_episode": 29,
+    "basis": "Latest user PLAY lifts prior E29 pause. E29 saved prepared; reconcile actual delivery before advancing toE30."
+  }
 }

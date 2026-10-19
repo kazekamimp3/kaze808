@@ -1,0 +1,48 @@
+{
+  "stage": "PRE_COMMIT",
+  "manifest_and_routes": {
+    "result": "PASS",
+    "physical": 28,
+    "logical": 453,
+    "complete_routes": 156
+  },
+  "continuity": {
+    "result": "PASS",
+    "episode_pairs": 9,
+    "last_delivered": 28,
+    "prepared": 29,
+    "author_acceptance": false
+  },
+  "drive": [
+    {
+      "file": "S3_Episode_29_Personal_Property.txt",
+      "drive_bytes_match": true,
+      "sha256": "8bbe15ee61a8e212e5184bf28cd5dace5f3d943c2a1fd78c02cd8325055d9e65"
+    },
+    {
+      "file": "S3_Episode_29_Checkpoint.json",
+      "drive_bytes_match": true,
+      "sha256": "c2477d40c92f9694eff61a3db5ce273a69eeae3a67415d9ff9cde975a0d2c521"
+    }
+  ],
+  "airtable": {
+    "id": "recmmBtlRdPcIxUJV",
+    "fields_match": true
+  },
+  "notion": {
+    "pages": [
+      "hub",
+      "index",
+      "author",
+      "characters"
+    ],
+    "readback": true,
+    "scope": "Prepared reference and explicit PLAY pause lift, not newly delivered facts"
+  },
+  "github": {
+    "pending": true,
+    "rollback_parent": "727be160004073af2287cc1b9282fb74314cc8b9"
+  },
+  "audio_measured": false,
+  "ci_claimed": false
+}

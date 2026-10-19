@@ -1,0 +1,91 @@
+{
+  "episode": 29,
+  "exact_manuscript_sha256": "8bbe15ee61a8e212e5184bf28cd5dace5f3d943c2a1fd78c02cd8325055d9e65",
+  "author_acceptance": false,
+  "full_text_read_coverage": [
+    {
+      "file": "episode_draft_v1.txt",
+      "sha256": "3657b6c76d8240025acb86529ec5bde48ef978023a3fb9b2c5db1f59d918e30b",
+      "coverage": "Complete draft reopened/read lines1–300 and301–573."
+    },
+    {
+      "file": "episode_revised_v2.txt",
+      "sha256": "bcb6d9b792d5cee60b90214b2afb051d0a2b2baabf8af34e1253243785b598c8",
+      "coverage": "Complete revision reopened/read1–260,261–510,511–769 before final witness/camera repairs."
+    },
+    {
+      "file": "episode_final_v3.txt",
+      "sha256": "8bbe15ee61a8e212e5184bf28cd5dace5f3d943c2a1fd78c02cd8325055d9e65",
+      "coverage": "Complete final reread1–260,261–510,511–769 after all prose repairs. No later prose changes."
+    }
+  ],
+  "source_coverage": {
+    "reused_hashes": {
+      "canon/characters/kaze_current.md": "7599d28a4c712ca076cf9cb43ff15e09d517e05b64c792d48ca77d6b17aa5c7a",
+      "canon/characters/kaze_psychology.md": "0dacdf0b26697a1589ec190d6ba4e1c0b081448f4b3ceb26c4422d4827ad4cca",
+      "canon/characters/kaze_future_progression.md": "2b4a05aa52ba7084319f3e13b64849086b8696a136dc38dc59e9d2a8d1ba0389",
+      "character_sources/Kaze_Character_Source.txt": "cf14cdd13d45ef60c157da6985e8e81977e1e548ccf9b6c2e5cb18dea91f18af",
+      "character_sources/season3/Briar_Character_Source.txt": "888b526a1ab8646f96965431d753cefd348a56100867ada2a8c2593031732613",
+      "character_sources/season3/Elise_Character_Source.txt": "123db809f5d29df0dfe7b7dd028c3ce6cb562e5d68e9179a1f8f50bd3d60f275",
+      "character_sources/Black_Mimir_Narration_Source.txt": "d9c8d74faab73b72cf12f843a14f2961302e70ad39d480a680ed8727049e0bf5",
+      "canon/relationships/Kaze_Adult_Romance_20261018.md": "d1e07d0fcb71070c90616bbdbe087fd2acabecbaac6204557f4511626e7dc145",
+      "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md": "0071bd518d993d03473cb79bdeca58097dd7e2f66d950157188c0c0ecf76bb8f",
+      "reference/runeterra/champion_appendix.md": "9756e792e2b3a1cd594f7023203f4a32f5c832ef6e98a3c6f8396f288424cf2a",
+      "reference/research/Noxus_Cast_Fidelity_Research.md": "f661f53882d00c20a5225ce2744e2f10ebed801cf535532270cc31269664faba",
+      "topic_sources/Season_3_Condensed_Outline.txt": "72f82a4d93902486b723bde7df9ef5c6ff53d6e3b6ec2c5866290e23ff886088",
+      "character_sources/season3/Samira_Character_Source.txt": "475700e0ddb141170639d482098d89e96bbba8d1ec3150fa5fcbaa0e0fb48bad",
+      "research/GOW_Baldur_Kratos_Fidelity_20261018.md": "ece537a0fc4801123c16e31c7ab4d32cc4b34176a33f05e3000654db85a82a8f",
+      "topic_sources/Season3_Current_Roster_Register_20261018.json": "16327ae9aba4707f6a6df663436c14e8c243f084fa38b01798c16fbd0404bcde",
+      "character_sources/runeterra_extended/Naganeka_of_Zuretta_Fidelity_Source.txt": "a9b8c2c502c08a15f73cf323f27707c911d90ec31890c40f07441f3a9b38184b",
+      "topic_sources/Darkin_Continuity_and_Deployment_Source.txt": "a9c20d3b58c3eb62e5ba300cc0c01cbd722e1822c0df1f9b7079685cb4ff84dd",
+      "topic_sources/Season_3_Darkin_Plots.json": "c3b12582c81f2d31e1ac1866c7bcebb688036866c2237a240837b7a758386e2e",
+      "topic_sources/Kaze_Street_Politics_and_Retaliation_Source.txt": "7f994157f517a372c1e446055073611d3961cf97bc50c0546443b0d304319b1a",
+      "character_sources/Chris_Character_Source.txt": "19f69c02a5ef37a4657a3f25db48cf8fb91b8b6b77bd05609ef96650ae1f32bf",
+      "character_sources/Billy_Character_Source.txt": "7629dd2a9bfc5b29814a4cdf9261648bef4cdd720504967f9c75f56f335229b1",
+      "character_sources/Chris_Billy_BELLY_Source.txt": "e96c9d33677d61b98ca3654ee6c386a3ca613f2e3b2c39749bed6bfc6fd1b48b",
+      "canon/characters/chris_catfish_billy_current.md": "9a632c9fdf032404ea7fa31aae972d8a568574e2cfb2229bbb1d564620839b1c",
+      "character_sources/Daniel_Character_Source.txt": "2b14168022a20956f67e42f8f5cdb4796c4c16c8cb3244cc9f3d83b3e8f55339",
+      "canon/characters/daniel.md": "d84c6ead137691b87d03e7ba792a807624207a6131e68251c730b456a7d7c24e",
+      "canon/characters/daniel_humor.md": "8007711379af436f46e211014a15bd3849e969dfee25ceca44075abace75f472",
+      "canon/characters/daniel_repertoire.yaml": "7d5415552070e528b186293f424ae7f37a753656643e0f491523759783032641",
+      "character_sources/Arthur_Character_Source.txt": "9b25bf176e7f9fde876a6a245dcf5421c30aefb82e56a45c234d33570c1aa87f",
+      "character_sources/Heisenberg_Character_Source.txt": "55daa290a071462cd02fef9e2d7218cec21c82038d33f4ec9635ba9d3ce0d67d",
+      "character_sources/Teemo_Character_Source.txt": "82b7396364b58018079ca82665ba0d5c3f8e29154aed88996fc267fcbaac7e24",
+      "research_sources/Chris_Speech_Research.txt": "82af9e74959a90c522d7b00258829c4560a75ee9202646f606168e8efd28a0f1",
+      "research_sources/Arthur_Speech_Research.txt": "bc432bbe93de14e2bd0bd3dd644aeaac44e67e79e33b7fa6bc0a7a29d860b98e",
+      "research_sources/Daniel_Davidson_Cummins_Speech_Research.txt": "01cbce810d49c6f190aae8fdfcaacaad0eef69b29fe80f34d35fad2a1c0db85f",
+      "research_sources/Daniel_Jo_Koy_Comedy_Research.txt": "fbbcccf4230330a59120cb6411539109ad91fdcde9b2198709f0315faef13770"
+    },
+    "hash_check": "All34 reused recorded owner hashes match. Reuse refers to actual same-session complete reads documented in prior reviews, not hash-only reading.",
+    "fresh_reads": "Exact E28 manuscript/checkpoint and startup; current override and resolved outline/register through prior WORK plus fresh identity fetch. Complete vehicle/travel relevant owner, Samira/Naganeka, Charles/Meatwad full fidelity owners, complete roommate lock and portrayal patch; Charles sole-corpus research observations. Mimir and Heisenberg full owners refreshed. E20 flight, E21 coast opening, relevant E23/E25 and E28 payment evidence revisited.",
+    "routing": "Supplied manifest remains source authority; original28bundles and owner routes preserved. Historical schedule/romance headers lose only to scoped active author overrides.",
+    "limits": "No new external lore required; retained research reused. No new web/audio-performance/full-transcript viewing claim."
+  },
+  "actual_repairs": [
+    "Underlength v1 expanded with brief meaningful Chris/Kaze craft cooperation and an actual Heisenberg witness-report scene, rather than more route logistics.",
+    "Added carter inquiry before visual reunion; reverse coastal route and one overnight explicit; ordinary flight allowed without manufacturing R2.",
+    "Inserted explicit next-morning Chris exterior switch and final Billy release of Kaze; one exterior maintained.",
+    "Changed camera handling after craft: Meatwad holds it, Charles steps into shot. No exterior filming or camera rediscovery.",
+    "Corrected payment witness from clerk to Serrat after rereading E28 actual release/payment order.",
+    "Explicit Naganeka guest invitation and independent refusal/agreement; no imposed storage, host or transport-power unlock.",
+    "Removed compliance-like lines about inventory disappearing and invented rescue; clarified Noxus return after Zaun narrative cut.",
+    "Samira keeps braced wrist, ordinary weapon and independent anger; actual specialist property return does not create ammo/refill, recruitment, forgiveness or guaranteed hookup.",
+    "Retained current romance through mutual familiar banter/kisses; no sex depiction, new hookup or premature pregnancy knowledge.",
+    "Craft uses available modest salvage and competent short procedure; no alien-projector repair, fountain pump or arbitrary new ability."
+  ],
+  "five_review_responsibilities": {
+    "capabilities": "No new power/combat counter. Chris ordinary piloting/salvage, Daniel cloud/fast recovery, Billy release/intake with actual permissions. Kaze not stripped of abilities merely because noncombat scene.",
+    "presentation": "Single Mimir narration, natural introductions, dialogue-focused audio orientation, specific geography/scene returns; no production rules in dialogue.",
+    "world": "Heisenberg receives actual local reports; prior harbor damage and wage pressure have consequences. No remote information transfer or unearned travel/letter completion.",
+    "behavior": "Arthur and Samira choose temporary nonviolence with grievance retained; Kaze not gang commander. Naganeka refuses storage, Samira leaves independently; domestic comedy has distinct motives.",
+    "story": "Reunion and property dispute resolve, craft earns shared humor, antagonist responds and group chooses an inland direction. Routine travel compressed; no compulsory decided guard fight."
+  },
+  "weakest_span": "Early draft travel/reunion had insufficient substantive development; revision adds craft relationship and consequential opposing viewpoint. Final ending is a domestic comic payoff, not a manufactured combat cliffhanger.",
+  "runtime": {
+    "body_words": 3967,
+    "assumed_wpm": 150,
+    "estimated_minutes": 26.45,
+    "measured_audio": false
+  },
+  "limits": "Editorial review is not guaranteed engagement, measured audio, author acceptance or CI success. Prepared status until actual response reconciliation. Project UI not modified."
+}

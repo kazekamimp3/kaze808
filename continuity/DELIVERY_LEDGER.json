@@ -401,6 +401,25 @@
           "bytes": 3205
         }
       ]
+    },
+    {
+      "episode": 29,
+      "title": "Personal Property",
+      "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "manuscript": "continuity/episodes/E29/S3_Episode_29_Personal_Property.txt",
+      "manuscript_sha256": "8bbe15ee61a8e212e5184bf28cd5dace5f3d943c2a1fd78c02cd8325055d9e65",
+      "checkpoint": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json",
+      "checkpoint_sha256": "c2477d40c92f9694eff61a3db5ce273a69eeae3a67415d9ff9cde975a0d2c521",
+      "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_basis": "New PLAY authorized; complete reviewed episode saved before final response. Do not promote until actual delivered text matches.",
+      "predecessor_sha256": "761b672c08c3a7b6ca21585a0f25b0426d6b88342a3084800fab49e8e3dae332",
+      "drive": {
+        "manuscript": "1v_2JcQ0tEEbDUNvw9-SlH6TGeRjeOZa8",
+        "checkpoint": "1KkiEGlKU8sD8yTB9ytgiDsQnj2KHbD7j"
+      },
+      "airtable_record": "recmmBtlRdPcIxUJV"
     }
   ],
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. No historical prepared checkpoint rewritten. E21 presentation complaint remains unapplied; E23/E24 prospective encounter correction was enacted in E25, not retroactively.",
@@ -420,10 +439,11 @@
       "sha256": "b6c733e56a7b42101cb26812806baaf1a37c0c9f7d5624f9b5935990203c31a7"
     }
   ],
-  "prepared_episode": null,
+  "prepared_episode": 29,
   "playback_control": {
-    "paused": true,
+    "paused": false,
+    "authorized_episode": 29,
     "next_episode": 29,
-    "basis": "Author hold on E29 followed by WORK-only relationship/outline amendments; resume only on new PLAY."
+    "basis": "Latest user PLAY lifts prior E29 pause. E29 saved prepared; reconcile actual delivery before advancing toE30."
   }
 }
