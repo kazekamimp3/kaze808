@@ -1,8 +1,8 @@
 {
-  "status": "ACTIVE_ENSEMBLE_AFTER_DELIVERED_E31_E32_PAUSED_LATEST_WORLD_SCALE_AUTHOR_DIRECTION",
+  "status": "ACTIVE_ENSEMBLE_AFTER_DELIVERED_E32_DANA_MANA_LOYAL_RESTORED",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "state_owner": "continuity/CURRENT.json",
-  "next_new_main_episode": 32,
+  "next_new_main_episode": 33,
   "working_episode_count": null,
   "count_is_quota": false,
   "latest_sequence_lock": {
@@ -1063,7 +1063,7 @@
     "topic_sources/Capability_and_Speech_Overrides.txt",
     "approved_rolloff/staged/EXACT_QUOTE_REGISTER.json"
   ],
-  "current_cursor": "E31 Dead Money DELIVERED_PROVISIONAL, not author accepted. Night Odran courtyard inland Noxian town; Billy sole exterior, Chris full-sized inside BELLY; Kaze, Daniel and Arthur outside; two uncounted coin chests inside BELLY. Katarina departed with intercepted orders. E32 playback PAUSED by author updates. E30 Magneto encounter completed and independent. Jörmungandr and Thor's late-S2 arrival already delivered; serpent's source-faithful intelligent agency and latest author-specified literal world-encircling size must have material far-reaching consequences enacted prospectively.",
+  "current_cursor": "E32 No Horizon DELIVERED_PROVISIONAL, acceptance NOT_ASSERTED. Early afternoon at Noxian harbor, Chris exterior/Billy full-sized in BELLY; Kaze, Daniel, Arthur nearby. Dana and Mana restored as loyal existing Sins, no betrayal, current scene location unknown. Next E33 not yet played.",
   "pre_solo_schedule_provenance": "Unmodified prior outline preserved in rollback; current scheduling below overrides stale E17/E18 cursor and pending-introduction claims.",
   "focus_mode": "ENSEMBLE",
   "romance_owner": "canon/relationships/Kaze_Adult_Romance_20261018.md",
@@ -1118,7 +1118,8 @@
     "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
     "continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
     "continuity/author/World_Serpent_and_Autonomous_S3_Roster_After_E31_20261018.json",
-    "continuity/author/Recurring_Living_Roster_Encounters_After_E31_20261018.json"
+    "continuity/author/Recurring_Living_Roster_Encounters_After_E31_20261018.json",
+    "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json"
   ],
   "encounter_register": "continuity/Runeterra_Women_Encounter_Register.json",
   "encounter_register_sha256": "705c5cdf25ae6cb5823e85cb1940f014782634b90b90ff362de5fa13274790dd",
@@ -1152,10 +1153,10 @@
   },
   "playback_control": {
     "paused": false,
-    "authorized_episode": 32,
-    "next_episode": 32,
-    "last_delivered_episode": 31,
-    "basis": "Author PLAY E32; reviewed pair prepared, not yet delivered. Original E29 prepared provenance remains intact."
+    "authorized_episode": null,
+    "last_delivered_episode": 32,
+    "next_episode": 33,
+    "basis": "Latest WORK request restores loyal Dana/Mana; no E33 PLAY authorized."
   },
   "historical_prior_to_E30_cursor": {
     "status": "ACTIVE_ENSEMBLE_AFTER_E29_ROMANCE_ON_NAGANEKA_DROPPED",
@@ -1213,5 +1214,19 @@
     "estimated_minutes_at_150_wpm": 29.69,
     "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
     "author_acceptance": "NOT_ASSERTED"
+  },
+  "dana_mana_reinstatement_owner": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
+  "dana_mana_full_owner_routes": "routing/Dana_Mana_Active_Owner_Route_20261018.json",
+  "sins_current_membership_override": {
+    "Dana": "ACTIVE_LOYAL_SIN, male, never betrayed",
+    "Mana": "ACTIVE_LOYAL_CANINE_FAMILY_MEMBER, male and nonverbal, Dana's dog, never betrayed",
+    "link": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
+    "other_member_status": "Existing ensemble unchanged; Zid betrayal to TPP remains future and separate",
+    "current_location": "Neither actor shown/located in E32; reintroduce only with real travel/evidence."
+  },
+  "current_plan_after_E32": {
+    "next": 33,
+    "focus": "Group-led living world; restore Dana+Mana's full sourced personalities, abilities and ongoing relationships alongside others in earliest causally sound scene; do not force a betrayal excuse, inactive old-branch events or re-recruitment. Preserve E32 World Serpent/TPP/Noxian consequences.",
+    "no_play_now": true
   }
 }
