@@ -39,5 +39,17 @@
   },
   "history_unchanged": true,
   "project_ui_installation_performed": false,
-  "story_days_advanced_by_reconciliation": 0
+  "story_days_advanced_by_reconciliation": 0,
+  "work_resume_checkpoint": "continuity/work/RESUME_CHECKPOINT_E34_RECOVERY_20261019.json",
+  "work_resume_checkpoint_git_blob_sha1": "40055f0a82b5ed23480de872aca929affa303969",
+  "working_brief": "continuity/episodes/E34/working_brief.md",
+  "working_brief_git_blob_sha1": "09128ad7253a05da02c3fe718420180e7dcafc31",
+  "recovery_status": {
+    "mode": "WORK_RECOVERY_NO_STORY_ADVANCEMENT",
+    "next_unfinished_step": "Complete materially needed E34 source preparation and construction from the saved brief, then draft under recorded PLAY authorization.",
+    "E34_manuscript_found_in_checked_locations": false,
+    "E34_draft_review_or_delivery_claimed": false,
+    "prior_delivery_repair": "Already completed before recovery; preserved rather than repeated.",
+    "scope": "Added recovery routing only. No episode replay, story change, author acceptance, source-package installation or other-service synchronization."
+  }
 }
