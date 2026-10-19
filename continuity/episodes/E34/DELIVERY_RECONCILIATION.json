@@ -1,0 +1,23 @@
+{
+  "schema": "S7NS_EPISODE_DELIVERY_RECONCILIATION_V1",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 34,
+  "title": "A Bad Influence",
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "evidence": "Complete E34 narrative was delivered in the immediately preceding assistant final message; user then asked for assessment and subsequently approved editorial recommendations, without declaring episode acceptance. Delivery alone is recorded.",
+  "saved_manuscript": "continuity/episodes/E34/S3_Episode_34_A_Bad_Influence.txt",
+  "saved_manuscript_git_blob_sha1": "76304350283229ed2433c25fac110098f6743804",
+  "saved_manuscript_sha256_recorded": "f9258d22f226ff1cfeb9bfea0c1865c24e249aa2e88f9e9aca77403654feda3e",
+  "saved_checkpoint": "continuity/episodes/E34/S3_Episode_34_Checkpoint.json",
+  "saved_checkpoint_git_blob_sha1": "a642296b25627915d2baf0bf809156ab3dc447b2",
+  "byte_identical_chat_delivery": "NOT_MACHINE_VERIFIED",
+  "render_defect": "No known exact repeated escaped-text defect reported for E34; no guarantee of byte-identity claimed.",
+  "author_feedback": "continuity/author/Deadpool_Deep_Fidelity_E34_Quality_Direction_20261019.json",
+  "false_positive_correction": "Prior assistant erroneously claimed Dana/Mana exterior egress missing; original manuscript includes explicit Billy-authorized egress. Do not rewrite.",
+  "current_positions": "Use unchanged complete E34 checkpoint; gang including K.K. on inland road, TPP at rented HQ; remote positions as observed.",
+  "next_episode": 35,
+  "next_play_authorized": false,
+  "story_days_advanced_by_this_reconciliation": 0,
+  "prior_originals_rewritten": false
+}
