@@ -65,5 +65,15 @@
       },
       "scope": "Feedback maintenance only. No episode rewritten, replayed or newly generated; no story time advanced; no author acceptance or completed editorial repair asserted. Future changes still require actual drafting, full review and separate delivery."
     }
-  ]
+  ],
+  "latest_full_kit_feedback": {
+    "after_delivered_episode": 31,
+    "author": "arthur has more than just his unshaken revolvers, he has high noon and the count as well. his cybernetic eye has a lot of features. his kit has been seriously underused. in fact, the whole sins gang kit been underused.",
+    "scope": "Author criticism, not retroactive canonical battle change or episode acceptance.",
+    "diagnosis": "E30–E31 reduced much of Arthur to revolver shots and only visible left-hand use; his own full kit owner already includes HIGH NOON, THE COUNT and Hypercharge, kinetic bank, sophisticated crimson cyber-eye, reconstructed body/AllSpark and CQC. The same under-selection appears across Kaze, Daniel, Chris and Billy despite s37 full-kit routing.",
+    "corrective_owner": "continuity/author/Sins_Full_Kit_Utilization_After_E31.json",
+    "production_application": "Pre-construct feasible strongest and personally sensible solutions from all currently relevant full owners; make authentic selection visible through changed scene causality, not technique checklists; review material omissions against source. User's pacing and E31 romance/alcohol corrections still apply.",
+    "status": "SAVED_SCOPED_AUTHOR_DIRECTIVE_NOT_YET_TESTED_IN_AN_EPISODE",
+    "no_play": true
+  }
 }
