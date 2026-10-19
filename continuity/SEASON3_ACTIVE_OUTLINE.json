@@ -1228,5 +1228,13 @@
     "next": 33,
     "focus": "Group-led living world; restore Dana+Mana's full sourced personalities, abilities and ongoing relationships alongside others in earliest causally sound scene; do not force a betrayal excuse, inactive old-branch events or re-recruitment. Preserve E32 World Serpent/TPP/Noxian consequences.",
     "no_play_now": true
+  },
+  "actor_driven_outline_revision": {
+    "version": "S3_AUTHOR_REQUEST_POST_E32",
+    "mode": "WORK_NO_PLAY",
+    "principle": "Each roster character chooses based on personal desire, psychological tensions, source-era history, actual location/resources/knowledge, relationships and consequences. A selected encounter or duel is not a compelled choice or result.",
+    "complete_profile_library": "/S7NS/Season3_Character_Agency_Matrix_20261018.json",
+    "reference_map_library": "/S7NS/Season3_Character_Agency_Reading_Map_20261018.md",
+    "current_cursor": "E32 DELIVERED_PROVISIONAL; E33 not played; Dana and Mana restored loyal, Zid betrayal future."
   }
 }
