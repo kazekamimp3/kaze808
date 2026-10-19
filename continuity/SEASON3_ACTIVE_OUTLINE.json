@@ -1159,7 +1159,8 @@
     "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json",
     "continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json",
     "continuity/author/Deadpool_NarratorOnly_Dana_Chris_RDR2_After_E32_20261019.json",
-    "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json"
+    "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+    "continuity/author/Mimir_Kratos_Chris_Stash_Clifford_Visual_QAPX_After_E32_20261019.json"
   ],
   "encounter_register": "continuity/Runeterra_Women_Encounter_Register.json",
   "encounter_register_sha256": "705c5cdf25ae6cb5823e85cb1940f014782634b90b90ff362de5fa13274790dd",
@@ -1544,5 +1545,28 @@
     "Billy": "Valid behind fully clothed two-finger Kancho lethal, 67 years training; seek more real opportunities without forced victim or mandatory use.",
     "Chris": "MOOSE KNUCKLE MENACE MAN available on demand from any valid exterior position, no Greet-Greet-Antagonize speechless counter trigger; keep exact main choreography and landed body-only lethal effects.",
     "owner": "canon/characters/Chris_Billy_Signatures_Teemo_Erasure_20261019.md"
-  }
+  },
+  "latest_author_Mimir_stash_Clifford_QAPX": "continuity/author/Mimir_Kratos_Chris_Stash_Clifford_Visual_QAPX_After_E32_20261019.json",
+  "mimir_kratos_after_valhalla": {
+    "same_mimir": "Same formerly narrating project Mimir reanimated head on post-Valhalla Kratos hip, full canon memory/voice and physical-sense limits. Deadpool alone narrates future main episodes.",
+    "Kratos": "Post-Valhalla reflective God of War, last seen E26 toward quarry hills; no later route inferred.",
+    "companion_owner": "canon/characters/Kratos_Mimir_Post_Valhalla_Companions_20261019.md",
+    "physical_access": "As of newest author portrayal Mimir is physically on Kratos belt; his own previous omnipresent narrator access is retired."
+  },
+  "chris_BELLY_food_stash": {
+    "pepsi": "Pepsi in BOTTLES, not cans, no exact ounces",
+    "peanut_butter": "Reese's peanut butter (exact product unspecified)",
+    "cereal": "Eyeholes cereal",
+    "location": "Inside BELLY real hoarded domestic storage",
+    "inventory": "No endless replenishment; counts and shelving unknown",
+    "source": "canon/characters/Chris_Food_Stash_20261019.md"
+  },
+  "clifford_Marston_live_visual": {
+    "neck": "Bent/crooked due to retained repeated cliff falls/pushes by Chris and Arthur; appear consistently",
+    "tattoos": "Their earlier incomplete stick-and-poke markings + distinct incomplete TP from E17",
+    "condition": "Until author-enacted future surgery wheelchair/lived limitations persist; later walking surgery doesn't automatically heal neck or remove markings",
+    "source": "character_sources/crossover_extended/Clifford_Marston_Visual_20261019.md",
+    "event_status": "Current look, no new shove/tattoo/surgery PLAY"
+  },
+  "QAPX_cutover_stage": "Prepared new source owner files and consolidated replacement/project-instructions proposal, NOT yet installed or approved by QAPX."
 }
