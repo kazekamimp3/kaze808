@@ -55,7 +55,7 @@
           "AllSpark-based automatic mechanical coordination within Arthur's agency; bonded BLACKLIGHT repair and bounded feedstock-based generated ammo"
         ],
         "selection": "Arthur should use the eye and battlefield intelligence routinely when materially useful; vary shot form, charge, weapon mode, movement, kinetic release and hand-to-hand based on actual range, lines, collateral and personal motives. Do not hide COUNT/HIGH NOON/Hypercharge as unearned or first-use locked. A revolver indoors may still be best, but its choice is not an excuse to forget the rest.",
-        "limits": "No unlimited material or cycling, no guaranteed hit/kill or universal spectral/private-knowledge access. Count Hypercharge has not been established as first used on-page without manuscript evidence; do not fabricate shot tally. No automatically completed cross-dimensional Chris/Teemo link from capability description."
+        "limits": "No unlimited material or cycling, no guaranteed hit/kill or universal spectral/private-knowledge access. Count Hypercharge has not been established as first used on-page without manuscript evidence; do not fabricate shot tally. No automatically completed cross-dimensional information link from capability description."
       },
       "Kaze": {
         "current": [
@@ -81,13 +81,13 @@
       },
       "Chris": {
         "current": [
-          "THE CRITIC with legitimate ammo/recoil/configuration and Teemo data",
+          "THE CRITIC with legitimate ammo/recoil/configuration and independently earned physical hardware only",
           "CHOW MAIN, HAMMER TIME, BONER, actually earned Dead Eye, mask and skill",
           "GREET GREET ANTAGONIZE FIGHTING, real tools/crafting, camouflage, enhanced body/recovery",
           "existing signature routines only under their triggers"
         ],
         "selection": "Use actual precision/marking, verbal deception, technical observation, engineering or weapon transitions when they change the mission; not just one rifle shot and a salvaged widget.",
-        "limits": "No Count core/Hypercharge, auto-ammo, telepathic Teemo auto-aim, second exterior Billy or unbuilt modes."
+        "limits": "No Count core/Hypercharge, auto-ammo, telepathic or autonomous auto-aim, second exterior Billy or unbuilt modes."
       },
       "Billy": {
         "current": [
@@ -135,5 +135,11 @@
     "story_delta": false,
     "retroactive_rewrite": false,
     "review": "Apply the existing sole Season3_Scene_Decision_Doctrine_20261010.md whole-draft read/repair/reread, using actual audit passage/source comparisons, never a second checklist-only review engine."
+  },
+  "latest_author_signature_update": {
+    "owner": "canon/characters/Chris_Billy_Signatures_Teemo_Erasure_20261019.md",
+    "Billy": "Use 67-year fully clothed Kancho more often as legitimate rear-angle lethal finisher; valid landed Kancho always kills the body, no long charge required.",
+    "Chris": "Moose Knuckle Menace Man available by choice and valid exterior/target access; previous GGA reversal trigger canceled. Other source effects retained.",
+    "erasure_owner": "authority/Character_Removal_Teemo_20261019.json"
   }
 }
