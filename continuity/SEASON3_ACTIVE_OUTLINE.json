@@ -1273,15 +1273,15 @@
     "version": "S3_AUTHOR_REQUEST_POST_E32",
     "mode": "WORK_NO_PLAY",
     "principle": "Each roster character chooses based on personal desire, psychological tensions, source-era history, actual location/resources/knowledge, relationships and consequences. A selected encounter or duel is not a compelled choice or result.",
-    "complete_profile_library": "/S7NS/Season3_Character_Agency_Matrix_20261018.json",
-    "reference_map_library": "/S7NS/Season3_Character_Agency_Matrix_After_Brusta_20261018.json",
+    "complete_profile_library": "/S7NS/Season3_Character_Agency_Matrix_Active_Clean_20261019.json",
+    "reference_map_library": "/S7NS/Season3_Character_Agency_Reading_Map_Active_Clean_20261019.md",
     "current_cursor": "E32 DELIVERED_PROVISIONAL; E33 not played; Dana and Mana restored loyal, Zid betrayal future.",
     "source_backed_noxus_crossover_guide": "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md",
-    "library_extended_matrix": "/S7NS/Season3_Character_Agency_Matrix_20261018.json",
+    "library_extended_matrix": "/S7NS/Season3_Character_Agency_Matrix_Active_Clean_20261019.json",
     "coverage": {
       "active_noxian": 12,
       "active_crossover_and_source_era": 13,
-      "core_extended_identity_cards": 112,
+      "core_extended_identity_cards": 111,
       "individually_scoped_female_champion_roles": 70
     },
     "evidence_scope": "25 current Noxian/crossover personality/decision gates independently available in GitHub. Full 112+70 individually scoped reading matrix saved in Library and routed as a derived working view. Complete original actor source always controls.",
@@ -1297,7 +1297,8 @@
     ],
     "romance": "OFF by latest post-E32 author decision; past intimacy retained; formerly mandatory 99 percent attraction not forced while OFF.",
     "reading_map_library": "/S7NS/Season3_Character_Agency_Reading_Map_After_Brusta_20261018.md",
-    "brusta_identity": "Tracy Morgan not Busta; Brian human not Family Guy. Full current routes override obsolete library keys."
+    "brusta_identity": "Tracy Morgan not Busta; Brian human not Family Guy. Full current routes override obsolete library keys.",
+    "reviewed_core_and_extended": 111
   },
   "conditional_actor_intersections_examples": [
     "A soldier's real report might force a conflict between military logistics and a noble's attempt to hide a loss; Swain/Darius could disagree on how to respond.",
@@ -1306,7 +1307,7 @@
     "TPP may try to monetize its stolen ledger while Sins pursue independent theft; they can compete over a buyer only after actual access.",
     "Thor and the serpent have an actual E32 no-throw history; a later encounter should build on that choice, not reset a compulsory duel."
   ],
-  "outline_semantic_coverage_note": "The 25 selected current Noxian/crossover actor profiles have individual source-bounded psychological decision gates in the connected guide; 112 operative/extended and 70 female champion profiles in the S7NS Library are supplemental full reference, NOT evidence all 182 have been independently audio-verified or deployed. Source phase and gaps retained; unselected contexts are not treated as current plot.",
+  "outline_semantic_coverage_note": "The 25 selected current Noxian/crossover actor profiles have individual source-bounded psychological decision gates in the connected guide; 111 operative/extended and 70 female champion profiles in the S7NS Library are supplemental full reference, NOT evidence all 182 have been independently audio-verified or deployed. Source phase and gaps retained; unselected contexts are not treated as current plot.",
   "latest_author_TPP_and_romance": "continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json",
   "TPP_Tracy_identity": {
     "physical_person": "Tracy Morgan",
