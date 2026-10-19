@@ -1,0 +1,42 @@
+{
+  "schema": "S7NS_SCOPED_AUTHOR_DECISION_V1",
+  "date": "2026-10-19",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "authority": "LATEST_DIRECT_AUTHOR_REQUEST",
+  "mode": "WORK_NO_PLAY",
+  "story_days_advanced": 0,
+  "author_acceptance": "NOT_ASSERTED",
+  "Chris_engine": {
+    "owner": "canon/characters/Chris_Everyday_Absurdity_Cumulative_Character_Application_20261019.md",
+    "rule": "Chris's ordinary needs and serious craft meet source-valid escalating surreal absurdities with permanent actual consequences. His original five bizarre duels (Eyehole Man, Mr Nimbus, Micah/Bob Ross, Clifford, apparent Colm/Hawking) and subsequent Charles Manson, Meatwad, Frylock/Shake and one K.K. growth set this pattern, not a magical curse or mandatory failed task.",
+    "gates": "Keep Chris genuinely dangerous/competent chef/gunman/engineer/gamer/hoarder, capable of caring, winning, resting, playing RDR2 and accomplishing fully normal chores. No magic arrival mandate, property shortcuts, transferred absent Teemo powers, in-world prophecy, duplicate 1v1, resentful one-note rant or reset."
+  },
+  "new_PLAY_default": {
+    "owner": "canon/presentation/S7NS_Triple_Episode_Seamless_Feature_PLAY_Default_20261019.md",
+    "rule": "On each future authorized default PLAY, prepare three causally consecutive distinct unplayed episode units and edit them into ONE actually seamless, whole-reviewed, saved and delivered feature. No stacked transcripts, duplicate intro/reveal, fake separate day, script quota or automatic delivery based on preparation.",
+    "next_new_play": "E36–E38 ONLY after fresh next PLAY unless author specifies an override. A special or individual command may override.",
+    "runtime_assumption": "Each 3750–4500 words at 150 assumed wpm only where earned; ~75–90 minute feature. Actual TTS not measured.",
+    "single_doctrine": "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+    "narrative_catalog": "reference/research/Season3_140_Technique_Catalog_20261010.csv",
+    "catalog_total": 140,
+    "catalog_use": "Selective creative retrieval, no technique count/rotation/checklist. Use complete actor owners to activate materially relevant underused kit/voice/relationship functions; not every actor or ability every episode.",
+    "paired_save": "Each underlying episode's prepared proof where possible + exact final combined manuscript/checkpoint, whole-read repairs and final reread, before actual delivery; three delivery ledger statuses only when full combined feature has truly been delivered."
+  },
+  "E33_E35_feature": {
+    "final_manuscript": "continuity/features/E33_E35/S3_Under_New_Management_Complete_Directors_Cut_FINAL.txt",
+    "paired_checkpoint": "continuity/features/E33_E35/S3_Under_New_Management_Complete_Directors_Cut_Checkpoint.json",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_YET_PLAYED_TO_CHAT",
+    "original_episode_files": [
+      33,
+      34,
+      35
+    ],
+    "all_originals_preserved": true,
+    "feature_alternate_presentation_not_E36": true,
+    "created_forward_story_time": false,
+    "note": "Prepared feature contains new source-constrained conversations but not new accepted main-story events until actual author acceptance; E35 exact delivered checkpoint remains controlling for forward continuation."
+  },
+  "current_last_delivered": 35,
+  "current_next_unwritten": 36,
+  "direct_project_UI_installed_claim": false
+}
