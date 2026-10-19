@@ -1,0 +1,50 @@
+{
+  "schema": "S7NS_QAPX_STANDARD_CHAT_RESUME_V1",
+  "mode": "WORK_NO_PLAY",
+  "status": "SAVED_AT_REPLACEMENT_BUILD_ENTRY",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "verified_repo": "kazekamimp3/kaze808",
+  "verified_preceding_head": "2fa5d8d8a6e5881d4625e426f5c20e12b7fc6456",
+  "last_delivery": {
+    "episode": 32,
+    "title": "No Horizon",
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED"
+  },
+  "next_episode": {
+    "episode": 33,
+    "written": false,
+    "played": false,
+    "authorized": false
+  },
+  "source_snapshot": {
+    "uploaded_physical_sources": 28,
+    "manifest_sha256": "6bd2e87d866cdf2c30ba24ac2f19b0db38ee45ebaef8a708a83919a2b141d733",
+    "all_28_sha256_matched": true,
+    "original_logical_modules": 453
+  },
+  "preserved_last_verified_handoff": "continuity/work/RESUME_CHECKPOINT_20261019_QAPX_STAGED_AFTER_E32.json",
+  "last_completed": "Reconciled post-E32 author decisions, verified current GitHub owners and 28 uploaded original-bundle hashes; collected concrete bundle-replacement scope; no Project cutover",
+  "newest_unfinished_step": "Build only semantically changed upload-ready source bundles and manifest/index/instructions from full current GitHub owners, validate, save and verify receipts",
+  "critical_current_author_locks": [
+    "Dana and Mana reinstated and loyal despite older exclusion",
+    "Teemo excluded from active canon and gear",
+    "Deadpool sole main narrator beginning E33 and not physical",
+    "Mimir physically accompanies post-Valhalla Kratos",
+    "Kaze romance OFF after E32",
+    "Chris food stash, Clifford bent neck and unfinished tattoos",
+    "Older mature World Serpent, current full Chris/Billy systems",
+    "Zid prospective betrayal not occurred"
+  ],
+  "pending": [
+    "Construct and verify actual changed Project replacement files",
+    "Readback GitHub proposed replacement artifacts",
+    "Install Project attachments/custom instructions or provide exact manual replacement instructions"
+  ],
+  "guardrails": [
+    "No restart",
+    "No undo delivered manuscripts or accepted status",
+    "No altered story clock",
+    "Do not claim Project installation or other service sync without evidence"
+  ]
+}
