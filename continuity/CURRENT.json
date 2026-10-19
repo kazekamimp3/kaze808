@@ -1,122 +1,114 @@
 {
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "E28 delivered + latest author romance ON / ensemble preserved / Zeri adult clarification",
+  "as_of": "E29 delivered provisional + author instruction dropping Naganeka/ballista from ongoing plot",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "checkpoint": "continuity/episodes/E28/S3_Episode_28_Checkpoint.json",
-  "manuscript": "continuity/episodes/E28/S3_Episode_28_An_Early_Withdrawal.txt",
-  "manuscript_sha256": "761b672c08c3a7b6ca21585a0f25b0426d6b88342a3084800fab49e8e3dae332",
-  "author_override": "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
+  "checkpoint": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json",
+  "manuscript": "continuity/episodes/E29/S3_Episode_29_Personal_Property.txt",
+  "manuscript_sha256": "8bbe15ee61a8e212e5184bf28cd5dace5f3d943c2a1fd78c02cd8325055d9e65",
+  "author_override": "continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
   "KAZE_ROMANCE_ENABLED": true,
   "Briar_stays": false,
   "Briar_active_plot": false,
   "ensemble_paused": false,
   "focus_mode": "ENSEMBLE",
   "history_unchanged": true,
-  "next_episode": 29,
+  "next_episode": 30,
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
   "editorial_feedback": "continuity/editorial/E27_Attention_Feedback.json",
   "time": {
-    "opening": "Same morning as E27 road departure beyond eastern Lask; parallel ensemble action in Zaun. Four completed overnights since E20.",
-    "elapsed": "Group morning plan, Rivermark bargain, collection-house arrival an hour later, robbery and late-afternoon return to loading-ramp service road. No new overnight.",
-    "completed_overnights_since_E20": 4,
-    "cross_region_sync": "Kaze scene only witnessed in morning; late-afternoon position not newly observed. No instant reunion or completed interregional journey."
+    "opening": "Immediate E28 late-afternoon Zaun service-road endpoint; four completed overnights since E20.",
+    "elapsed": "Group coastal flight through remaining daylight, one overnight, next-day flight to known Noxian harbor by afternoon. Kaze/Samira independently travel coastward through preceding afternoon, stop same night, arrive that morning. Reunion and interior scene through evening.",
+    "completed_overnights_since_E20": 5,
+    "endpoint": "Before/around evening at bare shelf above familiar Noxian harbor; next inland departure agreed for tomorrow, not executed.",
+    "Heisenberg_scene": "Earlier on that same arrival day in Zaun, after E28 robbery; actual local witnesses visit. No simultaneous actor contact across regions."
   },
   "positions": {
-    "Chris": "Sole exterior, standing watch behind abandoned loading ramp on Zaun service road at end; headlamp feed live to Monitor 2. No vehicle deployed.",
-    "Billy": "Full-size inside BELLY after yielding to Chris; beside acquired bronze carp. No second exterior body.",
-    "Arthur": "Inside BELLY at monitor, after counting silver; relays through Billy-authorized banjo outlet.",
-    "Daniel": "Inside BELLY, bottle and spear retained, Harl coastal sketch unfolded near monitor.",
-    "Briar": "Last witnessed voluntarily taking north/inland fork beyond Lask that morning; alive, pillory intact and closed. Offstage thereafter; no return scheduled.",
-    "Kaze_Samira_Naganeka": "Last witnessed morning: Kaze pulling original ballista carriage coastward, Samira alongside; Naganeka imprisoned in weapon. No arrival, reunion or specialist-weapon return.",
-    "Dessa": "Last seen steering six returned Purple Pain cases out of collection house on works handcart, with 300 silver and help from released clerks. Actual return to works/pay distribution unshown.",
-    "Serrat": "Alive at collection-house desk, stomach injured by Arthur; desk flooded by broken carp feed pipe.",
-    "clerks": "Both alive and released from MEAT CANYON onto landing, then helping Dessa through street door.",
-    "door_guards": "Both alive, leaving through street door after abandoning rifles. First has jaw injury.",
-    "harness_worker": "Dead on lower stone ledge in shaft; armor and corpse not acquired.",
-    "retained_unstaged": "Charles and Meatwad retain established BELLY residence; no new camera action. R2-D2 and Zid locations unresolved, not manufactured. TPP last-confirmed position/history retained, no offscreen debt resolution."
+    "Billy": "Sole exterior at Noxian harbor shelf by Naganeka carriage and Kaze.",
+    "Kaze": "Exterior, sitting on original ballista carriage drawbar beside Naganeka; actual group reunion accomplished.",
+    "Chris": "Full-size inside BELLY at workbench/drawing near final Inside Job interview.",
+    "Arthur": "Inside BELLY, seated near cash cage.",
+    "Daniel": "Inside BELLY near couch, bottle/spear/Harl sketch retained.",
+    "Charles_Meatwad": "Both inside BOYS CLUB; final camera held by Meatwad, Charles speaking to it. No outward filming or broadcast.",
+    "Naganeka": "Still imprisoned in original ballista, original wheeled carriage on shelf braced with stones; declined BELLY intake, no host or actual travel after agreement.",
+    "Samira": "Last observed taking southward path from shelf, looks back at bend, continues alone toward intended weaponsmiths. Actual arrival unknown.",
+    "Briar": "Offstage after E28 north/inland fork departure; no new observation.",
+    "Heisenberg_Serrat_clerk": "Earlier that day in Heisenberg Zaun office; Serrat stomach still painful, holds pencil for wage list. One surviving collection clerk gives report; not relocated to Noxus.",
+    "R2_D2_Zid": "Prior unresolved locations unchanged as evidence; not manufactured, duplicated, killed or stored."
   },
   "state": {
     "Kaze": {
       "money_silver": 5,
-      "money_change": "Unchanged at five silver; no E28 expenditure/loot.",
-      "condition": "No new wound or healing event in E28; E27 condition retained.",
-      "equipment": "Black Marrow singular/integrated, not drawn. Existing right forearm defense only. New physical custody of ballista/carriage, not new personal power.",
-      "powers": "No upgrade, automatic assimilation or kill growth. Danger sense contextual not omniscient. Cleave/WCS unused and sword-only; removed packages remain removed."
+      "condition": "No new wound; prior healed condition retained.",
+      "equipment": "Black Marrow singular integrated; no draw/power use or upgrade. Original ballista transport custody remains, not ownership of Naganeka or new personal ability.",
+      "knowledge": "Now told E28 heist details; actual reunion, Samira/Arthur truce, returned weapons, group future direction."
     },
     "Samira": {
-      "left_wrist": "Still braced/injured",
-      "equipment": [
-        "one ordinary loaded pistol",
-        "knife",
-        "powder flask",
-        "lead-ball pouch"
-      ],
+      "left_wrist": "Still braced and painful; no new healing claim.",
+      "equipment": "Two specialist pistols and her large sword returned from BELLY. Existing ordinary loaded pistol, knife, powder flask and lead-ball pouch retained. Recovered specialist ammo uncounted/unresolved; no refill/repair.",
       "shots": 0,
-      "specialist_weapons": "Still stolen BELLY loot; no recovery, replacement or blacksmith delivery",
-      "agency": "Voluntary temporary travel until boring, not Sin membership",
-      "history": "Prior E25 hookup and grievances preserved; no new flirt/hookup while OFF."
+      "agency": "Temporary travel with Kaze ends by her choice; southward departure to intended own weaponsmiths. Not Sin or permanent companion. Not-today truce with Arthur, anger unresolved.",
+      "relationship": "Two mutual kisses/recurring flirt with Kaze; no new hookup or discovery."
     },
     "Naganeka": {
-      "identity": "Naganeka of Zuretta, actual imprisoned Darkin ballista, newly encountered",
-      "custody": "Physically transported by Kaze on original wheeled carriage; brackets remain, two modern bands removed",
-      "abilities_shown": "Quiet nearby speech only; no range theorem, projectile effect, living host, weapon/body swap, beast form or curse bypass established",
-      "intent": "Leave buyers and seek future self-directed agency; neither grateful servant nor recruited Sin",
-      "prison": "Ancient soul bindings unchanged; no new body"
-    },
-    "Briar": {
-      "condition": "Alive, closed intact pillory; prior healed wound/history retained. No new injury.",
-      "agency": "Chooses north road for own exploration; companionship ends on page without death, betrayal or retroactive history deletion. Offstage thereafter."
+      "prison": "Original ancient ballista binding unchanged; two modern bands already removedE27.",
+      "location": "Outside on original carriage; wheels braced with stones.",
+      "agency": "Declines interior guest transport, agrees future inland travel; what she later does undecided.",
+      "powers": "Quiet local speech only, no host/summon/projectile/counterpower/assimilation.",
+      "author_control": "Future inland-travel agreement superseded by continuity/author/Naganeka_Ballista_Dropped_After_E29.json; active plot removed, brief physical leave-behind pending PLAY."
     },
     "Daniel": {
-      "form": "Base throughout; no Beast or retired forms.",
-      "body": "Literal ice forearms and hands, flesh/fur upper arms, simian tail/feet; brow cut quickly stops bleeding and closes, soreness remains. Drunk throughout.",
-      "kit_shown": "Existing perception, tail grips, cloud recovery, spear/feet, two weaker destructible hair duplicates. Both gone by fight end. No new upgrade, Cloud Step repetition or clone-to-heal.",
-      "equipment": "Amber replenishing unbreakable bottle, sash, spear intact, Harl sketch retained. No guard weapons/armor acquired.",
-      "known_silver": 110,
-      "new_share": "None allocated from E28 common loot."
+      "form": "Base; literal ice forearms/hands, simian body/tail retained.",
+      "condition": "Brow healed, robbery soreness easing with time; no new injury or magical reset.",
+      "kit": "Ordinary existing cloud travel/local scouting; no new combat/form.",
+      "money_silver": 110,
+      "equipment": "Bottle, spear, Harl sketch retained; not lost during handshake/hug."
     },
     "Arthur": {
-      "body": "Current cybernetic hands/eye/CQC; no new injury.",
-      "weapon": "One existing UNSHAKEN revolver drawn right-handed; one charged projectile round fired. Minor forward casing strain knits through established self-repair. No Count/Hypercharge/full-charge claim.",
-      "ammo": "One round spent; exact prior reserve remains unspecified, no regeneration invented.",
-      "left_hand": "Catches guard rifle and strikes Serrat while right retains revolver.",
-      "new_share": "None allocated; prior funds retained."
+      "condition": "No new injury or gunfire.",
+      "equipment": "Current weapons retained, no round spentE29 or ammo grant. Gave assent to return Samira loot; prior E28spentround remains spent.",
+      "agency": "Temporary mutual nonviolence, not apology or friendship with Samira."
     },
-    "Chris": "Single body, exterior during machinery access, inside after Billy takeover, exterior again at end. Quick gate-latch improvisation, no invented magic/remote matter work/slow rod repair. Mask deployed after shot; equipment not hit. Existing damaged Hawking projector remains unrepaired; no new gadget repair invented.",
-    "Billy": "One exterior at a time; legitimate immediate swallowing once accessible. Two clerk intakes separate from cargo; both released. Bronze carp and counting cage retained. No new ability, injury or captivity bypass.",
+    "Chris": {
+      "body": "Single exterior while piloting; full-size inside after shelf switch and at end.",
+      "vehicle": "Same Subaru/X-wing deployed twice for return coastal route, recalled empty at stop and endpoint. Additional fuel consumed, no refuel/reload/repair by recall. R2 not staged, ordinary controlled flight uses current explicit exception.",
+      "craft": "Carp wooden stand completed/tested from existing modest timber/fasteners; fountain remains nonfunctional. Hawking projector still cracked/unrepaired; no new lore unlock."
+    },
+    "Billy": {
+      "body": "One exterior at time; sole exterior endpoint.",
+      "routing": "Arthur/Daniel released at start; valid travel/shelf switches; final Arthur/Daniel/Chris inside, Kaze outside. Naganeka never swallowed.",
+      "property": "Silver cage and carp retained; Samira specialist weapons no longer gang loot."
+    },
     "money": {
-      "new_gross_silver": 2400,
-      "paid_to_Dessa_silver": 300,
       "new_unallocated_common_silver": 2100,
-      "location": "Recovered cage in protected BELLY storage.",
-      "prior_funds": "Earlier balances and E20 unassigned 20 common silver separate and unchanged. No new per-member allocation or spend; Kaze five and Daniel110 retained."
+      "older_unallocated_common_silver": 20,
+      "new_spend": 0,
+      "new_income": 0,
+      "shares_distributed": false,
+      "prior_personal_balances": "Kaze5, Daniel110, other prior funds unchanged."
     },
-    "Purple_Pain": "All six genuine cases returned intact to Dessa before entry, then carted to collection house and away by her after robbery. No longer Sins-owned stock or BELLY inventory. No vials used by gang, destroyed or sold. Harness worker separate vial not from these cases.",
-    "new_loot": "Counting cage/door, original silver trays and remaining silver; large bronze ornamental carp. Carp has no installed water function; pipe and basin remain onsite.",
-    "vehicle": "Subaru/X-wing remains recalled in Chris ball, prior fuel use retained. No deployment/refueling/range claim.",
-    "weapons_left": "Two door-guard rifles and Serrat third rifle left at collection house; none acquired. Serrat fires one shot, door guards zero. Samira zero.",
-    "communications": "Exterior Chris normal speech reaches interior via live headlamp audio. Interior Arthur uses Billy-authorized banjo outlet for outward speech; no telepathy or remote scene knowledge.",
-    "relationships": "Romance ON prospectively by latest author control. Elise, Samira and Briar remain established sexual partners without membership/exclusivity/automatic consent. Briar left in E28 and remains offstage. Samira temporary travel/property grievance remains. No new intimacy or pregnancy discovery enacted."
+    "Purple_Pain": "All six cases remain with Dessa as E28 last direct evidence; none gang inventory. Heisenberg actual new report confirms return, not new shipment or sale.",
+    "camera": "Existing ordinary camera, recording only interior. Meatwad->Charles->Meatwad handoffs shown. No external recording/public audience/automatic stored livefeed/warden authority.",
+    "carp": "Existing bronze ornament now secured level on two small wooden runners; no basin, plumbing, pump or water function."
   },
   "knowledge": {
-    "ensemble": "Actual notice, Dessa bargain/testimony and locally witnessed heist. No new knowledge of Kaze solo events, Naganeka, Briar exit or exact Kaze whereabouts.",
-    "Kaze_Samira": "Know Briar chose north road and own coast/Zaun intention; no knowledge of concurrent collection-house robbery or gang decision to travel.",
-    "Serrat": "Recognizes Daniel from Dessa report specifically tail; witnesses raiders, violence and theft. No automatic Death Note eligible names, secret kit or knowledge of remote crimes.",
-    "Heisenberg": "Existing supply-pressure notice supported; receipt of new robbery report not shown. No new notebook entry, omniscient surveillance or immediate counterattack.",
-    "Dessa": "Knows six cases returned, 300 paid, her guards history and relevant local heist; no forgiveness or certain immunity from suspicion.",
-    "Naganeka": "Local road conversation only. No host, long-distance hearing or full gang history.",
-    "narrator": "Mimir knowledge/narration distinct from actor hearing."
+    "group": "Actual Samira return/grievance witnessed; Kaze's report of Briar departure and local solo events. Kaze hears actual heist recap. No new Kratos source chronology, full Darkin biography or invisible offstage facts.",
+    "Billy_Samira": "Billy actually reports chosen inland intention; Samira hears, later exits.",
+    "Heisenberg": "Actual local eyewitness accounts of heist, stock return,300payment and cage/clerks intake-release. No new current Sins location, names/faces beyond retained knowledge or words actually reported, notebook eligibility, storage exploit or guaranteed counter.",
+    "Serrat_clerk": "Serrat payment eyewitness; clerk intake/release eyewitness, not falsely said to observe payment while inside. Both hear bounded new orders.",
+    "Naganeka": "Hears nearby introductions/offer/travel terms, not automatic BELLY conversations or world knowledge.",
+    "narrator": "Mimir narrative cut distinct from actors' channels; no remote information transfer."
   },
   "consequences": {
-    "new_dead": "One unnamed harness worker, killed by Daniel. Renn is identification of E20 death, not new casualty.",
-    "survivors": "Serrat, two guards, two clerks, Dessa all alive; injuries specified, future recovery not granted.",
-    "damage": "Shaft brick walls/rails/cage roof, cage mountings, upper counterweight guide and nearby masonry, brake inspection cover; rifle shot through housing outer cover; ripped carp mounting/feed pipe and flooded desk. Freight lift disabled/jammed, no whole building collapse asserted.",
-    "liability": "Heisenberg collection cash lost; Dessa received300 and recovered6cases. Workers actually paid and Heisenberg reaction pending. Local witnesses survive.",
-    "older": "All E21–27 violence/theft/letter custody, E20 theft, TPP arrears and previous world consequences retained; no offstage resolution."
+    "new_dead": [],
+    "new_injuries": [],
+    "new_damage": "Only ordinary craft cut of existing scrap timber; prior harbor/heist damage persists.",
+    "new_world_action": "Heisenberg now receives reports and intervenes in Serrat wage handling; list/payment execution and Dessa response not yet shown.",
+    "new_resolution": "Group reunited; Samira recovered specialist weapons and independently departed; new common direction selected. Naganeka travel intention spoken E29 is superseded prospectively by latest author instruction.",
+    "unresolved": "Samira anger at Arthur, Heisenberg empire/retaliation, survivors, current ammo/fuel, future pregnancies, retained regional encounters. Naganeka prison remains a historical/last-observed fact outside active plotting."
   },
   "prospective_control": {
-    "author_override": "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
+    "author_override": "continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
     "KAZE_ROMANCE_ENABLED": true,
     "focus_mode": "ENSEMBLE",
     "ensemble_paused": false,
@@ -150,54 +142,46 @@
       ],
       "knowledge": "No actor learns of a pregnancy through this WORK update. Do not give characters the author's future knowledge."
     },
-    "PLAY_authorized": false
+    "PLAY_authorized": false,
+    "Naganeka_active_plot": false,
+    "ballista_group_transport_planned": false,
+    "ballista_disposition": "Leave behind briefly at next group departure; PENDING_PLAY_NOT_ENACTED."
   },
   "ensemble_last_confirmed": {
-    "episode": 28,
-    "checkpoint": "continuity/episodes/E28/S3_Episode_28_Checkpoint.json",
-    "qualification": "E28 exact evidence now replaces the old E20-only current projection; all unmentioned retained history stays intact."
+    "episode": 29,
+    "checkpoint": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json",
+    "qualification": "E29 actual reunion and current positions are delivered evidence; latest ballista-exit instruction is prospective and does not advance story time."
   },
   "outline_delta": {
     "completed_now": [
-      "Briar voluntary departure and active ensemble resumption",
-      "Six-case return and actual Dessa alliance-for-score",
-      "Collection-house robbery, worker death, paid300 bargain, 2100 new common loot and carp acquisition"
+      "Actual coastal return and group reunion",
+      "Samira specialist weapons returned and temporary not-today truce",
+      "Samira voluntary south departure, romance/history retained",
+      "Heisenberg actual eyewitness-report receipt",
+      "Carp stand/Inside Job continuation"
     ],
-    "next_cursor": "E29 paused, following delivered E28. Group-led outline retained; individual regional meetings are prospective.",
-    "active_outline_policy": "Prepared episode does not overwrite current deliveredE27 outline facts. On response reconciliation apply this delta; keep remaining selected developments conditional.",
-    "open_threads": [
-      "Heisenberg actual response and eyewitness reporting",
-      "Dessa workers wages and possible suspicion",
-      "Finding Kaze through actual contact/travel",
-      "Samira stolen specialist weapons",
-      "Naganeka imprisoned agency",
-      "Cursed Baldur and independent Kratos",
-      "Letter transit, prior harbor and military consequences",
-      "TPP elapsed deadlines and retained developments"
+    "next_cursor": "E30 after delivered E29; briefly leave ballista behind on the harbor shelf at departure, then continue group direction. Await PLAY.",
+    "pending": [
+      "Brief physical leave-behind of the original ballista at next group departure; no longer an active companion thread",
+      "Actual inland departure and any town/capital arrival",
+      "Samira weaponsmith arrival/repair and letter receipt",
+      "Heisenberg wage list/payment or pursuit execution",
+      "Remaining selected crossover/regional meetings and other Sins matchups",
+      "Pregnancy discovery"
     ],
-    "not_completed": [
-      "Gang reunion",
-      "Noxus/coast arrival",
-      "Remote message receipt",
-      "New recruitment or romance",
-      "Heisenberg defeat",
-      "Naganeka host/freedom"
+    "active_outline_policy": "E29 delivered facts reconciled; subsequent ballista exit is a current author-directed plan, not an enacted event. Other retained developments remain conditional.",
+    "removed_by_author": [
+      "Naganeka host/liberation/deployment and continued group transport"
     ]
   },
-  "scope": "Delivered endpoint remainsE28. Latest author controls active. E29 prepared from authorized PLAY; do not promote its events until exact response reconciliation.",
-  "prepared_episode": {
-    "episode": 29,
-    "manuscript": "continuity/episodes/E29/S3_Episode_29_Personal_Property.txt",
-    "manuscript_sha256": "8bbe15ee61a8e212e5184bf28cd5dace5f3d943c2a1fd78c02cd8325055d9e65",
-    "checkpoint": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json",
-    "checkpoint_sha256": "c2477d40c92f9694eff61a3db5ce273a69eeae3a67415d9ff9cde975a0d2c521",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED"
-  },
-  "checkpoint_sha256": "9d005a41a2c148fafc3173261f1e819a8d2c56c6001ed6718e7ce00664bc7f70",
+  "scope": "Exact delivered E29 state plus prospective scoped author control. No E30 generated; no physical ballista discard, death or elapsed time enacted in WORK.",
+  "prepared_episode": null,
+  "checkpoint_sha256": "c2477d40c92f9694eff61a3db5ce273a69eeae3a67415d9ff9cde975a0d2c521",
   "author_overrides": [
     "continuity/author/Kaze_Romance_OFF_After_E26.json",
     "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
-    "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json"
+    "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
+    "continuity/author/Naganeka_Ballista_Dropped_After_E29.json"
   ],
   "carried_forward_unstaged": {
     "Orren": {
@@ -217,9 +201,14 @@
     "qualification": "Last witnessed evidence, not freeze or new observation. Samira letter dispatch/receipt still unverified; cursed Baldur alive. Retained TPP clock advances normally; no invented payment or eviction."
   },
   "playback_control": {
-    "paused": false,
-    "authorized_episode": 29,
-    "next_episode": 29,
-    "basis": "Latest user PLAY lifts prior E29 pause. E29 saved prepared; reconcile actual delivery before advancing toE30."
-  }
+    "paused": true,
+    "authorized_episode": null,
+    "next_episode": 30,
+    "last_delivered_episode": 29,
+    "basis": "E29 delivery reconciled; current instruction is WORK author control only. Await new PLAY for E30; ensemble presentation remains active."
+  },
+  "delivery_status": "DELIVERED_PROVISIONAL",
+  "delivery_reconciliation": "continuity/episodes/E29/DELIVERY_RECONCILIATION.json",
+  "Naganeka_active_plot": false,
+  "ballista_group_transport_planned": false
 }

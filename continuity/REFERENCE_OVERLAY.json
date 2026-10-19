@@ -59,7 +59,7 @@
     {
       "Episode": "S3 Episode 29: Personal Property",
       "Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-      "Delivery Status": "PREPARED_SAVED_NOT_YET_DELIVERED; author acceptance NOT_ASSERTED",
+      "Delivery Status": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
       "Manuscript SHA256": "8bbe15ee61a8e212e5184bf28cd5dace5f3d943c2a1fd78c02cd8325055d9e65",
       "Checkpoint Source": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json"
     }
@@ -67,19 +67,19 @@
   "Characters": [
     {
       "Character": "Samira",
-      "Continuity Status": "E28 temporary coastward travel with Kaze; established adult partner, property claimant, not Sin or permanent companion.",
+      "Continuity Status": "E29 specialist weapons returned; independently departed south toward intended weaponsmiths.",
       "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-      "Authority Source": "character_sources/season3/Samira_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
-      "Evidence Level": "Delivered E28 evidence + latest explicit scoped author update; acceptance separate",
-      "Notes": "Complete source routes: [\"character_sources/season3/Samira_Character_Source.txt\"]\nCurrent E28 / author update: Left wrist braced, ordinary loaded pistol/knife/flask/pouch, zero E28 shots; specialist pistols and sword still stolen BELLY loot. Temporary voluntary travel is not membership or girlfriend status. E25 history retained; later pregnancy with Kaze selected but not revealed."
+      "Authority Source": "character_sources/season3/Samira_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json; continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
+      "Evidence Level": "Delivered E29 exact evidence + latest scoped author directive; acceptance NOT_ASSERTED; physical leave-behind pending PLAY",
+      "Notes": "Complete source routes: [\"character_sources/season3/Samira_Character_Source.txt\"]\nCurrent E29 / author update: Left wrist remains braced/painful. Own two specialist pistols and sword returned from BELLY, no duplicate loot/refill/repair. Existing ordinary pistol/knife/flask/pouch retained; zero E29 shots. Temporary not-today truce with Arthur, anger retained. Mutual Kaze flirt/kisses, no new hookup; established partner and selected later pregnancy retained without discovery."
     },
     {
       "Character": "Kaze",
-      "Continuity Status": "E28 last observed coastward beyond Lask; romance ON within ensemble; established partners Elise/Samira/Briar.",
+      "Continuity Status": "E29 reunited with group at Noxian harbor shelf; romance ON and ensemble active.",
       "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-      "Authority Source": "character_sources/Kaze_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
-      "Evidence Level": "Delivered E28 evidence + latest explicit scoped author update; acceptance separate",
-      "Notes": "Complete source routes: [\"character_sources/Kaze_Character_Source.txt\", \"canon/characters/kaze_current.md\", \"canon/characters/kaze_psychology.md\", \"canon/characters/other_originals.md\", \"canon/characters/s37_kit_application.md\", \"research_sources/Kaze_Removal_Evidence.txt\", \"canon/characters/kaze_future_progression.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Group_Relationships.txt\", \"canon/relationships/Kaze_Adult_Romance_20261018.md\"]\nCurrent E28 / author update: Five silver; Naganeka remains imprisoned in actual ballista. No new power, reunion, encounter or actor pregnancy knowledge. Romance ON; group focus unchanged."
+      "Authority Source": "character_sources/Kaze_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json; continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
+      "Evidence Level": "Delivered E29 exact evidence + latest scoped author directive; acceptance NOT_ASSERTED; physical leave-behind pending PLAY",
+      "Notes": "Complete source routes: [\"character_sources/Kaze_Character_Source.txt\", \"canon/characters/kaze_current.md\", \"canon/characters/kaze_psychology.md\", \"canon/characters/other_originals.md\", \"canon/characters/s37_kit_application.md\", \"research_sources/Kaze_Removal_Evidence.txt\", \"canon/characters/kaze_future_progression.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Group_Relationships.txt\", \"canon/relationships/Kaze_Adult_Romance_20261018.md\"]\nCurrent E29 / author update: Outside beside Billy at E29 endpoint; five silver unchanged. Heard actual E28 heist account. Samira recovered her own specialist weapons and departed south voluntarily, partner history retained. Naganeka/ballista ongoing transport now canceled by author; leave-behind pending PLAY. No new ability, pregnancy discovery or retroactive rewrite."
     },
     {
       "Character": "Kratos",
@@ -116,42 +116,42 @@
     {
       "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
       "Character": "Naganeka of Zuretta",
-      "Authority Source": "character_sources/runeterra_extended/Naganeka_of_Zuretta_Fidelity_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
-      "Evidence Level": "Delivered evidence + explicit post-E27 author override; acceptance separate",
-      "Notes": "Complete source routes: [\"character_sources/runeterra_extended/Naganeka_of_Zuretta_Fidelity_Source.txt\"]\nCurrent post-E27 control: Two modern transport bands removed; ancient prison intact, no host/body/assimilation or new combat power. Independent will retained.",
-      "Continuity Status": "First encounter completed E27; actual Darkin ballista transported by Kaze."
+      "Authority Source": "character_sources/runeterra_extended/Naganeka_of_Zuretta_Fidelity_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
+      "Evidence Level": "Delivered E29 exact evidence + latest scoped author directive; acceptance NOT_ASSERTED; physical leave-behind pending PLAY",
+      "Notes": "Complete source routes: [\"character_sources/runeterra_extended/Naganeka_of_Zuretta_Fidelity_Source.txt\"]\nCurrent E29 / author update: Last observed E29 in original bound ballista on harbor shelf, outside BELLY. Two modern transport bands removed E27; ancient prison intact, no host or power grant. E29 inland-travel agreement superseded prospectively. No physical discard, death, destruction, replacement owner or later return enacted in WORK.",
+      "Continuity Status": "Dropped from active group plot after delivered E29; brief ballista leave-behind pending next PLAY."
     },
     {
       "Character": "Chris",
-      "Continuity Status": "E28 sole exterior sentry behind Zaun loading ramp; live headlamp feed, vehicle recalled.",
+      "Continuity Status": "E29 full-size inside BELLY at workbench; return coastal flight completed, vehicle recalled empty.",
       "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-      "Authority Source": "character_sources/Chris_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
-      "Evidence Level": "Delivered E28 evidence + latest explicit scoped author update; acceptance separate",
-      "Notes": "Complete source routes: [\"character_sources/Chris_Character_Source.txt\", \"canon/characters/chris_catfish_billy_current.md\", \"canon/characters/s37_kit_application.md\", \"character_sources/Chris_Billy_BELLY_Source.txt\", \"research_sources/Chris_Speech_Research.txt\", \"research_sources/Phish_Billy_Development_Options.txt\", \"canon/characters/chris_catfish_billy_future.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Chris_RDR2_Play_Behavior_Source.txt\", \"topic_sources/Chris_Post_Five_Duels_Charles_Hawking_Arc.txt\", \"research_sources/BELLY_Drawing_Interpretation.txt\"]\nCurrent E28 / author update: Single body; mask deployed, quick gate-latch improvisation and cage opening occurred. Hawking projector remains unrepaired; no new power. Six cases no longer in BELLY."
+      "Authority Source": "character_sources/Chris_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json; continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
+      "Evidence Level": "Delivered E29 exact evidence + latest scoped author directive; acceptance NOT_ASSERTED; physical leave-behind pending PLAY",
+      "Notes": "Complete source routes: [\"character_sources/Chris_Character_Source.txt\", \"canon/characters/chris_catfish_billy_current.md\", \"canon/characters/s37_kit_application.md\", \"character_sources/Chris_Billy_BELLY_Source.txt\", \"research_sources/Chris_Speech_Research.txt\", \"research_sources/Phish_Billy_Development_Options.txt\", \"canon/characters/chris_catfish_billy_future.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Chris_RDR2_Play_Behavior_Source.txt\", \"topic_sources/Chris_Post_Five_Duels_Charles_Hawking_Arc.txt\", \"research_sources/BELLY_Drawing_Interpretation.txt\"]\nCurrent E29 / author update: Piloted known reverse coast with one overnight and actual exterior switches; more fuel consumed without refill. Carpenter runners for bronze carp completed with Kaze using ordinary salvage; no water function. Hawking projector remains unrepaired. Existing camera films inside only."
     },
     {
       "Character": "Billy",
-      "Continuity Status": "E28 full-size inside BELLY beside acquired bronze carp; one exterior shared with Chris.",
+      "Continuity Status": "E29 sole exterior on Noxian harbor shelf; Naganeka carriage outside, Kaze beside him.",
       "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-      "Authority Source": "character_sources/Billy_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
-      "Evidence Level": "Delivered E28 evidence + latest explicit scoped author update; acceptance separate",
-      "Notes": "Complete source routes: [\"character_sources/Billy_Character_Source.txt\", \"canon/characters/chris_catfish_billy_current.md\", \"canon/characters/s37_kit_application.md\", \"character_sources/Chris_Billy_BELLY_Source.txt\", \"research_sources/Billy_Music_and_Speech_Research.txt\", \"research_sources/Phish_Billy_Development_Options.txt\", \"canon/characters/chris_catfish_billy_future.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Chris_RDR2_Play_Behavior_Source.txt\", \"topic_sources/Chris_Post_Five_Duels_Charles_Hawking_Arc.txt\", \"research_sources/BELLY_Drawing_Interpretation.txt\"]\nCurrent E28 / author update: E28 counting cage and bronze carp acquired; carp not functional fountain. Both clerk captives released. 2100 new common silver remains unallocated; no duplicate exterior."
+      "Authority Source": "character_sources/Billy_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json; continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
+      "Evidence Level": "Delivered E29 exact evidence + latest scoped author directive; acceptance NOT_ASSERTED; physical leave-behind pending PLAY",
+      "Notes": "Complete source routes: [\"character_sources/Billy_Character_Source.txt\", \"canon/characters/chris_catfish_billy_current.md\", \"canon/characters/s37_kit_application.md\", \"character_sources/Chris_Billy_BELLY_Source.txt\", \"research_sources/Billy_Music_and_Speech_Research.txt\", \"research_sources/Phish_Billy_Development_Options.txt\", \"canon/characters/chris_catfish_billy_future.md\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Chris_RDR2_Play_Behavior_Source.txt\", \"topic_sources/Chris_Post_Five_Duels_Charles_Hawking_Arc.txt\", \"research_sources/BELLY_Drawing_Interpretation.txt\"]\nCurrent E29 / author update: Arthur/Daniel/Chris inside at endpoint; Kaze released outside. Samira specialist weapons returned; no longer gang loot. Original ballista never swallowed; ongoing transport removed by author, leave-behind pending. Silver cage and carp retained, stand complete but fountain nonfunctional. One exterior retained."
     },
     {
       "Character": "Daniel",
-      "Continuity Status": "E28 inside BELLY; initiated score; 110 personal silver unchanged, new common loot not allocated.",
+      "Continuity Status": "E29 inside BELLY near couch after actual reunion; brow healed and soreness easing over elapsed journey.",
       "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-      "Authority Source": "character_sources/Daniel_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
-      "Evidence Level": "Delivered E28 evidence + latest explicit scoped author update; acceptance separate",
-      "Notes": "Complete source routes: [\"character_sources/Daniel_Character_Source.txt\", \"canon/characters/daniel.md\", \"canon/characters/daniel_humor.md\", \"canon/characters/daniel_repertoire.yaml\", \"research_sources/Daniel_Davidson_Cummins_Speech_Research.txt\", \"research_sources/Daniel_Jo_Koy_Comedy_Research.txt\", \"canon/characters/global_originals.md\", \"canon/characters/s37_kit_application.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Group_Relationships.txt\"]\nCurrent E28 / author update: E28 brow cut closed quickly; soreness remains. Base, ice forearms, spear/cloud/tail and two expended hair duplicates; no new upgrade. Harness worker killed, other actual survivors retained."
+      "Authority Source": "character_sources/Daniel_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json; continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
+      "Evidence Level": "Delivered E29 exact evidence + latest scoped author directive; acceptance NOT_ASSERTED; physical leave-behind pending PLAY",
+      "Notes": "Complete source routes: [\"character_sources/Daniel_Character_Source.txt\", \"canon/characters/daniel.md\", \"canon/characters/daniel_humor.md\", \"canon/characters/daniel_repertoire.yaml\", \"research_sources/Daniel_Davidson_Cummins_Speech_Research.txt\", \"research_sources/Daniel_Jo_Koy_Comedy_Research.txt\", \"canon/characters/global_originals.md\", \"canon/characters/s37_kit_application.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\", \"topic_sources/Group_Relationships.txt\"]\nCurrent E29 / author update: Base simian, literal ice forearms/hands; bottle, spear, Harl sketch retained. Cloud travel/scouting used; no new combat or upgrade. 110 personal silver unchanged; new common silver still unallocated. Actual heist report given to Kaze."
     },
     {
       "Character": "Arthur",
-      "Continuity Status": "E28 inside BELLY; one charged round spent, common cash counted, no new personal share.",
+      "Continuity Status": "E29 inside BELLY; assented to return Samira weapons, temporary truce without forgiveness.",
       "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-      "Authority Source": "character_sources/Arthur_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
-      "Evidence Level": "Delivered E28 evidence + latest explicit scoped author update; acceptance separate",
-      "Notes": "Complete source routes: [\"character_sources/Arthur_Character_Source.txt\", \"canon/characters/other_originals.md\", \"canon/characters/s37_kit_application.md\", \"research_sources/Arthur_Speech_Research.txt\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\"]\nCurrent E28 / author update: One existing revolver charged round spent E28; minor casing strain self-repaired. No exact ammo total invented. 300 paid to Dessa, 2100 new common silver remains. Samira gear not returned."
+      "Authority Source": "character_sources/Arthur_Character_Source.txt; continuity/CURRENT.json; continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json; continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
+      "Evidence Level": "Delivered E29 exact evidence + latest scoped author directive; acceptance NOT_ASSERTED; physical leave-behind pending PLAY",
+      "Notes": "Complete source routes: [\"character_sources/Arthur_Character_Source.txt\", \"canon/characters/other_originals.md\", \"canon/characters/s37_kit_application.md\", \"research_sources/Arthur_Speech_Research.txt\", \"canon/characters/global_originals.md\", \"topic_sources/Shared_Combat_and_Power_Rules_Source.txt\", \"topic_sources/Combat_Geography_and_Fatal_Outcomes_Source.txt\", \"topic_sources/Current_Continuity_Source.txt\", \"character_sources/Sins_Group_and_Reputation_Source.txt\"]\nCurrent E29 / author update: No E29 shot or ammunition refill; E28 spent round remains spent. Actual reunion and common inland intention established. 2100 new common silver still unallocated. Specialist Samira pistols/sword no longer gang loot."
     },
     {
       "Character": "Zeri",
@@ -160,6 +160,14 @@
       "Authority Source": "reference/runeterra/key_profiles.md#zeri; continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json; continuity/Runeterra_Women_Encounter_Register.json",
       "Evidence Level": "Permanent author-approved adult setting; prospective encounter, no event or relationship granted.",
       "Notes": "Zaun community defender. Exact numeric age not supplied. Adult romance possibility follows actual mutual choice; no automatic attraction, hookup, pregnancy, membership or current placement. Full source required before staging."
+    },
+    {
+      "Character": "Heisenberg",
+      "Current Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Authority Source": "character_sources/Heisenberg_Character_Source.txt; continuity/CURRENT.json; continuity/episodes/E29/S3_Episode_29_Checkpoint.json",
+      "Evidence Level": "Delivered E29 exact witness-scoped evidence; acceptance NOT_ASSERTED",
+      "Continuity Status": "E29 earlier that day in Zaun office: actual heist reports received from Serrat and a surviving clerk.",
+      "Notes": "Complete source routes: [\"character_sources/Heisenberg_Character_Source.txt\", \"research_sources/Heisenberg_Research.txt\"]\nCurrent E29 / author update: Serrat witnessed 300-silver payment; clerk reports cage intake/release. Heisenberg orders wage list and forbids Serrat threatening/contacting Dessa. No completed wages, new Sins location, new counterpower or notebook use. Empire remains active."
     }
   ],
   "Author Decisions": [
@@ -204,6 +212,13 @@
       "Authority Path": "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
       "Scope": "Romance ON within ensemble. Elise/Samira/Briar partner history retained; later pregnancies author-selected without discovery. Briar stays offstage. Zeri explicitly adult. Separate encounter slots for all70 existing regional-register entries; non-adult/nonhumanoid holds respected. No PLAY, new scene or elapsed time.",
       "Supersedes": "Prospective romance OFF and Zeri adulthood uncertainty only; no solo schedule, blanket consent, automatic pregnancy, restored erased history or gang admission."
+    },
+    {
+      "Decision": "Naganeka and ballista dropped after E29",
+      "Effective Date": "2026-10-18 Pacific/Honolulu, after delivered E29",
+      "Authority Path": "continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
+      "Scope": "Naganeka and original ballista removed from ongoing group plot/transport. Brief physical leave-behind at next group departure; pending PLAY, no story time advanced. Ensemble continues.",
+      "Supersedes": "Prospective E29 inland-travel agreement and active Naganeka companion, host-search, liberation and deployment hooks only; actual history preserved."
     }
   ],
   "Consequences": [
@@ -269,6 +284,13 @@
       "Affected Actors": "See exact checkpoint for witness-specific knowledge",
       "World Effect": "Briar voluntary departure; group collection-house robbery. Six cases returned to Dessa; 300 paid; 2100 new common silver retained. One harness-worker death, other named survivors retained. No reunion or pregnancy discovery.",
       "Acceptance Status": "DELIVERED_PROVISIONAL; acceptance NOT_ASSERTED"
+    },
+    {
+      "Event": "E29 delivered reconciliation",
+      "Episode Evidence": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json; continuity/episodes/E29/DELIVERY_RECONCILIATION.json",
+      "Affected Actors": "Kaze, Chris/Billy, Arthur, Daniel, Samira, Naganeka; Charles/Meatwad; Heisenberg, Serrat and surviving clerk through actual local reports.",
+      "World Effect": "Actual coastal return/reunion; Samira weapons returned and independent south departure; carp stand completed, no fountain water system; Heisenberg hears witness reports and orders wage list. Inland group departure remains future. Naganeka travel intention now superseded by author, physical leave-behind not yet enacted.",
+      "Acceptance Status": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "status": "ACTIVE_ENSEMBLE_AFTER_E28_ROMANCE_ON",
+  "status": "ACTIVE_ENSEMBLE_AFTER_E29_ROMANCE_ON_NAGANEKA_DROPPED",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "state_owner": "continuity/CURRENT.json",
-  "next_new_main_episode": 29,
+  "next_new_main_episode": 30,
   "working_episode_count": null,
   "count_is_quota": false,
   "latest_sequence_lock": {
@@ -26,7 +26,7 @@
     "TPP": "Forms shortly after Meatwad in the early Noxian movement, not after a long regional tour. Preserve selected actual revival/conjoining, access, separation/reconstruction and communication prerequisites where needed; stage them efficiently rather than asserting them completed or inventing a free mechanism. T.P.P. is Brusta Thymes, the same adult Clifford, and Dutch; Frank remains his own person and is not automatically enlisted. Later rented-HQ/tattoos/rival scores remain future developments.",
     "Specials": "The five confirmed campfire Specials remain already-established canon and unchanged originals. They are not replayed or reset to unoccurred. Earlier retelling scenes still cannot know later campfire disclosures. No newly retold manuscript is created by WORK."
   },
-  "opening": "Continue after delivered E28 when PLAY is authorized. Briar departure occurred; ensemble active; no reset or replay.",
+  "opening": "Continue after delivered E29 at the Noxian harbor shelf when PLAY is authorized. The group has reunited; Samira departed south with her recovered weapons. Briefly leave Naganeka and the original ballista behind under the latest author directive, then continue the group objective. The leave-behind and inland departure have not occurred in WORK.",
   "construction_principle": "Researched world motives + actual altered history + independently chosen Sins desires generate the plot. Named champions are agents with goals, not cameo bosses. Consequences include grief, opportunity, institutional change, divided loyalties, fear and admiration; not compulsory punishment.",
   "movements": [
     {
@@ -45,9 +45,9 @@
     },
     {
       "id": "HOUSEHOLD",
-      "status": "RESIDENT_ENTRY_AND_CAMERA_COMPLETED_THROUGH_E20_WARDEN_PENDING",
+      "status": "RESIDENT_ENTRY_CAMERA_AND_E29_CARP_STAND_COMPLETED_WARDEN_PENDING",
       "title": "Charles, then Meatwad",
-      "direction": "Charles transformed/volunteered E8; station E9; Meatwad resident E9. Inside Job camera discovered/repaired E18 and actual interior filming E18–20. No replay. Charles not warden; appointment remains prospective.",
+      "direction": "Charles transformed/volunteered E8; station E9; Meatwad resident E9. Inside Job camera discovered/repaired E18 and actual interior filming E18–20; E29 interior filming continued and Chris/Kaze completed a simple stand for the existing bronze carp. No replay. The fountain remains nonfunctional. Charles not warden; appointment remains prospective.",
       "Specials": "Confirmed campfire already canonical; no five-special replay or erased gifts/reinstatement."
     },
     {
@@ -59,9 +59,9 @@
     },
     {
       "id": "ZAUN_NOXUS",
-      "status": "ACTIVE_AFTER_E28_COLLECTION_HOUSE_SCORE_COMPLETED",
+      "status": "ACTIVE_AFTER_E29_REUNION_AND_EYEWITNESS_REPORT",
       "title": "A score with real opposition",
-      "direction": "E20 Rivermark theft and E28 collection-house robbery completed. Six cases returned to Dessa, 300 silver paid and 2100 new common silver retained. Group choices, surviving witnesses and Heisenberg's independent response shape the next operation. Regional individual encounters layer into this movement; no replay, automatic retaliation or inventory reset.",
+      "direction": "E20 Rivermark theft and E28 collection-house robbery completed. Six cases returned to Dessa, 300 silver paid and 2100 new common silver retained unallocated. E29 coastal return and group reunion completed; Heisenberg received actual local eyewitness reports and ordered a wage list. Payment of those wages and pursuit remain unperformed. The group selected future inland Noxus movement; departure is pending. Regional individual encounters layer into their own operations; no replay, automatic retaliation or inventory reset.",
       "source_direction_crosswalk": [
         "A38",
         "A39",
@@ -85,12 +85,12 @@
       "id": "NOXUS_CONTEST",
       "status": "ACTIVE_SELECTED_OPPORTUNITIES",
       "title": "Independent powers make their claims",
-      "direction": "Naganeka first encounter and ballista theft completed E27; imprisoned weapon remains with Kaze. Deadpool introduced E19; later choices available. Darius, TPP, LeBlanc, Vladimir, Shang Tsung and Magneto remain independent selected threads, not universal attendance.",
+      "direction": "Naganeka first encounter and ballista theft completed E27; E29 last observed her original imprisoned weapon on its carriage at the Noxian harbor shelf. Her E29 agreement to future travel is superseded by the latest author directive: drop her and the ballista from ongoing party and active plot, with a brief leave-behind at the next authorized PLAY. No disposal, death or transfer has occurred in WORK. Deadpool introduced E19; later choices available. Darius, TPP, LeBlanc, Vladimir, Shang Tsung and Magneto remain independent selected threads, not universal attendance.",
       "source_direction_crosswalk": [
         "A41",
         "A42"
       ],
-      "boundary": "No all-villains coalition, forced truce, generic protection racket or scene-count quota. Naganeka can become a real agent or contested siege force, not an automatically refused collectible.",
+      "boundary": "No all-villains coalition, forced truce, generic protection racket or scene-count quota. No further Naganeka companion, host, liberation, deployment, retrieval, sale, rescue or surprise-power hook; preserve her source lore and delivered history without using them to reactivate the dropped thread. Other selected Darkin/native threads remain unchanged.",
       "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY",
       "individual_women_encounter_slots": [
         "RW_AMBESSA",
@@ -237,8 +237,8 @@
       "id": "KAZE_SOLO_OPEN_ROAD",
       "status": "EXCLUSIVE_SOLO_ENDED_AFTER_E27",
       "title": "Danger, desire and a reason to continue",
-      "direction": "Selected Darkin/native and Fiddlesticks opportunities remain available under group-directed planning. Briar is not an active companion or planned participant.",
-      "return": "Prioritize prompt causal return/contact with group; a standalone travel/farewell episode is not needed."
+      "direction": "Other selected Darkin/native and Fiddlesticks opportunities remain available under group-directed planning. Briar is not an active companion or planned participant. Naganeka and her ballista are dropped from ongoing party and active plot under the latest scoped directive.",
+      "return": "Actual group reunion completed E29 at the Noxian harbor; do not repeat a search, crossing or reunion. Continue the selected group direction after the brief prospective ballista leave-behind."
     }
   ],
   "episodes": [
@@ -258,9 +258,9 @@
     },
     {
       "id": "HOUSEHOLD",
-      "status": "RESIDENT_ENTRY_AND_CAMERA_COMPLETED_THROUGH_E20_WARDEN_PENDING",
+      "status": "RESIDENT_ENTRY_CAMERA_AND_E29_CARP_STAND_COMPLETED_WARDEN_PENDING",
       "title": "Charles, then Meatwad",
-      "direction": "Charles transformed/volunteered E8; station E9; Meatwad resident E9. Inside Job camera discovered/repaired E18 and actual interior filming E18–20. No replay. Charles not warden; appointment remains prospective.",
+      "direction": "Charles transformed/volunteered E8; station E9; Meatwad resident E9. Inside Job camera discovered/repaired E18 and actual interior filming E18–20; E29 interior filming continued and Chris/Kaze completed a simple stand for the existing bronze carp. No replay. The fountain remains nonfunctional. Charles not warden; appointment remains prospective.",
       "Specials": "Confirmed campfire already canonical; no five-special replay or erased gifts/reinstatement."
     },
     {
@@ -272,9 +272,9 @@
     },
     {
       "id": "ZAUN_NOXUS",
-      "status": "ACTIVE_AFTER_E28_COLLECTION_HOUSE_SCORE_COMPLETED",
+      "status": "ACTIVE_AFTER_E29_REUNION_AND_EYEWITNESS_REPORT",
       "title": "A score with real opposition",
-      "direction": "E20 Rivermark theft and E28 collection-house robbery completed. Six cases returned to Dessa, 300 silver paid and 2100 new common silver retained. Group choices, surviving witnesses and Heisenberg's independent response shape the next operation. Regional individual encounters layer into this movement; no replay, automatic retaliation or inventory reset.",
+      "direction": "E20 Rivermark theft and E28 collection-house robbery completed. Six cases returned to Dessa, 300 silver paid and 2100 new common silver retained unallocated. E29 coastal return and group reunion completed; Heisenberg received actual local eyewitness reports and ordered a wage list. Payment of those wages and pursuit remain unperformed. The group selected future inland Noxus movement; departure is pending. Regional individual encounters layer into their own operations; no replay, automatic retaliation or inventory reset.",
       "source_direction_crosswalk": [
         "A38",
         "A39",
@@ -298,12 +298,12 @@
       "id": "NOXUS_CONTEST",
       "status": "ACTIVE_SELECTED_OPPORTUNITIES",
       "title": "Independent powers make their claims",
-      "direction": "Naganeka first encounter and ballista theft completed E27; imprisoned weapon remains with Kaze. Deadpool introduced E19; later choices available. Darius, TPP, LeBlanc, Vladimir, Shang Tsung and Magneto remain independent selected threads, not universal attendance.",
+      "direction": "Naganeka first encounter and ballista theft completed E27; E29 last observed her original imprisoned weapon on its carriage at the Noxian harbor shelf. Her E29 agreement to future travel is superseded by the latest author directive: drop her and the ballista from ongoing party and active plot, with a brief leave-behind at the next authorized PLAY. No disposal, death or transfer has occurred in WORK. Deadpool introduced E19; later choices available. Darius, TPP, LeBlanc, Vladimir, Shang Tsung and Magneto remain independent selected threads, not universal attendance.",
       "source_direction_crosswalk": [
         "A41",
         "A42"
       ],
-      "boundary": "No all-villains coalition, forced truce, generic protection racket or scene-count quota. Naganeka can become a real agent or contested siege force, not an automatically refused collectible.",
+      "boundary": "No all-villains coalition, forced truce, generic protection racket or scene-count quota. No further Naganeka companion, host, liberation, deployment, retrieval, sale, rescue or surprise-power hook; preserve her source lore and delivered history without using them to reactivate the dropped thread. Other selected Darkin/native threads remain unchanged.",
       "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY",
       "individual_women_encounter_slots": [
         "RW_AMBESSA",
@@ -450,8 +450,8 @@
       "id": "KAZE_SOLO_OPEN_ROAD",
       "status": "EXCLUSIVE_SOLO_ENDED_AFTER_E27",
       "title": "Danger, desire and a reason to continue",
-      "direction": "Selected Darkin/native and Fiddlesticks opportunities remain available under group-directed planning. Briar is not an active companion or planned participant.",
-      "return": "Prioritize prompt causal return/contact with group; a standalone travel/farewell episode is not needed."
+      "direction": "Other selected Darkin/native and Fiddlesticks opportunities remain available under group-directed planning. Briar is not an active companion or planned participant. Naganeka and her ballista are dropped from ongoing party and active plot under the latest scoped directive.",
+      "return": "Actual group reunion completed E29 at the Noxian harbor; do not repeat a search, crossing or reunion. Continue the selected group direction after the brief prospective ballista leave-behind."
     }
   ],
   "author_selected_future_threads": {
@@ -1002,14 +1002,14 @@
   "native_agenda_application": {
     "Darius": "Family/brotherhood and imperial cohesion; military judgment and actual evidence drive his own response. Draven is not pre-killed. Grief is conditional on a new actual loss.",
     "Swain": "Evaluate strategic utility, public cost and imperial power through sourced intelligence; Darius is not a remote-controlled pawn. A failed plan can really fail.",
-    "LeBlanc": "Pursue influence and secrets through located intermediaries/deception; genuine Naganeka/Xolaani interest must compete with their agency. No universal conspiracy behind Heisenberg,Thor or all merchandise.",
+    "LeBlanc": "Pursue influence and secrets through located intermediaries/deception; genuine Xolaani interest must compete with her agency. Naganeka is no longer an active selected hook under the latest author directive. No universal conspiracy behind Heisenberg, Thor or all merchandise.",
     "Vladimir": "Ancient blood craft, appetite, memory and political access create a personal interest in Darkin contact; he does not automatically control imported biology or agree with LeBlanc.",
     "Elise": "Predation and elite social access remain her own interests; shipping can connect to Darkin pursuit without making her every plot mastermind.",
     "Katarina": "Noxian duty, professional judgment and family conflict; use a particular sourced target/access decision in A41/A42 or finalNoxus, not automatic Swain obedience or unselected later comic abilities.",
     "Talon": "Actual employer/allegiance must be pinned; one assassination or observation objective can collide with Katarina or Sins, no automatic shared DuCouteau agenda.",
     "Riven": "Independent responsibility and disillusionment, exact exile/capture chronology preserved; Ionia/Noxus involvement follows her choice and actual route, not compulsory rescue.",
-    "Samira": "Alive, first reset return E23 and mutual E25 encounter retained. E28 last seen coastward beside Kaze; specialist weapons still stolen BELLY loot. Temporary companion/property claimant and established sexual partner, not Sin or committed girlfriend. Future pregnancy selected but not discovered; romance ON.",
-    "Briar": "INACTIVE_BY_AUTHOR_AFTER_E27. Remove ongoing companionship and prospective admission priority; preserve delivered history/full owner. Brief exit permitted next PLAY; none enacted by WORK.",
+    "Samira": "Alive, first reset return E23 and mutual E25 encounter retained. E29 specialist weapons returned from actual BELLY loot; she independently departed south toward her weaponsmiths after a not-today truce with Arthur. Wrist still braced; arrival, repair, letter receipt and future reconciliation unperformed. Established sexual partner, not Sin or committed girlfriend. Future pregnancy selected but not discovered; romance ON.",
+    "Briar": "INACTIVE_BY_AUTHOR_AFTER_E27. Voluntary north/inland departure completed E28; no return scheduled. Preserve delivered history/full owner and established partner history without ongoing companionship or prospective admission priority.",
     "Sion": "No current-branch completed encounter established. Do not import superseded S3 reanimation/death or assign another fighter automatically.",
     "Draven": "Living Noxian figure with his own performance, status and violence motives. Old arena outcome and weapon custody reset; no guaranteed repeated death."
   },
@@ -1022,7 +1022,7 @@
     "No fixed count, old episode-number cursor, replay script, compulsory scene quota or forced consequence result.",
     "The full selected optional TPP/household repertoire remains available, not mandatory; actual agency and consequences decide use.",
     "All source-specific scene gates, exact quotes, recognition routes and identities remain; no broad summaries override full owners.",
-    "This E17 reconciliation overrides obsolete pending/completed assertions in retained planning descriptions. Completed setups are history, not instructions to replay. No unperformed duel is reassigned from a dead actor."
+    "This E29 delivery reconciliation and latest scoped author directive override obsolete pending/completed assertions in retained planning descriptions. Completed setups are history, not instructions to replay. No unperformed duel is reassigned from a dead actor. The Naganeka/ballista leave-behind is prospective, not an event performed by WORK."
   ],
   "legacy_outline": {
     "archive": "THE_SINS_S3_FULL_RESET_WORK_CHECKPOINT_20261017.zip",
@@ -1059,7 +1059,7 @@
     "topic_sources/Capability_and_Speech_Overrides.txt",
     "approved_rolloff/staged/EXACT_QUOTE_REGISTER.json"
   ],
-  "current_cursor": "E28 DELIVERED_PROVISIONAL, acceptance NOT_ASSERTED. E29 paused and not drafted.",
+  "current_cursor": "E29 DELIVERED_PROVISIONAL, author acceptance NOT_ASSERTED; next E30. Evening at the Noxian harbor shelf: Billy sole exterior with Kaze and Naganeka in the original ballista/carriage; Chris, Arthur, Daniel, Charles and Meatwad inside BELLY. Samira last observed departing south with recovered weapons. Naganeka/ballista dropped from prospective party/plot; brief leave-behind and inland departure not yet performed.",
   "pre_solo_schedule_provenance": "Unmodified prior outline preserved in rollback; current scheduling below overrides stale E17/E18 cursor and pending-introduction claims.",
   "focus_mode": "ENSEMBLE",
   "romance_owner": "canon/relationships/Kaze_Adult_Romance_20261018.md",
@@ -1078,7 +1078,7 @@
   },
   "female_life_override": "state/work/Female_Roster_Restoration_20261018.json",
   "female_roster_audit": "reference/Female_Roster_Audit_20261018.json",
-  "current_author_boundaries": "WORK only. Romance ON; ensemble/group outline retained. Briar offstage, history preserved. Zeri explicitly adult. Three future pregnancies selected without discovery; no events or time advanced.",
+  "current_author_boundaries": "WORK only; no E30 generated or story time advanced. Naganeka and original ballista dropped from ongoing party and active plot; brief leave-behind pending next authorized PLAY, no host/liberation/deployment or surprise-power detour. Romance ON; ensemble/group outline retained. Briar offstage, history preserved. Zeri explicitly adult. Three future pregnancies selected without discovery.",
   "adult_character_pins": {
     "Tristana": "18, explicit author setting recovered Sep10; no prior romance/death imported",
     "Gwen": "Previously selected adult romantic portrayal; no invented numerical age or old partner event",
@@ -1092,7 +1092,7 @@
   "champion_region_owner": "reference/Female_Champion_Regions_20261018.json",
   "noxus_research_owner": "research/Noxus_Women_20261018.md",
   "briar_first_meeting_override": "state/work/Briar_First_Meeting_Author_Override_20261018.json",
-  "authority_override": "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
+  "authority_override": "continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
   "concise_outline": "continuity/SEASON3_NEXT.md",
   "editorial_feedback": "continuity/editorial/E27_Attention_Feedback.json",
   "provenance": {
@@ -1103,18 +1103,19 @@
   "next_episode_direction": {
     "priority": "Group-led substantive objective, suspense and developed ensemble comedy; resume main operation rather than another local acquisition tour.",
     "Briar": "E28 voluntary departure completed. Offstage, prior relationship retained; no return scheduled.",
-    "Kaze": "Prompt reunion/contact route to group where supported; no silent ocean crossing. Current companions and ballista custody require accounted decisions, not disappearance.",
-    "group": "E28 heist completed. Six cases returned to Dessa; 2100 new common silver remains unallocated; gang in BELLY/Zaun with Chris exterior. Continue a group-chosen objective and real consequences, not a repeat heist.",
+    "Kaze": "Group reunion completed E29. At the next authorized PLAY, briefly leave Naganeka and the original ballista behind without a quest, sale, host unlock, surprise power or prolonged farewell. Do not imply that this happened during WORK; last observed E29 location remains the harbor shelf.",
+    "group": "E29 group reunion and inland direction selected. Billy sole exterior at the Noxian harbor shelf; Kaze outside and the other present Sins inside BELLY. Samira has departed south with her recovered weapons. Six cases remain returned; 2100 new common silver stays unallocated. Continue a substantive group-chosen operation and actual consequences; no repeated reunion, heist or ballista detour.",
     "ending": "Deliver a meaningful local payoff/change in the main operation. Future hooks are supplementary, not the whole reward.",
     "romance": "ON alongside the ensemble. Use individual regional slots when actual contact permits, without a hookup checklist or diverting every Sin into Kaze's subplot."
   },
   "authority_overrides": [
     "continuity/author/Kaze_Romance_OFF_After_E26.json",
     "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
-    "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json"
+    "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
+    "continuity/author/Naganeka_Ballista_Dropped_After_E29.json"
   ],
   "encounter_register": "continuity/Runeterra_Women_Encounter_Register.json",
-  "encounter_register_sha256": "8407d3fd384242cc4f9d9c090dd92d6db72c93cc6af74d299e60897a10eaa5c4",
+  "encounter_register_sha256": "705c5cdf25ae6cb5823e85cb1940f014782634b90b90ff362de5fa13274790dd",
   "cross_movement_women_slots": [
     "RW_EVELYNN",
     "RW_KINDRED"
@@ -1122,7 +1123,7 @@
   "prepared_episode": {
     "episode": 29,
     "checkpoint": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "status": "DELIVERED_PROVISIONAL",
     "prospective_delta": {
       "completed_now": [
         "Actual coastal return and group reunion",
@@ -1131,22 +1132,22 @@
         "Heisenberg actual eyewitness-report receipt",
         "Carp stand/Inside Job continuation"
       ],
-      "next_cursor": "E30 only after exact E29 delivery is reconciled; evening harbor shelf, next inland departure still planned.",
+      "next_cursor": "E29 exact saved manuscript delivered and reconciled; next E30 at the evening harbor shelf. The originally planned inland departure remains unperformed; latest author directive replaces Naganeka future travel with a brief prospective leave-behind.",
       "pending": [
         "Actual inland departure and any town/capital arrival",
-        "Naganeka host/liberation or chosen deployment",
+        "Brief Naganeka/original-ballista leave-behind at the next authorized PLAY, followed by the group’s continuing objective; no ongoing Naganeka hook",
         "Samira weaponsmith arrival/repair and letter receipt",
         "Heisenberg wage list/payment or pursuit execution",
         "Remaining selected crossover/regional meetings and other Sins matchups",
         "Pregnancy discovery"
       ],
-      "active_outline_policy": "Prepared29 does not replace delivered28 facts until response reconciled; retain all selected future movements without automatic outcomes."
+      "active_outline_policy": "The retained prepared_episode/prospective_delta container now records reconciled delivered E29 changes, not a future draft. Author acceptance remains NOT_ASSERTED. The separate current author directive cancels Naganeka host/liberation/deployment/companion hooks without changing the immutable E29 record or enacting a discard during WORK."
     }
   },
   "playback_control": {
-    "paused": false,
-    "authorized_episode": 29,
-    "next_episode": 29,
-    "basis": "Latest user PLAY lifts prior E29 pause. E29 saved prepared; reconcile actual delivery before advancing toE30."
+    "paused": true,
+    "authorized_episode": null,
+    "next_episode": 30,
+    "basis": "E29 delivered verbatim and reconciled as DELIVERED_PROVISIONAL; acceptance NOT_ASSERTED. Current command is WORK only. E30 requires a new PLAY request; no story time or discard has occurred."
   }
 }

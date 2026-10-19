@@ -1,0 +1,53 @@
+{
+  "schema": "S7NS_SCOPED_AUTHOR_CONTROL_V1",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "effective_author_message_local": "2026-10-18T16:38:27-10:00",
+  "timezone": "Pacific/Honolulu",
+  "recorded_at_utc": "2026-10-19T02:44:19.949343+00:00",
+  "status": "AUTHOR_DIRECTIVE_CURRENT_WORK_NO_PLAY",
+  "author_instruction": "ditch the fucken ballista. what a useless fucken darkin",
+  "decision": "Drop Naganeka of Zuretta and her original ballista from the ongoing group plot and transport plans.",
+  "Naganeka_active_plot": false,
+  "ballista_group_transport_planned": false,
+  "ensemble_paused": false,
+  "supersedes": [
+    "The prospective E29 agreement to take Naganeka inland.",
+    "Active Naganeka companion, carriage-transport, host-search, liberation and deployment hooks."
+  ],
+  "scope": "Naganeka and this original ballista only; the group-led outline continues.",
+  "last_observed": {
+    "episode": 29,
+    "location": "Original wheeled ballista carriage on the bare shelf above the familiar Noxian harbor; wheels braced with stones. Kaze sits on its drawbar beside Billy.",
+    "condition": "Naganeka remains imprisoned in original weapon. No host, liberation or new ability.",
+    "evidence": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json"
+  },
+  "next_authorized_episode_execution": {
+    "status": "PENDING_PLAY_NOT_ENACTED",
+    "instruction": "At the group departure, leave the original ballista behind on the harbor shelf in one brief, clear beat and continue with the group story.",
+    "plot_rule": "No disposal quest, escort, farewell subplot, host-search, rescue, surprise upgrade or automatic return. Do not continue transporting it in BELLY or another vehicle.",
+    "future": "Naganeka stays outside active plotting unless the author explicitly reopens her thread."
+  },
+  "preservation": "E27–E29 actual encounters, dialogue, original manuscripts/checkpoints and source lore remain evidence. This prospective exit does not erase them.",
+  "WORK_effect": {
+    "story_time_advanced": false,
+    "physical_discard_enacted": false,
+    "death_destruction_or_new_owner_granted": false,
+    "new_episode_generated": false,
+    "PLAY_authorized": false
+  },
+  "episode_status": {
+    "latest_delivered": 29,
+    "delivery_status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "next_episode": 30
+  },
+  "routes": [
+    "PLAY_START_HERE.md",
+    "continuity/DELIVERY_LEDGER.json",
+    "continuity/CURRENT.json",
+    "continuity/SEASON3_ACTIVE_OUTLINE.json",
+    "continuity/SEASON3_NEXT.md",
+    "continuity/REFERENCE_OVERLAY.json"
+  ],
+  "previous_main_commit": "d71c4b099a76140e06ebab4942cb3532ee25952b"
+}

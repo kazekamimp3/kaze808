@@ -411,20 +411,22 @@
       "checkpoint": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json",
       "checkpoint_sha256": "c2477d40c92f9694eff61a3db5ce273a69eeae3a67415d9ff9cde975a0d2c521",
       "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
-      "delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "DELIVERED_PROVISIONAL",
       "author_acceptance": "NOT_ASSERTED",
-      "delivery_basis": "New PLAY authorized; complete reviewed episode saved before final response. Do not promote until actual delivered text matches.",
+      "delivery_basis": "Exact reviewed E29 delivered in this conversation; see continuity/episodes/E29/DELIVERY_RECONCILIATION.json. Acceptance remains NOT_ASSERTED.",
       "predecessor_sha256": "761b672c08c3a7b6ca21585a0f25b0426d6b88342a3084800fab49e8e3dae332",
       "drive": {
         "manuscript": "1v_2JcQ0tEEbDUNvw9-SlH6TGeRjeOZa8",
         "checkpoint": "1KkiEGlKU8sD8yTB9ytgiDsQnj2KHbD7j"
       },
-      "airtable_record": "recmmBtlRdPcIxUJV"
+      "airtable_record": "recmmBtlRdPcIxUJV",
+      "delivery_reconciliation": "continuity/episodes/E29/DELIVERY_RECONCILIATION.json",
+      "editorial_feedback": "Author directs dropping Naganeka/ballista from prospective group plot after E29; original episode retained."
     }
   ],
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. No historical prepared checkpoint rewritten. E21 presentation complaint remains unapplied; E23/E24 prospective encounter correction was enacted in E25, not retroactively.",
-  "current_delivered_episode": 28,
-  "next_episode": 29,
+  "current_delivered_episode": 29,
+  "next_episode": 30,
   "author_overrides": [
     {
       "path": "continuity/author/Kaze_Romance_OFF_After_E26.json",
@@ -437,13 +439,18 @@
     {
       "path": "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
       "sha256": "b6c733e56a7b42101cb26812806baaf1a37c0c9f7d5624f9b5935990203c31a7"
+    },
+    {
+      "path": "continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
+      "sha256": "6124bc13f1e884aff7c29289949bad658d4ba664c103b09138a08e0c88f8265f"
     }
   ],
-  "prepared_episode": 29,
+  "prepared_episode": null,
   "playback_control": {
-    "paused": false,
-    "authorized_episode": 29,
-    "next_episode": 29,
-    "basis": "Latest user PLAY lifts prior E29 pause. E29 saved prepared; reconcile actual delivery before advancing toE30."
+    "paused": true,
+    "authorized_episode": null,
+    "next_episode": 30,
+    "last_delivered_episode": 29,
+    "basis": "E29 delivery reconciled; current instruction is WORK author control only. Await new PLAY for E30; ensemble presentation remains active."
   }
 }
