@@ -2,8 +2,8 @@
   "schema": "S7NS_QAPX_FULL_OWNER_REHYDRATION_INTEGRITY_V1",
   "status": "GITHUB_SAVED_READBACK_NOT_PROJECT_INSTALLED",
   "physical_file": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-  "physical_bytes": 892927,
-  "physical_sha256": "dd168ca8455c0640a66f8f871be98dbeea0deb71f5e15c8681907a20d32b360a",
+  "physical_bytes": 923468,
+  "physical_sha256": "d1a70148fa96466ceb2f59073eec24e2918d274a8a6169bd3024151937902096",
   "entries": [
     {
       "module": "authority/QAPX_CURRENT_PRIORITY_20261019.md",
@@ -340,10 +340,26 @@
       "byte_length": 7540,
       "sha256": "95944f752343151ef1d423c606f611fd56280f4f0c209010845d3a621e42cb23",
       "role": "reference_evidence"
+    },
+    {
+      "module": "routing/QAPX_ROUTE_ADDENDUM_20261019.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 893021,
+      "byte_length": 15544,
+      "sha256": "5b82bc790470ea7a2cd13e89f6d95664c216099c73e4bf01caed5c6669d6b385",
+      "role": "derived_route"
+    },
+    {
+      "module": "complete_sources/QAPX_ACCESS_ADDENDUM_20261019.json",
+      "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
+      "byte_offset": 908750,
+      "byte_length": 14636,
+      "sha256": "26537e244f20b3679212ada8d1b9112e2173ee6cf1f827733eab8ab8aa85d31f",
+      "role": "derived_retrieval_view"
     }
   ],
   "baseline_original_modules": 453,
   "repoint_existing_count": 6,
-  "new_module_count": 36,
+  "new_module_count": 38,
   "original_28_bundles_untouched": true
 }
