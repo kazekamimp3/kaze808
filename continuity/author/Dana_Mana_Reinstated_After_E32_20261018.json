@@ -1,0 +1,74 @@
+{
+  "schema": "S7NS_CURRENT_DIRECT_AUTHOR_ROSTER_REINSTATEMENT_V1",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "author_instruction": "add dana and mana back in the story, they did not betray the gang.",
+  "status": "EFFECTIVE_AUTHOR_REINSTATEMENT_WORK_NO_PLAY",
+  "effective_boundary": "After delivered-provisional E32 No Horizon; new author correction applies now to active roster and forward portrayal; no scene, elapsed time, sudden move or retrospective event created by this WORK.",
+  "supersedes": {
+    "previous": "authority/Character_Removal_20261018.json and matching old PROJECT INSTRUCTIONS exclusion of dana/mana",
+    "scope": "Their removal/exclusion and all derivative source-routing bans are fully reversed by the newest explicit author direction. The old exclusion is a superseded author decision, not ongoing canon.",
+    "protect": "Preserve original removed snapshots and all nonconflicting story/character material. No artificial death, betrayal, exile, temporary expulsion or invented secret loyalty test explains the prior absence. It was an out-of-world author removal.",
+    "never_betrayed": true,
+    "does_not_cancel": "Zid's distinct, author-selected pending betrayal to TPP remains solely Zid's thread. Neither Dana nor Mana participated or was implicated."
+  },
+  "roster": {
+    "Dana": {
+      "status": "ACTIVE_LOYAL_SEVEN_SINS_MEMBER",
+      "gender": "male",
+      "age": 49,
+      "tts": "Daynuh",
+      "species": "pure Saiyan, permanent gamma-mutated baseline",
+      "baseline": "8 ft 10 in, about 840 lb; mature muscular protector/craftsman with right-side tattoos, dark coils/beard; full text visual lock controls",
+      "character": "Independent hands-on working-class protector, affectionate arguing/instigation, practical builder; complicated but steadfast loyalty to Kaze while still capable of independent ethical judgment and active disagreement; no new moral-purity adjustment",
+      "combat": "Full earned brute/boxing/grappling/striking/protection, Kahuhu signature gauntlets, Ornn/Volibear earned training, structural/impact force control, Storm Oath, appropriately available gamma/Saiyan progression through Kahuna Sovereign, with post-Sovereign states still gated. Protector-Precision and form distinctions governed by complete source and actual earned timeline.",
+      "speech": "Baseline practical, social, Brok/Kratos-derived restraint and argument, not permanent taciturn tank. In every active Kahuna/gamma form third-person Dana in Savage Hulk-derived register (without intelligence loss); exact fixed Storm Oath wording preserved."
+    },
+    "Mana": {
+      "status": "ACTIVE_LOYAL_SEVEN_SINS_FAMILY_MEMBER_INDEPENDENT_CANINE",
+      "gender": "male",
+      "age_calendar": 12,
+      "age_dog_equivalent": 84,
+      "tts": "Mahnuh",
+      "species": "Earth blue-nose pit bull, permanently canine and nonverbal",
+      "baseline": "5 ft 7 in at shoulder, about 1400 lb quadruped; blue-grey coat; normal canine tail; giant-form dimensions have source-owned unknowns",
+      "primary_relationship": "Dana's dog, bonded protective fighting partner. Kaze is not his owner. Independent senses, preferences, refusal, tracking, interaction and protective judgment; not only a kidnapped companion/weapon or human comedian.",
+      "combat": "Full established tracking/sensory, jaw/bite/spatial rupture repair where physically allowed, acoustic and gamma-guardian options; earned Super Saiyan/Giant/Giant Super Saiyan and approved earned gamma stages as source/status permits. No Ki system or borrowed Dana/Saiyan ancestry; no extra unlocked form invented.",
+      "communication": "Observable canine posture, gaze, paws, scent and body behavior. Bounded silent fourth-wall awareness remains; no human speech, script reading, telepathy or translated internal monologue."
+    },
+    "membership": "Immediately restore both to the recognized ongoing Sins family/roster. No gang admission vote, first-meeting introduction, oath or reacquisition of lost powers needed. 'The Seven Sins' is a family name, not a numerical population cap. Chris and Billy still share one exterior body but are distinct people; other members unchanged."
+  },
+  "source_of_truth": {
+    "complete_mechanic_owner": "canon/characters/dana_mana.md",
+    "dedicated_voices": [
+      "character_sources/Dana_Character_Source.txt",
+      "character_sources/Mana_Character_Source.txt"
+    ],
+    "support": [
+      "research_sources/Dana_Brok_Speech_Research.txt",
+      "character_sources/Sins_Group_and_Reputation_Source.txt",
+      "topic_sources/Group_Relationships.txt",
+      "canon/characters/s37_kit_application.md"
+    ],
+    "library_origin": {
+      "Dana": "Library: Dana_Character_Source_COMPLETE.txt and original Dana_Character_Source.txt",
+      "Mana": "Library: Mana_Character_Source_COMPLETE.txt and original Mana_Character_Source.txt",
+      "shared": "Library: dana_mana(9).md"
+    },
+    "verified_restored_sha256": {
+      "canon/characters/dana_mana.md": "98e37eea922e48178bafeffaa53171bfd8edd83f424d10130a0ad4ab81641527",
+      "character_sources/Dana_Character_Source.txt": "442c58b284a331c52ea894b248a96b47df3fa7fa4e6df32d8999ef4b1b1331be",
+      "character_sources/Mana_Character_Source.txt": "b0a8113e4c5879de4fb47bef8553322248a6c6de9465b46ef2342a3268f9233f"
+    },
+    "chronology_limit": "These preserved owner files contain historical D70/old temporal-relaunch pointers. They provide established mechanics, voice and relationships, not direct evidence of present E32 location or that an old-branch fight happened in this reset. The latest actually delivered branch controls current time and location. No retrospective source migration grants plot rewards, powers from another person or all earlier unplayed duels."
+  },
+  "return_to_active_story": {
+    "last_delivered": "E32 No Horizon, early afternoon at Noxian harbor; Billy inside BELLY, Chris exterior with Kaze/Arthur/Daniel at Hessa's Rook. TPP has left harbor office with stolen ledger; Zid's future betrayal still pending.",
+    "dana_mana_last_confirmed_current_location": "UNRESOLVED_FROM_DELIVERED_E19_TO_E32; removal erased their recent scene trail. Their offscreen location, recent actions, possessions, wounds and direct knowledge cannot be guessed from roster reinstatement.",
+    "next_play": "Include Dana and Mana as existing loyal Sins in meaningful active storyline at the earliest causally supported opportunity. Establish their actual approach/meeting via legitimate time and geography rather than an unexplained teleport. Do not force the next episode into a recruitment ceremony or recovery quest; reintroduce naturally through authentic choices/relationships. If missing position is consequential, hold only location-dependent details until actual scene establishes them.",
+    "past_episodes": "Preserve E19-E32 exact delivered manuscripts unchanged. The author's new declaration does not automatically place them in scenes previously written without them; no betrayal or expulsion is implied by absence."
+  },
+  "other_active_configuration": "Sins full kit and speech fidelity, Mimir 140 options, player Kaze no alcohol, independent Noxian/crossover lives, World Serpent global scale and TPP rivalry remain intact.",
+  "no_play": true,
+  "no_story_time_advanced": true,
+  "author_acceptance_of_E32": "NOT_ASSERTED"
+}
