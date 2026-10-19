@@ -6,7 +6,7 @@
   "manuscript": "continuity/episodes/E32/S3_Episode_32_No_Horizon.txt",
   "manuscript_sha256": "2ecb5636e02885b90e07b222a18b6865961173fecd7ca5a79424cc220b1849ad",
   "author_override": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
-  "KAZE_ROMANCE_ENABLED": true,
+  "KAZE_ROMANCE_ENABLED": false,
   "Briar_stays": false,
   "Briar_active_plot": false,
   "ensemble_paused": false,
@@ -141,7 +141,11 @@
     "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
     "continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
     "continuity/author/World_Serpent_and_Autonomous_S3_Roster_After_E31_20261018.json",
-    "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json"
+    "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
+    {
+      "path": "continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json",
+      "status": "LATEST_AUTHOR_OVERRIDE"
+    }
   ],
   "carried_forward_unstaged": {
     "Orren": {
@@ -346,5 +350,19 @@
   },
   "current_author_directive": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
   "current_character_driven_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json#actor_driven_outline_revision",
-  "current_noxus_crossover_choice_guide": "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md"
+  "current_noxus_crossover_choice_guide": "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md",
+  "latest_author_TPP_and_romance": "continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json",
+  "TPP_Tracy_identity": {
+    "physical_person": "Tracy Morgan",
+    "false_public_identity": "Busta Rhymes",
+    "name_used": "Brusta Thymes",
+    "Brian": "fictional miniature adult conjoined person, not Brian Griffin",
+    "change_type": "author identity revelation, not prior episode rewrite"
+  },
+  "Clifford_upcoming_reconstruction": {
+    "status": "AUTHOR_SELECTED_FUTURE_NOT_ENACTED",
+    "patient": "adult Jack Clifford Marston, not John Marston or Anakin Skywalker",
+    "reveal": "Vader-style surgical misdirection, final Clifford reveal",
+    "walk": "earned through source-bounded operation and mechanical components, with costs/limitations"
+  }
 }
