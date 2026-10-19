@@ -1,0 +1,97 @@
+{
+  "schema": "S7NS_SCOPED_NARRATION_RUNETERRA_SOURCE_REVIEW_V1",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "status": "SOURCE_COMPARISON_AND_TARGETED_EXTERNAL_CROSSCHECK; NOT_EXHAUSTIVE_SEASON_AUDIT",
+  "mode": "WORK_NO_PLAY",
+  "user_requests": [
+    "Check Black Mimir conversational storytelling, speech fidelity and 120+ techniques in recent delivery",
+    "Check fidelity of Runeterra world and region/lore depiction"
+  ],
+  "preserved_owners": [
+    "character_sources/Black_Mimir_Narration_Source.txt",
+    "canon/presentation/PRESENTATION.md",
+    "topic_sources/Narration_and_Episode_Presentation_Source.txt",
+    "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+    "topic_sources/Runeterra_World_and_Travel_Source.txt",
+    "reference/research/Noxus_Cast_Fidelity_Research.md",
+    "reference/research/Runeterra_Travel_and_Noxus_Geography_Audit.md",
+    "character_sources/season3/Katarina_Character_Source.txt",
+    "continuity/episodes/E30/S3_Episode_30_The_Right_of_Passage.txt",
+    "continuity/episodes/E31/S3_Episode_31_Dead_Money.txt"
+  ],
+  "narration": {
+    "actual_catalog": "PRESENTATION.md authorizes 140 optional/cataloged techniques: 20 core approved plus 120 additional variants, selectively chosen by actual scene need; catalog existence is not proof implementation.",
+    "voice_baseline": "Black Mimir is sole first-person ordinary narrator post-Ragnarok/post-Valhalla with Scottish/Celtic and Chicago personal rhythm, insight, skepticism, unexpected emotional generosity, fallibility and situational profanity. He has no physical exterior body, scene-file awareness, future knowledge, automatic private access or actor-knowledge transfer. Billy alone narrates specials; Deadpool's prior one-time hijack is already completed.",
+    "comparisons": [
+      {
+        "episode": 30,
+        "observed": "Mostly neutral third-person action and explanatory transitions, with an occasional 'Aye' and moral aside; repeated defensive lines explaining what is not happening.",
+        "finding": "Narration is legible but his subjective voice, digressions, sharp first-person judgments, misapprehensions and recoveries are too scarce; 'Aye' alone does not constitute Black Mimir."
+      },
+      {
+        "episode": 31,
+        "observed": "'Somebody had killed their ransom' is an effective outcome-first cold opening. 'I'd been wondering how long they could make a dead man look wealthy instead of dead' briefly reveals the narrator's present personal amused speculation.",
+        "finding": "Two distinctive beats amid mostly neutral scene and speech attributions. The opening is a valid information-control hook; not proof of 140-tool implementation. The sequel seldom exploits purposeful parallelism, focalized misread, selective delay, dialogue subtext, changing motif, genuine danger-to-comedy modulation or evolving callbacks."
+      }
+    ],
+    "failure_mode": "Technique library retrieval was treated as a checklist capability, not a scene/paragraph design toolkit, while audience heard straightforward neutral battle summary, repetitive transition/exposition, stand-alone quips and little developed subjective storytelling.",
+    "repair": "Begin from narrative question and live focalizer; choose zero to few fitting techniques (not mandated each scene), and perform them through Mimir's genuine curiosity, uncertainty, misleading-but-fair expectation, remembered grievance, sharp witnessed specificity, personal interruptions and earned vulnerable humor. Let dialog information asymmetry, status reversal, scene-to-scene rhyme, spoken motif, tempo and listener information be real causal tools. Full-text review must quote actual successful or failed passage and its replacement; avoid narrator narrating technique names or production rules.",
+    "passage_examples": [
+      "E31 hook: 'Somebody had killed their ransom.' stands as one compressed outcome-first technique.",
+      "E31 'I'd been wondering...' offers authentic first person but no extended subjective role beyond that.",
+      "E30 repeats status/access disclaimers that production review should handle instead of audience-facing exposition."
+    ],
+    "claim_limit": "No measured audio, formal counting of every technique on the page, or external audition of Alastair Duncan performance. No 140/140 use required."
+  },
+  "runeterra": {
+    "external_sources": [
+      {
+        "title": "Riot Universe official Noxus region",
+        "url": "https://universe.leagueoflegends.com/en_US/region/noxus/"
+      },
+      {
+        "title": "Riot Katarina champion official",
+        "url": "https://www.leagueoflegends.com/en-gb/champions/katarina/"
+      },
+      {
+        "title": "Riot Universe Riven biography",
+        "url": "https://universe.leagueoflegends.com/en_US/story/champion/riven/"
+      },
+      {
+        "title": "Riot Universe Sisterhood of War",
+        "url": "https://universe.leagueoflegends.com/en_US/story/sisterhood-of-war-i/"
+      },
+      {
+        "title": "Riot Universe LeBlanc biography",
+        "url": "https://universe.leagueoflegends.com/en_US/story/champion/leblanc/"
+      }
+    ],
+    "confirmed_fits": [
+      "Official Noxus has many independent warbands and strength-based social mobility; S31 hired mercenary company's pay dispute is locally plausible original fiction, not a named canon event.",
+      "Military weapons, fortified settlements, opportunistic private houses and covert plotting fit Noxus themes in broad terms.",
+      "Katarina is canonically decisive, extremely skilled and mission-driven; an independent assassination can be compatible as invented crossover scenario, but Odran and Veylan are not externally verified lore characters."
+    ],
+    "material_gaps": [
+      "The Noxian culture as actually heard on E30–31 is mostly an interchangeable guard/mercenary roadblock, an isolated bridge, generic rich lord house and standard courtyard firefight; missing meritocracy-versus-nobility tension, mixed-origin warbands, individual soldier motivations, magical talent, frontier assimilation, architecture and strategic faction pressure.",
+      "The E30 bridge dispute has a generic captain and refugees without enough distinct Noxian warmasons, engineering interests, regional stakes or credible institutional consequences to communicate why this is Noxus rather than another medieval state.",
+      "E31 invents 'provincial governor', assassination order, paid company and a strongroom without source-based specific Noxian legal/command structure. They may be legitimate branch fiction but must NOT be stated as established Riot facts. Their precise regional locale and legal authority remain unsupported.",
+      "Katarina's E31 narrow daggers/competence/duty are compatible broadly, but no developed examination of her unique Du Couteau, Swain/Black Rose Noxian political identity or Shunpo/assassin kit; mission reason invented for this branch, not certified lore."
+    ],
+    "not_established_as_canon_contradictions": [
+      "Generic original named Noxian mercenary captain and lord are not independently a lore contradiction merely because Riot has no Odran/Veylan.",
+      "Presence of invented bribery and court plot is compatible speculative crossover plotting unless portrayed as preexisting known Riot event.",
+      "Lack of a source mention in one story is not proof of canonical nonexistence."
+    ],
+    "priority": "Before entering any Runeterra region, retrieve actual region/place/faction/character owner and selected chronology; distinguish Riot fact, current branch divergence, original invention and unverified inference. Carry distinctive terrain, class, magic, economic/military institutions and native competing actors into real choices, not narrator lecture. Preserve portal/travel/geography limits and source-specific ability rules.",
+    "coverage": "Focused latest E30–31 Noxus against primary Riot sources; NOT a full Seasons1–3 scene-by-scene Arcane, every region, every champion or canon timeline verification."
+  },
+  "cross_work": {
+    "related": [
+      "continuity/author/Zid_Betrayal_TPP_Author_Direction_After_E31.json",
+      "continuity/editorial/Sins_Speech_Behavior_Audit_After_E31_20261018.json",
+      "continuity/author/Sins_Full_Kit_Utilization_After_E31.json"
+    ],
+    "playback": "Paused E32. Zid's betrayal/TPP joining is an author-selected FUTURE enacted development, not something E31 secretly accomplished. Do not invent travel."
+  },
+  "result": "Source owner recovery and live manuscript comparisons give clear repairs. Their effectiveness remains UNTESTED until a subsequently reviewed episode."
+}
