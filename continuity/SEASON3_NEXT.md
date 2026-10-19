@@ -1,3 +1,7 @@
+# Current continuation overlay after delivered E31
+
+The dated E29 heading below is preserved historical orientation, not the current cursor. E31 `Dead Money` was delivered; E32 is paused during author corrections. Author kit-use priority is `continuity/author/Sins_Full_Kit_Utilization_After_E31.json`, loaded via PLAY_START_HERE.md and full existing character owners. Preserve Arthur's **TWO UNSHAKEN revolvers, HIGH NOON, THE COUNT, eye, kinetic bank and entire current body/charging architecture** and the other Sins' complete valid toolkits. No mandatory ability quota or newly awarded systems. Preserve exact E31 body/time/resources and existing playback/author controls. The remainder of this file remains dated E29 context where it conflicts.
+
 # Season 3 — group-led continuation after Episode 29
 
 Episode 29, Personal Property, is DELIVERED_PROVISIONAL; author acceptance remains NOT_ASSERTED. Its exact reviewed manuscript was delivered unchanged. Next is Episode 30 when PLAY is requested. Read the matching E29 manuscript/checkpoint, current ledger and latest scoped author directive at `continuity/author/Naganeka_Ballista_Dropped_After_E29.json`, together with the retained romance/ensemble control at `continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json`.
