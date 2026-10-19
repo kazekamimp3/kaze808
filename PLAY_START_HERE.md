@@ -1,5 +1,11 @@
 # Connected S7NS startup and PLAY
 
+## Interrupted Episode 31: resume saved work first
+
+Read `continuity/episodes/E31/RESUME_CHECKPOINT.json` and `continuity/episodes/E30/DELIVERY_RECONCILIATION.json` before older cursor labels below. Episode 30, The Right of Passage, was delivered in this conversation; acceptance remains NOT_ASSERTED and the author's pacing/staging criticism remains active. The subsequent PLAY for Episode 31 returned Thinking failed, with no new episode delivered. That prior authorization is retained as pending; the latest SAVE produced no new playback.
+
+The saved handoff pins Chris outside and Billy full-sized inside at the E30 inland-road endpoint. The ballista was already left behind. Preserve the exact E30 manuscript/checkpoint and existing source/research work. Resume the recorded unfinished CURRENT/ledger/outline/reference alignment, then E31 source-backed construction; do not replay E30, reset the season, manufacture a recovered draft or repeat completed audits. Existing E29-delivered/E30-prepared wording below and in not-yet-aligned reference copies is pre-reconciliation history, not the live story endpoint. Full cross-service alignment and an E31 draft are not yet claimed complete.
+
 ## Resolve the real endpoint first
 
 1. Read this file from the existing `kazekamimp3/kaze808` default branch, plus `integrations/registry.json`. Reuse its exact Airtable base, Notion hub/sections and Drive folders. Do not create substitutes.
