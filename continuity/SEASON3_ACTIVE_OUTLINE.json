@@ -1083,7 +1083,7 @@
   "pre_solo_schedule_provenance": "Unmodified prior outline preserved in rollback; current scheduling below overrides stale E17/E18 cursor and pending-introduction claims.",
   "focus_mode": "ENSEMBLE",
   "romance_owner": "canon/relationships/Kaze_Adult_Romance_20261018.md",
-  "KAZE_ROMANCE_ENABLED": true,
+  "KAZE_ROMANCE_ENABLED": false,
   "solo_schedule": {
     "status": "SUPERSEDED_BY_ENSEMBLE_RESUME_AFTER_E27",
     "authority": "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
@@ -1135,7 +1135,8 @@
     "continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
     "continuity/author/World_Serpent_and_Autonomous_S3_Roster_After_E31_20261018.json",
     "continuity/author/Recurring_Living_Roster_Encounters_After_E31_20261018.json",
-    "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json"
+    "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
+    "continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json"
   ],
   "encounter_register": "continuity/Runeterra_Women_Encounter_Register.json",
   "encounter_register_sha256": "705c5cdf25ae6cb5823e85cb1940f014782634b90b90ff362de5fa13274790dd",
@@ -1279,5 +1280,19 @@
     "TPP may try to monetize its stolen ledger while Sins pursue independent theft; they can compete over a buyer only after actual access.",
     "Thor and the serpent have an actual E32 no-throw history; a later encounter should build on that choice, not reset a compulsory duel."
   ],
-  "outline_semantic_coverage_note": "The 25 selected current Noxian/crossover actor profiles have individual source-bounded psychological decision gates in the connected guide; 112 operative/extended and 70 female champion profiles in the S7NS Library are supplemental full reference, NOT evidence all 182 have been independently audio-verified or deployed. Source phase and gaps retained; unselected contexts are not treated as current plot."
+  "outline_semantic_coverage_note": "The 25 selected current Noxian/crossover actor profiles have individual source-bounded psychological decision gates in the connected guide; 112 operative/extended and 70 female champion profiles in the S7NS Library are supplemental full reference, NOT evidence all 182 have been independently audio-verified or deployed. Source phase and gaps retained; unselected contexts are not treated as current plot.",
+  "latest_author_TPP_and_romance": "continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json",
+  "TPP_Tracy_identity": {
+    "physical_person": "Tracy Morgan",
+    "false_public_identity": "Busta Rhymes",
+    "name_used": "Brusta Thymes",
+    "Brian": "fictional miniature adult conjoined person, not Brian Griffin",
+    "change_type": "author identity revelation, not prior episode rewrite"
+  },
+  "Clifford_upcoming_reconstruction": {
+    "status": "AUTHOR_SELECTED_FUTURE_NOT_ENACTED",
+    "patient": "adult Jack Clifford Marston, not John Marston or Anakin Skywalker",
+    "reveal": "Vader-style surgical misdirection, final Clifford reveal",
+    "walk": "earned through source-bounded operation and mechanical components, with costs/limitations"
+  }
 }
