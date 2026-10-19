@@ -1,0 +1,51 @@
+{
+  "schema": "S7NS_AUTHOR_MAIN_NARRATOR_AND_TPP_RIVALRY_V1",
+  "mode": "WORK_NO_PLAY_NO_RETROACTIVE_CHANGE",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "last_delivered": {
+    "episode": 32,
+    "title": "No Horizon",
+    "delivery": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED"
+  },
+  "next_episode": 33,
+  "author_instructions": [
+    "DEADPOOL AS NARRATOR. DO FULL SPEECH FIDELITY RESEARCH. NOW.",
+    "Blend Rick's maximum foul-mouthed contempt, absurd digressions, chaotic intelligence and vicious commentary into Wade selectively; preserve recognizable Deadpool priority rather than generic hybrid or Black Mimir remaining primary.",
+    "All living eligible Season 3 Runeterran, Noxian and crossover rosters may encounter TPP, not only the Sins.",
+    "Zid's selected betrayal and eventual TPP membership power elaborate stupid, consequential plans against Sins.",
+    "Keep catastrophic absurdism, grotesque BELLY roommate comedy, improvisational verbal warfare, sudden sincerity and completely committed stupidity."
+  ],
+  "narration": {
+    "new_primary": "DEADPOOL / WADE WILSON is sole ordinary main-episode narrator starting next authorized E33.",
+    "source_era": "post-Deadpool & Wolverine apartment reunion with independently enacted E19 paid Noxian work. Narrow E19 hijack is completed, not replayed.",
+    "prior_primary": "Black Mimir retains canon identity, personality and preserved finished narration; he retires from ordinary narrator duty prospectively. No forced death, new in-world narrator contest or transferred memory.",
+    "style": "Ryan Reynolds film Deadpool's audience confidence, fast associative vulgar wit, mercenary pragmatism, inventive filth, self-contradiction, insecurity, real loneliness and vulnerable concern. Rick's fierce, intellectually specific contempt and cynical cosmic perspective selectively influence commentary but never displace Wade's recognizable voice.",
+    "override": "Supersedes older Black-Mimir-only and Deadpool-once-only main narration restrictions AFTER E32 only. Older material retains original factual and authored form.",
+    "narrator_vs_actor": "Extradiegetic Wade narrator may tell already enacted and source-supported scenes and address audience. The embodied Deadpool is not newly omniscient or given private BELLY access, future manuscript, other characters' thoughts, teleportation or control of any outcome. Interpreting things unreliably is allowed; reporting invented death, power or event as fact is not.",
+    "techniques": "Transfer all 140 optional approved techniques from canon/presentation/PRESENTATION.md; apply selectively through Wade's voice, keeping full TTS orientation, objective scene geography, actual character agency and sole scene doctrine.",
+    "specials": "Existing Billy-narrated campfire Specials remain separately Billy's first-person voice unless later explicitly changed.",
+    "other_entities": "Rick remains an independently acting nonmember crossover character, not hidden Wade co-narrator. Mimir no longer must reclaim any narration.",
+    "research": "research/Deadpool_Primary_Narrator_Full_Speech_and_Rick_Contrast_20261019.md",
+    "claim_limits": "Comprehensive study of accessible film scripts/film-dialogue transcripts and writer interviews. No measured audio or exhaustive scene viewing."
+  },
+  "tpp": {
+    "existing": "Dutch, Clifford (adult Jack Marston), Tracy Morgan wrongly called Busta/Brusta, original miniature adult human Brian conjoined to Tracy. Tracy is furious, trapped, resents gang. Other chosen adult and child TPP recruits remain prospective until actual entrance.",
+    "zid": "Zid WILL enact selected Sins betrayal and join TPP through actual access and a consequential choice, not secret offscreen prior membership. Sid-dominant fused person with insecure approval need drives elaborate anti-Sins planning. TPP members independently accept/reject particular ideas; no instant secret knowledge, no guaranteed success.",
+    "all_rosters": "TPP may encounter geographically available living Sins, Noxus actors, extended Runeterra regional factions, Heisenberg-connected Zaun people, Bilgewater, Darkin hosts, surviving crossover cast, WTF additions, civilians and other factions as motivations collide. Completed first meetings don't retire anybody. No teleport, obligatory cameos or universal knowledge.",
+    "plans": "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md",
+    "plan_rules": "Start with a valid objective, actual property and access, several competing selfish planners, an absurd mechanism, independent target choices, tangible gain/loss and a causally earned humiliating or dangerous reversal. Plans do not guarantee completion.",
+    "surgery": "Clifford's off-brand Vader waking/walking reconstruction remains future not completed. No real Anakin or John Marston body.",
+    "age": "Cartman, Jimmy and Timmy remain minors, independent and nonsexual."
+  },
+  "belly": "Master Shake and Frylock prospectively join real BELLY unwanted household with Charles and Meatwad; real inventory and Chris/Billy one-exterior rules apply.",
+  "preserve": [
+    "Kaze romance OFF",
+    "Dana/Mana reinstated loyal and never betrayed",
+    "Yormungander literal Runeterra world encirclement delivered E32",
+    "No future roster encounter auto-completion",
+    "E1-E32 original manuscripts untouched",
+    "Episode33 unplayed"
+  ],
+  "status": "AUTHOR_CUTOVER_SELECTED_AND_RESEARCH_SAVED_EFFECTIVENESS_NOT_YET_TESTED"
+}
