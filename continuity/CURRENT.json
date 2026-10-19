@@ -1,6 +1,6 @@
 {
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "E31 Dead Money DELIVERED_PROVISIONAL, author acceptance NOT_ASSERTED; after E31 world-scale serpent and autonomous cast author configuration, E32 paused",
+  "as_of": "E31 delivered provisional; E32 No Horizon exact reviewed pair PREPARED for authorized PLAY, not yet delivered or accepted.",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
   "checkpoint": "continuity/episodes/E31/S3_Episode_31_Checkpoint.json",
   "manuscript": "continuity/episodes/E31/S3_Episode_31_Dead_Money.txt",
@@ -117,7 +117,19 @@
     "no_play": true
   },
   "scope": "Current connected pointer through actually delivered E31; older state preserved for provenance, not automatically current. E32 paused, no draft or story event inferred.",
-  "prepared_episode": null,
+  "prepared_episode": {
+    "episode": 32,
+    "title": "No Horizon",
+    "manuscript": "continuity/episodes/E32/S3_Episode_32_No_Horizon.txt",
+    "manuscript_sha256": "2ecb5636e02885b90e07b222a18b6865961173fecd7ca5a79424cc220b1849ad",
+    "checkpoint": "continuity/episodes/E32/S3_Episode_32_Checkpoint.json",
+    "checkpoint_sha256": "f85963d42eaa3aac908b24df3dc8523d3854e66ea68977089908257fe93da9b6",
+    "review": "continuity/episodes/E32/S3_Episode_32_Review.json",
+    "body_words": 4454,
+    "estimated_minutes_at_150_wpm": 29.69,
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED"
+  },
   "checkpoint_sha256": "fb0623fe82036330e90f850d42530f0875e0012dca74b9087d86a553cb8fc698",
   "author_overrides": [
     "continuity/author/Kaze_Romance_OFF_After_E26.json",
@@ -144,11 +156,11 @@
     "qualification": "Last witnessed evidence, not freeze or new observation. Samira letter dispatch/receipt still unverified; cursed Baldur alive. Retained TPP clock advances normally; no invented payment or eviction."
   },
   "playback_control": {
-    "paused": true,
-    "authorized_episode": null,
+    "paused": false,
+    "authorized_episode": 32,
     "next_episode": 32,
     "last_delivered_episode": 31,
-    "basis": "Latest author work updates on serpent scale and actor autonomy follow E31. No E32 PLAY during these updates."
+    "basis": "Current explicit author PLAY authorizes E32. Exact reviewed E32 manuscript/checkpoint prepared and saved; E31 remains last delivered until final response rendered and delivery reconciled."
   },
   "delivery_status": "DELIVERED_PROVISIONAL",
   "delivery_reconciliation": "continuity/episodes/E31/DELIVERY_RECONCILIATION.json",
