@@ -482,5 +482,9 @@
   "QAPX_project_candidate_instructions": "project_install/20261019/S7NS_PROJECT_INSTRUCTIONS_READY.txt",
   "QAPX_project_candidate_verification": "project_install/20261019/VERIFICATION_REPORT_FINAL.json",
   "QAPX_manual_install_guide": "project_install/20261019/INSTALL_README.md",
-  "QAPX_project_install_verified": false
+  "QAPX_project_install_verified": false,
+  "author_committed_update_20261019": "continuity/author/KK_Keke_and_Zid_Scoped_Esketit_20261019.json",
+  "keke_character_owner": "character_sources/KK_Keke_Complete_Character_Source_20261019.md",
+  "current_membership_author_exception": "Zid no longer a Sin by explicit author post-E32 change; preserve historical E32 and no invented exit",
+  "keke_active_status": "Full character design approved; origin/growth and unanimous Sins admission are future unplayed"
 }
