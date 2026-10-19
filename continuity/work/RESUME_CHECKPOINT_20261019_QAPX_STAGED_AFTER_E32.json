@@ -1,0 +1,64 @@
+{
+  "schema": "S7NS_QAPX_PREP_RESUME_CHECKPOINT_V1",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "mode": "WORK_NO_PLAY",
+  "status": "COMPLETE_AUTHOR_HANDOFF_STAGED_NOT_INSTALLED",
+  "latest_author": "continuity/author/Mimir_Kratos_Chris_Stash_Clifford_Visual_QAPX_After_E32_20261019.json",
+  "last_delivered": {
+    "episode": 32,
+    "title": "No Horizon",
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED"
+  },
+  "next": {
+    "episode": 33,
+    "authorized": false,
+    "written": false,
+    "playtime_advanced": false
+  },
+  "newly_applied_sources": [
+    "canon/characters/Kratos_Mimir_Post_Valhalla_Companions_20261019.md",
+    "canon/characters/Chris_Food_Stash_20261019.md",
+    "character_sources/crossover_extended/Clifford_Marston_Visual_20261019.md",
+    "character_sources/Chris_Character_Source.txt",
+    "continuity/CURRENT.json",
+    "continuity/SEASON3_ACTIVE_OUTLINE.json",
+    "routing/Current_Roster_Kit_Overrides_20261019.json"
+  ],
+  "QAPX_STAGED": {
+    "handoff": "continuity/work/QAPX_AUTHOR_HANDOFF_20261019.md",
+    "instructions": "continuity/work/QAPX_PROJECT_INSTRUCTIONS_DRAFT_20261019.txt",
+    "replacement_plan": "continuity/work/QAPX_REPLACEMENT_PLAN_20261019.json",
+    "zip_local": "/mnt/data/S7NS_QAPX_PREP_20261019.zip",
+    "project_instructions_chars": 7866,
+    "artifacts_verified_on_github": true,
+    "original_project_files_replaced": false,
+    "project_custom_instructions_replaced": false,
+    "esketit_qapx_authorized": false
+  },
+  "covered": [
+    "E31/E32 story cursor and no acceptance",
+    "full Sins kit, speech fidelity, organized crime, member relationships",
+    "Dana and Mana restored loyal; separate Zid future betrayal",
+    "TPP full rival/crossover access, Tracy furious misidentification, Brian original adult, Clifford bent neck/stick-and-poke, future cheap Vader surgery",
+    "Kaze romance OFF and no alcohol, prior adult partner history preserved",
+    "Older mature world serpent one actor/world wrap, new independent crossovers and regional Runeterra/Noxus motives",
+    "Deadpool main narrator ONLY from E33 with Marvel Jesus/rants/Rick secondary, Black Mimir physical on post-Valhalla Kratos hip",
+    "Billy 67-year Kancho, Chris freely selected Moose signature, full complete kits, zero active Teemo and no substitute",
+    "Dana HIGH HONOR vs Chris no-honor shared interior BELLY RDR2",
+    "BELLY hoard/camera/single exterior/Charles Meatwad current Shake Frylock prospective/Pepsi bottles Reese's peanut butter Eyeholes cereal",
+    "Cartman/Coon Jimmy Timmy Dr Evil Austin Powers future TPP joining, selected new Woody Buzz Courage Johnny Bravo Shake Daffy Penguins and Frylock",
+    "Existing 140 narration techniques, 25-30 minute draft/review/reread procedure"
+  ],
+  "remaining_factual_unknowns": [
+    "Dana/Mana exact scene position relative E32 harbor",
+    "Kratos geographical movement since E26 quarry hills (Mimir attached by current author state)",
+    "Clifford surgery actual operator/medical costs and exact neck injury/tattoo placement",
+    "Uncounted new coins/food stash quantities and guest access",
+    "TPP actor recruitment, Zid betrayal and new crossover arrival scenes all unplayed"
+  ],
+  "next_allowed_work": "Only on explicit author ESKETIT QAPX check for newer matching branch, compare all current owners and active Project snapshot, generate changed replacement physical bundle files/project instructions, verify Project install or produce manual replacement instructions. No repeat completed research or work.",
+  "next_allowed_play": "Only fresh PLAY from E32 delivered endpoint to new E33 after current author source controls.",
+  "cross_service_status": "GitHub current owners and three handoff files saved/readback; Project uploaded file replacements and Project custom instructions NOT installed. Library staging packet present. Do not assert all Airtable/Notion/Drive current handoff sync.",
+  "old_checkpoint": "continuity/work/RESUME_CHECKPOINT_20261019_POST_E32_CANON_RECONCILIATION.json"
+}
