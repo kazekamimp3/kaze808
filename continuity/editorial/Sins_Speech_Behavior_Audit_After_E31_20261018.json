@@ -41,7 +41,7 @@
   },
   "overall": {
     "finding": "Significant identity compression across recent ensemble episodes. Voices are superficially distinguishable but often function as a repeating exchange of one-liners, practical objection and quick punchline. The problem parallels full-kit underuse: character-rich motivation and conversational tactics are not making consequential decisions.",
-    "important_positive": "E31 shows actual independent roles and choices: Arthur chooses bargaining with the unpaid company, Chris notices who awaits pay and changes his shot position with Teemo, Daniel offers a split to settle a conflict, and Kaze takes the score. Preserve those causal strengths rather than replacing them with monologues.",
+    "important_positive": "E31 shows actual independent roles and choices: Arthur chooses bargaining with the unpaid company, Chris notices who awaits pay and changes his shot position from what he observed, Daniel offers a split to settle a conflict, and Kaze takes the score. Preserve those causal strengths rather than replacing them with monologues.",
     "repeated_failures": [
       "Surface tic in place of full individual voice and psychological variation",
       "Same-scene and cross-episode joke structure repeats; characters answer each other's quips but seldom reframe the dispute or expose attachment, envy, pride or self-recognition",
@@ -59,10 +59,10 @@
       "forward": "Let his own 40 mechanisms inform natural conversation and choices where triggered, especially noncombat relational stakes, risk and real curiosity. Make attraction conspicuous during actual adult-female encounters without supplanting her agency. No artificial lengthy Vaas rant or forced token questions."
     },
     "Chris": {
-      "source_truth": "Chef, firearms technician, compulsive looter, RDR2 player, Phish fan and separate person from Billy. Theo-Von-informed storytelling uses bizarre specific sensory/person anecdotes arising from an observed concern, builds them conversationally, then can collapse into clarity, real emotion or technical precision. His relationship with Arthur, Billy and Teemo involves love, irritation, criticism and occasional vulnerability. Earned gunfighting and utility remain fully active.",
-      "positive": "E31: criticizes cheap wine with a concrete grotesque comparison, identifies unpaid company's incentive, and correctly repositions before shooting after Teemo's warning. E30: salvages a practical bent sight mount.",
+      "source_truth": "Chef, firearms technician, compulsive looter, RDR2 player, Phish fan and separate person from Billy. Theo-Von-informed storytelling uses bizarre specific sensory/person anecdotes arising from an observed concern, builds them conversationally, then can collapse into clarity, real emotion or technical precision. His relationship with Arthur and Billy involves love, irritation, criticism and occasional vulnerability. Earned gunfighting and utility remain fully active.",
+      "positive": "E31: criticizes cheap wine with a concrete grotesque comparison, identifies unpaid company's incentive, and correctly repositions before shooting. E30: salvages a practical bent sight mount.",
       "passage": "E31: 'Tastes like somebody washed a saddle in fruit'; 'I'm not conducting a fucking survey.' E30 repeatedly wants the adjustment mount despite Arthur's objections.",
-      "drift": "Strong narrow chef/loot quips but too little of the unusual extended associative speaking rhythm, RDR2 as lived activity, Phish taste, engineering problem solving beyond prop retrieval, or deeper two-way bond with Billy. Teemo risks becoming generic tactical HUD with a single alert.",
+      "drift": "Strong narrow chef/loot quips but too little of the unusual extended associative speaking rhythm, RDR2 as lived activity, Phish taste, engineering problem solving beyond prop retrieval, or deeper two-way bond with Billy. His rifle's independent handling and intelligence choices need direct demonstration.",
       "forward": "Develop contextual verbal reasoning or one absurd remembered/hypothetical specificity when a real conversational opening exists; other people change the thought. Honor his precise competence and relationships. Never force a meme, constant game interruption or fabricated backstory."
     },
     "Billy": {
@@ -103,11 +103,6 @@
       "source": "character_sources/Black_Mimir_Narration_Source.txt + PRESENTATION and Narration_and_Episode_Presentation_Source; source-bounded post-Valhalla identity",
       "finding": "E30 narratorial 'Aye. No sacred sporting interval...' and E31 'I'd been wondering...' offer fragments, but much narration is neutral battle prose. Scottish-and-Chicago individual wit, personal judgment and fallibility barely anchor the experience. It would be incorrect to add omniscient knowledge or profanity/ethnic address by quota.",
       "repair": "Use identifiable first-person texture, interpretive error and correction, humane insight and distinctive transition to orient new listener while leaving action geography and event truth intact."
-    },
-    "Teemo": {
-      "source": "character_sources/Teemo_Character_Source.txt and Chris owner",
-      "finding": "E31 tactical explanation changes Chris's choice, which is good; his broader resentment, persona and relationship with Chris are not meaningfully present in these two episodes. Do not inflate him into automatic aim control or another member.",
-      "repair": "Write his own independent judgments, teasing, grievances or selective cooperation when actual communication and motive allow; keep one soul-consciousness and source-valid scope."
     }
   },
   "forward_review_protocol": {
@@ -121,5 +116,9 @@
     ],
     "new_episode_status": "E32 paused; no manuscript generated or revised by this audit",
     "author_acceptance": "NOT_ASSERTED"
+  },
+  "current_author_sanitization": {
+    "priority": "authority/Character_Removal_Teemo_20261019.json",
+    "effect": "No active character portrayal or gear mind. Earlier original manuscript historical observations do not grant source existence or voice. Never write erased identity into future episodes."
   }
 }
