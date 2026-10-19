@@ -2,8 +2,8 @@
   "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
-  "current_delivered_episode": 34,
-  "next_episode": 35,
+  "current_delivered_episode": 35,
+  "next_episode": 36,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -172,15 +172,29 @@
       "author_acceptance": "NOT_ASSERTED",
       "delivery_reconciliation": "continuity/episodes/E34/DELIVERY_RECONCILIATION.json",
       "delivery_basis": "Observed full E34 chat delivery. Byte-identical equivalence to saved manuscript not machine verified, no reported E34 rendering defect."
+    },
+    {
+      "episode": 35,
+      "title": "A Controlled Environment",
+      "manuscript": "continuity/episodes/E35/S3_Episode_35_A_Controlled_Environment.txt",
+      "manuscript_sha256_recorded": "5973edf985a612fdf579fdb7dd3bd0791011c7a89e1dcdb76efe1b36f11d78c7",
+      "manuscript_git_blob_sha1": "ac3ba5e6fdfd30b59b7db2c4ad6dfa0f0c41ea0f",
+      "checkpoint": "continuity/episodes/E35/S3_Episode_35_Checkpoint.json",
+      "checkpoint_git_blob_sha1": "ac0ea9f9e4aa1c1dceaaa8b92fa5b10037499697",
+      "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_reconciliation": "continuity/episodes/E35/DELIVERY_RECONCILIATION.json",
+      "delivery_basis": "Observed complete E35 response in preceding chat; saved manuscript opening/ending match, full byte equality not externally proven."
     }
   ],
   "prepared_episode": null,
   "playback_control": {
     "paused": false,
     "authorized_episode": null,
-    "last_delivered_episode": 34,
-    "next_episode": 35,
-    "basis": "E34 delivered in chat and separately reconciled; no fresh PLAY E35. Author acceptance NOT_ASSERTED."
+    "last_delivered_episode": 35,
+    "next_episode": 36,
+    "basis": "E35 chat delivery observed and reconciled provisionally; author now requests E33–35 feature presentation audit; E36 not authorized."
   },
   "latest_scoped_author": "continuity/author/KK_Keke_and_Zid_Scoped_Esketit_20261019.json",
   "current_author_configuration": {
@@ -195,5 +209,6 @@
   "original_manuscripts_or_checkpoints_rewritten": false,
   "project_ui_installation_performed": false,
   "latest_editorial_feedback": "continuity/author/Deadpool_Deep_Fidelity_E34_Quality_Direction_20261019.json",
-  "narrator_research": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md"
+  "narrator_research": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
+  "latest_feature_editorial_direction": "Author agrees to feature-length revised E33–35 presentation; separate revision should preserve original episode manuscripts/checkpoints, no automatic author acceptance or retcon."
 }
