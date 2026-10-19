@@ -22,7 +22,7 @@
     "prior_primary": "Black Mimir retains canon identity, personality and preserved finished narration; he retires from ordinary narrator duty prospectively. No forced death, new in-world narrator contest or transferred memory.",
     "style": "Ryan Reynolds film Deadpool's audience confidence, fast associative vulgar wit, mercenary pragmatism, inventive filth, self-contradiction, insecurity, real loneliness and vulnerable concern. Rick's fierce, intellectually specific contempt and cynical cosmic perspective selectively influence commentary but never displace Wade's recognizable voice.",
     "override": "Supersedes older Black-Mimir-only and Deadpool-once-only main narration restrictions AFTER E32 only. Older material retains original factual and authored form.",
-    "narrator_vs_actor": "Extradiegetic Wade narrator may tell already enacted and source-supported scenes and address audience. The embodied Deadpool is not newly omniscient or given private BELLY access, future manuscript, other characters' thoughts, teleportation or control of any outcome. Interpreting things unreliably is allowed; reporting invented death, power or event as fact is not.",
+    "narrator_vs_actor": "LATEST override: Narrator Wade is extradiegetic and has NO embodied appearances from E33 onward. E19 bodily encounter stays historical; no new physical Wade contact, information acquisition, fights or residence.",
     "techniques": "Transfer all 140 optional approved techniques from canon/presentation/PRESENTATION.md; apply selectively through Wade's voice, keeping full TTS orientation, objective scene geography, actual character agency and sole scene doctrine.",
     "specials": "Existing Billy-narrated campfire Specials remain separately Billy's first-person voice unless later explicitly changed.",
     "other_entities": "Rick remains an independently acting nonmember crossover character, not hidden Wade co-narrator. Mimir no longer must reclaim any narration.",
@@ -32,7 +32,7 @@
   "tpp": {
     "existing": "Dutch, Clifford (adult Jack Marston), Tracy Morgan wrongly called Busta/Brusta, original miniature adult human Brian conjoined to Tracy. Tracy is furious, trapped, resents gang. Other chosen adult and child TPP recruits remain prospective until actual entrance.",
     "zid": "Zid WILL enact selected Sins betrayal and join TPP through actual access and a consequential choice, not secret offscreen prior membership. Sid-dominant fused person with insecure approval need drives elaborate anti-Sins planning. TPP members independently accept/reject particular ideas; no instant secret knowledge, no guaranteed success.",
-    "all_rosters": "TPP may encounter geographically available living Sins, Noxus actors, extended Runeterra regional factions, Heisenberg-connected Zaun people, Bilgewater, Darkin hosts, surviving crossover cast, WTF additions, civilians and other factions as motivations collide. Completed first meetings don't retire anybody. No teleport, obligatory cameos or universal knowledge.",
+    "all_rosters": "TPP may encounter all geographically accessible living relevant S3 roster EXCEPT physically unavailable narrator-only Deadpool. Narrator's comments are not TPP testimony or physical meetings.",
     "plans": "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md",
     "plan_rules": "Start with a valid objective, actual property and access, several competing selfish planners, an absurd mechanism, independent target choices, tangible gain/loss and a causally earned humiliating or dangerous reversal. Plans do not guarantee completion.",
     "surgery": "Clifford's off-brand Vader waking/walking reconstruction remains future not completed. No real Anakin or John Marston body.",
@@ -49,5 +49,13 @@
     "E1-E32 original manuscripts untouched",
     "Episode33 unplayed"
   ],
-  "status": "AUTHOR_CUTOVER_SELECTED_AND_RESEARCH_SAVED_EFFECTIVENESS_NOT_YET_TESTED"
+  "status": "AUTHOR_CUTOVER_SELECTED_AND_RESEARCH_SAVED_EFFECTIVENESS_NOT_YET_TESTED",
+  "superseded_physical_actor_claims_after_E32": {
+    "newest": "continuity/author/Deadpool_NarratorOnly_Dana_Chris_RDR2_After_E32_20261019.json",
+    "effective": "E33 onward",
+    "status": "Deadpool is sole main narrator ONLY; all older permission for physical E33+ employment, travel or reencounters is RETIRED",
+    "historical": "E19 physically present paid introduction remains in delivered history",
+    "rants": "Marvel Jesus identity boast, spectacular reactive digressions; Wade personality primary, Rick-like venom secondary",
+    "no_play": true
+  }
 }
