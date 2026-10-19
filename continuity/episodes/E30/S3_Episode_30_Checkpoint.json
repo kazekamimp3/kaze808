@@ -21,7 +21,7 @@
     "connected_reads": "GitHub startup, CURRENT, E29 checkpoint, ledger, latest outline, Notion episode index, Airtable base search, Drive E29 manuscript metadata"
   },
   "manuscript": "S3_Episode_30_The_Right_of_Passage.txt",
-  "manuscript_sha256": "4b1770f5a511e049c97c37f00ed2150d8c636e91b0f0d61d032dafe4663aa337",
+  "manuscript_sha256": "32dcc04c32d793b82cc8eb4737bbe10f19a22745f7b57d328bbe8cee54f4ad2f",
   "time": {
     "opening": "Morning after E29 at Noxian harbor shelf",
     "elapsed": "Morning inland road to ravine by midday; crossing dispute into afternoon; no additional overnight",
@@ -84,7 +84,7 @@
     "no_ballista_return": true
   },
   "review_file": "S3_Episode_30_Review.json",
-  "word_count": 4489,
+  "word_count": 4491,
   "assumed_wpm": 150,
-  "estimated_minutes": 29.93
+  "estimated_minutes": 29.94
 }
