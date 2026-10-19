@@ -1,0 +1,40 @@
+{
+  "schema": "S7NS_KK_ZID_SCOPED_ESKETIT_20261019",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "mode": "COMMITTED_AUTHOR_CONFIGURATION_WORK_NO_PLAY",
+  "as_of": "2026-10-19",
+  "authority": "Explicit author ESKETIT after scope-locked staging",
+  "new_owner": "character_sources/KK_Keke_Complete_Character_Source_20261019.md",
+  "keke": {
+    "design": "APPROVED_CURRENT_CHARACTER_DESIGN",
+    "name": "Keke",
+    "display": "K.K.",
+    "pronunciation": "kay kay (TTS unverified)",
+    "height_feet": 20,
+    "species": "Groot species lineage distinct hybrid; NO Marvel mutant; second component unknown",
+    "origin": "Future: Chris mistakenly buys rare seed, gardens and waters inside BELLY; next day full-grown 20 foot K.K.; no growth enacted in E1-E32",
+    "powers": "All 10 listed wood/elongation/root/regeneration/hollow/projectile/multi-arm/heartwood/canopy/stealth abilities plus physical compression, diverse plants, biohealing/support; limits source-bound",
+    "personality": "Tree-first worldview, offbeat warm/uncanny speech, Salad Fingers/Old Gregg/Bill Cipher/Jiraiya nonpervy/OPAL atmosphere, learns from bad influences, independently adopts some Kaze ruthlessness and impatience",
+    "membership": "AUTHOR-SELECTED FUTURE NEW SIN; not yet born, met or unanimously admitted in delivered branch"
+  },
+  "zid": {
+    "author_membership_now": "NOT A SIN",
+    "effect": "Removes Zid from prospective current Sins roster on authority level; prior E32 membership remains historical record",
+    "future_tpp": "Former planned Sin betrayal and dependent forced TPP enlistment CANCELLED; future voluntary TPP involvement only if independently authored later",
+    "historical": "Do not retroactively rewrite deliveries, insert exit scene, kill/erase Zid or alter his original fused Zion/Sid identity",
+    "location": "Unknown; author status change is not enacted travel"
+  },
+  "preservation": {
+    "delivered_latest": 32,
+    "status": "DELIVERED_PROVISIONAL",
+    "next_unwritten": 33,
+    "acceptance": "NOT_ASSERTED",
+    "time_advanced_days": 0,
+    "manuscripts_untouched": true,
+    "world_sins_owners_unchanged": true,
+    "other_character_removals_unchanged": true,
+    "romance_off": true,
+    "dana_mana_loyal": true
+  },
+  "scope": "Only K.K. and Zid plus necessary route/state projections; no wholesale reset or changes to other author owners"
+}
