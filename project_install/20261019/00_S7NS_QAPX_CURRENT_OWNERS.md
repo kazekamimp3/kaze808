@@ -3304,7 +3304,7 @@ Natural TTS paragraph rhythm and new-viewer orientation; optional author 3,750â€
   "current_gameplay_choice": "Dana HIGH HONOR RDR2, Chris unconcerned with honor. Voluntary frequent BELLY gameplay sessions with real access.",
   "crossovers_meet_crossovers": "Allowed with real access/psychology, e.g. Kratos with toy-sized Buzz; future Maul and Starkiller interactions with off-brand Darth Clifford permitted after actual surgery/travel.",
   "story_status": "E32 delivered provisional; E33 not written or played by current WORK.",
-  "latest_work_checkpoint": "continuity/work/RESUME_CHECKPOINT_20261019_QAPX_STAGED_AFTER_E32.json",
+  "latest_work_checkpoint": "continuity/work/RESUME_CHECKPOINT_20261019_QAPX_PACKAGE_VERIFIED_INSTALL_PENDING.json",
   "last_work_reconciliation": {
     "status": "SAVED_VERIFIED_WORK_NOT_PLAY",
     "last_delivered_episode": 32,
@@ -3340,7 +3340,13 @@ Natural TTS paragraph rhythm and new-viewer orientation; optional author 3,750â€
   "latest_QAPX_handoff": "continuity/work/QAPX_AUTHOR_HANDOFF_20261019.md",
   "latest_QAPX_plan": "continuity/work/QAPX_REPLACEMENT_PLAN_20261019.json",
   "proposed_project_instructions": "continuity/work/QAPX_PROJECT_INSTRUCTIONS_DRAFT_20261019.txt",
-  "QAPX_status": "ALL_CURRENT_AUTHOR_DECISIONS_STAGED_AND_READBACK_VERIFIED_GITHUB_ONLY; NOT_PROJECT_INSTALLED; E33_UNPLAYED"
+  "QAPX_status": "SOURCE_CANDIDATE_29_PHYSICAL_491_LOGICAL_VERIFIED_GITHUB_ONLY_PROJECT_NOT_INSTALLED",
+  "QAPX_project_candidate_manifest": "project_install/20261019/MANIFEST.yaml",
+  "QAPX_project_candidate_owner_bundle": "project_install/20261019/00_S7NS_QAPX_CURRENT_OWNERS.md",
+  "QAPX_project_candidate_instructions": "project_install/20261019/S7NS_PROJECT_INSTRUCTIONS_READY.txt",
+  "QAPX_project_candidate_verification": "project_install/20261019/VERIFICATION_REPORT_FINAL.json",
+  "QAPX_manual_install_guide": "project_install/20261019/INSTALL_README.md",
+  "QAPX_project_install_verified": false
 }
 
 <!-- END LOGICAL OWNER: continuity/CURRENT.json -->
@@ -7063,14 +7069,14 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "module": "continuity/CURRENT.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
       "byte_offset": 486380,
-      "byte_length": 38298,
-      "sha256": "79df9fbfce4cc4ef3bb7b14a1d0b0a4a4950c00d3dc93fadc40d13fdd0f6f1e3",
+      "byte_length": 38794,
+      "sha256": "08e0675c203c122068bd3699cd713bd5416e053912bc86849a65fcd57ffc6e60",
       "role": "current"
     },
     {
       "module": "continuity/DELIVERY_LEDGER.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 524810,
+      "byte_offset": 525306,
       "byte_length": 27315,
       "sha256": "25506bedefbe251d6658b39a30796bdfd68beea87e2c4236a95162e5bc0cbd40",
       "role": "current"
@@ -7078,7 +7084,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/SEASON3_ACTIVE_OUTLINE.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 552272,
+      "byte_offset": 552768,
       "byte_length": 129227,
       "sha256": "abe6e0764ff70d616829ba84297b824f2364dc9b2c6b7797286d878e9ea3a47f",
       "role": "current"
@@ -7086,7 +7092,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "routing/Current_Roster_Kit_Overrides_20261019.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 681665,
+      "byte_offset": 682161,
       "byte_length": 3766,
       "sha256": "76295d54bf7852969b9c810b0d04f9d83e163be966eac090fd8035c796e565ad",
       "role": "current"
@@ -7094,7 +7100,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "authority/Character_Removal_Teemo_20261019.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 685606,
+      "byte_offset": 686102,
       "byte_length": 2373,
       "sha256": "22f92fe11321e010c4816c1d9b0533d5bffa825e37d1befa6c3d244a6589c1c6",
       "role": "current"
@@ -7102,7 +7108,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 688166,
+      "byte_offset": 688662,
       "byte_length": 7948,
       "sha256": "55569a951b61c6c4f1d0339368bd61375ad3b729690c6be2d73312bb7d48663c",
       "role": "current"
@@ -7110,7 +7116,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/author/Mimir_Kratos_Chris_Stash_Clifford_Visual_QAPX_After_E32_20261019.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 696341,
+      "byte_offset": 696837,
       "byte_length": 7888,
       "sha256": "3d954ec69a5c560f1394274b9405b080da185dfedacdc2d6b064e964d54f6c0b",
       "role": "current"
@@ -7118,7 +7124,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 704495,
+      "byte_offset": 704991,
       "byte_length": 6113,
       "sha256": "fc6f0e0a1cd5d790ed74542aae70a68e62e90aef42be1a0a6cc6f2b958122ac4",
       "role": "current"
@@ -7126,7 +7132,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/author/Deadpool_NarratorOnly_Dana_Chris_RDR2_After_E32_20261019.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 710866,
+      "byte_offset": 711362,
       "byte_length": 2375,
       "sha256": "2d95818ce5d7fe4e64766e9e49fbce9d437451dbb2cb2924044444e0c27deb2a",
       "role": "current"
@@ -7134,7 +7140,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 713470,
+      "byte_offset": 713966,
       "byte_length": 11214,
       "sha256": "265bd9bdfbd45f7c79863eeb851205d613c222abbbca8a825a08a8e670180b02",
       "role": "current"
@@ -7142,7 +7148,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 724984,
+      "byte_offset": 725480,
       "byte_length": 2824,
       "sha256": "199b5907268d75163837e45bb65eb6f7192493259c671ff3f70efb2cc6bb2140",
       "role": "current"
@@ -7150,7 +7156,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 728038,
+      "byte_offset": 728534,
       "byte_length": 3454,
       "sha256": "2eca1d55138c2fea79802146edcb77e29d8aa953060c0f39b3629eef5fa1c833",
       "role": "current"
@@ -7158,7 +7164,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/author/Zid_Betrayal_TPP_Author_Direction_After_E31.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 731720,
+      "byte_offset": 732216,
       "byte_length": 2842,
       "sha256": "a8f32ee17d634f020e94270b5fdf8c812587712b11277c7fdeecb78a8b95ad9b",
       "role": "current"
@@ -7166,7 +7172,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 734795,
+      "byte_offset": 735291,
       "byte_length": 6706,
       "sha256": "2037a9f6c983905edfb17828bf3bf39051f42c64393df2bd7de9c9316ceb6e92",
       "role": "current"
@@ -7174,7 +7180,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 741726,
+      "byte_offset": 742222,
       "byte_length": 1812,
       "sha256": "beb89b982fbec88db678ca1555be67af5c96dc70f7f97703db3f66196f085eed",
       "role": "current"
@@ -7182,7 +7188,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "canon/characters/Kratos_Mimir_Post_Valhalla_Companions_20261019.md",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 743740,
+      "byte_offset": 744236,
       "byte_length": 3396,
       "sha256": "56f56540156e430d7d3c7413267d26a2159d755e69580ecb79059b1c72f508aa",
       "role": "current"
@@ -7190,7 +7196,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "canon/characters/Chris_Food_Stash_20261019.md",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 747325,
+      "byte_offset": 747821,
       "byte_length": 2361,
       "sha256": "818f3134d86e75a7010cc23e5ebde415f2bad115cfdb7d2a66ed19aa041b9161",
       "role": "current"
@@ -7198,7 +7204,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "character_sources/crossover_extended/Clifford_Marston_Visual_20261019.md",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 749881,
+      "byte_offset": 750377,
       "byte_length": 2969,
       "sha256": "165a3bbf7529e3b4b55b01d34cb4a2357b43246460996b6f09ec82e2d7e22997",
       "role": "current"
@@ -7206,7 +7212,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "canon/relationships/Dana_Chris_RDR2_Contrast_After_E32_20261019.md",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 753066,
+      "byte_offset": 753562,
       "byte_length": 3098,
       "sha256": "4ad74db52bf0fb8fce5dbacc79fea6d1829056c7f3304dff7b0df4ac010e77b8",
       "role": "current"
@@ -7214,7 +7220,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "canon/characters/Chris_Billy_Signatures_Teemo_Erasure_20261019.md",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 756373,
+      "byte_offset": 756869,
       "byte_length": 4576,
       "sha256": "eca0efe0e647c2d7c502d5eb13b79589d0ff3ad66149bdea3d236d1fe8f537e3",
       "role": "current"
@@ -7222,7 +7228,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 761174,
+      "byte_offset": 761670,
       "byte_length": 10268,
       "sha256": "36511ebf56a134e15b4afadf968afcb8636ec3059eb1f63d197c583b76e9b391",
       "role": "current"
@@ -7230,7 +7236,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 771661,
+      "byte_offset": 772157,
       "byte_length": 11704,
       "sha256": "e55d286b8ba6c070129fff6da3a39d50812a46b6a70169de7912c3d899c9168d",
       "role": "current"
@@ -7238,7 +7244,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/episodes/E32/S3_Episode_32_Checkpoint.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 783667,
+      "byte_offset": 784163,
       "byte_length": 9968,
       "sha256": "f85963d42eaa3aac908b24df3dc8523d3854e66ea68977089908257fe93da9b6",
       "role": "reference_evidence"
@@ -7246,7 +7252,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/work/QAPX_AUTHOR_HANDOFF_20261019.md",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 793824,
+      "byte_offset": 794320,
       "byte_length": 19208,
       "sha256": "64af2add15d3dbdefeab5977020861a7087d5fa0660c50953ba368da3d423999",
       "role": "reference_evidence"
@@ -7254,7 +7260,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/work/RESUME_CHECKPOINT_20261019_QAPX_FALLBACK_CONTINUED.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 813239,
+      "byte_offset": 813735,
       "byte_length": 2233,
       "sha256": "693ddf1409fc5bea9d19d76b5e16cf51e025791f14c6267e9448284a0f298119",
       "role": "reference_evidence"
@@ -7262,7 +7268,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "research/Deadpool_Primary_Narrator_Full_Speech_and_Rick_Contrast_20261019.md",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 815708,
+      "byte_offset": 816204,
       "byte_length": 16721,
       "sha256": "98a21b829f798183f3c01378e19df9fab4b3730e86283f27e44ab42f3146b5ae",
       "role": "reference_evidence"
@@ -7270,7 +7276,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 832655,
+      "byte_offset": 833151,
       "byte_length": 13063,
       "sha256": "45a35e0cd5bee03b0e77af9a5ff402cf624bccff5f54ded03d7e387c3b00aca0",
       "role": "reference_evidence"
@@ -7278,7 +7284,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "research/Transcript_Based_Catastrophic_Absurdism_After_E32_20261019.md",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 845938,
+      "byte_offset": 846434,
       "byte_length": 8092,
       "sha256": "a43a468e9b58f4aee4b0b2b227d332a9a424e9725590cec05841a71a4350c8fb",
       "role": "reference_evidence"
@@ -7286,7 +7292,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/editorial/Sins_Speech_Behavior_Audit_After_E31_20261018.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 854260,
+      "byte_offset": 854756,
       "byte_length": 16333,
       "sha256": "2de604c50e339d790933afd54a5eb85efb517923c1442a4733e35a99430113f3",
       "role": "reference_evidence"
@@ -7294,7 +7300,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "continuity/author/Sins_Full_Kit_Utilization_After_E31.json",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 870811,
+      "byte_offset": 871307,
       "byte_length": 14268,
       "sha256": "9c87f98c5e813c74da5d52fdcef4afde1dd1f11aa91bc0ac5fbad06e4f76eed4",
       "role": "reference_evidence"
@@ -7302,7 +7308,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
     {
       "module": "research/Comedy_Escalation_Profanity_RickMorty_Trover_20261019.md",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 885291,
+      "byte_offset": 885787,
       "byte_length": 7540,
       "sha256": "d29b635c2ebdf25b0828d6044f3d9c362c966dbdd01f0d2debbb8d968cf4f89c",
       "role": "reference_evidence"
@@ -7446,14 +7452,14 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
       "byte_offset": 486380,
-      "byte_length": 38298,
-      "sha256": "79df9fbfce4cc4ef3bb7b14a1d0b0a4a4950c00d3dc93fadc40d13fdd0f6f1e3"
+      "byte_length": 38794,
+      "sha256": "08e0675c203c122068bd3699cd713bd5416e053912bc86849a65fcd57ffc6e60"
     },
     {
       "owner": "continuity/DELIVERY_LEDGER.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 524810,
+      "byte_offset": 525306,
       "byte_length": 27315,
       "sha256": "25506bedefbe251d6658b39a30796bdfd68beea87e2c4236a95162e5bc0cbd40"
     },
@@ -7461,7 +7467,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/SEASON3_ACTIVE_OUTLINE.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 552272,
+      "byte_offset": 552768,
       "byte_length": 129227,
       "sha256": "abe6e0764ff70d616829ba84297b824f2364dc9b2c6b7797286d878e9ea3a47f"
     },
@@ -7469,7 +7475,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "routing/Current_Roster_Kit_Overrides_20261019.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 681665,
+      "byte_offset": 682161,
       "byte_length": 3766,
       "sha256": "76295d54bf7852969b9c810b0d04f9d83e163be966eac090fd8035c796e565ad"
     },
@@ -7477,7 +7483,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "authority/Character_Removal_Teemo_20261019.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 685606,
+      "byte_offset": 686102,
       "byte_length": 2373,
       "sha256": "22f92fe11321e010c4816c1d9b0533d5bffa825e37d1befa6c3d244a6589c1c6"
     },
@@ -7485,7 +7491,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 688166,
+      "byte_offset": 688662,
       "byte_length": 7948,
       "sha256": "55569a951b61c6c4f1d0339368bd61375ad3b729690c6be2d73312bb7d48663c"
     },
@@ -7493,7 +7499,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/author/Mimir_Kratos_Chris_Stash_Clifford_Visual_QAPX_After_E32_20261019.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 696341,
+      "byte_offset": 696837,
       "byte_length": 7888,
       "sha256": "3d954ec69a5c560f1394274b9405b080da185dfedacdc2d6b064e964d54f6c0b"
     },
@@ -7501,7 +7507,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 704495,
+      "byte_offset": 704991,
       "byte_length": 6113,
       "sha256": "fc6f0e0a1cd5d790ed74542aae70a68e62e90aef42be1a0a6cc6f2b958122ac4"
     },
@@ -7509,7 +7515,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/author/Deadpool_NarratorOnly_Dana_Chris_RDR2_After_E32_20261019.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 710866,
+      "byte_offset": 711362,
       "byte_length": 2375,
       "sha256": "2d95818ce5d7fe4e64766e9e49fbce9d437451dbb2cb2924044444e0c27deb2a"
     },
@@ -7517,7 +7523,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 713470,
+      "byte_offset": 713966,
       "byte_length": 11214,
       "sha256": "265bd9bdfbd45f7c79863eeb851205d613c222abbbca8a825a08a8e670180b02"
     },
@@ -7525,7 +7531,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 724984,
+      "byte_offset": 725480,
       "byte_length": 2824,
       "sha256": "199b5907268d75163837e45bb65eb6f7192493259c671ff3f70efb2cc6bb2140"
     },
@@ -7533,7 +7539,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 728038,
+      "byte_offset": 728534,
       "byte_length": 3454,
       "sha256": "2eca1d55138c2fea79802146edcb77e29d8aa953060c0f39b3629eef5fa1c833"
     },
@@ -7541,7 +7547,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/author/Zid_Betrayal_TPP_Author_Direction_After_E31.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 731720,
+      "byte_offset": 732216,
       "byte_length": 2842,
       "sha256": "a8f32ee17d634f020e94270b5fdf8c812587712b11277c7fdeecb78a8b95ad9b"
     },
@@ -7549,7 +7555,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 734795,
+      "byte_offset": 735291,
       "byte_length": 6706,
       "sha256": "2037a9f6c983905edfb17828bf3bf39051f42c64393df2bd7de9c9316ceb6e92"
     },
@@ -7557,7 +7563,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 741726,
+      "byte_offset": 742222,
       "byte_length": 1812,
       "sha256": "beb89b982fbec88db678ca1555be67af5c96dc70f7f97703db3f66196f085eed"
     },
@@ -7565,7 +7571,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "canon/characters/Kratos_Mimir_Post_Valhalla_Companions_20261019.md",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 743740,
+      "byte_offset": 744236,
       "byte_length": 3396,
       "sha256": "56f56540156e430d7d3c7413267d26a2159d755e69580ecb79059b1c72f508aa"
     },
@@ -7573,7 +7579,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "canon/characters/Chris_Food_Stash_20261019.md",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 747325,
+      "byte_offset": 747821,
       "byte_length": 2361,
       "sha256": "818f3134d86e75a7010cc23e5ebde415f2bad115cfdb7d2a66ed19aa041b9161"
     },
@@ -7581,7 +7587,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "character_sources/crossover_extended/Clifford_Marston_Visual_20261019.md",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 749881,
+      "byte_offset": 750377,
       "byte_length": 2969,
       "sha256": "165a3bbf7529e3b4b55b01d34cb4a2357b43246460996b6f09ec82e2d7e22997"
     },
@@ -7589,7 +7595,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "canon/relationships/Dana_Chris_RDR2_Contrast_After_E32_20261019.md",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 753066,
+      "byte_offset": 753562,
       "byte_length": 3098,
       "sha256": "4ad74db52bf0fb8fce5dbacc79fea6d1829056c7f3304dff7b0df4ac010e77b8"
     },
@@ -7597,7 +7603,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "canon/characters/Chris_Billy_Signatures_Teemo_Erasure_20261019.md",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 756373,
+      "byte_offset": 756869,
       "byte_length": 4576,
       "sha256": "eca0efe0e647c2d7c502d5eb13b79589d0ff3ad66149bdea3d236d1fe8f537e3"
     },
@@ -7605,7 +7611,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 761174,
+      "byte_offset": 761670,
       "byte_length": 10268,
       "sha256": "36511ebf56a134e15b4afadf968afcb8636ec3059eb1f63d197c583b76e9b391"
     },
@@ -7613,7 +7619,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md",
       "category": "current_full_or_scoped_owner",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 771661,
+      "byte_offset": 772157,
       "byte_length": 11704,
       "sha256": "e55d286b8ba6c070129fff6da3a39d50812a46b6a70169de7912c3d899c9168d"
     },
@@ -7621,7 +7627,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/episodes/E32/S3_Episode_32_Checkpoint.json",
       "category": "reference_evidence",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 783667,
+      "byte_offset": 784163,
       "byte_length": 9968,
       "sha256": "f85963d42eaa3aac908b24df3dc8523d3854e66ea68977089908257fe93da9b6"
     },
@@ -7629,7 +7635,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/work/QAPX_AUTHOR_HANDOFF_20261019.md",
       "category": "reference_evidence",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 793824,
+      "byte_offset": 794320,
       "byte_length": 19208,
       "sha256": "64af2add15d3dbdefeab5977020861a7087d5fa0660c50953ba368da3d423999"
     },
@@ -7637,7 +7643,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/work/RESUME_CHECKPOINT_20261019_QAPX_FALLBACK_CONTINUED.json",
       "category": "reference_evidence",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 813239,
+      "byte_offset": 813735,
       "byte_length": 2233,
       "sha256": "693ddf1409fc5bea9d19d76b5e16cf51e025791f14c6267e9448284a0f298119"
     },
@@ -7645,7 +7651,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "research/Deadpool_Primary_Narrator_Full_Speech_and_Rick_Contrast_20261019.md",
       "category": "reference_evidence",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 815708,
+      "byte_offset": 816204,
       "byte_length": 16721,
       "sha256": "98a21b829f798183f3c01378e19df9fab4b3730e86283f27e44ab42f3146b5ae"
     },
@@ -7653,7 +7659,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
       "category": "reference_evidence",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 832655,
+      "byte_offset": 833151,
       "byte_length": 13063,
       "sha256": "45a35e0cd5bee03b0e77af9a5ff402cf624bccff5f54ded03d7e387c3b00aca0"
     },
@@ -7661,7 +7667,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "research/Transcript_Based_Catastrophic_Absurdism_After_E32_20261019.md",
       "category": "reference_evidence",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 845938,
+      "byte_offset": 846434,
       "byte_length": 8092,
       "sha256": "a43a468e9b58f4aee4b0b2b227d332a9a424e9725590cec05841a71a4350c8fb"
     },
@@ -7669,7 +7675,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/editorial/Sins_Speech_Behavior_Audit_After_E31_20261018.json",
       "category": "reference_evidence",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 854260,
+      "byte_offset": 854756,
       "byte_length": 16333,
       "sha256": "2de604c50e339d790933afd54a5eb85efb517923c1442a4733e35a99430113f3"
     },
@@ -7677,7 +7683,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "continuity/author/Sins_Full_Kit_Utilization_After_E31.json",
       "category": "reference_evidence",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 870811,
+      "byte_offset": 871307,
       "byte_length": 14268,
       "sha256": "9c87f98c5e813c74da5d52fdcef4afde1dd1f11aa91bc0ac5fbad06e4f76eed4"
     },
@@ -7685,7 +7691,7 @@ On each actual PLAY episode: point to specific revised passages where bizarre co
       "owner": "research/Comedy_Escalation_Profanity_RickMorty_Trover_20261019.md",
       "category": "reference_evidence",
       "physical_source": "00_S7NS_QAPX_CURRENT_OWNERS.md",
-      "byte_offset": 885291,
+      "byte_offset": 885787,
       "byte_length": 7540,
       "sha256": "d29b635c2ebdf25b0828d6044f3d9c362c966dbdd01f0d2debbb8d968cf4f89c"
     }
