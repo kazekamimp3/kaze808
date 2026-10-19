@@ -34,7 +34,7 @@
 
 **Thor.** Wants family/home and control over when violence defines him. E32 he chose not to throw Mulenear while watching Yormungander and turned inland; his next route-home action needs a credible lead. No obligatory second Thor-serpent fight. Owner: `character_sources/Thor_Character_Source.txt`.
 
-**Jörmungandr (TTS Yormungander).** This branch's younger sentient serpent physically girdled Runeterra in E32. His interests include autonomy, survival and his complicated Thor hostility. Coils affect marine geography; every affected port/ship needs real movement and observation. E32 Noxian and Bilgewater witnesses have NOT instantly informed all capitals. No older-self memories, omniscient translation or invented universal weather power. Owner: `character_sources/Jormungandr_Character_Source.txt` plus latest author scale.
+**Jörmungandr (TTS Yormungander).** LATEST DIRECT AUTHOR OVERRIDE: the OLDER, 2018 Lake-of-Nine mature serpent, with genuine prior Mimir/Kratos/Atreus experiences and Thor enmity, is the ONE actual world-encircling serpent in Runeterra. E32 witnessed harbor/Bilgewater body sections and independent choices remain. No second serpent, new import, universal language, omniscient port reports or added weather magic. Current full owner: `character_sources/Jormungandr_Character_Source.txt` and newest author override.
 
 **Heimdall.** DEAD in current branch E15. Source contempt/Odin loyalty survives only as informed historical knowledge and consequences; no new living duel. Owner: `character_sources/Heimdall_GOW_Character_Source.txt`.
 
@@ -63,3 +63,6 @@
 A person's *motivation* is not a guarantee they win, arrive, ally, betray, seduce, die or fight. First locate them at their source era, keep their kit and own history intact, establish what they know, what they want today and why another person is in the way, then let them choose and live with consequences. Family, debt, fraud, coercion, professional pride, spiritual duty, trauma, desire and boredom should not collapse into the same universal motivation.
 
 **Extended/regional actors:** the individually scoped 112-entry roster and 70-entry women/age/region map are preserved in the project's S7NS Library; this guide is not a replacement for their complete source owners. Especially preserve Kayn/Rhaast contested single-body mechanics, darkin weapon-host gates, dead ancient Darkin and discontinued ballista, independent TPP rivalry and the author-directed loyal return of Dana and Mana. No automatic woman's hookup or regional teleport.
+
+## Current all-roster crossover permission and Clifford parody
+Every surviving source-valid crossover may cross paths with other crossovers, Noxus or Runeterra people, TPP and Sins when actual routes/motives permit. A first scene does not retire someone. Deadpool is narrator-only from E33 and NOT physically available. Clifford's future off-brand Spaceballs-like Darth Vader walking surgery can create a genuinely awkward future interaction with Lord Starkiller (who knows Vader) and Maul (pre-Vader-era and NOT automatically familiar with Vader costume). No meeting, recovery or surgical result is delivered merely by this permission. 
