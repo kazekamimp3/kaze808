@@ -1,0 +1,112 @@
+{
+  "schema": "S7NS_AUTHOR_SCOPED_FULL_KIT_APPLICATION_V1",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "effective": "After author critique of delivered E31 Dead Money, prior to paused E32",
+  "mode": "WORK_CONFIGURATION_ONLY_NO_PLAY",
+  "authority": "Latest author's explicit critique: Arthur has BOTH UNSHAKEN revolvers, HIGH NOON, THE COUNT, and an extensively featured cybernetic eye; Arthur's and the other Sins' earned kits are seriously underused.",
+  "issue": "RETRIEVAL_APPLICATION_AND_STORY_CONSTRUCTION, NOT MISSING_POWERS",
+  "owned_base_sources": [
+    "canon/characters/s37_kit_application.md",
+    "character_sources/Arthur_Character_Source.txt",
+    "character_sources/Daniel_Character_Source.txt",
+    "canon/characters/daniel_repertoire.yaml",
+    "character_sources/Chris_Character_Source.txt",
+    "canon/characters/chris_catfish_billy_future.md",
+    "character_sources/Billy_Character_Source.txt",
+    "character_sources/Chris_Billy_BELLY_Source.txt",
+    "canon/characters/kaze_current.md",
+    "canon/characters/kaze_future_progression.md",
+    "character_sources/Kaze_Character_Source.txt",
+    "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md"
+  ],
+  "source_scope": "Adds current author priority to intact full mechanics owners and routing. Does not award abilities, invent expenditure, settle unknown ammunition, retrospectively rewrite fights, or create a competing scene doctrine.",
+  "observed_text_comparisons": [
+    {
+      "episode": 30,
+      "passage": "Arthur fires UNSHAKEN once at the bridge; no demonstrated cyber-eye analysis, kinetic bank, HIGH NOON or COUNT evaluation in the action.",
+      "interpretation": "Plausible single tactical use is not inherently wrong. The repeated omission across scenes creates a much narrower than canon portrayal."
+    },
+    {
+      "episode": 31,
+      "passage": "Arthur levels and fires UNSHAKEN twice and shoves a hostage clear using his rebuilt left hand. E31 review reduces his characterization to UNSHAKEN plus one limb.",
+      "interpretation": "FULL arsenal and eye/kinetic/CQC were not brought into scene construction, even though an indoor setting might validly argue against artillery discharge."
+    },
+    {
+      "episode": 31,
+      "passage": "Kaze uses headbutt, enemy sword, bodily healing and Black Marrow to cut coin locks; Daniel uses ice/tail/spear and one acrobatic leap; Chris uses THE CRITIC and CHOW MAIN; Billy swallows two chests.",
+      "interpretation": "Each has visible competencies, but too many other earned systems never affect perception, objectives, decisions, interaction or environment. No required technique quota follows."
+    }
+  ],
+  "execution": {
+    "core": "Within the EXISTING scene doctrine, route EVERY materially active Sin through the full owners: concrete problem -> currently available competing options (including highest viable output and noncombat functions) -> real conditions and geometry -> actor's informed/biased choice -> opposition's true response -> observable payoff. If one option decisively resolves it, honor that, do not secretly weaken it for runtime or drama.",
+    "visibility": "Do not repeatedly summarize menus in narration. Let action, preparation, reconfiguration, clever nonuse, dialogue or consequence show the trained capabilities. The audience should understand why this Sin solved this problem in a singular way.",
+    "no_quota": "No mandatory move rotation, compulsory per-character screen time, exhibition fight, equal contribution, guard waves, chosen difficulty modifier, routine cost, or filler to achieve episode words.",
+    "feedback": "Review the full episode for actual passage-backed examples of who chose what, whether a stronger option was considered, whether limitations were source-owned, and what consequence changed. An entire character's high-end kit absent from several episodes is an editorial warning unless their goals and situations genuinely make it irrelevant. Correct the story structure, not just add inventory mentions.",
+    "specific": {
+      "Arthur": {
+        "current": [
+          "TWO distinct UNSHAKEN precision revolvers, ten-round cylinders, each can hold-trigger charge to catastrophic apex",
+          "HIGH NOON catastrophic shotgun cone or concentrated slug",
+          "THE COUNT long-range artillery/penetrator as the alternate state of ONE HIGH NOON/COUNT core; not an additional independent carried gun",
+          "Normal held charge and deliberate safety; Hypercharge changes readiness to consecutive full-charge-equivalent trigger pulls without raising each shot above full-charge apex",
+          "right-shoulder Vibranium recoil capture with durable kinetic bank, no fixed cap/passive bleed but actual interface and physical discharge paths",
+          "full reconstructed RIGHT arm/shoulder/right pec, LEFT hand/forearm and BOTH legs; CQC/boxing, strength, mobility, superhuman gunslinging and legitimate bullet interception",
+          "single crimson RIGHT cyber-eye magnification, night/thermal and supported spectral perception, ranges, movement, vitals, skeletal/internal and weak-point scanning, structural/shot-path analysis, recordings, neural processing, evidence-based threat estimates, and conditional supernatural perception",
+          "AllSpark-based automatic mechanical coordination within Arthur's agency; bonded BLACKLIGHT repair and bounded feedstock-based generated ammo"
+        ],
+        "selection": "Arthur should use the eye and battlefield intelligence routinely when materially useful; vary shot form, charge, weapon mode, movement, kinetic release and hand-to-hand based on actual range, lines, collateral and personal motives. Do not hide COUNT/HIGH NOON/Hypercharge as unearned or first-use locked. A revolver indoors may still be best, but its choice is not an excuse to forget the rest.",
+        "limits": "No unlimited material or cycling, no guaranteed hit/kill or universal spectral/private-knowledge access. Count Hypercharge has not been established as first used on-page without manuscript evidence; do not fabricate shot tally. No automatically completed cross-dimensional Chris/Teemo link from capability description."
+      },
+      "Kaze": {
+        "current": [
+          "Darkin, CASA, BLACKLIGHT living body and regeneration, Warwick senses/recovery",
+          "single Black Marrow formed from body with understanding-bound adaptation",
+          "right EMS and Black Fire",
+          "Nightmare and independent retained Soul Architecture/energy functions",
+          "complete Sukuna/Shrine with required conditions, Cleave/World-Cutting Slash via Black Marrow",
+          "supernatural danger mapping, alternate movement/perception, high-end physical options and combinations"
+        ],
+        "selection": "Let active senses, psychology, eye, sword, Shrine, utility and regenerative risk-taking affect the nature and speed of scenes, not just repeat a headbutt/sword/instant heal pattern.",
+        "limits": "No BLACKCURRENT, Rinnegan/Swap, Saiyan/Majin/Buu, additional BLACKLIGHT weapons or canceled League demons. No left EMS/Susanoo grant."
+      },
+      "Daniel": {
+        "current": [
+          "95 source-detailed moves nested under five foundations, not compressed to five generic attacks",
+          "ice anatomical forearms/hands, full Cryomancy, Byakugan/precision, cloud and ice clone transfer with genuine prerequisites",
+          "spear, one flexible chain blade, shurikens, gripping hands/feet/tail and drunken martial arts",
+          "modest fighting hair duplicates, scouts/decoys, cryo terrain/lock, retained utility/precision techniques, Beast as only transformation, accelerated simian recovery"
+        ],
+        "selection": "Do not restrict Daniel to ice hand + spear leap + pun. Investigate terrain, mislead enemies, use humor strategically and make real friendships/reciprocal Kaze combat connections change outcomes.",
+        "limits": "No invented full-power duplicates, undeclared transformations, instant clone exit without established clone or universal Naruto-body systems."
+      },
+      "Chris": {
+        "current": [
+          "THE CRITIC with legitimate ammo/recoil/configuration and Teemo data",
+          "CHOW MAIN, HAMMER TIME, BONER, actually earned Dead Eye, mask and skill",
+          "GREET GREET ANTAGONIZE FIGHTING, real tools/crafting, camouflage, enhanced body/recovery",
+          "existing signature routines only under their triggers"
+        ],
+        "selection": "Use actual precision/marking, verbal deception, technical observation, engineering or weapon transitions when they change the mission; not just one rifle shot and a salvaged widget.",
+        "limits": "No Count core/Hypercharge, auto-ammo, telepathic Teemo auto-aim, second exterior Billy or unbuilt modes."
+      },
+      "Billy": {
+        "current": [
+          "shared-body sovereign inversion; immense serum predator anatomy and senses, physical Bayou/BELLY functions and custody",
+          "swallow/intake, Mudcat Wrestling, banjo/TWANG/Dead Note where mechanic holds",
+          "Camouflage, tail, tongue, prey/hospitality psychology, established signature/meta actions"
+        ],
+        "selection": "Give Billy actual exterior objectives and independent predatory/strategic/music decisions, not permanent storage service. Examine easy swallow or situational deadly signature when actually in reach; maintain voice and inner character.",
+        "limits": "One exterior at a time; Billy controls return to Chris. No Rick future evolved body; no instant digestion, remote swallow or invented all-purpose counters."
+      }
+    }
+  },
+  "current_narrative": {
+    "last_delivered": "E31 Dead Money; author acceptance NOT_ASSERTED; exact original manuscript/checkpoint preserved.",
+    "current_status": "E32 PAUSED by author corrections; NO PLAY generated or new story time here.",
+    "endpoint": "Night, Odran courtyard. Billy solely exterior; Chris full-size inside BELLY with Charles/Meatwad; Kaze/Arthur/Daniel exterior. Two uncounted chests inside BELLY; Katarina departed with orders.",
+    "other_latest_author_control": "Kaze never drinks alcohol; shamelessly flirts with eligible adult women in every setting; author-selected 99% sexual attraction success (not consent guarantee). Briar offstage, romance ON, ensemble active. Naganeka ballista left behind E30."
+  },
+  "next_action": "Apply this overlay through PLAY_START_HERE.md alongside current owner routes and sole story doctrine during next authorized WORK/PLAY, especially before E32 story decisions.",
+  "acceptance": "NOT_ASSERTED",
+  "story_advance": false
+}
