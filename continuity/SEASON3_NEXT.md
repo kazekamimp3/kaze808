@@ -1,3 +1,7 @@
+# Speech, behavior and relationship fidelity after E31
+
+Read `continuity/editorial/Sins_Speech_Behavior_Audit_After_E31_20261018.json` through `PLAY_START_HERE.md` with the existing full-kit author overlay and complete relevant owners. Preserve individual speech engines, private impulses, affectionate/ugly attachments, source-valid jokes, charisma, hospitality, social tactics, independent choices, recurring habits and actual relationship consequences. No move/speech quota or new E32 story event. The audit does not certify actor audio fidelity or claim the E30 pacing/E31 romance criticisms are already corrected. E32 remains paused until renewed author instruction.
+
 # Current continuation overlay after delivered E31
 
 The dated E29 heading below is preserved historical orientation, not the current cursor. E31 `Dead Money` was delivered; E32 is paused during author corrections. Author kit-use priority is `continuity/author/Sins_Full_Kit_Utilization_After_E31.json`, loaded via PLAY_START_HERE.md and full existing character owners. Preserve Arthur's **TWO UNSHAKEN revolvers, HIGH NOON, THE COUNT, eye, kinetic bank and entire current body/charging architecture** and the other Sins' complete valid toolkits. No mandatory ability quota or newly awarded systems. Preserve exact E31 body/time/resources and existing playback/author controls. The remainder of this file remains dated E29 context where it conflicts.
