@@ -1,3 +1,7 @@
+## Full Sins speech and behavior fidelity (current work audit)
+
+Read `continuity/editorial/Sins_Speech_Behavior_Audit_After_E31_20261018.json` and the linked complete character/psychology/voice/relationship owner routes in `continuity/author/Sins_Full_Kit_Utilization_After_E31.json` before E32 construction. Source-checked E30/E31 comparisons show identity compression: Kaze's forty-mechanism behavioral engine and proactive adult pursuit; Chris's bizarre grounded Theo-inspired associative humor with actual chef/RDR2/Phish/engineering habits; Billy's predatory hospitality, ancient cookout vanity and real banjo/Primus-informed music; Daniel's genuinely drunk, intelligent, always-joking Davidson/Cummins/Jo Koy fusion; Arthur's articulate dangerous low-honor frontier range; Zid's Sid-dominant Zion/Jerry-like approval need. Keep Black Mimir personally Scottish/Chicago and Teemo a distinct bound consciousness. Resolve Zid access rather than inventing his presence. Avoid catchphrase/joke quotas, caricatures, forced cast rotation or speech-only substitutes for character-caused choices. This is an editorial source/text comparison, not a new media/audio performance audit; E32 remains paused.
+
 # Connected S7NS startup and PLAY
 
 ## Latest author correction: full Sins kit must be actively considered
