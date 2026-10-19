@@ -1,0 +1,28 @@
+{
+  "episode": 33,
+  "title": "Under New Management",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": {
+    "path": "continuity/episodes/E33/S3_Episode_33_Under_New_Management.txt",
+    "sha256": "4449dd40c734b67d14578758994050ce12d2f4d0b221018a25dfaa95a1502625",
+    "git_blob_sha1": "455222e09195b6bc24b386dc1bb18ecba20ad29c",
+    "save_commit": "714e9a09bff672aa641a7ada78458fecb314cff6",
+    "readback": "MATCHED_FULL_BLOB_SHA",
+    "bytes": 26613,
+    "body_words": 4182
+  },
+  "checkpoint": {
+    "path": "continuity/episodes/E33/S3_Episode_33_Checkpoint.json",
+    "sha256": "cfc3d10c86795402bd618118091343e6cc070a84967a299bc978f257651e91b4",
+    "git_blob_sha1": "bc2b14fafca94f36c3a22e5b727dc4e6745d4aec",
+    "save_commit": "9a11872a5aabd29852c03e3060ca402a0660bdd7",
+    "readback": "MATCHED_FULL_BLOB_SHA"
+  },
+  "review": "Complete original draft read; source-specific and editorial repairs; complete final sequential reread after last narrative edit. Exact review scope and defects recorded in paired checkpoint. No universal audio/performance or whole-corpus semantic certification.",
+  "audio": {"assumed_words_per_minute": 150, "estimated_minutes": 27.88, "measured": false},
+  "services_actually_used": ["GitHub", "Google Drive", "Notion", "Airtable", "Files"],
+  "source_delta": "Recovered newer author-committed K.K. origin and Zid removal/cancellation; current-chat Mimir sky-fall supersedes prior instantaneous hip-placement. No Project UI installation claimed.",
+  "next_interaction": "Reconcile actual E33 response and hashes as DELIVERED_PROVISIONAL only after delivery exists; preserve E32 and original sources; author acceptance remains separate."
+}
