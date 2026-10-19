@@ -1,0 +1,73 @@
+{
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 30,
+  "title": "The Right of Passage",
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript_sha256": "4b1770f5a511e049c97c37f00ed2150d8c636e91b0f0d61d032dafe4663aa337",
+  "body_words": 4489,
+  "assumed_wpm": 150,
+  "estimated_minutes": 29.93,
+  "measured_audio": false,
+  "evidence": {
+    "starting": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json; continuity/CURRENT.json; delivered E29 visible in prior response",
+    "latest_author": "continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
+    "outline": "continuity/SEASON3_ACTIVE_OUTLINE.json; continuity/SEASON3_NEXT.md",
+    "source_routing": "MANIFEST.yaml, physical uploaded main full owners with verified SHA256",
+    "connected_reads": "GitHub startup, CURRENT, E29 checkpoint, ledger, latest outline, Notion episode index, Airtable base search, Drive E29 manuscript metadata"
+  },
+  "review_1": {
+    "scope": "ALL_PARAGRAPHS_SEQUENTIALLY",
+    "paragraphs": 270,
+    "checked": {
+      "start": [
+        0,
+        8,
+        "Season 3, Episode 30: The Right of Passage"
+      ],
+      "mid": [
+        135,
+        38,
+        "They aimed at the bridge's far abutment, wher"
+      ],
+      "end": [
+        269,
+        16,
+        "The laughter that followed wasn't particularl"
+      ]
+    },
+    "initial_draft_body_words": 4687,
+    "observed_repairs": [
+      "Removed redundant scene explanations to enter 3750-4500 word target.",
+      "Made the soldier nick Kaze on the forearm before stating cut/healing; no invisible injury.",
+      "Leave stones bracing ballista so it does not roll off without cause.",
+      "Added Billy-authorized Daniel egress at opening and clarified Billy-to-Chris exterior switch.",
+      "Removed redundant final Billy release because exterior Sins never reentered BELLY.",
+      "Retained Noxian captain escape with two survivors and actual horse-carrier route, not remote omniscience."
+    ],
+    "mechanics_passages": {
+      "Kaze": "“Black Marrow formed from the flesh of his right side into his hand” and direct cut; same-scene shallow wound/healing only",
+      "Magneto": "“Magneto caught the iron shot in the air” and actual sustained bridge pressure; no nonmetal/mind-control feats",
+      "Arthur": "“Arthur shot him through the exposed sword arm” with dirt backstop; other available weapons not gratuitously fired",
+      "Chris": "“The compact assembly came free, bent but intact enough to study” supports bounded salvage, not built new device",
+      "Daniel": "“slender seam of ice crawled beneath the soldier’s boot” and tail retrieve; natural ice limbs and drunken baseline",
+      "Billy": "“Billy let Arthur out ... then yielded the exterior to Chris at that same spot” single exterior; inside banjo audio for later comment"
+    },
+    "least_worthwhile_span": "Original repeated battlefield exposition; tightened to keep independent choice and outcomes visible.",
+    "open_gaps": [
+      "Exact names and fate of every unnamed soldier after rout are not exhaustively determined.",
+      "Refugee destination beyond far rise unknown; no forced relocation victory beyond actual crossing.",
+      "Magneto complete selected issue interiors unavailable; bounded own-source powers and unamped selected version used.",
+      "Interregional Sins funds remain unchanged; no new amounts inferred."
+    ]
+  },
+  "review_2": {
+    "scope": "COMPLETE_FINAL_SEQUENTIAL_REREAD",
+    "paragraphs": 270,
+    "body_words": 4489,
+    "sha256": "4b1770f5a511e049c97c37f00ed2150d8c636e91b0f0d61d032dafe4663aa337",
+    "result": "PASS_FOR_LOCAL_REVIEW",
+    "network_verification": "NOT_YET_PERFORMED"
+  },
+  "status_note": "Local review and created UTF-8 bytes verified; no assertion of connected save or audio until returned receipt."
+}
