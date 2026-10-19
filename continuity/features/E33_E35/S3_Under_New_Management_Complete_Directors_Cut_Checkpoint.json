@@ -1,0 +1,198 @@
+{
+  "schema_version": "S7NS_FEATURE_PRESENTATION_CHECKPOINT_V1",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "feature_identity": "E33_E35_UNDER_NEW_MANAGEMENT_COMPLETE_CUT_20261019",
+  "title": "S7NS — Under New Management: The Complete Season 3 Feature (Episodes 33–35)",
+  "mode": "AUTHOR_APPROVED_REVISED_PRESENTATION_NOT_NEW_PLAY",
+  "status": "PREPARED_SAVED_VERIFIED_NOT_YET_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "User explicitly authorized revising/strengthening combined E33–35 presentation and default future three-episode format; no fresh E36 PLAY command.",
+  "originals_preserved": [
+    {
+      "episode": 33,
+      "path": "continuity/episodes/E33/S3_Episode_33_Under_New_Management.txt",
+      "git_blob_sha1": "455222e09195b6bc24b386dc1bb18ecba20ad29c",
+      "recorded_sha256": "4449dd40c734b67d14578758994050ce12d2f4d0b221018a25dfaa95a1502625",
+      "status": "DELIVERED_PROVISIONAL_RENDER_DEFECT",
+      "note": "Clean original—not duplicated chat output—used"
+    },
+    {
+      "episode": 34,
+      "path": "continuity/episodes/E34/S3_Episode_34_A_Bad_Influence.txt",
+      "git_blob_sha1": "76304350283229ed2433c25fac110098f6743804",
+      "recorded_sha256": "f9258d22f226ff1cfeb9bfea0c1865c24e249aa2e88f9e9aca77403654feda3e",
+      "status": "DELIVERED_PROVISIONAL"
+    },
+    {
+      "episode": 35,
+      "path": "continuity/episodes/E35/S3_Episode_35_A_Controlled_Environment.txt",
+      "git_blob_sha1": "ac3ba5e6fdfd30b59b7db2c4ad6dfa0f0c41ea0f",
+      "recorded_sha256": "5973edf985a612fdf579fdb7dd3bd0791011c7a89e1dcdb76efe1b36f11d78c7",
+      "status": "DELIVERED_PROVISIONAL"
+    }
+  ],
+  "feature_manuscript": {
+    "path": "continuity/features/E33_E35/S3_Under_New_Management_Complete_Directors_Cut_FINAL.txt",
+    "git_blob_sha1": "3c4478cd2e6e6f84a16bf0a63440a7d4122dedff",
+    "sha256": "546aaf54e88eead6c401ade9ce1ab44929786feddea096612f7e54ca5e230fd1",
+    "utf8_bytes": 82409,
+    "characters": 79933,
+    "body_words": 13162,
+    "assumed_words_per_minute": 150,
+    "estimated_minutes": 87.75,
+    "measured_audio": false,
+    "draft_revision_path": "continuity/features/E33_E35/S3_Under_New_Management_Complete_Directors_Cut_Draft.txt",
+    "draft_git_blob_sha1": "3c4478cd2e6e6f84a16bf0a63440a7d4122dedff",
+    "readback": "GITHUB BLOB MATCHES FINAL WHOLE-REREAD REVIEWED DRAFT EXACTLY; independently calculated SHA256 and UTF-8 byte length; no subsequent prose edits"
+  },
+  "chronology": {
+    "start": "E33 Noxian harbor afternoon after Rook rescue; Wade replaces Mimir, Mimir physically falls and Kratos attaches him at quarry road.",
+    "middle": "E33 evening and one overnight to following morning: actual Clifford walking surgery; K.K. fully emerged; E34 SAME morning exterior K.K./Dana/Mana egress and Pell garden crime.",
+    "end": "E35 same afternoon stream dinner, independent pear-tree planting and TPP flight from publicly identified rented HQ. No additional overnight beyond E33 already enacted; eight overnights since E20.",
+    "absolute_day_no": "UNSET_NON_INVENTED"
+  },
+  "key_end_state_unchanged": {
+    "Sins": "Billy SOLE EXTERIOR beside Kaze, Arthur, drunk Daniel, Dana, Mana, guest K.K. at inland stream; K.K. NOT a Sin.",
+    "BELLY": "Chris full-sized interior with Charles Manson, Meatwad, Master Shake, Frylock; one exterior, original dual monitors/banjo/CLEAR MEAT, no new prisoner intake.",
+    "KK": "Bandaged injured forearm, one original walking stick, empty purchased tub; E34 purchased single pear planted by E35 stream; earlier fatal hatchet grip remains deliberate and not retroactively morally excused.",
+    "TPP": "Dutch, Clifford assisted walking or wheelchair, conjoined actual Tracy Morgan plus mini adult human Brian, Coon/Cartman, Jimmy, Timmy retreat through harbor streets; original ledger; no new HQ/arrests.",
+    "money": "Kaze personal silver zero after E35 spend three; Sins common silver 2,120 remains; two E31 chests unopened/uncounted; tracked TPP proceeds 59 - 4 + 9 + 18 = 82 silver plus any older unspecified funds, unpaid rent/medical debt.",
+    "casualties": "E34 one hatchet attacker dead, Pell employee wounded wrist, no E35 gunshots/extra death; the BELLY puppet is NOT a new life and Meatwad survives.",
+    "exclusions": "Zid NOT a Sin/canceled TPP betrayal; Teemo excluded active; Briar off active plot; Kaze romance OFF, no removed Kaze power; Mimir on Kratos hip, Wade narrator ONLY."
+  },
+  "source_specific_revisions": [
+    "E33 opening kept Wade's narrator turnover, actual Kratos/Mimir catch and essential silent recognition.",
+    "Retained every original E33–35 consequential event and one authorized E34 physical K.K./Dana/Mana release (no replay).",
+    "Removed duplicate internal episode headers and opening recap seams; single feature title and same continuous morning/afternoon timeline.",
+    "Added motivated conversational Chris retelling of actually completed five ridiculous 1v1s, Bob grief and Hawking/Charles/Meatwad incidents; his objective remains genuinely ordinary vegetable gardening, which E33 immediately upends into K.K.",
+    "Kept E33 Sava's fair masked-surgery identity reveal once, with true Clifford mobility and continuing injuries/debts.",
+    "Relocated E35 faux-child cold-open to its actual chronological afternoon, retaining fair physical clues/string/Meatwad reveal instead of a second long rewind.",
+    "Strengthened Meatwad's informed but exploited choice, his fake promotion, independent withdrawal and continued actual agency; Frylock's ethical self-deception and Shake's manipulatory ambition have consequences for household trust.",
+    "Clarified Dutch made Tracy a deliberately slippery identity-recognition assurance before the public exhibit; Tracy's physical reveal is a self-motivated refusal instead of a random wardrobe accident.",
+    "Inserted substantively sharper post-reveal Wade/Rick hostile ego-analysis with narrator self-indictment rather than repeating a generic recap of science.",
+    "Shortened redundant E34→E35 seam and repeated Meatwad job complaint; sharpened material turn about promised office after false puppet funeral.",
+    "Preserved K.K.'s fatal self-recognition and 'You could ask me things without waiting for them to hurt' / Kaze 'Fair' emotional silence, independent E35 pear planting.",
+    "Preserved existing feature ending Billy: 'No, sir. They're settling in.'"
+  ],
+  "review": {
+    "workflow_owner": "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+    "initial_whole_draft_read": {
+      "version_git_blob_sha1": "72c804937c7ffdee4c7f7fc6be39f168cb63308f",
+      "sequential_character_ranges": [
+        [
+          0,
+          14000
+        ],
+        [
+          14000,
+          28000
+        ],
+        [
+          28000,
+          42000
+        ],
+        [
+          42000,
+          56000
+        ],
+        [
+          56000,
+          70000
+        ],
+        [
+          70000,
+          79955
+        ]
+      ],
+      "scope": "Every character of first combined draft displayed/assessed by separate sequential reads; prior three original scripts had been reviewed before construction."
+    },
+    "targeted_repair_readback": {
+      "revision_sha": "3c4478cd2e6e6f84a16bf0a63440a7d4122dedff",
+      "repairs": "8 explicit uniquely anchored source-specific repairs, including title, two chronological/duration seams, duplicate Meatwad job exchange, office payoff, Tracy agency/promised-naming chronology, one expanded Wade passage. Each replacement verified exact count."
+    },
+    "final_whole_read": {
+      "version_git_blob_sha1": "3c4478cd2e6e6f84a16bf0a63440a7d4122dedff",
+      "sequential_character_ranges": [
+        [
+          0,
+          14000
+        ],
+        [
+          14000,
+          28000
+        ],
+        [
+          28000,
+          42000
+        ],
+        [
+          42000,
+          56000
+        ],
+        [
+          56000,
+          70000
+        ],
+        [
+          70000,
+          79933
+        ]
+      ],
+      "coverage": "COMPLETE_FINAL_REVISED_TEXT_REOPENED_AND_READ_SEQUENTIALLY; final file Git blob identical to reviewed version; no later prose change."
+    },
+    "narrative_technique_opportunities_used_or_compared": [
+      "T011 fair physical clue",
+      "T014 layered question",
+      "T015 honest delayed identity",
+      "T034 status reversal",
+      "T036 callback inversion",
+      "T041 subtext",
+      "T043 competing wants",
+      "T050 quiet self-revelation",
+      "T061 goal-obstacle-turn",
+      "T064 compression",
+      "T074 bounded one temporal misdirection",
+      "T081 status speech",
+      "T084 reactive dialogue",
+      "T093 actual sound bridge",
+      "T104 BELLY physical environment",
+      "T105 actual object custody",
+      "T114 twist fair-read",
+      "A10 ordinary-to-ominous",
+      "A13 overlooked actor agency",
+      "A20 emotional callback"
+    ],
+    "technique_policy": "140 optional techniques (T001–T120,A01–A20). No all-140 quota or machine-measured usage pass; this is editor's mapping, not a guarantee every technique appears or has perfect quality.",
+    "mechanical_tests": {
+      "one_feature_title": "PASS",
+      "internal_episode_headers": "REMOVED",
+      "e35_flashback_reordered": "PASS_CONSECUTIVE_HOURS",
+      "E33_chat_duplicated_manuscript_text": "SOURCE_CLEAN_FILE_USED",
+      "script_complete_read": "PASS",
+      "exact_GitHub_readback": "PASS",
+      "money_and_egress": "PASS_AGAINST_E33_E34_E35_SOURCE_CHECKPOINTS",
+      "word_target": "PASS_13162_WHITESPACE_BODY_WORDS_FOR_75_90_MINS_ASSUMED",
+      "actual_audio_measured": "NOT_RUN",
+      "all_471_owner_full_semantic_audit": "NOT_RUN",
+      "Airtable_Notion_Drive_overwrite": "NOT_PERFORMED_UNNECESSARY_FOR_FEATURE_DRAFT"
+    },
+    "editorial_limits": "Reread and source-specific judgment do not establish everyone will find humor effective, actor audio identity, exhaustive original universe transcripts, platform TTS ability to render ~88 minutes in one message, or automatic author acceptance.",
+    "weakest_span_decision": "Kept concise E34 freight/Pell transaction because exact book custody and the adult tactical choices cause K.K.'s death scene; kept E35 stream planting because it is independent nonviolent agency. Removed repetitive assembly-era narration and moved fake-child opening, instead of padding a 90min runtime.",
+    "future_author_direction": "Default three episodes as one seamless feature is prospectively author-approved via canon/presentation/S7NS_Triple_Episode_Seamless_Feature_PLAY_Default_20261019.md, not an extra procedure. Chris mundane-absurdity permanent characterization source at canon/characters/Chris_Everyday_Absurdity_Cumulative_Character_Application_20261019.md."
+  },
+  "delivery": {
+    "current_main_delivery_episode": 35,
+    "current_main_acceptance": "NOT_ASSERTED",
+    "feature_played_to_chat": false,
+    "feature_status": "PREPARED_SAVED_VERIFIED_NOT_PLAYED",
+    "next_new_main_episode": 36,
+    "status": "UNWRITTEN_NOT_AUTHORIZED",
+    "rule": "This output is an editorial presentation cut of already delivered E33–35, not new fictional time or a replacement original; any newly added dialogue/information is PREPARED variant, not enacted accepted canon until user receives/accepts chosen feature. Original delivered episodes remain authoritative state."
+  },
+  "preservation": {
+    "original_E33_E35_unchanged": true,
+    "seasons_1_2_five_specials_untouched": true,
+    "all_github_source_owners_untouched": true,
+    "project_attachments_instructions_not_auto_installed": true
+  }
+}
