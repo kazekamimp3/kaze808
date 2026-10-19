@@ -1,0 +1,218 @@
+{
+  "schema": "S7NS_QAPX_REPLACEMENT_PLAN_PREPARED_V1",
+  "status": "STAGED_PROPOSAL_ONLY_NOT_INSTALLED",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "delivery": {
+    "last": 32,
+    "title": "No Horizon",
+    "status": "DELIVERED_PROVISIONAL",
+    "accepted": false,
+    "next": 33,
+    "next_status": "NOT_AUTHORIZED_NOT_PLAYED"
+  },
+  "physical_original_bundles": 28,
+  "original_logical_module_count": 453,
+  "current_connected_github_source": "kazekamimp3/kaze808",
+  "author_decisions_current_owner": "continuity/author/Mimir_Kratos_Chris_Stash_Clifford_Visual_QAPX_After_E32_20261019.json",
+  "proposed_existing_logical_owner_edits": [
+    {
+      "logical_owner": "authority/Character_Removal_20261018.json",
+      "physical_bundle": "01_BOOT_AUTHORITY.md",
+      "original_owner_sha256": "5468956fae00334f5e6b17916187de4b2b9909f70262149255c060ad6ed9bdef",
+      "reason": "Earlier Dana/Mana removal overturned by direct author restoration",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "canon/presentation/PRESENTATION.md",
+      "physical_bundle": "18_WORLD_PRESENTATION.md",
+      "original_owner_sha256": "6a0850c7d92c43963d4a5c372e4e5ee4b8242789e8993ca912763f33f478be8d",
+      "reason": "Narration switches Black Mimir to narrator-only Wade, preserves 140 techniques",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+      "physical_bundle": "15_SEASON3_PLOTS.md",
+      "original_owner_sha256": "0071bd518d993d03473cb79bdeca58097dd7e2f66d950157188c0c0ecf76bb8f",
+      "reason": "Retain single draft/review method, adapt narrator owner",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "character_sources/Black_Mimir_Narration_Source.txt",
+      "physical_bundle": "06_OTHER_MAIN_CAST.md",
+      "original_owner_sha256": "d9c8d74faab73b72cf12f843a14f2961302e70ad39d480a680ed8727049e0bf5",
+      "reason": "Same post-Valhalla Mimir physically on Kratos hip, old narrator role retired",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "character_sources/Chris_Character_Source.txt",
+      "physical_bundle": "05_CHRIS_BILLY.md",
+      "original_owner_sha256": "19f69c02a5ef37a4657a3f25db48cf8fb91b8b6b77bd05609ef96650ae1f32bf",
+      "reason": "Food stash, real RDR2, Moose free trigger, exclude erased dependency",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "character_sources/Billy_Character_Source.txt",
+      "physical_bundle": "05_CHRIS_BILLY.md",
+      "original_owner_sha256": "7629dd2a9bfc5b29814a4cdf9261648bef4cdd720504967f9c75f56f335229b1",
+      "reason": "67-year Kancho; active exclusion of erased dependency",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "character_sources/Sins_Group_and_Reputation_Source.txt",
+      "physical_bundle": "04_KAZE_SINS.md",
+      "original_owner_sha256": "9072515918885dc7a0e37f1ed0d46a954adf388020545f241994dad4eafe1b88",
+      "reason": "Dana/Mana loyalty, crimes and group relationships",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "character_sources/crossover_extended/Jack_Marston_RDR1_Adult_1914_Duel_Source.txt",
+      "physical_bundle": "08_CROSSOVER_EXTENDED(4).md",
+      "original_owner_sha256": "3d2508483bfededd2d7fb3933477e8dfbc6e160b0d21b55ef44012389298b8cc",
+      "reason": "Clifford bent neck/partial stick-and-poke/TP; future cheap Vader walking",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "research/GOW_Baldur_Kratos_Fidelity_20261018.md",
+      "physical_bundle": "19_RESEARCH.md",
+      "original_owner_sha256": "ece537a0fc4801123c16e31c7ab4d32cc4b34176a33f05e3000654db85a82a8f",
+      "reason": "Post-Valhalla Kratos and Mimir with physically attached Mimir",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "canon/characters/s37_kit_application.md",
+      "physical_bundle": "06_OTHER_MAIN_CAST.md",
+      "original_owner_sha256": "f8340a6a71653db5eb3a4a58c72962cd406dd4c4fdce2d4392f7f181361575c9",
+      "reason": "Retain full kit and signature changes",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "canon/characters/chris_catfish_billy_current.md",
+      "physical_bundle": "05_CHRIS_BILLY.md",
+      "original_owner_sha256": "9a632c9fdf032404ea7fa31aae972d8a568574e2cfb2229bbb1d564620839b1c",
+      "reason": "Current BELLY stash, Chris/Billy signatures and exclusion",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "topic_sources/Season_3_Post_Chris_Rebuilt_Outline.json",
+      "physical_bundle": "13_SEASON3_CURRENT.md",
+      "original_owner_sha256": "9e98b4efea54fcee55a1bf395a85761aef11c5d1525b5adc062d68a935a37d61",
+      "reason": "Update active E32 ending / E33 opportunities and member status",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "topic_sources/Group_Relationships.txt",
+      "physical_bundle": "18_WORLD_PRESENTATION.md",
+      "original_owner_sha256": "75d9a2199c6286911782b678e8cd4846575097f38b57b10c5bb1fb3c32a92433",
+      "reason": "Dana-Chris gaming, independent TPP rival and Sins bonds",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "character_sources/season3/Deadpool_Character_Source.txt",
+      "physical_bundle": "07_CROSSOVER_CAST(3).md",
+      "original_owner_sha256": "4603932c33fc7d715830ca3a263891d3bf43cfe29425d43942044f99963eae1d",
+      "reason": "Narrator-only Wade, Marvel Jesus/rants, E19 physical historical",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "topic_sources/Narration_and_Episode_Presentation_Source.txt",
+      "physical_bundle": "13_SEASON3_CURRENT.md",
+      "original_owner_sha256": "0fa7c5d574d3d5033e0760c12ad1c0dd410984075a25db7c3cbd45b811736909",
+      "reason": "Wade narration 140 techniques, same sole procedure",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    },
+    {
+      "logical_owner": "character_sources/Jormungandr_Character_Source.txt",
+      "physical_bundle": "06_OTHER_MAIN_CAST.md",
+      "original_owner_sha256": "0a23f097fd7cd4b61c33caeab534e0108c93be1ce4d09f7567a62aefcea24710",
+      "reason": "Older 2018 world-serpent version, delivered E32 world coil",
+      "disposition": "CANDIDATE_EDIT_ONLY_AFTER_LIVE_DIFF; preserve full original and unchanged sections"
+    }
+  ],
+  "connected_additions_or_changed_routes": [
+    "continuity/author/Mimir_Kratos_Chris_Stash_Clifford_Visual_QAPX_After_E32_20261019.json",
+    "canon/characters/Kratos_Mimir_Post_Valhalla_Companions_20261019.md",
+    "canon/characters/Chris_Food_Stash_20261019.md",
+    "character_sources/crossover_extended/Clifford_Marston_Visual_20261019.md",
+    "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+    "authority/Character_Removal_Teemo_20261019.json",
+    "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
+    "canon/presentation/Deadpool_Primary_Narration_After_E32_20261019.md",
+    "continuity/author/Deadpool_NarratorOnly_Dana_Chris_RDR2_After_E32_20261019.json",
+    "canon/relationships/Dana_Chris_RDR2_Contrast_After_E32_20261019.md",
+    "canon/characters/Chris_Billy_Signatures_Teemo_Erasure_20261019.md",
+    "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json",
+    "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json",
+    "continuity/author/Zid_Betrayal_TPP_Author_Direction_After_E31.json",
+    "continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json",
+    "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md",
+    "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md",
+    "research/Deadpool_Primary_Narrator_Full_Speech_and_Rick_Contrast_20261019.md",
+    "research/Comedy_Escalation_Profanity_RickMorty_Trover_20261019.md",
+    "research/Transcript_Based_Catastrophic_Absurdism_After_E32_20261019.md",
+    "research/TPP_New_Members_WTF_Cast_Source_Fidelity_20261019.md",
+    "continuity/SEASON3_ACTIVE_OUTLINE.json",
+    "continuity/CURRENT.json",
+    "continuity/DELIVERY_LEDGER.json",
+    "PLAY_START_HERE.md",
+    "AGENTS.md",
+    "routing/Current_Roster_Kit_Overrides_20261019.json"
+  ],
+  "candidate_physical_replacements": [
+    "01_BOOT_AUTHORITY.md",
+    "04_KAZE_SINS.md",
+    "05_CHRIS_BILLY.md",
+    "06_OTHER_MAIN_CAST.md",
+    "07_CROSSOVER_CAST(3).md",
+    "08_CROSSOVER_EXTENDED(4).md",
+    "13_SEASON3_CURRENT.md",
+    "15_SEASON3_PLOTS.md",
+    "18_WORLD_PRESENTATION.md",
+    "19_RESEARCH.md"
+  ],
+  "known_unmodified_by_default": [
+    "14_BILLY_SPECIALS(3).md",
+    "21_HISTORICAL_STATE.md",
+    "22_HISTORY_ARCHIVE_PART_01.md",
+    "23_HISTORY_ARCHIVE_PART_02.md",
+    "24_HISTORY_ARCHIVE_PART_03.md",
+    "25_HISTORY_ARCHIVE_PART_04.md",
+    "26_HISTORY_ARCHIVE_PART_05.md",
+    "27_HISTORY_ARCHIVE_PART_06.md",
+    "09_RUNETERRA_APPENDIX.md",
+    "10_RUNETERRA_CORE.md",
+    "11_RUNETERRA_A_M.md",
+    "12_RUNETERRA_N_Z.md"
+  ],
+  "required_rebuilt_routes": [
+    "MANIFEST.yaml",
+    "routing/MASTER_SOURCE_INDEX.json",
+    "complete_sources/ACCESS_INDEX.json",
+    "03_INDEX_ROUTING.md and appropriate complete retrieval views",
+    "Project custom instructions after explicit QAPX"
+  ],
+  "quality_gates": [
+    "Verify no newer delivery or author change",
+    "Complete source owner/version closure read",
+    "Validate all actor histories, excluded character nonactivation, era/gender/age and kit constraints",
+    "Preserve exact E1-E32 manuscript bytes and distinguish delivery/acceptance",
+    "Resynthesize only logically changed physical bundles, update byte offsets and sha256 for all rebuilt entries",
+    "Validate full character owner and route retrieval including consolidated new Mimir/Kratos, stash and Clifford",
+    "Check staged proposed instruction length <= 8000 characters",
+    "Record hashes, old/new file mapping, source comparisons, editorial diffs, rollback copy",
+    "Read back actual Project file membership and instruction text after any authorized installation",
+    "If Project UI editing unavailable, deliver exact manual replacement files and never claim installation"
+  ],
+  "staged_handoff": "QAPX_DECISION_REGISTER_AND_HANDOFF_20261019.md",
+  "staged_instructions": "QAPX_PROJECT_INSTRUCTIONS_DRAFT_20261019.txt",
+  "not_yet_done": [
+    "ESKETIT QAPX author approval",
+    "Regenerating/installing replacement uploaded 28-module set",
+    "Changing Project custom instructions",
+    "Declaring full Project installed readback",
+    "E33 story writing or PLAY"
+  ],
+  "staged_file_sha256": {
+    "QAPX_DECISION_REGISTER_AND_HANDOFF_20261019.md": "64af2add15d3dbdefeab5977020861a7087d5fa0660c50953ba368da3d423999",
+    "QAPX_PROJECT_INSTRUCTIONS_DRAFT_20261019.txt": "2e61bc3d0820babddc8b01a668e1cdbf848eb75519defff8fc7c7e2fb2c471be"
+  }
+}
