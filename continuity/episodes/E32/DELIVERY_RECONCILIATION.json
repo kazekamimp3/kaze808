@@ -1,0 +1,18 @@
+{
+  "schema": "S7NS_DELIVERY_RECONCILIATION_V1",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 32,
+  "title": "No Horizon",
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "basis": "The complete S3 Episode 32: No Horizon was sent as the assistant's prior final PLAY response; the author subsequently reinstated Dana and Mana. No explicit acceptance or revision of Episode 32 was given.",
+  "manuscript": "continuity/episodes/E32/S3_Episode_32_No_Horizon.txt",
+  "manuscript_sha256": "2ecb5636e02885b90e07b222a18b6865961173fecd7ca5a79424cc220b1849ad",
+  "checkpoint": "continuity/episodes/E32/S3_Episode_32_Checkpoint.json",
+  "checkpoint_sha256": "f85963d42eaa3aac908b24df3dc8523d3854e66ea68977089908257fe93da9b6",
+  "original_prepared_pair_preserved": true,
+  "comparison_limit": "Visible completed E32 response corresponds to reviewed source opening/ending and events. No claim of exact chat-render transport-byte equivalence.",
+  "next": 33,
+  "pending_author_override": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
+  "work_story_advance": 0
+}
