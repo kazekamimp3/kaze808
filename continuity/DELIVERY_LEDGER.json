@@ -422,6 +422,20 @@
       "airtable_record": "recmmBtlRdPcIxUJV",
       "delivery_reconciliation": "continuity/episodes/E29/DELIVERY_RECONCILIATION.json",
       "editorial_feedback": "Author directs dropping Naganeka/ballista from prospective group plot after E29; original episode retained."
+    },
+    {
+      "episode": 30,
+      "title": "The Right of Passage",
+      "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "manuscript": "continuity/episodes/E30/S3_Episode_30_The_Right_of_Passage.txt",
+      "manuscript_sha256": "4b1770f5a511e049c97c37f00ed2150d8c636e91b0f0d61d032dafe4663aa337",
+      "checkpoint": "continuity/episodes/E30/S3_Episode_30_Checkpoint.json",
+      "checkpoint_sha256": "b9eea43d1ea8919b501ef7e3df7842b5a81dab3b002e17196a57e754a9c4b891",
+      "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_basis": "Author PLAY authorized; exact reviewed manuscript/checkpoint created; verify actual rendered response before promotion.",
+      "predecessor_sha256": "8bbe15ee61a8e212e5184bf28cd5dace5f3d943c2a1fd78c02cd8325055d9e65"
     }
   ],
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. No historical prepared checkpoint rewritten. E21 presentation complaint remains unapplied; E23/E24 prospective encounter correction was enacted in E25, not retroactively.",
@@ -445,12 +459,12 @@
       "sha256": "6124bc13f1e884aff7c29289949bad658d4ba664c103b09138a08e0c88f8265f"
     }
   ],
-  "prepared_episode": null,
+  "prepared_episode": 30,
   "playback_control": {
-    "paused": true,
-    "authorized_episode": null,
+    "paused": false,
+    "authorized_episode": 30,
     "next_episode": 30,
     "last_delivered_episode": 29,
-    "basis": "E29 delivery reconciled; current instruction is WORK author control only. Await new PLAY for E30; ensemble presentation remains active."
+    "basis": "Author PLAY requested E30; exact reviewed pair now prepared in connected GitHub and Library; reconcile delivered text after response, not before."
   }
 }
