@@ -704,7 +704,9 @@
       "TPP_FIDELITY_SOURCE": "continuity/editorial/TPP_Ensemble_Tone_After_E32_20261018.md",
       "TRACY_CURRENT_OWNER": "character_sources/crossover_extended/Tracy_Morgan_Brusta_Current_20261018.md",
       "CLIFFORD_RECONSTRUCTION_AUTHOR_DIRECTION": "Future genuinely walk-enabling surgery with final-beat patient reveal: looks like Anakin/Darth Vader transformation until Clifford is named; no literal Vader, no accomplished surgery at E32.",
-      "S3_CORRECTION_STATUS": "AUTHOR_SELECTED_CURRENT_TRUE_IDENTITY_AND_FUTURE_SURGERY; prior E12/E17/E32 facts preserved; E33 not played."
+      "S3_CORRECTION_STATUS": "AUTHOR_SELECTED_CURRENT_TRUE_IDENTITY_AND_FUTURE_SURGERY; prior E12/E17/E32 facts preserved; E33 not played.",
+      "current_author_added_rivalry_directive": "Include living roster outside Sins as real possible TPP contacts; Zid prospective member and elaborate anti-Sins scheme originator once actual betrayal enacted; current E32 port ledger is tangible starting resource.",
+      "detailed_rivalry_guide": "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md"
     },
     "BILLY_RICK_ENGINEERED_EVOLUTION": {
       "status": "SELECTED_FUTURE_NOT_ENACTED_IN_RESET",
@@ -818,12 +820,15 @@
       "arc": "ENSEMBLE",
       "next_action": "Independent subsequent role available through real contact; E19 introduction and paid job remain completed. No repeated first entrance.",
       "boundary": "No old introduction presumed. No TemPad, secret-file knowledge or immunity to restraint.",
-      "status": "INTRODUCTION_AND_PAID_RECOVERY_COMPLETED_E19",
+      "status": "PHYSICAL_ACTOR_ALIVE_E19_INTRODUCED; SEPARATE_PRIMARY_NARRATOR_ROLE_E33",
       "source_routes": [
         "character_sources/season3/Deadpool_Character_Source.txt"
       ],
       "reencounter_allowed": true,
-      "return_policy": "May independently reencounter the Sins, Noxians, TPP or fellow crossovers based on actual shared access; previous meeting remains remembered, no compulsory visit."
+      "return_policy": "May independently reencounter the Sins, Noxians, TPP or fellow crossovers based on actual shared access; previous meeting remains remembered, no compulsory visit.",
+      "narrator_role": "PRIMARY_ORDINARY_FROM_E33",
+      "original_completed_hijack": "E19 still completed, do not replay",
+      "narrator_actor_access_boundary": "Narrating shown story does not grant corporeal Wade new knowledge, power, position or equipment"
     },
     {
       "identity": "Tai Lung",
@@ -1148,7 +1153,8 @@
     "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
     "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
     "continuity/author/TPP_Tracy_Rage_New_Recruits_WTF_Cast_20261019.json",
-    "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json"
+    "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json",
+    "continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json"
   ],
   "encounter_register": "continuity/Runeterra_Women_Encounter_Register.json",
   "encounter_register_sha256": "705c5cdf25ae6cb5823e85cb1940f014782634b90b90ff362de5fa13274790dd",
@@ -1457,5 +1463,21 @@
     "Frylock": "AUTHOR_SELECTED_NEW_CROSSOVER_FUTURE_ENTRY_UNENACTED",
     "current_residents": "Charles and Meatwad remain inside; Chris/Billy body rules unchanged",
     "tone": "Hoarder's cave, salvage-fueled resident projects and grotesque character-driven escalating comedy; physical inventory and camera access evidence required"
-  }
+  },
+  "primary_narrator": "Deadpool / Wade Wilson",
+  "narration_current_owner": "canon/presentation/Deadpool_Primary_Narration_After_E32_20261019.md",
+  "narrator_full_speech_research": "research/Deadpool_Primary_Narrator_Full_Speech_and_Rick_Contrast_20261019.md",
+  "deadpool_rick_style": "Film-accurate Wade Wilson as singular narrator, with selective Rick-like maximum contempt, cosmic/sexual gross analogies and aggressive cleverness but Wade's real personal attachment and vulnerability. No generic blended voice or alternate Rick narrator.",
+  "black_mimir_role_current": "Historical ordinary narrator through delivered E32; retains independent canon identity. Wade replaces him only prospectively from E33, no Mimir erasure or new scene.",
+  "existing_narration_catalog": "All 140 optional presentation techniques remain active through the new current narration owner. No quota, no script/meta-inworld knowledge.",
+  "author_selected_deadpool_narrator_change": "continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json",
+  "tpp_all_roster_intersection_owner": "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md",
+  "TPP_cross_roster_agency_policy": "TPP is eligible to encounter all living geographically and causally reachable native Noxian, regional Runeterran, Zaun/Piltover, Darkin, crossover, WTF, and Sins characters; they have independent agendas, body/age/source constraints, and may cooperate, compete, be hired, betray or refuse. Every encounter requires actual access and knowledge, not cameo quotas.",
+  "zid_TPP_betrayal_and_plan_activation": {
+    "author_decision": "Selected future Zid betrayal of Sins and eventual joining of TPP remains guaranteed broad plot choice; must be enacted on page with actual travel, access and TPP participants' consent/responses.",
+    "last_actual": "Zid not in TPP at delivered E32, no retroactive successful betrayal or planning",
+    "scheme_engine": "Zid's approval hunger, petty resentment and actual knowledge help TPP develop absurd multi-stage anti-Sins scams with resources, disagreements, real criminal consequences and potential competent failures/successes.",
+    "source": "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md"
+  },
+  "current_tone_author_reaffirmed": "Catastrophic absurdism + grotesque BELLY roommates + improvisational verbal warfare + sudden sincerity + committed stupidity; actor-specific intense, uncapped profanity; Deadpool-first narration, Rick influence only."
 }
