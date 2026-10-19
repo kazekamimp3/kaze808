@@ -1,0 +1,500 @@
+{
+  "starting_commit": "7e01e7b86049b209623e83618a8342ccbaaf7c48",
+  "starting_tree": "bbf8c51634ebf5b05dd6ac7f9aad7eccdfa289bd",
+  "source_comparison": {
+    "e27DriveMan": true,
+    "e27DriveCP": true,
+    "outline": true
+  },
+  "airtable": {
+    "records": [
+      {
+        "id": "rec9II3NNkwz7MggI",
+        "createdTime": "2026-10-18T21:26:58.000Z",
+        "cellValuesByFieldId": {
+          "fldLPqL6ESRBGsJr5": "continuity/episodes/E21/S3_Episode_21_Checkpoint.json",
+          "fldOWQBOc43AuglSK": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldQ39CgD7JS7hGcP": "S3 Episode 21: Good Company",
+          "fldvxHY1hGNN4xryw": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
+          "fldyFVOk2heNHrFwo": "f5ae63c7b5bb546d4224d651eb06fd03083fc7b9219a1317839b172ef1d151f5"
+        }
+      },
+      {
+        "id": "recGvHrpCHbbta7Di",
+        "createdTime": "2026-10-18T23:54:12.000Z",
+        "cellValuesByFieldId": {
+          "fldLPqL6ESRBGsJr5": "continuity/episodes/E27/S3_Episode_27_Checkpoint.json",
+          "fldOWQBOc43AuglSK": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldQ39CgD7JS7hGcP": "S3 Episode 27: The Highest Bidder",
+          "fldvxHY1hGNN4xryw": "DELIVERED_PROVISIONAL; pacing criticized; author acceptance NOT_ASSERTED",
+          "fldyFVOk2heNHrFwo": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee"
+        }
+      },
+      {
+        "id": "recKbG6h3ctTsQcZK",
+        "createdTime": "2026-10-18T23:33:34.000Z",
+        "cellValuesByFieldId": {
+          "fldLPqL6ESRBGsJr5": "continuity/episodes/E23/S3_Episode_23_Checkpoint.json",
+          "fldOWQBOc43AuglSK": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldQ39CgD7JS7hGcP": "S3 Episode 23: The Wrong Story",
+          "fldvxHY1hGNN4xryw": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
+          "fldyFVOk2heNHrFwo": "9614e04b871c5b6cd3dc69596433ad9d59acdbb8380d5a82edd76fc81471bd63"
+        }
+      },
+      {
+        "id": "recLaSEngQ2rceKPY",
+        "createdTime": "2026-10-18T21:26:58.000Z",
+        "cellValuesByFieldId": {
+          "fldLPqL6ESRBGsJr5": "state/episodes/Season_3_Episode_20_Checkpoint_Current.json",
+          "fldOWQBOc43AuglSK": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldQ39CgD7JS7hGcP": "S3 Episode 20: The Express Service",
+          "fldvxHY1hGNN4xryw": "Delivered; acceptance not inferred; scoped later author overrides apply",
+          "fldyFVOk2heNHrFwo": "12c91032405edf9c8aae912d55f52d66481d6e4ecdf151e02f8727ce27905d58"
+        }
+      },
+      {
+        "id": "recPjVp2AcfZ62p8L",
+        "createdTime": "2026-10-18T23:33:34.000Z",
+        "cellValuesByFieldId": {
+          "fldLPqL6ESRBGsJr5": "continuity/episodes/E26/S3_Episode_26_Checkpoint.json",
+          "fldOWQBOc43AuglSK": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldQ39CgD7JS7hGcP": "S3 Episode 26: Room to Move",
+          "fldvxHY1hGNN4xryw": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
+          "fldyFVOk2heNHrFwo": "4f638b1d11a1677fc2c5e44d00695f77f28638b9f0c5b545e3b1f08cc27d8a21"
+        }
+      },
+      {
+        "id": "recRAHqw6h9n13hJE",
+        "createdTime": "2026-10-18T22:20:12.000Z",
+        "cellValuesByFieldId": {
+          "fldLPqL6ESRBGsJr5": "state/episodes/Season_3_Episode_19_Checkpoint_Current.json",
+          "fldOWQBOc43AuglSK": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldQ39CgD7JS7hGcP": "S3 Episode 19: Narrow Mercy",
+          "fldvxHY1hGNN4xryw": "Delivered; acceptance not inferred; scoped later author overrides apply",
+          "fldyFVOk2heNHrFwo": "bad564d22fd6064be29168de434d604d7aeeb48b1274277214a7fc3eb03fa126"
+        }
+      },
+      {
+        "id": "recjl3Nc2f0o1OFww",
+        "createdTime": "2026-10-18T23:33:34.000Z",
+        "cellValuesByFieldId": {
+          "fldLPqL6ESRBGsJr5": "continuity/episodes/E25/S3_Episode_25_Checkpoint.json",
+          "fldOWQBOc43AuglSK": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldQ39CgD7JS7hGcP": "S3 Episode 25: No Promises",
+          "fldvxHY1hGNN4xryw": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
+          "fldyFVOk2heNHrFwo": "da0967077bb28a30fa369dd173d1f155cce0c2381888fd4b99c688f5fbf9a13d"
+        }
+      },
+      {
+        "id": "recnLlVitV9KKZImt",
+        "createdTime": "2026-10-18T23:33:34.000Z",
+        "cellValuesByFieldId": {
+          "fldLPqL6ESRBGsJr5": "continuity/episodes/E24/S3_Episode_24_Checkpoint.json",
+          "fldOWQBOc43AuglSK": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldQ39CgD7JS7hGcP": "S3 Episode 24: House Rules",
+          "fldvxHY1hGNN4xryw": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
+          "fldyFVOk2heNHrFwo": "f2d763071b0d723184b4c5d26b3aff7a2e99b7795e217ccee4c13f278ad8d3fc"
+        }
+      },
+      {
+        "id": "recnPD5daB0NkUz1M",
+        "createdTime": "2026-10-18T23:33:34.000Z",
+        "cellValuesByFieldId": {
+          "fldLPqL6ESRBGsJr5": "continuity/episodes/E22/S3_Episode_22_Checkpoint.json",
+          "fldOWQBOc43AuglSK": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+          "fldQ39CgD7JS7hGcP": "S3 Episode 22: A Bigger Hammer",
+          "fldvxHY1hGNN4xryw": "DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED",
+          "fldyFVOk2heNHrFwo": "2390c2554bce87c4bc1d3b39d3db0c3934c663ff2dc9ba827dfd86ec043ad6fe"
+        }
+      }
+    ],
+    "metadata": {
+      "totalRecordCount": 9
+    }
+  },
+  "notion_index": {
+    "id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "title": "Episode and Checkpoint Index",
+    "text": "Here is the result of \"fetch\" for the Page with URL https://app.notion.com/p/3fd4e1b729b3817ca530d91a167c9f1a as of 2026-10-19T00:24:54.581Z:\n<page url=\"https://app.notion.com/p/3fd4e1b729b3817ca530d91a167c9f1a\">\n<ancestor-path>\n<parent-page url=\"https://app.notion.com/p/3fd4e1b729b38146b48cc3f823ebddd0\" title=\"S7NS | Encyclopedia and Production Index\"/>\n</ancestor-path>\n<properties>\n{\"title\":\"Episode and Checkpoint Index\"}\n</properties>\n<iconMetadata>null</iconMetadata>\n<content>\n## Episode 27 delivery reconciliation\nThe Highest Bidder is DELIVERED_PROVISIONAL; author criticized pacing on S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017. Author acceptance NOT_ASSERTED. The original prepared checkpoint remains unchanged. Exact manuscript SHA256: a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee. Matching checkpoint SHA256: a52993f9602f9cfb31ef4040df2177034ae5340b88d598a57c7afbd541f527a1. 4016 body words; 26.77 minutes at assumed 150 words/minute, not measured audio.\n[Exact manuscript](https://drive.google.com/file/d/1m0SUb3HhxgzIcgIZuEUj5qXLFnV4_cGg/view?usp=drivesdk) · [Matching checkpoint](https://drive.google.com/file/d/1zk1scTzbHIwXh2ZlPKh8EPCUWO-cme9p/view?usp=drivesdk) · [Reviewed package](https://github.com/kazekamimp3/kaze808/tree/main/continuity/episodes/E27)\nThe preceding final response delivered this exact episode. Continue to Episode 28 using the new ensemble priority. Kaze romance OFF; Briar removed from active plotting after E27. Her last witnessed position remains recorded; no exit is enacted by WORK.\nEpisodes 21–27 are delivered provisionally on S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017. Episode 27 is the delivered endpoint, criticized for pacing; Episode 28 is next. Author acceptance remains separate. Original prepared checkpoints are preserved.\n## Status\nReference index only. Full source must be retrieved for consequential use.\n## Available exact manuscript and checkpoint pairs\n<table header-row=\"true\">\n<tr>\n<td>Episode</td>\n<td>Status</td>\n<td>Manuscript SHA256</td>\n<td>Checkpoint owner</td>\n</tr>\n<tr>\n<td>S3 Episode 19: Narrow Mercy</td>\n<td>Delivered; acceptance not inferred; scoped later author overrides apply</td>\n<td>bad564d22fd6064be29168de434d604d7aeeb48b1274277214a7fc3eb03fa126</td>\n<td>state/episodes/Season_3_Episode_19_Checkpoint_Current.json</td>\n</tr>\n<tr>\n<td>S3 Episode 20: The Express Service</td>\n<td>Delivered; acceptance not inferred; scoped later author overrides apply</td>\n<td>12c91032405edf9c8aae912d55f52d66481d6e4ecdf151e02f8727ce27905d58</td>\n<td>state/episodes/Season_3_Episode_20_Checkpoint_Current.json</td>\n</tr>\n<tr>\n<td>S3 Episode 21: Good Company</td>\n<td>DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED</td>\n<td>f5ae63c7b5bb546d4224d651eb06fd03083fc7b9219a1317839b172ef1d151f5</td>\n<td>[Exact checkpoint](https://drive.google.com/file/d/1lpHFijWUuxBrNtLX9onrK_jMsgyNNWJ4/view?usp=drivesdk)</td>\n</tr>\n<tr>\n<td>S3 Episode 22: A Bigger Hammer</td>\n<td>DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED</td>\n<td>2390c2554bce87c4bc1d3b39d3db0c3934c663ff2dc9ba827dfd86ec043ad6fe</td>\n<td>[Exact checkpoint](https://drive.google.com/file/d/1mZKAYSl1EKiEq9Lrhzah0EUm5F2nNkQ2/view?usp=drivesdk)</td>\n</tr>\n<tr>\n<td>S3 Episode 23: The Wrong Story</td>\n<td>DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED</td>\n<td>9614e04b871c5b6cd3dc69596433ad9d59acdbb8380d5a82edd76fc81471bd63</td>\n<td>[Exact checkpoint](https://drive.google.com/file/d/1tEn2NSWmb7397iUcLk7yd-HgQz0oYCBL/view?usp=drivesdk)</td>\n</tr>\n<tr>\n<td>S3 Episode 24: House Rules</td>\n<td>DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED</td>\n<td>f2d763071b0d723184b4c5d26b3aff7a2e99b7795e217ccee4c13f278ad8d3fc</td>\n<td>[Exact checkpoint](https://drive.google.com/file/d/1h0oE7UjC0PoNYg-l6jIvyGNBj3ui03oW/view?usp=drivesdk)</td>\n</tr>\n<tr>\n<td>S3 Episode 25: No Promises</td>\n<td>DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED</td>\n<td>da0967077bb28a30fa369dd173d1f155cce0c2381888fd4b99c688f5fbf9a13d</td>\n<td>[Exact checkpoint](https://drive.google.com/file/d/1aM95fUkLbb94qgZQ6Cep7zAIxMplwDhS/view?usp=drivesdk)</td>\n</tr>\n<tr>\n<td>S3 Episode 26: Room to Move</td>\n<td>DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED</td>\n<td>4f638b1d11a1677fc2c5e44d00695f77f28638b9f0c5b545e3b1f08cc27d8a21</td>\n<td>[Exact checkpoint](https://drive.google.com/file/d/1knm1hnMLM_VQVSmT-b-Lj_q02DdAvldy/view?usp=drivesdk)</td>\n</tr>\n</table>\n## Connected production archive\n[Original manuscripts](https://drive.google.com/drive/folders/1yZ_Od3m5UfsucD4z8JZhV9VOxhNl-mrm) and [episode checkpoints](https://drive.google.com/drive/folders/1Qo50lIkX00gXxNZSs6-6gaJ_7pOEsouE) preserve the exact E19/E20 pairs; Reviewed Episodes and Episode Checkpoints now also contain the exact delivered E21–26 pairs. The original E21 prepared ZIP remains unchanged. E20 manuscript bytes match `12c91032405edf9c8aae912d55f52d66481d6e4ecdf151e02f8727ce27905d58`. Earlier history remains in the complete source snapshot; missing standalone manuscripts are not reconstructed. E16 Revised supersedes original E16.\n## Active prospective continuity\nAt the end of E27, Kaze is pulling Naganeka’s ballista beyond eastern Lask, with Samira and Briar alongside. Five silver; no new functional wound or personal power. Naganeka remains imprisoned; two modern bands removed. Samira’s wrist remains braced and her letter is only at the local carrier office. Four overnights since E20. Latest author control removes Briar from active plotting and resumes the group; brief exit and physical reunion are prospective. The gang’s last-confirmed E20 Zaun/BELLY resources and outstanding consequences require a single elapsed timeline. See the complete matching checkpoint and new active outline.\n</content>\n</page>",
+    "url": "https://app.notion.com/p/3fd4e1b729b3817ca530d91a167c9f1a?pvs=204",
+    "metadata": {
+      "type": "page"
+    },
+    "cover": null,
+    "icon": null,
+    "path": "S7NS | Encyclopedia and Production Index",
+    "verification": {
+      "state": "unverified"
+    },
+    "page_last_edited_at": "2026-10-19T00:24:54.581Z"
+  },
+  "notion_hub": {
+    "id": "3fd4e1b7-29b3-8146-b48c-c3f823ebddd0",
+    "title": "📚 S7NS | Encyclopedia and Production Index",
+    "text": "Here is the result of \"fetch\" for the Page with URL https://app.notion.com/p/3fd4e1b729b38146b48cc3f823ebddd0 as of 2026-10-19T00:27:01.733Z:\n<page url=\"https://app.notion.com/p/3fd4e1b729b38146b48cc3f823ebddd0\" icon=\"📚\">\n<ancestor-path></ancestor-path>\n<properties>\n{\"title\":\"S7NS \\\\| Encyclopedia and Production Index\"}\n</properties>\n<iconMetadata>{\"type\":\"emoji\",\"emoji\":\"📚\"}</iconMetadata>\n<content>\nRead-only navigational encyclopedia and production index for S7NS. Not canon and never a replacement for the project's authoritative source hierarchy.\n## Current orientation\n- Branch: S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017\n- Delivered: Season 3 Episode 27, The Highest Bidder. Exact manuscript/checkpoint reconciled; author criticized pacing and has not accepted it.\n- Next: Episode 28, ensemble priority. No episode or new story event generated by this update.\n- Current focus: the ensemble resumes; Briar is removed from active plotting. Her brief causal exit belongs to the next PLAY. Kaze romance remains OFF; delivered history is retained.\n- Startup: [Connected PLAY instructions](https://github.com/kazekamimp3/kaze808/blob/main/PLAY_START_HERE.md), then the current ledger/state, [concise continuation](https://github.com/kazekamimp3/kaze808/blob/main/continuity/SEASON3_NEXT.md) and [complete active outline](https://github.com/kazekamimp3/kaze808/blob/main/continuity/SEASON3_ACTIVE_OUTLINE.json). Latest post-E27 author override supersedes solo/stays scheduling.\n## Where truth lives\n- MANIFEST.yaml and authority/Resolution_Register.json control file routing and conflict resolution.\n- authority/Character_Removal_20261018.json controls identity exclusion.\n- continuity/DELIVERY_LEDGER.json and continuity/CURRENT.json route to the newest matching-branch evidence; state/Post_Chris_Restart.json remains the preserved E20 baseline.\n- `canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md` is the sole story construction procedure.\n- Complete mechanics, voice, psychology and relationship owners remain mandatory when relevant.\n## Production integrations\nAirtable reference base: S7NS Continuity Control (Reference), 787 records after E27 delivery reconciliation and the ensemble-resume update, including the unchanged 453 source-owner routes; affected handoff fields were read back exactly. Existing Drive production folders preserve the original verified source snapshot and exact E19/E20 pairs, plus the readback-verified exact delivered E21–26 manuscripts and original checkpoints. All seven encyclopedia sections are populated in place. GitHub is now connected: private `kazekamimp3/kaze808`, selected-repository App scope, 44 exact imported files and a successful remote source-integrity run. The verified import is commit `a8796b3bd4c5c2b94c893b55db9dcc79fca5b703`; checkpoint branch `checkpoint/s7ns-verified-import-20261018` preserves it. AI Voice Generator is excluded by author direction; no active narration provider is selected. Research and visual production retain source/approval gates.\n## Populated sections\nCharacters, mechanics and restrictions, episode archive, consequences, author decisions, research and evidence, approved visuals, and audio playback. Populated as derived source directories; full source owners remain mandatory. Historical current labels cannot override newer scoped author instructions.\n## Change control\nProposed change -\\> authorized owner + routes updated -\\> manifest hashes updated -\\> validation -\\> confirmed installation readback -\\> only authorized PLAY -\\> provisional delivery -\\> author acceptance separately.\n<page url=\"https://app.notion.com/p/3fd4e1b729b381eaa01ed17c56d5ad0f\">Characters and Relationships</page>\n<page url=\"https://app.notion.com/p/3fd4e1b729b38128a72cec577e5d38a8\">Mechanics and Restrictions</page>\n<page url=\"https://app.notion.com/p/3fd4e1b729b3817ca530d91a167c9f1a\">Episode and Checkpoint Index</page>\n<page url=\"https://app.notion.com/p/3fd4e1b729b3817b952de88c4e91f4cb\">Author Decisions and Exclusions</page>\n<page url=\"https://app.notion.com/p/3fd4e1b729b38114a1cddc041841904a\">Research Evidence and Gaps</page>\n<page url=\"https://app.notion.com/p/3fd4e1b729b38108945af88a89ce4ad7\">Audio and Visual Production</page>\n<page url=\"https://app.notion.com/p/3fd4e1b729b381288437e8f67811bb08\">Validation and Change Control</page>\n</content>\n</page>",
+    "url": "https://app.notion.com/p/3fd4e1b729b38146b48cc3f823ebddd0?pvs=204",
+    "metadata": {
+      "type": "page"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "📚"
+    },
+    "verification": {
+      "state": "unverified"
+    },
+    "page_last_edited_at": "2026-10-19T00:24:54.089Z"
+  },
+  "drive_folders": [
+    {
+      "files": [
+        {
+          "id": "1m0SUb3HhxgzIcgIZuEUj5qXLFnV4_cGg",
+          "title": "S3_Episode_27_The_Highest_Bidder.txt",
+          "mime_type": "text/plain",
+          "size": "24510",
+          "url": "https://drive.google.com/file/d/1m0SUb3HhxgzIcgIZuEUj5qXLFnV4_cGg/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1m0SUb3HhxgzIcgIZuEUj5qXLFnV4_cGg/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:54:06.134Z",
+          "modified_time": "2026-10-18T23:54:06.134Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1nRPGzy-7aAXhvrSPKH0VR3U6jl8TcT3s",
+          "title": "S3_Episode_26_Room_to_Move.txt",
+          "mime_type": "text/plain",
+          "size": "23429",
+          "url": "https://drive.google.com/file/d/1nRPGzy-7aAXhvrSPKH0VR3U6jl8TcT3s/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1nRPGzy-7aAXhvrSPKH0VR3U6jl8TcT3s/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:33:17.767Z",
+          "modified_time": "2026-10-18T23:33:17.767Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1Rou78N1TUpxJRpMFkLA7nNg2GUTcBe2i",
+          "title": "S3_Episode_25_No_Promises.txt",
+          "mime_type": "text/plain",
+          "size": "24902",
+          "url": "https://drive.google.com/file/d/1Rou78N1TUpxJRpMFkLA7nNg2GUTcBe2i/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1Rou78N1TUpxJRpMFkLA7nNg2GUTcBe2i/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:33:10.149Z",
+          "modified_time": "2026-10-18T23:33:10.149Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1Wbi7rNP3QL94OIP4H90UmTHKwvvYAYzK",
+          "title": "S3_Episode_24_House_Rules.txt",
+          "mime_type": "text/plain",
+          "size": "23386",
+          "url": "https://drive.google.com/file/d/1Wbi7rNP3QL94OIP4H90UmTHKwvvYAYzK/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1Wbi7rNP3QL94OIP4H90UmTHKwvvYAYzK/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:33:03.032Z",
+          "modified_time": "2026-10-18T23:33:03.032Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1Jzr_bAHgDdpszM9u8Hi4c7Sg1cJGOUgF",
+          "title": "S3_Episode_23_The_Wrong_Story.txt",
+          "mime_type": "text/plain",
+          "size": "24591",
+          "url": "https://drive.google.com/file/d/1Jzr_bAHgDdpszM9u8Hi4c7Sg1cJGOUgF/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1Jzr_bAHgDdpszM9u8Hi4c7Sg1cJGOUgF/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:32:52.549Z",
+          "modified_time": "2026-10-18T23:32:52.549Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1yFEqAKWPUhwQJZbY0RUi4PQM5A_itaWq",
+          "title": "S3_Episode_22_A_Bigger_Hammer.txt",
+          "mime_type": "text/plain",
+          "size": "24186",
+          "url": "https://drive.google.com/file/d/1yFEqAKWPUhwQJZbY0RUi4PQM5A_itaWq/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1yFEqAKWPUhwQJZbY0RUi4PQM5A_itaWq/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:32:44.942Z",
+          "modified_time": "2026-10-18T23:32:44.942Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1Go3OPpJsN2Ud3Jf5Tk1UuRCN9nKO-x9P",
+          "title": "S3_Episode_21_Good_Company.txt",
+          "mime_type": "text/plain",
+          "size": "23351",
+          "url": "https://drive.google.com/file/d/1Go3OPpJsN2Ud3Jf5Tk1UuRCN9nKO-x9P/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1Go3OPpJsN2Ud3Jf5Tk1UuRCN9nKO-x9P/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:32:36.333Z",
+          "modified_time": "2026-10-18T23:32:36.333Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1sAN7mD4Ni9fi_9xYykMeo9N0niQQ8GFX",
+          "title": "S3_Episode_21_Good_Company.zip",
+          "mime_type": "application/zip",
+          "size": "24983",
+          "url": "https://drive.google.com/file/d/1sAN7mD4Ni9fi_9xYykMeo9N0niQQ8GFX/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1sAN7mD4Ni9fi_9xYykMeo9N0niQQ8GFX/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:09:42.818Z",
+          "modified_time": "2026-10-18T23:09:42.818Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "1zk1scTzbHIwXh2ZlPKh8EPCUWO-cme9p",
+          "title": "S3_Episode_27_Checkpoint.json",
+          "mime_type": "application/json",
+          "size": "10818",
+          "url": "https://drive.google.com/file/d/1zk1scTzbHIwXh2ZlPKh8EPCUWO-cme9p/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1zk1scTzbHIwXh2ZlPKh8EPCUWO-cme9p/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:54:09.895Z",
+          "modified_time": "2026-10-18T23:54:09.895Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1knm1hnMLM_VQVSmT-b-Lj_q02DdAvldy",
+          "title": "S3_Episode_26_Checkpoint.json",
+          "mime_type": "application/json",
+          "size": "11139",
+          "url": "https://drive.google.com/file/d/1knm1hnMLM_VQVSmT-b-Lj_q02DdAvldy/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1knm1hnMLM_VQVSmT-b-Lj_q02DdAvldy/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:33:21.126Z",
+          "modified_time": "2026-10-18T23:33:21.126Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1aM95fUkLbb94qgZQ6Cep7zAIxMplwDhS",
+          "title": "S3_Episode_25_Checkpoint.json",
+          "mime_type": "application/json",
+          "size": "10957",
+          "url": "https://drive.google.com/file/d/1aM95fUkLbb94qgZQ6Cep7zAIxMplwDhS/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1aM95fUkLbb94qgZQ6Cep7zAIxMplwDhS/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:33:13.656Z",
+          "modified_time": "2026-10-18T23:33:13.656Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1h0oE7UjC0PoNYg-l6jIvyGNBj3ui03oW",
+          "title": "S3_Episode_24_Checkpoint.json",
+          "mime_type": "application/json",
+          "size": "8988",
+          "url": "https://drive.google.com/file/d/1h0oE7UjC0PoNYg-l6jIvyGNBj3ui03oW/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1h0oE7UjC0PoNYg-l6jIvyGNBj3ui03oW/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:33:06.489Z",
+          "modified_time": "2026-10-18T23:33:06.489Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1tEn2NSWmb7397iUcLk7yd-HgQz0oYCBL",
+          "title": "S3_Episode_23_Checkpoint.json",
+          "mime_type": "application/json",
+          "size": "8681",
+          "url": "https://drive.google.com/file/d/1tEn2NSWmb7397iUcLk7yd-HgQz0oYCBL/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1tEn2NSWmb7397iUcLk7yd-HgQz0oYCBL/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:32:59.532Z",
+          "modified_time": "2026-10-18T23:32:59.532Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1mZKAYSl1EKiEq9Lrhzah0EUm5F2nNkQ2",
+          "title": "S3_Episode_22_Checkpoint.json",
+          "mime_type": "application/json",
+          "size": "17480",
+          "url": "https://drive.google.com/file/d/1mZKAYSl1EKiEq9Lrhzah0EUm5F2nNkQ2/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1mZKAYSl1EKiEq9Lrhzah0EUm5F2nNkQ2/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:32:48.756Z",
+          "modified_time": "2026-10-18T23:32:48.756Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1lpHFijWUuxBrNtLX9onrK_jMsgyNNWJ4",
+          "title": "S3_Episode_21_Checkpoint.json",
+          "mime_type": "application/json",
+          "size": "19766",
+          "url": "https://drive.google.com/file/d/1lpHFijWUuxBrNtLX9onrK_jMsgyNNWJ4/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1lpHFijWUuxBrNtLX9onrK_jMsgyNNWJ4/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T23:32:40.045Z",
+          "modified_time": "2026-10-18T23:32:40.045Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1jA9DNrUpEA2kW6pZt1OZSc_mUAvthaC5",
+          "title": "Season_3_Episode_20_Checkpoint_Current.json",
+          "mime_type": "application/json",
+          "size": "12224",
+          "url": "https://drive.google.com/file/d/1jA9DNrUpEA2kW6pZt1OZSc_mUAvthaC5/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1jA9DNrUpEA2kW6pZt1OZSc_mUAvthaC5/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T22:21:19.656Z",
+          "modified_time": "2026-10-18T22:21:19.656Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        },
+        {
+          "id": "1gVxP7IH5YTOs32434KSKvOjIjCEhkgqr",
+          "title": "Season_3_Episode_19_Checkpoint_Current.json",
+          "mime_type": "application/json",
+          "size": "192033",
+          "url": "https://drive.google.com/file/d/1gVxP7IH5YTOs32434KSKvOjIjCEhkgqr/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1gVxP7IH5YTOs32434KSKvOjIjCEhkgqr/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": "2026-10-18T22:21:15.351Z",
+          "modified_time": "2026-10-18T22:21:15.351Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": false,
+          "permissions": null,
+          "source_visibility_status": "not_shared",
+          "can_download": true,
+          "can_list_children": false
+        }
+      ]
+    }
+  ],
+  "rollback": "Restore only affected Notion excerpts; remove prepared Airtable reference row only if needed. Preserve Drive originals/new evidence. Revert scoped GitHub commit without discarding later changes."
+}

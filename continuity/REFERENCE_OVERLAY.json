@@ -48,6 +48,13 @@
       "Delivery Status": "DELIVERED_PROVISIONAL; pacing criticized; author acceptance NOT_ASSERTED",
       "Manuscript SHA256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
       "Checkpoint Source": "continuity/episodes/E27/S3_Episode_27_Checkpoint.json"
+    },
+    {
+      "Episode": "S3 Episode 28: An Early Withdrawal",
+      "Branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "Delivery Status": "PREPARED_SAVED_NOT_YET_DELIVERED; author acceptance NOT_ASSERTED",
+      "Manuscript SHA256": "761b672c08c3a7b6ca21585a0f25b0426d6b88342a3084800fab49e8e3dae332",
+      "Checkpoint Source": "continuity/episodes/E28/S3_Episode_28_Checkpoint.json"
     }
   ],
   "Characters": [

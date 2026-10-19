@@ -183,5 +183,12 @@
       "Other selected encounters conditional on actual access/choices"
     ]
   },
-  "scope": "Operational current evidence and planning. E27 original state is retained as last witnessed; author control applies prospectively. No story advancement."
+  "scope": "Operational current evidence and planning. E27 original state is retained as last witnessed; author control applies prospectively. No story advancement.",
+  "prepared_episode": {
+    "episode": 28,
+    "manuscript": "continuity/episodes/E28/S3_Episode_28_An_Early_Withdrawal.txt",
+    "manuscript_sha256": "761b672c08c3a7b6ca21585a0f25b0426d6b88342a3084800fab49e8e3dae332",
+    "checkpoint": "continuity/episodes/E28/S3_Episode_28_Checkpoint.json",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED"
+  }
 }

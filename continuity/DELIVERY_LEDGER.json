@@ -350,6 +350,57 @@
         }
       ],
       "author_feedback": "Pacing/attention criticized; future focus changed. No approval or retrospective rewrite requested."
+    },
+    {
+      "episode": 28,
+      "title": "An Early Withdrawal",
+      "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+      "manuscript": "continuity/episodes/E28/S3_Episode_28_An_Early_Withdrawal.txt",
+      "manuscript_sha256": "761b672c08c3a7b6ca21585a0f25b0426d6b88342a3084800fab49e8e3dae332",
+      "checkpoint": "continuity/episodes/E28/S3_Episode_28_Checkpoint.json",
+      "checkpoint_sha256": "9d005a41a2c148fafc3173261f1e819a8d2c56c6001ed6718e7ce00664bc7f70",
+      "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_basis": "Exact reviewed text saved before final response; actual delivery must be reconciled next interaction.",
+      "predecessor_sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
+      "preserved_files": [
+        {
+          "path": "continuity/episodes/E28/S3_Episode_28_An_Early_Withdrawal.txt",
+          "sha256": "761b672c08c3a7b6ca21585a0f25b0426d6b88342a3084800fab49e8e3dae332",
+          "bytes": 24446
+        },
+        {
+          "path": "continuity/episodes/E28/S3_Episode_28_Checkpoint.json",
+          "sha256": "9d005a41a2c148fafc3173261f1e819a8d2c56c6001ed6718e7ce00664bc7f70",
+          "bytes": 17825
+        },
+        {
+          "path": "continuity/episodes/E28/S3_Episode_28_Review.json",
+          "sha256": "df97f4c0633ba9941b10b138041705925b4f60b26ab2bab3dd413d385f712ebe",
+          "bytes": 9199
+        },
+        {
+          "path": "continuity/episodes/E28/VERIFICATION.json",
+          "sha256": "784cb1231ac5416cd499d022a6eddd833260ec1777ea26443d379d19dba79225",
+          "bytes": 312
+        },
+        {
+          "path": "continuity/episodes/E28/attached_source_verification.json",
+          "sha256": "20919ffdbd6fa578e8087c75d1c26fc4893f490fb88e0f7dfb16a06c75938ada",
+          "bytes": 6385
+        },
+        {
+          "path": "continuity/episodes/E28/predecessor_reconciliation.json",
+          "sha256": "c44d360f8440aec5753cd1ca3b86e027c32a3d161f14e9730ba14c212b477a5e",
+          "bytes": 724
+        },
+        {
+          "path": "continuity/episodes/E28/working_brief.md",
+          "sha256": "92b060a2cb7d138b3cfa118cc42cd217558a51fb51433d043f3394ee1e11ceb8",
+          "bytes": 3205
+        }
+      ]
     }
   ],
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. No historical prepared checkpoint rewritten. E21 presentation complaint remains unapplied; E23/E24 prospective encounter correction was enacted in E25, not retroactively.",
@@ -364,5 +415,12 @@
       "path": "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
       "sha256": "8c22f6fded7d476850746eb794dc0d2571708d9d023b6b34177efa16b1c61ba1"
     }
-  ]
+  ],
+  "prepared_episode": {
+    "episode": 28,
+    "manuscript": "continuity/episodes/E28/S3_Episode_28_An_Early_Withdrawal.txt",
+    "manuscript_sha256": "761b672c08c3a7b6ca21585a0f25b0426d6b88342a3084800fab49e8e3dae332",
+    "checkpoint": "continuity/episodes/E28/S3_Episode_28_Checkpoint.json",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED"
+  }
 }

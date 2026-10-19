@@ -1,0 +1,173 @@
+{
+  "manifest_sha256": "6bd2e87d866cdf2c30ba24ac2f19b0db38ee45ebaef8a708a83919a2b141d733",
+  "checks": [
+    {
+      "source": "11_RUNETERRA_A_M.md",
+      "sha256": "e344e9baf81065f25198aac35c3cb563f218a1b01aac24597a8f294968ee14b9",
+      "matched": true,
+      "local": "project_sources/01-11_RUNETERRA_A_M.md"
+    },
+    {
+      "source": "12_RUNETERRA_N_Z.md",
+      "sha256": "c86a95b278811724448fa5a35e1900eeae38faeecbdbfa3d0e1b76f729db4ada",
+      "matched": true,
+      "local": "project_sources/02-12_RUNETERRA_N_Z.md"
+    },
+    {
+      "source": "20_RESEARCH_SUPPORT.md",
+      "sha256": "a93e28e3a036da0cea8ba357b9b2d6c89b88ea5a30e2397495d3f1c9f71a93a9",
+      "matched": true,
+      "local": "project_sources/04-20_RESEARCH_SUPPORT.md"
+    },
+    {
+      "source": "10_RUNETERRA_CORE.md",
+      "sha256": "58559fb3571364fcea85d9388a69d2bc770e91921377499fe24fae4d2a4efb04",
+      "matched": true,
+      "local": "project_sources/04-10_RUNETERRA_CORE.md"
+    },
+    {
+      "source": "24_HISTORY_ARCHIVE_PART_03.md",
+      "sha256": "2fbd86926ed8f41d02ba3f11b3a60afbc25f4e60cf1424d7a0b6ae73ab996620",
+      "matched": true,
+      "local": "project_sources/06-24_HISTORY_ARCHIVE_PART_03.md"
+    },
+    {
+      "source": "09_RUNETERRA_APPENDIX.md",
+      "sha256": "3a1f521feff8c62421b80bc6ee4e2ea16264747edb3476ea7af09eb9a053bd37",
+      "matched": true,
+      "local": "project_sources/06-09_RUNETERRA_APPENDIX.md"
+    },
+    {
+      "source": "26_HISTORY_ARCHIVE_PART_05.md",
+      "sha256": "c172b13162af3dbb8f3fd7836a4f3d7587d214d7f94e646bfb90e1cb0dba9367",
+      "matched": true,
+      "local": "project_sources/08-26_HISTORY_ARCHIVE_PART_05.md"
+    },
+    {
+      "source": "21_HISTORICAL_STATE.md",
+      "sha256": "140f1aa336f1a577f4d4248d7f2e2773a7d7962777ebd4ad1bf0f8f12efc48ee",
+      "matched": true,
+      "local": "project_sources/09-21_HISTORICAL_STATE.md"
+    },
+    {
+      "source": "22_HISTORY_ARCHIVE_PART_01.md",
+      "sha256": "13d4c498bd37def3f2dcecb749a3929c8a3841dd2830d50def4642df703d6790",
+      "matched": true,
+      "local": "project_sources/10-22_HISTORY_ARCHIVE_PART_01.md"
+    },
+    {
+      "source": "27_HISTORY_ARCHIVE_PART_06.md",
+      "sha256": "f194ca8f9d40228be12d89d8f3615d0bd0454859394c0a943875b33c91a769d6",
+      "matched": true,
+      "local": "project_sources/11-27_HISTORY_ARCHIVE_PART_06.md"
+    },
+    {
+      "source": "23_HISTORY_ARCHIVE_PART_02.md",
+      "sha256": "60cd1cb622239a725601d20932816d737596d707636c7ac6ac21e96a4379dfb7",
+      "matched": true,
+      "local": "project_sources/11-23_HISTORY_ARCHIVE_PART_02.md"
+    },
+    {
+      "source": "25_HISTORY_ARCHIVE_PART_04.md",
+      "sha256": "96f43d656becb4b8a64d336ba6108d908ccbad2bdaa7d883c1cfcb32adf5ae2b",
+      "matched": true,
+      "local": "project_sources/12-25_HISTORY_ARCHIVE_PART_04.md"
+    },
+    {
+      "source": "14_BILLY_SPECIALS(3).md",
+      "sha256": "22bab809e53c67a0db9f29572ab519305e476a31122c58efe65e31a52d5d9e94",
+      "matched": true,
+      "local": "project_sources/24-14_BILLY_SPECIALS-3-.md"
+    },
+    {
+      "source": "07_CROSSOVER_CAST(3).md",
+      "sha256": "68c8fa7dc883157e60e6b2e2ebafc1b021157518e2a1b44b4d62749d2376be52",
+      "matched": true,
+      "local": "project_sources/23-07_CROSSOVER_CAST-3-.md"
+    },
+    {
+      "source": "08_CROSSOVER_EXTENDED(4).md",
+      "sha256": "f6b68351b4b1d5348961a56c0eb5572d2cc80dac77b9b87d977a7372d688ca64",
+      "matched": true,
+      "local": "project_sources/22-08_CROSSOVER_EXTENDED-4-.md"
+    },
+    {
+      "source": "17_BELLY_COMBAT.md",
+      "sha256": "a43900fb6748039afde45af43a9ad9f0a283ada60176ce4e2ced95b09d39f802",
+      "matched": true,
+      "local": "project_sources/27-17_BELLY_COMBAT.md"
+    },
+    {
+      "source": "18_WORLD_PRESENTATION.md",
+      "sha256": "e9e3b5168cdbebced32a6d963ce1503503aa193ecb30319405247fbecf8b2cdc",
+      "matched": true,
+      "local": "project_sources/19-18_WORLD_PRESENTATION.md"
+    },
+    {
+      "source": "ACTIVE_AUTHOR_UPDATE_20261017_BRIAR_KAZE_RICK_MORTY.txt",
+      "sha256": "334aa56408c9a151fba01d602addcadcd37dcc455b7984db090ade0914921e26",
+      "matched": true,
+      "local": "project_sources/27-ACTIVE_AUTHOR_UPDATE_20261017_BRIAR_KAZE_RICK_MORTY.txt"
+    },
+    {
+      "source": "16_ROSTER_DUELS_TRAVEL.md",
+      "sha256": "a72b2da9a580db5e89d985584d64a0f7a09c05c79fb96748478a16b10cc654df",
+      "matched": true,
+      "local": "project_sources/26-16_ROSTER_DUELS_TRAVEL.md"
+    },
+    {
+      "source": "01_BOOT_AUTHORITY.md",
+      "sha256": "d7a4a2ebad1e06f0a087329ab4fb1f72cb23ff691d54ce2465a4719ca914192b",
+      "matched": true,
+      "local": "project_sources/28-01_BOOT_AUTHORITY.md"
+    },
+    {
+      "source": "02_CURRENT_STATE.md",
+      "sha256": "b357209c60dc6317bd68a68ea4ab01d22a582b8fd4c809d9c064b74ec35b759f",
+      "matched": true,
+      "local": "project_sources/20-02_CURRENT_STATE.md"
+    },
+    {
+      "source": "03_INDEX_ROUTING.md",
+      "sha256": "0388bf30c4750e0f209b2b3c40ed11bff61e5039e74e169db18942ce27f0ddcc",
+      "matched": true,
+      "local": "project_sources/21-03_INDEX_ROUTING.md"
+    },
+    {
+      "source": "04_KAZE_SINS.md",
+      "sha256": "d09c7caa74208de92e60d7afc774435deaed09a9085b55f3ece5db5c7d74e846",
+      "matched": true,
+      "local": "project_sources/22-04_KAZE_SINS.md"
+    },
+    {
+      "source": "05_CHRIS_BILLY.md",
+      "sha256": "da77142efb4f042a39e3662593a607cf6c0355079333c1357ef63e969d63a1c5",
+      "matched": true,
+      "local": "project_sources/14-05_CHRIS_BILLY.md"
+    },
+    {
+      "source": "06_OTHER_MAIN_CAST.md",
+      "sha256": "61ad3e7c58186e4cbd54038e30b06f6ff2eb89b544e9cd52add0ea8182880580",
+      "matched": true,
+      "local": "project_sources/15-06_OTHER_MAIN_CAST.md"
+    },
+    {
+      "source": "13_SEASON3_CURRENT.md",
+      "sha256": "e1a9da6c784bffff975ca2a1348a8d224f80e794544f180696d6a8fbb8b106ae",
+      "matched": true,
+      "local": "project_sources/24-13_SEASON3_CURRENT.md"
+    },
+    {
+      "source": "15_SEASON3_PLOTS.md",
+      "sha256": "7b642ee8515af79e04e52478a38e6a5216c810fe7f48fc1bc1c31c5274b5ed20",
+      "matched": true,
+      "local": "project_sources/25-15_SEASON3_PLOTS.md"
+    },
+    {
+      "source": "19_RESEARCH.md",
+      "sha256": "a1e06f2fd2b3138471e321da0b91254e0707eb10036f4ae580dfe58beb1b76c4",
+      "matched": true,
+      "local": "project_sources/14-19_RESEARCH.md"
+    }
+  ]
+}
