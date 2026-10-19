@@ -4,10 +4,10 @@
   "title": "The Right of Passage",
   "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
   "author_acceptance": "NOT_ASSERTED",
-  "manuscript_sha256": "4b1770f5a511e049c97c37f00ed2150d8c636e91b0f0d61d032dafe4663aa337",
-  "body_words": 4489,
+  "manuscript_sha256": "32dcc04c32d793b82cc8eb4737bbe10f19a22745f7b57d328bbe8cee54f4ad2f",
+  "body_words": 4491,
   "assumed_wpm": 150,
-  "estimated_minutes": 29.93,
+  "estimated_minutes": 29.94,
   "measured_audio": false,
   "evidence": {
     "starting": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json; continuity/CURRENT.json; delivered E29 visible in prior response",
@@ -18,7 +18,7 @@
   },
   "review_1": {
     "scope": "ALL_PARAGRAPHS_SEQUENTIALLY",
-    "paragraphs": 270,
+    "paragraphs": 271,
     "checked": {
       "start": [
         0,
@@ -31,7 +31,7 @@
         "They aimed at the bridge's far abutment, wher"
       ],
       "end": [
-        269,
+        270,
         16,
         "The laughter that followed wasn't particularl"
       ]
@@ -43,7 +43,9 @@
       "Leave stones bracing ballista so it does not roll off without cause.",
       "Added Billy-authorized Daniel egress at opening and clarified Billy-to-Chris exterior switch.",
       "Removed redundant final Billy release because exterior Sins never reentered BELLY.",
-      "Retained Noxian captain escape with two survivors and actual horse-carrier route, not remote omniscience."
+      "Retained Noxian captain escape with two survivors and actual horse-carrier route, not remote omniscience.",
+      "Final full read caught an impossible BELLY filming scene: corrected to Meatwad filming Charles while watching Chris on live exterior monitor; Arthur stays exterior and Billy is interior witness.",
+      "Removed an implied unshown Subaru deployment and distinguished old torn clothing from new sword wound."
     ],
     "mechanics_passages": {
       "Kaze": "“Black Marrow formed from the flesh of his right side into his hand” and direct cut; same-scene shallow wound/healing only",
@@ -63,9 +65,9 @@
   },
   "review_2": {
     "scope": "COMPLETE_FINAL_SEQUENTIAL_REREAD",
-    "paragraphs": 270,
-    "body_words": 4489,
-    "sha256": "4b1770f5a511e049c97c37f00ed2150d8c636e91b0f0d61d032dafe4663aa337",
+    "paragraphs": 271,
+    "body_words": 4491,
+    "sha256": "32dcc04c32d793b82cc8eb4737bbe10f19a22745f7b57d328bbe8cee54f4ad2f",
     "result": "PASS_FOR_LOCAL_REVIEW",
     "network_verification": "NOT_YET_PERFORMED"
   },
