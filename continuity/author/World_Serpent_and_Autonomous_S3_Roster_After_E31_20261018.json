@@ -8,9 +8,9 @@
     "Noxus and crossover cast should live and independently act according to authentic personal motives and capabilities, not wait for Sins meetings."
   ],
   "source_conflict_resolution": {
-    "source_baseline": "God of War Ragnarök's younger Giant-souled serpent at Thor clash, a sentient autonomous colossal Jötunn. Retain absence of older Lake-of-Nine memories, utterances without automatic human/Runeterran-language translation, Thor hostility, physical cause and effect, no voluntary time-portals, invented dimensional knowledge or universal Eitr kill.",
-    "controlling_author_scale": "Latest author explicitly chooses literal world-encircling World Serpent stature for the S7NS Runeterra crossover. In current author portrayal his bodily scale is genuinely planet-spanning / physically capable of encircling Runeterra, not merely an oversized regional sea monster. This is a S7NS-specific size portrayal override over the earlier unverified-young-body-length caution; do not cite game research as proof of an exact measured Runeterra circumference.",
-    "not_yet_enacted": "No delivered scene establishes that he has already completed a globe-circling coil, which coastline/body segment lies where, a global tsunami, a precise measured length or casualties. Never retcon those as witnessed facts. Enact physical arrangement and resulting regional effects in future authorized scenes at sufficient scale.",
+    "source_baseline": "SUPERSEDED FOR IDENTITY: imported serpent is the God of War 2018 mature Lake of Nine incarnation with its grown body and earned history, not the younger Ragnarok battle incarnation. Retain other valid sentience, hostility, physical-force/Eitr limits, no automatic portals.",
+    "controlling_author_scale": "Latest author chose OLDER Lake of Nine incarnation, canonically world-encircling in its home Midgard. S7NS E32 expressly established ONE huge serpent encircling Runeterra. This is now matching age/size, not a young body size override.",
+    "not_yet_enacted": "E32 WORLD encirclement IS DELIVERED, not future. Younger-era speculation in prior snapshots is historical and superseded. No new companion serpent, additional casualties or unknown long-range events.",
     "source_owners": [
       "character_sources/Jormungandr_Character_Source.txt",
       "research_sources/Jormungandr_GOW_Research.txt",
@@ -185,7 +185,7 @@
   "current_evidence": {
     "last_delivered": "E31 Dead Money, delivered provisional, author acceptance NOT_ASSERTED",
     "current_positions": "Night in inland Noxian town; Billy exterior, Chris in BELLY, Kaze Arthur Daniel outside; two uncounted chests in BELLY; Katarina left with orders.",
-    "serpent_last": "Shared late-S2 Noxian coastal emergence delivered. Exact observed current sea reach and present physical world-spanning path remain unverified.",
+    "serpent_last": "E32 one physically world-encircling body with head witnessed Noxian harbor and separate coil observed from Bilgewater; age identity corrected by latest author to older lake serpent. Exact future location unresolved.",
     "stale_outline": "Existing active S3 outline before patch still called E30 next and Magneto prospective. After E30 bridge and E31 score this is historical label, not live story.",
     "zid": "Betrayal to TPP selected author future; not already occurred.",
     "E32": "PAUSED. No new scene, world event, geographic shift or roster activation in this WORK."
@@ -214,5 +214,11 @@
       "specifics": "Strategic general, demonic ravens and bounded information, not free remote narrator-level omniscience"
     }
   ],
-  "preservations": "No rewrite of E31 or older episodes, no auto-onpage worldwide cataclysm, no new loot/power/army, no old-S3 reset. Author specification overrides only the younger body size/impact expectation, not its personality, chronology or time mechanics."
+  "preservations": "No rewrite of E31 or older episodes, no auto-onpage worldwide cataclysm, no new loot/power/army, no old-S3 reset. Author specification overrides only the younger body size/impact expectation, not its personality, chronology or time mechanics.",
+  "latest_serpent_identity_override": {
+    "source_version": "OLDER God of War 2018 Lake of Nine World Serpent, fully mature, not the younger Ragnarok battle serpent",
+    "effective": "After E32 direct author's retroactive version clarification. No duplicated import, new time shift or second serpent; preserved E32 scale, observed harbor choices and world coil.",
+    "canon_past": "Knows Mimir's giant-language communication; personally encountered/helped Kratos and Atreus and intervened in Baldur/Thamur conflict; Thor feud and older temporal experience. Does not import future Runeterra knowledge or universal speech.",
+    "latest_author": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json"
+  }
 }
