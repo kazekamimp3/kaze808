@@ -51,7 +51,7 @@
     "E34_elsewhere": "Kratos/Mimir/Thor/Katarina further scenes not shown; no remote travel or omniscience inferred."
   },
   "history_unchanged": true,
-  "project_ui_installation_performed": false,
+  "project_ui_installation_performed": true,
   "story_days_advanced_by_reconciliation": 0,
   "work_resume_checkpoint": "continuity/work/RESUME_CHECKPOINT_E34_DEADPOOL_FIDELITY_20261019.json",
   "work_resume_checkpoint_git_blob_sha1": "b963d659b6ce2462ec66e489b9fdc50948c01f36",
@@ -116,5 +116,16 @@
     "airtable_targeted_initial_rows_verified": 22,
     "notion_reconciled_pages_verified": 6,
     "drive_handoff_final_checkpoint_link_verified": true
-  }
+  },
+  "project_e34_attachment_readback_receipt": "continuity/work/PROJECT_E34_ATTACHMENT_INSTALL_READBACK_20261019.json",
+  "project_e34_attachment_readback_receipt_blob_sha1": "b1b682ff1dc356ca125f594279d4177037ac215c",
+  "project_e34_attached_sources_verified": true,
+  "project_e34_attached_source_count": 28,
+  "project_e34_manifest_sha256": "6656390221fc0c1f59e4af1daaa450ace40c1e927ed6dba08fa3cb182e45a160",
+  "project_e34_verified_logical_owners": 471,
+  "project_e34_uploaded_display_filename_aliases": 9,
+  "project_e34_custom_instructions_effective_context": "E34 QAPX CURRENT visible in active Project instructions; independent exact Project UI byte/hash readback unavailable",
+  "project_e34_custom_instructions_exact_byte_readback_verified": false,
+  "project_e34_cutover_status": "PROJECT_28_ATTACHMENTS_AND_471_LOGICAL_OWNERS_HASH_VERIFIED; INSTRUCTIONS_EFFECTIVE_E34_VISIBLE_BUT_RAW_UI_HASH_NOT_VERIFIED",
+  "story_days_advanced_by_project_source_verification": 0
 }
