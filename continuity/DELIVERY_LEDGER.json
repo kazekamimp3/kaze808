@@ -360,9 +360,9 @@
       "checkpoint": "continuity/episodes/E28/S3_Episode_28_Checkpoint.json",
       "checkpoint_sha256": "9d005a41a2c148fafc3173261f1e819a8d2c56c6001ed6718e7ce00664bc7f70",
       "original_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
-      "delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "delivery_status": "DELIVERED_PROVISIONAL",
       "author_acceptance": "NOT_ASSERTED",
-      "delivery_basis": "Exact reviewed text saved before final response; actual delivery must be reconciled next interaction.",
+      "delivery_basis": "Exact delivered E28 response reconciled in this conversation; saved GitHub and Drive manuscript/checkpoint bytes matched during paused E29 preparation. Original prepared checkpoint preserved. Continued PLAY is not author acceptance.",
       "predecessor_sha256": "a1cb44bda3c6477e5740bb3094b66b1ef2a1c55de6c2035ad8424cfc24d051ee",
       "preserved_files": [
         {
@@ -404,8 +404,8 @@
     }
   ],
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. No historical prepared checkpoint rewritten. E21 presentation complaint remains unapplied; E23/E24 prospective encounter correction was enacted in E25, not retroactively.",
-  "current_delivered_episode": 27,
-  "next_episode": 28,
+  "current_delivered_episode": 28,
+  "next_episode": 29,
   "author_overrides": [
     {
       "path": "continuity/author/Kaze_Romance_OFF_After_E26.json",
@@ -414,13 +414,16 @@
     {
       "path": "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
       "sha256": "8c22f6fded7d476850746eb794dc0d2571708d9d023b6b34177efa16b1c61ba1"
+    },
+    {
+      "path": "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
+      "sha256": "b6c733e56a7b42101cb26812806baaf1a37c0c9f7d5624f9b5935990203c31a7"
     }
   ],
-  "prepared_episode": {
-    "episode": 28,
-    "manuscript": "continuity/episodes/E28/S3_Episode_28_An_Early_Withdrawal.txt",
-    "manuscript_sha256": "761b672c08c3a7b6ca21585a0f25b0426d6b88342a3084800fab49e8e3dae332",
-    "checkpoint": "continuity/episodes/E28/S3_Episode_28_Checkpoint.json",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED"
+  "prepared_episode": null,
+  "playback_control": {
+    "paused": true,
+    "next_episode": 29,
+    "basis": "Author hold on E29 followed by WORK-only relationship/outline amendments; resume only on new PLAY."
   }
 }

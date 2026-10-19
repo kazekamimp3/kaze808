@@ -1,8 +1,8 @@
 {
-  "status": "ACTIVE_ENSEMBLE_RESUMED_AFTER_DELIVERED_E27",
+  "status": "ACTIVE_ENSEMBLE_AFTER_E28_ROMANCE_ON",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "state_owner": "continuity/CURRENT.json",
-  "next_new_main_episode": 28,
+  "next_new_main_episode": 29,
   "working_episode_count": null,
   "count_is_quota": false,
   "latest_sequence_lock": {
@@ -26,7 +26,7 @@
     "TPP": "Forms shortly after Meatwad in the early Noxian movement, not after a long regional tour. Preserve selected actual revival/conjoining, access, separation/reconstruction and communication prerequisites where needed; stage them efficiently rather than asserting them completed or inventing a free mechanism. T.P.P. is Brusta Thymes, the same adult Clifford, and Dutch; Frank remains his own person and is not automatically enlisted. Later rented-HQ/tattoos/rival scores remain future developments.",
     "Specials": "The five confirmed campfire Specials remain already-established canon and unchanged originals. They are not replayed or reset to unoccurred. Earlier retelling scenes still cannot know later campfire disclosures. No newly retold manuscript is created by WORK."
   },
-  "opening": "Continue after delivered E27; ensemble focus resumes. Briar exits active plot prospectively. No opening replay.",
+  "opening": "Continue after delivered E28 when PLAY is authorized. Briar departure occurred; ensemble active; no reset or replay.",
   "construction_principle": "Researched world motives + actual altered history + independently chosen Sins desires generate the plot. Named champions are agents with goals, not cameo bosses. Consequences include grief, opportunity, institutional change, divided loyalties, fear and admiration; not compulsory punishment.",
   "movements": [
     {
@@ -59,15 +59,27 @@
     },
     {
       "id": "ZAUN_NOXUS",
-      "status": "ACTIVE_PRIORITY_E28_FIRST_ROBBERY_COMPLETED_E20",
+      "status": "ACTIVE_AFTER_E28_COLLECTION_HOUSE_SCORE_COMPLETED",
       "title": "A score with real opposition",
-      "direction": "Resume group choices around the six stolen Purple Pain cases and Heisenberg’s living empire. Daniel, Chris/Billy and Arthur initiate and change the operation. Existing witnesses, criminal aims and independent opposition determine events; no automatic retaliation or inventory reset.",
+      "direction": "E20 Rivermark theft and E28 collection-house robbery completed. Six cases returned to Dessa, 300 silver paid and 2100 new common silver retained. Group choices, surviving witnesses and Heisenberg's independent response shape the next operation. Regional individual encounters layer into this movement; no replay, automatic retaliation or inventory reset.",
       "source_direction_crosswalk": [
         "A38",
         "A39",
         "A40"
       ],
-      "boundary": "Do not substitute Heisenberg’s old death or automatic inheritance. Noxian reactions follow actually delivered reports and real travel. A later consequence can change what the score becomes."
+      "boundary": "Do not substitute Heisenberg’s old death or automatic inheritance. Noxian reactions follow actually delivered reports and real travel. A later consequence can change what the score becomes.",
+      "individual_women_encounter_slots": [
+        "RW_MEL",
+        "RW_CAITLYN",
+        "RW_CAMILLE",
+        "RW_ORIANNA",
+        "RW_SERAPHINE",
+        "RW_VI",
+        "RW_JINX",
+        "RW_RENATAGLASC",
+        "RW_ZERI",
+        "RW_JANNA"
+      ]
     },
     {
       "id": "NOXUS_CONTEST",
@@ -79,7 +91,19 @@
         "A42"
       ],
       "boundary": "No all-villains coalition, forced truce, generic protection racket or scene-count quota. Naganeka can become a real agent or contested siege force, not an automatically refused collectible.",
-      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY"
+      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY",
+      "individual_women_encounter_slots": [
+        "RW_AMBESSA",
+        "RW_BRIAR",
+        "RW_CASSIOPEIA",
+        "RW_ELISE",
+        "RW_KATARINA",
+        "RW_LEBLANC",
+        "RW_RIVEN",
+        "RW_SAMIRA",
+        "RW_ANNIE",
+        "RW_RELL"
+      ]
     },
     {
       "id": "SEA",
@@ -87,7 +111,17 @@
       "title": "Bilgewater, serpent waters and the Isles",
       "direction": "Arthur’s Graves/TF/Miss Fortune/Gangplank and Billy’s Nami/Pyke/Nautilus/Illaoi/Tahm selections; substantive exterior Vecna/Upside Down arc; Ibaaros/Taarosh; independent Thor/serpent, Riddick and Elise.",
       "boundary": "Travel, actual entry, language and custody stay real. Keep selected Tahm father culmination prospective. No already-dead Vecna, automatic host, free passage home or repeated coast event.",
-      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY"
+      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY",
+      "individual_women_encounter_slots": [
+        "RW_ILLAOI",
+        "RW_MISSFORTUNE",
+        "RW_NILAH",
+        "RW_GWEN",
+        "RW_KALISTA",
+        "RW_SENNA",
+        "RW_VEX",
+        "RW_NAMI"
+      ]
     },
     {
       "id": "SOUTH",
@@ -95,7 +129,19 @@
       "title": "Hunts and competing histories",
       "direction": "Ixtal/Shurima: Naafiri’s pack and source-backed Darkin history; Horazi’s independent Targon strand. Regional actors remain available through new causal choices.",
       "boundary": "No history-only Darkin resurrection or automatic trust/unity. Sources become actor knowledge only when accessed.",
-      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY"
+      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY",
+      "individual_women_encounter_slots": [
+        "RW_SIVIR",
+        "RW_TALIYAH",
+        "RW_NAAFIRI",
+        "RW_KAISA",
+        "RW_REKSAI",
+        "RW_BELVETH",
+        "RW_NEEKO",
+        "RW_NIDALEE",
+        "RW_QIYANA",
+        "RW_ZYRA"
+      ]
     },
     {
       "id": "IONIA",
@@ -103,7 +149,17 @@
       "title": "Recognition, mastery and ownership",
       "direction": "Daniel’s Wukong/Sett/Lee Sin/Akali, Kaze/Yone/Kayn–Rhaast and gated Zaahen; Xolaani/Praa; Maul, Starkiller and Riven act from separate motives.",
       "boundary": "Kayn contest and native agendas matter; no automatic fully transformed host, alliance, redemption or assumed survival.",
-      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY"
+      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY",
+      "individual_women_encounter_slots": [
+        "RW_AHRI",
+        "RW_AKALI",
+        "RW_IRELIA",
+        "RW_KARMA",
+        "RW_LILLIA",
+        "RW_SYNDRA",
+        "RW_XAYAH",
+        "RW_YUNARA"
+      ]
     },
     {
       "id": "NORTH_WEST",
@@ -111,7 +167,31 @@
       "title": "The remaining northern and western encounters",
       "direction": "Freljord/Demacia/Targon/Bandle: Daniel/Gragas, Anaakca/Joraal/Horazi/Baalkux and gated Fiddlesticks. Galio is inactive; Galio remains an independent native actor. Geography and access remain real.",
       "boundary": "Encounter prerequisites, geographical distance and source mechanics govern. No arbitrary tour checklist or skipped independent decisions.",
-      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY"
+      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY",
+      "individual_women_encounter_slots": [
+        "RW_FIORA",
+        "RW_KAYLE",
+        "RW_MORGANA",
+        "RW_LUX",
+        "RW_POPPY",
+        "RW_QUINN",
+        "RW_SHYVANA",
+        "RW_SONA",
+        "RW_VAYNE",
+        "RW_ASHE",
+        "RW_AURORA",
+        "RW_LISSANDRA",
+        "RW_SEJUANI",
+        "RW_ANIVIA",
+        "RW_DIANA",
+        "RW_LEONA",
+        "RW_SORAKA",
+        "RW_ZOE",
+        "RW_TRISTANA",
+        "RW_LULU",
+        "RW_YUUMI",
+        "RW_NORRA"
+      ]
     },
     {
       "id": "NOXUS_PAYOFF",
@@ -192,15 +272,27 @@
     },
     {
       "id": "ZAUN_NOXUS",
-      "status": "ACTIVE_PRIORITY_E28_FIRST_ROBBERY_COMPLETED_E20",
+      "status": "ACTIVE_AFTER_E28_COLLECTION_HOUSE_SCORE_COMPLETED",
       "title": "A score with real opposition",
-      "direction": "Resume group choices around the six stolen Purple Pain cases and Heisenberg’s living empire. Daniel, Chris/Billy and Arthur initiate and change the operation. Existing witnesses, criminal aims and independent opposition determine events; no automatic retaliation or inventory reset.",
+      "direction": "E20 Rivermark theft and E28 collection-house robbery completed. Six cases returned to Dessa, 300 silver paid and 2100 new common silver retained. Group choices, surviving witnesses and Heisenberg's independent response shape the next operation. Regional individual encounters layer into this movement; no replay, automatic retaliation or inventory reset.",
       "source_direction_crosswalk": [
         "A38",
         "A39",
         "A40"
       ],
-      "boundary": "Do not substitute Heisenberg’s old death or automatic inheritance. Noxian reactions follow actually delivered reports and real travel. A later consequence can change what the score becomes."
+      "boundary": "Do not substitute Heisenberg’s old death or automatic inheritance. Noxian reactions follow actually delivered reports and real travel. A later consequence can change what the score becomes.",
+      "individual_women_encounter_slots": [
+        "RW_MEL",
+        "RW_CAITLYN",
+        "RW_CAMILLE",
+        "RW_ORIANNA",
+        "RW_SERAPHINE",
+        "RW_VI",
+        "RW_JINX",
+        "RW_RENATAGLASC",
+        "RW_ZERI",
+        "RW_JANNA"
+      ]
     },
     {
       "id": "NOXUS_CONTEST",
@@ -212,7 +304,19 @@
         "A42"
       ],
       "boundary": "No all-villains coalition, forced truce, generic protection racket or scene-count quota. Naganeka can become a real agent or contested siege force, not an automatically refused collectible.",
-      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY"
+      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY",
+      "individual_women_encounter_slots": [
+        "RW_AMBESSA",
+        "RW_BRIAR",
+        "RW_CASSIOPEIA",
+        "RW_ELISE",
+        "RW_KATARINA",
+        "RW_LEBLANC",
+        "RW_RIVEN",
+        "RW_SAMIRA",
+        "RW_ANNIE",
+        "RW_RELL"
+      ]
     },
     {
       "id": "SEA",
@@ -220,7 +324,17 @@
       "title": "Bilgewater, serpent waters and the Isles",
       "direction": "Arthur’s Graves/TF/Miss Fortune/Gangplank and Billy’s Nami/Pyke/Nautilus/Illaoi/Tahm selections; substantive exterior Vecna/Upside Down arc; Ibaaros/Taarosh; independent Thor/serpent, Riddick and Elise.",
       "boundary": "Travel, actual entry, language and custody stay real. Keep selected Tahm father culmination prospective. No already-dead Vecna, automatic host, free passage home or repeated coast event.",
-      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY"
+      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY",
+      "individual_women_encounter_slots": [
+        "RW_ILLAOI",
+        "RW_MISSFORTUNE",
+        "RW_NILAH",
+        "RW_GWEN",
+        "RW_KALISTA",
+        "RW_SENNA",
+        "RW_VEX",
+        "RW_NAMI"
+      ]
     },
     {
       "id": "SOUTH",
@@ -228,7 +342,19 @@
       "title": "Hunts and competing histories",
       "direction": "Ixtal/Shurima: Naafiri’s pack and source-backed Darkin history; Horazi’s independent Targon strand. Regional actors remain available through new causal choices.",
       "boundary": "No history-only Darkin resurrection or automatic trust/unity. Sources become actor knowledge only when accessed.",
-      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY"
+      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY",
+      "individual_women_encounter_slots": [
+        "RW_SIVIR",
+        "RW_TALIYAH",
+        "RW_NAAFIRI",
+        "RW_KAISA",
+        "RW_REKSAI",
+        "RW_BELVETH",
+        "RW_NEEKO",
+        "RW_NIDALEE",
+        "RW_QIYANA",
+        "RW_ZYRA"
+      ]
     },
     {
       "id": "IONIA",
@@ -236,7 +362,17 @@
       "title": "Recognition, mastery and ownership",
       "direction": "Daniel’s Wukong/Sett/Lee Sin/Akali, Kaze/Yone/Kayn–Rhaast and gated Zaahen; Xolaani/Praa; Maul, Starkiller and Riven act from separate motives.",
       "boundary": "Kayn contest and native agendas matter; no automatic fully transformed host, alliance, redemption or assumed survival.",
-      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY"
+      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY",
+      "individual_women_encounter_slots": [
+        "RW_AHRI",
+        "RW_AKALI",
+        "RW_IRELIA",
+        "RW_KARMA",
+        "RW_LILLIA",
+        "RW_SYNDRA",
+        "RW_XAYAH",
+        "RW_YUNARA"
+      ]
     },
     {
       "id": "NORTH_WEST",
@@ -244,7 +380,31 @@
       "title": "The remaining northern and western encounters",
       "direction": "Freljord/Demacia/Targon/Bandle: Daniel/Gragas, Anaakca/Joraal/Horazi/Baalkux and gated Fiddlesticks. Galio is inactive; Galio remains an independent native actor. Geography and access remain real.",
       "boundary": "Encounter prerequisites, geographical distance and source mechanics govern. No arbitrary tour checklist or skipped independent decisions.",
-      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY"
+      "schedule_status": "AVAILABLE_ENSEMBLE_PRIORITY_BY_ACCESS_AND_AGENCY",
+      "individual_women_encounter_slots": [
+        "RW_FIORA",
+        "RW_KAYLE",
+        "RW_MORGANA",
+        "RW_LUX",
+        "RW_POPPY",
+        "RW_QUINN",
+        "RW_SHYVANA",
+        "RW_SONA",
+        "RW_VAYNE",
+        "RW_ASHE",
+        "RW_AURORA",
+        "RW_LISSANDRA",
+        "RW_SEJUANI",
+        "RW_ANIVIA",
+        "RW_DIANA",
+        "RW_LEONA",
+        "RW_SORAKA",
+        "RW_ZOE",
+        "RW_TRISTANA",
+        "RW_LULU",
+        "RW_YUUMI",
+        "RW_NORRA"
+      ]
     },
     {
       "id": "NOXUS_PAYOFF",
@@ -577,6 +737,17 @@
       "healing_and_repairs": "Author-approved qualitative accelerated Chris serum/BELLY and Daniel hybrid recovery; quick competent ordinary repairs at BELLY workbench. Full application is integrated in canon/presentation/Season3_Approved_Portrayal_Patch_20261018.md. No numerical rate, instant cure, new limb regrowth or retrospective E17 repair.",
       "TPP_tone": "Prestige Worldwide, Brian/Dr Evil and Busta/Scotty, Anchorman, Spaceballs, South Park and RDR2. Not Trailer Park Boys. Dutch persuasion can work; Brian contests credit; genuine modest successes persist; Clifford remains dangerous; Bob grief sincere; landlord not universal babysitter.",
       "full_application_owner": "canon/presentation/Season3_Approved_Portrayal_Patch_20261018.md"
+    },
+    "KAZE_RELATIONSHIP_CONSEQUENCES": {
+      "authority": "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_DISCOVERED",
+      "partners": [
+        "Elise",
+        "Samira",
+        "Briar"
+      ],
+      "father": "Kaze",
+      "rule": "Preserve partner history and later pregnancies as selected by author. No current actor knowledge, scheduled reveal, gestation skip or Briar return granted. Other pregnancies not guaranteed."
     }
   },
   "crossover_deployment": [
@@ -837,7 +1008,7 @@
     "Katarina": "Noxian duty, professional judgment and family conflict; use a particular sourced target/access decision in A41/A42 or finalNoxus, not automatic Swain obedience or unselected later comic abilities.",
     "Talon": "Actual employer/allegiance must be pinned; one assassination or observation objective can collide with Katarina or Sins, no automatic shared DuCouteau agenda.",
     "Riven": "Independent responsibility and disillusionment, exact exile/capture chronology preserved; Ionia/Noxus involvement follows her choice and actual route, not compulsory rescue.",
-    "Samira": "Living return E23, E25 encounter history retained. E27 leaving Lask with Kaze, ordinary loaded pistol and injured braced wrist; original specialist weapons remain stolen BELLY loot. No gang membership or new pursuit while romance OFF.",
+    "Samira": "Alive, first reset return E23 and mutual E25 encounter retained. E28 last seen coastward beside Kaze; specialist weapons still stolen BELLY loot. Temporary companion/property claimant and established sexual partner, not Sin or committed girlfriend. Future pregnancy selected but not discovered; romance ON.",
     "Briar": "INACTIVE_BY_AUTHOR_AFTER_E27. Remove ongoing companionship and prospective admission priority; preserve delivered history/full owner. Brief exit permitted next PLAY; none enacted by WORK.",
     "Sion": "No current-branch completed encounter established. Do not import superseded S3 reanimation/death or assign another fighter automatically.",
     "Draven": "Living Noxian figure with his own performance, status and violence motives. Old arena outcome and weapon custody reset; no guaranteed repeated death."
@@ -888,11 +1059,11 @@
     "topic_sources/Capability_and_Speech_Overrides.txt",
     "approved_rolloff/staged/EXACT_QUOTE_REGISTER.json"
   ],
-  "current_cursor": "E27 delivered, author criticized pacing; E28 next and not drafted.",
+  "current_cursor": "E28 DELIVERED_PROVISIONAL, acceptance NOT_ASSERTED. E29 paused and not drafted.",
   "pre_solo_schedule_provenance": "Unmodified prior outline preserved in rollback; current scheduling below overrides stale E17/E18 cursor and pending-introduction claims.",
   "focus_mode": "ENSEMBLE",
   "romance_owner": "canon/relationships/Kaze_Adult_Romance_20261018.md",
-  "KAZE_ROMANCE_ENABLED": false,
+  "KAZE_ROMANCE_ENABLED": true,
   "solo_schedule": {
     "status": "SUPERSEDED_BY_ENSEMBLE_RESUME_AFTER_E27",
     "authority": "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
@@ -907,10 +1078,11 @@
   },
   "female_life_override": "state/work/Female_Roster_Restoration_20261018.json",
   "female_roster_audit": "reference/Female_Roster_Audit_20261018.json",
-  "current_author_boundaries": "WORK only: Briar removed from active plotting, group resumed, romance OFF, history retained. Latest connected override controls. No new events or elapsed time.",
+  "current_author_boundaries": "WORK only. Romance ON; ensemble/group outline retained. Briar offstage, history preserved. Zeri explicitly adult. Three future pregnancies selected without discovery; no events or time advanced.",
   "adult_character_pins": {
     "Tristana": "18, explicit author setting recovered Sep10; no prior romance/death imported",
-    "Gwen": "Previously selected adult romantic portrayal; no invented numerical age or old partner event"
+    "Gwen": "Previously selected adult romantic portrayal; no invented numerical age or old partner event",
+    "Zeri": "Adult in the selected current branch by explicit author clarification. This is a permanent character setting, not an elapsed-time event. No exact age, relationship, fertility or power upgrade inferred."
   },
   "solo_opening": {
     "status": "SUPERSEDED_BY_ENSEMBLE_RESUME_AFTER_E27",
@@ -920,7 +1092,7 @@
   "champion_region_owner": "reference/Female_Champion_Regions_20261018.json",
   "noxus_research_owner": "research/Noxus_Women_20261018.md",
   "briar_first_meeting_override": "state/work/Briar_First_Meeting_Author_Override_20261018.json",
-  "authority_override": "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+  "authority_override": "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
   "concise_outline": "continuity/SEASON3_NEXT.md",
   "editorial_feedback": "continuity/editorial/E27_Attention_Feedback.json",
   "provenance": {
@@ -930,9 +1102,21 @@
   },
   "next_episode_direction": {
     "priority": "Group-led substantive objective, suspense and developed ensemble comedy; resume main operation rather than another local acquisition tour.",
-    "Briar": "Brief causal exit at next PLAY then offstage; no subplot or later appearance scheduled.",
+    "Briar": "E28 voluntary departure completed. Offstage, prior relationship retained; no return scheduled.",
     "Kaze": "Prompt reunion/contact route to group where supported; no silent ocean crossing. Current companions and ballista custody require accounted decisions, not disappearance.",
-    "group": "E20 anchor plus four elapsed overnights reconciled efficiently. Give Daniel a consequential initiating choice and the others real contributions, without equal-time roll call.",
-    "ending": "Deliver a meaningful local payoff/change in the main operation. Future hooks are supplementary, not the whole reward."
-  }
+    "group": "E28 heist completed. Six cases returned to Dessa; 2100 new common silver remains unallocated; gang in BELLY/Zaun with Chris exterior. Continue a group-chosen objective and real consequences, not a repeat heist.",
+    "ending": "Deliver a meaningful local payoff/change in the main operation. Future hooks are supplementary, not the whole reward.",
+    "romance": "ON alongside the ensemble. Use individual regional slots when actual contact permits, without a hookup checklist or diverting every Sin into Kaze's subplot."
+  },
+  "authority_overrides": [
+    "continuity/author/Kaze_Romance_OFF_After_E26.json",
+    "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
+    "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json"
+  ],
+  "encounter_register": "continuity/Runeterra_Women_Encounter_Register.json",
+  "encounter_register_sha256": "8407d3fd384242cc4f9d9c090dd92d6db72c93cc6af74d299e60897a10eaa5c4",
+  "cross_movement_women_slots": [
+    "RW_EVELYNN",
+    "RW_KINDRED"
+  ]
 }

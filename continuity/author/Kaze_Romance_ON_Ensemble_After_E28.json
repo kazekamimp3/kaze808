@@ -1,0 +1,88 @@
+{
+  "schema": "S7NS_SCOPED_AUTHOR_CONTROL_V1",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "effective_local_date": "2026-10-18",
+  "timezone": "Pacific/Honolulu",
+  "status": "AUTHOR_APPROVED_CONFIGURATION_NOT_PLAY",
+  "authority": "Latest explicit author instructions: retain Elise/Samira/Briar partner history and future pregnancies; turn Kaze romance back ON while keeping group outline; individual regional encounters; Zeri is an adult.",
+  "KAZE_ROMANCE_ENABLED": true,
+  "focus_mode": "ENSEMBLE",
+  "ensemble_paused": false,
+  "PLAY_authorized_by_this_command": false,
+  "episode_29_paused": true,
+  "new_events": false,
+  "story_time_advanced": false,
+  "supersedes": [
+    "Only prospective OFF toggle in continuity/author/Kaze_Romance_OFF_After_E26.json and later OFF summaries.",
+    "The Zeri age/phase uncertainty in the existing female roster references: author explicitly pins this branch's Zeri as adult. No numerical age supplied.",
+    "No-pregnancy default only for the three explicitly selected future outcomes below."
+  ],
+  "preserves": [
+    "Briar's E28 departure and inactive plot status; no return scheduled.",
+    "Group outline, matchups, source fidelity, original manuscripts/checkpoints, S1–2, condensed Campfire Specials, installed storytelling repair.",
+    "Actual E21–28 events, independent goals, existing relationships/orientations, actor knowledge, locations, possessions, injuries and causal consequences.",
+    "Grayson, Sky Young and Cassandra Kiramman remain dead; other removal authorities stay effective."
+  ],
+  "romance_behavior": {
+    "owner": "canon/relationships/Kaze_Adult_Romance_20261018.md",
+    "application": "Restore proactive adult flirting, clear interest, responsive suggestive banter and recurring relationship-specific familiarity. Use the retained pacing and agency rules; not a solo schedule, automatic attraction, guaranteed intimacy, recruitment or exclusivity.",
+    "presentation": "Consensual adult intimacy may be confirmed off-page with fade-to-black and meaningful aftermath. No explicit sexual mechanics or act-focused erotic dialogue.",
+    "consent": "Current freely chosen consent for every encounter; a refusal is not hidden consent or an attrition target. Source relationships and sexual orientations are not silently rewritten.",
+    "first_new_partner": "Retained first private one-on-one rule remains. Prior meetings and intimacy are not replayed as new."
+  },
+  "reproductive_continuity": {
+    "preference": "Author-selected non-withdrawal preference in consensual adult intimacy is a non-graphic continuity detail, not a depicted act.",
+    "agreement": "Any reproductive-risk choice requires both partners' informed agreement; no deception or unilateral override. Consent to one act is not blanket consent to other acts or reproductive risk.",
+    "general_outcome": "No automatic pregnancy for every partner and no new fertility, reproductive anatomy or supernatural compatibility power. Track any later selected outcome separately.",
+    "selected_future_pregnancies": [
+      {
+        "partner": "Elise",
+        "father": "Kaze",
+        "basis": "Author-selected consequence of prior E25 encounter; adult human-form portrayal. Discovery remains future."
+      },
+      {
+        "partner": "Samira",
+        "father": "Kaze",
+        "basis": "Author-selected consequence of prior E25 encounter. Discovery remains future."
+      },
+      {
+        "partner": "Briar",
+        "father": "Kaze",
+        "basis": "Author-selected consequence of prior E21/E24 encounters; exact conception encounter not selected. Offstage status retained."
+      }
+    ],
+    "status": "AUTHOR_SELECTED_FUTURE_OUTCOMES_NOT_DISCOVERED_ON_PAGE",
+    "unknowns": [
+      "Exact conception moment, reveal episode, gestation timing, symptoms, diagnosis, offspring number/traits and individual reactions remain unspecified."
+    ],
+    "knowledge": "No actor learns of a pregnancy through this WORK update. Do not give characters the author's future knowledge."
+  },
+  "established_partners": [
+    "Elise",
+    "Samira",
+    "Briar"
+  ],
+  "partner_scope": "Retained sexual-partner status and actual history; not committed girlfriends, ownership, obligation, perpetual consent or Sins membership. Briar remains offstage. Samira's temporary travel/property grievance is not automatically permanent companionship.",
+  "adult_character_pins": {
+    "Zeri": "Adult in the selected current branch by explicit author clarification. This is a permanent character setting, not an elapsed-time event. No exact age, relationship, fertility or power upgrade inferred."
+  },
+  "encounters": {
+    "register": "continuity/Runeterra_Women_Encounter_Register.json",
+    "scope": "Individual slots for all 70 entries in the existing female champion regional register, including its separately labeled LoR-only Norra and non-romantic child/nonhumanoid entries. Other already-selected native/crossover women remain in their existing source-owned threads.",
+    "group_rule": "Interleave encounters with the existing group's operations and regional movements. Never convert the season into an exclusive Kaze solo or a consecutive hookup tour. Other Sins retain their initiatives, matchups and screen time.",
+    "eligibility": "Romantic possibilities only for established adults with capacity, mutual interest and consent. Minors, childlike portrayals and unverified-adult versions are non-romantic; creature/spirit entries confer no body or sexual eligibility.",
+    "continuity": "Before staging, read full owners and matching-branch relationship history; first meeting versus reunion is evidence-driven. Slots are selected story opportunities, not completed meetings, relationships, victories or pregnancies."
+  },
+  "source_evidence": [
+    "continuity/episodes/E25/S3_Episode_25_Checkpoint.json",
+    "continuity/episodes/E28/S3_Episode_28_Checkpoint.json",
+    "canon/relationships/Kaze_Adult_Romance_20261018.md",
+    "reference/Female_Champion_Regions_20261018.json",
+    "reference/Female_Roster_Audit_20261018.json",
+    "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json"
+  ],
+  "rollback": {
+    "previous_main_commit": "30e24a50fa485031038abd6bf88bb551a28a66e7",
+    "rule": "Restore only changed operational files/fields from captured before values or inverse scoped commit, preserving later unrelated work. Never delete original sources or manuscripts."
+  }
+}
