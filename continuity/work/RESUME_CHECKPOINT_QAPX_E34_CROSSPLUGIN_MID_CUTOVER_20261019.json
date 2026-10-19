@@ -1,0 +1,78 @@
+{
+  "schema": "S7NS_QAPX_RESUME_CHECKPOINT_V1",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "date": "2026-10-19",
+  "mode": "WORK_NO_PLAY",
+  "status": "PARTIALLY_COMPLETED_CROSS_PLUGIN_CUTOVER; PACKAGING_AND_DRIVE_REMAIN",
+  "last_delivered_episode": 34,
+  "author_acceptance": "NOT_ASSERTED",
+  "next_episode": 35,
+  "next_status": "UNWRITTEN_NOT_PLAY_AUTHORIZED",
+  "github_current": "continuity/CURRENT.json",
+  "github_ledger": "continuity/DELIVERY_LEDGER.json",
+  "episode_owner": "continuity/episodes/E34/S3_Episode_34_Checkpoint.json",
+  "preserved_prior_work": {
+    "research": [
+      "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
+      "research/Rick_ATHF_Trover_TPP_Comedy_Dialogue_DeepPass_20261019.md",
+      "continuity/editorial/S7NS_Projectwide_Story_Comedy_Routing_Audit_After_E34_20261019.md"
+    ],
+    "previous_checkpoint": "continuity/work/RESUME_CHECKPOINT_E34_COMEDY_FIDELITY_AUDIT_20261019.json",
+    "project_uploaded_bundles": "28 supplied QAPX physical files, verified unchanged by prior checksum audit; original payloads PRESERVED",
+    "original_seasons_and_specials": "UNTOUCHED"
+  },
+  "cross_plugin_progress": {
+    "Airtable": {
+      "base_id": "appKCCr9zg0rsfbOI",
+      "readback_verified": true,
+      "characters_11": "5 existing actor updates + 6 new cast records",
+      "episodes_4": "2 existing statuses corrected + E33 E34 created",
+      "research_3": "Created and verified",
+      "decisions_2": "Created and verified",
+      "consequences_2": "Created and verified",
+      "record_total_verified": 22
+    },
+    "Notion": {
+      "readback_verified": true,
+      "updated_existing_pages": [
+        "3fd4e1b7-29b3-8146-b48c-c3f823ebddd0",
+        "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+        "3fe4e1b7-29b3-81a1-8e9c-c33fc092175e",
+        "3fd4e1b7-29b3-8114-a1cd-dc041841904a",
+        "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb"
+      ],
+      "method": "Preserved old sections marked historical, added latest E34 status/research and author changes"
+    },
+    "Drive": {
+      "workspace_id": "1RrEZtbm3JO1ZvIF-ZJvsno79ZGVZQPaz",
+      "status": "FOLDER_READ_AND_SEARCH_COMPLETED; E34 HANDOFF NOT YET UPLOADED",
+      "originals_preserved": true
+    },
+    "GitHub": {
+      "source_research_existing_and_verified": true,
+      "live_cursor_E34_confirmed": true,
+      "candidate_QAPX_E32_plan": "STALE_NOT_TO_INSTALL_UNCHANGED"
+    }
+  },
+  "latest_author_scopes": {
+    "Kaze_romance": "OFF",
+    "Dana_Mana": "LOYAL AND PHYSICALLY EXTERIOR AFTER E34",
+    "Zid": "NOT A SIN; COMPULSORY BETRAYAL/TPP TRANSFER CANCELED",
+    "Deadpool": "ONLY MAIN NARRATOR FROM E33, PLUS RICK ARGUMENTATIVE SPEECH INFLUENCE; NO NEW PHYSICAL WADE",
+    "Mimir": "SAME REANIMATED HEAD WITH KRATOS AFTER PHYSICAL E33 ATTACHMENT",
+    "K_K": "GROWN E33, FIRST OUTSIDE E34, NOT A SIN",
+    "BELLY": "CHRIS/CHARLES/MEATWAD/SHAKE/FRYLOCK INSIDE, BILLY SOLE EXTERIOR",
+    "TPP": "DUTCH CLIFFORD TRACY/ADULT CONJOINED BRIAN COON JIMMY TIMMY; DR EVIL AND AUSTIN PROSPECTIVE",
+    "Teemo": "ENTIRELY EXCLUDED FROM ACTIVE CANON AND DEPENDENT ABILITIES",
+    "source_discipline": "ONLY existing Season3_Scene_Decision_Doctrine_20261010.md; no second procedure"
+  },
+  "resume_from": "Construct ADDITIVE changed-owner source overlays inside changed physical bundles, with complete original owner byte identity and offset integrity retained. Rebuild changed-only manifest/routes/instruction candidate and hash/rollback. Deliver Drive handoff through existing workspace if tool permits; verify actual writes. Save final checkpoint to GitHub and locally. ChatGPT Project attachment/custom instruction installation remains unverified until actual user-surface readback.",
+  "no_story_days_advanced": true,
+  "no_play": true,
+  "not_finished": [
+    "Drive production handoff",
+    "append-only source overlays",
+    "manifest + routing integrity validation",
+    "actual Project source attachment replacement/readback"
+  ]
+}
