@@ -1,85 +1,77 @@
 {
   "schema": "S7NS_WORK_RESUME_CHECKPOINT_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "status": "SAVED_WORK_HANDOFF_AFTER_INTERRUPTED_PLAY",
-  "mode": "WORK_SAVE_NO_NEW_PLAYBACK",
-  "author_request": "SAVE CHECKPOINT. CONTINUE FROM THE EXACT EXISTING STATE. Resume from the newest unfinished step. Do not restart or redo completed work.",
+  "status": "RECOVERED_REVIEWED_E31_READY_FOR_AUTHORIZED_DELIVERY",
+  "mode": "PLAY_EPISODE_31",
+  "author_request": "So where's the episode at?",
+  "authorization": "Unfulfilled preceding PLAY for E31 remains authorized; current request calls for its delivery, not another handoff or a replacement episode.",
+  "preserved_prior_handoff": "https://github.com/kazekamimp3/kaze808/blob/2a8ce3d2bb8d19f5eb81fe5a42f9f611387b3dc9/continuity/episodes/E31/RESUME_CHECKPOINT.json",
   "last_delivered": {
     "episode": 30,
     "title": "The Right of Passage",
     "status": "DELIVERED_PROVISIONAL",
-    "acceptance": "NOT_ASSERTED",
+    "acceptance": "NOT_ASSERTED; pacing and staging criticized",
     "reconciliation": "continuity/episodes/E30/DELIVERY_RECONCILIATION.json",
     "manuscript_sha256": "32dcc04c32d793b82cc8eb4737bbe10f19a22745f7b57d328bbe8cee54f4ad2f",
     "checkpoint_sha256": "39f559cb2c4d48ed93cca3fb7d5e6af0ae2c6c06f228a25f0834662ca9bd4752"
   },
-  "pending_play": {
+  "prepared_episode": {
     "episode": 31,
-    "author_authorization": "The immediately preceding user PLAY, after the Chris/Billy clarification.",
-    "failure": "Assistant response was Thinking failed; no E31 episode was delivered.",
-    "authorization_retained": true,
-    "new_PLAY_in_this_SAVE": false,
-    "draft_status": "NO_E31_DRAFT_RECOVERED_IN_CHECKED_SOURCES",
-    "search_scope": "Default-branch continuity/episodes tree ends at E30; mounted recovery package contains E30 only; scoped Library filename searches found no E31 match. This is not proof no private draft exists anywhere.",
-    "do_not": "Do not replay E30, fabricate a recovered E31 manuscript, restart the season or rerun completed audits."
+    "title": "Dead Money",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E31/S3_Episode_31_Dead_Money.txt",
+    "manuscript_sha256": "8aff3a9fd9266b5a38477270099c35ac1eb9da859d7ace3d6352d9cd9f907845",
+    "manuscript_git_blob": "eb8c55ee55ed01f18e57c12814d4296e43aa2ed9",
+    "checkpoint": "continuity/episodes/E31/S3_Episode_31_Checkpoint.json",
+    "checkpoint_sha256": "fb0623fe82036330e90f850d42530f0875e0012dca74b9087d86a553cb8fc698",
+    "checkpoint_git_blob": "1923220f046b2ba7dab766c4995b5975a2f3dfc5",
+    "review": "continuity/episodes/E31/S3_Episode_31_Review.json",
+    "review_sha256": "932adfdf249607de53cbf48bb561bb8a27cea312405f045cd5cc33aac3a168d6",
+    "review_git_blob": "68ae47765ee651d9c8f6fbd7209364becb272766",
+    "body_words": 3985,
+    "assumed_wpm": 150,
+    "estimated_minutes": 26.57,
+    "measured_audio": false,
+    "original_text_changed": false
   },
-  "completed_this_resume": [
-    "Loaded the existing connected startup and current record; located stale E29 delivered / E30 prepared cursor.",
-    "Recovered the exact supplied E30 package without modifying it; verified full manuscript/checkpoint bytes against GitHub object identities.",
-    "Read the complete existing E30 to reconcile its visible delivery and preserve criticism separately from author acceptance.",
-    "Prepared a separate delivery reconciliation and this resumable work checkpoint; no episode drafted or story event added."
-  ],
-  "exact_story_endpoint": {
-    "time": "E30 afternoon, six completed overnights since E20; no additional overnight or travel added by SAVE.",
-    "place": "Inland Noxian road beyond the ravine crossing; heading toward larger settlements, not the capital yet.",
-    "outside": [
-      "Kaze",
-      "Daniel",
-      "Arthur",
-      "Chris"
-    ],
-    "inside_BELLY": [
-      "Billy, full-sized inactive partner",
-      "Charles",
-      "Meatwad"
-    ],
-    "shared_body": "Exactly one exterior Chris/Billy body. Chris currently controls it; Billy is inside. No second exterior, both-partners-inside state or empty exterior.",
-    "Naganeka": "Original bound ballista left stable on harbor shelf in E30. Dropped from active plotting; no return, sale, host search or transfer of powers.",
-    "Magneto": "First encounter completed. Last observed on far side of ravine with refugees; not a member or traveling companion. No scheduled rematch.",
-    "Sorell": "Last observed riding toward signal station with two survivors. Receipt of report, orders and reinforcements are not enacted.",
-    "other_last_knowns": "Samira independently southward with returned weapons/braced wrist; Briar remains offstage; other actors follow existing current evidence, not an invented freeze or unseen gain."
+  "recovery_evidence": {
+    "source": "Existing Google Drive production folders, not a newly invented or reconstructed manuscript.",
+    "manuscript_drive_id": "1STp4OyOlmwLKswxzut418IRIb0N4rgkh",
+    "checkpoint_drive_id": "1_izaIdtGHosDuS1Y0D6sajsHSnMxWO7N",
+    "review_drive_id": "1TAic2nwWyhKCsvAnIDZ87b8Kxga1ILgy",
+    "method": "All three original files fetched as raw bytes. Local SHA256 values calculated; checkpoint's manuscript hash agrees. Exact recovered text saved to GitHub; fresh provider blob hashes match locally calculated Git blob hashes for all three files.",
+    "prior_search_limit": "The previous handoff's no-draft-found result covered then-checked sources, not the existing Drive files now recovered. It is superseded, not a reason to rewrite E31."
   },
-  "retained_resources": {
-    "new_unallocated_common_silver": 2100,
-    "older_common_silver": 20,
-    "Kaze_personal_silver": 5,
-    "Daniel_personal_silver": 110,
-    "Chris": "Bent ordinary sighting assembly acquired; not repaired or a new power. Subaru recalled; prior fuel expenditure remains, no refill. THE CRITIC did not fire in E30.",
-    "Arthur": "One E30 projectile expended, in addition to prior E28 expenditure; exact remaining ammunition and unestablished second gun not invented.",
-    "Kaze": "Black Marrow reintegrated; shallow arm nick healed. Existing clothing damage/grime remain.",
-    "carp": "Existing stand completed E29; no working water system."
+  "recovery_review": {
+    "first_full_read": "Recovered manuscript read sequentially in line windows 1-190, 191-385, 386-620, 621-end.",
+    "second_full_read": "Complete unchanged recovered manuscript reread in contiguous character windows 0-12100 and 12100-end after source comparisons.",
+    "observed_body_staging": "First courtyard scene places Chris outside and Billy with Charles/Meatwad inside. A later explicit same-spot inversion puts Billy outside and Chris inside. No subsequent Chris exterior action or private interior-to-exterior hearing is introduced.",
+    "observed_entertainment_structure": "Kidnapping objective changes when an independent assassin kills the intended hostage. The Sins pivot to stealing the payment, exploit an actual pay grievance and retain two coin chests. The final negotiation changes custody rather than merely restating a completed fight. No new claim of author-approved pacing.",
+    "source_correction": "Full character_sources/Arthur_Character_Source.txt explicitly grants TWO ten-round UNSHAKEN revolvers and a rebuilt left hand/forearm. The previous handoff's second-gun uncertainty is resolved by this owner, not by granting a new weapon. E31 uses one of the existing revolvers twice; no shot count is retroactively invented.",
+    "other_focused_comparisons": "Complete Teemo and Katarina individual owners; complete relevant Critic external-recoil/ammunition section; Arthur complete current weapon/body sections; current source-removal and one-exterior controls. Earlier recovered review coverage retained as earlier evidence, not a new exhaustive audit.",
+    "new_manuscript_repairs": [],
+    "scope": "Recovery and whole-text delivery review only; not a semantic certification of every inherited source sentence, exact public audiovisual performance, or future listener satisfaction."
   },
-  "corrections_for_pending_work": {
-    "pacing_owner": "continuity/editorial/E27_Attention_Feedback.json#/followup_feedback",
-    "pacing": "Use the existing scene doctrine. Build E31 around a substantial ensemble-chosen undertaking from the retained outline; do not stretch another transit obstacle, routine salvage or permission dispute to fill the duration. Cut repeated social beats and defensive rule explanations; preserve genuine humor, choices and character depth. No specific E31 target or outcome has been selected by this SAVE.",
-    "body_staging": "At a change between interior and exterior, establish who is physically where and distinguish a monitor image or permitted audio relay from physical presence. Do not create both partners inside or compensate with constant rulebook narration.",
-    "communication": "The E30 interior exchange leaves the outward audibility of some occupant questions insufficiently staged. This is a presentation/access issue, not a grant of private interior hearing to Chris. Use only the established permitted relay, deliberately and clearly, when relevant.",
-    "duration": "Retain 3750-4500 spoken prose words at assumed 150 words/minute; not measured audio. Earn the length rather than pad it.",
-    "preserved_configuration": "Ensemble active; romance ON within existing adult agency boundaries; Briar offstage; Rick/Morty nonmembers; existing removals, kit restrictions, full-owner routing, Seasons1-2 and confirmed Specials unchanged."
+  "exact_pre_delivery_endpoint": {
+    "time": "E30 afternoon; six completed overnights since E20",
+    "place": "Inland Noxian road beyond ravine, not capital",
+    "outside": ["Kaze", "Daniel", "Arthur", "Chris"],
+    "inside_BELLY": ["Billy", "Charles", "Meatwad"],
+    "ballista": "Already left behind in E30; inactive",
+    "pending_E31_state": "Use prepared E31 checkpoint only after exact response delivery has actually occurred. Do not promote its new events before then."
+  },
+  "reference_alignment": {
+    "airtable_E30": "Delivery field updated to DELIVERED_PROVISIONAL; acceptance not asserted and criticism retained.",
+    "airtable_E31_record": "recygeOh4nfSYArlv",
+    "notion_episode_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "notion_change": "E30 delivery correction and recovered E31 prepared entry saved in existing episode index.",
+    "remaining": "Broad CURRENT/DELIVERY_LEDGER/active-outline/other reference projections retain older fields. This latest scoped handoff and E30 reconciliation override them. Do not claim all reference records synchronized; finish remaining projections without redoing recovery or withholding the recovered episode."
   },
   "newest_unfinished_step": {
-    "id": "E30_CURRENT_LEDGER_REFERENCE_ALIGNMENT_BEFORE_E31_DRAFT",
-    "instruction": "Apply the separate E30 delivery receipt to the existing CURRENT, DELIVERY_LEDGER, active-outline cursor and affected reference records without rewriting the immutable E30 pair. Then resume E31 source-backed scene construction from this endpoint, not another E30 or installation audit.",
-    "not_completed": "No E31 working brief, draft, whole-text review, save or delivery is asserted. No fully completed cross-service synchronization is asserted.",
-    "integration_policy": "Reuse existing GitHub, Airtable, Notion and Drive workspace identifiers from integrations/registry.json. Check only affected records; preserve previous reads and originals. No new installation, voice service or unattended synchronization."
+    "id": "DELIVER_EXACT_RECOVERED_E31_NOW",
+    "instruction": "Send the exact reviewed E31 Dead Money manuscript to the user. Do not write a replacement, replay E30 or return another save-only report. At the next interaction compare the actual response with the saved manuscript, reconcile delivery, then continue to E32 only when authorized.",
+    "after_delivery": "Align remaining legacy projections to observed E31 state through its exact pair, preserve all originals, and retain author acceptance as separate."
   },
-  "known_pre_resume_remote_state": {
-    "CURRENT_git_blob": "7a2d0f5f0c99efff7d4fc7f8b59af7b3476c8e96",
-    "DELIVERY_LEDGER_git_blob": "f72bea618b2b15822b1fa54e3cc726f8796eed57",
-    "startup_git_blob": "f55de9f51535080756a71566611be1fd19a952d9",
-    "qualification": "Existing startup/current/ledger still contained pre-delivery E30 labels at recovery. This work handoff records the actual E30 delivery and the exact remaining synchronization task."
-  },
-  "no_story_advance": true,
-  "no_original_rewrite": true,
-  "no_acceptance_inferred": true
+  "preservation": "S1-2, confirmed Specials, original source bundles, E30 original pair, E31 recovered original pair and prior review remain unchanged. Removed identities, romance ON/ensemble, Briar offstage and all scoped restrictions remain."
 }
