@@ -498,6 +498,16 @@
     {
       "path": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
       "status": "LATEST_DIRECT_AUTHOR_ROSTER_OVERRIDE; SHA available from live owner"
+    },
+    {
+      "path": "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
+      "status": "LATEST_AUTHOR_TPP_IDENTITY_FUTURE_SURGERY_OR_ROMANCE_OFF",
+      "scope": "AFTER_E32_WORK_NO_PLAY"
+    },
+    {
+      "path": "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
+      "status": "LATEST_AUTHOR_TPP_IDENTITY_FUTURE_SURGERY_OR_ROMANCE_OFF",
+      "scope": "AFTER_E32_WORK_NO_PLAY"
     }
   ],
   "prepared_episode": null,
@@ -506,9 +516,16 @@
     "authorized_episode": null,
     "last_delivered_episode": 32,
     "next_episode": 33,
-    "basis": "Post-E32 author roster restoration, WORK no PLAY, E32 author acceptance NOT_ASSERTED"
+    "basis": "Delivered E32, E33 next pending explicit PLAY. After-E32 author TPP identity/surgery and romance OFF work installed; no E33 action inferred."
   },
   "previous_prepared_episode_history": 30,
   "latest_world_consequence_control": "continuity/author/World_Serpent_and_Autonomous_S3_Roster_After_E31_20261018.json",
-  "dana_mana_restoration_override": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json"
+  "dana_mana_restoration_override": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
+  "current_author_configuration": {
+    "KAZE_ROMANCE_ENABLED": false,
+    "Brusta_true_identity": "Tracy Morgan; TPP mistaken Busta Rhymes",
+    "fictional_Brian": "Adult miniature conjoined human, not Brian Griffin",
+    "Clifford": "Future off-brand Vader walking surgery not enacted",
+    "new_WTF_cameos": "suggestions only"
+  }
 }
