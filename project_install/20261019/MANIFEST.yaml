@@ -3,6 +3,8 @@ release: S7NS_QAPX_20261019_AFTER_E32
 baseline_release: THE_SINS_PROJECT_RETRIEVAL_AND_KIT_REWORK_20261018
 source_of_truth: Latest author controls and exact delivered E32 from private GitHub; full unchanged inherited owners in original bundles.
 bootstrap:
+- routing/QAPX_ROUTE_ADDENDUM_20261019.json
+- complete_sources/QAPX_ACCESS_ADDENDUM_20261019.json
 - authority/QAPX_CURRENT_PRIORITY_20261019.md
 - continuity/CURRENT.json
 - continuity/DELIVERY_LEDGER.json
@@ -25,7 +27,7 @@ current_plan_owner: continuity/SEASON3_ACTIVE_OUTLINE.json
 current_endpoint: Delivered provisional S3 E32 No Horizon; acceptance not asserted.
 next_unwritten: 33
 physical_bundle_count: 29
-logical_module_count: 489
+logical_module_count: 491
 physical_sources:
 - path: 11_RUNETERRA_A_M.md
   byte_length: 74307
@@ -140,8 +142,8 @@ physical_sources:
   sha256: a1e06f2fd2b3138471e321da0b91254e0707eb10036f4ae580dfe58beb1b76c4
   role: controlling_bundle
 - path: 00_S7NS_QAPX_CURRENT_OWNERS.md
-  byte_length: 892927
-  sha256: dd168ca8455c0640a66f8f871be98dbeea0deb71f5e15c8681907a20d32b360a
+  byte_length: 923468
+  sha256: d1a70148fa96466ceb2f59073eec24e2918d274a8a6169bd3024151937902096
   role: controlling_bundle
 logical_modules:
   character_sources/runeterra_extended/Aatrox_Fidelity_Source.txt:
@@ -4555,6 +4557,24 @@ logical_modules:
     domain: qapx_current_owner
     retrieval_role: full_current_or_evidence_owner
 
+  routing/QAPX_ROUTE_ADDENDUM_20261019.json:
+    module: routing/QAPX_ROUTE_ADDENDUM_20261019.json
+    physical_source: 00_S7NS_QAPX_CURRENT_OWNERS.md
+    byte_offset: 893021
+    byte_length: 15544
+    sha256: 5b82bc790470ea7a2cd13e89f6d95664c216099c73e4bf01caed5c6669d6b385
+    role: derived_route
+    domain: qapx_current_routing
+    retrieval_role: current_navigation_addendum
+  complete_sources/QAPX_ACCESS_ADDENDUM_20261019.json:
+    module: complete_sources/QAPX_ACCESS_ADDENDUM_20261019.json
+    physical_source: 00_S7NS_QAPX_CURRENT_OWNERS.md
+    byte_offset: 908750
+    byte_length: 14636
+    sha256: 26537e244f20b3679212ada8d1b9112e2173ee6cf1f827733eab8ab8aa85d31f
+    role: derived_retrieval_view
+    domain: qapx_current_routing
+    retrieval_role: current_navigation_addendum
 aliases:
   character_sources/season3/Van_der_Linde_Arthur_Source.txt: character_sources/Arthur_Character_Source.txt
   reading/authority/ENGINE.md: authority/ENGINE.md
@@ -6367,9 +6387,9 @@ qapx_distribution_20261019:
   status: GITHUB_SAVED_VERIFIED_PROJECT_ATTACHMENTS_AND_UI_INSTRUCTIONS_NOT_YET_INSTALLED
   current_owner_source: 00_S7NS_QAPX_CURRENT_OWNERS.md
   original_physical_bundles_unchanged: 28
-  added_rehydrated_owner_modules: 42
+  added_rehydrated_owner_modules: 44
   repointed_existing_logical_modules: 6
-  new_logical_modules: 36
+  new_logical_modules: 38
   original_453_logical_modules_preserved: true
   delivery: E32_DELIVERED_PROVISIONAL_NOT_AUTHOR_ACCEPTED
   next: E33_UNWRITTEN
