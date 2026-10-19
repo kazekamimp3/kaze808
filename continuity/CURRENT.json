@@ -440,7 +440,7 @@
   "current_gameplay_choice": "Dana HIGH HONOR RDR2, Chris unconcerned with honor. Voluntary frequent BELLY gameplay sessions with real access.",
   "crossovers_meet_crossovers": "Allowed with real access/psychology, e.g. Kratos with toy-sized Buzz; future Maul and Starkiller interactions with off-brand Darth Clifford permitted after actual surgery/travel.",
   "story_status": "E32 delivered provisional; E33 not written or played by current WORK.",
-  "latest_work_checkpoint": "continuity/work/RESUME_CHECKPOINT_20261019_QAPX_STAGED_AFTER_E32.json",
+  "latest_work_checkpoint": "continuity/work/RESUME_CHECKPOINT_20261019_QAPX_PACKAGE_VERIFIED_INSTALL_PENDING.json",
   "last_work_reconciliation": {
     "status": "SAVED_VERIFIED_WORK_NOT_PLAY",
     "last_delivered_episode": 32,
@@ -476,5 +476,11 @@
   "latest_QAPX_handoff": "continuity/work/QAPX_AUTHOR_HANDOFF_20261019.md",
   "latest_QAPX_plan": "continuity/work/QAPX_REPLACEMENT_PLAN_20261019.json",
   "proposed_project_instructions": "continuity/work/QAPX_PROJECT_INSTRUCTIONS_DRAFT_20261019.txt",
-  "QAPX_status": "ALL_CURRENT_AUTHOR_DECISIONS_STAGED_AND_READBACK_VERIFIED_GITHUB_ONLY; NOT_PROJECT_INSTALLED; E33_UNPLAYED"
+  "QAPX_status": "SOURCE_CANDIDATE_29_PHYSICAL_491_LOGICAL_VERIFIED_GITHUB_ONLY_PROJECT_NOT_INSTALLED",
+  "QAPX_project_candidate_manifest": "project_install/20261019/MANIFEST.yaml",
+  "QAPX_project_candidate_owner_bundle": "project_install/20261019/00_S7NS_QAPX_CURRENT_OWNERS.md",
+  "QAPX_project_candidate_instructions": "project_install/20261019/S7NS_PROJECT_INSTRUCTIONS_READY.txt",
+  "QAPX_project_candidate_verification": "project_install/20261019/VERIFICATION_REPORT_FINAL.json",
+  "QAPX_manual_install_guide": "project_install/20261019/INSTALL_README.md",
+  "QAPX_project_install_verified": false
 }
