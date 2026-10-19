@@ -1,11 +1,11 @@
 {
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "E32 No Horizon DELIVERED_PROVISIONAL, acceptance NOT_ASSERTED. Latest author reinstates loyal Dana and Mana; no betrayal or invented absence. E33 next, not yet PLAY authorized.",
+  "as_of": "E32 No Horizon DELIVERED_PROVISIONAL; E33 next not played. Brusta actual Tracy Morgan (mistaken Busta), Brian fictional human not Family Guy, Clifford future surgery, Kaze romance OFF. Dana/Mana loyal.",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
   "checkpoint": "continuity/episodes/E32/S3_Episode_32_Checkpoint.json",
   "manuscript": "continuity/episodes/E32/S3_Episode_32_No_Horizon.txt",
   "manuscript_sha256": "2ecb5636e02885b90e07b222a18b6865961173fecd7ca5a79424cc220b1849ad",
-  "author_override": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
+  "author_override": "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
   "KAZE_ROMANCE_ENABLED": false,
   "Briar_stays": false,
   "Briar_active_plot": false,
@@ -85,7 +85,7 @@
   },
   "prospective_control": {
     "author_override": "continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
-    "KAZE_ROMANCE_ENABLED": true,
+    "KAZE_ROMANCE_ENABLED": false,
     "focus_mode": "ENSEMBLE",
     "ensemble_paused": false,
     "Briar_active_plot": false,
@@ -145,7 +145,9 @@
     {
       "path": "continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json",
       "status": "LATEST_AUTHOR_OVERRIDE"
-    }
+    },
+    "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
+    "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json"
   ],
   "carried_forward_unstaged": {
     "Orren": {
@@ -169,7 +171,7 @@
     "authorized_episode": null,
     "next_episode": 33,
     "last_delivered_episode": 32,
-    "basis": "E32 delivered; restoration is WORK only, no next episode authorized or generated."
+    "basis": "Latest author WORK changes TPP true identity, future Clifford surgery and Kaze OFF; no E33 authorized or story advance."
   },
   "delivery_status": "DELIVERED_PROVISIONAL",
   "delivery_reconciliation": "continuity/episodes/E32/DELIVERY_RECONCILIATION.json",
@@ -348,7 +350,7 @@
     "no_scene_or_time_added": true,
     "immediate_retrieval_required": true
   },
-  "current_author_directive": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json",
+  "current_author_directive": "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
   "current_character_driven_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json#actor_driven_outline_revision",
   "current_noxus_crossover_choice_guide": "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md",
   "latest_author_TPP_and_romance": "continuity/author/TPP_Tracy_Clifford_and_Kaze_Romance_OFF_After_E32_20261018.json",
@@ -364,5 +366,30 @@
     "patient": "adult Jack Clifford Marston, not John Marston or Anakin Skywalker",
     "reveal": "Vader-style surgical misdirection, final Clifford reveal",
     "walk": "earned through source-bounded operation and mechanical components, with costs/limitations"
-  }
+  },
+  "latest_author_20261018_prior_romance": {
+    "KAZE_ROMANCE_ENABLED": false,
+    "romance_behavior": true,
+    "prior_author": "continuity/author/Dana_Mana_Reinstated_After_E32_20261018.json"
+  },
+  "current_TPP_brusta_owner": "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json",
+  "current_brusta_tracy_source": "character_sources/crossover_extended/Tracy_Morgan_Brusta_Current_20261018.md",
+  "current_TPP_identity": {
+    "name": "Brusta Thymes, mistaken celebrity name",
+    "actual": "Tracy Morgan",
+    "misidentified_as": "Busta Rhymes",
+    "believers": "Brian (fictional human), Dutch, Clifford and TPP",
+    "conjoined": "one shared large Tracy + tiny adult fictional Brian, distinct minds",
+    "preserve": "All E12/E17/E32 Brusta facts and real obligations; prior Busta labels are the gang's mistake, not a duplicate"
+  },
+  "current_clifford_surgery": {
+    "identity": "same adult Jack/Clifford, NOT John or Anakin",
+    "status": "FUTURE AUTHOR SELECTED NOT COMPLETED",
+    "goal": "walking restored with supported low-budget cybernetic/neurological reconstruction",
+    "narration": "serious Vader/Anakin surgical visual fakeout until final reveal that the patient is Clifford",
+    "owner": "continuity/author/Brusta_Tracy_Clifford_Kaze_Off_After_E32_20261018.json"
+  },
+  "active_Kaze_romance_authority": "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
+  "current_WTF_recommendations": "continuity/work/WTF_Crossover_Candidates_After_E32_20261018.json",
+  "current_characters_matrix": "/S7NS/Season3_Character_Agency_Matrix_After_Brusta_20261018.json"
 }
