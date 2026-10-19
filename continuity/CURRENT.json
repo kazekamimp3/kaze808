@@ -435,5 +435,15 @@
   "current_kit_override": "canon/characters/Chris_Billy_Signatures_Teemo_Erasure_20261019.md",
   "current_gameplay_choice": "Dana HIGH HONOR RDR2, Chris unconcerned with honor. Voluntary frequent BELLY gameplay sessions with real access.",
   "crossovers_meet_crossovers": "Allowed with real access/psychology, e.g. Kratos with toy-sized Buzz; future Maul and Starkiller interactions with off-brand Darth Clifford permitted after actual surgery/travel.",
-  "story_status": "E32 delivered provisional; E33 not written or played by current WORK."
+  "story_status": "E32 delivered provisional; E33 not written or played by current WORK.",
+  "latest_work_checkpoint": "continuity/work/RESUME_CHECKPOINT_20261019_POST_E32_CANON_RECONCILIATION.json",
+  "last_work_reconciliation": {
+    "status": "SAVED_VERIFIED_WORK_NOT_PLAY",
+    "last_delivered_episode": 32,
+    "acceptance": "NOT_ASSERTED",
+    "next_episode": 33,
+    "story_clock_advanced": false,
+    "source_route": "routing/Current_Roster_Kit_Overrides_20261019.json",
+    "note": "Resume latest checkpoint and active sources; do not revisit or reenact earlier events; no E33 yet."
+  }
 }
