@@ -1,8 +1,8 @@
 {
-  "status": "ACTIVE_ENSEMBLE_AFTER_E29_ROMANCE_ON_NAGANEKA_DROPPED",
+  "status": "ACTIVE_ENSEMBLE_AFTER_DELIVERED_E31_E32_PAUSED_LATEST_WORLD_SCALE_AUTHOR_DIRECTION",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "state_owner": "continuity/CURRENT.json",
-  "next_new_main_episode": 30,
+  "next_new_main_episode": 32,
   "working_episode_count": null,
   "count_is_quota": false,
   "latest_sequence_lock": {
@@ -768,9 +768,9 @@
       "snapshot": "Same battle serpent, one closed shared arrival",
       "desire": "Survival, hostility to Thor, independent passage choices",
       "arc": "SEA",
-      "next_action": "Make source-valid independent sea choices that materially change a route or reachable vessel contest.",
-      "boundary": "Retained D120 shared arrival, no duplicate; no E36 north-shelf location or new wounds imported. Not Ibaaros’s automatic host.",
-      "status": "SELECTED_PROSPECTIVE_ROLE_WITH_RETAINED_SOURCE_SNAPSHOT",
+      "next_action": "Make source-faithful independently chosen ocean/shore movement visible soon; portray literal Runeterra-world-encircling bodily scale and real physical effects on specific sea routes, ships and coastal residents, with secondary consequences spreading through actual commerce/messages. No prefilled tsunami, lost fleets or exact present body path.",
+      "boundary": "The current author chooses planet-spanning bodily scale overriding older unverified young-body circumference cautions in the S7NS branch, without granting older-incarnation memories, universal translation, weather/tide magic, omniscience or a completed world-girdle scene not delivered. Read continuity/author/World_Serpent_and_Autonomous_S3_Roster_After_E31_20261018.json.",
+      "status": "SHARED_ARRIVAL_COMPLETED_LATE_S2; CURRENT_WORLD_SCALE_AUTHOR_SPEC; S3_INDEPENDENT_CHOICES_PENDING",
       "source_routes": [
         "character_sources/Jormungandr_Character_Source.txt"
       ]
@@ -852,9 +852,9 @@
       "snapshot": "Earth616 X-MenRed2022#1 unamped",
       "desire": "Retained resolve after disappointment; autonomy and a meaningful community choice",
       "arc": "A42",
-      "next_action": "Give him an independently chosen community/resource stake in the Noxian operation. His metal/field action and political refusal materially alter who can exploit it; he may oppose the Sins.",
+      "next_action": "At E30 last seen remaining with refugees across ravine after actual independent bridge decision; prospective new choices require later geographic movement, his autonomy and material opportunity. Do not replay entrance or make him a Sins escort.",
       "boundary": "No automatic equation of mages with mutants, mind control of cyborgs, later resurrection feats or safe weapon extraction by magnetism.",
-      "status": "SELECTED_PROSPECTIVE_ROLE_WITH_RETAINED_SOURCE_SNAPSHOT",
+      "status": "FIRST_ENCOUNTER_COMPLETED_E30; INDEPENDENT_WITH_REFUGEES_AT_LAST_OBSERVATION",
       "source_routes": [
         "character_sources/season3/Magneto_Character_Source.txt"
       ]
@@ -1059,7 +1059,7 @@
     "topic_sources/Capability_and_Speech_Overrides.txt",
     "approved_rolloff/staged/EXACT_QUOTE_REGISTER.json"
   ],
-  "current_cursor": "E29 DELIVERED_PROVISIONAL, author acceptance NOT_ASSERTED; next E30. Evening at the Noxian harbor shelf: Billy sole exterior with Kaze and Naganeka in the original ballista/carriage; Chris, Arthur, Daniel, Charles and Meatwad inside BELLY. Samira last observed departing south with recovered weapons. Naganeka/ballista dropped from prospective party/plot; brief leave-behind and inland departure not yet performed.",
+  "current_cursor": "E31 Dead Money DELIVERED_PROVISIONAL, not author accepted. Night Odran courtyard inland Noxian town; Billy sole exterior, Chris full-sized inside BELLY; Kaze, Daniel and Arthur outside; two uncounted coin chests inside BELLY. Katarina departed with intercepted orders. E32 playback PAUSED by author updates. E30 Magneto encounter completed and independent. Jörmungandr and Thor's late-S2 arrival already delivered; serpent's source-faithful intelligent agency and latest author-specified literal world-encircling size must have material far-reaching consequences enacted prospectively.",
   "pre_solo_schedule_provenance": "Unmodified prior outline preserved in rollback; current scheduling below overrides stale E17/E18 cursor and pending-introduction claims.",
   "focus_mode": "ENSEMBLE",
   "romance_owner": "canon/relationships/Kaze_Adult_Romance_20261018.md",
@@ -1112,7 +1112,8 @@
     "continuity/author/Kaze_Romance_OFF_After_E26.json",
     "continuity/author/Briar_Exit_Ensemble_Resume_After_E27.json",
     "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
-    "continuity/author/Naganeka_Ballista_Dropped_After_E29.json"
+    "continuity/author/Naganeka_Ballista_Dropped_After_E29.json",
+    "continuity/author/World_Serpent_and_Autonomous_S3_Roster_After_E31_20261018.json"
   ],
   "encounter_register": "continuity/Runeterra_Women_Encounter_Register.json",
   "encounter_register_sha256": "705c5cdf25ae6cb5823e85cb1940f014782634b90b90ff362de5fa13274790dd",
@@ -1147,7 +1148,50 @@
   "playback_control": {
     "paused": true,
     "authorized_episode": null,
+    "next_episode": 32,
+    "last_delivered_episode": 31,
+    "basis": "The author paused the next episode during Kaze romance, full-kit, Mimir, TPP, living-world and world-serpent revisions. WORK is no story advance, no E32 delivered. E31 saved prepared file is a preserved historical artifact after actual delivery."
+  },
+  "historical_prior_to_E30_cursor": {
+    "status": "ACTIVE_ENSEMBLE_AFTER_E29_ROMANCE_ON_NAGANEKA_DROPPED",
+    "current_cursor": "E29 DELIVERED_PROVISIONAL, author acceptance NOT_ASSERTED; next E30. Evening at the Noxian harbor shelf: Billy sole exterior with Kaze and Naganeka in the original ballista/carriage; Chris, Arthur, Daniel, Charles and Meatwad inside BELLY. Samira last observed departing south with recovered weapons. Naganeka/ballista dropped from prospective party/plot; brief leave-behind and inland departure not yet performed.",
     "next_episode": 30,
-    "basis": "E29 delivered verbatim and reconciled as DELIVERED_PROVISIONAL; acceptance NOT_ASSERTED. Current command is WORK only. E30 requires a new PLAY request; no story time or discard has occurred."
-  }
+    "playback_control": {
+      "paused": true,
+      "authorized_episode": null,
+      "next_episode": 30,
+      "basis": "E29 delivered verbatim and reconciled as DELIVERED_PROVISIONAL; acceptance NOT_ASSERTED. Current command is WORK only. E30 requires a new PLAY request; no story time or discard has occurred."
+    }
+  },
+  "delivered_evidence_after_original_cursor": {
+    "E30": {
+      "title": "The Right of Passage",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "manuscript_sha256": "32dcc04c32d793b82cc8eb4737bbe10f19a22745f7b57d328bbe8cee54f4ad2f",
+      "source": "continuity/episodes/E30/DELIVERY_RECONCILIATION.json",
+      "important": "Magneto independently met, bridge/refugees crossed; ballista physically abandoned."
+    },
+    "E31": {
+      "title": "Dead Money",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "manuscript_sha256": "8aff3a9fd9266b5a38477270099c35ac1eb9da859d7ace3d6352d9cd9f907845",
+      "source": "continuity/episodes/E31/S3_Episode_31_Checkpoint.json; actual delivered prose in chat",
+      "important": "Katarina first meeting and independent departure; two chests taken by Billy. Old prepared label no longer proves undelivered."
+    },
+    "author_acceptance": "NOT_ASSERTED"
+  },
+  "current_author_world_serpent_override": "continuity/author/World_Serpent_and_Autonomous_S3_Roster_After_E31_20261018.json",
+  "current_roster_agency_policy": "Determine every material Noxian and crossover actor's real snapshot, desire, bounded knowledge, position, actual independent actions and transport before intersection; plausible self-directed regional/faction consequences need real causes. This is not a mandatory cameo schedule.",
+  "post_E31_next_direction": {
+    "priority": "A living, independent Runeterra: source-valid worldwide physical serpent scale & response; real actor-motivated Noxus/crossover developments, Sins relationships and crime, TPP active rivals; existing scene doctrine and review; no filler/cameo quotas.",
+    "other_current_guidance": [
+      "continuity/author/Zid_Betrayal_TPP_Author_Direction_After_E31.json",
+      "continuity/author/Sins_Full_Kit_Utilization_After_E31.json",
+      "continuity/author/Kaze_Romance_ON_Ensemble_After_E28.json",
+      "continuity/editorial/Mimir_Narration_Runeterra_Lore_Audit_After_E31_20261018.json",
+      "continuity/editorial/S3_Living_World_Gang_Crime_TPP_Roster_Audit_After_E31_20261018.json"
+    ],
+    "no_play": true
+  },
+  "prepared_episode_historical_label": "Original prepared_episode object describes E29's original checkpoint. It is preserved for provenance, not active E32 preparation."
 }
