@@ -1,0 +1,26 @@
+{
+  "schema": "S7NS_LATEST_CURRENT_OWNER_ROUTING_V1",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "priority_order": [
+    "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+    "authority/Character_Removal_Teemo_20261019.json",
+    "canon/characters/Chris_Billy_Signatures_Teemo_Erasure_20261019.md",
+    "character_sources/Jormungandr_Character_Source.txt",
+    "canon/relationships/Dana_Chris_RDR2_Contrast_After_E32_20261019.md",
+    "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md",
+    "continuity/SEASON3_ACTIVE_OUTLINE.json"
+  ],
+  "erased_identity": "Teemo",
+  "status": "HARD_ACTIVE_EXCLUSION. Ignore all older pointers and prose that deploy the excluded identity. No explanation of absence, transfer of source-dependent abilities or in-story references.",
+  "source_owners": {
+    "Jormungandr": "character_sources/Jormungandr_Character_Source.txt — OLDER mature GoW2018, not younger Ragnarok",
+    "Dana_Chris_game": "canon/relationships/Dana_Chris_RDR2_Contrast_After_E32_20261019.md — Dana HIGH HONOR Chris NOT HONOR",
+    "Billy": "canon/characters/Chris_Billy_Signatures_Teemo_Erasure_20261019.md plus complete old standalone owner for non-conflicting kit — 67 years Kancho",
+    "Chris": "same current signature owner plus original independent THE CRITIC and Moose body attack — no roast trigger",
+    "Clifford": "continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md + current medical future author, with actual old Maul and Starkiller source-era knowledge",
+    "living_cast": "All valid actors may meet each other with real access; Deadpool narrator-only exception"
+  },
+  "retrieval": "MANIFEST.yaml's 27 original physical bundles are historical preserved pointer bytes and retain old content. Read these current overrides first. Recover full original owner for unaffected systems only and reconcile against recent author controls. Avoid reporting structural raw-source preservation as semantic current permission.",
+  "no_play": true,
+  "next_episode": 33
+}
