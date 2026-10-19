@@ -1,0 +1,20 @@
+# SEASON 3 CURRENT PRESENTATION OWNER — DEADPOOL MAIN NARRATOR
+**Effective:** next authorized Season 3 Episode 33, AFTER delivered-provisional Episode 32 `No Horizon`.
+**Latest direct author:** `continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json`.
+**Full grounded narrator-specific research:** `research/Deadpool_Primary_Narrator_Full_Speech_and_Rick_Contrast_20261019.md`.
+**Underlying complete owners (preserved):** `character_sources/season3/Deadpool_Character_Source.txt`, `character_sources/Black_Mimir_Narration_Source.txt`, `canon/presentation/PRESENTATION.md`, `canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md`, `topic_sources/Narration_and_Episode_Presentation_Source.txt` and `topic_sources/Narration_and_Fourth_Wall.txt` where available. The source bundling and exact manifest byte offsets still route original full owners, and this NEW scoped owner overrides previous narrator-selection clauses ONLY.
+
+## Role
+**Deadpool, same Wade Wilson from post-Deadpool & Wolverine reunion, is sole ordinary main-episode narrative voice**. Do not stage the already delivered E19 one-time hijack again. Black Mimir ceases ordinary narrator service and remains preserved in canon, with original delivered episodes unchanged. No Mimir voice contamination, no narrator duel/no death/no silent power transfer. Existing Billy-campfire first-person Specials stay Billy's self-narrations.
+
+## Voice
+Conspiratorial audience address; mercenary street competence; shameless genre awareness; absurd, overly personal and often sexually filthy insulting metaphors among adults; fast rhetorical trap/pivot/self-contradiction; mock official politeness; cunning mechanical or interpersonal reading; vulnerable need for family and purpose; reckless confession; selective silence at real tragedy. Payoff must have real interpersonal teeth. Absolutely NO blanket profanity limit, but don't paste profanity at fixed intervals or tell all characters to talk like Wade.
+Rick Sanchez *influence*, not co-narrator: extra precise contempt for self-important idiots, cosmic stakes compared to petty domestic problems, ingenious insulting analogies and annoyed intellectual curiosity. No Rick-specific burps, drunken lecturing, godlike gadgets, absolute nihilism, own catchphrases or Rick's independent memories.
+
+## Truth and actor knowledge
+A comic/narrative audience layer can describe present/past enacted events and break the fourth wall, including fair identity misdirection. The physical Deadpool character does NOT suddenly see inside BELLY, read confidential thoughts/author instructions, know future E33 outcomes or teleport to TPP locations. The narrator may knowingly be sarcastic and fallible about significance, but must **accurately orient** the audience on who is present, who knows what and what concretely occurred. Never narrate a fictional state as a completed fact to cover an outline deficiency.
+
+## Technique and performance
+Use the full **140 optional approved scene narration approaches** (already cataloged by presentation sources) selectively where they improve the actual scene: fair delayed revelations, tonal misreads and corrections, classic horror build to a filthy anticlimax, carefully withheld perspective, narrative rhyme/callbacks, grounded character dialogue friction, properly earned tragedy, sharp scene-to-scene juxtapositions and procedural absurdities that have real consequences. One vivid successful narrative move is worth more than ten labeled techniques.
+Natural TTS paragraph rhythm and new-viewer orientation; optional author 3,750–4,500 words/150 wpm length target still applies. Read full draft; compare specific passages with actual Deadpool film transcript/writer evidence, current event owner and individual cast owners; revise whole prose and reread entire final. Record repairs in existing review record. Narrator cannot replace actor-specific dialogue and no automatic joke quota.
+**No PLAY occurred while this owner was authored**.
