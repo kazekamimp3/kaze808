@@ -1,3 +1,5 @@
+Library 112+70 agency reference: `/S7NS/Season3_Character_Agency_Matrix_20261018.json` and `/S7NS/Season3_Character_Agency_Reading_Map_20261018.md` contain individual source-bounded motivations for the broader selected cast. Treat as a derived working guide only; open each original current actor owner before PLAY, and do not infer attendance or adult eligibility from a roster listing.
+
 ## CURRENT: Source-grounded Season 3 actor motives
 
 Read `continuity/SEASON3_ACTIVE_OUTLINE.json#actor_driven_outline_revision` and `continuity/roster_agency/S3_Noxus_Crossover_Choice_Gates.md` before E33. These are planning applications, not delivered events or replacement character owners. Source era, psychology, actual knowledge, family bonds, equipment and geographic access decide each plausible action, not matchup order. E32 delivered; Dana/Mana loyal; E33 next, no PLAY in WORK.
