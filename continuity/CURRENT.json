@@ -159,6 +159,10 @@
     {
       "path": "continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json",
       "status": "LATEST_AUTHOR_NARRATOR_AND_RIVALRY_OVERRIDE"
+    },
+    {
+      "path": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+      "status": "LATEST_AUTHOR_SCOPED"
     }
   ],
   "carried_forward_unstaged": {
@@ -423,5 +427,13 @@
   "newest_author_narrator_tpp_directive": "continuity/author/Deadpool_Primary_Narrator_TPP_Worldwide_Rivalry_After_E32_20261019.json",
   "deadpool_narrator_and_embodied_character_separation": "Wade narrator sees available enacted scenes as a story, but physical Deadpool has no new telepathy, omniscience, secret BELLY vision, future knowledge or locations.",
   "current_TPP_world_intersections": "TPP and prospective Zid can encounter any causally accessible living S3 roster, not only Sins; real people choose independently; guide continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md",
-  "current_vibe": "catastrophic absurdism, grotesque BELLY roommate sitcom, disgusting verbal warfare, sudden sincerity, total committed stupidity"
+  "current_vibe": "catastrophic absurdism, grotesque BELLY roommate sitcom, disgusting verbal warfare, sudden sincerity, total committed stupidity",
+  "latest_active_author": "continuity/author/Older_World_Serpent_Intersections_NoTeemo_Kancho_Moose_RDR2_After_E32_20261019.json",
+  "source_priority": "routing/Current_Roster_Kit_Overrides_20261019.json",
+  "World_Serpent_source_version": "ONE OLDER fully mature GoW 2018 Lake-of-Nine serpent; E32 world encirclement remains delivered; younger labels superseded",
+  "TEEMO_ERASED_FROM_ACTIVE_CANON": true,
+  "current_kit_override": "canon/characters/Chris_Billy_Signatures_Teemo_Erasure_20261019.md",
+  "current_gameplay_choice": "Dana HIGH HONOR RDR2, Chris unconcerned with honor. Voluntary frequent BELLY gameplay sessions with real access.",
+  "crossovers_meet_crossovers": "Allowed with real access/psychology, e.g. Kratos with toy-sized Buzz; future Maul and Starkiller interactions with off-brand Darth Clifford permitted after actual surgery/travel.",
+  "story_status": "E32 delivered provisional; E33 not written or played by current WORK."
 }
