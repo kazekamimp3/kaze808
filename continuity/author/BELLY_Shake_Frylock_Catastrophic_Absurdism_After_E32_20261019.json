@@ -1,0 +1,25 @@
+{
+  "schema": "S7NS_AUTHOR_COMEDY_BELLY_ADDITIONS_V1",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "mode": "WORK_NO_PLAY",
+  "author_selection": {
+    "master_shake": "Enter BELLY as unwanted roommate with Chris, Charles/Meatwad and other actual residents, using a future on-page sourced entry. Existing selected global Season 3 roster entry is now assigned a BELLY household lane, not already swallowed by E32.",
+    "frylock": "Add Frylock as an independent new crossover actor and eventual BELLY unwanted roommate. He arrives through actual on-page source-valid mechanics, with independent motives and choice; not treated as a passive possession, prison inmate or a literal function of the stomach.",
+    "belly_space": "BELLY is Chris's fantastically hoarded interior cave, with established real rooms, massive piles of salvage/loot/technology/broken machinery/strange curiosities, and BIG possibilities for roommates discovering individually established objects and using them to build weird dysfunctional projects. Abundance of miscellaneous hoarded junk is established flavor; do not invent rare artifacts, stolen possessions, guns, working devices or plot advantages until sourced/physically discovered. Finite concrete objects when plot consequential.",
+    "household": "Shake's opportunistic scams and destructiveness clash with Frylock's scientific pragmatism, Meatwad's trusting imaginative curiosity, Charles's disgusting opportunism and Chris's obsessive property hoarding. The roommate group has independent desires, friction, cooperative inventions and escalating project disasters. They are not new Sins or exterior-body controllers. Charles's warden duties remain."
+  },
+  "space_mechanics": "Maintain actual interior BELLY rules: BOYS CLUB/living domain versus stomach acid and restricted/clear meat areas, true doors/geometry, inventory and camera access; exactly one Chris or Billy exterior and the other full-sized inside, not two outdoor bodies; communication/access requires established channels, household can see exterior only by available monitors/cameras, no telepathic remote information. Roommates can make things from salvage if actual tools/components/workspace support it; no magic free fabrication.",
+  "comic_engine": "Adopt the outrageous body-horror/celebrity mismatch/anticlimax/event-generating humor evident in early S3 Chris duels as recurring optional energy. Preserve consequence and pathos, never force the same single twist repeatedly. Sins and TPP retain crime/loyalties, Noxus actors still act independently. Mimir's narrator voice controls ordinary episodes unless future author selects replacement.",
+  "reference_sources": [
+    "character_sources/Chris_Character_Source.txt",
+    "character_sources/Billy_Character_Source.txt",
+    "topic_sources/BELLY_Camera_and_Monitors.txt",
+    "canon/presentation/PRESENTATION.md",
+    "research/Comedy_Escalation_Profanity_RickMorty_Trover_20261019.md",
+    "research/Transcript_Based_Catastrophic_Absurdism_After_E32_20261019.md"
+  ],
+  "future_first_entry": "Next appropriate actual PLAY; neither Shake nor Frylock is inside BELLY at E32. Do not pretend they were always there or vanish earlier roommates.",
+  "current_ending": "E32 No Horizon delivered provisional; Chris exterior at Noxian harbor, Billy inside BELLY with Charles and Meatwad; E33 next and not yet played.",
+  "kaze_romance": false,
+  "author_acceptance": "NOT_ASSERTED"
+}
