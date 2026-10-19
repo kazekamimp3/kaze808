@@ -440,7 +440,7 @@
   "current_gameplay_choice": "Dana HIGH HONOR RDR2, Chris unconcerned with honor. Voluntary frequent BELLY gameplay sessions with real access.",
   "crossovers_meet_crossovers": "Allowed with real access/psychology, e.g. Kratos with toy-sized Buzz; future Maul and Starkiller interactions with off-brand Darth Clifford permitted after actual surgery/travel.",
   "story_status": "E32 delivered provisional; E33 not written or played by current WORK.",
-  "latest_work_checkpoint": "continuity/work/RESUME_CHECKPOINT_20261019_POST_E32_CANON_RECONCILIATION.json",
+  "latest_work_checkpoint": "continuity/work/RESUME_CHECKPOINT_20261019_QAPX_STAGED_AFTER_E32.json",
   "last_work_reconciliation": {
     "status": "SAVED_VERIFIED_WORK_NOT_PLAY",
     "last_delivered_episode": 32,
@@ -472,5 +472,9 @@
     "source": "character_sources/crossover_extended/Clifford_Marston_Visual_20261019.md",
     "event_status": "Current look, no new shove/tattoo/surgery PLAY"
   },
-  "QAPX_cutover_stage": "Prepared new source owner files and consolidated replacement/project-instructions proposal, NOT yet installed or approved by QAPX."
+  "QAPX_cutover_stage": "Prepared new source owner files and consolidated replacement/project-instructions proposal, NOT yet installed or approved by QAPX.",
+  "latest_QAPX_handoff": "continuity/work/QAPX_AUTHOR_HANDOFF_20261019.md",
+  "latest_QAPX_plan": "continuity/work/QAPX_REPLACEMENT_PLAN_20261019.json",
+  "proposed_project_instructions": "continuity/work/QAPX_PROJECT_INSTRUCTIONS_DRAFT_20261019.txt",
+  "QAPX_status": "ALL_CURRENT_AUTHOR_DECISIONS_STAGED_AND_READBACK_VERIFIED_GITHUB_ONLY; NOT_PROJECT_INSTALLED; E33_UNPLAYED"
 }
