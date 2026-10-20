@@ -1,0 +1,68 @@
+{
+  "schema": "S7NS_E36_E38_DIRECTORS_R3_FOUR_APP_WORK_RESUME",
+  "change_id": "S7NS_E36_E38_DIRECTORS_KAZE_B_HIGHONLIFE_R3_20261019",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "mode": "WORK_ONLY_NO_PLAY",
+  "observed_original_feature_status": "DELIVERED_PROVISIONAL_NOT_AUTHOR_ACCEPTED",
+  "last_delivered_episode": 38,
+  "next_new_episode": 39,
+  "next_new_episode_authorized": false,
+  "story_time_advanced": 0,
+  "original_manuscript": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_FINAL.txt",
+  "original_sha256": "4b376d490742c307819f20fe808009dfa50fb211e4d1a89b6e343855a2aeea81",
+  "original_preserved": true,
+  "revised_feature": {
+    "span": [
+      36,
+      37,
+      38
+    ],
+    "title": "Stay Away From My Shitty Wall: Columbine Beijing Ting Ting Bang Ding Ow",
+    "title_unmodified": true,
+    "five_prior_revisions": "AUTHOR_APPROVED",
+    "kaze_fortune_exact": "Your greatest enemy is five peaceful minutes, Kaze. And somehow, that motherfucker keeps beating you.",
+    "approved_twists": [
+      "delayed_Kaze_fortune_payoff",
+      "TPP_conflicting_local_hero_criminal_reputation",
+      "Bastion_subterranean_infrastructure_consequences"
+    ],
+    "other_cookie_lines": "BRAINSTORM_ONLY",
+    "manuscript_status": "UNWRITTEN_NOT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "story_effect": "NOT_YET_ENACTED"
+  },
+  "author": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
+  "research": "continuity/editorial/E36_E38_HighOnLife_RickTranscript_DeepResearch_R3_20261019.md",
+  "service_readbacks": {
+    "GitHub": {
+      "author_sha": "632d35211b630bdefedf0a9ec2905a2087d4feff",
+      "research_sha": "b67bec5f6aae223542f233df114cb9dee5eafe3d",
+      "current_sha_before_checkpoint": "9770523cfc4ad2088dd6159b251897ebf21716cc",
+      "ledger_sha": "6d35a3eaf608afb2e64553bd78dafe81e4484984",
+      "status": "PASS"
+    },
+    "Airtable": {
+      "decision_id": "recJ4DEx9Lg9YXJem",
+      "episode_ids": [
+        "recKAH0ZSHaGwHrhe",
+        "recTYiRAZ5KBhX4cJ",
+        "recCoFXMQoES1jihl"
+      ],
+      "status": "PASS"
+    },
+    "Notion": {
+      "index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+      "decision_page": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+      "status": "PASS"
+    },
+    "Google_Drive": {
+      "handoff_id": "10yrmEuhIx6HfueX8RyUDZdmAmTQG6QXgRDa_kiBiKhs",
+      "readback_revision": "AHj4eMTBkOgok5Mkt4GMhxwtWgG9Div4hehZMFDOjT53YIDk8xp0fCDaY9v0dRLYUTTYSCo1a1wWnRNTSgyNr7Jkprox4IqIA3Ob1-d3Bqw",
+      "original_feature_doc_id": "1DGALYDQ71_fZZJc0qslEgLpl9iSLmIT_NR7Z-sn59IA",
+      "status": "PASS"
+    }
+  },
+  "verified_research_level": "FULL developer text interview; 2023 head-writer account; game-scene reviews; expanded multiple full accessible third-party Rick & Morty script texts; not a complete game branching transcript, not measured speech audio or an exhaustive series audit.",
+  "next_action": "On explicit PLAY revised E36-38, read complete current owners; preserve existing feature, compose new whole seamless feature under original sole scene doctrine, whole first read, source-repair, full-final reread, save paired revised manuscript/checkpoint, reconcile four apps after material writes, render story without audit preamble; DO NOT write or advance E39.",
+  "pending": "Revised narrative whole draft and feedback/author acceptance NOT DONE; no source claims of full-game dialogue audio."
+}
