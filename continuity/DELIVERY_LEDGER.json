@@ -208,8 +208,8 @@
       "change_id": "S7NS_E36_E38_DIRECTORS_CUT_AUTHOR_CORRECTIONS_R1_20261019",
       "delivery_basis": "Complete feature visibly rendered in prior chat followed by user critique; original GitHub saved body is source. Full byte-identical chat comparison not performed. Revised alternate manuscript not written or played.",
       "directors_cut_selected_title": "Stay Away From My Shitty Wall: Columbine Beijing Ting Ting Bang Ding Ow",
-      "directors_cut_author_owner": "continuity/author/E36_E38_Directors_Title_Fortune_Speech_Approval_R2_20261019.md",
-      "directors_cut_status": "REVISED_CUT_AUTHOR_SELECTED_UNWRITTEN_NOT_PLAYED"
+      "directors_cut_author_owner": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
+      "directors_cut_status": "R3_TITLE_AND_KAZE_B_AND_3_TWISTS_AUTHOR_SELECTED_REVISED_UNWRITTEN_NOT_PLAYED"
     },
     {
       "episode": 37,
@@ -232,8 +232,8 @@
       "change_id": "S7NS_E36_E38_DIRECTORS_CUT_AUTHOR_CORRECTIONS_R1_20261019",
       "delivery_basis": "Complete feature visibly rendered in prior chat followed by user critique; original GitHub saved body is source. Full byte-identical chat comparison not performed. Revised alternate manuscript not written or played.",
       "directors_cut_selected_title": "Stay Away From My Shitty Wall: Columbine Beijing Ting Ting Bang Ding Ow",
-      "directors_cut_author_owner": "continuity/author/E36_E38_Directors_Title_Fortune_Speech_Approval_R2_20261019.md",
-      "directors_cut_status": "REVISED_CUT_AUTHOR_SELECTED_UNWRITTEN_NOT_PLAYED"
+      "directors_cut_author_owner": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
+      "directors_cut_status": "R3_TITLE_AND_KAZE_B_AND_3_TWISTS_AUTHOR_SELECTED_REVISED_UNWRITTEN_NOT_PLAYED"
     },
     {
       "episode": 38,
@@ -256,8 +256,8 @@
       "change_id": "S7NS_E36_E38_DIRECTORS_CUT_AUTHOR_CORRECTIONS_R1_20261019",
       "delivery_basis": "Complete feature visibly rendered in prior chat followed by user critique; original GitHub saved body is source. Full byte-identical chat comparison not performed. Revised alternate manuscript not written or played.",
       "directors_cut_selected_title": "Stay Away From My Shitty Wall: Columbine Beijing Ting Ting Bang Ding Ow",
-      "directors_cut_author_owner": "continuity/author/E36_E38_Directors_Title_Fortune_Speech_Approval_R2_20261019.md",
-      "directors_cut_status": "REVISED_CUT_AUTHOR_SELECTED_UNWRITTEN_NOT_PLAYED"
+      "directors_cut_author_owner": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
+      "directors_cut_status": "R3_TITLE_AND_KAZE_B_AND_3_TWISTS_AUTHOR_SELECTED_REVISED_UNWRITTEN_NOT_PLAYED"
     }
   ],
   "prepared_episode": null,
@@ -268,7 +268,7 @@
     "next_episode": 39,
     "basis": "User explicitly played E36–38, entire feature visible and critiqued. Revised E36–38 director's cut selected but not yet created or PLAY-authorized. E39 not authorized."
   },
-  "latest_scoped_author": "continuity/author/E36_E38_Directors_Title_Fortune_Speech_Approval_R2_20261019.md",
+  "latest_scoped_author": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
   "current_author_configuration": {
     "KAZE_ROMANCE_ENABLED": false,
     "Dana_Mana": "Loyal Sins",
@@ -282,18 +282,23 @@
   "project_ui_installation_performed": false,
   "latest_editorial_feedback": "continuity/author/Deadpool_Deep_Fidelity_E34_Quality_Direction_20261019.json",
   "narrator_research": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
-  "latest_feature_editorial_direction": "continuity/author/E36_E38_Directors_Title_Fortune_Speech_Approval_R2_20261019.md",
+  "latest_feature_editorial_direction": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
   "feature_delivery_reconciliation": "continuity/features/E36_E38/DELIVERY_RECONCILIATION_R1_20261019.json",
   "selected_revised_E36_E38": {
-    "change_id": "S7NS_E36_E38_DIRECTORS_TITLE_FORTUNES_RESEARCH_R2_20261019",
-    "author_path": "continuity/author/E36_E38_Directors_Title_Fortune_Speech_Approval_R2_20261019.md",
-    "research_path": "continuity/editorial/E36_E38_Rick_Trover_Speech_And_Fortunes_R2_20261019.md",
+    "change_id": "S7NS_E36_E38_DIRECTORS_KAZE_B_HIGHONLIFE_R3_20261019",
+    "author_path": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
+    "research_path": "continuity/editorial/E36_E38_HighOnLife_RickTranscript_DeepResearch_R3_20261019.md",
     "story_effect": "NOT_YET_ENACTED",
     "manuscript_status": "UNWRITTEN_NOT_PLAYED",
     "selected_title": "Stay Away From My Shitty Wall: Columbine Beijing Ting Ting Bang Ding Ow",
     "prior_five_changes": "AUTHOR_APPROVED",
     "fortune_setup": "PERSONALIZED_ROASTS_SELECTED",
     "fortune_exact_wording": "NOT_FINAL",
-    "new_38_span_script": "UNWRITTEN_NOT_PLAYED"
+    "new_38_span_script": "UNWRITTEN_NOT_PLAYED",
+    "kaze_cookie_selected": "Your greatest enemy is five peaceful minutes, Kaze. And somehow, that motherfucker keeps beating you.",
+    "kaze_cookie_status": "AUTHOR_SELECTED_EXACT",
+    "latest_three_twists": "AUTHOR_APPROVED_FOR_REVISED_CUT",
+    "other_fortunes": "PROPOSED_ONLY",
+    "revised_manuscript_status": "UNWRITTEN_NOT_PLAYED"
   }
 }
