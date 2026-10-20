@@ -33,7 +33,7 @@
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_R5_Arthur_Unified_Weapon_Noxus_Wide_Fissure_20261019.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -71,9 +71,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "R4_UNFINISHED_DESTINATIONS_CLOSED_NO_DUPLICATES; R5_ARTHUR_UNIFICATION_NOXUS_WIDE_RICK_RESEARCH_AND_AUDIT_FOUR_APP_READBACK_VERIFIED; CHECKPOINT_SAVED; E38_ORIGINAL_DELIVERED_PROVISIONAL; REVISED_E36_38_UNWRITTEN_NOT_PLAYED; E39_NOT_AUTHORIZED",
+  "work_status": "R6_UPDATED_AUTHOR_SHAPES; R4_R5_FOUR_APP_MIRRORS_COMPLETE; REVISED_E36_E38_NOT_PLAYED; E39_NOT_AUTHORIZED",
   "work_resume_checkpoint_latest": "continuity/work/RESUME_CHECKPOINT_E38_ARTHUR_COUNT_NOXUS_WIDE_R5_FOUR_APP_20261019.json",
-  "work_change_id": "S7NS_E38_ARTHUR_UNIFICATION_NOXUSWIDE_RESEARCH_R5_20261019",
+  "work_change_id": "S7NS_R6_RESUME_ARTHUR_GUN_IDENTITIES_20261019",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": {
@@ -104,7 +104,7 @@
   "latest_R5_MO_POWAH_author_blob_sha1": "d777a9e61550231c7874f3abadb2ff4f08fbfeaa",
   "work_resume_checkpoint_latest_git_blob_sha1": "071b1f5a5df98d9978374eff2d2a1a5e7e4395d0",
   "R5_MO_POWAH_status": "Chris intentionally trolls a perfectly competent chef to be a dickhead; chef changes nothing, Chris pretends correction worked. Not a milk/cooking grievance. Future E36–38 ONLY.",
-  "latest_direct_author_revision": "continuity/author/S7NS_R5_Arthur_Unified_Weapon_Noxus_Wide_Fissure_20261019.md",
+  "latest_direct_author_revision": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
   "E36_E38_research_revision": "continuity/editorial/E36_E38_Theo_TPP_Fissure_Revision_Research_R1_20261019.md",
   "feature_E36_E38_current": {
     "status": "DELIVERED_PROVISIONAL_WITH_AUTHOR_REVISION_REQUEST",
@@ -189,5 +189,7 @@
   "latest_R5_author_owner": "continuity/author/S7NS_R5_Arthur_Unified_Weapon_Noxus_Wide_Fissure_20261019.md",
   "latest_R5_screenwriting_research": "continuity/editorial/S7NS_R5_Rick_Morty_Creators_Reddit_DeepResearch_20261019.md",
   "latest_R5_integrity_audit": "continuity/work/S7NS_R5_Original_Owner_Integrity_And_Conflict_Audit_20261019.md",
-  "authority_note_R5": "NEW author physical UNSHAKEN<->HIGH NOON<->THE COUNT one-body design and ENTIRE-NOXUS damage outrank old staged E35 snapshots and old independent-small-gun model for future scene work. Source modules retain original bytes. Exact last delivered E38 original only."
+  "authority_note_R5": "NEW author physical UNSHAKEN<->HIGH NOON<->THE COUNT one-body design and ENTIRE-NOXUS damage outrank old staged E35 snapshots and old independent-small-gun model for future scene work. Source modules retain original bytes. Exact last delivered E38 original only.",
+  "latest_R6_author_owner": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
+  "Arthur_R6_weapon_owner": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md"
 }
