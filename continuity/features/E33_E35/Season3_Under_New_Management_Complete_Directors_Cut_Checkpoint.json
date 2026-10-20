@@ -1,0 +1,150 @@
+{
+  "schema_version": "S7NS_FEATURE_CHECKPOINT_V1",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "feature_title": "Under New Management",
+  "presentation": "THREE_EXISTING_DELIVERED_E33_E34_E35_COMBINED_DIRECTORS_CUT",
+  "status": "PREPARED_SAVED_NOT_YET_PLAY_DELIVERED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "User approved separate revised E33–35 feature and all previously outlined repairs. User's current SAVE/WORK request authorizes audit/revision/checkpoint, not E36 playback. The feature has not been sent as one complete PLAY text.",
+  "manuscript": {
+    "path": "continuity/features/E33_E35/Season3_Under_New_Management_Complete_Directors_Cut.txt",
+    "git_blob_sha1": "8626256cb48a410152050884dc57ef693da099c6",
+    "save_commit": "565c7a975e1267b4061c3bd503a8ebb9f3ef1edf",
+    "characters": 77226,
+    "body_words": 12751,
+    "estimated_minutes_at_assumed_150_wpm": 85.01,
+    "measured_audio": false,
+    "sha256": "NOT_COMPUTED_GIT_BLOB_AND_TEXT_READBACK_VERIFIED",
+    "readback": "Full current GitHub manuscript fetched by path, blob sha matches final after-11-edits version."
+  },
+  "underlying_originals": [
+    {
+      "episode": 33,
+      "manuscript": "continuity/episodes/E33/S3_Episode_33_Under_New_Management.txt",
+      "blob": "455222e09195b6bc24b386dc1bb18ecba20ad29c",
+      "words": 4182
+    },
+    {
+      "episode": 34,
+      "manuscript": "continuity/episodes/E34/S3_Episode_34_A_Bad_Influence.txt",
+      "blob": "76304350283229ed2433c25fac110098f6743804",
+      "words": 3965
+    },
+    {
+      "episode": 35,
+      "manuscript": "continuity/episodes/E35/S3_Episode_35_A_Controlled_Environment.txt",
+      "blob": "ac3ba5e6fdfd30b59b7db2c4ad6dfa0f0c41ea0f",
+      "words": 3984
+    }
+  ],
+  "story": {
+    "last_original_delivered_episode": 35,
+    "delivery_status": "DELIVERED_PROVISIONAL",
+    "next_episode": 36,
+    "next_authorized": false,
+    "next_written": false,
+    "canonical_event_changes_by_work": 0,
+    "elapsed_story_time_added": 0,
+    "continuity_end": "Original E35 ending retained: Billy sole exterior, Sins/K.K. inland stream; Chris/Charles/Meatwad/Shake/Frylock inside BELLY; K.K. planted single pear by stream, still wounded not Sin; TPP retreat from exposed HQ with tracked 82 silver and old unpaid debts; Kaze 0 personal silver; no E36."
+  },
+  "narrative_material": {
+    "source_quality_bar": "Author's historically chosen comedic shock E1–E6 Hawking/Manson/Brusta/Meatwad/Shake/Frylock/K.K. is HIGH WATER MARK to beat in future source-valid events, not repeated as cheap reveals.",
+    "Chris": "Existing E35 fake offal-Meatwad first-personhood prank receives a coherent escalating furious personal snap with authored prior absurd history; Chris remains chef/armed/inventive and treats Meatwad as independent victim rather than executing helpless friends.",
+    "Wade": "Sole post-2024 narrator with strong existing Rick-style argument and genuine quiet, not embodied.",
+    "source_owner": "canon/characters/Chris_Mundane_Reality_Betrayal_After_E35_20261019.md",
+    "projectwide_owner": "canon/presentation/S7NS_Catastrophic_Reality_Crossover_Comedy_After_E35_20261019.md",
+    "future_three_unit_default": "canon/presentation/S7NS_Three_Episode_Feature_Play_Default_After_E35_20261019.md",
+    "prior_feature_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
+    "sole_procedure": "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+    "optional_techniques": "140 available source-valid candidate techniques, not all used or a quota; A01-A20 approved optional, T001-T120 additional proposed."
+  },
+  "revision_review": {
+    "first_complete_read": "Reopened first saved 78,909-character feature in exactly four sequential reads 0:20000, 20000:40000, 40000:60000, 60000:end, reviewed dialogue/timing/physical interactions.",
+    "repair_round_one": [
+      "Removed redundant Chris/K.K. post-birth explanatory narrator bridge",
+      "Shortened E34→35 handoff",
+      "Reordered E35 offal faux-child cold-open into chronological afternoon",
+      "Removed repeated Dutch armed robbery rationalization",
+      "Corrected impossible puppet STRAW to physically established STRING",
+      "Made Frylock unethical use of Meatwad actual research, not improvised medical supplies",
+      "Tightened Chris sheep meat rant wording",
+      "Made Chris's Meatwad arrival reference original not repeated joke"
+    ],
+    "intermediate_full_read": "Read first repaired text full sequentially 0:19000, 19000:38000, 38000:57000, 57000:end.",
+    "repair_round_two": [
+      "Corrected Chris claiming he bought sheep: E35 Kaze paid his last 3 personal silver, Chris asked for meal",
+      "Corrected BREATHE spelling in Clifford helmet line for TTS",
+      "Avoided repeating Meatwad desire for grown-up job"
+    ],
+    "final_complete_reread": {
+      "covered_chars": 77226,
+      "exact_sequential_ranges": [
+        [
+          0,
+          9500
+        ],
+        [
+          9500,
+          19000
+        ],
+        [
+          19000,
+          28500
+        ],
+        [
+          28500,
+          38000
+        ],
+        [
+          38000,
+          47500
+        ],
+        [
+          47500,
+          57000
+        ],
+        [
+          57000,
+          67000
+        ],
+        [
+          67000,
+          77226
+        ]
+      ],
+      "all_read": true,
+      "after_final_prose_edit": true,
+      "final_git_blob_sha1": "8626256cb48a410152050884dc57ef693da099c6",
+      "after_final_read_no_further_prose_edits": true
+    },
+    "mechanical_validation": {
+      "git_blob_matches_expected": true,
+      "body_words": 12751,
+      "single_feature_title": true,
+      "mimir_opening": true,
+      "mimir_kratos_catch": true,
+      "frylock_shake_enter_once": true,
+      "KK_enter_once": true,
+      "KK_kaze_real_choice": true,
+      "KK_pear_planted": true,
+      "offal_puppet_is_meatwad": true,
+      "new_chris_snap": true,
+      "TPP_false_severed_head": true,
+      "TPP_robbery": true,
+      "TPP_money_82": true,
+      "no_E36": true,
+      "original_closing": true,
+      "duplicate_paragraphs_20_plus": 0,
+      "literal_escaped_newlines": 0
+    },
+    "weakest_span_decision": "Kept E33 chair deal/repair as an earned real premise and source trigger, not a new invention; revised overlong explanations and overloaded cold-open. Kept E34 moral silence around K.K. after murder. E35 added personal snapped speech and Meatwad agency, but did not invent unauthorized stronger-than-Hawking shock retroactively.",
+    "editorial_limits": "Full original 471 logical owners NOT exhaustively semantically reread; primary original three exact scripts and relevant character/doctrine owners grounded. No measured TTS audio, no promise this satisfies author's unprecedented comedy bar; new long feature has substantial preserved story plus revisions, separate prospective higher standard for future story creation."
+  },
+  "preservation": {
+    "original_E33_to_E35_manuscripts_untouched": true,
+    "original_E33_to_E35_checkpoints_untouched": true,
+    "original_S1_S2_and_five_specials_untouched": true,
+    "project_attachments_and_instructions_unchanged": true,
+    "editorial_feature_cannot_retroactively_advance_story": true
+  }
+}
