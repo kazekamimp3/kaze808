@@ -1,0 +1,112 @@
+{
+  "schema": "S7NS_E35_CROSS_PLUGIN_QAPX_CHECKPOINT_V1",
+  "date": "2026-10-19",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "mode": "WORK_NO_PLAY",
+  "current_story": {
+    "last_delivered_episode": 35,
+    "title": "A Controlled Environment",
+    "delivery_status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "next_episode": 36,
+    "next_new_feature": "E36–38",
+    "next_status": "UNWRITTEN_NOT_PLAY_AUTHORIZED",
+    "story_days_advanced": 0
+  },
+  "author_scope": "Substantive brainstorming/PLAY now normally checks and reconciles Github+Airtable+Notion+Drive; Chris earned normalcy paranoia and explicit childhood skim milk/planetary grotesque memoir selected for future E36–38 restaurant scenario, no completed event.",
+  "source_truth": {
+    "original_552_line_Library": "CHRIS_EXECUTIVE_CHEF_ORIGIN_COSMIC_SKIM_MILK_CANON_LORE(1).txt",
+    "original_fully_read": true,
+    "original_not_modified": true,
+    "later_IDC_Library": "02-INTER_DIMENSIONAL_CABLE_RECURRING_PROGRAM_COOKING_WITH_CATFISH_BILLY_v2.18.0_2026-09-05.txt",
+    "Drive_R4": "https://docs.google.com/document/d/1pukyynxlchR4nfCHWb35uDtGfaPVPDd8KHVMZOye1EI/edit",
+    "R4_prior_constraint": "Literal Planet Gang, clone/show machinery, accomplished cosmic revenge previously IDC only. Latest author selects adaptation of Chris's personal source dialogue; objective physical Anime planetary events not automatically activated.",
+    "known_prior_references_preserved": true
+  },
+  "github": {
+    "saved_and_readback": [
+      "continuity/author/S7NS_E35_Chris_Skim_Milk_E36_E38_Author_20261019.md",
+      "canon/characters/Chris_Skim_Milk_Trauma_Paranoia_20261019.md",
+      "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
+      "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md"
+    ],
+    "selected_author_blob_sha1": "a738acbf5a95880613d5754637e9a939f2777945",
+    "Chris_trauma_blob_sha1": "d372ccb5f2332211792d652e32060f31c8e7367e",
+    "future_outline_blob_sha1": "42c453548ca6c5743d2033d5207118d5a33ab403",
+    "four_connector_owner_blob_sha1": "c802b15426bbd4a4cb87731ea7d5ecd72ffb27d3",
+    "existing_future_triple_episode_default": "canon/presentation/S7NS_Triple_Episode_Seamless_Feature_PLAY_Default_20261019.md",
+    "no_existing_manuscript_or_ledger_rewritten": true
+  },
+  "airtable": {
+    "base_id": "appKCCr9zg0rsfbOI",
+    "Chris_existing_record_updated_and_readback": "recpYEexIYBIwx0GP",
+    "episode_records_created_and_readback": {
+      "E35": "rec5JPWmjNy9tFrzw",
+      "E36": "recKAH0ZSHaGwHrhe",
+      "E37": "recTYiRAZ5KBhX4cJ",
+      "E38": "recCoFXMQoES1jihl"
+    },
+    "research_source_records_created_and_readback": [
+      "recP9WOEaYhuVcie9",
+      "recAKDXQ0sIQiBs0B"
+    ],
+    "new_author_decision_created_and_readback": "recxi0F6AWgjpvwOR",
+    "source_owner_8_new_route_creates": "BLOCKED_BEFORE_WRITE_BY_CONNECTOR_SAFETY_CHECKS",
+    "general_four_app_author_decision_create": "BLOCKED_BEFORE_WRITE_BY_CONNECTOR_SAFETY_CHECKS",
+    "duplicates_not_created": true
+  },
+  "notion": {
+    "updated_existing_and_verified": [
+      "Characters and Relationships | 3fd4e1b7-29b3-81ea-a01e-d17c56d5ad0f",
+      "Audio and Visual Production | 3fd4e1b7-29b3-8108-945a-f88a89ce4ad7"
+    ],
+    "blocked_additional_pages": [
+      "Author Decisions and Exclusions",
+      "Episode and Checkpoint Index",
+      "Research Evidence and Gaps",
+      "Validation and Change Control"
+    ],
+    "status": "TWO_RELEVANT_PAGES_UPDATED_LIVE; ADDITIONAL_PAGE_UPDATE_ATTEMPTS_BLOCKED_BEFORE_WRITE"
+  },
+  "drive": {
+    "existing_workspace_id": "1RrEZtbm3JO1ZvIF-ZJvsno79ZGVZQPaz",
+    "existing_folder_id": "1S4ELsTE27ODrfdpUnp5442-u4fbMTz29",
+    "new_handoff_doc_id": "10yrmEuhIx6HfueX8RyUDZdmAmTQG6QXgRDa_kiBiKhs",
+    "new_handoff_url": "https://docs.google.com/document/d/10yrmEuhIx6HfueX8RyUDZdmAmTQG6QXgRDa_kiBiKhs/edit?usp=drivesdk",
+    "native_document_readback_verified": true,
+    "paragraphs": 21,
+    "historical_R4_document_unmodified": true
+  },
+  "Project_changed_only": {
+    "baseline": "S7NS_QAPX_E34_CORRECTED_MANIFEST.yaml",
+    "baseline_manifest_sha256": "6656390221fc0c1f59e4af1daaa450ace40c1e927ed6dba08fa3cb182e45a160",
+    "new_manifest_local": "/mnt/data/S7NS_QAPX_E35_CHRIS_MILK_PROJECT_PACKAGE/S7NS_QAPX_E35_CHRIS_MILK_CORRECTED_MANIFEST.yaml",
+    "new_manifest_sha256": "3a3968500c4226e8efd627a78fa38e84f2546e29d6a8099e61cfe6e6085f7f31",
+    "instructions_local": "/mnt/data/S7NS_QAPX_E35_CHRIS_MILK_PROJECT_PACKAGE/S7NS_PROJECT_INSTRUCTIONS_E35_PROPOSED.txt",
+    "instructions_characters": 7987,
+    "instructions_sha256": "39d5fe583d564776e049feb35ab04a4230b354b362361728ea5ef503014a720c",
+    "changed_physical": 8,
+    "unchanged_physical": 20,
+    "physical_total": 28,
+    "original_logical_owners": 471,
+    "original_owner_hashes_and_offsets_verified": 471,
+    "new_scoped_owners": 8,
+    "total_logical_owners": 479,
+    "all_479_logical_owner_hashes_verified": true,
+    "all_28_physical_bytes_and_hashes_verified": true,
+    "changed_zip_local": "/mnt/data/S7NS_QAPX_E35_CHRIS_MILK_PROJECT_PACKAGE/S7NS_QAPX_E35_CHRIS_MILK_CHANGED_ONLY_STAGED.zip",
+    "changed_zip_sha256": "efa64c619bdf158c5edacd9e3813af7991e0eb1f88876b275a2078c5ff64cdc9",
+    "rollback_zip_local": "/mnt/data/S7NS_QAPX_E35_CHRIS_MILK_PROJECT_PACKAGE/S7NS_QAPX_E35_CHRIS_MILK_ROLLBACK_ORIGINALS.zip",
+    "rollback_zip_sha256": "8034aeed7e167d392d760c9279a4dbf12f7d60bd37a03eb8e41ecb0afc22674b",
+    "zip_integrity": "BOTH_PASS",
+    "project_UI_installed": false,
+    "project_custom_instructions_changed": false,
+    "project_live_readback": false,
+    "required_installation": "Replace only eight changed attachments (keep other 20), old manifest, and effective Project instructions; verify UI source and instruction readback. Do not claim installed from GitHub/Notion/Airtable/Drive.",
+    "preserved_old_overlay_and_distribution": true
+  },
+  "next_unfinished_step": "One manual/live Project source membership and instruction installation/readback, then resolve blocked optional Airtable Source Owners / four Notion pages if available; no need to redo already completed originals or research. Future fresh PLAY E36 authorizes separate E36–38 seamless feature; current WORK never does.",
+  "not_later_background_work": true,
+  "no_episode_generated": true,
+  "no_auto_author_acceptance": true
+}
