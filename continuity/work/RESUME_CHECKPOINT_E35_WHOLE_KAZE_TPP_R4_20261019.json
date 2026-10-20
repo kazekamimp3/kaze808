@@ -1,0 +1,115 @@
+{
+  "schema": "S7NS_QAPX_R4_EXACT_WORK_CHECKPOINT_V1",
+  "date": "2026-10-19",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "mode": "WORK_ONLY_ZERO_STORY_TIME",
+  "change_id": "S7NS_E35_WHOLE_EXPECTED_SKIM_KAZE_TPP_R4_20261019",
+  "status": "FOUR_PLUGIN_AUTHOR_R4_SOURCES_SYNCHRONIZED_WITH_READBACK; PROJECT_R4_CHANGED_ONLY_STAGED_NOT_INSTALLED",
+  "story": {
+    "last_delivered": 35,
+    "title": "A Controlled Environment",
+    "delivery": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "next_unwritten": 36,
+    "normal_next_feature": [
+      36,
+      37,
+      38
+    ],
+    "next_PLAY_authorized": false,
+    "story_days_advanced": 0
+  },
+  "latest_author": {
+    "source": "continuity/author/S7NS_E35_ChrisWholeMilk_KazeJoins_TPP_TripleArc_20261019.md",
+    "blob": "ba78d6d03077920b11b15d62931fcf85b83d0d62",
+    "binding": "Chris expects WHOLE, detects served SKIM correctly, chooses restaurant violence; Kaze joins without grasping milk grievance; TPP substantial independent criminal plot across all E36–38; childhood full telling freshly composed TheoCORE-linked but only childhood and chef path, no later planetary revenge; rearrange post-E38 arcs with higher consequences and less repetitive logistics."
+  },
+  "source_readback": {
+    "E36_38_full": "continuity/editorial/E36_E38_WholeMilk_Expectation_TPP_Parallel_Triple_Feature_R4_20261019.md",
+    "E36_38_blob": "7dc48abe05dfc6b96c425e9768483302b00123da",
+    "post_E38_plan": "continuity/editorial/S7NS_Post_Chris_Childhood_Season3_Provisional_Arc_Rebalance_R4_20261019.md",
+    "post_E38_blob": "83e823ab38227554045db69beff4e59be3fe670d",
+    "Chris_reauthor_speech_treatment": "canon/presentation/Chris_Childhood_TheoCORE_Speech_Application_E36_E38_R4_20261019.md",
+    "speech_blob": "598cf8d3d67faa78b6848334de31423e9d23bf3b",
+    "primary_Theo_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
+    "sole_doctrine": "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+    "original_Season3_outline_retained": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+    "original_E35_checkpoint": "continuity/episodes/E35/S3_Episode_35_Checkpoint.json",
+    "original_seasons_and_specials_untouched": true
+  },
+  "plugins": {
+    "GitHub": {
+      "used": true,
+      "primary_author_and_three_derived_docs_saved_with_full_content_readback": true
+    },
+    "Airtable": {
+      "used": true,
+      "base": "appKCCr9zg0rsfbOI",
+      "episodes_updated": [
+        "recKAH0ZSHaGwHrhe",
+        "recTYiRAZ5KBhX4cJ",
+        "recCoFXMQoES1jihl"
+      ],
+      "author_decision_created": "recFBiNGiTIpQdaSS",
+      "character_updates": [
+        "recpYEexIYBIwx0GP",
+        "recNrlIiUZJeQc8Xu",
+        "recv0DvUxpEhtnJ6j"
+      ],
+      "project_R4_staged_owner_route_records": [
+        "rec6Ho96aE7LjI0Rg",
+        "recYAS7p0gqitdIjs",
+        "recfVwfyDsVDpFKa4",
+        "recbgRqsxxvM4G1jC",
+        "reci9I22LsGMfv5Fk",
+        "recWabyxpEA6dCGtX"
+      ],
+      "readback": true
+    },
+    "Notion": {
+      "used": true,
+      "pages": [
+        "3fd4e1b7-29b3-81ea-a01e-d17c56d5ad0f",
+        "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+        "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+        "3fd4e1b7-29b3-8108-945a-f88a89ce4ad7"
+      ],
+      "readback": true
+    },
+    "Google_Drive": {
+      "used": true,
+      "existing_R3_native_production_doc": "https://docs.google.com/document/d/1yOMlYCm12FTJBzsrA22AW7bg1-7QOFG2r6hs-yQ1lV4/edit",
+      "R4_section_append": true,
+      "readback": true,
+      "original_history_retained": true
+    }
+  },
+  "package": {
+    "baseline_live": "E34 Project 28 physical 471 logical owner prior verified",
+    "current_uninstalled_R3": "482 owners; STAGED, superseded by R4, DO NOT INSTALL CONCURRENTLY",
+    "local_dir": "/mnt/data/S7NS_QAPX_E35_WHOLE_KAZE_TPP_R4_PROJECT_PACKAGE",
+    "manifest": "S7NS_QAPX_E35_WHOLE_KAZE_TPP_R4_MANIFEST.yaml",
+    "instructions": "S7NS_PROJECT_INSTRUCTIONS_E35_R4.txt",
+    "readme": "INSTALL_README.txt",
+    "install_zip": "S7NS_QAPX_E35_WHOLE_KAZE_TPP_R4_CHANGED_ONLY.zip",
+    "rollback_zip": "S7NS_QAPX_E35_WHOLE_KAZE_TPP_R4_ROLLBACK_E34.zip",
+    "changed_physical": 8,
+    "unchanged_physical": 20,
+    "original_E34_logical_owners_preserved": 471,
+    "prior_R3_stage_logical_owners_preserved": 482,
+    "new_R4_scoped_logical_owners": 6,
+    "total_logical_owners": 488,
+    "all_physical_hashes_verified": true,
+    "all_owner_slice_hashes_offsets_verified": true,
+    "instructions_chars": 7940,
+    "instructions_sha256": "125801d47e7d2e8b435cccc103d13e5711d7f58c4faad178644ef6ed3ba87e52",
+    "manifest_sha256": "f5ed3086f28411657f8114e3f5c39d3c10f13c4837c8948b40bb51ae1143cf44",
+    "install_zip_sha256": "54c429e08620ad748d1972e2dfb41aa331d92e01dd9113fffcc01085613b4153",
+    "rollback_zip_sha256": "41e28abc7037db3480702882ad73fb35868a1523ed3b6017c25f253ede956bc5",
+    "project_attachments_installed": false,
+    "project_custom_instructions_installed": false,
+    "project_readback_verified": false
+  },
+  "only_remaining_mandatory_action": "Replace current live S7NS Project 8 changed source bundles, E34 manifest and Project instructions with R4 candidate, keeping other 20 untouched; read back 28 SHA physicals/488 owner slices/effective instructions. Do not claim installed before proof. Future PLAY E36 required before creating fictional restaurant/TPP/childhood events.",
+  "preservation": "All original delivered stories, full previous IDC milk interview/revenge, author acceptance and physical Project attachments remain unmodified by this WORK."
+}
