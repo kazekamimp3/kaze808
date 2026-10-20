@@ -2,7 +2,7 @@
   "schema": "S7NS_WORK_CHECKPOINT_PENDING_CREATIVE_FIDELITY_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "date": "2026-10-19",
-  "status": "USER_APPROVED_UPGRADE_IN_PROGRESS; BASELINE_PRESERVED",
+  "status": "NEW_AUTHOR_HIGH_WATER_MARK_SAVED; THREE_UNIT_FEATURE_PLAY_DEFAULT_SAVED; E33_E35_REVIEWED_DIRECTORS_CUT_PREPARED_NOT_DELIVERED",
   "mode": "WORK_NO_PLAY",
   "current": "continuity/CURRENT.json",
   "current_blob_sha1_at_resume": "31c3ed829172e1331ca71a39ced90cdc50bca270",
@@ -17,6 +17,39 @@
   "author_directive": "Author personally originated Chris absurd 5-duels Hawking/Brusta Charles Manson Meatwad ATHF K.K. canon. This specific impossible-but-earned escalation is the HIGH standard, not a scene-copy list. Future Chris ordinary comforts routinely attract branch-established unbelievable outcomes when earned by character collisions. Hilarious sincere increasingly fed-up Chris anger/snaps must have distinct escalating rhetoric and actions; not generic nagging father. Wider S7NS other genres also require startling causally earned surreal, grotesque, shock-reveal and crossover satire with actual persistent consequences. Default future PLAY: privately prepare three successive separately tracked story episodes and assemble one deeply revised feature-length continuous delivery, preserving source completeness, 140 OPTIONAL techniques not quotas, original doctrine as sole procedure. Preserve E33-E35 originals and save separate revised feature.",
   "authorized_work": "Save checkpoint, upgrade scoped original source owner and default presentation source, strengthen feature audit; no next story PLAY.",
   "do_not_do": "Do not restart, replay existing E33–35, override published originals, make automatic E36–38 canon from WORK, reset story days, fabricate old events, claim Project attachment/custom-instruction installed.",
-  "next_unfinished_step": "Save source-backed Chris disaster/anger owner, project-wide impossible-causal comedy / 3-episode feature default owner, update feature revision working direction and checkpoint, optionally stage separate complete director's cut script only if full read/review/paired saved.",
-  "original_manuscripts_untouched": true
+  "next_unfinished_step": "When user separately requests PLAY OF FEATURE, deliver exact preserved 12751-word complete final director's cut, no new E36 events; reconcile actual delivered response and mark feature delivered provisional separately. Otherwise on NEXT fresh generic PLAY after current E35, construct E36–38 triple narrative feature under sole scene doctrine using FULL original relevant owners plus three new scoped author owners; no automatic PLAY now.",
+  "original_manuscripts_untouched": true,
+  "completed_source_owners": [
+    {
+      "path": "canon/characters/Chris_Mundane_Reality_Betrayal_After_E35_20261019.md",
+      "git_blob_sha1": "a9f9ad976612c48c1711aa505eab2399ddff1743",
+      "status": "FULL_OWNER_GITHUB_SAVED_READBACK_VERIFIED_NOT_PROJECT_ATTACHMENT_INSTALLED"
+    },
+    {
+      "path": "canon/presentation/S7NS_Catastrophic_Reality_Crossover_Comedy_After_E35_20261019.md",
+      "git_blob_sha1": "53647b0ff9e303193736056a092669bb7b794c3e",
+      "status": "GITHUB_SAVED_READBACK_VERIFIED_NOT_PROJECT_ATTACHMENT_INSTALLED"
+    },
+    {
+      "path": "canon/presentation/S7NS_Three_Episode_Feature_Play_Default_After_E35_20261019.md",
+      "git_blob_sha1": "d2c90033fba03fb3e77ef3db7df299ab138584fe",
+      "status": "GITHUB_SAVED_READBACK_VERIFIED_NOT_PROJECT_ATTACHMENT_INSTALLED"
+    }
+  ],
+  "prepared_feature": {
+    "title": "S7NS — Season 3 Feature: Under New Management",
+    "manuscript_path": "continuity/features/E33_E35/Season3_Under_New_Management_Complete_Directors_Cut.txt",
+    "manuscript_git_blob_sha1": "8626256cb48a410152050884dc57ef693da099c6",
+    "paired_checkpoint_path": "continuity/features/E33_E35/Season3_Under_New_Management_Complete_Directors_Cut_Checkpoint.json",
+    "paired_checkpoint_git_blob_sha1": "1b739734783409590a075e59de260579ba0a270c",
+    "word_count": 12751,
+    "assumed_minutes_at_150wpm": 85.01,
+    "status": "FULL_FINAL_REVIEW_COMPLETE_PREPARED_SAVED_NOT_DELIVERED",
+    "source_events": "Same delivered E33 E34 E35 actual event chain. New edits enhance framing, dialogue/Chris snap and ethics and chronology without replacing original delivered episode checkpoint facts.",
+    "complete_final_read": "Eight consecutive exact chunks covered all 77226 chars after last prose edit; no subsequent edits",
+    "no_story_time_or_original_rewrite": true
+  },
+  "latest_source_review": "Complete E33–35 originals and relevant installed Project doctrine/Chris/K.K./BELLY/TPP and comedy sources consulted. Scope-specific research reused, not claimed all 471 logical owners or complete original television scripts watched.",
+  "project_installed_source_scope": "Previously uploaded 28 E34 bundles + manifest installed and verified, but three newly GitHub-saved owners are NOT automatically installed as Project attachments. Read GitHub paths through connected plugin at PLAY.",
+  "status_verified_step": "Pending external surface projection where useful; exact GitHub new sources/feature/pair verified."
 }
