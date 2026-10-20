@@ -295,7 +295,7 @@
     "next_episode": 39,
     "basis": "User explicitly played E36–38, entire feature visible and critiqued. Revised E36–38 director's cut selected but not yet created or PLAY-authorized. E39 not authorized."
   },
-  "latest_scoped_author": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
+  "latest_scoped_author": "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md",
   "current_author_configuration": {
     "KAZE_ROMANCE_ENABLED": false,
     "Dana_Mana": "Loyal Sins",
@@ -360,5 +360,8 @@
     40
   ],
   "next_episode_authorized": false,
-  "last_reconciliation_id": "S7NS_R9_TWO_EPISODE_DEFAULT_R8_CHAT_RECONCILE_20261020"
+  "last_reconciliation_id": "S7NS_R9_TWO_EPISODE_DEFAULT_R8_CHAT_RECONCILE_20261020",
+  "latest_post_delivery_editorial_owner": "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md",
+  "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
+  "episode_count_unchanged": true
 }
