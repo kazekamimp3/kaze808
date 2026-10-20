@@ -2,8 +2,8 @@
   "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
-  "current_delivered_episode": 35,
-  "next_episode": 36,
+  "current_delivered_episode": 38,
+  "next_episode": 39,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -186,17 +186,80 @@
       "author_acceptance": "NOT_ASSERTED",
       "delivery_reconciliation": "continuity/episodes/E35/DELIVERY_RECONCILIATION.json",
       "delivery_basis": "Observed complete E35 response in preceding chat; saved manuscript opening/ending match, full byte equality not externally proven."
+    },
+    {
+      "episode": 36,
+      "title": "The House Special",
+      "feature_span": [
+        36,
+        37,
+        38
+      ],
+      "combined_feature": true,
+      "manuscript": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_FINAL.txt",
+      "manuscript_sha256_recorded": "4b376d490742c307819f20fe808009dfa50fb211e4d1a89b6e343855a2aeea81",
+      "manuscript_git_blob_sha1": "fecf1d18c7bd6d4133d74a27fe9787aa66618586",
+      "checkpoint": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_Checkpoint.json",
+      "checkpoint_git_blob_sha1": "569e39d99043be5eb346a497220f24890f678fb1",
+      "delivery_status": "DELIVERED_PROVISIONAL_AUTHOR_REVISION_SELECTED",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_reconciliation": "continuity/features/E36_E38/DELIVERY_RECONCILIATION_R1_20261019.json",
+      "original_preserved": true,
+      "change_id": "S7NS_E36_E38_DIRECTORS_CUT_AUTHOR_CORRECTIONS_R1_20261019",
+      "delivery_basis": "Complete feature visibly rendered in prior chat followed by user critique; original GitHub saved body is source. Full byte-identical chat comparison not performed. Revised alternate manuscript not written or played."
+    },
+    {
+      "episode": 37,
+      "title": "The House Special",
+      "feature_span": [
+        36,
+        37,
+        38
+      ],
+      "combined_feature": true,
+      "manuscript": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_FINAL.txt",
+      "manuscript_sha256_recorded": "4b376d490742c307819f20fe808009dfa50fb211e4d1a89b6e343855a2aeea81",
+      "manuscript_git_blob_sha1": "fecf1d18c7bd6d4133d74a27fe9787aa66618586",
+      "checkpoint": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_Checkpoint.json",
+      "checkpoint_git_blob_sha1": "569e39d99043be5eb346a497220f24890f678fb1",
+      "delivery_status": "DELIVERED_PROVISIONAL_AUTHOR_REVISION_SELECTED",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_reconciliation": "continuity/features/E36_E38/DELIVERY_RECONCILIATION_R1_20261019.json",
+      "original_preserved": true,
+      "change_id": "S7NS_E36_E38_DIRECTORS_CUT_AUTHOR_CORRECTIONS_R1_20261019",
+      "delivery_basis": "Complete feature visibly rendered in prior chat followed by user critique; original GitHub saved body is source. Full byte-identical chat comparison not performed. Revised alternate manuscript not written or played."
+    },
+    {
+      "episode": 38,
+      "title": "The House Special",
+      "feature_span": [
+        36,
+        37,
+        38
+      ],
+      "combined_feature": true,
+      "manuscript": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_FINAL.txt",
+      "manuscript_sha256_recorded": "4b376d490742c307819f20fe808009dfa50fb211e4d1a89b6e343855a2aeea81",
+      "manuscript_git_blob_sha1": "fecf1d18c7bd6d4133d74a27fe9787aa66618586",
+      "checkpoint": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_Checkpoint.json",
+      "checkpoint_git_blob_sha1": "569e39d99043be5eb346a497220f24890f678fb1",
+      "delivery_status": "DELIVERED_PROVISIONAL_AUTHOR_REVISION_SELECTED",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_reconciliation": "continuity/features/E36_E38/DELIVERY_RECONCILIATION_R1_20261019.json",
+      "original_preserved": true,
+      "change_id": "S7NS_E36_E38_DIRECTORS_CUT_AUTHOR_CORRECTIONS_R1_20261019",
+      "delivery_basis": "Complete feature visibly rendered in prior chat followed by user critique; original GitHub saved body is source. Full byte-identical chat comparison not performed. Revised alternate manuscript not written or played."
     }
   ],
   "prepared_episode": null,
   "playback_control": {
     "paused": false,
     "authorized_episode": null,
-    "last_delivered_episode": 35,
-    "next_episode": 36,
-    "basis": "E35 chat delivery observed and reconciled provisionally; author now requests E33–35 feature presentation audit; E36 not authorized."
+    "last_delivered_episode": 38,
+    "next_episode": 39,
+    "basis": "User explicitly played E36–38, entire feature visible and critiqued. Revised E36–38 director's cut selected but not yet created or PLAY-authorized. E39 not authorized."
   },
-  "latest_scoped_author": "continuity/author/KK_Keke_and_Zid_Scoped_Esketit_20261019.json",
+  "latest_scoped_author": "continuity/author/E36_E38_Directors_Cut_Corrections_R1_20261019.md",
   "current_author_configuration": {
     "KAZE_ROMANCE_ENABLED": false,
     "Dana_Mana": "Loyal Sins",
@@ -210,5 +273,13 @@
   "project_ui_installation_performed": false,
   "latest_editorial_feedback": "continuity/author/Deadpool_Deep_Fidelity_E34_Quality_Direction_20261019.json",
   "narrator_research": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
-  "latest_feature_editorial_direction": "Author agrees to feature-length revised E33–35 presentation; separate revision should preserve original episode manuscripts/checkpoints, no automatic author acceptance or retcon."
+  "latest_feature_editorial_direction": "continuity/author/E36_E38_Directors_Cut_Corrections_R1_20261019.md",
+  "feature_delivery_reconciliation": "continuity/features/E36_E38/DELIVERY_RECONCILIATION_R1_20261019.json",
+  "selected_revised_E36_E38": {
+    "change_id": "S7NS_E36_E38_DIRECTORS_CUT_AUTHOR_CORRECTIONS_R1_20261019",
+    "author_path": "continuity/author/E36_E38_Directors_Cut_Corrections_R1_20261019.md",
+    "research_path": "continuity/editorial/E36_E38_Theo_TPP_Fissure_Revision_Research_R1_20261019.md",
+    "story_effect": "NOT_YET_ENACTED",
+    "manuscript_status": "UNWRITTEN_NOT_PLAYED"
+  }
 }
