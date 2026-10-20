@@ -1,0 +1,48 @@
+{
+  "schema": "S7NS_R8_SAME_SPAN_CHAT_DELIVERY_RECONCILIATION",
+  "change_id": "S7NS_R9_TWO_EPISODE_DEFAULT_R8_CHAT_RECONCILE_20261020",
+  "date": "2026-10-20",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "event": "R8 revised whole E36–38 Director's Cut visibly delivered in preceding chat as a complete response",
+  "status": "DELIVERED_PROVISIONAL_NOT_AUTHOR_ACCEPTED",
+  "episode_span": [
+    36,
+    37,
+    38
+  ],
+  "last_delivered_episode": 38,
+  "next_new_episode": 39,
+  "delivered_visible_title": "Stay Away From My Shitty Wall: Columbine Beijing Ting Ting Bang Ding Ow",
+  "visible_open": "The spoon made its choice,” Charles Manson said.",
+  "visible_end": "The paper had survived the restaurant.\n\nNoxus would have to be considerably more inventive.",
+  "chat_completeness": "Full story visibly present, starts at the saved title, reaches saved terminal lines; duplicate complete display in recent exchange does not constitute extra episodes or multiple enactments",
+  "chat_source_byte_identity": "NOT_MACHINE_VERIFIED",
+  "actual_author_acceptance": "NOT_ASSERTED",
+  "revised_manuscript": {
+    "path": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_FINAL_20261019.txt",
+    "blob_sha1": "9f154bb2348cb5f021425b9cc37d399708c971bd",
+    "sha256": "056544d5f8f79d7464ece7e7420da38f5981a127a37abba74d5b624e2c82659b",
+    "source_unchanged": true
+  },
+  "revised_checkpoint": {
+    "path": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_Checkpoint_20261019.json",
+    "blob_sha1": "8420a0a5bcf41f2c03aa421e2180ef5dfadbcc1e",
+    "source_unchanged": true
+  },
+  "original_delivered_legacy": {
+    "path": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_FINAL.txt",
+    "sha256": "4b376d490742c307819f20fe808009dfa50fb211e4d1a89b6e343855a2aeea81",
+    "preserved": true,
+    "latest_effective_cut": false
+  },
+  "accepted_consequences": "Use the exact full revised manuscript and R8 paired checkpoint as currently observed provisional fiction; no author acceptance, no additional E39 scene",
+  "next_default_change": {
+    "author": "two episodes at a time sound better",
+    "future_next_span": [
+      39,
+      40
+    ],
+    "status": "AUTHOR_SELECTED_DEFAULT_ONLY_NOT_PLAY_AUTHORIZED"
+  },
+  "story_time_added_by_this_work": 0
+}
