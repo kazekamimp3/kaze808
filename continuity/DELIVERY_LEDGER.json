@@ -268,7 +268,7 @@
     "next_episode": 39,
     "basis": "User explicitly played E36–38, entire feature visible and critiqued. Revised E36–38 director's cut selected but not yet created or PLAY-authorized. E39 not authorized."
   },
-  "latest_scoped_author": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
+  "latest_scoped_author": "continuity/author/S7NS_R5_Arthur_Unified_Weapon_Noxus_Wide_Fissure_20261019.md",
   "current_author_configuration": {
     "KAZE_ROMANCE_ENABLED": false,
     "Dana_Mana": "Loyal Sins",
@@ -282,12 +282,12 @@
   "project_ui_installation_performed": false,
   "latest_editorial_feedback": "continuity/author/Deadpool_Deep_Fidelity_E34_Quality_Direction_20261019.json",
   "narrator_research": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
-  "latest_feature_editorial_direction": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
+  "latest_feature_editorial_direction": "continuity/author/S7NS_R5_Arthur_Unified_Weapon_Noxus_Wide_Fissure_20261019.md",
   "feature_delivery_reconciliation": "continuity/features/E36_E38/DELIVERY_RECONCILIATION_R1_20261019.json",
   "selected_revised_E36_E38": {
-    "change_id": "S7NS_E36_E38_DIRECTORS_KAZE_B_HIGHONLIFE_R3_20261019",
-    "author_path": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
-    "research_path": "continuity/editorial/E36_E38_HighOnLife_RickTranscript_DeepResearch_R3_20261019.md",
+    "change_id": "S7NS_E38_ARTHUR_UNIFICATION_NOXUSWIDE_RESEARCH_R5_20261019",
+    "author_path": "continuity/author/S7NS_R5_Arthur_Unified_Weapon_Noxus_Wide_Fissure_20261019.md",
+    "research_path": "continuity/editorial/S7NS_R5_Rick_Morty_Creators_Reddit_DeepResearch_20261019.md",
     "story_effect": "NOT_YET_ENACTED",
     "manuscript_status": "UNWRITTEN_NOT_PLAYED",
     "selected_title": "Stay Away From My Shitty Wall: Columbine Beijing Ting Ting Bang Ding Ow",
@@ -299,6 +299,13 @@
     "kaze_cookie_status": "AUTHOR_SELECTED_EXACT",
     "latest_three_twists": "AUTHOR_APPROVED_FOR_REVISED_CUT",
     "other_fortunes": "PROPOSED_ONLY",
-    "revised_manuscript_status": "UNWRITTEN_NOT_PLAYED"
+    "revised_manuscript_status": "UNWRITTEN_NOT_PLAYED",
+    "source_integrity_audit": "continuity/work/S7NS_R5_Original_Owner_Integrity_And_Conflict_Audit_20261019.md",
+    "arthur_unified_reconfiguration": "SELECTED FUTURE",
+    "arthur_count_use": "NORMAL FIRE ALLOWED AND NEEDED IN VALID ACTION",
+    "arthur_fullcharge_permission": "REQUIRES_FUTURE_EXPLICIT_AUTHOR",
+    "arthur_hypercharge": "PROHIBITED_UNTIL_NEW_DIRECT_AUTHOR_OVERRIDE",
+    "noxus_fissure_scope": "ALL OF NOXUS, not merely to the Immortal Bastion",
+    "shock_language": "MORE CREATIVE PROFANITY AND REAL CHOICE-DRIVEN SHOCK"
   }
 }
