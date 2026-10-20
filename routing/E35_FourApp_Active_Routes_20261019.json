@@ -1,0 +1,60 @@
+{
+  "schema": "S7NS_DERIVED_SOURCE_ROUTES_V1",
+  "change_id": "S7NS_E35_FOUR_APP_LITERAL_SKIM_20261019_R2",
+  "role": "ROUTES_NOT_COMPLETE_ACTOR_OWNERS",
+  "live_cursor": [
+    "continuity/CURRENT.json",
+    "continuity/DELIVERY_LEDGER.json"
+  ],
+  "latest_scoped_author": "continuity/author/S7NS_E35_Chris_Skim_Milk_E36_E38_Author_20261019.md",
+  "four_service_contract": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
+  "current_state_projection": "state/E35_FourApp_Current_20261019.json",
+  "Chris_current_application": "canon/characters/Chris_Skim_Milk_Trauma_Paranoia_20261019.md",
+  "Chris_original_owners": [
+    "character_sources/Chris_Character_Source.txt",
+    "canon/characters/chris_catfish_billy_current.md"
+  ],
+  "Chris_prior_connected_application": "canon/characters/Chris_Everyday_Absurdity_Cumulative_Character_Application_20261019.md",
+  "next_selected_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
+  "three_episode_default": "canon/presentation/S7NS_Triple_Episode_Seamless_Feature_PLAY_Default_20261019.md",
+  "sole_procedure": "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+  "optional_technique_library": "reference/research/Season3_140_Technique_Catalog_20261010.csv",
+  "narrator_research": [
+    "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
+    "research/Rick_ATHF_Trover_TPP_Comedy_Dialogue_DeepPass_20261019.md"
+  ],
+  "original_lore_sources": [
+    {
+      "source": "Library",
+      "file_id": "file_000000004eb081fd8cc89981df648c2e",
+      "library_file_id": "libfile_8be887a254b081919edfde11caa5d7ac",
+      "name": "CHRIS_EXECUTIVE_CHEF_ORIGIN_COSMIC_SKIM_MILK_CANON_LORE(1).txt",
+      "extent": "552-line original. Readable source; raw materialization was not authorized. Preserve original, do not invent a sandbox copy."
+    },
+    {
+      "source": "Library",
+      "file_id": "file_000000007d1c81f5951236b13c8f2038",
+      "name": "02-INTER_DIMENSIONAL_CABLE_RECURRING_PROGRAM_COOKING_WITH_CATFISH_BILLY_v2.18.0_2026-09-05.txt",
+      "extent": "Later locked recap ends line 1948; preserve source distinctions and incident assignments."
+    },
+    {
+      "source": "Drive",
+      "id": "1dhxAxP0BtC4GPWMBkIVC_aEHRTJLqUSb",
+      "url": "https://drive.google.com/file/d/1dhxAxP0BtC4GPWMBkIVC_aEHRTJLqUSb/view",
+      "extent": "v2.18.2 original cooking source; independent IDC archive, not blanket S7NS authority."
+    },
+    {
+      "source": "Drive",
+      "id": "1pukyynxlchR4nfCHWb35uDtGfaPVPDd8KHVMZOye1EI",
+      "url": "https://docs.google.com/document/d/1pukyynxlchR4nfCHWb35uDtGfaPVPDd8KHVMZOye1EI/edit",
+      "extent": "Old R4 exclusion superseded ONLY for latest explicitly selected historical incident; original document unchanged."
+    }
+  ],
+  "existing_destinations": {
+    "Airtable_base": "appKCCr9zg0rsfbOI",
+    "Notion_root": "3fd4e1b7-29b3-8146-b48c-c3f823ebddd0",
+    "Drive_workspace": "1RrEZtbm3JO1ZvIF-ZJvsno79ZGVZQPaz"
+  },
+  "resume_receipt": "continuity/work/S7NS_E35_FOUR_APP_LITERAL_SKIM_20261019_R2_Receipt.json",
+  "policy": "Use complete relevant owners through the manifest or live GitHub; this route cannot replace their bodies. Future ideas remain proposed until selected, future scenes unplayed until delivered. No new time."
+}
