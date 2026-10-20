@@ -1,0 +1,72 @@
+{
+  "schema_version": "S7NS_E36_E38_WORK_RESUME_R2",
+  "change_id": "S7NS_E36_E38_DIRECTORS_TITLE_FORTUNES_RESEARCH_R2_20261019",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "mode": "WORK_NO_PLAY_ZERO_FICTIONAL_TIME",
+  "story_time_advanced": 0,
+  "existing_delivered": [
+    36,
+    37,
+    38
+  ],
+  "existing_feature_status": "DELIVERED_PROVISIONAL_NOT_AUTHOR_ACCEPTED",
+  "existing_saved_original": {
+    "path": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_FINAL.txt",
+    "sha256": "4b376d490742c307819f20fe808009dfa50fb211e4d1a89b6e343855a2aeea81",
+    "unchanged": true
+  },
+  "revision": {
+    "span": [
+      36,
+      37,
+      38
+    ],
+    "title_selected_exact": "Stay Away From My Shitty Wall: Columbine Beijing Ting Ting Bang Ding Ow",
+    "prior_five_corrections": "AUTHOR_APPROVED_FOR_REVISED_CUT",
+    "fortune_mechanism": "AUTHOR_SELECTED",
+    "submitted_Arthur_Dana_Daniel_Mana_Keke_lines": "BRAINSTORM_ONLY",
+    "Kaze_fortune": "UNSELECTED",
+    "proposed_Wade_Chis_narration": "APPROVED_SELECTIVE_WADE_SOLE_NARRATOR_CHRIS_EYEWITNESS",
+    "revised_script": "UNWRITTEN_NOT_PLAYED",
+    "new_story_episodes": false
+  },
+  "full_author_owner": "continuity/author/E36_E38_Directors_Title_Fortune_Speech_Approval_R2_20261019.md",
+  "research_owner": "continuity/editorial/E36_E38_Rick_Trover_Speech_And_Fortunes_R2_20261019.md",
+  "prior_R1": "continuity/author/E36_E38_Directors_Cut_Corrections_R1_20261019.md",
+  "four_services": {
+    "github": {
+      "author_blob": "fd2ae4f0ff264006f1239dcc9b7aac736fbebb7c",
+      "research_blob": "3fe763cfadb17e77ab15e6e40d4592c6d4c3f1ef",
+      "current_blob_before_checkpoint": "0b8bfd3e6af007830996a7f06349b304f31cf729",
+      "ledger_blob": "c0ef8bdad222007b535329b76c0936d533fc1686",
+      "readback": "PASS"
+    },
+    "airtable": {
+      "base_id": "appKCCr9zg0rsfbOI",
+      "decision_id": "recMn3zGR5LFtiI5x",
+      "episode_rows": [
+        "recKAH0ZSHaGwHrhe",
+        "recTYiRAZ5KBhX4cJ",
+        "recCoFXMQoES1jihl"
+      ],
+      "readback": "PASS"
+    },
+    "notion": {
+      "episode_index": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+      "author_decisions": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+      "readback": "PASS"
+    },
+    "google_drive": {
+      "handoff_id": "10yrmEuhIx6HfueX8RyUDZdmAmTQG6QXgRDa_kiBiKhs",
+      "doc_revision": "AHj4eMTuzSeyqlPok7ssQ4WX4qE_XrojrLSGanILuggNRvYOEzPE5s2TWcQH1VBvXVUG0dOe9rcTHYTDWd2pHbAdsLnhIYCIVg-r2m9s9gw",
+      "readback": "PASS",
+      "original_feature_id": "1DGALYDQ71_fZZJc0qslEgLpl9iSLmIT_NR7Z-sn59IA",
+      "original_preserved": true
+    }
+  },
+  "source_evidence_boundary": "Rick and Morty multiple specific text transcripts; Trover developer interviews/firsthand review and selected gameplay, NO verified complete 30h transcript; internal actor owners checked; no measured audio, no copy of licensed dialogue as original quotes.",
+  "next_step": "Await explicit author request to draft/PLAY revised E36–38. Then use latest actual full actor owners plus exact selected fortune wordings, create seamless feature only, full first read/source repairs/full-final reread, paired revised save GitHub/Drive/Notion/Airtable readback, deliver no audit preamble. Never write E39 without new PLAY.",
+  "next_new_episode_39": "NOT_AUTHORIZED",
+  "project_ui_install_claimed": false,
+  "author_acceptance_of_revised_cut": false
+}
