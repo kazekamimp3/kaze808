@@ -33,7 +33,7 @@
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/E36_E38_Directors_Title_Fortune_Speech_Approval_R2_20261019.md",
+  "latest_direct_author_scope": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -71,9 +71,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "E36_38_R2_FOUR_APP_READBACK_VERIFIED; EXACT_REVISED_TITLE_AUTHOR_SELECTED; FIVE_CHANGES_APPROVED; FORTUNE_CONCEPT_SELECTED_WORDING_BRAINSTORM; REVISED_E36_38_UNWRITTEN_NOT_PLAYED; E39_NOT_AUTHORIZED",
+  "work_status": "R3_KAZE_FORTUNE_B_THREE_TWISTS_APPROVED; HIGH_ON_LIFE_RICK_TRANSCRIPTS_STUDIED; ORIGINAL_E36_E38_PROVISIONAL_PRESERVED; REVISED_SAME_SPAN_UNWRITTEN_NOT_PLAYED; E39_UNAUTHORIZED",
   "work_resume_checkpoint_latest": "continuity/work/RESUME_CHECKPOINT_E36_E38_DIRECTORS_R2_TITLE_FORTUNES_20261019.json",
-  "work_change_id": "S7NS_E36_E38_DIRECTORS_TITLE_FORTUNES_RESEARCH_R2_20261019",
+  "work_change_id": "S7NS_E36_E38_DIRECTORS_KAZE_B_HIGHONLIFE_R3_20261019",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": {
@@ -104,7 +104,7 @@
   "latest_R5_MO_POWAH_author_blob_sha1": "d777a9e61550231c7874f3abadb2ff4f08fbfeaa",
   "work_resume_checkpoint_latest_git_blob_sha1": "c07a917ab4fbda7dd2cc691134441453f27d104e",
   "R5_MO_POWAH_status": "Chris intentionally trolls a perfectly competent chef to be a dickhead; chef changes nothing, Chris pretends correction worked. Not a milk/cooking grievance. Future E36–38 ONLY.",
-  "latest_direct_author_revision": "continuity/author/E36_E38_Directors_Title_Fortune_Speech_Approval_R2_20261019.md",
+  "latest_direct_author_revision": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
   "E36_E38_research_revision": "continuity/editorial/E36_E38_Theo_TPP_Fissure_Revision_Research_R1_20261019.md",
   "feature_E36_E38_current": {
     "status": "DELIVERED_PROVISIONAL_WITH_AUTHOR_REVISION_REQUEST",
@@ -136,7 +136,28 @@
     "personal_cookie_raw_lines": "BRAINSTORM_NOT_FINAL",
     "individual_new_kaze_fortune": "UNSELECTED",
     "new_research": "continuity/editorial/E36_E38_Rick_Trover_Speech_And_Fortunes_R2_20261019.md",
-    "author_latest": "continuity/author/E36_E38_Directors_Title_Fortune_Speech_Approval_R2_20261019.md"
+    "author_latest": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
+    "kaze_fortune_selected_exact": "Your greatest enemy is five peaceful minutes, Kaze. And somehow, that motherfucker keeps beating you.",
+    "kaze_fortune_status": "AUTHOR_SELECTED_EXACT_OPTION_B",
+    "approved_third_feature_twists": [
+      {
+        "id": 1,
+        "name": "Kaze cookie delayed callback",
+        "status": "AUTHOR_SELECTED_FOR_REVISED_CUT_ONLY"
+      },
+      {
+        "id": 2,
+        "name": "TPP contradictory public heroism from real rescue and crime witness accounts",
+        "status": "AUTHOR_SELECTED_FOR_REVISED_CUT_ONLY"
+      },
+      {
+        "id": 3,
+        "name": "Bastion undercity strategic consequences from physical fissure",
+        "status": "AUTHOR_SELECTED_FOR_REVISED_CUT_ONLY"
+      }
+    ],
+    "other_fortune_words": "BRAINSTORM_NOT_FINAL",
+    "research_latest": "continuity/editorial/E36_E38_HighOnLife_RickTranscript_DeepResearch_R3_20261019.md"
   },
   "prior_e35_last_individual_delivery": {
     "as_of": "E35 delivered provisionally. Persistent four-app workflow saved and mirrored; workflow-only Project package staged. Newer R3 Chris scope preserved. E36–38 unwritten and not PLAY-authorized.",
@@ -146,5 +167,7 @@
     "current_sha": "bab63f048d031924cc714a4f99dec55780d030f2"
   },
   "latest_R2_author_owner": "continuity/author/E36_E38_Directors_Title_Fortune_Speech_Approval_R2_20261019.md",
-  "E36_E38_deep_comedy_research_R2": "continuity/editorial/E36_E38_Rick_Trover_Speech_And_Fortunes_R2_20261019.md"
+  "E36_E38_deep_comedy_research_R2": "continuity/editorial/E36_E38_Rick_Trover_Speech_And_Fortunes_R2_20261019.md",
+  "latest_R3_author_owner": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
+  "E36_E38_deep_comedy_research_R3": "continuity/editorial/E36_E38_HighOnLife_RickTranscript_DeepResearch_R3_20261019.md"
 }
