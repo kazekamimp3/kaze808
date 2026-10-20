@@ -1,0 +1,13 @@
+{
+  "change_id": "S7NS_R11_E39_E40_20261020",
+  "mode": "authorized PLAY continuation",
+  "last_delivered": 38,
+  "files": [
+    "continuity/features/E39_E40/S3_E39_Component_Draft_R1_20261020.txt",
+    "continuity/features/E39_E40/S3_E40_Component_Revised_R2_20261020.txt"
+  ],
+  "originals_unchanged": true,
+  "status": "both parts written and saved; combine, verify, save complete feature next; not yet delivered",
+  "next_new_after_delivery": 41,
+  "source_author": "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md"
+}
