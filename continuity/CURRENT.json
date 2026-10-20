@@ -16,7 +16,8 @@
   "prepared_episode": null,
   "continuation_authorization": {
     "episode": 36,
-    "status": "NOT_AUTHORIZED"
+    "status": "NOT_AUTHORIZED",
+    "note": "User supplied substantial future E36–E38 story plan, not PLAY."
   },
   "state_owner": "continuity/episodes/E35/S3_Episode_35_Checkpoint.json",
   "state_rule": "Exact E34 scene positions/resources/knowledge in paired checkpoint govern; PREPARED pre-delivery labels superseded only by separate E34 delivery receipt. No reset, author acceptance or new story events from WORK.",
@@ -80,14 +81,14 @@
   },
   "latest_editorial_feedback": "continuity/author/Deadpool_Deep_Fidelity_E34_Quality_Direction_20261019.json",
   "deadpool_deeppass_research": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
-  "work_status": "E35_DELIVERED_PROVISIONAL; E33_E35_FEATURE_AUDIT_SAVED_NOT_YET_REWRITTEN; E36_UNWRITTEN",
+  "work_status": "E35_DELIVERED_PROVISIONAL; CHRIS_SKIM_MILK_E36_E38_FOUR_APP_PARTIAL_READBACK; PROJECT_CHANGED_8_AND_MANIFEST_INSTRUCTIONS_STAGED_NOT_LIVE_INSTALLED; E36_UNWRITTEN_NOT_PLAY_AUTHORIZED",
   "work_new_brief": "continuity/work/DEADPOOL_20261019_RESEARCH_APPLICATION_BRIEF.md",
   "work_new_brief_git_blob_sha1": "e9db953b6e4c8b2986d34a03b4554a78fed8b56e",
   "work_research_saved": "research/Deadpool_Three_Film_Transcripts_Fourth_Wall_DeepPass_20261019.md",
   "latest_scoped_editorial": "continuity/author/Deadpool_Deep_Fidelity_E34_Quality_Direction_20261019.json",
   "work_only_story_days_advanced": 0,
-  "work_resume_checkpoint_latest": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_ABSURDITY_TRIPLE_PLAY_FEATURE_PREPARED_20261019.json",
-  "work_resume_checkpoint_latest_git_blob_sha1": "92aea421caadcc919a7a2bf70f47307ed0df5e0d",
+  "work_resume_checkpoint_latest": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
+  "work_resume_checkpoint_latest_git_blob_sha1": "67c49c5ef07740a449fe19a61fad920734b77bf1",
   "comedy_speech_research_latest": "research/Rick_ATHF_Trover_TPP_Comedy_Dialogue_DeepPass_20261019.md",
   "comedy_speech_research_git_blob_sha1": "f0c2af5389ac12562aee32d636ea996f533d9555",
   "storytelling_comedy_audit_latest": "continuity/editorial/S7NS_Projectwide_Story_Comedy_Routing_Audit_After_E34_20261019.md",
@@ -144,5 +145,29 @@
   "default_PLAY_format": "THREE_CONSECUTIVE_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_OVERRIDDEN",
   "play_presentation_retrieval_route": "routing/Chris_Triple_Play_Feature_And_140_Technique_Active_Routes_20261019.json",
   "feature_E33_E35_final": "continuity/features/E33_E35/S3_Under_New_Management_Complete_Directors_Cut_FINAL.txt",
-  "feature_E33_E35_paired_checkpoint": "continuity/features/E33_E35/S3_Under_New_Management_Complete_Directors_Cut_Checkpoint.json"
+  "feature_E33_E35_paired_checkpoint": "continuity/features/E33_E35/S3_Under_New_Management_Complete_Directors_Cut_Checkpoint.json",
+  "latest_direct_author_scope": "continuity/author/S7NS_E35_Chris_Skim_Milk_E36_E38_Author_20261019.md",
+  "latest_author_scope_blob_sha1": "a738acbf5a95880613d5754637e9a939f2777945",
+  "current_Chris_dairy_paranoia_owner": "canon/characters/Chris_Skim_Milk_Trauma_Paranoia_20261019.md",
+  "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
+  "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
+  "latest_cross_plugin_e35_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
+  "latest_cross_plugin_e35_milk_checkpoint_sha1": "67c49c5ef07740a449fe19a61fad920734b77bf1",
+  "qapx_e35_current_candidate": {
+    "release": "S7NS_QAPX_E35_CHRIS_MILK_FOUR_PLUGIN_20261019",
+    "manifest_sha256": "3a3968500c4226e8efd627a78fa38e84f2546e29d6a8099e61cfe6e6085f7f31",
+    "physical_bundles": 28,
+    "changed_bundles": 8,
+    "unchanged_bundles": 20,
+    "original_logical_owners_preserved": 471,
+    "new_logical_owners": 8,
+    "total_logical_owners": 479,
+    "corrected_instructions_characters": 7987,
+    "package_sha256": "efa64c619bdf158c5edacd9e3813af7991e0eb1f88876b275a2078c5ff64cdc9",
+    "rollback_sha256": "8034aeed7e167d392d760c9279a4dbf12f7d60bd37a03eb8e41ecb0afc22674b",
+    "Project_UI_installed": false,
+    "notes": "Four apps were materially consulted; connected Airtable/Notion writes partial because some blocked before write; Google Drive handoff verified; GitHub saved. Only local package staged; actual Project file and instruction readback pending."
+  },
+  "new_production_handoff_google_doc": "https://docs.google.com/document/d/10yrmEuhIx6HfueX8RyUDZdmAmTQG6QXgRDa_kiBiKhs/edit?usp=drivesdk",
+  "new_author_E36_E38_intent": "AUTHOR_SELECTED_FUTURE_RESTAURANT_AND_DETAILED_SKIM_MILK_MEMOIR_NOT_PLAYED"
 }
