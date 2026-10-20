@@ -232,5 +232,18 @@
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_Episodes_39_40_The_Ground_Has_Witnesses_Checkpoint_20261020.json",
   "current_prepared_episode_count": 2,
   "current_prepared_drive_id": "1R-D-OQHiZFPsP-KEeDRBswOdjlt5mjKP170139UKbgE",
-  "current_prepared_full_sha256": "bc742fafc8ffb5e667c4f244852c735b5f8dd63f8a6503a165e77437fe8f283b"
+  "current_prepared_full_sha256": "bc742fafc8ffb5e667c4f244852c735b5f8dd63f8a6503a165e77437fe8f283b",
+  "authorial_fidelity_v1_1": {
+    "change_id": "S7NS_AUTHORIAL_FIDELITY_ACTIVE_COMEDY_V11_20261020",
+    "selection": "AUTHOR_SELECTED_BY_EXPLICIT_ESKETIT",
+    "dedicated_owner": "canon/presentation/S7NS_Authorial_Intent_Raw_Note_Fidelity_Active_Comedy_v1_1_20261020.md",
+    "qa_integration": "Use within existing full-draft/read/repair/full-final-reread doctrine; active AI originality and exact authorial fidelity; no new workflow",
+    "canonical_note": "Examples are evidence, not new plot; latest R3 skim-milk scope and delivered E36-38 R8 override retired later revenge",
+    "active_presentation_default_owner": "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
+    "local_changed_only_project_bundle": "PREPARED_VALIDATED_PROJECT_UI_INSTALL_PENDING_READBACK",
+    "project_attachment_readback": "NOT_VERIFIED",
+    "connected_apps": "PER_DESTINATION_RECEIPTS_REQUIRED",
+    "author_acceptance": "NO_EPISODE_ACCEPTANCE_INFERRED",
+    "story_time_delta": 0
+  }
 }
