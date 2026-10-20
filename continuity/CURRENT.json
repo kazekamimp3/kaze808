@@ -33,7 +33,7 @@
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_R7_Arcane_Rick_Ensemble_Montage_Author_20261019.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -71,9 +71,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "R6_FOUR_APP_READBACK_VERIFIED; ARTHUR_HIGH_NOON_SAWED_OFF_SHOTGUN_AND_COUNT_MARKSMAN_CONFIRMED; R5_R4_COMPLETED; ORIGINAL_E36_E38_PRESERVED; REVISED_UNWRITTEN_NOT_PLAYED; E39_NOT_AUTHORIZED",
+  "work_status": "R7_ARCANE_RICK_RESEARCH_AND_POST_SPECIAL_AUTHOR_SELECTION_FOUR_APP_READBACK_VERIFIED; REVISED_E36_E38_UNWRITTEN_NOT_PLAYED; E39_UNAUTHORIZED",
   "work_resume_checkpoint_latest": "continuity/work/RESUME_CHECKPOINT_E38_ARTHUR_HIGHNOON_COUNT_R6_FOUR_APP_20261019.json",
-  "work_change_id": "S7NS_R6_RESUME_ARTHUR_GUN_IDENTITIES_20261019",
+  "work_change_id": "S7NS_R7_ARCANE_RICK_ENSEMBLE_MONTAGE_20261019",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": {
@@ -104,7 +104,7 @@
   "latest_R5_MO_POWAH_author_blob_sha1": "d777a9e61550231c7874f3abadb2ff4f08fbfeaa",
   "work_resume_checkpoint_latest_git_blob_sha1": "7da036fc89a25f9492dab4296216fad91d4b2c98",
   "R5_MO_POWAH_status": "Chris intentionally trolls a perfectly competent chef to be a dickhead; chef changes nothing, Chris pretends correction worked. Not a milk/cooking grievance. Future E36–38 ONLY.",
-  "latest_direct_author_revision": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
+  "latest_direct_author_revision": "continuity/author/S7NS_R7_Arcane_Rick_Ensemble_Montage_Author_20261019.md",
   "E36_E38_research_revision": "continuity/editorial/E36_E38_Theo_TPP_Fissure_Revision_Research_R1_20261019.md",
   "feature_E36_E38_current": {
     "status": "DELIVERED_PROVISIONAL_WITH_AUTHOR_REVISION_REQUEST",
@@ -191,5 +191,15 @@
   "latest_R5_integrity_audit": "continuity/work/S7NS_R5_Original_Owner_Integrity_And_Conflict_Audit_20261019.md",
   "authority_note_R5": "NEW author physical UNSHAKEN<->HIGH NOON<->THE COUNT one-body design and ENTIRE-NOXUS damage outrank old staged E35 snapshots and old independent-small-gun model for future scene work. Source modules retain original bytes. Exact last delivered E38 original only.",
   "latest_R6_author_owner": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
-  "Arthur_R6_weapon_owner": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md"
+  "Arthur_R6_weapon_owner": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
+  "R7_screenwriting_research": "continuity/editorial/S7NS_R7_RickExpanded_Arcane_Writers_Corpus_20261019.md",
+  "R7_post_special_proposed_subplots": "continuity/editorial/S7NS_R7_Post_E38_Ensemble_Subplot_Proposals_20261019.md",
+  "R7_selected_forward_direction": {
+    "Arthur_showcase": "AUTHOR_SELECTED_FUTURE_STORY; no specific date or target",
+    "Noxian_investigation": "AUTHOR_SELECTED_FUTURE_STORY; actual clues needed",
+    "ensemble_post_E38": "AUTHOR_SELECTED_PRIORITY_TO_INTERCONNECTED_NOXUS_AND_CROSSOVER_AGENCY",
+    "montage_compression": "AUTHOR_SELECTED_WHEN_ROUTINE_TIME_HAS_NO_MEANINGFUL_CHOICES",
+    "detailed_subplot_options": "PROPOSED_NOT_SELECTED",
+    "source_truth": "Original E36–38 provisional, revised same E36–38 feature unwritten, E39 not authorized"
+  }
 }
