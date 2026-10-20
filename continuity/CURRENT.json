@@ -1,7 +1,7 @@
 {
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "E36–38 The House Special fully rendered in chat after explicit PLAY, now DELIVERED_PROVISIONAL_WITH_AUTHOR_REVISION_REQUEST; no author acceptance. Direct corrections selected 2026-10-19; revised prose UNWRITTEN/NOT PLAYED; E39 not authorized.",
+  "as_of": "Original E36–38 The House Special delivered provisional and preserved. Latest user explicitly authorized revision. R8 complete revised SAME E36–38 feature is written, reviewed and exact-paired-saved, ready for immediate chat rendering; not yet recorded delivered at this write. E39 not authorized.",
   "last_delivered_episode": 38,
   "next_episode": 39,
   "delivery_status": "DELIVERED_PROVISIONAL_AUTHOR_REVISION_SELECTED",
@@ -14,7 +14,7 @@
   "checkpoint": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_Checkpoint.json",
   "checkpoint_git_blob_sha1": "569e39d99043be5eb346a497220f24890f678fb1",
   "state_owner": "continuity/features/E36_E38/DELIVERY_RECONCILIATION_R1_20261019.json",
-  "state_rule": "Full reviewed E36–38 ORIGINAL was played provisionally in this chat, then criticized. The revised killing/fissure/humor/bathroom/TPP outcomes are AUTHOR_SELECTED FOR REVISED CUT, NOT YET PLAYED OR ACCEPTED. Preserve the original exact manuscript and checkpoint; do not auto-advance or regenerate E39.",
+  "state_rule": "Original E36–38 was fully rendered provisionally then criticized. Latest user now authorized the revised same-span feature, and R8 is fully prepared with exact manuscript/checkpoint. Render the saved R8, not a new regeneration. Reconcile actual complete visible delivery on the next continuation before treating revised outcomes as occurred; preserve original and no E39 automatic start.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -26,9 +26,9 @@
   "continuation_authorization": {
     "episode": 39,
     "status": "NOT_AUTHORIZED",
-    "note": "Author has chosen to revise delivered-provisional E36–38. No fresh E39 PLAY and no revised-cut PLAY from this feedback request."
+    "note": "E39 not authorized. User did explicitly authorize revising and delivering SAME E36–38; R8 exact saved feature is ready to render without another approval request."
   },
-  "prepared_episode": null,
+  "prepared_episode": "E36-E38_SAME_SPAN_DIRECTORS_CUT_R8",
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
@@ -71,9 +71,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "R7_FOUR_APP_READBACK_VERIFIED; EXPANDED_RICK_ARCANE_RESEARCH; AUTHOR_SELECTED_ENSEMBLE_MONTAGE_AND_TWO_FUTURE_IDEAS; REVISED_E36_E38_UNWRITTEN_NOT_PLAYED; E39_NOT_AUTHORIZED",
-  "work_resume_checkpoint_latest": "continuity/work/RESUME_CHECKPOINT_E38_ARCANE_RICK_ENSEMBLE_R7_FOUR_APP_20261019.json",
-  "work_change_id": "S7NS_R7_ARCANE_RICK_ENSEMBLE_MONTAGE_20261019",
+  "work_status": "R8_COMPLETE_REVISED_E36_E38_PREPARED_REVIEWED_EXACT_PAIRED_SAVE_FOUR_APP_READBACK_VERIFIED; RENDER_SAVED_TEXT_NOW; NO_E39_AUTHORIZATION",
+  "work_resume_checkpoint_latest": "continuity/work/RESUME_CHECKPOINT_E36_E38_DIRECTORS_CUT_R8_PREPARED_20261019.json",
+  "work_change_id": "S7NS_E36_E38_DIRECTORS_CUT_REVISED_PLAY_R8_20261019",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": {
@@ -102,59 +102,37 @@
   "history_unchanged": true,
   "latest_R5_MO_POWAH_author": "continuity/author/S7NS_E35_MO_POWAH_Pure_Dickhead_Joke_20261019.md",
   "latest_R5_MO_POWAH_author_blob_sha1": "d777a9e61550231c7874f3abadb2ff4f08fbfeaa",
-  "work_resume_checkpoint_latest_git_blob_sha1": "d21cef68f378b7477a2031f27e974613226d748d",
+  "work_resume_checkpoint_latest_git_blob_sha1": "SEE_LATEST_R8_WORK_RECEIPT_READBACK",
   "R5_MO_POWAH_status": "Chris intentionally trolls a perfectly competent chef to be a dickhead; chef changes nothing, Chris pretends correction worked. Not a milk/cooking grievance. Future E36–38 ONLY.",
   "latest_direct_author_revision": "continuity/author/S7NS_R7_Arcane_Rick_Ensemble_Montage_Author_20261019.md",
   "E36_E38_research_revision": "continuity/editorial/E36_E38_Theo_TPP_Fissure_Revision_Research_R1_20261019.md",
   "feature_E36_E38_current": {
-    "status": "DELIVERED_PROVISIONAL_WITH_AUTHOR_REVISION_REQUEST",
-    "span": [
-      36,
-      37,
-      38
-    ],
+    "status": "ORIGINAL_DELIVERED_PROVISIONAL; R8_REVISED_FEATURE_PREPARED_FOR_AUTHORIZED_CHAT",
+    "span": [36,37,38],
     "original_saved_manuscript": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_FINAL.txt",
     "original_saved_checkpoint": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_Checkpoint.json",
     "delivery_reconciliation": "continuity/features/E36_E38/DELIVERY_RECONCILIATION_R1_20261019.json",
     "author_selected_revision": "continuity/author/E36_E38_Directors_Cut_Corrections_R1_20261019.md",
     "revision_research": "continuity/editorial/E36_E38_Theo_TPP_Fissure_Revision_Research_R1_20261019.md",
-    "revised_manuscript_status": "UNWRITTEN_NOT_PLAYED",
+    "revised_manuscript_status": "PREPARED_SAVED_REVIEWED_NOT_YET_CHAT_DELIVERED",
     "author_acceptance": "NOT_ASSERTED",
     "chat_byte_identity": "NOT_MACHINE_VERIFIED",
     "story_days_advanced_by_work": 0,
     "revised_cut_title_selected": "Stay Away From My Shitty Wall: Columbine Beijing Ting Ting Bang Ding Ow",
     "title_select_status": "AUTHOR_SELECTED_FOR_REVISED_CUT_ONLY",
-    "author_approved_prior_revisions": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
+    "author_approved_prior_revisions": [1,2,3,4,5],
     "selective_Wade_Chris_planets": "AUTHOR_APPROVED_AS_OPTIONAL_CASE_BY_CASE_ARRANGEMENT_WADE_SOLE_NARRATOR_CHRIS_EYEWITNESS",
     "personal_roast_cookie_setup": "AUTHOR_SELECTED",
     "personal_cookie_raw_lines": "BRAINSTORM_NOT_FINAL",
-    "individual_new_kaze_fortune": "UNSELECTED",
+    "individual_new_kaze_fortune": "AUTHOR_SELECTED_EXACT_OPTION_B",
     "new_research": "continuity/editorial/E36_E38_Rick_Trover_Speech_And_Fortunes_R2_20261019.md",
     "author_latest": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
     "kaze_fortune_selected_exact": "Your greatest enemy is five peaceful minutes, Kaze. And somehow, that motherfucker keeps beating you.",
     "kaze_fortune_status": "AUTHOR_SELECTED_EXACT_OPTION_B",
     "approved_third_feature_twists": [
-      {
-        "id": 1,
-        "name": "Kaze cookie delayed callback",
-        "status": "AUTHOR_SELECTED_FOR_REVISED_CUT_ONLY"
-      },
-      {
-        "id": 2,
-        "name": "TPP contradictory public heroism from real rescue and crime witness accounts",
-        "status": "AUTHOR_SELECTED_FOR_REVISED_CUT_ONLY"
-      },
-      {
-        "id": 3,
-        "name": "Bastion undercity strategic consequences from physical fissure",
-        "status": "AUTHOR_SELECTED_FOR_REVISED_CUT_ONLY"
-      }
+      {"id":1,"name":"Kaze cookie delayed callback","status":"AUTHOR_SELECTED_FOR_REVISED_CUT_ONLY"},
+      {"id":2,"name":"TPP contradictory public heroism from real rescue and crime witness accounts","status":"AUTHOR_SELECTED_FOR_REVISED_CUT_ONLY"},
+      {"id":3,"name":"Bastion undercity strategic consequences from physical fissure","status":"AUTHOR_SELECTED_FOR_REVISED_CUT_ONLY"}
     ],
     "other_fortune_words": "BRAINSTORM_NOT_FINAL",
     "research_latest": "continuity/editorial/E36_E38_HighOnLife_RickTranscript_DeepResearch_R3_20261019.md",
@@ -173,7 +151,17 @@
     "additional_R5_author": "continuity/author/S7NS_R5_Arthur_Unified_Weapon_Noxus_Wide_Fissure_20261019.md",
     "additional_R5_research": "continuity/editorial/S7NS_R5_Rick_Morty_Creators_Reddit_DeepResearch_20261019.md",
     "source_integrity_audit": "continuity/work/S7NS_R5_Original_Owner_Integrity_And_Conflict_Audit_20261019.md",
-    "story_effect": "NOT_YET_ENACTED"
+    "story_effect": "R8_PREPARED_SCENES_PENDING_ACTUAL_COMPLETE_CHAT_RENDER",
+    "R8_manuscript": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_FINAL_20261019.txt",
+    "R8_checkpoint": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_Checkpoint_20261019.json",
+    "R8_manuscript_sha256": "056544d5f8f79d7464ece7e7420da38f5981a127a37abba74d5b624e2c82659b",
+    "R8_manuscript_git_blob_sha1": "9f154bb2348cb5f021425b9cc37d399708c971bd",
+    "R8_checkpoint_git_blob_sha1": "8420a0a5bcf41f2c03aa421e2180ef5dfadbcc1e",
+    "R8_body_words": 12573,
+    "R8_drive_manuscript_id": "1TMEt5GKWgMitE_L1RdbVbjGeeNa99Ub0",
+    "R8_drive_checkpoint_id": "1c659vTOTkDGMrmudQTdFzQ0qKA3Qur4U",
+    "R8_saved_pair_readback": "GITHUB_BLOB_MATCH_AND_DRIVE_RAW_BYTE_EQUALITY_BOTH_PASS",
+    "R8_render_authorization": "Latest direct user: oh okay. yeah revise e36-38. Render exact saved full feature now; do not ask again."
   },
   "prior_e35_last_individual_delivery": {
     "as_of": "E35 delivered provisionally. Persistent four-app workflow saved and mirrored; workflow-only Project package staged. Newer R3 Chris scope preserved. E36–38 unwritten and not PLAY-authorized.",
@@ -200,6 +188,6 @@
     "ensemble_post_E38": "AUTHOR_SELECTED_PRIORITY_TO_INTERCONNECTED_NOXUS_AND_CROSSOVER_AGENCY",
     "montage_compression": "AUTHOR_SELECTED_WHEN_ROUTINE_TIME_HAS_NO_MEANINGFUL_CHOICES",
     "detailed_subplot_options": "PROPOSED_NOT_SELECTED",
-    "source_truth": "Original E36–38 provisional, revised same E36–38 feature unwritten, E39 not authorized"
+    "source_truth": "Original E36–38 provisional preserved. R8 revised same E36–38 feature now prepared and exact-paired-saved for immediate authorized rendering. E39 not authorized."
   }
 }
