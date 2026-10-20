@@ -1,0 +1,36 @@
+{
+  "schema": "S7NS_R7_WORK_CHECKPOINT",
+  "change_id": "S7NS_R7_ARCANE_RICK_ENSEMBLE_MONTAGE_20261019",
+  "branch": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "mode": "WORK_NO_PLAY",
+  "story_time_advanced": 0,
+  "last_delivered": 38,
+  "next": 39,
+  "original_status": "PROVISIONAL",
+  "revised_E36_E38": "UNWRITTEN_NOT_PLAYED",
+  "author": "continuity/author/S7NS_R7_Arcane_Rick_Ensemble_Montage_Author_20261019.md",
+  "research": "continuity/editorial/S7NS_R7_RickExpanded_Arcane_Writers_Corpus_20261019.md",
+  "subplots": "continuity/editorial/S7NS_R7_Post_E38_Ensemble_Subplot_Proposals_20261019.md",
+  "approved_ideas": [
+    "Arthur showcase",
+    "Noxian source investigation"
+  ],
+  "ensemble_and_montage_direction": "AUTHOR_SELECTED",
+  "other_subplots": "PROPOSED",
+  "evidence": "12 more Rick dialogue text pages, 14 Arcane dialogue text pages and creator interviews; no full audiovisual validation",
+  "apps": {
+    "GitHub": "PASS",
+    "Airtable": "PASS",
+    "Notion": "PASS",
+    "Google_Drive": "PASS"
+  },
+  "records": {
+    "decision": "recoVrJch9wgVstwe",
+    "research": "recv48WJ4x2A7nojw",
+    "drive": "10yrmEuhIx6HfueX8RyUDZdmAmTQG6QXgRDa_kiBiKhs",
+    "notion": [
+      "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+      "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb"
+    ]
+  }
+}
