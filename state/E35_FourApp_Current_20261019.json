@@ -1,0 +1,46 @@
+{
+  "schema": "S7NS_CURRENT_EVIDENCE_PROJECTION_V1",
+  "change_id": "S7NS_E35_FOUR_APP_LITERAL_SKIM_20261019_R2",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "status": "E35_DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "latest_delivered_episode": 35,
+  "next_episode": 36,
+  "next_feature_episode_range": [
+    36,
+    37,
+    38
+  ],
+  "next_feature_status": "AUTHOR_SELECTED_OUTLINE_UNWRITTEN_NOT_PLAY_AUTHORIZED",
+  "read_first": [
+    "continuity/CURRENT.json",
+    "continuity/DELIVERY_LEDGER.json",
+    "continuity/episodes/E35/S3_Episode_35_A_Controlled_Environment.txt",
+    "continuity/episodes/E35/S3_Episode_35_Checkpoint.json"
+  ],
+  "full_evidence_not_replaced": "This is a frozen E35 projection. Live matching-branch delivered manuscripts/checkpoints and the latest author override it. Retrieve their full contents before consequential writing.",
+  "manuscript_blob_sha1": "ac3ba5e6fdfd30b59b7db2c4ad6dfa0f0c41ea0f",
+  "checkpoint_blob_sha1": "ac0ea9f9e4aa1c1dceaaa8b92fa5b10037499697",
+  "positions": {
+    "exterior": "Billy with Kaze, Arthur, Daniel, Dana, Mana and guest K.K., resting/eating by the inland stream.",
+    "BELLY": "Chris full-size inside with Charles Manson, Meatwad, Master Shake and Frylock; same one-exterior rule and actual access/monitors.",
+    "K_K": "Not a Sin. Bandaged forearm, ordinary walking stick, empty pear tub. Single purchased pear planted above stream bank in E35; do not restore it to the tub.",
+    "TPP": "Dutch, adult Jack/Clifford with actual assisted walking and retained wheelchair/helmet/cape, actual Tracy with miniature conjoined adult human Brian, Cartman/Coon, Jimmy and Timmy fleeing the exposed rented HQ through harbor streets. No new base, arrests or repossession established.",
+    "remote": "Kratos/Mimir last on quarry road after E33 physical fall/catch/attachment. No remote narration or invented subsequent journey."
+  },
+  "resources": {
+    "Kaze_personal_silver": 0,
+    "common_silver": 2120,
+    "Daniel_personal_silver": 110,
+    "TPP_tracked_silver": 82,
+    "TPP_arithmetic": "59 - 4 + 9 + 18; older funds separate",
+    "TPP_debts": "Rent and medical balances unpaid; original ledger retained",
+    "E31_chests": "Two unopened, uncounted",
+    "ammo": "E35 no shots; prior expenditure persists",
+    "food_and_gear": "Finite meal served; covered pot outside; ordinary spoon left in acid, no magical recovery. No refill."
+  },
+  "source_selection": "Literal historical Planetarium Feces incident is author-selected for adaptation. This is not an E36 restaurant event, a metaphor-only diagnosis or a wholesale import of IDC machinery. Separate historical truth from future disclosure and proposed revenge.",
+  "preservation": "S1-S2, five campfire Specials and original E1-E35 unchanged. Separate prepared E33-E35 feature is not three new episodes or automatic acceptance.",
+  "WORK_story_days_advanced": 0,
+  "receipt": "continuity/work/S7NS_E35_FOUR_APP_LITERAL_SKIM_20261019_R2_Receipt.json"
+}
