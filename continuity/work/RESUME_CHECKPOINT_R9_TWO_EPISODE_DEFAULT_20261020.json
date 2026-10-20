@@ -1,0 +1,72 @@
+{
+  "schema": "S7NS_R9_EXACT_FOUR_APP_RESUME_CHECKPOINT",
+  "change_id": "S7NS_R9_TWO_EPISODE_DEFAULT_R8_CHAT_RECONCILE_20261020",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "date": "2026-10-20",
+  "mode": "WORK_ONLY_0_NEW_STORY_TIME",
+  "latest_direct_author_words": "two episodes at a time sound better",
+  "prior_work_preserved": true,
+  "new_default": {
+    "episode_count": 2,
+    "format": "TWO_CONSECUTIVE_NEW_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_AUTHOR_OVERRIDES",
+    "owner": "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
+    "author": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
+    "first_prospective_batch": [
+      39,
+      40
+    ],
+    "later_batches": "E41–42, E43–44 etc. after delivery; do not assume authorization",
+    "play_authorized": false,
+    "no_required_in_world_days": true,
+    "one_scene_doctrine_unchanged": true
+  },
+  "latest_actual_delivery": {
+    "last_delivered_episode": 38,
+    "latest_same_span_feature": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_FINAL_20261019.txt",
+    "paired_checkpoint": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_Checkpoint_20261019.json",
+    "revised_source_sha256": "056544d5f8f79d7464ece7e7420da38f5981a127a37abba74d5b624e2c82659b",
+    "source_original_preserved": true,
+    "legacy_original": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_FINAL.txt",
+    "visible_chat_verified_whole": "YES_BY_MATCHING_BEGIN_AND_TERMINAL_LINES",
+    "chat_source_byte_equality": "NOT_MACHINE_VERIFIED",
+    "delivery_status": "REVISED_R8_DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "reconciliation": "continuity/features/E36_E38/R8_CHAT_DELIVERY_RECONCILIATION_20261020.json"
+  },
+  "receipts": {
+    "GitHub": {
+      "author_blob": "3b413dc210a7d1e13443a4e26b6661641f92a1a0",
+      "policy_blob": "b6a739dd836182d00c56fcab6e7ac1c9c5027231",
+      "chat_receipt_blob": "bda05effec0873016041fd66c70551afe3928012",
+      "ledger_blob": "4de98329a8a1ca1850f3c6a9bd1aa2b3fcbb453c",
+      "current_blob_before_checkpoint": "d1237ea8930d951247f110cb2d2c643cb03272c9",
+      "readback": "PASS"
+    },
+    "Airtable": {
+      "base_id": "appKCCr9zg0rsfbOI",
+      "decision_id": "recGuSJGY5cs3hRz4",
+      "episode_rows": [
+        "recKAH0ZSHaGwHrhe",
+        "recTYiRAZ5KBhX4cJ",
+        "recCoFXMQoES1jihl"
+      ],
+      "R8_sha_written_to_rows": "056544d5f8f79d7464ece7e7420da38f5981a127a37abba74d5b624e2c82659b",
+      "readback": "PASS"
+    },
+    "Notion": {
+      "episode_index": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+      "author_decisions": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+      "readback": "PASS"
+    },
+    "Google_Drive": {
+      "production_handoff_id": "10yrmEuhIx6HfueX8RyUDZdmAmTQG6QXgRDa_kiBiKhs",
+      "revision": "AHj4eMSEIHHBXGvrLcxPQlV_XNACPQ9pZRJYlh3ThTNTHohRCgOEL8zSb6BTB4K_L3UoLegim_VaVcUrj9_1Qmf2iliUtr5XNOmD3I__4QU",
+      "readback": "PASS"
+    }
+  },
+  "original_master_doctrine": "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+  "integrated_four_app_contract": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
+  "legacy_three_episode_preference_owner": "canon/presentation/S7NS_Triple_Episode_Seamless_Feature_PLAY_Default_20261019.md",
+  "legacy_three_episode_count": "HISTORICAL_SUPERSEDED_BY_R9",
+  "next_action": "On actual fresh PLAY, start with latest CURRENT/ledger and R8 full manuscript/checkpoint. Prepare E39–40 TWO episodes as one continuous feature through full existing doctrine. Reconcile delivery only after entire feature visibly completed; do not silently auto-accept user or auto-write E41. No background work or Project UI installation asserted."
+}
