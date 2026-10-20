@@ -1,0 +1,82 @@
+{
+  "schema": "S7NS_E39_E40_PAIRED_SAVED_FEATURE_CHECKPOINT",
+  "change_id": "S7NS_E39_E40_PLAY_CONTINUE_R11_20261020",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode_span": [
+    39,
+    40
+  ],
+  "title": "The Ground Has Witnesses",
+  "status": "PREPARED_SAVED_REVIEWED_NOT_YET_CHAT_DELIVERED",
+  "authorization": "Prior user PLAY + current SAVE CHECKPOINT CONTINUE, two-episode default for E39–40",
+  "actor_owner": "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md",
+  "full_feature": {
+    "exact_assembly": "GitHub E39_R2.trimEnd() + '\\n\\n' + GitHub E40_R3.trimEnd() + '\\n'",
+    "github_sources": [
+      {
+        "path": "continuity/features/E39_E40/S3_E39_Component_Revised_R2_20261020.txt",
+        "git_blob_sha1": "e42ab4a257b1d1e8640e2a9b7074c4e62ef2d79b",
+        "earlier_draft_preserved": "continuity/features/E39_E40/S3_E39_Component_Draft_R1_20261020.txt"
+      },
+      {
+        "path": "continuity/features/E39_E40/S3_E40_Component_Final_R3_20261020.txt",
+        "git_blob_sha1": "a88e33ef69ec8b335331b4840e62a8c9630b70a7",
+        "earlier_drafts_preserved": [
+          "continuity/features/E39_E40/S3_E40_Component_Draft_R1_20261020.txt",
+          "continuity/features/E39_E40/S3_E40_Component_Revised_R2_20261020.txt"
+        ]
+      }
+    ],
+    "Drive_native_document_id": "1R-D-OQHiZFPsP-KEeDRBswOdjlt5mjKP170139UKbgE",
+    "Drive_revision": "AHj4eMRmxs_Tx0K_h_gesKdV2I6DimKGPmtVCWl_R1W0Ft72f-iWGrpMhScXG8WoVjHcFNNn5x6xQytAIqbIjij3P4kFM6pWJI5R1f-u_Xg",
+    "Drive_normalized_paragraph_text_comparison": "PASS; exact after collapsing repeat blank lines, not raw byte SHA verification",
+    "sha256_of_exact_assembled_UTF8": "bc742fafc8ffb5e667c4f244852c735b5f8dd63f8a6503a165e77437fe8f283b",
+    "sha256_implementation": "pure JS SHA256 checked against standard abc test digest",
+    "full_UTF8_bytes": 53317,
+    "full_characters": 51665,
+    "full_words": 8860,
+    "feature_has_single_audience_title": true
+  },
+  "story_position_before": {
+    "last_delivered_episode": 38,
+    "manuscript": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_FINAL_20261019.txt",
+    "original_preserved": true,
+    "author_acceptance": "NOT_ASSERTED"
+  },
+  "scene_endpoint_if_full_chat_delivered": {
+    "time": "same evening/night after E38; no imposed two-day split",
+    "Sins": "Kaze, Chris sole exterior, Arthur, genuinely drunk Daniel, loyal male Dana & nonverbal male Mana, K.K independent traveling guest at safer fractured ridge; no offscreen return to pear bank",
+    "K_K": "Correct TTS spelling 'K.K' throughout future; old cloth removed on-page; arm regenerating with living wood and no blood; ordinary walking stick retained after wagon bridge; planted pear & empty tub still at prior bank, condition unknown",
+    "Billy": "full sized interior with Frylock, Shake, Meatwad and Charles; starts significant lore without being asked via real banjo/outward channel, Hawking chair memorial and Eulalie history grounded",
+    "Clifford": "adult Jack, crooked neck, scars/tattoos, existing assisted walking and chair; unprompted trauma monologues; TPP still aboard stolen launch downstream of broken canal gate",
+    "TPP": "Dutch, Clifford, adult Tracy with tiny conjoined adult human Brian, Cartman/Coon, Jimmy, Timmy on leaking stolen launch; saved real people and used physically freed canal gate to escape patrol; contested public reputation and theft evidence persist; tracked 199 silver retained, older debt/funds separate",
+    "Noxus": "Orra, Swain & Darius jointly saved civilians from Bastion undercity; temporarily sacrificed sealed old stores to reroute water; discovered fresh hidden repairs/iron work in ancient wall, identity of secret faction unknown; dark-gowned person reported only actually seen facts to another separate carriage occupant, no automatically revealed LeBlanc body; no Mordekaiser release",
+    "investigation": "Town constable Venn outside ruined Golden Heron discovers genuine signed Chris order book, tipped milk glass and road-watch marksman death site; clue not yet relayed to Swain; wagon family sees party and may suspect Kaze from his visible expression, no secure culprit ID",
+    "independent_actor_wants": "Kaze enjoys risk of attribution; Arthur withholds automatic violence, still two UNSHAKEN revolvers, one past Count shot retained; Chris hungry/humorous, no new meal or rifle discharge; Daniel drunk and deft, Dana practical/loyal; Billy proud, K.K deliberately strange"
+  },
+  "resources_and_conflicts": {
+    "Sins_common_silver": 2120,
+    "Kaze_personal_silver": 0,
+    "Daniel_personal_silver": 110,
+    "TPP_tracked_silver": 199,
+    "TPP_medical_and_rent_debt": "unpaid",
+    "E31_chests": "two remain unopened/uncounted",
+    "no_confirmed_additional_shots": true,
+    "no_new_set_kills": true,
+    "retired_Teemo": "excluded",
+    "Zid": "not Sin",
+    "Briar": "off active",
+    "Wade": "sole main narrator",
+    "old_Jormungandr": "one distant serpent, unchanged"
+  },
+  "review": {
+    "original_sole_doctrine": "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md logical source in 15_SEASON3_PLOTS.md",
+    "initial_E39_and_E40_drafts_preserved": true,
+    "repair_E39": "restore physical ordinary K.K stick after bridge intervention",
+    "repair_E40": "replace repetitive second Billy bridge tale with Hawking chair memory; make Clifford new bookish reflective trauma distinct from prior recount; full third unsolicited Billy anecdote; K.K punctuation and tree biology corrected",
+    "final_full_read": "Both saved parts inspected, crossover seams verified, full normalized Drive text 50903 characters equals normalized GitHub assembled source, continuity/forbidden names and duplicate title checked",
+    "audio_duration": "UNMEASURED; at assumed 150 wpm 8860 words approx 59.1 minutes"
+  },
+  "post_delivery_boundary": "Only after exact full feature has visibly appeared in chat, mark E39 and E40 DELIVERED_PROVISIONAL, never author accepted automatically. Until then original E38 remains last delivered and E41 not PLAY-authorized.",
+  "no_automatic_author_acceptance": true
+}
