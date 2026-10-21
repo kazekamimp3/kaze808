@@ -1,19 +1,19 @@
 {
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "2026-10-21: prior Shitty Wall cut delivered provisionally; two-thread Billy R2 prepared/reviewed/saved as alternate same36–38",
+  "as_of": "2026-10-21: E36–38 Two Threads/Billy R2 actually delivered provisional; revised E39–40 A Place to Wait R2 prepared/reviewed/saved pending PLAY",
   "last_delivered_episode": 38,
   "next_episode": 39,
-  "delivery_status": "REVISED_20261021_DELIVERED_PROVISIONAL_R2_REPLACEMENT_PREPARED",
+  "delivery_status": "E36_E38_TWO_THREADS_BILLY_R2_DELIVERED_PROVISIONAL",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "Latest prior-cut reconciliation in prepared_same_span_revision_20261021; earlier R8 receipt retained as history.",
-  "manuscript": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_FINAL.txt",
-  "manuscript_git_blob_sha1": "9194e35797bdf5d76830ce97ee5072b6d2ae00bb",
-  "manuscript_sha256": "018f2a103e18448e15484700d70b2e0e3f78597c0745e26d3684735bee9ff7c1",
-  "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_Checkpoint.json",
+  "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
+  "manuscript": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_FINAL_20261021.txt",
+  "manuscript_git_blob_sha1": "f1dbb74c081e3c80a1ebc9ff7c97014b26b113f9",
+  "manuscript_sha256": "6633c0629b647ca3ccf42417e38559fe4266aaa7c3fdfb0e85922724e92f258e",
+  "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_Checkpoint_20261021.json",
   "state_owner": "continuity/features/E36_E38/R8_CHAT_DELIVERY_RECONCILIATION_20261020.json",
-  "state_rule": "Latest actual full chat revision R8 through E38 is the provisional effective story. Original The House Special historical preserved. Neither auto author accepted. Next is E39 and future default E39–40 after explicit PLAY; no new episodes from WORK.",
+  "state_rule": "Latest actual full E36–38 Two Threads/Billy R2 response is provisional effective story. Exact checkpoint's older PREPARED label is superseded by delivery receipt. E39–40 A Place to Wait R2 is prepared only; no actual new episode or author acceptance from WORK.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -32,14 +32,30 @@
     "note": "Fresh PLAY required. User's preference changes the future default batch size only."
   },
   "prepared_episode": {
-    "span": [
-      36,
-      37,
-      38
+    "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
+    "episode_span": [
+      39,
+      40
     ],
-    "type": "SAME_SPAN_REVISION",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_FULL_CHAT_PLAYED",
-    "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_Checkpoint_20261021.json"
+    "title": "A Place to Wait",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
+    "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
+    "manuscript_git_blob_sha1": "634817760643f735ddabb57c88e50a6e5723ca3a",
+    "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "3b35951d42f29b33643b818105e7829f05028c25",
+    "drive_manuscript_id": "18qCfA1-zrgwgP3St_jtYSOm5QAEU1t45YpMuya8Yn9M",
+    "drive_checkpoint_id": "1_Lk4RZvgSpmLBVmQw3XT1bC4SrJJNy8egOYWotcyu7Y",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Prepare episodes39–40 using all four plugins; preparation only.",
+    "next_action": "Await PLAY, then verify matching pair and render full exact saved text; do not reuse old Ground Has Witnesses pair.",
+    "four_app_readbacks": {
+      "GitHub": true,
+      "GoogleDrive_native_index": true,
+      "Airtable_episode_rows": true,
+      "Notion_latest_section": true
+    },
+    "boundary": "New39–40 candidate deaths/discovery/resources not occurred state until full actual PLAY. Original36–38 R2 already delivered provisionally."
   },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
@@ -83,9 +99,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "E36_E38_TWO_THREAD_BILLY_R2_PREPARED_REVIEWED_SAVED_NOT_FULL_CHAT_PLAYED",
-  "work_resume_checkpoint_latest": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_Checkpoint.json",
-  "work_change_id": "S7NS_E39_E40_PLAY_CONTINUE_R11_20261020",
+  "work_status": "E39_E40_A_PLACE_TO_WAIT_R2_PREPARED_REVIEWED_SAVED_PENDING_PLAY",
+  "work_resume_checkpoint_latest": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
+  "work_change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": {
@@ -119,7 +135,7 @@
   "latest_direct_author_revision": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "E36_E38_research_revision": "continuity/editorial/E36_E38_Theo_TPP_Fissure_Revision_Research_R1_20261019.md",
   "feature_E36_E38_current": {
-    "status": "REVISED_20261021_DELIVERED_PROVISIONAL_R2_REPLACEMENT_PREPARED",
+    "status": "E36_E38_TWO_THREADS_BILLY_R2_DELIVERED_PROVISIONAL",
     "span": [
       36,
       37,
@@ -185,7 +201,7 @@
     "additional_R5_author": "continuity/author/S7NS_R5_Arthur_Unified_Weapon_Noxus_Wide_Fissure_20261019.md",
     "additional_R5_research": "continuity/editorial/S7NS_R5_Rick_Morty_Creators_Reddit_DeepResearch_20261019.md",
     "source_integrity_audit": "continuity/work/S7NS_R5_Original_Owner_Integrity_And_Conflict_Audit_20261019.md",
-    "story_effect": "Prior20261021 cut delivered provisionally; R2 file candidate not full chat played or automatically merged.",
+    "story_effect": "R2 events provisional as actually delivered; gang ignorant of Daniel death at end38.",
     "R8_manuscript": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_FINAL_20261019.txt",
     "R8_checkpoint": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_Checkpoint_20261019.json",
     "R8_manuscript_sha256": "056544d5f8f79d7464ece7e7420da38f5981a127a37abba74d5b624e2c82659b",
@@ -196,8 +212,8 @@
     "R8_drive_checkpoint_id": "1c659vTOTkDGMrmudQTdFzQ0qKA3Qur4U",
     "R8_saved_pair_readback": "GITHUB_BLOB_MATCH_AND_DRIVE_RAW_BYTE_EQUALITY_BOTH_PASS",
     "R8_render_authorization": "Latest direct user: oh okay. yeah revise e36-38. Render exact saved full feature now; do not ask again.",
-    "revised_manuscript": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_FINAL.txt",
-    "revised_checkpoint": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_Checkpoint.json",
+    "revised_manuscript": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_FINAL_20261021.txt",
+    "revised_checkpoint": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_Checkpoint_20261021.json",
     "revision_delivery_receipt": "continuity/features/E36_E38/R8_CHAT_DELIVERY_RECONCILIATION_20261020.json",
     "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
     "default_next_feature_episode_count": 2,
@@ -225,7 +241,7 @@
     },
     "prepared_two_thread_Billy_R2_20261021": {
       "change_id": "S7NS_E36_E38_TWO_THREADS_BILLY_ONEUP_R2_20261021",
-      "status": "PREPARED_REVIEWED_SAVED_NOT_FULL_CHAT_PLAYED",
+      "status": "DELIVERED_PROVISIONAL",
       "episode_span": [
         36,
         37,
@@ -241,7 +257,7 @@
       "drive_manuscript_id": "1GZxyroAb0hYOQ6ywOxxjX93sSjgGrVWlQmd9e-l3xVg",
       "drive_checkpoint_id": "1M_GPi-bvzX40QL30awEk_Ye3FNBUOoIIeB4dQUt8NRM",
       "author_acceptance": "NOT_ASSERTED",
-      "next_action": "Finished revised manuscript provided as file. Not full chat PLAY. Preserve delivered/played state separately; no new episode authorization.",
+      "next_action": "Continue from this delivered version. Prepared next pair separately.",
       "continuity_boundary": "Daniel fatal rematch depicted in prepared candidate; gang ignorant until realistically elapsed days/evidence. TPP harbor outcomes absent,82silver unchanged. Frylock/other deaths/Dr Evil later.",
       "readbacks": {
         "GitHub_manuscript": true,
@@ -250,7 +266,8 @@
         "Drive_checkpoint_native_index_exact": true,
         "Airtable_episode_hash_status": true,
         "Notion_new_section_hash": true
-      }
+      },
+      "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
     }
   },
   "prior_e35_last_individual_delivery": {
@@ -286,11 +303,11 @@
     40
   ],
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
-  "completed_revised_feature": "E36_E38_REVISED_20261021_FULL_CHAT_DELIVERED_PROVISIONAL",
-  "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_Episodes_39_40_The_Ground_Has_Witnesses_Checkpoint_20261020.json",
-  "current_prepared_episode_count": 3,
-  "current_prepared_drive_id": "1GZxyroAb0hYOQ6ywOxxjX93sSjgGrVWlQmd9e-l3xVg",
-  "current_prepared_full_sha256": "6633c0629b647ca3ccf42417e38559fe4266aaa7c3fdfb0e85922724e92f258e",
+  "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
+  "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
+  "current_prepared_episode_count": 2,
+  "current_prepared_drive_id": "18qCfA1-zrgwgP3St_jtYSOm5QAEU1t45YpMuya8Yn9M",
+  "current_prepared_full_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
   "authorial_fidelity_v1_1": {
     "change_id": "S7NS_AUTHORIAL_FIDELITY_ACTIVE_COMEDY_V11_20261020",
     "selection": "AUTHOR_SELECTED_BY_EXPLICIT_ESKETIT",
@@ -488,10 +505,35 @@
     "chat_byte_identity": "NOT_MACHINE_VERIFIED",
     "delivery_basis": "Whole preceding chat response visible; opening spoon scene and final 'Noxus would have to be considerably more inventive.' line; current user requests specific further repairs."
   },
-  "prepared_E39_E40_after_new_E36_E38": "BLOCKED_FOR_UNCHANGED_REPLAY: revise Daniel-dependent scenes, discovery days and removed harbor outcomes for selected R2. No E39–40 continuation authorization.",
+  "prepared_E39_E40_after_new_E36_E38": {
+    "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
+    "episode_span": [
+      39,
+      40
+    ],
+    "title": "A Place to Wait",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
+    "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
+    "manuscript_git_blob_sha1": "634817760643f735ddabb57c88e50a6e5723ca3a",
+    "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "3b35951d42f29b33643b818105e7829f05028c25",
+    "drive_manuscript_id": "18qCfA1-zrgwgP3St_jtYSOm5QAEU1t45YpMuya8Yn9M",
+    "drive_checkpoint_id": "1_Lk4RZvgSpmLBVmQw3XT1bC4SrJJNy8egOYWotcyu7Y",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Prepare episodes39–40 using all four plugins; preparation only.",
+    "next_action": "Await PLAY, then verify matching pair and render full exact saved text; do not reuse old Ground Has Witnesses pair.",
+    "four_app_readbacks": {
+      "GitHub": true,
+      "GoogleDrive_native_index": true,
+      "Airtable_episode_rows": true,
+      "Notion_latest_section": true
+    },
+    "boundary": "New39–40 candidate deaths/discovery/resources not occurred state until full actual PLAY. Original36–38 R2 already delivered provisionally."
+  },
   "prepared_two_thread_Billy_R2_20261021": {
     "change_id": "S7NS_E36_E38_TWO_THREADS_BILLY_ONEUP_R2_20261021",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_FULL_CHAT_PLAYED",
+    "status": "DELIVERED_PROVISIONAL",
     "episode_span": [
       36,
       37,
@@ -507,7 +549,7 @@
     "drive_manuscript_id": "1GZxyroAb0hYOQ6ywOxxjX93sSjgGrVWlQmd9e-l3xVg",
     "drive_checkpoint_id": "1M_GPi-bvzX40QL30awEk_Ye3FNBUOoIIeB4dQUt8NRM",
     "author_acceptance": "NOT_ASSERTED",
-    "next_action": "Finished revised manuscript provided as file. Not full chat PLAY. Preserve delivered/played state separately; no new episode authorization.",
+    "next_action": "Continue from this delivered version. Prepared next pair separately.",
     "continuity_boundary": "Daniel fatal rematch depicted in prepared candidate; gang ignorant until realistically elapsed days/evidence. TPP harbor outcomes absent,82silver unchanged. Frylock/other deaths/Dr Evil later.",
     "readbacks": {
       "GitHub_manuscript": true,
@@ -516,6 +558,34 @@
       "Drive_checkpoint_native_index_exact": true,
       "Airtable_episode_hash_status": true,
       "Notion_new_section_hash": true
-    }
+    },
+    "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
+  },
+  "checkpoint_git_blob_sha1": "ddb3fb7d6291b5551117f194b6230fb9206313bd",
+  "prepared_E39_E40_A_Place_To_Wait_R2_20261021": {
+    "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
+    "episode_span": [
+      39,
+      40
+    ],
+    "title": "A Place to Wait",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
+    "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
+    "manuscript_git_blob_sha1": "634817760643f735ddabb57c88e50a6e5723ca3a",
+    "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "3b35951d42f29b33643b818105e7829f05028c25",
+    "drive_manuscript_id": "18qCfA1-zrgwgP3St_jtYSOm5QAEU1t45YpMuya8Yn9M",
+    "drive_checkpoint_id": "1_Lk4RZvgSpmLBVmQw3XT1bC4SrJJNy8egOYWotcyu7Y",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Prepare episodes39–40 using all four plugins; preparation only.",
+    "next_action": "Await PLAY, then verify matching pair and render full exact saved text; do not reuse old Ground Has Witnesses pair.",
+    "four_app_readbacks": {
+      "GitHub": true,
+      "GoogleDrive_native_index": true,
+      "Airtable_episode_rows": true,
+      "Notion_latest_section": true
+    },
+    "boundary": "New39–40 candidate deaths/discovery/resources not occurred state until full actual PLAY. Original36–38 R2 already delivered provisionally."
   }
 }
