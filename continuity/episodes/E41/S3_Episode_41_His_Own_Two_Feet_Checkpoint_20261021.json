@@ -1,0 +1,134 @@
+{
+  "schema": "S7NS_PAIRED_EPISODE_PREPARATION_V1",
+  "change_id": "S7NS_E41_HIS_OWN_TWO_FEET_PREPARED_20261021",
+  "date": "2026-10-21",
+  "timezone": "Pacific/Honolulu",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 41,
+  "title": "His Own Two Feet",
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "Exact user request WORK — PREPARE EPISODE 41. NO PLAY; all four apps; 25–30 minutes; complete draft/read/repair/final reread/save/verify.",
+  "manuscript": {
+    "path": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_FINAL_20261021.txt",
+    "sha256": "64264a14a8f682a0627e0141bb09e468512bac08cef2a5ec3460fc78a16f37b8",
+    "git_blob_sha1": "caa989320b6ee3eb857aab067dab7b556dea1a7e",
+    "drive_id": "1r7UFrab3h86fDcEf2lBUTqBYmhzO9LyVbqo9lWpY6o4",
+    "drive_url": "https://docs.google.com/document/d/1r7UFrab3h86fDcEf2lBUTqBYmhzO9LyVbqo9lWpY6o4/edit?usp=drivesdk",
+    "words": 3844,
+    "body_words": 3836,
+    "utf8_bytes": 23489,
+    "characters": 22825,
+    "lines": 795,
+    "assumed_wpm": 150,
+    "estimated_body_minutes": 25.573333333333334,
+    "audio_generated": false,
+    "github_exact_text_readback": true,
+    "drive_native_index_exact_text_readback": true
+  },
+  "previous_delivered": {
+    "episode_span": [
+      39,
+      40
+    ],
+    "title": "A Place to Wait",
+    "version": "R2",
+    "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
+    "sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
+    "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
+    "status": "DELIVERED_PROVISIONAL",
+    "basis": "Complete prior assistant response visible in this conversation, title through final The branch Daniel had hung from was empty. Exact matching GitHub text and Drive native manuscript/checkpoint read this turn. User explicitly requests reconciliation and continuation. No full machine byte comparison against chat message or author acceptance asserted.",
+    "delivery_reconciliation": "continuity/features/E39_E40/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
+  },
+  "source_evidence": {
+    "current": "Whole live CURRENT and DELIVERY_LEDGER records retained unchanged in baseline; top effective fields reconciled prospectively. Newer visible full39–40 overrides stale prepared label. Preserved original paired39–40 checkpoint remains byte unchanged.",
+    "procedure": "Full Season3_Scene_Decision_Doctrine_20261010, four-app workflow, active-comedy v1.1 and plain-language owner read.",
+    "new_scene_owners": [
+      "continuity/author/S7NS_E36_E38_Cast_Trim_Daniel_DrEvil_20261021.md",
+      "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
+      "character_sources/crossover_extended/Brian_Fictional_Conjoined_Character_Source.txt",
+      "character_sources/crossover_extended/Busta_Rhymes_Conjoined_Brian_Fictional_Source.txt",
+      "character_sources/season3/Van_der_Linde_Dutch_Source.txt",
+      "character_sources/crossover_extended/Jack_Marston_RDR1_Adult_1914_Duel_Source.txt",
+      "research_sources/Tracy_Morgan_Speech_Fidelity_After_E32_20261018.md",
+      "research_sources/John_Marston_RDR_Speech_and_Clifford_Contrast_20261018.md",
+      "character_sources/crossover_extended/Clifford_Marston_Visual_20261019.md",
+      "canon/presentation/Deadpool_Primary_Narration_After_E32_20261019.md",
+      "character_sources/season3/Deadpool_Character_Source.txt",
+      "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md"
+    ],
+    "sins": "Fresh complete individual Kaze, Arthur, Dana/Mana speech owners and current S37 application retrieved/read, alongside scoped Chris CORE and R10 voice corrections; unchanged full Chris/Billy mechanics/psychology already read earlier in this conversation reused, not claimed freshly read197827-character complete owner. No new consequential Sins mechanic exercised beyond established physical strength/body and actual feeds.",
+    "fallback": "Mapped individual Dutch/Brian/older conjoined/Jack/Deadpool owners extracted from supplied local bundles by exact index byte offset and hash. Legacy Busta names, E32 future surgery/old status and narrator clauses yield to later scoped author and actual delivered state. Standalone portrayal-patch404 is not a revoked rule; current doctrine/actual body/voice/camera rules retained.",
+    "research": "Reused completed film, creator, RDR and speech research contained in full current owners. No new full audiovisual screening claimed."
+  },
+  "working_brief": {
+    "listener_question": "What do the survivors do with a loss, and what will Brian sacrifice to stop being carried?",
+    "choices": "Sins bury Daniel rather than infer killer; Kaze stays with Chris rather than immediate blind hunt. Brian exploits bodily feedback, hides benefit, persists through Tracy resistance and Clifford intervention. Dutch needs shelter/resources; Dr Evil needs local access/information; a negotiated hierarchy serves both while stripping Brian's practical control.",
+    "strongest_options": "No in-source casual Daniel resurrection or omniscient Tai Lung tracking; Kaze can return physically and chooses morning. Tracy tries departure, challenges Brian and pulls him off; Clifford holds wrists and attempts wound control. The decisive feeding/separation takes place through the distinct organism, not automatic human mind control.",
+    "constructed_details": "Author-approved host theft developed through observed pressure/feeding feedback and hours of tissue growth using Tracy, ending lethal separation. This establishes this local event only, not general transferable healing/mind control. Dr Evil's selected ship/crew implemented as villain-phase Goldmember-style command submarine, before later-film status reversal; no named supporting cast, completed superweapon arsenal or Earth connection."
+  },
+  "scene_end_if_played": {
+    "time": "Sins burial at dusk of discovery day4; explicit Earlier that day returns to TPP day4 morning, progresses to following morning day5 at harbor. Sins not silently relocated/advanced offscreen.",
+    "sins": "Kaze, Chris exterior, Arthur, loyal male Daynuh and nonverbal male Mahnuh with independent K.K remain at stream/upper-bank grave; Daniel buried in actual tollhouse blanket with clean head cloth, stone marker above flood line. No Tai Lung attribution.",
+    "custody": "Arthur holds Daniel's unopened110-silver purse as custody only, not common inheritance. Kaze retains Daniel's spear; Chris retains intact bottle, caps it; no new liquid quantity or refill asserted.",
+    "belly": "Billy full-sized inside; Meatwad beside him; existing camera facing away. Charles, Frylock and Shake remain alive inside, not newly moved. One exterior and actual headlamp feed retained.",
+    "TPP": "Fictional Tracy Morgan permanently dead through Brian's deliberate feeding/host theft. Body left covered in net-mender room under existing proprietor care, no burial invented. Brian now separate miniature adult with functional organic lower body, initially unsteady then tiny stride/running; moving seam shows organism not cured/fully commanded. No new sonic/psychic/infinite-regeneration powers.",
+    "relationships": "Dutch and Clifford know Brian knowingly persisted and concealed harm; neither forgives him merely by carrying him to port. Practical cooperation continues for their own aims. Brian remains in-universe founder/name originator.",
+    "Dr_Evil": "Arrived on working crewed submarine; surfaced/moored at surviving harbor berth, metal gangway accessible to chair. Local coast unknown; crew copied actual harbor-ledger headings. Leadership accepted through actual resources/terms; Dutch direct lieutenant/local liaison, Clifford keeps weapons/chair and agency. Food, washing and quarters offered/ordered, no offscreen consumption or completed future mission.",
+    "endpoint": "Dutch/Clifford/Dr Evil moving toward hatch; Brian set down partway up gangway and runs after them asking Hold the fucking door. Only masked/suited Clifford seen by Dr Evil; mistake preserved, no unmasking or name disclosure to him.",
+    "other": "Starkiller, Maul, Tai Lung, Bastion and district threads unchanged from actual prior evidence; no cross-region instant news or new encounters."
+  },
+  "resources_if_played": {
+    "common_silver": 2120,
+    "Kaze_personal_silver": 0,
+    "Daniel_personal_silver": 110,
+    "Daniel_silver_custodian": "Arthur, unopened separate purse",
+    "TPP_start_silver": 72,
+    "room_extension": 2,
+    "TPP_end_silver": 70,
+    "older_debts": "Unpaid, not merged with current cash",
+    "E31_chests": "Both unopened/uncounted",
+    "firearm_shots": 0,
+    "ammunition": "No replenishment asserted",
+    "new_objects": "Room blanket strip used as Brian covering. Submarine and finite crew/provisions/equipment introduced under selected resource-backed leadership; no exact maximum stock or spendable Earth banking.",
+    "ledger": "Original stolen cargo ledger retained by Dutch; crew copies harbor headings only."
+  },
+  "review": {
+    "first_whole_read": "Complete3736-word draft in sequential lines1–300,301–600,601–785.",
+    "repairs": [
+      "Expanded thin initial deal through actual ledger exchange, Dutch leverage, differentiated Dr Evil treatment and crew orders; earned target length.",
+      "Clarified attachment-pain wording and Earlier that day chronology.",
+      "Removed duplicated ledger dropping after Dutch left it behind.",
+      "Removed unearned future medical-help assertion; uses actual existing proprietor contact.",
+      "Fixed Brian's route armrest to ledger and subsequent binding grip.",
+      "Changed broken Don't/Step over him dialogue into unambiguous Don't step over him."
+    ],
+    "final_complete_read": "Entire final795 lines in one untruncated5873-token read after last edits; opening cap action through Hold the fucking door. No later prose edits.",
+    "weakest_span": "Initial resource conversation offered mostly promises and was short; expanded through specific reciprocal information, resisted grievance disclosure, actual crew response and role terms rather than repeated founder rebuttals.",
+    "checks": {
+      "continuation": "PASS: exact next cap action from bottle-drinking endpoint, no rewind/live Daniel.",
+      "author_fidelity": "PASS editorial: deliberate Brian killing/three participants/tiny legs; Dr Evil resource leader/Dutch lieutenant/founder grievance; gift/research not prematurely enacted.",
+      "agency": "PASS: Tracy attempts departure and bodily resistance, Clifford restrains/helps, Dutch seeks help then negotiates position; no automatic Brian control or grateful forgiveness.",
+      "voices": "PASS editorial: Tracy lap/pants/ankle/raisin conversational pivots; Brian corporate rationalization/lie; Dutch reciprocal loyalty bargaining; Dr Evil controlled ceremonial/irritated/awkward registers and differential helmet attention; brief Wade digressions/silence at funeral.",
+      "continuity": "PASS: no shots,72-2=70; purse/spear/bottle real custody, masks/helmet and chair kept; no simultaneous exterior Billy/Chris.",
+      "pacing": "PASS editorial: quiet brief funeral, developed body horror/absurd physical payoff, consequential arrival and takeover; later gifts/memes not crammed in.",
+      "audio": "NOT_RUN; readable plain prose, one title, no internal scene labels;150wpm estimate only.",
+      "remaining": "No known material defect after full final read. Entertainment/voice judgment subjective, not guaranteed listener response."
+    }
+  },
+  "future_threads": {
+    "selected_pending": [
+      "Dr Evil real lightsaber gift motivated by genuine Vader mistake; accepted1–2minutes before sincere unmasking, fake important call and name/trauma dump.",
+      "Actual Arthur-to-Dutch game-origin knowledge route before Dutch credits Arthur; not established retroactively here.",
+      "Own shipboard crew actual RDR research access, memes and later embarrassing familiarity; no automatic Earth internet.",
+      "Second evil-plan meeting trademark/name/founder dispute; no filing or legal ownership transfer yet.",
+      "Frylock permanent Shake-caused acid death and K.K Maul death still pending, source mechanics must apply.",
+      "Kaze possible return to crusher yard; culprit identification still requires real evidence."
+    ],
+    "next_new_episode_after_play": 42,
+    "episode42_prepared": false,
+    "episode41_PLAY_authorized": false
+  },
+  "authorship": "Kaze originates S7NS, protected cast/death/leadership/comic premises and direction. Assistant wrote this episode's prose, connecting actions, local anatomy development and original dialogue under this preparation request.",
+  "delivery_boundary": "This is a frozen prepared candidate. Actual latest delivered remains40. No episode41 occurred-event/life/resource state is committed by WORK. Verification receipts live in CURRENT.prepared_episode.four_app_readbacks after app readbacks, not a self-hash claim inside this checkpoint."
+}
