@@ -32,7 +32,16 @@
     "status": "NOT_AUTHORIZED",
     "note": "Fresh PLAY required. User's preference changes the future default batch size only."
   },
-  "prepared_episode": null,
+  "prepared_episode": {
+    "span": [
+      36,
+      37,
+      38
+    ],
+    "type": "SAME_SPAN_REVISION",
+    "status": "PREPARED_SAVED_REVIEWED_NOT_YET_CHAT_DELIVERED",
+    "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_Checkpoint.json"
+  },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
@@ -75,8 +84,8 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "E39_E40_PREPARED_SAVED_PAIRED_FEATURE_IN_DRIVE_AND_GITHUB_COMPONENTS; NOT_YET_CHAT_DELIVERED; E38_LAST_DELIVERED; E41_NOT_AUTHORIZED",
-  "work_resume_checkpoint_latest": "continuity/features/E39_E40/S3_Episodes_39_40_The_Ground_Has_Witnesses_Checkpoint_20261020.json",
+  "work_status": "E36_E38_REVISED_20261021_PREPARED_REVIEWED_SAVED_PENDING_FULL_CHAT_RENDER",
+  "work_resume_checkpoint_latest": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_Checkpoint.json",
   "work_change_id": "S7NS_E39_E40_PLAY_CONTINUE_R11_20261020",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
@@ -193,7 +202,26 @@
     "revision_delivery_receipt": "continuity/features/E36_E38/R8_CHAT_DELIVERY_RECONCILIATION_20261020.json",
     "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
     "default_next_feature_episode_count": 2,
-    "revised_story_events": "PROVISIONAL_AS_DELIVERED_IN_R8"
+    "revised_story_events": "PROVISIONAL_AS_DELIVERED_IN_R8",
+    "prepared_latest_revision_20261021": {
+      "change_id": "S7NS_E36_E38_SHITTY_WALL_REVISED_PLAY_20261021",
+      "status": "PREPARED_SAVED_REVIEWED_NOT_YET_CHAT_DELIVERED",
+      "episode_span": [
+        36,
+        37,
+        38
+      ],
+      "same_span_revision": true,
+      "manuscript": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_FINAL.txt",
+      "manuscript_sha256": "018f2a103e18448e15484700d70b2e0e3f78597c0745e26d3684735bee9ff7c1",
+      "manuscript_git_blob_sha1": "9194e35797bdf5d76830ce97ee5072b6d2ae00bb",
+      "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_Checkpoint.json",
+      "drive_manuscript_id": "1Vj3zjuD8SwhY32O_5mgEuL9EBQVOKXJHmQKebWlMn10",
+      "drive_checkpoint_id": "1Ll9M6Hmu399TCpcsipaZGoKttKLi4NIf1oz0yiQLDgY",
+      "author_acceptance": "NOT_ASSERTED",
+      "next_action": "Render exact saved full feature now; reconcile actual response on next interaction. No new episode count.",
+      "future_dependencies": "Daniel absent from restaurant and presumed gallivanting. Fatal rematch/discovery and other selected cast cuts/Dr Evil later. Rework dependent E39–40 material before any replay; preserve author-reported delivery discrepancy."
+    }
   },
   "prior_e35_last_individual_delivery": {
     "as_of": "E35 delivered provisionally. Persistent four-app workflow saved and mirrored; workflow-only Project package staged. Newer R3 Chris scope preserved. E36–38 unwritten and not PLAY-authorized.",
@@ -408,5 +436,25 @@
     "second_meeting": "Dr Evil announces calculated copyright/trademark plan over TPP; provokes Brian's petty founder/name/authority dispute",
     "legal_effect": "plan announced, not completed proven title/control transfer; no invented universal IP registry",
     "story_time_advanced": 0
-  }
+  },
+  "prepared_same_span_revision_20261021": {
+    "change_id": "S7NS_E36_E38_SHITTY_WALL_REVISED_PLAY_20261021",
+    "status": "PREPARED_SAVED_REVIEWED_NOT_YET_CHAT_DELIVERED",
+    "episode_span": [
+      36,
+      37,
+      38
+    ],
+    "same_span_revision": true,
+    "manuscript": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_FINAL.txt",
+    "manuscript_sha256": "018f2a103e18448e15484700d70b2e0e3f78597c0745e26d3684735bee9ff7c1",
+    "manuscript_git_blob_sha1": "9194e35797bdf5d76830ce97ee5072b6d2ae00bb",
+    "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_Checkpoint.json",
+    "drive_manuscript_id": "1Vj3zjuD8SwhY32O_5mgEuL9EBQVOKXJHmQKebWlMn10",
+    "drive_checkpoint_id": "1Ll9M6Hmu399TCpcsipaZGoKttKLi4NIf1oz0yiQLDgY",
+    "author_acceptance": "NOT_ASSERTED",
+    "next_action": "Render exact saved full feature now; reconcile actual response on next interaction. No new episode count.",
+    "future_dependencies": "Daniel absent from restaurant and presumed gallivanting. Fatal rematch/discovery and other selected cast cuts/Dr Evil later. Rework dependent E39–40 material before any replay; preserve author-reported delivery discrepancy."
+  },
+  "prepared_E39_E40_after_new_E36_E38": "PRESERVE_ORIGINALS; dependent Daniel participation and elapsed discovery timeline need revision. No new delivery/acceptance inference; author-reported earlier pair delivery remains unresolved."
 }
