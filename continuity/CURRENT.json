@@ -37,7 +37,7 @@
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_E36_E38_Cast_Trim_Daniel_DrEvil_20261021.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -287,5 +287,39 @@
       "episode_text_changed": false,
       "story_time_advanced": 0
     }
+  },
+  "author_selected_E36_E38_revision_20261021": {
+    "change_id": "S7NS_E36_E38_CAST_TRIM_DANIEL_DR_EVIL_20261021",
+    "status": "AUTHOR_SELECTED_PLAN_SAVED_VERIFIED_NO_PLAY",
+    "owner": "continuity/author/S7NS_E36_E38_Cast_Trim_Daniel_DrEvil_20261021.md",
+    "owner_blob_sha1": "093686f376d4c421a34472231788d3dd0c9dbecc",
+    "prior_scoped_character_corrections": "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md",
+    "editorial": "All seven brainstorm improvements approved; South Park City Wall/Mongolians reference controls wall staging.",
+    "selected_deaths": [
+      "Frylock by Shake-caused acid accident, permanently",
+      "Cartman/Jimmy/Timmy by Lord Starkiller",
+      "K.K by Maul",
+      "Daniel by Tai Lung revenge after independently opting out of restaurant",
+      "Tracy Morgan by adult miniature Brian's deliberate parasite-assisted host theft"
+    ],
+    "Daniel_survival_override": "EXPLICIT_AUTHOR_REVOCATION_OF_DANIEL_ONLY_OLDER_S37_SURVIVAL_GUARANTEE; all others unchanged",
+    "Daniel_knowledge": "Gang initially assumes gallivanting; learns after realistically elapsed days by evidence/body; culprit knowledge requires evidence.",
+    "Brian_latest": "Dr Evil's SCOTTY relationship counterpart in miniature Mini-Me-like physical silhouette; keeps own voice/agency, no biological father-son relation or extra actual Scott/Mini-Me.",
+    "Austin_Powers_character": "EXCLUDED_FROM_FUTURE_PLANS; film research references retained",
+    "first_impressions": "All crossover badasses: consequential hype entrances effective for audio; no manufactured parity or capability inflation.",
+    "revision_dependency": "R8 restaurant Daniel attendance and prepared E39–40 dependent ensemble scenes incompatible with new revision; preserve originals and repair before revised delivery. No occurred deaths or life/inventory/delivery edits by WORK.",
+    "Drive_handoff_id": "1b98368OqDRdoSg1QdeNs-JX_BpdUEPyHOxU1Auk5_XI",
+    "Notion_author_page": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+    "Airtable_decision_id": "rec8rj0RM6O4wFPix",
+    "Library_plan_id": "libfile_d98f90cd8b9c81918d8d8b1c55b75001",
+    "verification": {
+      "GitHub": "full owner exact text match",
+      "Notion": "new scoped section and newest SCOTTY correction fetched",
+      "Drive": "full content fetched; SCOTTY correction present; raw byte hash not asserted",
+      "Airtable": "exact record ID fetched; newest SCOTTY correction and complete author decision present"
+    },
+    "story_time_advanced": 0,
+    "manuscripts_changed": false,
+    "project_UI_installation": "NOT_CHANGED_OR_CLAIMED"
   }
 }
