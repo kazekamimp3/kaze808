@@ -706,7 +706,17 @@
       "CLIFFORD_RECONSTRUCTION_AUTHOR_DIRECTION": "Future genuinely walk-enabling surgery with final-beat patient reveal: looks like Anakin/Darth Vader transformation until Clifford is named; no literal Vader, no accomplished surgery at E32.",
       "S3_CORRECTION_STATUS": "AUTHOR_SELECTED_CURRENT_TRUE_IDENTITY_AND_FUTURE_SURGERY; prior E12/E17/E32 facts preserved; E33 not played.",
       "current_author_added_rivalry_directive": "Include living roster outside Sins as real possible TPP contacts; Zid prospective member and elaborate anti-Sins scheme originator once actual betrayal enacted; current E32 port ledger is tangible starting resource.",
-      "detailed_rivalry_guide": "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md"
+      "detailed_rivalry_guide": "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md",
+      "current_future_leadership_20261021": {
+        "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
+        "status": "AUTHOR_SELECTED_NOT_ENACTED",
+        "leader": "Dr Evil via resources",
+        "right_hand": "Dutch",
+        "Brian": "Scotty relationship role",
+        "Clifford": "formal role unselected; field enforcer/security proposed",
+        "resource_scope": "Substantive source-compatible advantage selected; specific entry assets/extraction snapshot not yet selected",
+        "principle": "Characters retain individual motives, speech, agency and sourced capabilities; show actual acceptance and real resource access."
+      }
     },
     "BILLY_RICK_ENGINEERED_EVOLUTION": {
       "status": "SELECTED_FUTURE_NOT_ENACTED_IN_RESET",
@@ -1375,7 +1385,9 @@
     {
       "name": "Dr. Evil",
       "age": "ADULT",
-      "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED"
+      "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED",
+      "future_role": "LEADER_AUTHOR_SELECTED_20261021",
+      "fidelity_owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md"
     }
   ],
   "season3_WTF_crossover_additions": [
@@ -1589,5 +1601,6 @@
         "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED"
       }
     ]
-  }
+  },
+  "latest_Dr_Evil_author_owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md"
 }
