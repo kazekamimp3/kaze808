@@ -1,0 +1,163 @@
+{
+  "schema": "S7NS_SAME_SPAN_REVISED_FEATURE_CHECKPOINT_20261021",
+  "change_id": "S7NS_E36_E38_SHITTY_WALL_REVISED_PLAY_20261021",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode_span": [
+    36,
+    37,
+    38
+  ],
+  "title": "Stay Away From My Shitty Wall: Columbine Beijing Ting Ting Bang Ding Ow",
+  "status": "PREPARED_SAVED_REVIEWED_NOT_YET_CHAT_DELIVERED",
+  "authorization": "Latest author: \"ready for that shit make sure you utilize those four plugins for it\". Full revised same E36–38, not new E39–40 or later Dr. Evil arc.",
+  "author_acceptance": "NOT_ASSERTED",
+  "original_preserved": {
+    "manuscript": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_FINAL.txt",
+    "checkpoint": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_Checkpoint.json",
+    "sha256": "4b376d490742c307819f20fe808009dfa50fb211e4d1a89b6e343855a2aeea81",
+    "status": "ORIGINAL_DELIVERED_PROVISIONAL_NOT_AUTHOR_ACCEPTED",
+    "R8": {
+      "manuscript": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_FINAL_20261019.txt",
+      "sha256": "056544d5f8f79d7464ece7e7420da38f5981a127a37abba74d5b624e2c82659b",
+      "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_Checkpoint_20261019.json",
+      "status": "PRIOR_DELIVERED_PROVISIONAL_PRESERVED"
+    }
+  },
+  "manuscript": {
+    "path": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_FINAL.txt",
+    "sha256": "018f2a103e18448e15484700d70b2e0e3f78597c0745e26d3684735bee9ff7c1",
+    "git_blob_sha1": "9194e35797bdf5d76830ce97ee5072b6d2ae00bb",
+    "utf8_bytes": 80546,
+    "characters": 77604,
+    "body_words": 12977,
+    "total_words": 12994,
+    "lines": 2460,
+    "drive_id": "1Vj3zjuD8SwhY32O_5mgEuL9EBQVOKXJHmQKebWlMn10",
+    "github_verification": "Fetched exact local text and expected Git blob SHA1",
+    "drive_verification": {
+      "nativeParagraphs": 1230,
+      "matchingParagraphs": 1230,
+      "indexReconstructionExact": true,
+      "revisionId": "AHj4eMRHyT-MMeNkMXxg_eNn6FUBCrmOBCZVjYv2k2o5Bi-7W8O4TaGofIoL984qVgCMGuio-2LlD40HTV5Ez4yuPY6S2hs2PMT-82isPQ8",
+      "rawNativeExportDiffersFormatting": true
+    },
+    "assumed_narration_rate_wpm": 150,
+    "estimated_minutes_body": 86.51333333333334,
+    "actual_audio_duration": "UNMEASURED"
+  },
+  "revised_scene_end": {
+    "time": "Same afternoon/evening; return to stream then rise. No several-day jump or Daniel discovery.",
+    "group": "Kaze, Chris exterior, Arthur, loyal male Dana, male nonverbal Mana and independent guest K.K on rise after returning to stream. Daniel voluntarily took lower road before restaurant; has not returned. Group assumes gallivanting.",
+    "Chris_Billy": "Chris sole exterior with existing headlamp exterior aperture, THE CRITIC and original sidearms. Billy full-sized inside BELLY with Frylock, Shake, Meatwad and Charles; original monitors and legitimate banjo audio only.",
+    "Kaze": "One Black Marrow used in deliberate restaurant overkill. Hand split under strain, healed by exit; dried black blood remains. No retired kit or second weapon. His exact Option B fortune survives in his pocket.",
+    "K_K": "Twenty-foot woody guest, NOT Sin. No blood/bandages. Old forearm seam and shallow finger splinters closing with new wood, no numerical healing rate. Carries ordinary stick. Empty tub again left above stream bank. Pear tree inspected still standing with dusty leaves. Personally warned Kaze to respect his hand placement; not mandatory conscience.",
+    "Dana_Mana_Daniel": "Dana stopped additional Chris shots and braced roof. Arthur pulled Chris clear by sling; Dana turned. K.K caught table/attempted owner rescue/caught frame. Mana independently leapt clear. Daniel participates in none of this; selected Tai Lung fatal encounter not enacted here.",
+    "Arthur": "First actually staged unified system: two ten-shot UNSHAKEN physically join to short sawed-off HIGH NOON shotgun, extend into formidable THE COUNT marksman rifle, then physically rip into original revolver pair. One NORMAL uncharged Count round fired at armed road-watch marksman; no full charge or Hypercharge. Spent casing retained in Arthur pocket. No automatic recharge or ammunition refill.",
+    "TPP": "Dutch, adult Clifford with crooked neck and assisted walking plus retained wheelchair/helmet/cape, actual Tracy with miniature conjoined adult human Brian, Cartman/Coon, Jimmy and Timmy aboard stolen leaking launch in harbor service channel. Dutch stole smaller bond box while genuine rescues earned conflicting eyewitness judgments. Larger box remained at auction platform. No new headquarters.",
+    "Bastion": "New local warmason Orra helped evacuate laborers and rescued a guard. Rupture exposed old arch and metal door beneath layered city. Swain heard her direct local report, ordered rescue/shoring and investigation of origin. Door contents unknown, no Mordekaiser return. Neither knows milk, cookie or Kaze's identity as cause.",
+    "remote": "Prior remote actors unchanged. No new embodied Wade, Teemo, Briar, Zid, Dr Evil, Austin, Maul or Starkiller entrance."
+  },
+  "resources_and_consequences": {
+    "Kaze_personal_silver": 0,
+    "Sins_common_silver": 2120,
+    "Daniel_personal_silver": 110,
+    "Chris_payment": "Personal signed full-table tab unpaid; ready personal coin total unknown. Main ordered courses never served or eaten. No common funds spent.",
+    "E31_chests": "Both remain unopened and uncounted",
+    "Chris_rifle_rounds_spent_this_revision": 2,
+    "Arthur_COUNT_rounds_spent_this_revision": 1,
+    "Clifford_revolver_rounds_spent_this_revision": 1,
+    "remaining_ammunition": "Totals unknown; no invented free replenishment or total cylinder counts",
+    "TPP_tracked_silver_start": 82,
+    "TPP_new_small_bond_box_silver": 117,
+    "TPP_tracked_silver_end": 199,
+    "TPP_old_funds_and_debts": "Older funds separate unknown; rent and medical debts unpaid",
+    "Golden_Heron": "Half building demolished. Five staff including owner Madam Lin and chef Ren, plus six adult other diners, all dead. No surviving interior customer or worker. Independent exterior evidence routes remain possible.",
+    "other_death": "Armed road-watch marksman killed by Arthur's single normal Count shot",
+    "harbor_injuries": "Customs guard wounded in shoulder by Clifford, alive ashore; captain/clerk/rescued sailors and rescued woman alive. False Coon bell caused vessel collision before actual rupture damaged quay.",
+    "Noxus": "Physical branching land rupture throughout Noxus with varied road, field, canal, bridge, watch-station and Bastion underground damage. No invented exact distance, magnitude or full casualty total. Kaze's initial force through one source-valid blade and rock continues through failed strata; no new named global spell.",
+    "evidence": "Owner order book with Chris signature survives beneath fallen courtyard panel; Kaze cookie retained; local eyewitnesses at harbor separately know rescue, theft and Clifford shooting. No information jumps to unrelated actors.",
+    "Daniel_custody": "Own110 silver, spear and bottle depart with him. No inheritance, recovery, death, body or killer knowledge.",
+    "K_K_tree": "Pear confirmed standing on return; empty tub left; stick carried."
+  },
+  "retrospective": "Literal childhood skim-only upbringing, WHOLE discovery at another Chris refrigerator with access ontology unresolved; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Hypatia, innocent Pluto, Tadmor, cheating Arion and accidental Sun wash. Ongoing restroom narration with real echo. Ends at culinary learning; no later revenge project, recipe, Pangea, Big Bang or Everywhen.",
+  "editorial_review": {
+    "procedure": "Single Season3_Scene_Decision_Doctrine_20261010: draft, separate whole first read, repairs, whole final reread, exact paired save.",
+    "first_read": {
+      "artifact": "S3_E36_E38_Shitty_Wall_Revised_20261021_DRAFT.txt",
+      "sha256": "1982bd9f1e015d3d6bd1551da7e1edb5dd08d38807583b54023ae88eac963da8",
+      "characters": 77961,
+      "coverage": "Sequential entire saved draft: [0,18000),[18000,36000),[36000,54000),[54000,72000),[72000,end). No truncated chunk."
+    },
+    "repairs": [
+      "All Daniel restaurant/fortune/massacre/bathroom/escape/ridge actions removed; voluntary departure and ordinary same-evening absence assessment added.",
+      "Fortunes rebuilt into trading/withholding/provocation; Kaze fails his five-minute demonstration. Bowl/second cookie/first outward banjo route made explicit.",
+      "Ren's ginger-work trap added; deliberate MO POWAH trolling of competent unchanged chef preserved, independent of later milk trigger.",
+      "Planet telling rebuilt with unequal lengths, linked listener interference and raw cosmic cadence; eleven assignments/literal history/innocent Pluto/accidental Sun/childhood-only endpoint preserved.",
+      "Substantial unsolicited Billy lineage/predator/rexpower tangent added. Removed premature modern-banjo inheritance reveal; no unsupported certain prehistoric kill or serpent history.",
+      "Adult Jack unsolicited monologue added; Brian tries commercial exploitation; Jack chooses protected position before actual later shot.",
+      "K.K restored to knowing provocation and personal autonomy, real wood/regeneration; human bandages/blood removed.",
+      "City Wall/Mongolians reference restored through stone/door interference; no new invading army or sentient echo.",
+      "Cut milk-recognition compliance exposition and gun-mode explanations. Fixed Arthur game-knowledge assumption, cape custody, repeated sitting, arriving/waiting launch distinction and rescue continuation."
+    ],
+    "final_read": {
+      "sha256": "018f2a103e18448e15484700d70b2e0e3f78597c0745e26d3684735bee9ff7c1",
+      "characters": 77604,
+      "coverage": "Entire actual FINAL sequential [0,20000),[20000,40000),[40000,60000),[60000,77604). No truncation; no later prose edits.",
+      "result": "No remaining material defect identified; author acceptance not inferred."
+    },
+    "weakest_span": "Former planets repeated description/analogy/reaction. Rebuilt with varied lengths, Billy takeover and real bathroom interference; cut explaining jokes. Compact independent TPP/Bastion cuts retained for causal consequences and independent choices.",
+    "source_comparison": "Original IDC childhood passage and latest scoped S7NS approvals compared. Protected title/fortunes/motives/literal status/payoffs preserved. New scene construction and comic language assistant-authored under Kaze's direction. No excluded revenge recipe/campaign imported.",
+    "source_scope": "Reused unchanged full relevant owners previously read in this conversation. This turn read full R8, continued full doctrine after truncation, full scoped voice/biology/author corrections and relevant raw IDC childhood segment. No claim to reread unrelated actors.",
+    "checks": {
+      "Daniel_absence": {
+        "result": "PASS",
+        "evidence": "Only departure/return-absence mentions. Own110/spear/bottle leave. No restaurant participation or instant death/killer awareness."
+      },
+      "one_exterior_audio": {
+        "result": "PASS",
+        "evidence": "Initial physical inversion; Chris exterior, full-sized Billy interior. Outward speech real banjo; headlamp feed; monitor turned in restroom."
+      },
+      "KK": {
+        "result": "PASS",
+        "evidence": "Wood seam/splinters/new wood, no blood/bandages; menu/fortunes/measuring/door provocation, personal hand warning."
+      },
+      "weapons": {
+        "result": "PASS",
+        "evidence": "Chris2 CRITIC rounds; Clifford1; Arthur1 ordinary COUNT round through shield/backstop. UNSHAKEN pair joins HIGH NOON then COUNT and splits. No charge/Hypercharge/refill/duplicate."
+      },
+      "planets": {
+        "result": "PASS",
+        "evidence": "Mercury buckshot; Venus tsunami; Earth pebbles; Mars10+10h; Jupiter orbits; Saturn rings; Uranus implodes; Neptune cold storm; Hypatia swirl/cough/nose/eyes; Tadmor fractal/moon/gravity halfway; Arion capsaicin blade. Pluto innocent; Sun accidental."
+      },
+      "knowledge": {
+        "result": "PASS",
+        "evidence": "Swain gets local Orra report then asks origin; no milk/cookie knowledge. Harbor witness judgments differ. No actors hear Wade."
+      },
+      "resources": {
+        "result": "PASS",
+        "evidence": "Common2120/Kaze0/Daniel110; personal signed unpaid tab; TPP82+117=199; chests/debts unchanged."
+      },
+      "later_arcs": {
+        "result": "PASS",
+        "evidence": "No Dr Evil takeover/gift/research/name dispute or selected cast deaths enacted."
+      },
+      "audio": {
+        "result": "NOT_RUN",
+        "evidence": "No audio generated/timed. Estimate assumes150wpm."
+      }
+    },
+    "failure_categories": "DRAFTING/REVIEW for concrete defects corrected here; no inferred historical root cause.",
+    "quality_limits": "Literary judgment, not measured audience laughter or author acceptance. TTS unmeasured."
+  },
+  "delivery_boundary": "Prepared paired save precedes final response. At next interaction reconcile actual response/version. SAME36–38 does not advance episode number. No author acceptance or E39–40 continuation authorization inferred.",
+  "next_new_episode": 39,
+  "next_new_episode_authorized": false,
+  "four_app_preparation": {
+    "GitHub": "Current/ledger/exact R8/scoped sources consulted; exact new manuscript/checkpoint saved preserving originals.",
+    "Airtable": "AuthorDecisions and existing E36/E37/E38 consulted; prepared-revision evidence, no delivery/death assertion.",
+    "Notion": "Latest author-decision page consulted; scoped prepared revision handoff prepended preserving older content.",
+    "GoogleDrive": "Original raw IDC and R8 production document consulted; full new production manuscript in established folder, native index reconstruction exact."
+  },
+  "future_author_selected_not_enacted": "Daniel/Tai Lung fatal rematch and days-later discovery; Frylock/Shake acid death; Starkiller/Cartman/Jimmy/Timmy; Maul/K.K; Brian/Tracy host theft; Dr Evil later leadership/gift/research/TPP name meetings. Retrieve full combat owners before using future encounters.",
+  "downstream_revision_required": "Prepared E39–40 retains Daniel-dependent material; cannot replay unchanged after this cut. Preserve originals and rebuild dependent scenes/timeline under fresh continuation authorization. Existing author report of last-two delivery remains unresolved."
+}
