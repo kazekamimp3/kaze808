@@ -327,11 +327,11 @@
     "change_id": "S7NS_DR_EVIL_TPP_LEADERSHIP_FULL_FIDELITY_20261021",
     "status": "AUTHOR_SELECTED_FUTURE_NOT_PLAYED",
     "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
-    "owner_blob_sha1": "908b7b529684e6bb0870cdd25830888dc28ab13a",
+    "owner_blob_sha1": "c75c9aafcfa5726564a379e758f80fc6b620cc11",
     "leader": "Dr Evil, through meaningful source-compatible resources",
     "right_hand": "Dutch",
     "Brian": "SCOTTY relationship role; retains own miniature adult body/voice/agency",
-    "Clifford": "ROLE_OPEN; field enforcer/security recommended, not selected",
+    "Clifford": "FIELD_ENFORCER_SECURITY_AUTHOR_APPROVED; Dr Evil will gift a real working laser-beam lightsaber",
     "research": "Scene-level texts from three films, two screenplay drafts, Myers/Roach/costume-designer interviews and supplementary contributor commentary; full audiovisual review not claimed",
     "resources": "Author selected substantive advantage; exact starting assets and extraction snapshot remain recommendations, not current inventory",
     "Austin_Powers": "character excluded from future plans; film sources retained",
@@ -358,5 +358,15 @@
     "manuscripts_changed": false,
     "story_time_advanced": 0,
     "Project_UI": "NOT_CHANGED"
+  },
+  "Clifford_laser_lightsaber_20261021": {
+    "change_id": "S7NS_CLIFFORD_DR_EVIL_REAL_LASER_LIGHTSABER_20261021",
+    "status": "AUTHOR_SELECTED_FUTURE_GIFT_NOT_YET_HANDED_OVER",
+    "giver": "Dr Evil",
+    "recipient": "adult Jack/Clifford Marston",
+    "weapon": "real working lightsaber using real laser beams",
+    "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
+    "scope": "Explicit fictional technology; actual possession/acquisition/handoff needs authorized scene; no automatic Force powers or Jedi mastery. Color and precise engineering unselected.",
+    "story_time_advanced": 0
   }
 }
