@@ -27,6 +27,12 @@ Kaze originates the premises and new deaths. The assistant proposed scene constr
 
 The trailing “5” contains no additional instruction. Do not invent a fifth decision or hold up the specified work over it.
 
+Newest author clarification during this save:
+
+> SO THEN BASICALLY BRIAN IS DR EVILS “SCOTTY”. thats even fucken better
+
+This clarification supersedes the assistant's favored-loyal-Mini-Me relationship interpretation: Brian is miniature in body but primarily Dr. Evil's SCOTTY counterpart in their interpersonal comedy. Preserve the requested Mini-Me visual/size incongruity without forcing Mini-Me's loyalty, silence or identity onto Brian.
+
 ## Author-selected earlier editorial improvements
 
 1. Chris's kitchen intrusion remains deliberate MO POWAH heckling of a competent chef. Ren is the current draft's Golden Heron chef. Afterward Ren draws Chris into brief useful kitchen work; professional reflex traps the chef who came to be served. This is assistant-proposed construction selected by Kaze, not an original author quote or a completed scene.
@@ -89,7 +95,7 @@ This applies to Starkiller and Maul and other future first appearances. No recyc
 
 ## Dr. Evil / Brian and Austin Powers removal
 
-Dr. Evil remains selected for a future entrance. When he meets independently mobile miniature Brian, use HEAVY Dr. Evil/Mini-Me relationship influence. Brian occupies the dramatic role while remaining Brian; he is not secretly a clone, does not inherit Mini-Me's physical feats, and does not become mute. Do not automatically introduce a separate actual Mini-Me or any other film cast.
+Dr. Evil remains selected for a future entrance. When he meets independently mobile miniature Brian, the NEWEST clarification makes Brian Dr. Evil's SCOTTY counterpart: vocal, argumentative, sometimes practically correct, hungry for credit/recognition and patronized by Dr. Evil. The earlier request for heavy Dr. Evil/Mini-Me influence still supplies miniature visual juxtaposition and potential physical staging; it does not force Brian into mute loyalty. Brian remains himself, is not secretly a clone, does not inherit Mini-Me's physical feats, and does not become mute. Do not automatically introduce a separate actual Mini-Me, actual Scott Evil or any other film cast. No biological father-son relationship is created.
 
 Austin Powers THE CHARACTER is removed from active future arrival, recruitment, confrontation and outline plans. References to the Austin Powers FILMS remain valid research and comedy-influence provenance. Preserve historical sources; do not pretend the films lack their protagonist or delete evidence. Do not spawn Austin to justify Dr. Evil's presence. Dr. Evil's exact extraction snapshot, personal gear/resources, arrival and relationship with TPP remain to be established; no free lair, henchmen, satellite, clone factory or time machine.
 
@@ -101,7 +107,9 @@ Observed in The Spy Who Shagged Me: Dr. Evil prizes a smaller likeness, grants i
 
 Observed in Goldmember: Dr. Evil's selective affection and rewards become public status signals. He infantilizes Mini-Me while pursuing adult criminal ambitions, wants reunion during imprisonment, and lets personal attachment interrupt formal villain presentation. Mini-Me has choices and a changing allegiance; miniature size does not require mindless obedience. Text basis: https://www.springfieldspringfield.co.uk/movie_script.php?movie=austin-powers-in-goldmember
 
-Original proposed application: Dr. Evil mistakes Brian's vanity and eagerness to imitate him for ideal loyalty. Brian enjoys being singled out, then objects to being treated as a mascot because he wants co-authority. His technical rambling interrupts the doctor's theatrical pacing. They sometimes coordinate effectively, making the partnership a threat rather than an endless failure sketch. Rewards, mirrored gestures, whispered consultation, disproportionate tenderness and sudden hostility can carry the influence without repeating the films' dialogue. No particular new scene or borrowed catchphrase is automatically mandatory.
+Additional observed Scott relationship: in The Spy Who Shagged Me Scott questions elaborate criminal plans with simpler methods, challenges the boss's reasoning and receives escalating interruptions instead of a substantive answer. Goldmember uses the boss's selective praise and affection to aggravate Scott's grievance. Texts support authority conflict and thwarted recognition, not a requirement to reenact the films' dialogue.
+
+CURRENT author-selected application: Brian wants to be acknowledged as a mastermind, offers criticism or a useful technical correction, and is treated as an inconvenient subordinate by Dr. Evil. His own associative overexplaining and vanity can make an initially good point become ridiculous. Dr. Evil wants the authority and ceremony of presenting his plan and tries to silence or patronize him. Brian sometimes seeks approval, sometimes competes and sometimes acts from his own selfish goals; neither side is automatically always right. They may cooperate effectively enough to remain dangerous. The physical Mini-Me resemblance makes the loud, argumentative Scotty behavior more incongruous. No actual Scott/Mini-Me, fatherhood, cloned body, obligatory affection or copied catchphrase is added.
 
 ## Other cast-cut recommendations and unresolved detail
 
