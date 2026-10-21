@@ -1,0 +1,53 @@
+{
+  "schema": "S7NS_VISIBLE_CHAT_DELIVERY_RECONCILIATION_V1",
+  "change_id": "S7NS_E39_E40_R2_CHAT_RECONCILE_20261021",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode_span": [
+    39,
+    40
+  ],
+  "title": "A Place to Wait",
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
+  "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
+  "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
+  "basis": "Complete prior assistant response visible in this conversation, title through final The branch Daniel had hung from was empty. Exact matching GitHub text and Drive native manuscript/checkpoint read this turn. User explicitly requests reconciliation and continuation. No full machine byte comparison against chat message or author acceptance asserted.",
+  "opening": "Season 3, Episodes 39–40: “A Place to Wait”",
+  "terminal": "The branch Daniel had hung from was empty.",
+  "chat_source_byte_identity": "NOT_MACHINE_VERIFIED",
+  "original_manuscript_checkpoint_unchanged": true,
+  "effective_end": {
+    "elapsed": "Three nights after restaurant/Tai Lung encounter; discovery on fourth morning, return before dark. WORK itself advances zero story time.",
+    "Sins": "Kaze, Chris exterior, Arthur, loyal male Daynuh/Dana, nonverbal male Mahnuh/Mana and independent K.K at original stream/pear bank. Daniel dead body recovered from lime-cut crusher yard, wrapped and laid on firm ground, not buried.",
+    "Daniel_knowledge": "Gang and BELLY residents now know Daniel is dead by actual discovery/feed. No identification of Tai Lung. Battle damage and another participant's blood/fur are clues, not solved attribution.",
+    "Daniel_custody": "110-silver purse remains fastened to dead body, unopened and not inherited. Kaze carried real spear from yard, now placed beside body. Chris recovered intact bottle, takes one drink at end and retains it in hand; no replenishment/new liquid quantity.",
+    "Chris_Billy": "Chris exterior with headlamp and existing weapons. Billy full-sized inside with Charles, Meatwad, Frylock and Shake. Third-day search physically exchanges to Billy exterior/Chris inside then back that evening; actual feed/banjo routes preserved.",
+    "Kaze": "Deliberately exposes own name and rupture claim to tollkeeper/runner. Tiny spear puncture healed; no armor auto-deployment, no new power/weapon. Keeps prior fortune and cloth rendezvous marker. Does not destroy crime scene.",
+    "Arthur": "Revolver drawn, no shot. Took bunk blanket before departing tollhouse; used it around Daniel. No free ammo/COUNT charge. Existing system unchanged.",
+    "KK": "Alive, woody guest, no blood/bandages. Ordinary stick retained; supports return crossing with rooted weight. Pear tree still standing, empty tub at bank.",
+    "TPP": "Dutch, supported adult Jack/Clifford and conjoined actual Tracy/miniature adult human Brian survive. Cartman/Jimmy/Timmy permanently killed by Starkiller in freight-gate encounter. Bodies left to freight guards, names supplied by Dutch. Survivors take paid three-night back room of net-mender near port, wheelchair-accessible ramp; scene last shown first morning, later routine time not invented as completed new work.",
+    "Starkiller": "First full appearance. Dark-ending post-reconstruction Sith Stalker, custom unstable black blade, source-bounded cart/gate telekinesis and saber cut. Cartman tries to command/recruit, Jimmy tries to stop/help, Timmy attempts escape. Decisive lethal gate action, no detailed child gore/parity/long duel. Takes local coast map toward harbor for transport/information, no allegiance earned or ship acquired.",
+    "Noxus": "Local constable preserves complete Chris-signed order book. Separate real tollkeeper and runner accounts give district captain Kaze's name/description and voluntary rupture claim. Reports travel by longer surviving roads; captain forwards descriptions, keeps garrison at real crossings. No automatic Swain identity knowledge. At Bastion Orra exposes newer ironwork, Swain/Darius guard marked access while search/shoring proceeds; hidden faction/door contents unknown.",
+    "tollhouse": "Seized without fatalities, occupants leave with wage/till box. Kitchen supplies consumed/carried, crossbow/bolts left, bunks blanket acquired. Sins vacate after messenger, no permanent base or cash gain."
+  },
+  "effective_resources": {
+    "common_silver": 2120,
+    "Kaze_personal_silver": 0,
+    "Daniel_personal_silver": 110,
+    "Daniel_silver_status": "UNOPENED_PURSE_ON_RECOVERED_BODY_NOT_COMMON",
+    "TPP_start": 82,
+    "TPP_room": 6,
+    "TPP_food": 4,
+    "TPP_end": 72,
+    "older_TPP_debts": "Unpaid, other older funds unknown separate",
+    "E31_chests": "Both unopened/uncounted",
+    "new_firearm_shots": 0,
+    "ammunition": "No refill, unknown reserves",
+    "new_inventory": "Arthur tollhouse bunk blanket used as shroud; Chris partial flour/onions/pork supplies, finite unknown remainder; camera unchanged. Household peanut butter partly diluted/wasted by Shake, finite remainder not counted.",
+    "new_deaths": "Cartman/Jimmy/Timmy; Daniel death occurred in preceding feature and is discovered here. No adult tollhouse/freight-guard deaths.",
+    "no_old_harbor_import": "No117 theft,199 balance, stolen launch, rescue reputation or Clifford shot."
+  },
+  "next_unplayed": 41,
+  "authorization": "Prepare41 only, NO PLAY; no acceptance inferred."
+}
