@@ -37,7 +37,7 @@
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_E36_E38_Cast_Trim_Daniel_DrEvil_20261021.md",
+  "latest_direct_author_scope": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -321,5 +321,42 @@
     "story_time_advanced": 0,
     "manuscripts_changed": false,
     "project_UI_installation": "NOT_CHANGED_OR_CLAIMED"
+  },
+  "Dr_Evil_full_fidelity_owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
+  "TPP_author_selected_leadership_20261021": {
+    "change_id": "S7NS_DR_EVIL_TPP_LEADERSHIP_FULL_FIDELITY_20261021",
+    "status": "AUTHOR_SELECTED_FUTURE_NOT_PLAYED",
+    "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
+    "owner_blob_sha1": "908b7b529684e6bb0870cdd25830888dc28ab13a",
+    "leader": "Dr Evil, through meaningful source-compatible resources",
+    "right_hand": "Dutch",
+    "Brian": "SCOTTY relationship role; retains own miniature adult body/voice/agency",
+    "Clifford": "ROLE_OPEN; field enforcer/security recommended, not selected",
+    "research": "Scene-level texts from three films, two screenplay drafts, Myers/Roach/costume-designer interviews and supplementary contributor commentary; full audiovisual review not claimed",
+    "resources": "Author selected substantive advantage; exact starting assets and extraction snapshot remain recommendations, not current inventory",
+    "Austin_Powers": "character excluded from future plans; film sources retained",
+    "earlier_cast_plan": "continuity/author/S7NS_E36_E38_Cast_Trim_Daniel_DrEvil_20261021.md",
+    "receipts": {
+      "GitHub": "full source exact text readback PASS",
+      "Airtable": {
+        "id": "reckSUM6E1u8nfin8",
+        "readback": "PASS exact record ID"
+      },
+      "Notion": {
+        "id": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+        "readback": "PASS new section fetched"
+      },
+      "Drive": {
+        "id": "1e_vyM4Qnovn1PejVs16IzLCj-_yY2QRs8t5eMj6gL8Q",
+        "readback": "PASS complete native document text fetched; raw byte hash not asserted"
+      },
+      "Library": {
+        "id": "libfile_ed0dc01cdeb481918ac426b7a00640fd",
+        "status": "saved"
+      }
+    },
+    "manuscripts_changed": false,
+    "story_time_advanced": 0,
+    "Project_UI": "NOT_CHANGED"
   }
 }
