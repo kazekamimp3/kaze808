@@ -253,7 +253,39 @@
     "plain_language_owner": "canon/presentation/S7NS_Plain_Language_Work_Communication_20261021.md",
     "authorial_fidelity_owner": "canon/presentation/S7NS_Authorial_Intent_Raw_Note_Fidelity_Active_Comedy_v1_1_20261020.md",
     "episode_delivery_discrepancy": "Kaze reports receiving last two in Chat. Existing ledger stops at E38 and stores E39–40 as prepared. Reconcile actual response before revising statuses; this WORK does not resolve or advance the story.",
-    "project_attachment_installation": "PENDING_INDEPENDENT_READBACK",
-    "no_story_change": true
+    "project_attachment_installation": "INSTALLED_READBACK_20261021",
+    "no_story_change": true,
+    "project_installation_readback": {
+      "status": "INSTALLED_READBACK",
+      "date": "2026-10-21",
+      "project": "S7NS",
+      "method": "Cloud Browser project Sources + Project settings",
+      "attachments": {
+        "boot": {
+          "name": "01_BOOT_AUTHORITY.md",
+          "bytes": 470182,
+          "sha256": "c4c5be51a70b1aac74ac6cdecdc533109600d65b3437ad0a53169b6738d03d5d",
+          "download_exact_match": true
+        },
+        "manifest": {
+          "name": "MANIFEST.yaml",
+          "bytes": 326643,
+          "sha256": "4f2ff659385f02d35883aab9303ee9ca3f72c0ed5f924c5cd36949397ce65cbf",
+          "download_exact_match": true
+        }
+      },
+      "old_attachments_absent": [
+        "01_BOOT_AUTHORITY(7).md",
+        "S7NS_FOUR_APP_WORKFLOW_MANIFEST(5).yaml"
+      ],
+      "settings": {
+        "characters": 7843,
+        "closed_reopened_exact_match": true,
+        "plain_language_and_source_fallback_present": true
+      },
+      "other_sources_preserved": true,
+      "episode_text_changed": false,
+      "story_time_advanced": 0
+    }
   }
 }
