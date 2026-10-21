@@ -713,9 +713,19 @@
         "leader": "Dr Evil via resources",
         "right_hand": "Dutch",
         "Brian": "Scotty relationship role",
-        "Clifford": "formal role unselected; field enforcer/security proposed",
+        "Clifford": "Field enforcer/security APPROVED; Dr Evil gifts real laser-beam lightsaber, not yet enacted",
         "resource_scope": "Substantive source-compatible advantage selected; specific entry assets/extraction snapshot not yet selected",
         "principle": "Characters retain individual motives, speech, agency and sourced capabilities; show actual acceptance and real resource access."
+      },
+      "Clifford_lightsaber_gift_20261021": {
+        "change_id": "S7NS_CLIFFORD_DR_EVIL_REAL_LASER_LIGHTSABER_20261021",
+        "status": "AUTHOR_SELECTED_FUTURE_GIFT_NOT_YET_HANDED_OVER",
+        "giver": "Dr Evil",
+        "recipient": "adult Jack/Clifford Marston",
+        "weapon": "real working lightsaber using real laser beams",
+        "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
+        "scope": "Explicit fictional technology; actual possession/acquisition/handoff needs authorized scene; no automatic Force powers or Jedi mastery. Color and precise engineering unselected.",
+        "story_time_advanced": 0
       }
     },
     "BILLY_RICK_ENGINEERED_EVOLUTION": {
