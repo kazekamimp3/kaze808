@@ -196,17 +196,16 @@
         38
       ],
       "combined_feature": true,
-      "manuscript": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_FINAL_20261019.txt",
+      "manuscript": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_FINAL.txt",
       "manuscript_sha256_recorded": "4b376d490742c307819f20fe808009dfa50fb211e4d1a89b6e343855a2aeea81",
-      "manuscript_git_blob_sha1": "fecf1d18c7bd6d4133d74a27fe9787aa66618586",
-      "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_Checkpoint_20261019.json",
-      "checkpoint_git_blob_sha1": "569e39d99043be5eb346a497220f24890f678fb1",
-      "delivery_status": "REVISED_R8_DELIVERED_PROVISIONAL",
+      "manuscript_git_blob_sha1": "9194e35797bdf5d76830ce97ee5072b6d2ae00bb",
+      "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_Checkpoint.json",
+      "delivery_status": "REVISED_20261021_DELIVERED_PROVISIONAL",
       "author_acceptance": "NOT_ASSERTED",
       "delivery_reconciliation": "continuity/features/E36_E38/DELIVERY_RECONCILIATION_R1_20261019.json",
       "original_preserved": true,
       "change_id": "S7NS_E36_E38_DIRECTORS_CUT_AUTHOR_CORRECTIONS_R1_20261019",
-      "delivery_basis": "Complete feature visibly rendered in prior chat followed by user critique; original GitHub saved body is source. Full byte-identical chat comparison not performed. Revised alternate manuscript not written or played.",
+      "delivery_basis": "Whole preceding chat response visible; opening spoon scene and final 'Noxus would have to be considerably more inventive.' line; current user requests specific further repairs.",
       "directors_cut_selected_title": "Stay Away From My Shitty Wall: Columbine Beijing Ting Ting Bang Ding Ow",
       "directors_cut_author_owner": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
       "directors_cut_status": "FULL_R8_REVISED_SAME_E36_38_CHAT_DELIVERED_PROVISIONAL; NO_NEW_EPISODES",
@@ -215,10 +214,44 @@
       "original_delivered_sha256": "4b376d490742c307819f20fe808009dfa50fb211e4d1a89b6e343855a2aeea81",
       "original_delivered_checkpoint": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_Checkpoint.json",
       "original_delivery_status": "DELIVERED_PROVISIONAL_SUPERSEDED_BY_REVISED_R8_FOR_CONTINUATION",
-      "manuscript_sha256": "056544d5f8f79d7464ece7e7420da38f5981a127a37abba74d5b624e2c82659b",
-      "checkpoint_sha256": "7978a45247fe053d9b63c5344d5165888c941b94fa0a56ef85258bc8657e2807",
+      "manuscript_sha256": "018f2a103e18448e15484700d70b2e0e3f78597c0745e26d3684735bee9ff7c1",
       "chat_delivery_verification": "VISIBLE_FULL_TEXT_AND_EXACT_TERMINAL_LINES; CHAT_SOURCE_BYTE_IDENTITY_NOT_MACHINE_VERIFIED",
-      "delivery_reconciliation_R9": "continuity/features/E36_E38/R8_CHAT_DELIVERY_RECONCILIATION_20261020.json"
+      "delivery_reconciliation_R9": "continuity/features/E36_E38/R8_CHAT_DELIVERY_RECONCILIATION_20261020.json",
+      "prior_R8_delivery_preserved": {
+        "manuscript": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_FINAL_20261019.txt",
+        "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_Checkpoint_20261019.json",
+        "manuscript_sha256": "056544d5f8f79d7464ece7e7420da38f5981a127a37abba74d5b624e2c82659b",
+        "status": "REVISED_R8_DELIVERED_PROVISIONAL"
+      },
+      "prepared_replacement": {
+        "change_id": "S7NS_E36_E38_TWO_THREADS_BILLY_ONEUP_R2_20261021",
+        "status": "PREPARED_REVIEWED_SAVED_NOT_FULL_CHAT_PLAYED",
+        "episode_span": [
+          36,
+          37,
+          38
+        ],
+        "same_span_revision": true,
+        "author_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
+        "manuscript": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_FINAL_20261021.txt",
+        "manuscript_sha256": "6633c0629b647ca3ccf42417e38559fe4266aaa7c3fdfb0e85922724e92f258e",
+        "manuscript_git_blob_sha1": "f1dbb74c081e3c80a1ebc9ff7c97014b26b113f9",
+        "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_Checkpoint_20261021.json",
+        "checkpoint_git_blob_sha1": "ddb3fb7d6291b5551117f194b6230fb9206313bd",
+        "drive_manuscript_id": "1GZxyroAb0hYOQ6ywOxxjX93sSjgGrVWlQmd9e-l3xVg",
+        "drive_checkpoint_id": "1M_GPi-bvzX40QL30awEk_Ye3FNBUOoIIeB4dQUt8NRM",
+        "author_acceptance": "NOT_ASSERTED",
+        "next_action": "Finished revised manuscript provided as file. Not full chat PLAY. Preserve delivered/played state separately; no new episode authorization.",
+        "continuity_boundary": "Daniel fatal rematch depicted in prepared candidate; gang ignorant until realistically elapsed days/evidence. TPP harbor outcomes absent,82silver unchanged. Frylock/other deaths/Dr Evil later.",
+        "readbacks": {
+          "GitHub_manuscript": true,
+          "GitHub_checkpoint": true,
+          "Drive_manuscript_native_index_exact": true,
+          "Drive_checkpoint_native_index_exact": true,
+          "Airtable_episode_hash_status": true,
+          "Notion_new_section_hash": true
+        }
+      }
     },
     {
       "episode": 37,
@@ -229,17 +262,16 @@
         38
       ],
       "combined_feature": true,
-      "manuscript": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_FINAL_20261019.txt",
+      "manuscript": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_FINAL.txt",
       "manuscript_sha256_recorded": "4b376d490742c307819f20fe808009dfa50fb211e4d1a89b6e343855a2aeea81",
-      "manuscript_git_blob_sha1": "fecf1d18c7bd6d4133d74a27fe9787aa66618586",
-      "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_Checkpoint_20261019.json",
-      "checkpoint_git_blob_sha1": "569e39d99043be5eb346a497220f24890f678fb1",
-      "delivery_status": "REVISED_R8_DELIVERED_PROVISIONAL",
+      "manuscript_git_blob_sha1": "9194e35797bdf5d76830ce97ee5072b6d2ae00bb",
+      "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_Checkpoint.json",
+      "delivery_status": "REVISED_20261021_DELIVERED_PROVISIONAL",
       "author_acceptance": "NOT_ASSERTED",
       "delivery_reconciliation": "continuity/features/E36_E38/DELIVERY_RECONCILIATION_R1_20261019.json",
       "original_preserved": true,
       "change_id": "S7NS_E36_E38_DIRECTORS_CUT_AUTHOR_CORRECTIONS_R1_20261019",
-      "delivery_basis": "Complete feature visibly rendered in prior chat followed by user critique; original GitHub saved body is source. Full byte-identical chat comparison not performed. Revised alternate manuscript not written or played.",
+      "delivery_basis": "Whole preceding chat response visible; opening spoon scene and final 'Noxus would have to be considerably more inventive.' line; current user requests specific further repairs.",
       "directors_cut_selected_title": "Stay Away From My Shitty Wall: Columbine Beijing Ting Ting Bang Ding Ow",
       "directors_cut_author_owner": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
       "directors_cut_status": "FULL_R8_REVISED_SAME_E36_38_CHAT_DELIVERED_PROVISIONAL; NO_NEW_EPISODES",
@@ -248,10 +280,44 @@
       "original_delivered_sha256": "4b376d490742c307819f20fe808009dfa50fb211e4d1a89b6e343855a2aeea81",
       "original_delivered_checkpoint": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_Checkpoint.json",
       "original_delivery_status": "DELIVERED_PROVISIONAL_SUPERSEDED_BY_REVISED_R8_FOR_CONTINUATION",
-      "manuscript_sha256": "056544d5f8f79d7464ece7e7420da38f5981a127a37abba74d5b624e2c82659b",
-      "checkpoint_sha256": "7978a45247fe053d9b63c5344d5165888c941b94fa0a56ef85258bc8657e2807",
+      "manuscript_sha256": "018f2a103e18448e15484700d70b2e0e3f78597c0745e26d3684735bee9ff7c1",
       "chat_delivery_verification": "VISIBLE_FULL_TEXT_AND_EXACT_TERMINAL_LINES; CHAT_SOURCE_BYTE_IDENTITY_NOT_MACHINE_VERIFIED",
-      "delivery_reconciliation_R9": "continuity/features/E36_E38/R8_CHAT_DELIVERY_RECONCILIATION_20261020.json"
+      "delivery_reconciliation_R9": "continuity/features/E36_E38/R8_CHAT_DELIVERY_RECONCILIATION_20261020.json",
+      "prior_R8_delivery_preserved": {
+        "manuscript": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_FINAL_20261019.txt",
+        "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_Checkpoint_20261019.json",
+        "manuscript_sha256": "056544d5f8f79d7464ece7e7420da38f5981a127a37abba74d5b624e2c82659b",
+        "status": "REVISED_R8_DELIVERED_PROVISIONAL"
+      },
+      "prepared_replacement": {
+        "change_id": "S7NS_E36_E38_TWO_THREADS_BILLY_ONEUP_R2_20261021",
+        "status": "PREPARED_REVIEWED_SAVED_NOT_FULL_CHAT_PLAYED",
+        "episode_span": [
+          36,
+          37,
+          38
+        ],
+        "same_span_revision": true,
+        "author_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
+        "manuscript": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_FINAL_20261021.txt",
+        "manuscript_sha256": "6633c0629b647ca3ccf42417e38559fe4266aaa7c3fdfb0e85922724e92f258e",
+        "manuscript_git_blob_sha1": "f1dbb74c081e3c80a1ebc9ff7c97014b26b113f9",
+        "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_Checkpoint_20261021.json",
+        "checkpoint_git_blob_sha1": "ddb3fb7d6291b5551117f194b6230fb9206313bd",
+        "drive_manuscript_id": "1GZxyroAb0hYOQ6ywOxxjX93sSjgGrVWlQmd9e-l3xVg",
+        "drive_checkpoint_id": "1M_GPi-bvzX40QL30awEk_Ye3FNBUOoIIeB4dQUt8NRM",
+        "author_acceptance": "NOT_ASSERTED",
+        "next_action": "Finished revised manuscript provided as file. Not full chat PLAY. Preserve delivered/played state separately; no new episode authorization.",
+        "continuity_boundary": "Daniel fatal rematch depicted in prepared candidate; gang ignorant until realistically elapsed days/evidence. TPP harbor outcomes absent,82silver unchanged. Frylock/other deaths/Dr Evil later.",
+        "readbacks": {
+          "GitHub_manuscript": true,
+          "GitHub_checkpoint": true,
+          "Drive_manuscript_native_index_exact": true,
+          "Drive_checkpoint_native_index_exact": true,
+          "Airtable_episode_hash_status": true,
+          "Notion_new_section_hash": true
+        }
+      }
     },
     {
       "episode": 38,
@@ -262,17 +328,16 @@
         38
       ],
       "combined_feature": true,
-      "manuscript": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_FINAL_20261019.txt",
+      "manuscript": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_FINAL.txt",
       "manuscript_sha256_recorded": "4b376d490742c307819f20fe808009dfa50fb211e4d1a89b6e343855a2aeea81",
-      "manuscript_git_blob_sha1": "fecf1d18c7bd6d4133d74a27fe9787aa66618586",
-      "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_Checkpoint_20261019.json",
-      "checkpoint_git_blob_sha1": "569e39d99043be5eb346a497220f24890f678fb1",
-      "delivery_status": "REVISED_R8_DELIVERED_PROVISIONAL",
+      "manuscript_git_blob_sha1": "9194e35797bdf5d76830ce97ee5072b6d2ae00bb",
+      "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_Checkpoint.json",
+      "delivery_status": "REVISED_20261021_DELIVERED_PROVISIONAL",
       "author_acceptance": "NOT_ASSERTED",
       "delivery_reconciliation": "continuity/features/E36_E38/DELIVERY_RECONCILIATION_R1_20261019.json",
       "original_preserved": true,
       "change_id": "S7NS_E36_E38_DIRECTORS_CUT_AUTHOR_CORRECTIONS_R1_20261019",
-      "delivery_basis": "Complete feature visibly rendered in prior chat followed by user critique; original GitHub saved body is source. Full byte-identical chat comparison not performed. Revised alternate manuscript not written or played.",
+      "delivery_basis": "Whole preceding chat response visible; opening spoon scene and final 'Noxus would have to be considerably more inventive.' line; current user requests specific further repairs.",
       "directors_cut_selected_title": "Stay Away From My Shitty Wall: Columbine Beijing Ting Ting Bang Ding Ow",
       "directors_cut_author_owner": "continuity/author/E36_E38_Directors_Kaze_OptionB_TwistApproval_R3_20261019.md",
       "directors_cut_status": "FULL_R8_REVISED_SAME_E36_38_CHAT_DELIVERED_PROVISIONAL; NO_NEW_EPISODES",
@@ -281,19 +346,62 @@
       "original_delivered_sha256": "4b376d490742c307819f20fe808009dfa50fb211e4d1a89b6e343855a2aeea81",
       "original_delivered_checkpoint": "continuity/features/E36_E38/S3_Episodes_36_38_The_House_Special_Checkpoint.json",
       "original_delivery_status": "DELIVERED_PROVISIONAL_SUPERSEDED_BY_REVISED_R8_FOR_CONTINUATION",
-      "manuscript_sha256": "056544d5f8f79d7464ece7e7420da38f5981a127a37abba74d5b624e2c82659b",
-      "checkpoint_sha256": "7978a45247fe053d9b63c5344d5165888c941b94fa0a56ef85258bc8657e2807",
+      "manuscript_sha256": "018f2a103e18448e15484700d70b2e0e3f78597c0745e26d3684735bee9ff7c1",
       "chat_delivery_verification": "VISIBLE_FULL_TEXT_AND_EXACT_TERMINAL_LINES; CHAT_SOURCE_BYTE_IDENTITY_NOT_MACHINE_VERIFIED",
-      "delivery_reconciliation_R9": "continuity/features/E36_E38/R8_CHAT_DELIVERY_RECONCILIATION_20261020.json"
+      "delivery_reconciliation_R9": "continuity/features/E36_E38/R8_CHAT_DELIVERY_RECONCILIATION_20261020.json",
+      "prior_R8_delivery_preserved": {
+        "manuscript": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_FINAL_20261019.txt",
+        "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Directors_Cut_R8_Checkpoint_20261019.json",
+        "manuscript_sha256": "056544d5f8f79d7464ece7e7420da38f5981a127a37abba74d5b624e2c82659b",
+        "status": "REVISED_R8_DELIVERED_PROVISIONAL"
+      },
+      "prepared_replacement": {
+        "change_id": "S7NS_E36_E38_TWO_THREADS_BILLY_ONEUP_R2_20261021",
+        "status": "PREPARED_REVIEWED_SAVED_NOT_FULL_CHAT_PLAYED",
+        "episode_span": [
+          36,
+          37,
+          38
+        ],
+        "same_span_revision": true,
+        "author_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
+        "manuscript": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_FINAL_20261021.txt",
+        "manuscript_sha256": "6633c0629b647ca3ccf42417e38559fe4266aaa7c3fdfb0e85922724e92f258e",
+        "manuscript_git_blob_sha1": "f1dbb74c081e3c80a1ebc9ff7c97014b26b113f9",
+        "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_Checkpoint_20261021.json",
+        "checkpoint_git_blob_sha1": "ddb3fb7d6291b5551117f194b6230fb9206313bd",
+        "drive_manuscript_id": "1GZxyroAb0hYOQ6ywOxxjX93sSjgGrVWlQmd9e-l3xVg",
+        "drive_checkpoint_id": "1M_GPi-bvzX40QL30awEk_Ye3FNBUOoIIeB4dQUt8NRM",
+        "author_acceptance": "NOT_ASSERTED",
+        "next_action": "Finished revised manuscript provided as file. Not full chat PLAY. Preserve delivered/played state separately; no new episode authorization.",
+        "continuity_boundary": "Daniel fatal rematch depicted in prepared candidate; gang ignorant until realistically elapsed days/evidence. TPP harbor outcomes absent,82silver unchanged. Frylock/other deaths/Dr Evil later.",
+        "readbacks": {
+          "GitHub_manuscript": true,
+          "GitHub_checkpoint": true,
+          "Drive_manuscript_native_index_exact": true,
+          "Drive_checkpoint_native_index_exact": true,
+          "Airtable_episode_hash_status": true,
+          "Notion_new_section_hash": true
+        }
+      }
     }
   ],
-  "prepared_episode": null,
+  "prepared_episode": {
+    "span": [
+      36,
+      37,
+      38
+    ],
+    "type": "SAME_SPAN_REVISION",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_FULL_CHAT_PLAYED",
+    "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_Checkpoint_20261021.json"
+  },
   "playback_control": {
     "paused": false,
     "authorized_episode": null,
     "last_delivered_episode": 38,
     "next_episode": 39,
-    "basis": "User explicitly played E36–38, entire feature visible and critiqued. Revised E36–38 director's cut selected but not yet created or PLAY-authorized. E39 not authorized."
+    "basis": "Prior20261021 complete revised feature rendered in chat provisionally. Latest user requests further tightening/replacement; R2 now file-prepared, not full chat PLAY. Episode38 remains latest;39 not authorized."
   },
   "latest_scoped_author": "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md",
   "current_author_configuration": {
@@ -351,7 +459,7 @@
     "original_r8_source_unchanged": true
   },
   "latest_Arthur_weapon_policy_author": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
-  "delivery_status": "CURRENT_EFFECTIVE_E36_E38_REVISED_R8_DELIVERED_PROVISIONAL",
+  "delivery_status": "REVISED_20261021_DELIVERED_PROVISIONAL_R2_REPLACEMENT_PREPARED",
   "default_PLAY_episode_count": 2,
   "default_PLAY_format": "TWO_CONSECUTIVE_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_OVERRIDDEN",
   "default_PLAY_format_owner": "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
@@ -361,12 +469,12 @@
   ],
   "next_episode_authorized": false,
   "last_reconciliation_id": "S7NS_R9_TWO_EPISODE_DEFAULT_R8_CHAT_RECONCILE_20261020",
-  "latest_post_delivery_editorial_owner": "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md",
+  "latest_post_delivery_editorial_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
   "episode_count_unchanged": true,
   "prepared_same_span_revision_20261021": {
     "change_id": "S7NS_E36_E38_SHITTY_WALL_REVISED_PLAY_20261021",
-    "status": "PREPARED_SAVED_REVIEWED_NOT_YET_CHAT_DELIVERED",
+    "status": "DELIVERED_PROVISIONAL_BEFORE_R2_REWORK",
     "episode_span": [
       36,
       37,
@@ -380,7 +488,38 @@
     "drive_manuscript_id": "1Vj3zjuD8SwhY32O_5mgEuL9EBQVOKXJHmQKebWlMn10",
     "drive_checkpoint_id": "1Ll9M6Hmu399TCpcsipaZGoKttKLi4NIf1oz0yiQLDgY",
     "author_acceptance": "NOT_ASSERTED",
-    "next_action": "Render exact saved full feature now; reconcile actual response on next interaction. No new episode count.",
-    "future_dependencies": "Daniel absent from restaurant and presumed gallivanting. Fatal rematch/discovery and other selected cast cuts/Dr Evil later. Rework dependent E39–40 material before any replay; preserve author-reported delivery discrepancy."
+    "next_action": "Preserved historical delivered cut; current revised candidate is Two Threads/Billy R2. No acceptance inferred.",
+    "future_dependencies": "Daniel absent from restaurant and presumed gallivanting. Fatal rematch/discovery and other selected cast cuts/Dr Evil later. Rework dependent E39–40 material before any replay; preserve author-reported delivery discrepancy.",
+    "chat_byte_identity": "NOT_MACHINE_VERIFIED",
+    "delivery_basis": "Whole preceding chat response visible; opening spoon scene and final 'Noxus would have to be considerably more inventive.' line; current user requests specific further repairs."
+  },
+  "prepared_two_thread_Billy_R2_20261021": {
+    "change_id": "S7NS_E36_E38_TWO_THREADS_BILLY_ONEUP_R2_20261021",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_FULL_CHAT_PLAYED",
+    "episode_span": [
+      36,
+      37,
+      38
+    ],
+    "same_span_revision": true,
+    "author_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
+    "manuscript": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_FINAL_20261021.txt",
+    "manuscript_sha256": "6633c0629b647ca3ccf42417e38559fe4266aaa7c3fdfb0e85922724e92f258e",
+    "manuscript_git_blob_sha1": "f1dbb74c081e3c80a1ebc9ff7c97014b26b113f9",
+    "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "ddb3fb7d6291b5551117f194b6230fb9206313bd",
+    "drive_manuscript_id": "1GZxyroAb0hYOQ6ywOxxjX93sSjgGrVWlQmd9e-l3xVg",
+    "drive_checkpoint_id": "1M_GPi-bvzX40QL30awEk_Ye3FNBUOoIIeB4dQUt8NRM",
+    "author_acceptance": "NOT_ASSERTED",
+    "next_action": "Finished revised manuscript provided as file. Not full chat PLAY. Preserve delivered/played state separately; no new episode authorization.",
+    "continuity_boundary": "Daniel fatal rematch depicted in prepared candidate; gang ignorant until realistically elapsed days/evidence. TPP harbor outcomes absent,82silver unchanged. Frylock/other deaths/Dr Evil later.",
+    "readbacks": {
+      "GitHub_manuscript": true,
+      "GitHub_checkpoint": true,
+      "Drive_manuscript_native_index_exact": true,
+      "Drive_checkpoint_native_index_exact": true,
+      "Airtable_episode_hash_status": true,
+      "Notion_new_section_hash": true
+    }
   }
 }
