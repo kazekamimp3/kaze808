@@ -1228,28 +1228,30 @@
     "RW_KINDRED"
   ],
   "prepared_episode": {
-    "episode": 29,
-    "checkpoint": "continuity/episodes/E29/S3_Episode_29_Checkpoint.json",
-    "status": "DELIVERED_PROVISIONAL",
-    "prospective_delta": {
-      "completed_now": [
-        "Actual coastal return and group reunion",
-        "Samira specialist weapons returned and temporary not-today truce",
-        "Samira voluntary south departure, romance/history retained",
-        "Heisenberg actual eyewitness-report receipt",
-        "Carp stand/Inside Job continuation"
-      ],
-      "next_cursor": "E29 exact saved manuscript delivered and reconciled; next E30 at the evening harbor shelf. The originally planned inland departure remains unperformed; latest author directive replaces Naganeka future travel with a brief prospective leave-behind.",
-      "pending": [
-        "Actual inland departure and any town/capital arrival",
-        "Brief Naganeka/original-ballista leave-behind at the next authorized PLAY, followed by the group’s continuing objective; no ongoing Naganeka hook",
-        "Samira weaponsmith arrival/repair and letter receipt",
-        "Heisenberg wage list/payment or pursuit execution",
-        "Remaining selected crossover/regional meetings and other Sins matchups",
-        "Pregnancy discovery"
-      ],
-      "active_outline_policy": "The retained prepared_episode/prospective_delta container now records reconciled delivered E29 changes, not a future draft. Author acceptance remains NOT_ASSERTED. The separate current author directive cancels Naganeka host/liberation/deployment/companion hooks without changing the immutable E29 record or enacting a discard during WORK."
-    }
+    "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
+    "episode_span": [
+      39,
+      40
+    ],
+    "title": "A Place to Wait",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
+    "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
+    "manuscript_git_blob_sha1": "634817760643f735ddabb57c88e50a6e5723ca3a",
+    "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "3b35951d42f29b33643b818105e7829f05028c25",
+    "drive_manuscript_id": "18qCfA1-zrgwgP3St_jtYSOm5QAEU1t45YpMuya8Yn9M",
+    "drive_checkpoint_id": "1_Lk4RZvgSpmLBVmQw3XT1bC4SrJJNy8egOYWotcyu7Y",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Prepare episodes39–40 using all four plugins; preparation only.",
+    "next_action": "Await PLAY, then verify matching pair and render full exact saved text; do not reuse old Ground Has Witnesses pair.",
+    "four_app_readbacks": {
+      "GitHub": true,
+      "GoogleDrive_native_index": true,
+      "Airtable_episode_rows": true,
+      "Notion_latest_section": true
+    },
+    "boundary": "New39–40 candidate deaths/discovery/resources not occurred state until full actual PLAY. Original36–38 R2 already delivered provisionally."
   },
   "playback_control": {
     "paused": false,
@@ -1651,5 +1653,53 @@
       }
     ]
   },
-  "latest_Dr_Evil_author_owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md"
+  "latest_Dr_Evil_author_owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
+  "latest_delivered_and_prepared_override_20261021": {
+    "precedence": "This scoped record supersedes older cursor, Daniel-live and harbor-outcome assumptions for future preparation.",
+    "last_delivered": {
+      "change_id": "S7NS_E36_E38_TWO_THREADS_BILLY_R2_CHAT_RECONCILE_20261021",
+      "status": "DELIVERED_PROVISIONAL",
+      "episode_span": [
+        36,
+        37,
+        38
+      ],
+      "manuscript": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_FINAL_20261021.txt",
+      "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Two_Threads_Billy_Oneup_R2_Checkpoint_20261021.json",
+      "sha256": "6633c0629b647ca3ccf42417e38559fe4266aaa7c3fdfb0e85922724e92f258e",
+      "basis": "Actual complete prior assistant response visible in current conversation. Opening The spoon made its choice; terminal The paper had survived the restaurant. Subsequent author states has not listened/read yet, asks humor appraisal, then requests next pair preparation.",
+      "chat_byte_identity": "NOT_MACHINE_VERIFIED",
+      "author_acceptance": "NOT_ASSERTED",
+      "overrides": "Older prepared-not-chat-played labels for this exact R2 only. No alteration of immutable manuscript/checkpoint.",
+      "story_end": "Same evening at rise after stream return. Audience knows Daniel dead at lime-cut crusher; gang assumes gallivanting. TPP absent,82silver unchanged. No39–40 candidate enacted."
+    },
+    "prepared": {
+      "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
+      "episode_span": [
+        39,
+        40
+      ],
+      "title": "A Place to Wait",
+      "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+      "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
+      "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
+      "manuscript_git_blob_sha1": "634817760643f735ddabb57c88e50a6e5723ca3a",
+      "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
+      "checkpoint_git_blob_sha1": "3b35951d42f29b33643b818105e7829f05028c25",
+      "drive_manuscript_id": "18qCfA1-zrgwgP3St_jtYSOm5QAEU1t45YpMuya8Yn9M",
+      "drive_checkpoint_id": "1_Lk4RZvgSpmLBVmQw3XT1bC4SrJJNy8egOYWotcyu7Y",
+      "author_acceptance": "NOT_ASSERTED",
+      "authorization": "Prepare episodes39–40 using all four plugins; preparation only.",
+      "next_action": "Await PLAY, then verify matching pair and render full exact saved text; do not reuse old Ground Has Witnesses pair.",
+      "four_app_readbacks": {
+        "GitHub": true,
+        "GoogleDrive_native_index": true,
+        "Airtable_episode_rows": true,
+        "Notion_latest_section": true
+      },
+      "boundary": "New39–40 candidate deaths/discovery/resources not occurred state until full actual PLAY. Original36–38 R2 already delivered provisionally."
+    },
+    "Daniel_future": "Dead in delivered36–38 R2; no living ordinary rematches. Gang discovery is in prepared39–40 only, pendingPLAY.",
+    "other_selected_cast_and_Dr_Evil": "Full latest author owners retained, no candidate event automatically occurs via WORK."
+  }
 }
