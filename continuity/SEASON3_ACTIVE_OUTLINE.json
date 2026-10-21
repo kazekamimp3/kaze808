@@ -663,7 +663,7 @@
       "consequence_policy": "Use the existing completed/pending/displaced/no_longer_possible statuses after actual outcomes. Selected recurrence grants no survival. If a participant dies, access fails, resources disappear or an operation is exposed, update affected developments instead of inventing replacements, revivals or extra rounds. Required outcomes do not mandate every optional gag or preserve an impossible prerequisite.",
       "scope": "All selected optional repertoire, identities, voices, genre influences and developments retained. Full reset makes old enacted-only-in-S3 outcomes prospective. Latest early formation order controls. Household’s 23 optional situations remain in its unchanged full owner.",
       "character_application": {
-        "Brian": "Heavy Dr. Evil energy: theatrical mastermind self-importance, fussy demands for recognition, patronizing deflection, wounded vanity when questioned, and disproportionate revenge presentation. Preserve his actual established voice/history, miniature adult shoulder-conjoined body, limited equipment and Busta's independent will. This is a performance/personality influence, not a new identity, headquarters, superweapon, expertise or control power.",
+        "Brian": "Heavy Dr. Evil energy: theatrical mastermind self-importance, fussy demands for recognition, patronizing deflection, wounded vanity when questioned, and disproportionate revenge presentation. Preserve his actual established voice/history, miniature adult shoulder-conjoined body, limited equipment and Busta's independent will. This is a performance/personality influence, not a new identity, headquarters, superweapon, expertise or control power. NEWEST 2026-10-21: full selected death/host-stealing development is in continuity/author/S7NS_E36_E38_Cast_Trim_Daniel_DrEvil_20261021.md. Before enacted, current conjoined state persists; after Tracy's selected death Brian remains miniature and independently mobile. With actual Dr Evil, Brian occupies SCOTTY's argumentative/recognition-seeking relationship role; this overrides any mandatory loyal mute-Mini-Me interpretation.",
         "Scotty_counterpart": {
           "status": "author_selected_character_dynamic",
           "counterpart": "Busta",
@@ -1376,11 +1376,6 @@
       "name": "Dr. Evil",
       "age": "ADULT",
       "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED"
-    },
-    {
-      "name": "Austin Powers",
-      "age": "ADULT",
-      "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED"
     }
   ],
   "season3_WTF_crossover_additions": [
@@ -1570,5 +1565,29 @@
   },
   "QAPX_cutover_stage": "Prepared new source owner files and consolidated replacement/project-instructions proposal, NOT yet installed or approved by QAPX.",
   "latest_scoped_author_override": "continuity/author/KK_Keke_and_Zid_Scoped_Esketit_20261019.json",
-  "future_scope_correction_20261019": "K.K. rare-seed origin and future unanimous membership require first enacted events; do not auto-insert. Zid now outside Sins by author; old selected Sin betrayal and compulsory TPP entry canceled. Existing earlier card prose is historical/planning only where inconsistent."
+  "future_scope_correction_20261019": "K.K. rare-seed origin and future unanimous membership require first enacted events; do not auto-insert. Zid now outside Sins by author; old selected Sin betrayal and compulsory TPP entry canceled. Existing earlier card prose is historical/planning only where inconsistent.",
+  "latest_author_revision_20261021": {
+    "change_id": "S7NS_E36_E38_CAST_TRIM_DANIEL_DR_EVIL_20261021",
+    "owner": "continuity/author/S7NS_E36_E38_Cast_Trim_Daniel_DrEvil_20261021.md",
+    "status": "AUTHOR_SELECTED_PLAN_NOT_PLAYED",
+    "precedence": "Overrides conflicting future plans in this preserved outline; does not alter occurred episodes.",
+    "Daniel": "Opts out of revised restaurant visit; Tai Lung kills him in revenge; gang discovers after realistically elapsed days. Older Daniel-only survival commitment explicitly revoked. Repair R8/E39–40 dependencies in new revision.",
+    "selected_cast_reduction": [
+      "Frylock via Shake/acid without recovery",
+      "Cartman/Jimmy/Timmy by Lord Starkiller",
+      "K.K by Maul",
+      "Daniel by Tai Lung",
+      "Tracy via Brian's deliberate host theft; miniature Brian develops legs"
+    ],
+    "Brian_Dr_Evil": "Brian is Dr Evil's SCOTTY counterpart in the relationship, retaining miniature Mini-Me-like visual contrast and his own argumentative voice. No actual Scott/Mini-Me or father-son relation added.",
+    "Austin_Powers": "Removed from future cast and active arrival plans; film references remain research influences.",
+    "first_impressions": "All crossover badasses need hype entrances that work in audio and preserve real competence.",
+    "historical_removed_future_entries": [
+      {
+        "name": "Austin Powers",
+        "age": "ADULT",
+        "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED"
+      }
+    ]
+  }
 }
