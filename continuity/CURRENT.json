@@ -245,5 +245,15 @@
     "connected_apps": "PER_DESTINATION_RECEIPTS_REQUIRED",
     "author_acceptance": "NO_EPISODE_ACCEPTANCE_INFERRED",
     "story_time_delta": 0
+  },
+  "source_directions_update": {
+    "change_id": "S7NS_SOURCE_DIRECTIONS_PLAIN_LANGUAGE_20261021",
+    "start": "KAZE_READ_FIRST.txt",
+    "complete_source_locations": "routing/MASTER_SOURCE_INDEX.json",
+    "plain_language_owner": "canon/presentation/S7NS_Plain_Language_Work_Communication_20261021.md",
+    "authorial_fidelity_owner": "canon/presentation/S7NS_Authorial_Intent_Raw_Note_Fidelity_Active_Comedy_v1_1_20261020.md",
+    "episode_delivery_discrepancy": "Kaze reports receiving last two in Chat. Existing ledger stops at E38 and stores E39–40 as prepared. Reconcile actual response before revising statuses; this WORK does not resolve or advance the story.",
+    "project_attachment_installation": "PENDING_INDEPENDENT_READBACK",
+    "no_story_change": true
   }
 }
