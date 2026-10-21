@@ -327,7 +327,7 @@
     "change_id": "S7NS_DR_EVIL_TPP_LEADERSHIP_FULL_FIDELITY_20261021",
     "status": "AUTHOR_SELECTED_FUTURE_NOT_PLAYED",
     "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
-    "owner_blob_sha1": "ffde44e56669d9ac17fcb97c57946defa835b351",
+    "owner_blob_sha1": "1228409d598af2679dfd70dd77d62f92ae1416ea",
     "leader": "Dr Evil, through meaningful source-compatible resources",
     "right_hand": "Dutch",
     "Brian": "SCOTTY relationship role; retains own miniature adult body/voice/agency",
@@ -395,5 +395,18 @@
     "preserved": "Gift stays real and retained; sincere thanks; no admission or public correction resolving the embarrassment",
     "knowledge": "No automatic full-game future knowledge for Dutch; author-selected meta-knowledge route must occur; research access/results belong to actual crew",
     "brainstorm": "Call staging, chronology confusion, rehearsal, fact misuse and reaction variants remain PROPOSED, not locked dialogue or performed events"
+  },
+  "TPP_memes_Brian_founder_name_dispute_20261021": {
+    "change_id": "S7NS_TPP_MEMES_SPOILER_BRIAN_FOUNDER_TRADEMARK_20261021",
+    "status": "AUTHOR_SELECTED_FUTURE_NOT_PLAYED",
+    "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
+    "prior_eight_suggestions": "APPROVED_CONSTRUCTION_OPTIONS",
+    "meme_knowledge": "Crew supplies actual RDR2 fan memes; Dutch/Jack unfamiliar with memes; recognize own history separately",
+    "Clifford_changes": "unfinished face/body tattoos, slightly bent neck; Dr Evil wrongly assumes source research incomplete; branch history is real cause",
+    "spoiler": "Accidental slip allowed as possibility; precise fact unselected; genuine knowledge consequence cannot be reset",
+    "Brian": "IN_UNIVERSE_FOUNDER_CREATOR_AND_NAME_ORIGINATOR_OF_TPP; recognizes loss of control",
+    "second_meeting": "Dr Evil announces calculated copyright/trademark plan over TPP; provokes Brian's petty founder/name/authority dispute",
+    "legal_effect": "plan announced, not completed proven title/control transfer; no invented universal IP registry",
+    "story_time_advanced": 0
   }
 }
