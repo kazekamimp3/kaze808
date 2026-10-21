@@ -363,5 +363,24 @@
   "last_reconciliation_id": "S7NS_R9_TWO_EPISODE_DEFAULT_R8_CHAT_RECONCILE_20261020",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
-  "episode_count_unchanged": true
+  "episode_count_unchanged": true,
+  "prepared_same_span_revision_20261021": {
+    "change_id": "S7NS_E36_E38_SHITTY_WALL_REVISED_PLAY_20261021",
+    "status": "PREPARED_SAVED_REVIEWED_NOT_YET_CHAT_DELIVERED",
+    "episode_span": [
+      36,
+      37,
+      38
+    ],
+    "same_span_revision": true,
+    "manuscript": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_FINAL.txt",
+    "manuscript_sha256": "018f2a103e18448e15484700d70b2e0e3f78597c0745e26d3684735bee9ff7c1",
+    "manuscript_git_blob_sha1": "9194e35797bdf5d76830ce97ee5072b6d2ae00bb",
+    "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_Checkpoint.json",
+    "drive_manuscript_id": "1Vj3zjuD8SwhY32O_5mgEuL9EBQVOKXJHmQKebWlMn10",
+    "drive_checkpoint_id": "1Ll9M6Hmu399TCpcsipaZGoKttKLi4NIf1oz0yiQLDgY",
+    "author_acceptance": "NOT_ASSERTED",
+    "next_action": "Render exact saved full feature now; reconcile actual response on next interaction. No new episode count.",
+    "future_dependencies": "Daniel absent from restaurant and presumed gallivanting. Fatal rematch/discovery and other selected cast cuts/Dr Evil later. Rework dependent E39–40 material before any replay; preserve author-reported delivery discrepancy."
+  }
 }
