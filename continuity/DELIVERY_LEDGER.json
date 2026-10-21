@@ -2,8 +2,8 @@
   "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
-  "current_delivered_episode": 38,
-  "next_episode": 39,
+  "current_delivered_episode": 40,
+  "next_episode": 41,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -315,40 +315,85 @@
         "checkpoint": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_Checkpoint.json",
         "status": "REVISED_20261021_DELIVERED_PROVISIONAL"
       }
+    },
+    {
+      "episode": 39,
+      "title": "A Place to Wait",
+      "feature_span": [
+        39,
+        40
+      ],
+      "combined_feature": true,
+      "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
+      "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
+      "manuscript_git_blob_sha1": "634817760643f735ddabb57c88e50a6e5723ca3a",
+      "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_reconciliation": "continuity/features/E39_E40/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
+      "delivery_basis": "Complete prior assistant response visible in this conversation, title through final The branch Daniel had hung from was empty. Exact matching GitHub text and Drive native manuscript/checkpoint read this turn. User explicitly requests reconciliation and continuation. No full machine byte comparison against chat message or author acceptance asserted.",
+      "originals_preserved": true
+    },
+    {
+      "episode": 40,
+      "title": "A Place to Wait",
+      "feature_span": [
+        39,
+        40
+      ],
+      "combined_feature": true,
+      "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
+      "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
+      "manuscript_git_blob_sha1": "634817760643f735ddabb57c88e50a6e5723ca3a",
+      "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_reconciliation": "continuity/features/E39_E40/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
+      "delivery_basis": "Complete prior assistant response visible in this conversation, title through final The branch Daniel had hung from was empty. Exact matching GitHub text and Drive native manuscript/checkpoint read this turn. User explicitly requests reconciliation and continuation. No full machine byte comparison against chat message or author acceptance asserted.",
+      "originals_preserved": true
     }
   ],
   "prepared_episode": {
-    "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
+    "change_id": "S7NS_E41_HIS_OWN_TWO_FEET_PREPARED_20261021",
+    "episode": 41,
     "episode_span": [
-      39,
-      40
+      41
     ],
-    "title": "A Place to Wait",
+    "title": "His Own Two Feet",
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
-    "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
-    "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
-    "manuscript_git_blob_sha1": "634817760643f735ddabb57c88e50a6e5723ca3a",
-    "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-    "checkpoint_git_blob_sha1": "3b35951d42f29b33643b818105e7829f05028c25",
-    "drive_manuscript_id": "18qCfA1-zrgwgP3St_jtYSOm5QAEU1t45YpMuya8Yn9M",
-    "drive_checkpoint_id": "1_Lk4RZvgSpmLBVmQw3XT1bC4SrJJNy8egOYWotcyu7Y",
+    "manuscript": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_FINAL_20261021.txt",
+    "manuscript_sha256": "64264a14a8f682a0627e0141bb09e468512bac08cef2a5ec3460fc78a16f37b8",
+    "manuscript_git_blob_sha1": "caa989320b6ee3eb857aab067dab7b556dea1a7e",
+    "checkpoint": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_Checkpoint_20261021.json",
+    "checkpoint_sha256": "f15430e25ad639b3c3eec710548ded9d6fec7ce4f03390cf911f48db3e10a457",
+    "checkpoint_git_blob_sha1": "9f6e8dd14996c59dabcc81864abf1aee0e628c54",
+    "drive_manuscript_id": "1r7UFrab3h86fDcEf2lBUTqBYmhzO9LyVbqo9lWpY6o4",
+    "drive_checkpoint_id": "1a7yXAJDQ_jH8Lhg5n_kW6CBoxcqrcxdp3YnnGEwbX8w",
+    "airtable_episode_record_id": "rec5CQLb9Z3W32THu",
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "notion_author_page": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+    "library_manuscript_id": "libfile_8c6db64e057c8191a438efa2bfb1fc7d",
+    "library_checkpoint_id": "libfile_f266a7af88ec81918d212ee4e9c46780",
     "author_acceptance": "NOT_ASSERTED",
-    "authorization": "Prepare episodes39–40 using all four plugins; preparation only.",
-    "next_action": "Await PLAY, then verify matching pair and render full exact saved text; do not reuse old Ground Has Witnesses pair.",
+    "authorization": "Explicit single Episode41 WORK PREPARE request; NO PLAY. Two-episode global default unchanged.",
     "four_app_readbacks": {
-      "GitHub": true,
-      "GoogleDrive_native_index": true,
-      "Airtable_episode_rows": true,
-      "Notion_latest_section": true
+      "GitHub_manuscript_exact": true,
+      "GitHub_checkpoint_exact": true,
+      "GoogleDrive_manuscript_native_index_exact": true,
+      "GoogleDrive_checkpoint_native_index_exact": true,
+      "Airtable_episode_hash_checkpoint_status": true,
+      "Notion_episode_index_hash_checkpoint_links": true,
+      "Notion_author_page_hash": true
     },
-    "boundary": "New39–40 candidate deaths/discovery/resources not occurred state until full actual PLAY. Original36–38 R2 already delivered provisionally."
+    "next_action": "On explicit PLAY EPISODE41, verify matching complete pair via four apps and render exact full saved text. No42 continuation.",
+    "boundary": "Latest actual delivered40; all41 deaths/body changes/custody/leadership and resources remain prepared candidate, not occurred. Do not alter manuscript wording during playback."
   },
   "playback_control": {
-    "paused": false,
+    "paused": true,
     "authorized_episode": null,
-    "last_delivered_episode": 38,
-    "next_episode": 39,
-    "basis": "Full E36–38 R2 response observed; latest preparation request produces revised39–40 saved file only. Await PLAY."
+    "last_delivered_episode": 40,
+    "next_episode": 41,
+    "basis": "Full39–40 response observed.41 preparation only; fresh PLAY needed."
   },
   "latest_scoped_author": "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md",
   "current_author_configuration": {
@@ -358,7 +403,9 @@
     "K_K": "E33 emergence completed; not automatically a Sin",
     "Clifford": "E33 assisted walking surgery completed",
     "Deadpool": "Narrator only",
-    "Mimir": "Fell and was physically attached to Kratos in E33"
+    "Mimir": "Fell and was physically attached to Kratos in E33",
+    "Daniel": "Dead; discovered/recovered in delivered40, not buried. No Tai Lung identity known to gang.",
+    "TPP": "Dutch, adult Clifford and conjoined Tracy/Brian alive as of actual40; Cartman/Jimmy/Timmy dead by Starkiller. Candidate41 developments not occurred."
   },
   "original_manuscripts_or_checkpoints_rewritten": false,
   "project_ui_installation_performed": false,
@@ -406,16 +453,15 @@
     "original_r8_source_unchanged": true
   },
   "latest_Arthur_weapon_policy_author": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
-  "delivery_status": "E36_E38_TWO_THREADS_BILLY_R2_DELIVERED_PROVISIONAL",
+  "delivery_status": "E39_E40_R2_DELIVERED_PROVISIONAL",
   "default_PLAY_episode_count": 2,
   "default_PLAY_format": "TWO_CONSECUTIVE_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_OVERRIDDEN",
   "default_PLAY_format_owner": "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
   "next_prospective_feature": [
-    39,
-    40
+    41
   ],
   "next_episode_authorized": false,
-  "last_reconciliation_id": "S7NS_E36_E38_TWO_THREADS_BILLY_R2_CHAT_RECONCILE_20261021",
+  "last_reconciliation_id": "S7NS_E39_E40_R2_CHAT_RECONCILE_20261021",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
   "episode_count_unchanged": true,
@@ -477,7 +523,7 @@
       40
     ],
     "title": "A Place to Wait",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "status": "DELIVERED_PROVISIONAL",
     "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
     "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
     "manuscript_git_blob_sha1": "634817760643f735ddabb57c88e50a6e5723ca3a",
@@ -487,13 +533,51 @@
     "drive_checkpoint_id": "1_Lk4RZvgSpmLBVmQw3XT1bC4SrJJNy8egOYWotcyu7Y",
     "author_acceptance": "NOT_ASSERTED",
     "authorization": "Prepare episodes39–40 using all four plugins; preparation only.",
-    "next_action": "Await PLAY, then verify matching pair and render full exact saved text; do not reuse old Ground Has Witnesses pair.",
+    "next_action": "Continue from complete actually delivered40; do not replay unless requested.",
     "four_app_readbacks": {
       "GitHub": true,
       "GoogleDrive_native_index": true,
       "Airtable_episode_rows": true,
       "Notion_latest_section": true
     },
-    "boundary": "New39–40 candidate deaths/discovery/resources not occurred state until full actual PLAY. Original36–38 R2 already delivered provisionally."
+    "boundary": "New39–40 candidate deaths/discovery/resources not occurred state until full actual PLAY. Original36–38 R2 already delivered provisionally.",
+    "delivery_reconciliation": "S7NS_E39_E40_R2_CHAT_RECONCILE_20261021",
+    "basis": "Complete prior assistant response visible in this conversation, title through final The branch Daniel had hung from was empty. Exact matching GitHub text and Drive native manuscript/checkpoint read this turn. User explicitly requests reconciliation and continuation. No full machine byte comparison against chat message or author acceptance asserted.",
+    "original_preparation_status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED"
+  },
+  "prepared_E41_20261021": {
+    "change_id": "S7NS_E41_HIS_OWN_TWO_FEET_PREPARED_20261021",
+    "episode": 41,
+    "episode_span": [
+      41
+    ],
+    "title": "His Own Two Feet",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "manuscript": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_FINAL_20261021.txt",
+    "manuscript_sha256": "64264a14a8f682a0627e0141bb09e468512bac08cef2a5ec3460fc78a16f37b8",
+    "manuscript_git_blob_sha1": "caa989320b6ee3eb857aab067dab7b556dea1a7e",
+    "checkpoint": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_Checkpoint_20261021.json",
+    "checkpoint_sha256": "f15430e25ad639b3c3eec710548ded9d6fec7ce4f03390cf911f48db3e10a457",
+    "checkpoint_git_blob_sha1": "9f6e8dd14996c59dabcc81864abf1aee0e628c54",
+    "drive_manuscript_id": "1r7UFrab3h86fDcEf2lBUTqBYmhzO9LyVbqo9lWpY6o4",
+    "drive_checkpoint_id": "1a7yXAJDQ_jH8Lhg5n_kW6CBoxcqrcxdp3YnnGEwbX8w",
+    "airtable_episode_record_id": "rec5CQLb9Z3W32THu",
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "notion_author_page": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+    "library_manuscript_id": "libfile_8c6db64e057c8191a438efa2bfb1fc7d",
+    "library_checkpoint_id": "libfile_f266a7af88ec81918d212ee4e9c46780",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Explicit single Episode41 WORK PREPARE request; NO PLAY. Two-episode global default unchanged.",
+    "four_app_readbacks": {
+      "GitHub_manuscript_exact": true,
+      "GitHub_checkpoint_exact": true,
+      "GoogleDrive_manuscript_native_index_exact": true,
+      "GoogleDrive_checkpoint_native_index_exact": true,
+      "Airtable_episode_hash_checkpoint_status": true,
+      "Notion_episode_index_hash_checkpoint_links": true,
+      "Notion_author_page_hash": true
+    },
+    "next_action": "On explicit PLAY EPISODE41, verify matching complete pair via four apps and render exact full saved text. No42 continuation.",
+    "boundary": "Latest actual delivered40; all41 deaths/body changes/custody/leadership and resources remain prepared candidate, not occurred. Do not alter manuscript wording during playback."
   }
 }
