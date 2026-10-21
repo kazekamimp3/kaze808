@@ -725,7 +725,15 @@
         "weapon": "real working lightsaber using real laser beams",
         "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
         "scope": "Explicit fictional technology; actual possession/acquisition/handoff needs authorized scene; no automatic Force powers or Jedi mastery. Color and precise engineering unselected.",
-        "story_time_advanced": 0
+        "story_time_advanced": 0,
+        "gift_motive_and_reveal": {
+          "change_id": "S7NS_DR_EVIL_CLIFFORD_VADER_FAN_GIFT_REVEAL_20261021",
+          "status": "AUTHOR_SELECTED_FUTURE_NOT_ENACTED",
+          "motive": "Dr Evil big fan; has only seen Clifford masked/suited and genuinely mistakes him for actual Darth Vader",
+          "sequence": "Real laser-beam lightsaber handed over and accepted; roughly 1–2 minutes later Clifford sincerely unmasks to thank Dr Evil respectfully face-to-face; Dr Evil discovers truth only then; socially too late to retract freshly accepted gift, Clifford keeps weapon",
+          "protected": "Genuine error and courtesy, no planned scam/mocking present; no magical transfer rule or actual Vader import",
+          "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md"
+        }
       }
     },
     "BILLY_RICK_ENGINEERED_EVOLUTION": {
