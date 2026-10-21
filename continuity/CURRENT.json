@@ -454,7 +454,45 @@
     "drive_checkpoint_id": "1Ll9M6Hmu399TCpcsipaZGoKttKLi4NIf1oz0yiQLDgY",
     "author_acceptance": "NOT_ASSERTED",
     "next_action": "Render exact saved full feature now; reconcile actual response on next interaction. No new episode count.",
-    "future_dependencies": "Daniel absent from restaurant and presumed gallivanting. Fatal rematch/discovery and other selected cast cuts/Dr Evil later. Rework dependent E39–40 material before any replay; preserve author-reported delivery discrepancy."
+    "future_dependencies": "Daniel absent from restaurant and presumed gallivanting. Fatal rematch/discovery and other selected cast cuts/Dr Evil later. Rework dependent E39–40 material before any replay; preserve author-reported delivery discrepancy.",
+    "receipts": {
+      "checked_at": "2026-10-21",
+      "status": "FOUR_DESTINATIONS_READBACK_VERIFIED_PREPARED_NOT_YET_CHAT_DELIVERED",
+      "manuscript_sha256": "018f2a103e18448e15484700d70b2e0e3f78597c0745e26d3684735bee9ff7c1",
+      "GitHub": {
+        "manuscript_path": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_FINAL.txt",
+        "manuscript_blob_sha1": "9194e35797bdf5d76830ce97ee5072b6d2ae00bb",
+        "manuscript_exact_readback": true,
+        "checkpoint_path": "continuity/features/E36_E38/S3_E36_E38_Shitty_Wall_Revised_20261021_Checkpoint.json",
+        "checkpoint_exact_readback": true
+      },
+      "GoogleDrive": {
+        "manuscript_id": "1Vj3zjuD8SwhY32O_5mgEuL9EBQVOKXJHmQKebWlMn10",
+        "checkpoint_id": "1Ll9M6Hmu399TCpcsipaZGoKttKLi4NIf1oz0yiQLDgY",
+        "manuscript_native_index_reconstruction_exact": true,
+        "checkpoint_native_index_reconstruction_exact": true,
+        "raw_native_txt_export": "BOM/CRLF/paragraph-format differences; not raw-byte SHA verification"
+      },
+      "Airtable": {
+        "episode_record_ids": [
+          "recKAH0ZSHaGwHrhe",
+          "recTYiRAZ5KBhX4cJ",
+          "recCoFXMQoES1jihl"
+        ],
+        "all_hashes_and_prepared_statuses_readback": true
+      },
+      "Notion": {
+        "page_id": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+        "change_id_hash_and_prior_decisions_readback": true
+      },
+      "user_artifacts": {
+        "manuscript_library_file_id": "libfile_8544f719a2b081919dae6ec384d0c4b7",
+        "checkpoint_library_file_id": "libfile_27cf654e33b081918612bb2ade4bcc2a",
+        "both_saved": true,
+        "local_identity_metadata_applied": true
+      },
+      "delivery": "Full exact feature response still to be rendered. No author acceptance, no episode-number advance. Reconcile actual chat response at next interaction."
+    }
   },
   "prepared_E39_E40_after_new_E36_E38": "PRESERVE_ORIGINALS; dependent Daniel participation and elapsed discovery timeline need revision. No new delivery/acceptance inference; author-reported earlier pair delivery remains unresolved."
 }
