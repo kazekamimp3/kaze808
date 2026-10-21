@@ -11,7 +11,7 @@ Status: AUTHOR_SELECTED LEADERSHIP / COMPLETED TEXT RESEARCH / FUTURE SCENES NOT
 >
 > full fidelity of dr evil needs to be phenomenal, alright? no half ass research of him
 
-Kaze selects Dr. Evil's resource-backed takeover of Tampon Pandemic Productions, Dutch as his right-hand man and Brian in the Scotty relationship role. Clifford's new formal role is still open. This source supplements the prior cast-trimming author owner and preserves all selected deaths, Daniel's delayed discovery, the City Wall reference and original manuscripts. No new scene, arrival, promotion, death, asset transfer or elapsed day has happened through WORK.
+Kaze selects Dr. Evil's resource-backed takeover of Tampon Pandemic Productions, Dutch as his right-hand man and Brian in the Scotty relationship role. Clifford's field-enforcer/security role is approved by the subsequent author agreement recorded below. This source supplements the prior cast-trimming author owner and preserves all selected deaths, Daniel's delayed discovery, the City Wall reference and original manuscripts. No new scene, arrival, promotion, death, asset transfer or elapsed day has happened through WORK.
 
 ## Leadership and agency
 
@@ -20,7 +20,7 @@ Kaze selects Dr. Evil's resource-backed takeover of Tampon Pandemic Productions,
 | Dr. Evil | TPP leader | Supplies a substantial source-compatible resource advantage and takes strategic authority through an actual encounter and agreement. |
 | Dutch | Right-hand man | Negotiates, recruits, persuades and translates ambition into locally usable operations; retains his late-Chapter-3 identity, grief, ambitions and willingness to manipulate. |
 | Brian | Scotty relationship role | Wants acknowledgment, challenges the boss, sometimes offers a good objection, and receives condescension or suppression. Keeps his own miniature adult body, personality and speech. |
-| Clifford | Formal role unselected | Assistant recommendation: field enforcer and security, with his existing marksmanship, danger, personal grudges, supported walking/chair and unsolicited personal-history interruptions. |
+| Clifford | Field enforcer and security, now author-approved | Keeps his marksmanship, danger, personal grudges, supported walking/chair and unsolicited history. Dr. Evil will gift him a real laser-beam lightsaber. |
 
 The older instruction presenting Dr. Evil as merely a prospective additional TPP member is superseded for FUTURE hierarchy. He will lead; that outcome does not fabricate an already-performed coup or universally obedient followers. His resources give the others tangible reasons to accept. Dutch remains a substantial second voice rather than an employee impersonating film Number Two. Brian's disagreement is personal and consequential, not a compulsory objection in every scene. Clifford is not automatically a mindless henchman, new technical genius, invulnerable super-soldier or literal film henchman replacement.
 
@@ -96,10 +96,23 @@ Make the arrival's material advantage immediately understandable by ear: scale, 
 
 Dutch recognizes the opportunity, negotiates for position and publicly describes their agreement in terms that preserve his pride. Dr. Evil recognizes a useful persuasive lieutenant. Brian dislikes being passed over and wants the technically important contribution credited to him. Clifford assesses whether the arrangement advances his own objectives. The new hierarchy becomes real because they act on it, including the terms they resist. Do not stop the plot for a lengthy constitution, employee handbook or meeting montage.
 
-Clifford's field-enforcer/security role is the strongest recommendation because it supplies a practical job and preserves menace, his existing supports, bookish bitterness and personal vendettas. It also lets his anger create a decision rather than making him a permanent spectator. This recommendation is available for review; only the other three leadership roles are explicitly author-selected in this message.
+Clifford's field-enforcer/security role is the strongest recommendation because it supplies a practical job and preserves menace, his existing supports, bookish bitterness and personal vendettas. It also lets his anger create a decision rather than making him a permanent spectator. This recommendation was subsequently approved by the author's “okay yeah” alongside the lightsaber gift below.
 
 ## Use within the existing review, not a new process
 
 During the existing complete-draft/read/repair/final-reread procedure, compare Dr. Evil's consequential scenes with the actual sources: what does he want from this specific person, what response does he get, what does he change, what resources are really present, and what does the scene make happen? Repair generic villain language, interchangeable voices, familiar-quote dependence, automatic incompetence, phantom resources and unsupported knowledge. Listenability needs clear speakers, short recoverable sentence paths, deliberate pauses and a legible material action; voice-clone precision is not claimed from text.
 
 The full original character and scene owners still govern Dutch, adult Jack/Clifford and Brian. The separate parasite and new host-theft development remain distinct. No existing death selection is reversed. Preserve Daniel's full abilities and his newest explicit mortality override. Preserve actual prior manuscripts, delivery uncertainty and author acceptance boundaries. Nothing in this research delivers an episode or schedules every future death into E36–38.
+
+
+## Newest author approval — Clifford's real laser-beam lightsaber
+
+Change ID: S7NS_CLIFFORD_DR_EVIL_REAL_LASER_LIGHTSABER_20261021
+
+Exact Kaze wording:
+
+> okay yeah. and dr evil gifts clifford a real frickin lightsaber that uses real frickin laser beams
+
+AUTHOR SELECTED FUTURE: Clifford's recommended field-enforcer/security role is accepted. Dr. Evil gifts the same adult Jack/Clifford a REAL, WORKING LIGHTSABER USING REAL LASER BEAMS. This is explicitly author-selected fictional technology and an actual dangerous weapon, not a toy, decorative prop, illusion or rejected premise because of ordinary-world laser physics. It develops the existing crooked-budget-Vader appearance through a consequential equipment gift. Dr. Evil must actually possess/obtain it and hand it over during an authorized scene; it is not already in Clifford's delivered inventory.
+
+This is the project's laser-beam lightsaber adaptation, not evidence that the film Dr. Evil canonically owns one. It does not confer Force powers or instant Jedi/Sith mastery. Clifford retains existing identity, supported mobility, injuries, equipment, agency and competence; precise color, construction, power supply, reach, cutting behavior and foreign-defense interactions remain unspecified until developed. Do not invent universal penetration or an arbitrary handicap. His actual choices with a lethal weapon can be funny and dangerous; neither compulsory self-injury nor harmless incompetence is selected. All prior cast/death/leadership decisions continue. WORK advances no fictional time.
