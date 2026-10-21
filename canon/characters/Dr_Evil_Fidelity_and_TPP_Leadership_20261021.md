@@ -116,3 +116,23 @@ Exact Kaze wording:
 AUTHOR SELECTED FUTURE: Clifford's recommended field-enforcer/security role is accepted. Dr. Evil gifts the same adult Jack/Clifford a REAL, WORKING LIGHTSABER USING REAL LASER BEAMS. This is explicitly author-selected fictional technology and an actual dangerous weapon, not a toy, decorative prop, illusion or rejected premise because of ordinary-world laser physics. It develops the existing crooked-budget-Vader appearance through a consequential equipment gift. Dr. Evil must actually possess/obtain it and hand it over during an authorized scene; it is not already in Clifford's delivered inventory.
 
 This is the project's laser-beam lightsaber adaptation, not evidence that the film Dr. Evil canonically owns one. It does not confer Force powers or instant Jedi/Sith mastery. Clifford retains existing identity, supported mobility, injuries, equipment, agency and competence; precise color, construction, power supply, reach, cutting behavior and foreign-defense interactions remain unspecified until developed. Do not invent universal penetration or an arbitrary handicap. His actual choices with a lethal weapon can be funny and dangerous; neither compulsory self-injury nor harmless incompetence is selected. All prior cast/death/leadership decisions continue. WORK advances no fictional time.
+
+## Latest author-selected gift motive and mistaken-Vader reveal
+
+Change ID: S7NS_DR_EVIL_CLIFFORD_VADER_FAN_GIFT_REVEAL_20261021
+
+Exact Kaze wording:
+
+> dr evil claims to be a big fan of clifford but the twist is, dr evil has only seen clifford with his mask and suit on, so he for real thinks Clifford is the real darth vader, thats why he gifts him the lightsaber. when that happens clifford takes off his mask to respectfully and properly tell dr evil thank you, to his face. and thats when dr evil finds out, and at that point its kinda too late to un-gift the gift he literally just gave him 1-2 minutes ago
+
+AUTHOR SELECTED FUTURE, protected sequence and joke mechanism:
+
+1. Before the gift Dr. Evil has seen Clifford ONLY wearing his existing mask and suit. He sincerely believes the man is the actual Darth Vader and presents himself as a big fan. His knowledge of the Darth Vader character is author-selected for this joke; he has no prior unmasked-Clifford observation or secret knowledge of the truth.
+2. That sincere mistaken identity is WHY Dr. Evil gives him the real working laser-beam lightsaber. Preserve the previous real-weapon grant and Clifford's independent adult Jack identity. Do not substitute a knowingly mocking present, deliberate cosplay sponsorship, generic employee bonus or an impersonation scheme devised by Clifford.
+3. Clifford actually accepts and receives the gift before the mistake is exposed. Roughly one to two minutes of real scene time separate handoff from the reveal; don't count paragraphs or silently call ten seconds two minutes. No compulsory dead-air padding; brief ordinary exchange or weapon acknowledgment can occupy the interval.
+4. Clifford removes his mask specifically to thank Dr. Evil properly, respectfully and face to face. The politeness is sincere. Do not turn this into a taunt, confession, planned swindle, forced inspection or involuntary mask accident. His actual crooked neck, scars/appearance and retained physical circumstances carry through the removal.
+5. Only THEN does Dr. Evil discover that his supposed Darth Vader is Clifford. The revelation follows genuine visual access and the exchange; no prior narrator-to-actor knowledge leak. The audience may know Clifford already, so withholding Dr. Evil's mistaken belief can carry the twist without falsely narrating an actual Vader arrival.
+6. The gift was completed about a minute or two ago. Dr. Evil now faces the humiliating social fact that he would have to retract a freshly presented, accepted gift. Kaze's “too late to un-gift” is the comic embarrassment and committed generosity, not a magical ownership curse or physically enforced prohibition. Preserve the payoff: Clifford keeps the weapon; don't undo the gift to make Dr. Evil efficient or remove the mistake through a later reimbursement gag.
+
+Dr. Evil's precise reaction and other characters' lines remain open for original character-faithful comedy. Allow realization, attempted composure, offended pride and the recipient's sincere gratitude to do the work without an explanatory narrator paragraph. Do not automatically make Dutch/Brian expose the mistake beforehand, turn the lightsaber into a toy, grant Force abilities or import an actual Darth Vader. This newest motive supersedes generic gift rationales; all other selected leadership/cast revisions continue. No handoff, unmasking or new inventory has happened in WORK.
+
