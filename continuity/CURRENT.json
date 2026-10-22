@@ -1,19 +1,19 @@
 {
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "2026-10-21: replacement41 delivered provisionally;42 reviewed/saved and singlePLAYauthorized",
-  "last_delivered_episode": 41,
-  "next_episode": 42,
-  "delivery_status": "E41_CLUCK_R2_DELIVERED_PROVISIONAL",
+  "as_of": "2026-10-21: complete42 reconciled deliveredprovisional;43–44fullreviewedfeature preparedforauthorizedPLAY",
+  "last_delivered_episode": 42,
+  "next_episode": 43,
+  "delivery_status": "E42_DELIVERED_PROVISIONAL",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "continuity/episodes/E41/Cluck_R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
-  "manuscript": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_FINAL_20261021.txt",
-  "manuscript_git_blob_sha1": "022304425e01c359b8a987e912711daafebbc8df",
-  "manuscript_sha256": "1bb3a0098e8d1467afcac0d132fe08a09092d1f4588b6b2335d7a0c97392d2c0",
-  "checkpoint": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
-  "state_owner": "continuity/episodes/E41/Cluck_R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
-  "state_rule": "Full replacement41 visibly delivered; supersedes rejected41.42prepared only until fullresponse. No acceptance asserted.",
+  "delivery_reconciliation": "continuity/episodes/E42/CHAT_DELIVERY_RECONCILIATION_20261021.json",
+  "manuscript": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_FINAL_20261021.txt",
+  "manuscript_git_blob_sha1": "69390d296c65530f20448f056660f7141fb7a9ab",
+  "manuscript_sha256": "5ae27d3461cb6ea15e5d0d4d74aab5d420930646ef7b02bd5aae1d85bd7a0971",
+  "checkpoint": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_Checkpoint_20261021.json",
+  "state_owner": "continuity/episodes/E42/CHAT_DELIVERY_RECONCILIATION_20261021.json",
+  "state_rule": "Complete42 visible twice and reconciled.43–44onlyprepareduntilfullresponse. No acceptance asserted; rejectedold41 remains inactive.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -23,39 +23,46 @@
     "scope": "The ENTIRE previous CURRENT JSON, including E34 installation receipts, earlier research, previous episode/recovery records, scoped configurations, exact feature paths and all staged-package hashes, remains unchanged at this immutable revision. Historical work pointers there do not supersede this current workflow receipt. Consult it for any unchanged prior metadata rather than assuming absence."
   },
   "continuation_authorization": {
-    "episode": 42,
-    "proposed_batch": [
-      42
+    "episode_span": [
+      43,
+      44
     ],
-    "status": "PLAY_AUTHORIZED_EXACT_PREPARED_EPISODE_ONLY"
+    "proposed_batch": [
+      43,
+      44
+    ],
+    "status": "PLAY_AUTHORIZED_CURRENT_TWO_EPISODE_DEFAULT"
   },
   "prepared_episode": {
-    "change_id": "S7NS_E42_A_VERY_IMPORTANT_CALL_20261021",
-    "episode": 42,
+    "change_id": "S7NS_E43_E44_AUDIENCE_PARTICIPATION_20261021",
     "episode_span": [
-      42
+      43,
+      44
     ],
-    "title": "A Very Important Call",
+    "title": "Audience Participation",
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
-    "manuscript": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_FINAL_20261021.txt",
-    "manuscript_sha256": "5ae27d3461cb6ea15e5d0d4d74aab5d420930646ef7b02bd5aae1d85bd7a0971",
-    "manuscript_git_blob_sha1": "69390d296c65530f20448f056660f7141fb7a9ab",
-    "checkpoint": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_Checkpoint_20261021.json",
-    "checkpoint_git_blob_sha1": "8a3e74c2052aa173d63c5101830b770107fbdea8",
-    "drive_manuscript_id": "1KLp3EwdFp5kgywi1MdAB55N30ucqsfXHyN5Yh8wVWk0",
-    "drive_checkpoint_id": "1JZg2I4BrLFVg6FowiDPLUSyiy1wiuNtM3K_9Uzxpk2A",
-    "airtable_episode_record_id": "recqTrPfq1QzGkz5O",
+    "manuscript": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_FINAL_20261021.txt",
+    "manuscript_sha256": "b5fcfc4b99bd5218986b05394f21204c3a02a8bab669c2266cfab7b164bcc8a7",
+    "manuscript_git_blob_sha1": "1954a969d2c03cfb56a4916644749602905194cb",
+    "checkpoint": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "d795e0507f8ee79901830ba7280d1eafef78f447",
+    "drive_manuscript_id": "1AhzRbwdoBJ_MEfZirL5oTKOna0S_0GlPjuZp_vg4-LI",
+    "drive_checkpoint_id": "1RZ4vAYzUwu2NSbaV0NpK1EzCnI04fKPzdNaGVjPPAOo",
+    "airtable_episode_record_ids": [
+      "recpONsJbx0skpBsc",
+      "recpaBZMK0hWnRDeS"
+    ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
     "author_acceptance": "NOT_ASSERTED",
-    "authorization": "Explicit single PLAY42; no43.",
-    "next_action": "Render exact complete saved42. Reconcile actual delivery on next interaction.",
+    "authorization": "Latest and reiterated barePLAY; currentdefaultnext43–44.",
+    "next_action": "Render exact whole savedfeature now; reconcileactualdeliverynextinteraction.",
     "four_app_readbacks": {
       "GitHub_pair_exact": true,
       "Drive_pair_native_index_exact": true,
-      "Airtable_hash_checkpoint": true,
-      "Notion_hash_checkpoint_and41receipt": true
+      "Airtable_hash_checkpoint_status": true,
+      "Notion_hash_scope": true
     },
-    "boundary": "41 replacement delivered provisionally.42 candidate outcomes only until full actual response."
+    "boundary": "Latest actual42.43–44candidate onlyuntilfullresponse."
   },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
@@ -99,9 +106,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "E42_REVIEWED_SAVED_READY_FOR_AUTHORIZED_PLAY",
-  "work_resume_checkpoint_latest": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_Checkpoint_20261021.json",
-  "work_change_id": "S7NS_E42_A_VERY_IMPORTANT_CALL_20261021",
+  "work_status": "E43_E44_REVIEWED_SAVED_FOUR_APP_READBACK_READY_FOR_PLAY",
+  "work_resume_checkpoint_latest": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_Checkpoint_20261021.json",
+  "work_change_id": "S7NS_E43_E44_AUDIENCE_PARTICIPATION_20261021",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": {
@@ -130,7 +137,7 @@
   "history_unchanged": true,
   "latest_R5_MO_POWAH_author": "continuity/author/S7NS_E35_MO_POWAH_Pure_Dickhead_Joke_20261019.md",
   "latest_R5_MO_POWAH_author_blob_sha1": "d777a9e61550231c7874f3abadb2ff4f08fbfeaa",
-  "work_resume_checkpoint_latest_git_blob_sha1": "8a3e74c2052aa173d63c5101830b770107fbdea8",
+  "work_resume_checkpoint_latest_git_blob_sha1": "d795e0507f8ee79901830ba7280d1eafef78f447",
   "R5_MO_POWAH_status": "Chris intentionally trolls a perfectly competent chef to be a dickhead; chef changes nothing, Chris pretends correction worked. Not a milk/cooking grievance. Future E36–38 ONLY.",
   "latest_direct_author_revision": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "E36_E38_research_revision": "continuity/editorial/E36_E38_Theo_TPP_Fissure_Revision_Research_R1_20261019.md",
@@ -299,14 +306,15 @@
   },
   "default_PLAY_episode_count": 2,
   "next_prospective_episode_batch": [
-    42
+    43,
+    44
   ],
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-  "current_prepared_episode_count": 1,
-  "current_prepared_drive_id": "1KLp3EwdFp5kgywi1MdAB55N30ucqsfXHyN5Yh8wVWk0",
-  "current_prepared_full_sha256": "5ae27d3461cb6ea15e5d0d4d74aab5d420930646ef7b02bd5aae1d85bd7a0971",
+  "current_prepared_episode_count": 2,
+  "current_prepared_drive_id": "1AhzRbwdoBJ_MEfZirL5oTKOna0S_0GlPjuZp_vg4-LI",
+  "current_prepared_full_sha256": "b5fcfc4b99bd5218986b05394f21204c3a02a8bab669c2266cfab7b164bcc8a7",
   "authorial_fidelity_v1_1": {
     "change_id": "S7NS_AUTHORIAL_FIDELITY_ACTIVE_COMEDY_V11_20261020",
     "selection": "AUTHOR_SELECTED_BY_EXPLICIT_ESKETIT",
@@ -563,7 +571,7 @@
     },
     "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "checkpoint_git_blob_sha1": "b9fbfbdfd611bec050a357c1c71c3241589b82f9",
+  "checkpoint_git_blob_sha1": "8a3e74c2052aa173d63c5101830b770107fbdea8",
   "prepared_E39_E40_A_Place_To_Wait_R2_20261021": {
     "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
     "episode_span": [
@@ -748,7 +756,7 @@
       42
     ],
     "title": "A Very Important Call",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "status": "DELIVERED_PROVISIONAL",
     "manuscript": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_FINAL_20261021.txt",
     "manuscript_sha256": "5ae27d3461cb6ea15e5d0d4d74aab5d420930646ef7b02bd5aae1d85bd7a0971",
     "manuscript_git_blob_sha1": "69390d296c65530f20448f056660f7141fb7a9ab",
@@ -759,15 +767,16 @@
     "airtable_episode_record_id": "recqTrPfq1QzGkz5O",
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
     "author_acceptance": "NOT_ASSERTED",
-    "authorization": "Explicit single PLAY42; no43.",
-    "next_action": "Render exact complete saved42. Reconcile actual delivery on next interaction.",
+    "authorization": "Explicit42 already rendered; latest barePLAY nowauthorizes43–44.",
+    "next_action": "Continue43–44; do not replay42 unless requested.",
     "four_app_readbacks": {
       "GitHub_pair_exact": true,
       "Drive_pair_native_index_exact": true,
       "Airtable_hash_checkpoint": true,
       "Notion_hash_checkpoint_and41receipt": true
     },
-    "boundary": "41 replacement delivered provisionally.42 candidate outcomes only until full actual response."
+    "boundary": "Full visible42provisional; originalprepcheckpointunchanged.",
+    "delivery_reconciliation": "continuity/episodes/E42/CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
   "current_actual_after_E41": {
     "evidence": "continuity/episodes/E41/Cluck_R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
@@ -790,6 +799,65 @@
       "E31_chests": "Both unopened/uncounted",
       "restitution": "Dana promises tosettlefirstroast;unpriced/unpaid,notcashdeduction.",
       "food": "Firstroast andpartduckconsumed,giftedscrapsconsumed,unknownremainingducknotclaimedstored;finalroastreturned,ninechickensrecovered."
+    }
+  },
+  "prepared_E43_E44_Audience_Participation_20261021": {
+    "change_id": "S7NS_E43_E44_AUDIENCE_PARTICIPATION_20261021",
+    "episode_span": [
+      43,
+      44
+    ],
+    "title": "Audience Participation",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "manuscript": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_FINAL_20261021.txt",
+    "manuscript_sha256": "b5fcfc4b99bd5218986b05394f21204c3a02a8bab669c2266cfab7b164bcc8a7",
+    "manuscript_git_blob_sha1": "1954a969d2c03cfb56a4916644749602905194cb",
+    "checkpoint": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "d795e0507f8ee79901830ba7280d1eafef78f447",
+    "drive_manuscript_id": "1AhzRbwdoBJ_MEfZirL5oTKOna0S_0GlPjuZp_vg4-LI",
+    "drive_checkpoint_id": "1RZ4vAYzUwu2NSbaV0NpK1EzCnI04fKPzdNaGVjPPAOo",
+    "airtable_episode_record_ids": [
+      "recpONsJbx0skpBsc",
+      "recpaBZMK0hWnRDeS"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Latest and reiterated barePLAY; currentdefaultnext43–44.",
+    "next_action": "Render exact whole savedfeature now; reconcileactualdeliverynextinteraction.",
+    "four_app_readbacks": {
+      "GitHub_pair_exact": true,
+      "Drive_pair_native_index_exact": true,
+      "Airtable_hash_checkpoint_status": true,
+      "Notion_hash_scope": true
+    },
+    "boundary": "Latest actual42.43–44candidate onlyuntilfullresponse."
+  },
+  "current_actual_after_E42": {
+    "evidence": "continuity/episodes/E42/CHAT_DELIVERY_RECONCILIATION_20261021.json",
+    "scene_end": {
+      "chronology": "Sins frame exactly continues final E41 firewood event on ruptureday9. Explicit five mornings earlier depicts previously unshown TPP day4 room extension and host theft. Nextmorning day5 DrEvil arrival/gift/unmasking/fakecall. Closing explicitly returns fourdayslater to same Sins frame, no world reset/replay or automatic new current day.",
+      "Tracy": "Permanently dead through Brian's knowingly continued host theft; body covered with net-mender awaiting handling, unpriced charge promised but not paid.",
+      "Brian": "Separate miniature adult with organic new legs, weak initial gait, cloth covering. Organism seam independently twitches; not cured, mastered, immortal or telepathic. Dutch/Clifford know his culpability. Current final TPP seen leaving briefing for crew clothing; not received yet.",
+      "TPP": "Dr Evil resource-backed leadership negotiated. Dutch direct right-hand/local liaison. Existing stolen ledger retained by Dutch; crew copies actual port headings and broken-road warning. Clifford retains chair/weapons/agency. They board actual working crewed submarine; ordered quarters/food/wash water and wash water actually provided; no dinner or ownership of Earth arsenal asserted.",
+      "gift": "Real working laser-beam lightsaber actually gifted and accepted by Clifford. Demonstrated activation, safe clearance/control explanation and chair strap consume nearly2minutes before sincere unmask/thanks. No Force powers or automatic cutting of all defenses. Hilt secured to chair.",
+      "mistake": "DrEvil sincerely thought masked/suited Clifford was DarthVader. Only after unmask he discovers cowboy, waits for name, hears Jack/Clifford and unsolicited personal trauma. Hides error with unringing fake important call; no confession/retraction. Clifford keeps weapon.",
+      "last_TPP_position": "DrEvil and Dutch privately in briefing room immediately after other departures, last line Who the fuck was that cowboy? Actual Arthur-to-Dutch game-origin conversation NOT yet established; no RDR game claim or crew research retroactively granted.",
+      "Sins": "Endframe same stream camp as41: Chris exterior returns from washinghands; Billy full-size inside sees headlamp and speaks banjo. Daynuh/Mahnuh/Arthur/Kaze outside, KK remains living guest at last known camp, not newly shown. Daniel buried, gear/purse custody retained.",
+      "food_security": "E41 merchant inquiry traveler remains underway/undelivered. No TPP contract/storage operation or collision before protected two-meeting chain.",
+      "others": "Frylock/KK living; selected future cuts remain pending. No unrelated actor travel/encounter introduced."
+    },
+    "resources": {
+      "common_silver": 2120,
+      "Kaze_silver": 0,
+      "Daniel_purse": 110,
+      "custodian": "Arthur, unopened separate",
+      "TPP_start": 72,
+      "room_extension": 6,
+      "TPP_end": 66,
+      "corpse_handling": "Unpriced unpaid charge promised; no deduction or burial invented.",
+      "shots": 0,
+      "E31_chests": "Both unopened/uncounted",
+      "new_equipment": "Clifford accepted actual dangerous laser-beam lightsaber, strap and case. Source-compatible submarine/crew introduced with finite uncounted stores; no bank connection, named film cast, superweapon inventory or unlimited fuel grant."
     }
   }
 }
