@@ -11,7 +11,8 @@
     "Drive_parent": true,
     "Notion": true,
     "Airtable_both_decisions": true,
-    "Airtable_characters": false
+    "Airtable_characters": true,
+    "Airtable_R2_status": true
   },
   "story_days_advanced": 0,
   "episode51_authorized": false
