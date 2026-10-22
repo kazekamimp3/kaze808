@@ -23,39 +23,43 @@
     "scope": "The ENTIRE previous CURRENT JSON, including E34 installation receipts, earlier research, previous episode/recovery records, scoped configurations, exact feature paths and all staged-package hashes, remains unchanged at this immutable revision. Historical work pointers there do not supersede this current workflow receipt. Consult it for any unchanged prior metadata rather than assuming absence."
   },
   "continuation_authorization": {
-    "status": "WORK_AUDIT_AND_BRAINSTORM_ONLY",
-    "episode51_authorized": false
+    "status": "EXPLICIT_SINGLE_PLAY51_AUTHORIZED",
+    "episode51_authorized": true,
+    "episode52_authorized": false,
+    "direct_author": "play episode 51"
   },
   "prepared_episode": {
-    "change_id": "S7NS_E50_ALL_IN_20261021",
+    "change_id": "S7NS_E51_FETCH_20261022",
     "episode_span": [
-      50
+      51
     ],
     "episode_count": 1,
-    "title": "All In",
-    "status": "DELIVERED_PROVISIONAL",
+    "title": "Fetch",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
     "author_acceptance": "NOT_ASSERTED",
-    "author_owner": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
-    "manuscript": "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
-    "manuscript_sha256": "a4797d2634759a54fe6c19ae0484d7eb81acaa9b15ed00ffed1c8b70aaece377",
-    "manuscript_git_blob_sha1": "6775a71254249a00a6f60c250c4f753c2ff93f1a",
-    "checkpoint": "continuity/episodes/E50/S3_E50_All_In_Checkpoint_20261021.json",
-    "checkpoint_git_blob_sha1": "4f93033f7e3581b0a74615dfe58b19eb63ab92af",
-    "drive_manuscript_id": "1Iw9rR3ke_czzG-DSVDeX3Cd-kyZEtPDTMX4WMZD4m5g",
-    "drive_checkpoint_id": "1PCU5cSwq2VLkScefBkvPkFQBGnt4zWqACxrmcvMz8ZM",
+    "authorization": "Latest direct user: play episode 51. Single51 only, no52.",
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_FINAL_20261022.txt",
+    "manuscript_sha256": "c37c4647b6c4521fd8d2b04a1393c88ceac8f29ffbc0f744ba4208ba1d573ee7",
+    "manuscript_git_blob_sha1": "22fe44846f6573031e9a569a0e63581043c30a9c",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_Checkpoint_20261022.json",
+    "checkpoint_git_blob_sha1": "5364e56a5b1580ab62793a6111ed513b44d32618",
+    "drive_manuscript_id": "1G0PZ4-tx0TscbFl0ALo_9UTP55Gf-ZuA",
+    "drive_checkpoint_id": "1PdvtcdbNM2cFN51pQA0XBOb9m2FF9Mn-",
+    "drive_format": "Raw UTF-8 text/plain manuscript and application/json checkpoint; exact remote content/decoded bytes verified, not native Docs.",
     "airtable_episode_record_ids": [
-      "recgzJP3OJ6uXFMrQ"
+      "recO0O1hxfH6Cc00F"
     ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
     "four_app_readbacks": {
       "GitHub_pair_exact": true,
-      "Drive_pair_native_index_exact": true,
-      "Airtable_hash_checkpoint_status": true,
-      "Notion_hash_scope": true
+      "Drive_manuscript_exact_text_and_checkpoint_base64_bytes": true,
+      "Airtable_hash_status_checkpoint": true,
+      "Notion_prepared_scope_hash_links": true
     },
-    "authorization": "Explicit PLAY50 only; no51.",
-    "next_action": "E50 delivered; new WORK audit only. Episode51 requires separate PLAY authorization.",
-    "delivery_reconciliation": "continuity/episodes/E50/CHAT_DELIVERY_RECONCILIATION_20261021.json"
+    "words": 3804,
+    "assumed_wpm": 150,
+    "estimated_minutes": 25.36,
+    "next_action": "Render exact saved51 text in current authorized PLAY response; next interaction reconcile actual completion. No52 authorization."
   },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
@@ -99,8 +103,8 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "CUMULATIVE_PROJECT_REPLACEMENTS_INSTALLED_EXACT_READBACK_VERIFIED",
-  "work_resume_checkpoint_latest": "continuity/work/S7NS_Cumulative_Replacement_Patch_Resume_20261022.json",
+  "work_status": "E51_PREPARED_REVIEWED_SAVED_FOUR_APP_READBACK_FOR_AUTHORIZED_PLAY",
+  "work_resume_checkpoint_latest": "continuity/episodes/E51/S3_E51_Fetch_Checkpoint_20261022.json",
   "work_change_id": "S7NS_CUMULATIVE_REPLACEMENT_PATCH_20261022",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
@@ -1698,5 +1702,38 @@
     "installation_verified_utc": "2026-10-22T19:37:51.194662+00:00",
     "installation_status": "PROJECT_FILES_REPLACED_EXACT_DOWNLOAD_READBACK_VERIFIED",
     "build_metadata_rule": "PREPARED/NOT INSTALLED labels inside the immutable release are construction-time snapshots. This later receipt and live CURRENT cumulative installation fields establish the actual verified installation; the ZIP and source bytes are not silently rebuilt."
+  },
+  "prepared_E51_Fetch_20261022": {
+    "change_id": "S7NS_E51_FETCH_20261022",
+    "episode_span": [
+      51
+    ],
+    "episode_count": 1,
+    "title": "Fetch",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Latest direct user: play episode 51. Single51 only, no52.",
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_FINAL_20261022.txt",
+    "manuscript_sha256": "c37c4647b6c4521fd8d2b04a1393c88ceac8f29ffbc0f744ba4208ba1d573ee7",
+    "manuscript_git_blob_sha1": "22fe44846f6573031e9a569a0e63581043c30a9c",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_Checkpoint_20261022.json",
+    "checkpoint_git_blob_sha1": "5364e56a5b1580ab62793a6111ed513b44d32618",
+    "drive_manuscript_id": "1G0PZ4-tx0TscbFl0ALo_9UTP55Gf-ZuA",
+    "drive_checkpoint_id": "1PdvtcdbNM2cFN51pQA0XBOb9m2FF9Mn-",
+    "drive_format": "Raw UTF-8 text/plain manuscript and application/json checkpoint; exact remote content/decoded bytes verified, not native Docs.",
+    "airtable_episode_record_ids": [
+      "recO0O1hxfH6Cc00F"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "four_app_readbacks": {
+      "GitHub_pair_exact": true,
+      "Drive_manuscript_exact_text_and_checkpoint_base64_bytes": true,
+      "Airtable_hash_status_checkpoint": true,
+      "Notion_prepared_scope_hash_links": true
+    },
+    "words": 3804,
+    "assumed_wpm": 150,
+    "estimated_minutes": 25.36,
+    "next_action": "Render exact saved51 text in current authorized PLAY response; next interaction reconcile actual completion. No52 authorization."
   }
 }
