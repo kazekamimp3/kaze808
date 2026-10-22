@@ -1825,5 +1825,31 @@
     "checkpoint": "continuity/work/S7NS_Mana_Shoplifting_Outline_Resume_20261021.json",
     "preview_not_season_canon": true,
     "delivered_state_unchanged": true
+  },
+  "latest_E49_author_direction": {
+    "owner": "continuity/author/S7NS_E49_Dana_Brian_BELLY_Public_Chaos_20261021.md",
+    "status": "AUTHOR_SELECTED",
+    "Dana": "Sustainedbaselineexpressionandvoluntaryinstigation; sourceownedactiveformthirdpersononly.",
+    "Brian": "Distinctverbalassaultsfromallreachablefactionsongoing;notuniversalteleportedchorus/passiveidentityerasure;retainBusta/DrEvilslowburn.",
+    "BELLY": "Charles,Meatwad,Shake disruptioncanreachoutsidebyBillyactualpermission/physicalroute. SeparateactualShake/Frylockfromroleinfluences; preserveagency,privacy,membership.",
+    "episode_span": [
+      49
+    ],
+    "episode50_authorized": false
+  },
+  "BELLY_current_played_roster_reconciliation": {
+    "evidence": "continuity/episodes/E33/S3_Episode_33_Under_New_Management.txt",
+    "Shake": "ACTUALLY_ENTERED33",
+    "Frylock": "ACTUALLY_ENTERED33",
+    "Charles_Meatwad": "Existingseparateresidents;notduplicatesofShake/Frylock",
+    "rule": "Oldfutureentryheadingsarehistoricalsnapshot,notcurrentabsence. New49outing ispreparedcandidateonly."
+  },
+  "prepared_E49_Public_Facing_20261021": {
+    "manuscript": "continuity/episodes/E49/S3_E49_Public_Facing_FINAL_20261021.txt",
+    "sha256": "b53561a3ee515efd9476a684db20d58246975e62060230888ec2e3b0495c9e8b",
+    "checkpoint": "continuity/episodes/E49/S3_E49_Public_Facing_Checkpoint_20261021.json",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "previous_actual_delivery": 48
   }
 }
