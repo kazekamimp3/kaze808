@@ -1,19 +1,19 @@
 {
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "2026-10-21 Pacific/Honolulu:48deliveryreconciled,49reviewedprepared",
-  "last_delivered_episode": 48,
-  "next_episode": 49,
-  "delivery_status": "E48_DELIVERED_PROVISIONAL",
+  "as_of": "2026-10-21 Pacific/Honolulu:49deliveryreconciled,50reviewedprepared",
+  "last_delivered_episode": 49,
+  "next_episode": 50,
+  "delivery_status": "E49_DELIVERED_PROVISIONAL",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "continuity/episodes/E48/CHAT_DELIVERY_RECONCILIATION_20261021.json",
-  "manuscript": "continuity/episodes/E48/S3_E48_A_Little_Off_the_Top_FINAL_20261021.txt",
-  "manuscript_git_blob_sha1": "9d01a95e431cb972f1144f9cb66900df1a54ef8b",
-  "manuscript_sha256": "daeb6fed3d3054576e003e54974126431dda527632e3d2f0221830e677541a6b",
-  "checkpoint": "continuity/episodes/E48/S3_E48_A_Little_Off_the_Top_Checkpoint_20261021.json",
-  "state_owner": "continuity/episodes/E48/CHAT_DELIVERY_RECONCILIATION_20261021.json",
-  "state_rule": "Actualafter48establishedbycompletepriorchat/48deliveryreceipt.New49candidateegress,watchmeeting,TPPdisclosureandstonemustnotbeactualbeforewhole49chat.Frozenhistoricmanuscripts/CPunchanged.",
+  "delivery_reconciliation": "continuity/episodes/E49/CHAT_DELIVERY_RECONCILIATION_20261021.json",
+  "manuscript": "continuity/episodes/E49/S3_E49_Public_Facing_FINAL_20261021.txt",
+  "manuscript_git_blob_sha1": "384cccbedb635d12dfb9f11f09a728b3e35edf27",
+  "manuscript_sha256": "b53561a3ee515efd9476a684db20d58246975e62060230888ec2e3b0495c9e8b",
+  "checkpoint": "continuity/episodes/E49/S3_E49_Public_Facing_Checkpoint_20261021.json",
+  "state_owner": "continuity/episodes/E49/CHAT_DELIVERY_RECONCILIATION_20261021.json",
+  "state_rule": "Actual after49 from complete priorchat/receipt. New50 two sleep incidents, two-daytravel/driveranswer, hinges, beer, gambling and capitalroutechoice remain candidate until complete50chat. Prior immutable manuscripts/CP untouched.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -24,30 +24,30 @@
   },
   "continuation_authorization": {
     "episode_span": [
-      49
+      50
     ],
-    "status": "SINGLE_EPISODE49_PLAY_AUTHORIZED",
-    "episode50_authorized": false
+    "status": "SINGLE_EPISODE50_PLAY_AUTHORIZED",
+    "episode51_authorized": false
   },
   "prepared_episode": {
-    "change_id": "S7NS_E49_PUBLIC_FACING_20261021",
+    "change_id": "S7NS_E50_ALL_IN_20261021",
     "episode_span": [
-      49
+      50
     ],
     "episode_count": 1,
-    "title": "Public Facing",
+    "title": "All In",
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
     "author_acceptance": "NOT_ASSERTED",
-    "author_owner": "continuity/author/S7NS_E49_Dana_Brian_BELLY_Public_Chaos_20261021.md",
-    "manuscript": "continuity/episodes/E49/S3_E49_Public_Facing_FINAL_20261021.txt",
-    "manuscript_sha256": "b53561a3ee515efd9476a684db20d58246975e62060230888ec2e3b0495c9e8b",
-    "manuscript_git_blob_sha1": "384cccbedb635d12dfb9f11f09a728b3e35edf27",
-    "checkpoint": "continuity/episodes/E49/S3_E49_Public_Facing_Checkpoint_20261021.json",
-    "checkpoint_git_blob_sha1": "a2c83e1bd5c74af892d8fdfe8bf7ed9c3232a805",
-    "drive_manuscript_id": "1idR-7om7GCuzN2UoOzRfqvsjmlqpKfp_216f0YKy9-A",
-    "drive_checkpoint_id": "1ZQlbf_pudi_FterChbVnEuYjdRpwbZn9EPt8NnkN300",
+    "author_owner": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
+    "manuscript": "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
+    "manuscript_sha256": "a4797d2634759a54fe6c19ae0484d7eb81acaa9b15ed00ffed1c8b70aaece377",
+    "manuscript_git_blob_sha1": "6775a71254249a00a6f60c250c4f753c2ff93f1a",
+    "checkpoint": "continuity/episodes/E50/S3_E50_All_In_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "4f93033f7e3581b0a74615dfe58b19eb63ab92af",
+    "drive_manuscript_id": "1Iw9rR3ke_czzG-DSVDeX3Cd-kyZEtPDTMX4WMZD4m5g",
+    "drive_checkpoint_id": "1PCU5cSwq2VLkScefBkvPkFQBGnt4zWqACxrmcvMz8ZM",
     "airtable_episode_record_ids": [
-      "recGPPRQIBdiSOOEy"
+      "recgzJP3OJ6uXFMrQ"
     ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
     "four_app_readbacks": {
@@ -56,14 +56,14 @@
       "Airtable_hash_checkpoint_status": true,
       "Notion_hash_scope": true
     },
-    "authorization": "ExplicitPLAY49only.No50.",
-    "next_action": "Renderexactwhole3780wordsaved49;reconciledeliveryonlyaftercompletechatresponseexists."
+    "authorization": "Explicit PLAY50 only; no51.",
+    "next_action": "Render exact whole3851word saved50; reconcile only after complete chat delivery exists."
   },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_E49_Dana_Brian_BELLY_Public_Chaos_20261021.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -102,11 +102,11 @@
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
   "work_status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
-  "work_resume_checkpoint_latest": "continuity/episodes/E49/S3_E49_Public_Facing_Checkpoint_20261021.json",
-  "work_change_id": "S7NS_E49_PUBLIC_FACING_20261021",
+  "work_resume_checkpoint_latest": "continuity/episodes/E50/S3_E50_All_In_Checkpoint_20261021.json",
+  "work_change_id": "S7NS_E50_ALL_IN_20261021",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
-  "current_workflow_package": "continuity/episodes/E49/S3_E49_Public_Facing_Checkpoint_20261021.json",
+  "current_workflow_package": "continuity/episodes/E50/S3_E50_All_In_Checkpoint_20261021.json",
   "project_e34_attachment_readback_receipt": "continuity/work/PROJECT_E34_ATTACHMENT_INSTALL_READBACK_20261019.json",
   "project_e34_attached_sources_verified": true,
   "project_e34_manifest_sha256": "6656390221fc0c1f59e4af1daaa450ace40c1e927ed6dba08fa3cb182e45a160",
@@ -118,7 +118,7 @@
   "history_unchanged": true,
   "latest_R5_MO_POWAH_author": "continuity/author/S7NS_E35_MO_POWAH_Pure_Dickhead_Joke_20261019.md",
   "latest_R5_MO_POWAH_author_blob_sha1": "d777a9e61550231c7874f3abadb2ff4f08fbfeaa",
-  "work_resume_checkpoint_latest_git_blob_sha1": "a2c83e1bd5c74af892d8fdfe8bf7ed9c3232a805",
+  "work_resume_checkpoint_latest_git_blob_sha1": "4f93033f7e3581b0a74615dfe58b19eb63ab92af",
   "R5_MO_POWAH_status": "Chris intentionally trolls a perfectly competent chef to be a dickhead; chef changes nothing, Chris pretends correction worked. Not a milk/cooking grievance. Future E36–38 ONLY.",
   "latest_direct_author_revision": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "E36_E38_research_revision": "continuity/editorial/E36_E38_Theo_TPP_Fissure_Revision_Research_R1_20261019.md",
@@ -287,14 +287,14 @@
   },
   "default_PLAY_episode_count": 2,
   "next_prospective_episode_batch": [
-    49
+    50
   ],
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
   "current_prepared_episode_count": 1,
-  "current_prepared_drive_id": "1idR-7om7GCuzN2UoOzRfqvsjmlqpKfp_216f0YKy9-A",
-  "current_prepared_full_sha256": "b53561a3ee515efd9476a684db20d58246975e62060230888ec2e3b0495c9e8b",
+  "current_prepared_drive_id": "1Iw9rR3ke_czzG-DSVDeX3Cd-kyZEtPDTMX4WMZD4m5g",
+  "current_prepared_full_sha256": "a4797d2634759a54fe6c19ae0484d7eb81acaa9b15ed00ffed1c8b70aaece377",
   "authorial_fidelity_v1_1": {
     "change_id": "S7NS_AUTHORIAL_FIDELITY_ACTIVE_COMEDY_V11_20261020",
     "selection": "AUTHOR_SELECTED_BY_EXPLICIT_ESKETIT",
@@ -551,7 +551,7 @@
     },
     "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "checkpoint_git_blob_sha1": "eae786839dc07c15da35a2b8ab3be572004e4ff3",
+  "checkpoint_git_blob_sha1": "a2c83e1bd5c74af892d8fdfe8bf7ed9c3232a805",
   "prepared_E39_E40_A_Place_To_Wait_R2_20261021": {
     "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
     "episode_span": [
@@ -975,7 +975,7 @@
     "MiniMe": "CONDITIONAL_ON_DR_EVIL_CHOSEN_ACCEPTANCE;NOT_YET",
     "haircut_evidence": "continuity/episodes/E48/CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "latest_chat_delivered_episode": 48,
+  "latest_chat_delivered_episode": 49,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -1172,7 +1172,7 @@
     ],
     "episode_count": 1,
     "title": "Public Facing",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "status": "DELIVERED_PROVISIONAL",
     "author_acceptance": "NOT_ASSERTED",
     "author_owner": "continuity/author/S7NS_E49_Dana_Brian_BELLY_Public_Chaos_20261021.md",
     "manuscript": "continuity/episodes/E49/S3_E49_Public_Facing_FINAL_20261021.txt",
@@ -1193,9 +1193,10 @@
       "Notion_hash_scope": true
     },
     "authorization": "ExplicitPLAY49only.No50.",
-    "next_action": "Renderexactwhole3780wordsaved49;reconciledeliveryonlyaftercompletechatresponseexists."
+    "next_action": "Complete previous49chat observed; frozenpreparationCP unchanged.",
+    "delivery_reconciliation": "continuity/episodes/E49/CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "latest_direct_author_scope_git_blob_sha1": "0a1fc332f2c5257727bd43b2a77908c93ea6aea3",
+  "latest_direct_author_scope_git_blob_sha1": "a705bf6f6d95064bbfd2862907604a5201e11e25",
   "latest_E49_character_application": {
     "owner": "continuity/author/S7NS_E49_Dana_Brian_BELLY_Public_Chaos_20261021.md",
     "status": "AUTHOR_SELECTED_PORTRAYAL",
@@ -1209,5 +1210,83 @@
     "Charles_Meatwad": "Distinctpreexistingresidents",
     "evidence": "continuity/episodes/E33/S3_Episode_33_Under_New_Management.txt",
     "rule": "OlderfutureentriesandCharlesShake-rolecomparisonnotactualabsence/conflation."
+  },
+  "current_actual_after_E49": {
+    "evidence": "continuity/episodes/E49/CHAT_DELIVERY_RECONCILIATION_20261021.json",
+    "scene_end": {
+      "chronology": "Same day17lateafternoon immediatelyafter48roaddeparture. Stopatfirstculvertaboveharborwithinactualquaysightline; watchscoutactuallyfindsmen,returnsforofficer,walksbackup. Briannotteleported; hearsactualKazenamedreportandseesgiantparty,walksup. No overnight or instantlyreachedoldworks.",
+      "Dana": "Baselineunchanged; normalfirstpersonrange, object-specificcraftjudgment, deliberateChris/Kazeinstigation, independenthumor. No gammaform/newpower. MahnuhoutsidewithDaynuh; borrowedboardonlyturned/replaced,notstolen.",
+      "watch": "Actual48harborofficer/scoutmeetlocally, noarmywaveorfirstSwainorderarrival. Kazeacknowledgesrupture/tollhouse; ChrisconfirmsChristopheridentitythroughbanjo, NOT newexplicitGoldenHeronconfession. OfficerhearsthechallengetoSwain, doesnotreceiveitupchaininstantaneously. Destinationwithheld/mapfolded. Noarrest,combat,injury,officersuperpowerortruepowerparity.",
+      "BELLY": "Charles,Meatwad,MasterShake brieflyoutsidebyBillyactualpermission/physicalmouthrelease, notnewSins/prisonescape. Chrisinitialsoleexterior, thencontinuousinversion→Billysoleexterior/ChrisfullinsidewithFrylock.3voluntarilyreenterbyBillysameactualmouthanddrylivingrouting. Allfourresidentsnowinsideagain. No invulnerabilitynewability/deathornewwardenappointment. Charleslimitedliteracyunchanged; no newinterviews.",
+      "stone": "Meatwadactuallyfindsoneordinarysmallstoneonnativeverge, namesitDeathMountain, resistsShakeownershipclaim; BillyphysicallytakesstoneinwithMeatwad. Ordinarylifelessprop, notsentient/supernaturalcharacter,notSinslootshare orsale.",
+      "Brian": "Baldfrom48, tinyadulthumanorganicseparatebody; founder/DJ/Bustaobsession intact. Accompaniesactualcrewstorespriceinquiry, leavesforownstatusplan, namesTPPinfrontoflocalwatchtoclaimnoninvolvement. Merchants/Sins/BELLY/nativewatch/TPP independentlymockhim. ResistsShakeclaim, standsupforownwork, declinesbackdownnotidentityerased. No signedcontract/payment/recruitment/MiniMeacceptance. ReturnstoactualsubmarinereportsownheardSwaininvitation, twoactualnames/questions;TPPnotautomaticallyknowsprivateBELLY.",
+      "TPP": "CrewmanreturnsandreportsBriandevelopedopportunity; DrEvil/Dutch/CliffordaboardhearBrianactualreport. CompanynameintroducedtocoastalwatchbyBrian;notautomaticallycharged/acquitted/officialwanteddesignation. DrEvilpettyandBrianreluctantrolemodelpinkyretained, no formalmentoracceptance.",
+      "Sins_end": "Kaze,Arthur,Daynuh,Mahnuh,Billyoutsidecontinueinlandtowardoldworksdriver; Chrisinside. Driverstillunreachedandnotguaranteedroutehome. ArthurretainsMaulhilt/mapandDanielpurse; Cliffordgiftunchanged.",
+      "other_threads": "Swain/Darius/Orra48reportandhiddenplatetamperingremainpending, notforgottenorautomaticallysolved. No newnamedfactionteleports. DanielkillerunknownSins; Daniel/Tracy/KK/Maul/Cartman/Jimmy/Timmypermanentdeathsretain. RomanceOFF/Briaroffactive/Teemoexcluded/ZidnotSin."
+    },
+    "resources": {
+      "common_silver": 2111,
+      "Kaze_personal_silver": 0,
+      "Daniel_purse_unopened": 110,
+      "Daniel_custodian": "Arthur",
+      "TPP_old_purse": 54,
+      "TPP_business_receipt": 5,
+      "receipt": "Sameprior5retainednotnewpayment",
+      "new_income": 0,
+      "new_spending": 0,
+      "shots": 0,
+      "lightsaber_activations": 0,
+      "new_deaths": 0,
+      "Maul_hilt": "Arthur,onecontrolprotected",
+      "Clifford_gift": "Clifford,oneunchanged",
+      "E31_chests": "Unopened/uncounted",
+      "ordinary_change": "MeatwadonevergestoneDeathMountain admitted. Canvaspriceinquiryonly, nopurchase/newjob/payout. No rareworkingjunkinvented."
+    }
+  },
+  "prepared_E50_All_In_20261021": {
+    "change_id": "S7NS_E50_ALL_IN_20261021",
+    "episode_span": [
+      50
+    ],
+    "episode_count": 1,
+    "title": "All In",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "author_owner": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
+    "manuscript": "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
+    "manuscript_sha256": "a4797d2634759a54fe6c19ae0484d7eb81acaa9b15ed00ffed1c8b70aaece377",
+    "manuscript_git_blob_sha1": "6775a71254249a00a6f60c250c4f753c2ff93f1a",
+    "checkpoint": "continuity/episodes/E50/S3_E50_All_In_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "4f93033f7e3581b0a74615dfe58b19eb63ab92af",
+    "drive_manuscript_id": "1Iw9rR3ke_czzG-DSVDeX3Cd-kyZEtPDTMX4WMZD4m5g",
+    "drive_checkpoint_id": "1PCU5cSwq2VLkScefBkvPkFQBGnt4zWqACxrmcvMz8ZM",
+    "airtable_episode_record_ids": [
+      "recgzJP3OJ6uXFMrQ"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "four_app_readbacks": {
+      "GitHub_pair_exact": true,
+      "Drive_pair_native_index_exact": true,
+      "Airtable_hash_checkpoint_status": true,
+      "Notion_hash_scope": true
+    },
+    "authorization": "Explicit PLAY50 only; no51.",
+    "next_action": "Render exact whole3851word saved50; reconcile only after complete chat delivery exists."
+  },
+  "latest_E50_character_application": {
+    "owner": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
+    "status": "AUTHOR_SELECTED_PORTRAYAL_AND_STAGED_GAGS",
+    "Brian_scale": "Varied actualtinyhands/feet/climbing/eyeline/weightcomedy, retain adultidentity/body/rolemodel/Busta rules.",
+    "sleep_stage1": "PREPARED50_NOT_CHAT_PLAYED",
+    "sleep_stage2": "PREPARED50_NOT_CHAT_PLAYED",
+    "sleep_stage3": "AUTHOR_SELECTED_FUTURE_UNENACTED_FULL_CHRIS_SHIRT_LASSO_BUTTOCKS_KICK_QUOTE_WAKE_SHORTS_UP_SEQUENCE",
+    "recurrence": "Occasional, no episode/nightquota; actualChrisovernightproximityneeded forstage3.",
+    "Mahnuh_gambling": "PREPARED50_NOT_CHAT_PLAYED; Kaze→Chris→Mahnuh teaching, Daynuhbeerreveal and allin regardlesscards."
+  },
+  "Mahnuh_theft_origin_actual_reconciliation": {
+    "status": "ALREADY_DELIVERED41",
+    "evidence": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
+    "rule": "41replacement origin/repetition/ChrisBillycomplicity/Daynuhdiscoveryactual. Oldfutureoutline isdatedhistoricalsnapshot. BroaderTPPcollisionretainsactual42–49andunperformedconditions; no originreplay.",
+    "new_poker_status": "PREPARED50_ONLY"
   }
 }
