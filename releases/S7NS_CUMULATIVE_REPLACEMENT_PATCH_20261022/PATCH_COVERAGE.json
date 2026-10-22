@@ -1,0 +1,228 @@
+{
+  "release": "S7NS_CUMULATIVE_REPLACEMENT_PATCH_20261022",
+  "scope": "All approved update groups from conversation; raw original decision sources retained, latest contradictions resolved in consolidated scope and relevant complete owners.",
+  "items": [
+    {
+      "id": "SEASON_DIRECTION",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#SEASON_DIRECTION",
+      "integrated_owner_targets": [
+        "topic_sources/Narration_and_Episode_Presentation_Source.txt"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "RESTAURANT",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#RESTAURANT",
+      "integrated_owner_targets": [
+        "canon/characters/kaze_current.md",
+        "character_sources/Kaze_Character_Source.txt",
+        "canon/characters/chris_catfish_billy_current.md",
+        "character_sources/Chris_Character_Source.txt"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "KAZE_CHRIS_ANIMALS",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#KAZE_CHRIS_ANIMALS",
+      "integrated_owner_targets": [
+        "canon/characters/kaze_current.md",
+        "character_sources/Kaze_Character_Source.txt",
+        "canon/characters/chris_catfish_billy_current.md",
+        "canon/characters/dana_mana.md",
+        "character_sources/Mana_Character_Source.txt",
+        "canon/characters/global_originals.md"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "DAYNAH",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#DAYNAH",
+      "integrated_owner_targets": [
+        "canon/characters/dana_mana.md",
+        "character_sources/Dana_Character_Source.txt",
+        "canon/characters/global_originals.md",
+        "canon/characters/Dana_Mana_Restored_Current_Access_20261019.md"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "MAHNAH_THEFT",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#MAHNAH_THEFT",
+      "integrated_owner_targets": [
+        "canon/characters/dana_mana.md",
+        "character_sources/Mana_Character_Source.txt",
+        "canon/characters/Dana_Mana_Restored_Current_Access_20261019.md"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "JESUS",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#JESUS",
+      "integrated_owner_targets": [
+        "character_sources/Billy_Character_Source.txt",
+        "topic_sources/Billy_Jesus_Encounter_Scene_20261009.txt",
+        "topic_sources/Billy_Backstory_Corrections_and_Selected_Encounters_20261009.md"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "BRIAN_BODY_AND_SLEEP",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#BRIAN_BODY_AND_SLEEP",
+      "integrated_owner_targets": [
+        "character_sources/crossover_extended/Brian_Fictional_Conjoined_Character_Source.txt",
+        "character_sources/crossover_extended/Busta_Rhymes_Conjoined_Brian_Fictional_Source.txt",
+        "canon/characters/other_originals.md"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "DREVIL_BRIAN_FINAL_MOTIVE",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#DREVIL_BRIAN_FINAL_MOTIVE",
+      "integrated_owner_targets": [
+        "character_sources/crossover_extended/Brian_Fictional_Conjoined_Character_Source.txt",
+        "character_sources/crossover_extended/Busta_Rhymes_Conjoined_Brian_Fictional_Source.txt"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "TPP_RELATIONSHIPS",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#TPP_RELATIONSHIPS",
+      "integrated_owner_targets": [
+        "character_sources/crossover_extended/Brian_Fictional_Conjoined_Character_Source.txt",
+        "character_sources/crossover_extended/Jack_Marston_RDR1_Adult_1914_Duel_Source.txt",
+        "character_sources/crossover_extended/Clifford_Marston_Visual_20261019.md",
+        "character_sources/season3/Van_der_Linde_Dutch_Source.txt"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "BILLY_CLIFFORD_HOUSEHOLD",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#BILLY_CLIFFORD_HOUSEHOLD",
+      "integrated_owner_targets": [
+        "character_sources/Billy_Character_Source.txt",
+        "character_sources/Chris_Billy_BELLY_Source.txt",
+        "character_sources/crossover_extended/Jack_Marston_RDR1_Adult_1914_Duel_Source.txt",
+        "canon/characters/other_originals.md"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "FOURTH_WALL",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#FOURTH_WALL",
+      "integrated_owner_targets": [
+        "character_sources/Kaze_Character_Source.txt",
+        "character_sources/Billy_Character_Source.txt",
+        "character_sources/Black_Mimir_Narration_Source.txt",
+        "canon/characters/global_originals.md",
+        "topic_sources/Narration_and_Episode_Presentation_Source.txt"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "AUDIO_MASK_VEHICLE",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#AUDIO_MASK_VEHICLE",
+      "integrated_owner_targets": [
+        "canon/characters/chris_catfish_billy_current.md",
+        "character_sources/Chris_Character_Source.txt",
+        "character_sources/Billy_Character_Source.txt",
+        "character_sources/Chris_Billy_BELLY_Source.txt",
+        "character_sources/crossover_extended/R2_D2_Movie_Fidelity_20261009.txt",
+        "character_sources/season3/Lord_Starkiller_Character_Source.txt",
+        "topic_sources/Chris_Subaru_XWing_R2_and_Parallel_Stories_20261009.txt"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "STARKILLER_KEKE_CALLBACKS",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#STARKILLER_KEKE_CALLBACKS",
+      "integrated_owner_targets": [
+        "canon/characters/kaze_current.md",
+        "character_sources/season3/Lord_Starkiller_Character_Source.txt",
+        "character_sources/Black_Mimir_Narration_Source.txt",
+        "canon/characters/Kratos_Mimir_Post_Valhalla_Companions_20261019.md",
+        "canon/characters/K_K_E34_Application_State_20261019.md"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "REQUIRED_CHRIS_CONTRIBUTION",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#REQUIRED_CHRIS_CONTRIBUTION",
+      "integrated_owner_targets": [
+        "canon/characters/chris_catfish_billy_current.md",
+        "character_sources/Chris_Character_Source.txt"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "APPROVED_PLOT_MENU",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#APPROVED_PLOT_MENU",
+      "integrated_owner_targets": [],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "APPROVED_RELATIONSHIP_MENU",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#APPROVED_RELATIONSHIP_MENU",
+      "integrated_owner_targets": [
+        "canon/characters/global_originals.md"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    },
+    {
+      "id": "STATUS_AND_RELEASE",
+      "status": "PASS",
+      "final_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md#STATUS_AND_RELEASE",
+      "integrated_owner_targets": [
+        "canon/characters/Dana_Mana_Restored_Current_Access_20261019.md"
+      ],
+      "future_actual_distinction": "actual delivery50; future scenes unperformed"
+    }
+  ],
+  "approved_relationship_count": 20,
+  "approved_plot_direction_count": 8,
+  "source_decisions": [
+    "continuity/author/S7NS_Post_E50_Ensemble_Comedy_Cast_KK_Revision_20261021.md",
+    "continuity/author/S7NS_Post_E50_Fourth_Wall_Recovery_Animal_Scope_20261021.md",
+    "continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md",
+    "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md",
+    "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
+    "continuity/author/S7NS_E45_DrEvil_Brian_Slow_Burn_MiniMe_R2_20261022.md",
+    "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md",
+    "continuity/author/S7NS_E47_Brian_Busta_Rhymes_Obsession_20261021.md",
+    "continuity/author/S7NS_E49_Dana_Brian_BELLY_Public_Chaos_20261021.md",
+    "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
+    "continuity/author/S7NS_Brian_Slipper_Sleepwalk_DrEvil_Long_Con_20261022.md",
+    "continuity/author/S7NS_Deadpool_Unhinged_Comparison_Humor_20261021.md",
+    "continuity/author/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_20261021.md",
+    "continuity/author/S7NS_Mahnah_Crucifix_Daynah_Trust_Chris_Exchange_20261021.md",
+    "continuity/author/S7NS_TPP_Fan_Love_Dutch_Clifford_20261022.md"
+  ],
+  "outstanding_story_choices": [
+    "Brian exact height proposed only",
+    "R2 current physical location unresolved",
+    "Church scene/major reversal/third sleep anecdote/poker insertion unperformed",
+    "Keke growth details open",
+    "Starkiller inquiry response/outcome open"
+  ],
+  "connected_sources_consulted": [
+    "GitHub",
+    "Airtable",
+    "Notion",
+    "Google Drive"
+  ]
+}
