@@ -61,7 +61,7 @@
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_Deadpool_Unhinged_Comparison_Humor_20261021.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -99,9 +99,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "SELECTED_DEADPOOL_UNHINGED_COMPARISON_COMEDY",
-  "work_resume_checkpoint_latest": "continuity/work/S7NS_Deadpool_Unhinged_Humor_Resume_20261021.json",
-  "work_change_id": "S7NS_DEADPOOL_UNHINGED_COMPARISON_HUMOR_20261021",
+  "work_status": "AUTHOR_SELECTED_APPROVALS_AND_CORRECTIONS_WORK_ONLY",
+  "work_resume_checkpoint_latest": "continuity/work/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_Resume_20261021.json",
+  "work_change_id": "S7NS_POST_E50_APPROVALS_KAZE_STARKILLER_CAST_MOBILITY_20261021",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": "continuity/work/S7NS_Post_E50_Ensemble_Audit_Resume_20261021.json",
@@ -1407,5 +1407,52 @@
     "scope": "More original painfully specific grotesque/obscene comparisons like remembered penis/zipper example; scene-relevant, distinct Wade voice, no repeated zipper gag or joke quota",
     "physical_deployment": "NARRATOR_ONLY_UNCHANGED",
     "prior_TTS_relationship_owner": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md"
+  },
+  "prior_direct_author_scope_before_latest_approvals": "continuity/author/S7NS_Deadpool_Unhinged_Comparison_Humor_20261021.md",
+  "latest_post_E50_approvals_and_corrections": {
+    "change_id": "S7NS_POST_E50_APPROVALS_KAZE_STARKILLER_CAST_MOBILITY_20261021",
+    "owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
+    "status": "AUTHOR_SELECTED_DEVELOPMENT_NOT_ENACTED",
+    "approved_latest_plot_combinations": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "approved_latest_relationship_behaviors": "ALL20; newest specific corrections control",
+    "approved_editorial_assessment": true,
+    "Kaze_Chris": "Kaze uniquely knows how to get under Chris's skin; naturally chaotic personal instigator, preserve Chris competence/counterplay",
+    "Clifford_mobility": "Surgery restores independent walking; NO WHEELCHAIR NEEDED. Previous chair/rest/support dependence is superseded adaptation, not required current function.",
+    "Kaze_opposition": "Categorical refusal of enemy loose-end risk; intends killing enemy affiliates released by anySin, not execution ofSin. Petty cruelty to enemy-owned animals incl deliberate hostage betrayal after compliance. Preserve Frank absolute.",
+    "animal_stances": {
+      "Kaze": "Petty malicious cruelty/hostage betrayal possible",
+      "Chris": "Willing to kill opponent-owned animals, context matters",
+      "Arthur": "Maximum lowhonor, context-dependent willingness",
+      "Mana": "Apex predator actively hunts edible prey smaller and sometimeslarger, raw bones included, noKi/nonverbal unchanged",
+      "others": "No new blanket rule"
+    },
+    "household_exit": "Shake+Meatwad voluntarily depart when/after actual Frylock death. Charles remains. All alive/interior atactual50; no departure/death enacted.",
+    "Starkiller_inquiry": {
+      "seeker": "Kaze SOLO",
+      "trigger": "Credible report of another lightsaber user",
+      "purpose": "Ask affiliation/involvement in KK and/orDaniel death; no initial fight/kill intent",
+      "evidence": "Maul hilt; actual Arthur custody requires handoff",
+      "outcome": "OPEN; depends actual Starkiller response, no preset duel/confession/alliance",
+      "actual_killers": "Maul→KK, TaiLung→Daniel, Starkiller→Cartman/Jimmy/Timmy; no automatic shared knowledge"
+    },
+    "Clifford_trauma": "Unsolicited inappropriate timing/uninterested listeners",
+    "Billy_lore": "Substantial unsolicited lore incl midfight to opponent; combat agency continues, no invented history or second exterior",
+    "story_days_advanced": 0,
+    "episode51_authorized": false
+  },
+  "current_Clifford_mobility_override": {
+    "owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
+    "walk": "INDEPENDENT_NO_WHEELCHAIR_NEEDED",
+    "older_chair_dependencies": "SUPERSEDED_DERIVED_PORTRAYAL",
+    "historical_manuscripts": "PRESERVED"
   }
 }
