@@ -61,7 +61,7 @@
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_20261021.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -99,12 +99,12 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "AUTHOR_SELECTED_APPROVALS_AND_CORRECTIONS_WORK_ONLY",
-  "work_resume_checkpoint_latest": "continuity/work/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_Resume_20261021.json",
-  "work_change_id": "S7NS_POST_E50_APPROVALS_KAZE_STARKILLER_CAST_MOBILITY_20261021",
+  "work_status": "POST_E50_MASK_META_VEHICLE_RECOVERY_AND_AUDIT",
+  "work_resume_checkpoint_latest": "continuity/work/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_Resume_20261021.json",
+  "work_change_id": "S7NS_POST_E50_MASK_META_VEHICLE_CALLBACKS_20261021",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
-  "current_workflow_package": "continuity/work/S7NS_Post_E50_Ensemble_Audit_Resume_20261021.json",
+  "current_workflow_package": "continuity/work/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_Resume_20261021.json",
   "project_e34_attachment_readback_receipt": "continuity/work/PROJECT_E34_ATTACHMENT_INSTALL_READBACK_20261019.json",
   "project_e34_attached_sources_verified": true,
   "project_e34_manifest_sha256": "6656390221fc0c1f59e4af1daaa450ace40c1e927ed6dba08fa3cb182e45a160",
@@ -1431,9 +1431,9 @@
     "animal_stances": {
       "Kaze": "Petty malicious cruelty/hostage betrayal possible",
       "Chris": "Willing to kill opponent-owned animals, context matters",
-      "Arthur": "Maximum lowhonor, context-dependent willingness",
+      "Arthur": "Maximumlowhonor retained; newestrest-of-gangclarification supersedesautomatictrioanimalstance",
       "Mana": "Apex predator actively hunts edible prey smaller and sometimeslarger, raw bones included, noKi/nonverbal unchanged",
-      "others": "No new blanket rule"
+      "others": "DO_NOT_OPERATE_SAME_AS_KAZE_CHRIS_MAHNAH"
     },
     "household_exit": "Shake+Meatwad voluntarily depart when/after actual Frylock death. Charles remains. All alive/interior atactual50; no departure/death enacted.",
     "Starkiller_inquiry": {
@@ -1454,5 +1454,75 @@
     "walk": "INDEPENDENT_NO_WHEELCHAIR_NEEDED",
     "older_chair_dependencies": "SUPERSEDED_DERIVED_PORTRAYAL",
     "historical_manuscripts": "PRESERVED"
+  },
+  "prior_direct_author_scope_before_mask": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
+  "latest_mask_meta_vehicle_application": {
+    "change_id": "S7NS_POST_E50_MASK_META_VEHICLE_CALLBACKS_20261021",
+    "owner": "continuity/author/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_20261021.md",
+    "status": "AUTHOR_SELECTED_CONFIGURATION_AND_FUTURE_BEATS_NO_PLAY",
+    "fourth_wall_owner": "continuity/author/S7NS_Post_E50_Fourth_Wall_Recovery_Animal_Scope_20261021.md",
+    "audit": "continuity/work/S7NS_Post_E50_Buried_Character_Permissions_Audit_20261021.md",
+    "permissions": {
+      "Kaze": "LITERAL",
+      "Chris": "LITERAL_LEARNED_FROM_BILLY",
+      "Billy": "LITERAL",
+      "Mana": "SILENT_CANINE",
+      "Daniel": "HISTORICAL_DEAD",
+      "others": "OWN_SOURCE_ONLY"
+    },
+    "narrator_reciprocity": "Three can hear/address/argue/roast currentWade; notautomaticallyhostile. May ask mysteryanswers; Wade maydiscloseTRUEESTABLISHEDanswerorwithhold. Actualrevelationchangesactor knowledge; newnarrowoverrideofblanketblock, nounresolvedanswerinvented.",
+    "Chris_exterior": {
+      "Billy": "FULLSIZE_INSIDE_WITH_OWN_BANJO",
+      "voice_projector": "CHRIS_PREDATOR_MASK_HEADGEAR",
+      "no_double_banjo": true,
+      "mask_use": "Combat default / wheneverChrischooses",
+      "modes": "Independent thermal/lowlight/magnification/audio; noTeemo orreplacementAI"
+    },
+    "Billy_exterior": "Ownbanjoexterior; existinginteriorChris voiceoutlet retained",
+    "poker_revision": "SELECTED_E50_SAME_SPAN_INSERTION_NOT_DRAFTED_OR_DELIVERED; realization→Waderecognition, orderingopen, usemask",
+    "Kratos_Mimir": "Possiblelaterreachableencounter withSAMEphysicalhead alreadywithKratos; noforced51",
+    "Daynah_Brian_history": "Priorlivinghead onDaynah rearhip; callbackwhenactuallyinformed/reachable, notnewheadbody",
+    "Brian_height": {
+      "status": "PROPOSED_NOT_LOCKED",
+      "barefoot_inches": 30,
+      "barefoot_cm": 76.2
+    },
+    "Subaru": "ONE1998blue/gold22B↔Xwing, ownPokeballdeployrecall, actualE20emptyrecalls, notnewacquisition",
+    "R2_D2": "Independentexistingcompanion; actualwhereaboutsUNRESOLVED, notautomaticballoccupant/ownedproperty",
+    "Starkiller_R2": "LaterTatooineDLCactualR2interceptionprimaryverified; pinnedpreDLCversiondoesnotrememberit. Recognitionoftypeinference, personalrecognitionunverified; theftnotautomatic",
+    "animal_scope": "Kaze/Chris/Mahnah statedbehavior; restoperate differently, Arthur lowhonornotautomaticmembershipintrio",
+    "story_days_advanced": 0,
+    "episode51_authorized": false
+  },
+  "core_character_fourth_wall_permissions": {
+    "Kaze": "LITERAL",
+    "Chris": "LITERAL_LEARNED_FROM_BILLY",
+    "Billy": "LITERAL",
+    "Mana": "SILENT_CANINE",
+    "Daniel": "HISTORICAL_DEAD",
+    "others": "OWN_SOURCE_ONLY"
+  },
+  "current_Chris_Billy_custody_audio_override": {
+    "Billy": "FULLSIZE_INSIDE_WITH_OWN_BANJO",
+    "voice_projector": "CHRIS_PREDATOR_MASK_HEADGEAR",
+    "no_double_banjo": true,
+    "mask_use": "Combat default / wheneverChrischooses",
+    "modes": "Independent thermal/lowlight/magnification/audio; noTeemo orreplacementAI"
+  },
+  "latest_source_behavior_audit": "continuity/work/S7NS_Post_E50_Buried_Character_Permissions_Audit_20261021.md",
+  "pending_same_span_revision_E50": {
+    "owner": "continuity/author/S7NS_Post_E50_Fourth_Wall_Recovery_Animal_Scope_20261021.md",
+    "latest_audio_owner": "continuity/author/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_20261021.md",
+    "status": "AUTHOR_SELECTED_BEAT_NOT_DRAFTED",
+    "purpose": "Poker intrusivebuild/recollection ofexistingawareness, discoverWade narrator",
+    "frozen_original_unchanged": true
+  },
+  "current_original_vehicle_companion_routes": {
+    "owner": "topic_sources/Chris_Subaru_XWing_R2_and_Parallel_Stories_20261009.txt",
+    "R2owner": "character_sources/crossover_extended/R2_D2_Movie_Fidelity_20261009.txt",
+    "fallback": "Attached05_CHRIS_BILLY/08_CROSSOVER_EXTENDED bundles viaMANIFEST byteindex",
+    "vehicle": "Owned/earned,samePokeballstoredvehicleatlastactualrecall",
+    "R2_location": "UNRESOLVED_NO_FABRICATED_STORAGE",
+    "latest_retrieval_owner": "continuity/author/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_20261021.md"
   }
 }
