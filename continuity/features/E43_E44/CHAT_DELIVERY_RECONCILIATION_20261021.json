@@ -1,0 +1,56 @@
+{
+  "schema": "S7NS_CHAT_DELIVERY_RECONCILIATION_V1",
+  "change_id": "S7NS_E43_E44_CHAT_DELIVERY_RECONCILIATION_20261021",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode_span": [
+    43,
+    44
+  ],
+  "title": "Audience Participation",
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": {
+    "path": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_FINAL_20261021.txt",
+    "words": 7643,
+    "episode43_words_with_header": 3777,
+    "episode44_words": 3866,
+    "episode44_start_char": 22828,
+    "episode44_start_utf16": 22828,
+    "sha256": "b5fcfc4b99bd5218986b05394f21204c3a02a8bab669c2266cfab7b164bcc8a7",
+    "git_blob_sha1": "1954a969d2c03cfb56a4916644749602905194cb",
+    "drive_id": "1AhzRbwdoBJ_MEfZirL5oTKOna0S_0GlPjuZp_vg4-LI",
+    "drive_url": "https://docs.google.com/document/d/1AhzRbwdoBJ_MEfZirL5oTKOna0S_0GlPjuZp_vg4-LI/edit?usp=drivesdk",
+    "estimated_minutes_at_150_wpm": 50.95,
+    "audio_generated": false
+  },
+  "checkpoint": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_Checkpoint_20261021.json",
+  "evidence": "Complete43–44 feature visibly rendered twice earlier in this conversation through final gravy question and Kaze laughing. Latest PLAY continues45–46. No byte comparison against rendered chat or author acceptance asserted.",
+  "actual_state_after_play": {
+    "chronology": "Linear from E42 day9menu/firewood frame through day10Arthur/Dutch meeting, night10port return, day11crew visit, day12research delivery, day13second meeting, day15trial delivery. Prior E42 DrEvil question five days before Arthur meeting; no new reset.",
+    "Sins": "Chris sole exterior at final yard, Billy full-size inside sees headlamp and talks banjo. Kaze,Arthur,loyalDaynuh,Mahnuh atshop/yard. KKlivingguest,lastcamp position uncontradicted,not Sin or newarrival. Other BELLY residents unchanged/unshown. RomanceOFF,Briaroffplot,Teemoexcluded,ZidnotSin.",
+    "Daniel": "Dead/buried above stream. Arthur still carries separate unopened110silverpurse. SpearKaze,bottleChris unchanged. Killer unidentified bySins. Dutch now learns actual discovery/burial and offers tolisten forname; no acquiredanswer.",
+    "Tracy": "Dead. Netmender reports burial completed and Dutch visits actual indicated burialground, pays12silverhandling/burialcharge.",
+    "TPP": "DrEvilshipleader;Dutchright hand. Clifford masked atyard; real workinglaserhilt retained and used once tocut ordinary rusted ironlink afterclearance; noForce/universalpenetration. Brian separated organiclegs retained, tailoredcrewclothes acquired, own notebook, organism notcured/forgotten or grantednewpower. Founder/nameownership dispute unresolved; promised consultation,nofiling/righttransfer. Legitimate five-silver firsttrial delivered withtwo crew; no automatic generalterritorymonopoly. Dutch andDrEvil lastaboard/coast route, not transported withyardparty.",
+    "research": "Two actual unnamed existingcrew receivedBillypermission/intake/admission/release, Chriscontrolled existingRDR2 atrealconsole, filmedscreenonly withpermission; interviewedChris forbounded communitymemerecollections andArthur forRDR1. Carryrecording+notes toship. No globalinternet, duplicatecopy, new gameprogress or fullplaythrough asserted. These two nowknowactualBELLY admissionroute/camp, reporttoDrEvilonlyshownmaterial; noautomaticshareofentireinterior/storagesystems/residents.",
+    "knowledge": "Dutch nowknowssourcegamepremise, orderingandJohn/Jackscope. Notallfuturebetrayals/deaths. DrEvil gamefamiliarity learnedaftercrewstudy, sincereVaderbluffnotconfessed. Dutch/Jack hear sourceArthurTB and crew immediatelyclarifiescuredactualArthur; no disease relapse or futurefatalityassertion. Arthur reply confirmswell;CliffordcarriessealedreplynotyetreadbyDutch. Arthur learnsTracy/BrianculpabilityfromDutch. Chris inferssomethingswrongfromBrianslegs/Arthurwarning,notfulltelepathicaccount.",
+    "food": "Initialduck/roast9silverrestitutionpaid by agreedcommonfunds. Merchanttrial5silverpaid. Storageguardedstockallintact. Brian liftscover/dropsscrap/whistlesattemptingsabotage; Chrissees andshutsgate, Billywitnessesandcomments,Daynuhseesaftermath. Mahnuhnotreformed or humanstrategist. Chrisasksgravy atfinal; noreply/receiptassumed. Complimentarybirdrecoveredcovered,notyetreceivedbyDrEvil."
+  },
+  "resources": {
+    "common_start": 2120,
+    "restitution": 9,
+    "common_end": 2111,
+    "Kaze_personal_silver": 0,
+    "Daniel_purse_unopened": 110,
+    "Daniel_custodian": "Arthur",
+    "TPP_shared_purse_start": 66,
+    "Tracy_handling_burial": 12,
+    "TPP_shared_purse_end": 54,
+    "TPP_new_business_receipt": 5,
+    "receipt_custody": "Clifford,separateforcompany;notpersonalshare/profitdistribution",
+    "DrEvil_crew_stores": "Existing finite uncounted, ordinary recorder/notebooks/workclothes/chain used; no infinitefunding orEarthbank",
+    "shots": 0,
+    "lightsaber_activations": 1,
+    "E31_chests": "Both remainunopened/uncounted"
+  },
+  "next_episode": 45
+}
