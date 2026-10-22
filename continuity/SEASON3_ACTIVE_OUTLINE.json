@@ -487,7 +487,7 @@
       "members": [
         "Dr. Evil — resource-backed leader",
         "Dutch — right hand",
-        "Clifford — same adult Jack Marston, surgically supported, actual gifted laser lightsaber retained",
+        "Clifford — same adult Jack, independently walking after surgery; NO wheelchair dependency; actual gifted laser lightsaber retained",
         "Brian — independent miniature adult with organic legs, founder, separate organism unresolved"
       ],
       "identity": "Current four living TPP members listed above. Tracy dead E42, Cartman/Jimmy/Timmy dead E39–40. No current conjoined host or new actual Mini-Me.",
@@ -898,6 +898,28 @@
         "evidence": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
         "rule": "Do not replay origin or treatfullgrowingtheft/ChrisBillycomplicity/Daynuhdiscoveryasstillunwritten. BroaderTPPmerchantcollisionretainsactual42–49progress and unperformed parts; no entirearccompletionasserted."
       }
+    },
+    "KAZE_SOLO_STARKILLER_INQUIRY": {
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
+      "seeker": "Kaze SOLO",
+      "trigger": "Credible report of another lightsaber user",
+      "purpose": "Ask affiliation/involvement in KK and/orDaniel death; no initial fight/kill intent",
+      "evidence": "Maul hilt; actual Arthur custody requires handoff",
+      "outcome": "OPEN; depends actual Starkiller response, no preset duel/confession/alliance",
+      "actual_killers": "Maul→KK, TaiLung→Daniel, Starkiller→Cartman/Jimmy/Timmy; no automatic shared knowledge"
+    },
+    "SHAKE_MEATWAD_VOLUNTARY_EXIT": {
+      "status": "AUTHOR_SELECTED_FUTURE_AFTER_FRYLOCK_DEATH",
+      "owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
+      "cause": "Own independent departure choices after actual Frylock death",
+      "current": "Both alive insideBELLY after50; Charles remains",
+      "required": "Billy egress; distinctmotive/actualcustody, noforcednewcrew"
+    },
+    "POST_E50_APPROVED_PLOT_RELATIONSHIP_MENU": {
+      "status": "AUTHOR_SELECTED_DEVELOPMENT",
+      "owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
+      "scope": "Latest8plotdirections and20relationshipbehaviors approved; latestKaze solo inquiry takes priority, outcomes retain agency/access; no all-in-one episode"
     }
   },
   "crossover_deployment": [
@@ -1041,7 +1063,13 @@
       "source_routes": [
         "character_sources/season3/Lord_Starkiller_Character_Source.txt"
       ],
-      "evidence": "continuity/features/E39_E40/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
+      "evidence": "continuity/features/E39_E40/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
+      "next_selected_intersection": {
+        "owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
+        "status": "AUTHOR_SELECTED_FUTURE",
+        "purpose": "Kaze solo inquiry showingMaulhilt; response/openoutcome",
+        "no_assumed_crime": "No automatic affiliation withMaul/TaiLung"
+      }
     },
     {
       "identity": "Dutch",
@@ -1853,10 +1881,11 @@
     "continuity": "E1–32 prior 'Busta' references reflect characters' mistaken beliefs, no old prose rewrite"
   },
   "Clifford_upcoming_reconstruction": {
-    "status": "COMPLETED_E33",
+    "status": "COMPLETED_E33_AUTHOR_INTENT_CORRECTED",
     "patient": "same adult Jack/Clifford Marston",
-    "outcome": "Walking with actual supports/limitations; chair remains; no replayed surgery or Force powers",
-    "evidence": "continuity/episodes/E33/S3_Episode_33_Checkpoint.json"
+    "outcome": "Restored independent walking, no wheelchair needed; crooked neck/tattoos persist; no new Force powers",
+    "evidence": "continuity/episodes/E33/S3_Episode_33_Checkpoint.json",
+    "current_correction_owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md"
   },
   "last_author_before_current_tracy_reveal": {
     "KAZE_ROMANCE_ENABLED": false,
@@ -1989,10 +2018,11 @@
     "content_limits": "Keep minor cast age-appropriate; adult raunch separate; speaker-specific vocabulary, not generic profanity smearing."
   },
   "current_TPP_Clifford_surgery": {
-    "status": "COMPLETED_E33",
+    "status": "COMPLETED_E33_AUTHOR_INTENT_CORRECTED",
     "patient": "same adult Jack/Clifford Marston",
-    "outcome": "Walking with actual supports/limitations; chair remains; no replayed surgery or Force powers",
-    "evidence": "continuity/episodes/E33/S3_Episode_33_Checkpoint.json"
+    "outcome": "Restored independent walking, no wheelchair needed; crooked neck/tattoos persist; no new Force powers",
+    "evidence": "continuity/episodes/E33/S3_Episode_33_Checkpoint.json",
+    "current_correction_owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md"
   },
   "BELLY_absurd_roommates_authority": "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json",
   "current_comedy_research": "research/Transcript_Based_Catastrophic_Absurdism_After_E32_20261019.md",
@@ -2542,5 +2572,45 @@
     "new_events": [],
     "episode51_authorized": false
   },
-  "latest_post_E50_selected_owner": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md"
+  "latest_post_E50_selected_owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
+  "latest_author_approvals_and_corrections": {
+    "change_id": "S7NS_POST_E50_APPROVALS_KAZE_STARKILLER_CAST_MOBILITY_20261021",
+    "owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
+    "status": "AUTHOR_SELECTED_DEVELOPMENT_NOT_ENACTED",
+    "approved_latest_plot_combinations": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "approved_latest_relationship_behaviors": "ALL20; newest specific corrections control",
+    "approved_editorial_assessment": true,
+    "Kaze_Chris": "Kaze uniquely knows how to get under Chris's skin; naturally chaotic personal instigator, preserve Chris competence/counterplay",
+    "Clifford_mobility": "Surgery restores independent walking; NO WHEELCHAIR NEEDED. Previous chair/rest/support dependence is superseded adaptation, not required current function.",
+    "Kaze_opposition": "Categorical refusal of enemy loose-end risk; intends killing enemy affiliates released by anySin, not execution ofSin. Petty cruelty to enemy-owned animals incl deliberate hostage betrayal after compliance. Preserve Frank absolute.",
+    "animal_stances": {
+      "Kaze": "Petty malicious cruelty/hostage betrayal possible",
+      "Chris": "Willing to kill opponent-owned animals, context matters",
+      "Arthur": "Maximum lowhonor, context-dependent willingness",
+      "Mana": "Apex predator actively hunts edible prey smaller and sometimeslarger, raw bones included, noKi/nonverbal unchanged",
+      "others": "No new blanket rule"
+    },
+    "household_exit": "Shake+Meatwad voluntarily depart when/after actual Frylock death. Charles remains. All alive/interior atactual50; no departure/death enacted.",
+    "Starkiller_inquiry": {
+      "seeker": "Kaze SOLO",
+      "trigger": "Credible report of another lightsaber user",
+      "purpose": "Ask affiliation/involvement in KK and/orDaniel death; no initial fight/kill intent",
+      "evidence": "Maul hilt; actual Arthur custody requires handoff",
+      "outcome": "OPEN; depends actual Starkiller response, no preset duel/confession/alliance",
+      "actual_killers": "Maul→KK, TaiLung→Daniel, Starkiller→Cartman/Jimmy/Timmy; no automatic shared knowledge"
+    },
+    "Clifford_trauma": "Unsolicited inappropriate timing/uninterested listeners",
+    "Billy_lore": "Substantial unsolicited lore incl midfight to opponent; combat agency continues, no invented history or second exterior",
+    "story_days_advanced": 0,
+    "episode51_authorized": false
+  }
 }
