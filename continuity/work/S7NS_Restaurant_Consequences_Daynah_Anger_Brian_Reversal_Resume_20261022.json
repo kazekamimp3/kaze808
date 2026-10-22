@@ -1,0 +1,91 @@
+{
+  "change_id": "S7NS_RESTAURANT_CONSEQUENCES_DAYNAH_ANGER_BRIAN_REVERSAL_20261022",
+  "status": "COMPLETED_SAVED_AND_READBACK_VERIFIED",
+  "author_date": "2026-10-22 Pacific/Honolulu",
+  "author_owner": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md",
+  "prior_completed_checkpoint": "continuity/work/S7NS_Mahnah_Crucifix_Daynah_Trust_Chris_Exchange_Resume_20261021.json",
+  "proofs": {
+    "Drive_native_index_exact": true,
+    "Drive_parent": true,
+    "Notion": true,
+    "Airtable_decision": true,
+    "Airtable_characters": true,
+    "GitHub_exact_files": true,
+    "actual_delivery_unchanged": true
+  },
+  "GitHub_files": [
+    {
+      "path": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md",
+      "blob_sha1": "ba8e975a9f7bd01f4937841480586e18eac45d1c",
+      "exact_text": true
+    },
+    {
+      "path": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+      "blob_sha1": "0b8c5207862093426679efa7015890a0108f929e",
+      "exact_text": true
+    },
+    {
+      "path": "continuity/CURRENT.json",
+      "blob_sha1": "d0874ede42c3e2bbc591222ef49ef33d164436a1",
+      "exact_text": true
+    }
+  ],
+  "drive_document": "1dygTdIx0SflNWplHEXj_rLVylpDH8pafUX8K-2IFxaM",
+  "notion_page": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+  "airtable_decision": "recsYFuVZKXMDYDv7",
+  "airtable_updated_characters": [
+    "recNrlIiUZJeQc8Xu",
+    "recpYEexIYBIwx0GP",
+    "recmiKA4VravujrPS",
+    "rec17KPB18Y1vviGh"
+  ],
+  "airtable_existing_character_new_projection": {
+    "id": "recbLT5UaQU9qqbWC",
+    "name": "Dr. Evil",
+    "note": "Existing120-record roster checked; missing row created for already-active character, not a new cast arrival."
+  },
+  "selected_application": {
+    "change_id": "S7NS_RESTAURANT_CONSEQUENCES_DAYNAH_ANGER_BRIAN_REVERSAL_20261022",
+    "owner": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md",
+    "status": "AUTHOR_SELECTED_FUTURE_CONSEQUENCES_AND_PORTRAYAL_NO_PLAY",
+    "restaurant": {
+      "requirement": "SERIOUS_LASTING_CONSEQUENCES_FOR_BOTH_CHRIS_AND_KAZE",
+      "actual": "Golden Heron massacre E36–38: five staff incl Madam Lin/chef Ren and six adult diners dead; Chris shoots, Kaze deliberately joins and destroys building/ruptures land.",
+      "evidence": "Preserved Chris-signed order book; later local constable custody; district captain has Kaze name/descriptions and real reports. No surviving interior victim or instant Swain knowledge.",
+      "construction": "Prioritize material consequences that alter choices/resources/access/relationships or create credible danger. Warnings, rumor or disposable guard waves alone do not fulfill direction.",
+      "specific_outcomes": "OPEN_NOT_ENACTED",
+      "candidate_routes": "Evidence-driven organized response; refused/conditioned useful access; independently motivated bereaved/affected parties. AI construction options, not selected events.",
+      "forced_remorse": false
+    },
+    "Daynah": {
+      "hurt": "Family deception/exclusion remains emotional cause",
+      "expression": "Hurt comes out through anger; active Hulk/gamma/Kahuna forms make it physically and verbally legible",
+      "register": "Baseline normal speech; all active earned gamma/Kahuna forms third-person Daynah, concrete direct feelings; intelligence/memory/agency retained",
+      "mechanics": "Existing forms/activation retained, no new form or automatic mandatory transformation at every slight"
+    },
+    "DrEvil_Brian": {
+      "arc": "Allow genuine understanding and deep feelings to develop naturally if they arise; Brian finally experiences meaningful recognition and belonging, including actual useful intelligence/knowledge/contributions",
+      "payoff": "Selected major eventual reversal aimed at the nastiest ego/trust/belonging destruction in the project, beyond another routine roast",
+      "craft": "Earn genuine attachment over meaningful scenes; no predetermined scene count, obligatory all-fake retcon, immediate rug-pull or automatic instant repair. Use what has actually developed.",
+      "preserved": "Scotty/daddy dynamic, Brian tiny adult founder/DJ identity and agency, conditional Mini-Me acceptance, petty humor/Busta rest",
+      "mechanism_timing_fate": "OPEN_NOT_ENACTED"
+    },
+    "prior_completed_checkpoint": "continuity/work/S7NS_Mahnah_Crucifix_Daynah_Trust_Chris_Exchange_Resume_20261021.json",
+    "actual_delivered_episode": 50,
+    "episode51_authorized": false,
+    "story_days_advanced": 0
+  },
+  "actual_delivered_episode": 50,
+  "episode51_authorized": false,
+  "story_days_advanced": 0,
+  "original_manuscripts_and_frozen_checkpoints_rewritten": false,
+  "author_acceptance": "NOT_ASSERTED",
+  "project_UI_installation": "NOT_CHANGED_NOT_CLAIMED",
+  "scope_limits": [
+    "Scoped source audit, not full-project reread.",
+    "Restaurant consequence mechanisms remain AI construction proposals; serious follow-through is required, no event enacted.",
+    "Genuine Dr Evil attachment permitted naturally; major reversal selected, exact timing/method/aftermath open.",
+    "Daynah active-form anger strengthens family-hurt expression without new activation/power."
+  ],
+  "next_action": "Resume from this completed WORK checkpoint; continue authorized future development/PLAY when requested. Prior material retained. No episode drafted in this WORK."
+}
