@@ -1,0 +1,104 @@
+{
+  "schema": "S7NS_SINGLE_EPISODE_PREPARATION_V1",
+  "change_id": "S7NS_E48_A_LITTLE_OFF_THE_TOP_20261021",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 48,
+  "title": "A Little Off the Top",
+  "episode_count": 1,
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "Explicit play episode48. One episode; no49.",
+  "author_owner": "continuity/author/S7NS_E47_Brian_Busta_Rhymes_Obsession_20261021.md",
+  "continued_character_direction": "continuity/author/S7NS_E45_DrEvil_Brian_Slow_Burn_MiniMe_R2_20261022.md",
+  "previous_delivery_receipt": "continuity/episodes/E47/CHAT_DELIVERY_RECONCILIATION_20261021.json",
+  "previous_episode": {
+    "episode": 47,
+    "status": "DELIVERED_PROVISIONAL",
+    "manuscript": "continuity/episodes/E47/S3_E47_A_Busta_Rhymes_Situation_FINAL_20261021.txt",
+    "sha256": "ed6438f01b36a6ecfeaad8eb0f7c6e72fb442e96d51822727a5b10c9b1878760",
+    "checkpoint": "continuity/episodes/E47/S3_E47_A_Busta_Rhymes_Situation_Checkpoint_20261021.json"
+  },
+  "manuscript": {
+    "path": "continuity/episodes/E48/S3_E48_A_Little_Off_the_Top_FINAL_20261021.txt",
+    "words": 3850,
+    "chars": 23173,
+    "bytes": 24031,
+    "sha256": "daeb6fed3d3054576e003e54974126431dda527632e3d2f0221830e677541a6b",
+    "git_blob_sha1": "9d01a95e431cb972f1144f9cb66900df1a54ef8b",
+    "drive_id": "1lGC0XPw-BclW8WEe_AR0eFnOI3bQ3QOuvtQaJ817e_0",
+    "drive_url": "https://docs.google.com/document/d/1lGC0XPw-BclW8WEe_AR0eFnOI3bQ3QOuvtQaJ817e_0/edit?usp=drivesdk",
+    "estimated_minutes_at_150_wpm": 25.666666666666668,
+    "audio_generated": false
+  },
+  "checkpoint_path": "continuity/episodes/E48/S3_E48_A_Little_Off_the_Top_Checkpoint_20261021.json",
+  "drive_checkpoint_id": "1vBeD98WphI9wSQznDTOHCUV5-7n4Z7cCnpwJpC1Qhck",
+  "drive_checkpoint_url": "https://docs.google.com/document/d/1vBeD98WphI9wSQznDTOHCUV5-7n4Z7cCnpwJpC1Qhck/edit?usp=drivesdk",
+  "sources": {
+    "four_app_prepass": {
+      "GitHub": true,
+      "Airtable": true,
+      "Notion": true,
+      "GoogleDrive": true
+    },
+    "fresh": "Live CURRENT, DELIVERY_LEDGER, full47 checkpoint, native47 manuscript and active outline fetched. E36–38 and E39–40 checkpoints, full39–40 original manuscript and cast-trim source consulted to reconcile previously enacted permanent deaths and existing Orra/Noxus investigation. Full TPP cast fidelity source and local full Swain/Darius owners reconsulted.",
+    "reused": "Existing complete unchanged Brian/DrEvil/Dutch/Clifford/Kaze/Arthur/Chris/Billy/Dana/Mana owners, sole SceneDecisionDoctrine and authorial fidelity/workflow already read in same conversation.",
+    "historical_correction": "Cartman,Jimmy,Timmy were permanently killed by Starkiller at freightgate in delivered39–40. Starkiller first appearance already enacted; do not replay or revive. Pending outline/source proposals do not supersede delivered manuscript.",
+    "limits": "No claim to new film/music screening, fresh full155kKaze audit or every historic bundle reread. Existing source-bound fictional continuity only; no fresh real-world Busta facts/lyrics. No new source-world named actor."
+  },
+  "protected_author_beats": {
+    "Brian": "Actual shaved head enacted48 after earlier caught pinky/collar and growing admiration45/47. Wants own face and founder identity retained; argumentative tiny adulthuman/DJ remains. Busta associations persist in haircut/reinvention and narration; no actual Busta cameo. No uniform makeover, clone, new MiniMecharacter, cure or host absolution.",
+    "DrEvil": "Petty hair/property/cameraheight/status/thankyou barbs; actively jealous and vain. Brief professional cooperation followed by control of recordedrespect and cruel compliment. Scott/daddy-style status dynamic retained, not literalfather/child. No acceptance or MiniMe naming.",
+    "ensemble": "Chris/Arthur/Billy/Daynuh make explicit independent choices; Kaze provokes notice himself without forced guard massacre. Swain/Darius act on actual report and manpower limits, Orra on physical evidence. Wade remains sole nonembodied narrator; no replacement or in-world intervention."
+  },
+  "candidate_state_after_play": {
+    "chronology": "Same day17 afternoon after47quaymeeting. Coast scenes and courier arrival/investigation at distant Bastion crosscut; Swain order must travel and has not reachedcoast. No dayjump or teleported patrol.",
+    "Sins": "Kaze,Arthur,Chris,Daynuh,Mahnuh see local district request for information naming Kaze andChristopherGraham, published from actual earlier reports. Kaze personally underlines ownname and apparent ruptureclaim and leaves message with adulttallyman. No assault/death/arrest. They refillwaterpublictrough and take surviving inland branch toward upperworks driverlead, notyetarrived. Chrissoleexterior;Billyinsideheadlamp/banjo, independentvoice. No newmembership.",
+    "Noxus": "Districtpacket reachesSwain by survivingcourierroute. Learns two names and bounded witnessclaims, originalsignedbook stilldistrictstation. Darius/Swain approve non-suicidalcaptain and send observer/inquiry/conditionalcontainmentorder using actualofficer. No guarantee of forceparity/instantarrest/globalknowledge. Localharborwatch separatelyhears tallyman and sends one man tolookwhichroadSinsused; no confirmedacquisition/combat yet.",
+    "Bastion": "Orra's surveycord deliberatelycut sinceyesterday; guard admits gapforactualdrylamp/late relief. Unlisted newerironfastening littleplate movedfingerwidth. Structuralwedging and Darius holdingouterbracket permit inspection; oilythumbprint and cordsliver recovered. Contents/actor/factionunknown; noMordekaiser/BlackRose/LeBlanc identification or magicalvoice. Plate restoredasfound, Dariuschangeswatch/ordersseparatetimes and filledsparelamps.",
+    "TPP": "DrEvil,Dutch,Clifford,Brian andactualcrew aboard submarine. Brian borrowscrewscissors/razor/mirror, uneveninitialselfcut followedbyconsentingcrewassist; nowbaldwithsameface/collar/organiclegs/organismseam. Actualresearchrecorder makesinternalcompanyintroduction, failedinterruptionthenusabletake, playbackshowsBrianlookingupbothliterallyandadmiringly. No externalpublication/distribution/rightssettlement/newrevenue. DrEvilhasnotaccepted/namedMiniMe;BrianstillBrian.",
+    "equipment_and_knowledge": "ArthurretainsoneMaulhilt/controlprotectedandmap;Cliffordkeepsoriginalgift. Noactivation/opening/newpower/returnportal. Driverleadpending, notknownroutehome. Dutchprivacycommitmentfrom47notrevoked; no passingnewlocation. DanielkillerstillunknownSins, TaiLungnotautomaticallyblamed. No deathnew48;Daniel/Tracy/KK/Maul and39–40Cartman/Jimmy/Timmy remainpermanentlydead.",
+    "others": "RomanceOFF/Briaroffplot/DanaMana loyal/ZidnotSin/Teemoexcluded. No offscreenFrylockdeath or forcednewStarkillerintro."
+  },
+  "resources": {
+    "common_silver": 2111,
+    "Kaze_personal_silver": 0,
+    "Daniel_purse_unopened": 110,
+    "Daniel_custodian": "Arthur",
+    "TPP_old_purse": 54,
+    "TPP_business_receipt": 5,
+    "receipt": "Samepriorreceiptretainednotpaidagain",
+    "shots": 0,
+    "lightsaber_activations": 0,
+    "new_finite_ordinary_use": "Existingcrewtools borrowedandreturned, ordinaryrazorshave, publictroughwater; existingresearchrecorder uses finiteexistingstorage forinternalreference. No newmachine/infinitefuel/weapontransfer.",
+    "Maul_hilt": "Arthur,one",
+    "Clifford_gift": "Clifford,one",
+    "E31_chests": "Stillunopened/uncounted",
+    "new_deaths": 0,
+    "new_income": 0,
+    "new_spending": 0
+  },
+  "review": {
+    "first_whole_read": "Complete draft reopened untruncated after added earned recording/agency scenes.",
+    "repairs": [
+      "Replace erroneous emperor wording; reduce source-check exposition in notices/evidence; fix afternoon supper reference.",
+      "Catch Orra-to-Darius lamp handoff: Orra actually passes held lamp, not soldier.",
+      "Retain source-supported actual39–40 deaths; do not enact proposed casttrim twice."
+    ],
+    "final_whole_reread": "Complete final3850word exact savedtext reopened untruncated after lastedit. No subsequentprosechanges.",
+    "weakest_span": "Paper/report scenes risk standstill; notice becomes actualKazeprovocation/watchresponse and concreteBastiontamperinspection. Internalvideo creates visualstatusconsequence toearnedhaircut, not newjob/payout.",
+    "checks": {
+      "continuity": "PASS editorial: boundedknowledge/travel, permanentprior deaths, resourcecustody, physicalhandoffs, no forcedpowerparity.",
+      "author_fidelity": "PASS editorial: actualhaircut/heightdoublemeaning withpettiness andBrianretained; no automaticMiniMeacceptance.",
+      "audio": "NOT_RUN;25.67minutes assumed150wpm."
+    }
+  },
+  "future_threads": [
+    "Upperworks driverlead notyetreached.",
+    "Harborwatchobserver and Swainorders notyetconverged.",
+    "UnknownBastionintruder may return torestoredplate; identityunknown.",
+    "Brianbaldnow, admirationresentment andBustaobsessionpersist;conditionalMiniMeacceptancefuture.",
+    "Danielkillerunknown, TPPnameownership/repeatinquiryunresolved."
+  ],
+  "next_episode": 49,
+  "episode49_authorized": false
+}
