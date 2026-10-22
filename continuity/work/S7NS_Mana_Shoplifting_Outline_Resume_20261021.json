@@ -1,0 +1,55 @@
+{
+  "change_id": "S7NS_MANA_SHOPLIFTING_SEASON3_OUTLINE_20261021",
+  "status": "LOCAL_VALIDATION_PASSED_REMOTE_SAVES_PENDING",
+  "latest_user_correction": "Incorporate concept into Season3 outline; do not craft episode; create replacement ZIP",
+  "owner": "continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md",
+  "current_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+  "placement": {
+    "movement": "NOXUS_CONTEST",
+    "episode_number": null,
+    "origin": "Future reachable multi-day market stay; do not backfill completed or frozen manuscripts",
+    "TPP_collision": "After actual Dr Evil leadership and protected first/second meeting sequence; actual supply route connects both groups",
+    "gate": "Resolve any newer live delivery first; E40 delivered/E41 prepared labels are packaging snapshot only"
+  },
+  "protected_requirements": [
+    "Real incident adapted: Dana asleep, missing dog, surprise INSIDE shop",
+    "This adventure CREATES the habit",
+    "Increasingly inventive repeated canine theft; innocent returns",
+    "Chris deliberately enables and conceals",
+    "Billy witnesses through headlamp, speaks via banjo, has own opinion and stake",
+    "Dana recognizes familiar behavior and investigates over time",
+    "Merchant response creates real opportunity for Dr Evil/Dutch",
+    "Causal convergence with Brian founder resentment and independent TPP aims"
+  ],
+  "unselected": [
+    "final outrageous theft",
+    "exact compound payoff/ending",
+    "fixed episode number",
+    "preview duck bargain/cue/job ending as mandatory canon"
+  ],
+  "latest_observed_season_cursor": {
+    "last_delivered": 40,
+    "next": 41,
+    "prepared_status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED"
+  },
+  "preview_disposition": "Preserved archive only, not season delivery or author-accepted manuscript",
+  "authorship": {
+    "real_Chris": "subject choice",
+    "real_Dana": "real store incident",
+    "Kaze": "fictional direction/Rain Man/Dr Evil/Billy scope",
+    "assistant": "causal integration and optional construction"
+  },
+  "completed": [
+    "reused research and original handoff",
+    "integrated full active outline and TPP intersection",
+    "mapped full owners into replacement bundles",
+    "preserved existing manuscripts/episode cards",
+    "verified28 baseline physical hashes and all source slices",
+    "built changed-only replacement and rollback archives"
+  ],
+  "next_action": "Finish any pending connector receipts; then deliver ZIP. Actual Project attachment replacement/readback is separate. Do not restart research or generate another manuscript.",
+  "no_new_PLAY_authorization": true,
+  "validation": "VALIDATION.json",
+  "destination_receipts": "See SAVE_RECEIPTS.json when present; no remote completion inferred from local validation.",
+  "unfinished_step": "Save connected outline/author/checkpoint, finalize ZIP, persist ZIP, deliver link. Do not rerun research or builder."
+}
