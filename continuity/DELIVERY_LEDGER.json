@@ -2,8 +2,8 @@
   "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
-  "current_delivered_episode": 41,
-  "next_episode": 42,
+  "current_delivered_episode": 42,
+  "next_episode": 43,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -364,42 +364,60 @@
       "delivery_reconciliation": "continuity/episodes/E41/Cluck_R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
       "delivery_basis": "Full immediately preceding assistant response visible from title through Don't fucking coach him. Current user requests Episode42. Exact saved GitHub pair and Drive manuscript retrieved; no machine byte comparison against rendered chat asserted. Old His Own Two Feet remains explicitly rejected/nonactive.",
       "originals_preserved": true
+    },
+    {
+      "episode": 42,
+      "title": "A Very Important Call",
+      "manuscript": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_FINAL_20261021.txt",
+      "manuscript_sha256": "5ae27d3461cb6ea15e5d0d4d74aab5d420930646ef7b02bd5aae1d85bd7a0971",
+      "checkpoint": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_Checkpoint_20261021.json",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_reconciliation": "continuity/episodes/E42/CHAT_DELIVERY_RECONCILIATION_20261021.json",
+      "delivery_basis": "Complete Episode42 visibly rendered twice in this conversation, through Billy's I believe we should discuss the menu. User now says PLAY; continue43–44 under current two-episode default. No machine byte comparison against rendered chat or author acceptance claimed.",
+      "originals_preserved": true
     }
   ],
   "prepared_episode": {
-    "change_id": "S7NS_E42_A_VERY_IMPORTANT_CALL_20261021",
-    "episode": 42,
+    "change_id": "S7NS_E43_E44_AUDIENCE_PARTICIPATION_20261021",
     "episode_span": [
-      42
+      43,
+      44
     ],
-    "title": "A Very Important Call",
+    "title": "Audience Participation",
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
-    "manuscript": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_FINAL_20261021.txt",
-    "manuscript_sha256": "5ae27d3461cb6ea15e5d0d4d74aab5d420930646ef7b02bd5aae1d85bd7a0971",
-    "manuscript_git_blob_sha1": "69390d296c65530f20448f056660f7141fb7a9ab",
-    "checkpoint": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_Checkpoint_20261021.json",
-    "checkpoint_git_blob_sha1": "8a3e74c2052aa173d63c5101830b770107fbdea8",
-    "drive_manuscript_id": "1KLp3EwdFp5kgywi1MdAB55N30ucqsfXHyN5Yh8wVWk0",
-    "drive_checkpoint_id": "1JZg2I4BrLFVg6FowiDPLUSyiy1wiuNtM3K_9Uzxpk2A",
-    "airtable_episode_record_id": "recqTrPfq1QzGkz5O",
+    "manuscript": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_FINAL_20261021.txt",
+    "manuscript_sha256": "b5fcfc4b99bd5218986b05394f21204c3a02a8bab669c2266cfab7b164bcc8a7",
+    "manuscript_git_blob_sha1": "1954a969d2c03cfb56a4916644749602905194cb",
+    "checkpoint": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "d795e0507f8ee79901830ba7280d1eafef78f447",
+    "drive_manuscript_id": "1AhzRbwdoBJ_MEfZirL5oTKOna0S_0GlPjuZp_vg4-LI",
+    "drive_checkpoint_id": "1RZ4vAYzUwu2NSbaV0NpK1EzCnI04fKPzdNaGVjPPAOo",
+    "airtable_episode_record_ids": [
+      "recpONsJbx0skpBsc",
+      "recpaBZMK0hWnRDeS"
+    ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
     "author_acceptance": "NOT_ASSERTED",
-    "authorization": "Explicit single PLAY42; no43.",
-    "next_action": "Render exact complete saved42. Reconcile actual delivery on next interaction.",
+    "authorization": "Latest and reiterated barePLAY; currentdefaultnext43–44.",
+    "next_action": "Render exact whole savedfeature now; reconcileactualdeliverynextinteraction.",
     "four_app_readbacks": {
       "GitHub_pair_exact": true,
       "Drive_pair_native_index_exact": true,
-      "Airtable_hash_checkpoint": true,
-      "Notion_hash_checkpoint_and41receipt": true
+      "Airtable_hash_checkpoint_status": true,
+      "Notion_hash_scope": true
     },
-    "boundary": "41 replacement delivered provisionally.42 candidate outcomes only until full actual response."
+    "boundary": "Latest actual42.43–44candidate onlyuntilfullresponse."
   },
   "playback_control": {
     "paused": false,
-    "authorized_episode": 42,
-    "last_delivered_episode": 41,
-    "next_episode": 42,
-    "basis": "Explicit singlePLAY42; no43; no delivery claim before response."
+    "authorized_episode_span": [
+      43,
+      44
+    ],
+    "last_delivered_episode": 42,
+    "next_episode": 43,
+    "basis": "LatestbarePLAYauthorizesnexttwo. No45."
   },
   "latest_scoped_author": "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md",
   "current_author_configuration": {
@@ -411,7 +429,7 @@
     "Deadpool": "Narrator only",
     "Mimir": "Fell and was physically attached to Kratos in E33",
     "Daniel": "Dead and buried in delivered41; Arthur holds unopened separate110silverpurse, Kaze spear, Chris cappedbottle.",
-    "TPP": "Actual through41:Tracy/Brian stillconjoined alive,Dutch,Clifford;72silver.42prepared hostdeath/legs/DrEvil66silver candidateuntilresponse."
+    "TPP": "Actual42:Tracydead,Brianorganiclegs,DrEvilsubmarineleadership,Dutchright hand,Cliffordrealacceptedlightsaber;66silver,unpricedburialchargepending. No43–44candidateoutcomesapplied."
   },
   "original_manuscripts_or_checkpoints_rewritten": false,
   "project_ui_installation_performed": false,
@@ -459,15 +477,16 @@
     "original_r8_source_unchanged": true
   },
   "latest_Arthur_weapon_policy_author": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
-  "delivery_status": "E41_CLUCK_R2_DELIVERED_PROVISIONAL",
+  "delivery_status": "E42_DELIVERED_PROVISIONAL",
   "default_PLAY_episode_count": 2,
   "default_PLAY_format": "TWO_CONSECUTIVE_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_OVERRIDDEN",
   "default_PLAY_format_owner": "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
   "next_prospective_feature": [
-    42
+    43,
+    44
   ],
   "next_episode_authorized": true,
-  "last_reconciliation_id": "S7NS_E41_CLUCK_R2_CHAT_DELIVERY_RECONCILIATION_20261021",
+  "last_reconciliation_id": "S7NS_E42_CHAT_DELIVERY_RECONCILIATION_20261021",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
   "episode_count_unchanged": true,
@@ -662,7 +681,7 @@
       42
     ],
     "title": "A Very Important Call",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "status": "DELIVERED_PROVISIONAL",
     "manuscript": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_FINAL_20261021.txt",
     "manuscript_sha256": "5ae27d3461cb6ea15e5d0d4d74aab5d420930646ef7b02bd5aae1d85bd7a0971",
     "manuscript_git_blob_sha1": "69390d296c65530f20448f056660f7141fb7a9ab",
@@ -673,14 +692,46 @@
     "airtable_episode_record_id": "recqTrPfq1QzGkz5O",
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
     "author_acceptance": "NOT_ASSERTED",
-    "authorization": "Explicit single PLAY42; no43.",
-    "next_action": "Render exact complete saved42. Reconcile actual delivery on next interaction.",
+    "authorization": "Explicit42 already rendered; latest barePLAY nowauthorizes43–44.",
+    "next_action": "Continue43–44; do not replay42 unless requested.",
     "four_app_readbacks": {
       "GitHub_pair_exact": true,
       "Drive_pair_native_index_exact": true,
       "Airtable_hash_checkpoint": true,
       "Notion_hash_checkpoint_and41receipt": true
     },
-    "boundary": "41 replacement delivered provisionally.42 candidate outcomes only until full actual response."
+    "boundary": "Full visible42provisional; originalprepcheckpointunchanged.",
+    "delivery_reconciliation": "continuity/episodes/E42/CHAT_DELIVERY_RECONCILIATION_20261021.json"
+  },
+  "prepared_E43_E44_Audience_Participation_20261021": {
+    "change_id": "S7NS_E43_E44_AUDIENCE_PARTICIPATION_20261021",
+    "episode_span": [
+      43,
+      44
+    ],
+    "title": "Audience Participation",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "manuscript": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_FINAL_20261021.txt",
+    "manuscript_sha256": "b5fcfc4b99bd5218986b05394f21204c3a02a8bab669c2266cfab7b164bcc8a7",
+    "manuscript_git_blob_sha1": "1954a969d2c03cfb56a4916644749602905194cb",
+    "checkpoint": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "d795e0507f8ee79901830ba7280d1eafef78f447",
+    "drive_manuscript_id": "1AhzRbwdoBJ_MEfZirL5oTKOna0S_0GlPjuZp_vg4-LI",
+    "drive_checkpoint_id": "1RZ4vAYzUwu2NSbaV0NpK1EzCnI04fKPzdNaGVjPPAOo",
+    "airtable_episode_record_ids": [
+      "recpONsJbx0skpBsc",
+      "recpaBZMK0hWnRDeS"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Latest and reiterated barePLAY; currentdefaultnext43–44.",
+    "next_action": "Render exact whole savedfeature now; reconcileactualdeliverynextinteraction.",
+    "four_app_readbacks": {
+      "GitHub_pair_exact": true,
+      "Drive_pair_native_index_exact": true,
+      "Airtable_hash_checkpoint_status": true,
+      "Notion_hash_scope": true
+    },
+    "boundary": "Latest actual42.43–44candidate onlyuntilfullresponse."
   }
 }
