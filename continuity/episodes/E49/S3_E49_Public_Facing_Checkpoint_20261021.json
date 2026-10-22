@@ -1,0 +1,117 @@
+{
+  "schema": "S7NS_SINGLE_EPISODE_PREPARATION_V1",
+  "change_id": "S7NS_E49_PUBLIC_FACING_20261021",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 49,
+  "title": "Public Facing",
+  "episode_count": 1,
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "Explicit PLAY49 only. No50.",
+  "author_owner": "continuity/author/S7NS_E49_Dana_Brian_BELLY_Public_Chaos_20261021.md",
+  "direct_author_raw": "play episode 49. \n\ndanas dialogue seems to lack compared to the rest of the sins. \n\nbrian should be shitted on, verbally assaulted, etc. by ALL sides of factions. \n\nalso what happened to charles manson, meatwad, and shake? all three of them can totally ruin the aura and serious vibes that the sins carry, if they were ever to exit billy.",
+  "authorship": {
+    "originated_concepts_and_raw_text": "Kaze",
+    "new_expansion": "Assistant-authored episode prose and original Death Mountain stone scene; no claim these are Kaze's verbatim lines."
+  },
+  "continued_character_direction": [
+    "continuity/author/S7NS_E47_Brian_Busta_Rhymes_Obsession_20261021.md",
+    "continuity/author/S7NS_E45_DrEvil_Brian_Slow_Burn_MiniMe_R2_20261022.md"
+  ],
+  "previous_delivery_receipt": "continuity/episodes/E48/CHAT_DELIVERY_RECONCILIATION_20261021.json",
+  "previous_episode": {
+    "episode": 48,
+    "status": "DELIVERED_PROVISIONAL",
+    "manuscript": "continuity/episodes/E48/S3_E48_A_Little_Off_the_Top_FINAL_20261021.txt",
+    "sha256": "daeb6fed3d3054576e003e54974126431dda527632e3d2f0221830e677541a6b",
+    "checkpoint": "continuity/episodes/E48/S3_E48_A_Little_Off_the_Top_Checkpoint_20261021.json"
+  },
+  "manuscript": {
+    "path": "continuity/episodes/E49/S3_E49_Public_Facing_FINAL_20261021.txt",
+    "words": 3780,
+    "chars": 23452,
+    "bytes": 24662,
+    "sha256": "b53561a3ee515efd9476a684db20d58246975e62060230888ec2e3b0495c9e8b",
+    "git_blob_sha1": "384cccbedb635d12dfb9f11f09a728b3e35edf27",
+    "drive_id": "1idR-7om7GCuzN2UoOzRfqvsjmlqpKfp_216f0YKy9-A",
+    "drive_url": "https://docs.google.com/document/d/1idR-7om7GCuzN2UoOzRfqvsjmlqpKfp_216f0YKy9-A/edit?usp=drivesdk",
+    "estimated_minutes_at_150_wpm": 25.2,
+    "audio_generated": false
+  },
+  "checkpoint_path": "continuity/episodes/E49/S3_E49_Public_Facing_Checkpoint_20261021.json",
+  "drive_checkpoint_id": "1ZQlbf_pudi_FterChbVnEuYjdRpwbZn9EPt8NnkN300",
+  "drive_checkpoint_url": "https://docs.google.com/document/d/1ZQlbf_pudi_FterChbVnEuYjdRpwbZn9EPt8NnkN300/edit?usp=drivesdk",
+  "sources": {
+    "four_app_prepass": {
+      "GitHub": true,
+      "Airtable": true,
+      "Notion": true,
+      "GoogleDrive": true
+    },
+    "fresh": "Live CURRENT/LEDGER,matching48CP, native48manuscript and latestwhole48chat; activeoutline; full currentDana speech source; fullCharles andMeatwad individual owners, completehousehold23options, completeEnsembleInstigationResearch, fullsharedBELLYsource in complementary chunks, dedicatedCharlesstation/narratorowners and currentpost34BELLYapplication. Original33 actualShake/Frylock ingress passages and39–40 historicaldeath evidence contrasted with stalefuturelabels. Existing46driverpassage checked.",
+    "reused": "Unchanged completeBrian/DrEvil/Dutch/Clifford/Kaze/Arthur/Chris/Billy owners alreadyreadinsameconversation; no fresh full155kKaze or entire212kdeepBELLY audit claimed.",
+    "material_provisions": {
+      "Dana": "Dana_Character_Source.txt baseline speaks at length with practical irreverence/voluntary instigation; only activeforms requirethirdperson. Openingplank/hinges andlaterextendedBrian/Shakeattack enactedwithoutformchange.",
+      "egress": "Chris_Billy_BELLY_Source.txt and canon/characters/chris_catfish_billy_current.md Egress: Billypermission controls actualexit. Onecontinuousswitch bringsBillyoutside,Chrisfullinside; explicitmouthrelease/reintake3guests. Noautomaticprisonaccess.",
+      "Shake_Frylock": "Originaldelivered33 actualproducecart/Meatwadrecognition/permission/mouthintake. LaterpreparedfeatureCPcorroborates originalendstate butfeatureitselfnotclaimedchatdelivered. Localcanon/household/BELLY_ATHF_Dysfunction_After_E34_20261019.md resolvesstaleglobalfuturelabels.",
+      "Charles_voice": "FullCharlesowner plus completeEnsembleInstigationResearch1993Sawyer textualobservations, not freshvideo/audio. Originalcounterquestions,concretereframingandpettyattentionmotive; no guaranteedmindcontrol or biographyfactsadded.",
+      "access": "Charlesownstation; ChrisMonitor2 liveaudio/video, banjoactualoutwardroute. Frylockprivatewords explicitlyreachChris, notroad. Observerknowledgeonlyactualheard/seen."
+    },
+    "retrieval_limits": "Two staleGitHubpaths returned404 (localpost34BELLYapplicationand guessed33CP); usedattachedfullpost34application and actualoriginal33manuscriptingress instead. No missingdependencyblocksretainedscene. No web/movie/audio newlyreviewed."
+  },
+  "candidate_state_after_play": {
+    "chronology": "Same day17lateafternoon immediatelyafter48roaddeparture. Stopatfirstculvertaboveharborwithinactualquaysightline; watchscoutactuallyfindsmen,returnsforofficer,walksbackup. Briannotteleported; hearsactualKazenamedreportandseesgiantparty,walksup. No overnight or instantlyreachedoldworks.",
+    "Dana": "Baselineunchanged; normalfirstpersonrange, object-specificcraftjudgment, deliberateChris/Kazeinstigation, independenthumor. No gammaform/newpower. MahnuhoutsidewithDaynuh; borrowedboardonlyturned/replaced,notstolen.",
+    "watch": "Actual48harborofficer/scoutmeetlocally, noarmywaveorfirstSwainorderarrival. Kazeacknowledgesrupture/tollhouse; ChrisconfirmsChristopheridentitythroughbanjo, NOT newexplicitGoldenHeronconfession. OfficerhearsthechallengetoSwain, doesnotreceiveitupchaininstantaneously. Destinationwithheld/mapfolded. Noarrest,combat,injury,officersuperpowerortruepowerparity.",
+    "BELLY": "Charles,Meatwad,MasterShake brieflyoutsidebyBillyactualpermission/physicalmouthrelease, notnewSins/prisonescape. Chrisinitialsoleexterior, thencontinuousinversion→Billysoleexterior/ChrisfullinsidewithFrylock.3voluntarilyreenterbyBillysameactualmouthanddrylivingrouting. Allfourresidentsnowinsideagain. No invulnerabilitynewability/deathornewwardenappointment. Charleslimitedliteracyunchanged; no newinterviews.",
+    "stone": "Meatwadactuallyfindsoneordinarysmallstoneonnativeverge, namesitDeathMountain, resistsShakeownershipclaim; BillyphysicallytakesstoneinwithMeatwad. Ordinarylifelessprop, notsentient/supernaturalcharacter,notSinslootshare orsale.",
+    "Brian": "Baldfrom48, tinyadulthumanorganicseparatebody; founder/DJ/Bustaobsession intact. Accompaniesactualcrewstorespriceinquiry, leavesforownstatusplan, namesTPPinfrontoflocalwatchtoclaimnoninvolvement. Merchants/Sins/BELLY/nativewatch/TPP independentlymockhim. ResistsShakeclaim, standsupforownwork, declinesbackdownnotidentityerased. No signedcontract/payment/recruitment/MiniMeacceptance. ReturnstoactualsubmarinereportsownheardSwaininvitation, twoactualnames/questions;TPPnotautomaticallyknowsprivateBELLY.",
+    "TPP": "CrewmanreturnsandreportsBriandevelopedopportunity; DrEvil/Dutch/CliffordaboardhearBrianactualreport. CompanynameintroducedtocoastalwatchbyBrian;notautomaticallycharged/acquitted/officialwanteddesignation. DrEvilpettyandBrianreluctantrolemodelpinkyretained, no formalmentoracceptance.",
+    "Sins_end": "Kaze,Arthur,Daynuh,Mahnuh,Billyoutsidecontinueinlandtowardoldworksdriver; Chrisinside. Driverstillunreachedandnotguaranteedroutehome. ArthurretainsMaulhilt/mapandDanielpurse; Cliffordgiftunchanged.",
+    "other_threads": "Swain/Darius/Orra48reportandhiddenplatetamperingremainpending, notforgottenorautomaticallysolved. No newnamedfactionteleports. DanielkillerunknownSins; Daniel/Tracy/KK/Maul/Cartman/Jimmy/Timmypermanentdeathsretain. RomanceOFF/Briaroffactive/Teemoexcluded/ZidnotSin."
+  },
+  "resources": {
+    "common_silver": 2111,
+    "Kaze_personal_silver": 0,
+    "Daniel_purse_unopened": 110,
+    "Daniel_custodian": "Arthur",
+    "TPP_old_purse": 54,
+    "TPP_business_receipt": 5,
+    "receipt": "Sameprior5retainednotnewpayment",
+    "new_income": 0,
+    "new_spending": 0,
+    "shots": 0,
+    "lightsaber_activations": 0,
+    "new_deaths": 0,
+    "Maul_hilt": "Arthur,onecontrolprotected",
+    "Clifford_gift": "Clifford,oneunchanged",
+    "E31_chests": "Unopened/uncounted",
+    "ordinary_change": "MeatwadonevergestoneDeathMountain admitted. Canvaspriceinquiryonly, nopurchase/newjob/payout. No rareworkingjunkinvented."
+  },
+  "review": {
+    "first_whole_read": "Complete3775wordexpanded draft reopeneduntruncated.",
+    "repairs": [
+      "Attribute officerline I'mthemanasking explicitlyratherthanambiguousBillyspeaker.",
+      "Fix borrowpencil vsnonsentpencil, staleafterbendobserverreferences, explicitDeathMountaincustodyonreentry.",
+      "Avoid unsupportedfirstShake/Kazemeeting bymakingcharge/electionquestion; clarifyFrylock's Shakepronoun.",
+      "KeepBrianindependentfounderargument/actualreport andMeatwadselfchosenstonecommercialrefusal; no automaticglobalmockchorus."
+    ],
+    "final_whole_reread": "Complete3780wordfinal reopeneduntruncated afterlastedit. No subsequentprosechanges.",
+    "weakest_span": "Extendedwatchquestioningriskshearingepisode; keepbriefboundedaccount/actualKazeinvitation, developseparatecommercialridiculeandMeatwadstoneinitiative ratherthanmorequestions. Drivertravelremainsreachableuncompletedobjective.",
+    "checks": {
+      "mechanics": "PASS editorial: oneexterior,guestpermission/physicalroute,reentry/stonecustody,privacyandactualchannels.",
+      "continuity": "PASS editorial: actual48scout, localtime/lineofsight,staleShakefuturecorrectedwithoutreplaying33, resourcesandpermanentdeaths.",
+      "author_fidelity": "PASS editorialjudgment: Danaextendedbaselinevoice, multisideBrianattackswithagency, threeactualroommatesoutsidepuncturemenace, conditionalMiniMearcnotconsumed.",
+      "audio": "NOT_RUN;25.2minutesestimatedatassumed150wpm."
+    }
+  },
+  "future_threads": [
+    "Originaldriverupperworksstillactualtravelpending;priorMaulinformationquerynotanswered.",
+    "Localwatchhasactualadmissions/TPPname, reportmusttravel; broaderNoxusresponseindependent.",
+    "HiddenplatetamperingBastionongoingunknownactor.",
+    "RecurringBrianridiculeacrossreachablefactions,DanafullsocialrangeandBELLYresidentsremainactiveongoingdirection. Noforcedallcastquota.",
+    "StoneDeathMountainordinaryMeatwadpossessioninside, notneedmandatorycallback."
+  ],
+  "next_episode": 50,
+  "episode50_authorized": false
+}
