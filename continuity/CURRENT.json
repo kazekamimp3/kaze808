@@ -669,5 +669,15 @@
     },
     "next_action": "On explicit PLAY EPISODE41, verify matching complete pair via four apps and render exact full saved text. No42 continuation.",
     "boundary": "Latest actual delivered40; all41 deaths/body changes/custody/leadership and resources remain prepared candidate, not occurred. Do not alter manuscript wording during playback."
+  },
+  "mana_shoplifting_outline_work": {
+    "change_id": "S7NS_MANA_SHOPLIFTING_SEASON3_OUTLINE_20261021",
+    "owner": "continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md",
+    "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+    "checkpoint": "continuity/work/S7NS_Mana_Shoplifting_Outline_Resume_20261021.json",
+    "status": "AUTHOR_SELECTED_FUTURE_OUTLINE_INTEGRATED_NO_PLAY",
+    "standalone_preview": "ARCHIVE_ONLY_NOT_SEASON_DELIVERY",
+    "story_days_advanced": 0,
+    "project_ui_installation": "PENDING_READBACK"
   }
 }
