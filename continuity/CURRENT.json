@@ -61,7 +61,7 @@
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_TPP_Fan_Love_Dutch_Clifford_20261022.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -99,12 +99,12 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "POST_E50_RESTAURANT_CONSEQUENCES_DAYNAH_ANGER_BRIAN_REVERSAL_SAVED_WORK",
-  "work_resume_checkpoint_latest": "continuity/work/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_Resume_20261022.json",
-  "work_change_id": "S7NS_RESTAURANT_CONSEQUENCES_DAYNAH_ANGER_BRIAN_REVERSAL_20261022",
+  "work_status": "POST_E50_TPP_PERSISTENT_FAN_LOVE_DUTCH_ENABLEMENT_SAVED_WORK",
+  "work_resume_checkpoint_latest": "continuity/work/S7NS_TPP_Fan_Love_Resume_20261022.json",
+  "work_change_id": "S7NS_DR_EVIL_CLIFFORD_FAN_LOVE_DUTCH_ENABLEMENT_20261022",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
-  "current_workflow_package": "continuity/work/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_Resume_20261022.json",
+  "current_workflow_package": "continuity/work/S7NS_TPP_Fan_Love_Resume_20261022.json",
   "project_e34_attachment_readback_receipt": "continuity/work/PROJECT_E34_ATTACHMENT_INSTALL_READBACK_20261019.json",
   "project_e34_attached_sources_verified": true,
   "project_e34_manifest_sha256": "6656390221fc0c1f59e4af1daaa450ace40c1e927ed6dba08fa3cb182e45a160",
@@ -1374,7 +1374,7 @@
     "actual": "Dead and buried at E50; no sprout yet",
     "detailed_construction": "PROPOSED"
   },
-  "work_receipt": "continuity/work/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_Resume_20261022.json",
+  "work_receipt": "continuity/work/S7NS_TPP_Fan_Love_Resume_20261022.json",
   "current_prepared_episode_count_note": "E50 is delivered. No new prepared episode in post50 WORK; historical prepared records retained.",
   "latest_relationship_TTS_application": {
     "change_id": "S7NS_POST_E50_TTS_FACTION_BEEF_BRIAN_REBALANCE_20261021",
@@ -1619,6 +1619,23 @@
       "mechanism_timing_fate": "OPEN_NOT_ENACTED"
     },
     "prior_completed_checkpoint": "continuity/work/S7NS_Mahnah_Crucifix_Daynah_Trust_Chris_Exchange_Resume_20261021.json",
+    "actual_delivered_episode": 50,
+    "episode51_authorized": false,
+    "story_days_advanced": 0
+  },
+  "prior_direct_author_scope_before_TPP_fanlove": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md",
+  "latest_TPP_fanlove_application": {
+    "change_id": "S7NS_DR_EVIL_CLIFFORD_FAN_LOVE_DUTCH_ENABLEMENT_20261022",
+    "owner": "continuity/author/S7NS_TPP_Fan_Love_Dutch_Clifford_20261022.md",
+    "status": "AUTHOR_SELECTED_RECURRING_PORTRAYAL_NO_PLAY",
+    "DrEvil": "Pseudo fan love toward Clifford persists and generally intensifies over time; researched RDR references and relatable/cool boss performance increasingly awkward.",
+    "origin": "Existing sincere Vader mistake, real completed lightsaber gift, unmasking, concealed mistake and later crew game/meme research are retained history. Dr Evil now knows Clifford/Jack; do not replay initial mistake or reset his knowledge.",
+    "Dutch": "Existing right-hand man actively enables/validates the boss's behavior while privately cringing; diplomatic approval and face-saving reinforcement encourage further attempts. Not merely a silent bystander.",
+    "Clifford": "Privately suffers the cringe with Dutch, outwardly maintains courtesy/composure and plays along. Adult independent walking Jack retains agency, competence, grievances and unsolicited trauma.",
+    "mechanism": "Boss seeks recognition/rapport → Dutch enables and Clifford holds composure → boss reads encouragement → worse attempt. Flexible relationship pattern, no fixed quota or identical repeated line.",
+    "pacing": "Worsens over time without requiring every day/scene to escalate. Keep actual operations, useful decisions and distinct voices moving; no meme catchphrase saturation.",
+    "public_private": "Both hold it down publicly instead of exposing the bluff/calling out the boss. Private glances and constrained responses can convey embarrassment through actual scene access.",
+    "preserved_Brian_arc": "Separate latest genuine-attachment/belonging development and major eventual reversal remain active, per continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md",
     "actual_delivered_episode": 50,
     "episode51_authorized": false,
     "story_days_advanced": 0
