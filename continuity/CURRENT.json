@@ -1,19 +1,19 @@
 {
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "2026-10-22:45R2actualdeliveryreconciled; single46reviewedprepared",
+  "as_of": "2026-10-21 Pacific/Honolulu:46R2deliveryreconciled,47reviewedprepared",
   "last_delivered_episode": 46,
   "next_episode": 47,
-  "delivery_status": "E45_R2_DELIVERED_PROVISIONAL_WITH_PRIOR_E46_RETAINED",
+  "delivery_status": "E46_R2_DELIVERED_PROVISIONAL",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json",
-  "manuscript": "continuity/episodes/E45/S3_E45_Founding_Father_R2_FINAL_20261022.txt",
-  "manuscript_git_blob_sha1": "597d29d99a57bbc2a4be168135729ef91c527847",
-  "manuscript_sha256": "5d70134b9ad35c73fa1b8d4a023c621a77f79c71f0e819727f87f3af5c62d05a",
-  "checkpoint": "continuity/episodes/E45/S3_E45_Founding_Father_R2_Checkpoint_20261022.json",
-  "state_owner": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json",
-  "state_rule": "Mostrecentchat45R2actual; original46Sinsoutcomesretained. Current46R2preparedonlyuntilfullresponse. No47+authorized, acceptanceNOTASSERTED.",
+  "delivery_reconciliation": "continuity/episodes/E46/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
+  "manuscript": "continuity/episodes/E46/S3_E46_The_Upper_Road_R2_FINAL_20261022.txt",
+  "manuscript_git_blob_sha1": "7490a7704d9aa4967150f432ea2be452fe711671",
+  "manuscript_sha256": "0b68dcc3ab7d3b453961fac0852d3e7f24494a8b0a05f0d2ae4c4daab770a516",
+  "checkpoint": "continuity/episodes/E46/S3_E46_The_Upper_Road_R2_Checkpoint_20261022.json",
+  "state_owner": "continuity/episodes/E46/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
+  "state_rule": "Complete46R2visible;45R2TPPretained.47preparedonlyuntilfullresponse. Noacceptanceasserted; no48authorized.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -24,30 +24,30 @@
   },
   "continuation_authorization": {
     "episode_span": [
-      46
+      47
     ],
-    "status": "SINGLE_EPISODE46_PLAY_AUTHORIZED",
-    "episode47_authorized": false
+    "status": "SINGLE_EPISODE47_PLAY_AUTHORIZED",
+    "episode48_authorized": false
   },
   "prepared_episode": {
-    "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
+    "change_id": "S7NS_E47_A_BUSTA_RHYMES_SITUATION_20261021",
     "episode_span": [
-      46
+      47
     ],
     "episode_count": 1,
-    "same_span_revision": true,
-    "title": "The Upper Road",
+    "title": "A Busta Rhymes Situation",
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
     "author_acceptance": "NOT_ASSERTED",
-    "manuscript": "continuity/episodes/E46/S3_E46_The_Upper_Road_R2_FINAL_20261022.txt",
-    "manuscript_sha256": "0b68dcc3ab7d3b453961fac0852d3e7f24494a8b0a05f0d2ae4c4daab770a516",
-    "manuscript_git_blob_sha1": "7490a7704d9aa4967150f432ea2be452fe711671",
-    "checkpoint": "continuity/episodes/E46/S3_E46_The_Upper_Road_R2_Checkpoint_20261022.json",
-    "checkpoint_git_blob_sha1": "bea039f0fc806f71a15a8d23afe71da7c749782c",
-    "drive_manuscript_id": "17EnpdlbeEPyBGjHx5pj28fQxycm5KbYGiFe4P3qkMeI",
-    "drive_checkpoint_id": "1qzyUgiv2oAbz6X79KZg-PE9BNXVlob4yGZhdPOV4BcM",
+    "author_owner": "continuity/author/S7NS_E47_Brian_Busta_Rhymes_Obsession_20261021.md",
+    "manuscript": "continuity/episodes/E47/S3_E47_A_Busta_Rhymes_Situation_FINAL_20261021.txt",
+    "manuscript_sha256": "ed6438f01b36a6ecfeaad8eb0f7c6e72fb442e96d51822727a5b10c9b1878760",
+    "manuscript_git_blob_sha1": "612e0219bc8017d0f1c11833cb425724af891f03",
+    "checkpoint": "continuity/episodes/E47/S3_E47_A_Busta_Rhymes_Situation_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "36793ce907a0358b3229af408b19d86d1b55e612",
+    "drive_manuscript_id": "18NU9NFL7gIYENgvAoUXZQ4ZIx7cPKzYz-pedRRi2F1I",
+    "drive_checkpoint_id": "12LVkF2xaeyy7n1Og_HJ8wqpeQP0xOnvnPjCogz2qDK4",
     "airtable_episode_record_ids": [
-      "recptj157R49poLo3"
+      "recgvNR03U1v7Y9R6"
     ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
     "four_app_readbacks": {
@@ -56,14 +56,14 @@
       "Airtable_hash_checkpoint_status": true,
       "Notion_hash_scope": true
     },
-    "authorization": "Explicit46only; no47+. Single46 recutofalreadydeliveredKK/Maul/Sinsthread, notnewdeaths.",
-    "next_action": "Render exact saved complete46. Reconcile thisversion after fullresponse exists."
+    "authorization": "DirectPLAY47 only; no48.",
+    "next_action": "Render exact complete saved3770word47; reconcile afterwholechatresponse exists."
   },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_E45_DrEvil_Brian_Slow_Burn_MiniMe_R2_20261022.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_E47_Brian_Busta_Rhymes_Obsession_20261021.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -101,9 +101,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "E46_R2_COMPLETE_REVIEWED_SAVED_READBACK_VERIFIED_READY_FOR_EXACT_PLAY",
-  "work_resume_checkpoint_latest": "continuity/episodes/E46/S3_E46_The_Upper_Road_R2_Checkpoint_20261022.json",
-  "work_change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
+  "work_status": "E47_COMPLETE_REVIEWED_SAVED_READBACK_VERIFIED_READY_FOR_EXACT_PLAY",
+  "work_resume_checkpoint_latest": "continuity/episodes/E47/S3_E47_A_Busta_Rhymes_Situation_Checkpoint_20261021.json",
+  "work_change_id": "S7NS_E47_A_BUSTA_RHYMES_SITUATION_20261021",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": {
@@ -132,7 +132,7 @@
   "history_unchanged": true,
   "latest_R5_MO_POWAH_author": "continuity/author/S7NS_E35_MO_POWAH_Pure_Dickhead_Joke_20261019.md",
   "latest_R5_MO_POWAH_author_blob_sha1": "d777a9e61550231c7874f3abadb2ff4f08fbfeaa",
-  "work_resume_checkpoint_latest_git_blob_sha1": "bea039f0fc806f71a15a8d23afe71da7c749782c",
+  "work_resume_checkpoint_latest_git_blob_sha1": "36793ce907a0358b3229af408b19d86d1b55e612",
   "R5_MO_POWAH_status": "Chris intentionally trolls a perfectly competent chef to be a dickhead; chef changes nothing, Chris pretends correction worked. Not a milk/cooking grievance. Future E36–38 ONLY.",
   "latest_direct_author_revision": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "E36_E38_research_revision": "continuity/editorial/E36_E38_Theo_TPP_Fissure_Revision_Research_R1_20261019.md",
@@ -301,14 +301,14 @@
   },
   "default_PLAY_episode_count": 2,
   "next_prospective_episode_batch": [
-    46
+    47
   ],
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
   "current_prepared_episode_count": 1,
-  "current_prepared_drive_id": "17EnpdlbeEPyBGjHx5pj28fQxycm5KbYGiFe4P3qkMeI",
-  "current_prepared_full_sha256": "0b68dcc3ab7d3b453961fac0852d3e7f24494a8b0a05f0d2ae4c4daab770a516",
+  "current_prepared_drive_id": "18NU9NFL7gIYENgvAoUXZQ4ZIx7cPKzYz-pedRRi2F1I",
+  "current_prepared_full_sha256": "ed6438f01b36a6ecfeaad8eb0f7c6e72fb442e96d51822727a5b10c9b1878760",
   "authorial_fidelity_v1_1": {
     "change_id": "S7NS_AUTHORIAL_FIDELITY_ACTIVE_COMEDY_V11_20261020",
     "selection": "AUTHOR_SELECTED_BY_EXPLICIT_ESKETIT",
@@ -565,7 +565,7 @@
     },
     "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "checkpoint_git_blob_sha1": "ecaae9487a08758d366f57c7ca8aae12909e52c7",
+  "checkpoint_git_blob_sha1": "bea039f0fc806f71a15a8d23afe71da7c749782c",
   "prepared_E39_E40_A_Place_To_Wait_R2_20261021": {
     "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
     "episode_span": [
@@ -951,16 +951,18 @@
     "delivery_reconciliation": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
   "current_actual_after_E46": {
-    "evidence": "continuity/features/E45_E46/CHAT_DELIVERY_RECONCILIATION_20261022.json",
+    "evidence": "continuity/episodes/E46/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
     "scene_end": {
-      "chronology": "Opens day15 same poultry gate; explicit rewind morning15 K.K. chooses independent upstream visit. Maul kills K.K. at kiln afternoon15; remains nearby due injured leg and investigative watch. Worker runs actual route, Kaze actual ballistic travel/local tracking/visual target, kills Maul before others arrive. Same15evening burial. TPP intercut explicitly reaches port morning16; then explicit return previous15evening Sins frame. Latest globally shown day16 morning, final Sins frame15night.",
-      "Sins": "Chris exterior throughout; Billy full-size inside, headlamp and banjo only. Kaze,Arthur,Daynuh,Mahnuh with him; no new membership. K.K. independent living guest until permanent death, no posthumous admission. RomanceOFF/Briaroffplot/Teemoexcluded/ZidnotSin unchanged.",
+      "chronology": "Explicitopening beforeBrianreturncoast/DrEvilbreakfast orients day15morning→day15night Sins thread. GloballatestTPPday16fromdelivered45R2notrolledback. No secondbirth/death/receipt or newlyadvancedday.",
       "KK": "Permanently killed by Maul after coercive recruitment/withheld stick and actual fought encounter. Root bracing, ironwood hardening, extra/elongated hands, hollows, splinters/canopy, compression, regeneration/distributed vital tissue materially used. Sustained industrial furnace confinement destroys essential whole organism after repeated escape attempts; not a generic single-blade weak spot/fire-instadeath. No viable seed/clone/core escapes. Cooled remains recovered and buried near own purchased pear; ordinary stick laid across ground.",
       "Maul": "First actual appearance this branch from pre-Ahsoka-duel CloneWarsS7. Forcesavescart for local map/information, recruits KK for independent return/Sidious agenda, coerces and kills. Takes serious wounds/metalleg damage; waits in road shelter with map, cannot instantrepair leg. Kaze follows actual blood/metalfoot evidence and sees him. Maul attacks with Force/saber; Kaze physically overwhelms and kills immediately, uninjured. Body remains broken upper road marked off by localworkers. No crew, later knowledge, power parity or global tracking.",
+      "Sins": "Chris exterior throughout; Billy full-size inside, headlamp and banjo only. Kaze,Arthur,Daynuh,Mahnuh with him; no new membership. K.K. independent living guest until permanent death, no posthumous admission. RomanceOFF/Briaroffplot/Teemoexcluded/ZidnotSin unchanged.",
       "equipment": "Arthur recovers and deactivates Maul doubleended red saber, wraps control/protects accidentalactivation and retains. Recovers torn local road survey; map use deferred tomorrow. Kaze declines equipment decision tonight. Clifford retains original gift lightsaber secured to chair, no activation this pair. Kaze no new powers, no Ki/Rinnegan/portal/claws; local senses and physical output only.",
       "knowledge": "Witness knows Maul name from heard introduction; incomplete fight testimony explicitly limited, Arthur records only seen material. Billy sees aftermath through actual headlamp; no reconstructed full fight. Kaze saw fatal aftermath and personally killed Maul, not first encounter; gang not automatically informed on Maul source/Sidious intentions. TPP not yet informed KK/Maul deaths. Dutch receives Arthur actual letter/cure confirmation from Clifford.",
       "TPP": "DrEvil leadersubresourceowner, Dutchrighthand. Clifford true report. Brian excluded nextdelivery, assigned review with actual recordedattribution. Three recommendations adopted; repeat inquiry unpriced/uncontracted. Initial trademark quarrel now muchpettier, termsonepage deliveredconsiderationonly, noIPfiling/transfer/settlement. DrEvil rejectsautomaticauthority. Brian resents yetfirstadmiration/caughtpinky/collarexperiment. No haircut/nickname/acceptance.",
-      "Daniel_Tracy": "Both remain dead. Daniel killer still unidentified by Sins; no attribution to Maul/TaiLung via unrelated encounter. Daniel110purse Arthur unopened; spearKaze,bottleChris. Tracy burial12 already paid previouspair."
+      "Brian_body": "Same organicseparateadulttinybody, newlegs awkwardunderactualjumpawayfromfallingframe,noinjury. Organismseam moves undercloth,not cured/controlled. Tracy stilldead; no absolution/forgottenhosttheft.",
+      "Daniel_Tracy": "Both remain dead. Daniel killer still unidentified by Sins; no attribution to Maul/TaiLung via unrelated encounter. Daniel110purse Arthur unopened; spearKaze,bottleChris. Tracy burial12 already paid previouspair.",
+      "unchanged_TPP_arc": "Retain muchpettierDrEvil and Brianinitialadmiration/caughthalfpinky/collarexperiment. No baldhead/MiniMe/acceptanceyet; conditionalfuturelatestauthorownerretained."
     },
     "resources": {
       "common_silver": 2111,
@@ -969,12 +971,11 @@
       "Daniel_custodian": "Arthur",
       "TPP_old_purse": 54,
       "TPP_business_receipt": 5,
-      "TPP_receipt_custody": "Delivered Clifford→Dutch, kept distinct pending accounting; no new income or expenses",
+      "receipt": "AlreadydeliveredDutch,notpaidagain",
       "shots": 0,
-      "Clifford_lightsaber_activations": 0,
-      "Maul_lightsaber": "Combat45, reactivation46; Arthur switchesoff/retrieves",
-      "E31_chests": "Both unopened/uncounted",
-      "new_local_borrowed_items": "Worker tongs/coolingtrough then donated workcloth; Arthur borrowed diggingtool; no commonfundspend invented"
+      "Clifford_lightsaber": "Unchangedsecuredchair,nofiring",
+      "Maul_saber": "CombatthenArthurswitchesoff/retrieves samehilt; no duplicateinventory",
+      "E31_chests": "Unopened/uncounted"
     }
   },
   "Brian_DrEvil_slow_burn_author_20261022": {
@@ -987,7 +988,7 @@
     "pinky": "Actual45R2caughtinitialhalfgesture; nofullimitation/acceptanceorhaircut.",
     "MiniMe": "CONDITIONAL_ON_DR_EVIL_CHOSEN_ACCEPTANCE;NOT_YET"
   },
-  "latest_chat_delivered_episode": 45,
+  "latest_chat_delivered_episode": 46,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -996,7 +997,7 @@
     "episode_count": 1,
     "same_span_revision": true,
     "title": "The Upper Road",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "status": "DELIVERED_PROVISIONAL",
     "author_acceptance": "NOT_ASSERTED",
     "manuscript": "continuity/episodes/E46/S3_E46_The_Upper_Road_R2_FINAL_20261022.txt",
     "manuscript_sha256": "0b68dcc3ab7d3b453961fac0852d3e7f24494a8b0a05f0d2ae4c4daab770a516",
@@ -1016,7 +1017,8 @@
       "Notion_hash_scope": true
     },
     "authorization": "Explicit46only; no47+. Single46 recutofalreadydeliveredKK/Maul/Sinsthread, notnewdeaths.",
-    "next_action": "Render exact saved complete46. Reconcile thisversion after fullresponse exists."
+    "next_action": "Actual46R2delivered; continue47authorizedseparately.",
+    "delivery_reconciliation": "continuity/episodes/E46/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
   "current_actual_after_E45_R2": {
     "evidence": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json",
@@ -1040,5 +1042,41 @@
       "raygun": "No newgrant/firing",
       "torpedo_reference": "Structurementionedinboastonly; no loadedarsenal or weaponfiringestablished"
     }
+  },
+  "prepared_E47_A_Busta_Rhymes_Situation_20261021": {
+    "change_id": "S7NS_E47_A_BUSTA_RHYMES_SITUATION_20261021",
+    "episode_span": [
+      47
+    ],
+    "episode_count": 1,
+    "title": "A Busta Rhymes Situation",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "author_owner": "continuity/author/S7NS_E47_Brian_Busta_Rhymes_Obsession_20261021.md",
+    "manuscript": "continuity/episodes/E47/S3_E47_A_Busta_Rhymes_Situation_FINAL_20261021.txt",
+    "manuscript_sha256": "ed6438f01b36a6ecfeaad8eb0f7c6e72fb442e96d51822727a5b10c9b1878760",
+    "manuscript_git_blob_sha1": "612e0219bc8017d0f1c11833cb425724af891f03",
+    "checkpoint": "continuity/episodes/E47/S3_E47_A_Busta_Rhymes_Situation_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "36793ce907a0358b3229af408b19d86d1b55e612",
+    "drive_manuscript_id": "18NU9NFL7gIYENgvAoUXZQ4ZIx7cPKzYz-pedRRi2F1I",
+    "drive_checkpoint_id": "12LVkF2xaeyy7n1Og_HJ8wqpeQP0xOnvnPjCogz2qDK4",
+    "airtable_episode_record_ids": [
+      "recgvNR03U1v7Y9R6"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "four_app_readbacks": {
+      "GitHub_pair_exact": true,
+      "Drive_pair_native_index_exact": true,
+      "Airtable_hash_checkpoint_status": true,
+      "Notion_hash_scope": true
+    },
+    "authorization": "DirectPLAY47 only; no48.",
+    "next_action": "Render exact complete saved3770word47; reconcile afterwholechatresponse exists."
+  },
+  "Brian_Busta_Rhymes_obsession_author_20261021": {
+    "owner": "continuity/author/S7NS_E47_Brian_Busta_Rhymes_Obsession_20261021.md",
+    "status": "DIRECT_AUTHOR_SELECTED_CURRENT_CHARACTER_DIRECTION",
+    "prior_slow_burn_owner": "continuity/author/S7NS_E45_DrEvil_Brian_Slow_Burn_MiniMe_R2_20261022.md",
+    "scope": "Ongoingabsurdassociativeglazing; noactualBusta/lyrics/newbody. DrEvilpettiness/Scotty/Brianidentity/slowfutureMiniMearc retain."
   }
 }
