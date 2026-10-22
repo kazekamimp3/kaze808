@@ -3,7 +3,7 @@
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
   "current_delivered_episode": 50,
-  "next_episode": 51,
+  "next_episode": 52,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -1146,7 +1146,7 @@
     ],
     "episode_count": 1,
     "title": "Fetch",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "status": "DELIVERED_PROVISIONAL_REVISION_REQUESTED",
     "author_acceptance": "NOT_ASSERTED",
     "authorization": "Latest direct user: play episode 51. Single51 only, no52.",
     "manuscript": "continuity/episodes/E51/S3_E51_Fetch_FINAL_20261022.txt",
@@ -1170,8 +1170,38 @@
     "words": 3804,
     "assumed_wpm": 150,
     "estimated_minutes": 25.36,
-    "next_action": "Render exact saved51 text in current authorized PLAY response; next interaction reconcile actual completion. No52 authorization."
+    "next_action": "Render exact saved51 text in current authorized PLAY response; next interaction reconcile actual completion. No52 authorization.",
+    "delivery_reconciliation": "continuity/episodes/E51/R1_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
   "episode52_authorized": false,
-  "preparation_rule": "Last actual delivered50;51 prepared for current response. Reconcile full actual51 only after response exists. No acceptance inferred."
+  "preparation_rule": "R1 actually delivered51; original frozen. R2 same-span revision prepared for current explicit resend; not a second church day. Reconcile actual revised response only afterward.",
+  "last_delivered_episode": 51,
+  "prepared_E51_Fetch_R2_20261022": {
+    "change_id": "S7NS_E51_FETCH_JESUS_RECOGNITION_R2_20261022",
+    "episode_span": [
+      51
+    ],
+    "episode_count": 1,
+    "title": "Fetch",
+    "revision": "R2",
+    "same_episode_revision": true,
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Explicit revise/resend51 with Billy whole Jesus story and Bible recovery jokes. No52.",
+    "author_owner": "continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md",
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R2_FINAL_20261022.txt",
+    "manuscript_sha256": "0477f3dd40caf0ca40547a4f1ffb2714865bc52bd8c1f50982e6be85c650e8be",
+    "manuscript_git_blob_sha1": "751181959e7aa0e692c32ee99c956d34a1ab6695",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json",
+    "drive_manuscript_id": "1oRFtAEIelowv8yGApdDfVYbPnvGPHD1s",
+    "drive_checkpoint_id": "1pNfxHmNsjnthfB13BwdrhEBIMD27T9gI",
+    "airtable_episode_record_ids": [
+      "recO0O1hxfH6Cc00F"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "words": 5010,
+    "estimated_minutes_at_150_wpm": 33.4,
+    "audio_generated": false,
+    "next_action": "Render exact frozen R2 in authorized same-episode resend; reconcile actual R2 only after full response exists."
+  }
 }
