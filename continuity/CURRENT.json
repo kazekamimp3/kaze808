@@ -66,7 +66,7 @@
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -104,8 +104,8 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "E51_R2_REVIEWED_SAVED_FOUR_APP_READBACK_VERIFIED",
-  "work_resume_checkpoint_latest": "continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json",
+  "work_status": "BRIAN_HEIGHT_JOURNAL_CHAIR_SELECTED_SAVING_VERIFICATION_E51_ON_HOLD",
+  "work_resume_checkpoint_latest": "continuity/work/S7NS_Brian_Height_Journal_Chair_Resume_20261022.json",
   "work_change_id": "S7NS_CUMULATIVE_REPLACEMENT_PATCH_20261022",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
@@ -1777,5 +1777,24 @@
     "owner": "continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md",
     "status": "AUTHOR_SELECTED_R2_PREPARED",
     "rule": "Campfire Special5 gift toChris occurred. Same whole Jesus/cross/crown swallow. Billy disbelieves until priest authenticates actual artifacts in R2; only then first recognizes Jesus. R1 early-knowing portrayal corrected by upcoming same-span revision. Preserve original Special5 and all unrelated rules."
+  },
+  "latest_Brian_height_journal_chair": {
+    "change_id": "S7NS_BRIAN_HEIGHT_JOURNAL_CHAIR_20261022",
+    "author_owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
+    "status": "AUTHOR_SELECTED_CURRENT_HEIGHT_HISTORY_AND_FUTURE_PORTRAYAL",
+    "original_height_inches": 70,
+    "current_height_inches": 24,
+    "journal_and_chair": "Selected future repertoire and next actual TPP meeting; no enacted meeting/prop",
+    "Tracy_identity": "Existing actual Tracy host remains; Busta résumé boast/mistaken attribution retained; no second body invented",
+    "DrEvil_motive": "Sole calculated ultimate reversal unchanged; chair is separately selected petty beat",
+    "drive_author_id": "1wBIOajgxP3WxOAY3EFI6BM_BmJsSrc7S"
+  },
+  "playback_hold": {
+    "active": true,
+    "scope": "Episode51 resend",
+    "basis": "Latest direct user: wait one more idea; Brian height/journal/chair author note. Await resume instruction.",
+    "local_reviewed_E51_R3": "S3_E51_Fetch_R3_FINAL_20261022.txt",
+    "local_sha256": "d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce",
+    "candidate_status": "Reviewed local draft only; no R3 connected save or chat playback yet"
   }
 }
