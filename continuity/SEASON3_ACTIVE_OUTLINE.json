@@ -2288,10 +2288,10 @@
     }
   },
   "latest_outline_work": {
-    "change_id": "S7NS_MAHNAH_CRUCIFIX_DAYNAH_TRUST_CHRIS_EXCHANGE_20261021",
-    "owner": "continuity/author/S7NS_Mahnah_Crucifix_Daynah_Trust_Chris_Exchange_20261021.md",
-    "status": "AUTHOR_SELECTED_FUTURE_BEATS_AND_JESUS_FATE_CLARIFICATION_NO_PLAY",
-    "checkpoint": "continuity/work/S7NS_Mahnah_Crucifix_Daynah_Trust_Chris_Exchange_Resume_20261021.json",
+    "change_id": "S7NS_RESTAURANT_CONSEQUENCES_DAYNAH_ANGER_BRIAN_REVERSAL_20261022",
+    "owner": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md",
+    "status": "AUTHOR_SELECTED_FUTURE_CONSEQUENCES_AND_PORTRAYAL_NO_PLAY",
+    "checkpoint": "continuity/work/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_Resume_20261022.json",
     "delivered_state_unchanged": true,
     "story_days_advanced": 0
   },
@@ -2616,7 +2616,7 @@
     "new_events": [],
     "episode51_authorized": false
   },
-  "latest_post_E50_selected_owner": "continuity/author/S7NS_Mahnah_Crucifix_Daynah_Trust_Chris_Exchange_20261021.md",
+  "latest_post_E50_selected_owner": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md",
   "latest_author_approvals_and_corrections": {
     "change_id": "S7NS_POST_E50_APPROVALS_KAZE_STARKILLER_CAST_MOBILITY_20261021",
     "owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
@@ -2758,5 +2758,44 @@
     "checkpoint": "continuity/work/S7NS_Mana_Shoplifting_Outline_Resume_20261021.json",
     "preview_not_season_canon": true,
     "delivered_state_unchanged": true
+  },
+  "latest_restaurant_Daynah_Brian_application": {
+    "change_id": "S7NS_RESTAURANT_CONSEQUENCES_DAYNAH_ANGER_BRIAN_REVERSAL_20261022",
+    "owner": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md",
+    "status": "AUTHOR_SELECTED_FUTURE_CONSEQUENCES_AND_PORTRAYAL_NO_PLAY",
+    "restaurant": {
+      "requirement": "SERIOUS_LASTING_CONSEQUENCES_FOR_BOTH_CHRIS_AND_KAZE",
+      "actual": "Golden Heron massacre E36–38: five staff incl Madam Lin/chef Ren and six adult diners dead; Chris shoots, Kaze deliberately joins and destroys building/ruptures land.",
+      "evidence": "Preserved Chris-signed order book; later local constable custody; district captain has Kaze name/descriptions and real reports. No surviving interior victim or instant Swain knowledge.",
+      "construction": "Prioritize material consequences that alter choices/resources/access/relationships or create credible danger. Warnings, rumor or disposable guard waves alone do not fulfill direction.",
+      "specific_outcomes": "OPEN_NOT_ENACTED",
+      "candidate_routes": "Evidence-driven organized response; refused/conditioned useful access; independently motivated bereaved/affected parties. AI construction options, not selected events.",
+      "forced_remorse": false
+    },
+    "Daynah": {
+      "hurt": "Family deception/exclusion remains emotional cause",
+      "expression": "Hurt comes out through anger; active Hulk/gamma/Kahuna forms make it physically and verbally legible",
+      "register": "Baseline normal speech; all active earned gamma/Kahuna forms third-person Daynah, concrete direct feelings; intelligence/memory/agency retained",
+      "mechanics": "Existing forms/activation retained, no new form or automatic mandatory transformation at every slight"
+    },
+    "DrEvil_Brian": {
+      "arc": "Allow genuine understanding and deep feelings to develop naturally if they arise; Brian finally experiences meaningful recognition and belonging, including actual useful intelligence/knowledge/contributions",
+      "payoff": "Selected major eventual reversal aimed at the nastiest ego/trust/belonging destruction in the project, beyond another routine roast",
+      "craft": "Earn genuine attachment over meaningful scenes; no predetermined scene count, obligatory all-fake retcon, immediate rug-pull or automatic instant repair. Use what has actually developed.",
+      "preserved": "Scotty/daddy dynamic, Brian tiny adult founder/DJ identity and agency, conditional Mini-Me acceptance, petty humor/Busta rest",
+      "mechanism_timing_fate": "OPEN_NOT_ENACTED"
+    },
+    "prior_completed_checkpoint": "continuity/work/S7NS_Mahnah_Crucifix_Daynah_Trust_Chris_Exchange_Resume_20261021.json",
+    "actual_delivered_episode": 50,
+    "episode51_authorized": false,
+    "story_days_advanced": 0
+  },
+  "prior_outline_work_before_restaurant_consequences": {
+    "change_id": "S7NS_MAHNAH_CRUCIFIX_DAYNAH_TRUST_CHRIS_EXCHANGE_20261021",
+    "owner": "continuity/author/S7NS_Mahnah_Crucifix_Daynah_Trust_Chris_Exchange_20261021.md",
+    "status": "AUTHOR_SELECTED_FUTURE_BEATS_AND_JESUS_FATE_CLARIFICATION_NO_PLAY",
+    "checkpoint": "continuity/work/S7NS_Mahnah_Crucifix_Daynah_Trust_Chris_Exchange_Resume_20261021.json",
+    "delivered_state_unchanged": true,
+    "story_days_advanced": 0
   }
 }
