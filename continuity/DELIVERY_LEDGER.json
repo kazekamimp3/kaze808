@@ -2,8 +2,8 @@
   "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
-  "current_delivered_episode": 49,
-  "next_episode": 50,
+  "current_delivered_episode": 50,
+  "next_episode": 51,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -526,6 +526,19 @@
       "delivery_status": "DELIVERED_PROVISIONAL",
       "author_acceptance": "NOT_ASSERTED",
       "delivery_reconciliation": "continuity/episodes/E49/CHAT_DELIVERY_RECONCILIATION_20261021.json"
+    },
+    {
+      "episode": 50,
+      "title": "All In",
+      "feature_span": [
+        50
+      ],
+      "manuscript": "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
+      "manuscript_sha256": "a4797d2634759a54fe6c19ae0484d7eb81acaa9b15ed00ffed1c8b70aaece377",
+      "checkpoint": "continuity/episodes/E50/S3_E50_All_In_Checkpoint_20261021.json",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_reconciliation": "continuity/episodes/E50/CHAT_DELIVERY_RECONCILIATION_20261021.json"
     }
   ],
   "prepared_episode": {
@@ -958,7 +971,7 @@
     "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid.",
     "delivery_reconciliation": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
-  "latest_chat_delivered_episode": 49,
+  "latest_chat_delivered_episode": 50,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -1093,7 +1106,7 @@
     ],
     "episode_count": 1,
     "title": "All In",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "status": "DELIVERED_PROVISIONAL",
     "author_acceptance": "NOT_ASSERTED",
     "author_owner": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
     "manuscript": "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
@@ -1114,7 +1127,16 @@
       "Notion_hash_scope": true
     },
     "authorization": "Explicit PLAY50 only; no51.",
-    "next_action": "Render exact whole3851word saved50; reconcile only after complete chat delivery exists."
+    "next_action": "E50 delivered; new WORK audit only. Episode51 requires separate PLAY authorization.",
+    "delivery_reconciliation": "continuity/episodes/E50/CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "latest_Mahnuh_gambling_direction": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md"
+  "latest_Mahnuh_gambling_direction": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
+  "episode51_authorized": false,
+  "latest_work": {
+    "change_id": "S7NS_POST_E50_ENSEMBLE_COMEDY_CAST_KK_20261021",
+    "owner": "continuity/author/S7NS_Post_E50_Ensemble_Comedy_Cast_KK_Revision_20261021.md",
+    "report": "continuity/work/S7NS_Post_E50_Ensemble_Audit_Brainstorm_20261021.md",
+    "status": "WORK_ONLY_SELECTED_DIRECTIONS_AND_PROPOSED_IDEAS",
+    "fictional_time_advanced": 0
+  }
 }
