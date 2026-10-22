@@ -1,0 +1,18 @@
+{
+  "change_id": "S7NS_POST_E50_FOURTH_WALL_RECOVERY_ANIMAL_SCOPE_AUDIT_20261021",
+  "status": "COMPLETED_WITH_LATER_DIRECT_AUTHOR_OVERRIDES",
+  "author_owner": "continuity/author/S7NS_Post_E50_Fourth_Wall_Recovery_Animal_Scope_20261021.md",
+  "audit": "continuity/work/S7NS_Post_E50_Buried_Character_Permissions_Audit_20261021.md",
+  "latest_controlling_owner": "continuity/author/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_20261021.md",
+  "final_receipt": "continuity/work/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_Resume_20261021.json",
+  "proofs": {
+    "GitHub_exact_files": true,
+    "Drive_native_index_exact": true,
+    "Drive_parent": true,
+    "Notion": true,
+    "Airtable_both_decisions": true,
+    "Airtable_characters": false
+  },
+  "story_days_advanced": 0,
+  "episode51_authorized": false
+}
