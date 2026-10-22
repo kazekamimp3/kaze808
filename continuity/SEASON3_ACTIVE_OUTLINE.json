@@ -2909,5 +2909,43 @@
     "APPROVED_PLOT_MENU": "1. Starkiller/TPP transport intersection.\n2. Starkiller/Clifford Vader-resemblance liability.\n3. One useful bounded Shang Tsung service leading toward exploitation and compact fatal arc.\n4. Mahnah theft connecting merchant/TPP/Sins goals.\n5. Dutch/Arthur needed cooperation with real allegiance wound.\n6. Credible evidence about Daniel's killer creates disagreement rather than forced revenge itinerary.\n7. Brief imperial decision produces local consequence.\n8. Finish existing selected arcs and allow space before more arrivals.\nThese are selected development directions, no automatic actual encounter/outcome or one-episode checklist.",
     "APPROVED_RELATIONSHIP_MENU": "1. Kaze/Chris: expertise, overhelp, favors/advice as ammunition, unique natural instigator correction.\n2. Chris/Daynah: familiar arguments and recognizable concealed details, family-trust hurt.\n3. Daynah/Mahnah: puppyhood routines, learned cues and recognizable evidence.\n4. Kaze/Arthur: private disagreement can influence later choices.\n5. Arthur/Chris: competent cooperation, precise insults, coordinated Clifford bullying.\n6. Arthur+Chris/Clifford: on-sight personal hazing, accumulated resentment and changed choices.\n7. Billy/Chris: competing memories, disputed details, struggle for floor, sometimes useful lore.\n8. Charles/Meatwad: manufactured authority versus trust and companionship, before departure.\n9. Charles/Shake: temporary alliances undone by credit/control, before departure.\n10. Brian/DrEvil: apparent recognition/belonging used for sole-motive ultimate reversal; final correction controls.\n11. Brian/Dutch: desperate appeal met by deliberate distance and late-useless help.\n12. Dutch/Arthur: loaded familiarity, selective generosity, loyalty accusations over Bob's death.\n13. Dutch/Clifford: distinct accounts of family/history and loyalty.\n14. DrEvil/Kaze: personal amusement and siding about Brian.\n15. DrEvil/Dutch: cooperation/authority friction; Clifford fan-act enabling is unintended.\n16. Returning Keke/Kaze: protection may become intrusive and meet resistance.\n17. Returning Keke/Chris: care versus independent decisions.\n18. Kratos/Mimir: familiar correction, recollection and practical care.\n19. Thor/older WorldSerpent: history complicates choices without obligatory rematch.\n20. Swain/Darius: agree threat, disagree cost, issue consequential order.",
     "STATUS_AND_RELEASE": "Actual continuation: E50 end, day19 barn drinking house below old works. Kaze chose road toward capital, no capital arrival/summons. Chris exterior, Billy inside; Arthur holds Maul hilt and unopened Daniel110 purse. Common2111, Kaze0, TPP54 plus separate5 receipt; two E31 chests unopened. All BELLY residents incl Frylock/Shake/Meatwad/Charles remain as actual50. No new events from packaging.\nRomance OFF, Briar off plot, Teemo erased, Zid not a Sin; Daynah/Mahnah loyal. Original five campfire Specials remain established; old draft/future labels don't erase their delivery. Latest exact E50 manuscript and checkpoint are unchanged.\nRead current full owners through MANIFEST and the master index. This cumulative owner governs scoped conflicts; original engineering/mechanics/history remain valid where unchanged. Historical/current-looking old cursors are not new starts. Existing full-draft/read/repair/final-reread procedure remains the only storytelling workflow."
+  },
+  "prepared_E51_Fetch_20261022": {
+    "change_id": "S7NS_E51_FETCH_20261022",
+    "episode_span": [
+      51
+    ],
+    "episode_count": 1,
+    "title": "Fetch",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Latest direct user: play episode 51. Single51 only, no52.",
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_FINAL_20261022.txt",
+    "manuscript_sha256": "c37c4647b6c4521fd8d2b04a1393c88ceac8f29ffbc0f744ba4208ba1d573ee7",
+    "manuscript_git_blob_sha1": "22fe44846f6573031e9a569a0e63581043c30a9c",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_Checkpoint_20261022.json",
+    "checkpoint_git_blob_sha1": "5364e56a5b1580ab62793a6111ed513b44d32618",
+    "drive_manuscript_id": "1G0PZ4-tx0TscbFl0ALo_9UTP55Gf-ZuA",
+    "drive_checkpoint_id": "1PdvtcdbNM2cFN51pQA0XBOb9m2FF9Mn-",
+    "drive_format": "Raw UTF-8 text/plain manuscript and application/json checkpoint; exact remote content/decoded bytes verified, not native Docs.",
+    "airtable_episode_record_ids": [
+      "recO0O1hxfH6Cc00F"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "four_app_readbacks": {
+      "GitHub_pair_exact": true,
+      "Drive_manuscript_exact_text_and_checkpoint_base64_bytes": true,
+      "Airtable_hash_status_checkpoint": true,
+      "Notion_prepared_scope_hash_links": true
+    },
+    "words": 3804,
+    "assumed_wpm": 150,
+    "estimated_minutes": 25.36,
+    "next_action": "Render exact saved51 text in current authorized PLAY response; next interaction reconcile actual completion. No52 authorization."
+  },
+  "prepared_E51_candidate_next_state": {
+    "status": "PREPARED_NOT_OCCURRED_UNTIL_PLAY",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_Checkpoint_20261022.json",
+    "continuation": "Day19 junction: Kaze departs alone toward coast with same Maul hilt fromArthur; otherSins intend return aboveworks, not yet there. TaiLung identity actually disclosed/relayed within candidate; current locations unknown. Capital objective displaced pending inquiry, not completed. Selected E50 poker insertion remains unperformed; restaurant consequence duty remains open beyond local alarm. All unrelated selected cumulative threads retained."
   }
 }
