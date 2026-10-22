@@ -110,6 +110,13 @@
       "author_current_actor_first_application": "Use Swain/Darius/Draven/LeBlanc/Vladimir/Elise/Katarina/Talon/Riven/Samira/Sion as distinct agents. E31 Odran order and E32 Katarina kiss are completed; governor warning needs actual arrival. The E32 naval/coastal crisis can reach imperial power only by witnesses/legitimate intelligence. Noxian nobles, army, warbands and Black Rose need not agree. Repeat meetings allowed without replaying introductions."
     },
     {
+      "id": "MANA_SHOPLIFTING_TPP",
+      "status": "AUTHOR_SELECTED_FUTURE_INTERLEAVED",
+      "title": "Cluck Around and Find Out",
+      "direction": "Read continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md in full. Interleave habit origin, covert Chris/Billy assistance, Dana suspicion and TPP supply response; converge after protected Dr Evil meetings.",
+      "boundary": "No backfill, episode quota, final theft selection or new events through WORK."
+    },
+    {
       "id": "SEA",
       "status": "PROSPECTIVE",
       "title": "Bilgewater, serpent waters and the Isles",
@@ -765,6 +772,13 @@
         "second_meeting": "Dr Evil announces calculated copyright/trademark plan over TPP; provokes Brian's petty founder/name/authority dispute",
         "legal_effect": "plan announced, not completed proven title/control transfer; no invented universal IP registry",
         "story_time_advanced": 0
+      },
+      "mana_shoplifting_intersection": {
+        "owner": "continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md",
+        "status": "FUTURE_NOT_OCCURRED",
+        "after": "Dr Evil leadership and protected two-meeting chain",
+        "function": "specific food-security/delivery opportunity created by real dog thefts; original TPP goals/agency continue",
+        "no_existing_outcomes_rewritten": true
       }
     },
     "BILLY_RICK_ENGINEERED_EVOLUTION": {
@@ -833,6 +847,44 @@
       ],
       "father": "Kaze",
       "rule": "Preserve partner history and later pregnancies as selected by author. No current actor knowledge, scheduled reveal, gestation skip or Briar return granted. Other pregnancies not guaranteed."
+    },
+    "MANA_SHOPLIFTING_TPP": {
+      "id": "MANA_SHOPLIFTING_TPP",
+      "status": "AUTHOR_SELECTED_FUTURE_OUTLINE_NOT_OCCURRED",
+      "owner": "continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md",
+      "title": "Mana discovers shoplifting; Chris and Billy conceal it; Dana finds the pattern; TPP exploits the demand",
+      "placement": {
+        "movement": "NOXUS_CONTEST",
+        "episode_number": null,
+        "origin": "Future reachable multi-day market stay; do not backfill completed or frozen manuscripts",
+        "TPP_collision": "After actual Dr Evil leadership and protected first/second meeting sequence; actual supply route connects both groups",
+        "gate": "Resolve any newer live delivery first; E40 delivered/E41 prepared labels are packaging snapshot only"
+      },
+      "core": [
+        "Real incident adapted: Dana asleep, missing dog, surprise INSIDE shop",
+        "This adventure CREATES the habit",
+        "Increasingly inventive repeated canine theft; innocent returns",
+        "Chris deliberately enables and conceals",
+        "Billy witnesses through headlamp, speaks via banjo, has own opinion and stake",
+        "Dana recognizes familiar behavior and investigates over time",
+        "Merchant response creates real opportunity for Dr Evil/Dutch",
+        "Causal convergence with Brian founder resentment and independent TPP aims"
+      ],
+      "payoff": "Compound discovery and material/relationship change; no final theft or ending selected",
+      "excluded": [
+        "whole-store theft or Billy powers on Mana",
+        "rejected parade sausage",
+        "forced ferry/truck/international-incident route",
+        "preview cleanup/job ending treated as canon",
+        "new episode prose during this WORK"
+      ],
+      "authorship": {
+        "real_Chris": "subject choice",
+        "real_Dana": "real store incident",
+        "Kaze": "fictional direction/Rain Man/Dr Evil/Billy scope",
+        "assistant": "causal integration and optional construction"
+      },
+      "story_days_advanced": 0
     }
   },
   "crossover_deployment": [
@@ -1727,5 +1779,51 @@
     "group": "E29 group reunion and inland direction selected. Billy sole exterior at the Noxian harbor shelf; Kaze outside and the other present Sins inside BELLY. Samira has departed south with her recovered weapons. Six cases remain returned; 2100 new common silver stays unallocated. Continue a substantive group-chosen operation and actual consequences; no repeated reunion, heist or ballista detour.",
     "ending": "Deliver a meaningful local payoff/change in the main operation. Future hooks are supplementary, not the whole reward.",
     "romance": "ON alongside the ensemble. Use individual regional slots when actual contact permits, without a hookup checklist or diverting every Sin into Kaze's subplot."
+  },
+  "mana_shoplifting_integration": {
+    "id": "MANA_SHOPLIFTING_TPP",
+    "status": "AUTHOR_SELECTED_FUTURE_OUTLINE_NOT_OCCURRED",
+    "owner": "continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md",
+    "title": "Mana discovers shoplifting; Chris and Billy conceal it; Dana finds the pattern; TPP exploits the demand",
+    "placement": {
+      "movement": "NOXUS_CONTEST",
+      "episode_number": null,
+      "origin": "Future reachable multi-day market stay; do not backfill completed or frozen manuscripts",
+      "TPP_collision": "After actual Dr Evil leadership and protected first/second meeting sequence; actual supply route connects both groups",
+      "gate": "Resolve any newer live delivery first; E40 delivered/E41 prepared labels are packaging snapshot only"
+    },
+    "core": [
+      "Real incident adapted: Dana asleep, missing dog, surprise INSIDE shop",
+      "This adventure CREATES the habit",
+      "Increasingly inventive repeated canine theft; innocent returns",
+      "Chris deliberately enables and conceals",
+      "Billy witnesses through headlamp, speaks via banjo, has own opinion and stake",
+      "Dana recognizes familiar behavior and investigates over time",
+      "Merchant response creates real opportunity for Dr Evil/Dutch",
+      "Causal convergence with Brian founder resentment and independent TPP aims"
+    ],
+    "payoff": "Compound discovery and material/relationship change; no final theft or ending selected",
+    "excluded": [
+      "whole-store theft or Billy powers on Mana",
+      "rejected parade sausage",
+      "forced ferry/truck/international-incident route",
+      "preview cleanup/job ending treated as canon",
+      "new episode prose during this WORK"
+    ],
+    "authorship": {
+      "real_Chris": "subject choice",
+      "real_Dana": "real store incident",
+      "Kaze": "fictional direction/Rain Man/Dr Evil/Billy scope",
+      "assistant": "causal integration and optional construction"
+    },
+    "story_days_advanced": 0
+  },
+  "latest_outline_work": {
+    "change_id": "S7NS_MANA_SHOPLIFTING_SEASON3_OUTLINE_20261021",
+    "owner": "continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md",
+    "status": "AUTHOR_SELECTED_OUTLINE_INTEGRATED_NO_PLAY",
+    "checkpoint": "continuity/work/S7NS_Mana_Shoplifting_Outline_Resume_20261021.json",
+    "preview_not_season_canon": true,
+    "delivered_state_unchanged": true
   }
 }
