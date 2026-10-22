@@ -1,0 +1,139 @@
+{
+  "schema": "S7NS_PAIRED_FEATURE_PREPARATION_V1",
+  "change_id": "S7NS_E43_E44_AUDIENCE_PARTICIPATION_20261021",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode_span": [
+    43,
+    44
+  ],
+  "title": "Audience Participation",
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "Latest bare PLAY and reiterated PLAY during work authorize next43–44 under persisted two-consecutive-unit default; no45+. User steering did not restart or duplicate work.",
+  "previous_delivery": {
+    "change_id": "S7NS_E42_CHAT_DELIVERY_RECONCILIATION_20261021",
+    "episode": 42,
+    "title": "A Very Important Call",
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_FINAL_20261021.txt",
+    "manuscript_sha256": "5ae27d3461cb6ea15e5d0d4d74aab5d420930646ef7b02bd5aae1d85bd7a0971",
+    "checkpoint": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_Checkpoint_20261021.json",
+    "basis": "Complete Episode42 visibly rendered twice in this conversation, through Billy's I believe we should discuss the menu. User now says PLAY; continue43–44 under current two-episode default. No machine byte comparison against rendered chat or author acceptance claimed.",
+    "next_episode": 43
+  },
+  "manuscript": {
+    "path": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_FINAL_20261021.txt",
+    "words": 7643,
+    "episode43_words_with_header": 3777,
+    "episode44_words": 3866,
+    "episode44_start_char": 22828,
+    "episode44_start_utf16": 22828,
+    "sha256": "b5fcfc4b99bd5218986b05394f21204c3a02a8bab669c2266cfab7b164bcc8a7",
+    "git_blob_sha1": "1954a969d2c03cfb56a4916644749602905194cb",
+    "drive_id": "1AhzRbwdoBJ_MEfZirL5oTKOna0S_0GlPjuZp_vg4-LI",
+    "drive_url": "https://docs.google.com/document/d/1AhzRbwdoBJ_MEfZirL5oTKOna0S_0GlPjuZp_vg4-LI/edit?usp=drivesdk",
+    "estimated_minutes_at_150_wpm": 50.95,
+    "audio_generated": false
+  },
+  "checkpoint_path": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_Checkpoint_20261021.json",
+  "drive_checkpoint_id": "1RZ4vAYzUwu2NSbaV0NpK1EzCnI04fKPzdNaGVjPPAOo",
+  "drive_checkpoint_url": "https://docs.google.com/document/d/1RZ4vAYzUwu2NSbaV0NpK1EzCnI04fKPzdNaGVjPPAOo/edit?usp=drivesdk",
+  "episode_units": {
+    "E43": {
+      "words_with_feature_title": 3777,
+      "end_before": "By the time Dutch arrived for the next briefing,",
+      "last_line": "It makes them sound prepared.",
+      "candidate_end": "Ruptureday12, crew has completed bounded research and DrEvil chooses rehearsed references for tomorrow. Arthur/Dutch game disclosure and source-compatible routes established; common2111; TPP54."
+    },
+    "E44": {
+      "words": 3866,
+      "starts_at_character": 22828,
+      "first_line": "By the time Dutch arrived for the next briefing,",
+      "last_line": "Behind him, Kaze started laughing.",
+      "candidate_end": "Day15 poultry-yard afternoon, legitimate first paid security delivery succeeds. Brian caught attempting to bait Mahnuh into taking DrEvil's complimentary roast; no new theft completed. Clifford orders Brian to explain toboss; party still atyard."
+    }
+  },
+  "protected_author_beats": {
+    "selected": "Actual Arthur-to-Dutch RDR1/2 disclosure before accordingtoArthur; DrEvil commissions HIS crew; competent real research; later separate cringe references and memes; Dutch/Jack indulge without exposing bluff; face/neck branch injuries mistaken for missedresearch; accidental story-TB slip with immediately retained current cure; Brian naming/founding and trademark-announcement dispute; gift retained; food-security thread follows secondmeeting.",
+    "material_deviation": "Immediate E42private answer could not truthfully credit an unperformed Arthur conversation. E43 enacts the required conversation and real return route first, then Dutch supplies chosen explanation. No prior dialogue retroactively claimeddelivered. Research access uses actual Chris RDR2copy/filming and oral game/communityknowledge plus Arthur's completed-game testimony; no invented Earth internet, future software in2002crew, duplicatecopy or complete audiovisual playthrough claim.",
+    "authorship": "Kaze originates S7NS and DrEvil/TPP/game-research/meme/founder chain. RealChris chose Mana, realDana supplied dog-inside-shop incident, Kaze directed fictionalcollaboration/Billy scope; assistant creates this prose, dialogue, meal, source-access route and Brian baiting payoff."
+  },
+  "sources": {
+    "fresh": [
+      "Live CURRENT/DELIVERY_LEDGER and matching E42 checkpoint",
+      "Full Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md, blob 1228409d598af2679dfd70dd77d62f92ae1416ea",
+      "Full Arthur_Character_Source.txt extracted from exact bundle; newer full-charge restrictions not invoked, no firearm shots",
+      "Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
+      "SceneDecisionDoctrine,activecomedyv1.1,current twoepisode presentationowner",
+      "Full E41Cluck replacement manuscript; E42 complete visible response and Drive nativepair"
+    ],
+    "reused": "Unchanged full Dutch, Brian, adultJack/Clifford, Dana/Mana, Chris/Billy sharedbody/headlamp and narrator sources already read earlier in same conversation. Current role narrator source and scoped owners reconsulted. No fresh full-film screening or acoustic performance test.",
+    "outline": "Full live outline retrieved; scoped DrEvil, cast-death and Mana sections adjudicated against delivered41–42. No older cursors/removals or prospective deaths import.",
+    "four_app_prepass": {
+      "GitHub": true,
+      "GoogleDrive_E42": true,
+      "Notion_episode_index": true,
+      "Airtable_E42": true
+    }
+  },
+  "candidate_state_after_play": {
+    "chronology": "Linear from E42 day9menu/firewood frame through day10Arthur/Dutch meeting, night10port return, day11crew visit, day12research delivery, day13second meeting, day15trial delivery. Prior E42 DrEvil question five days before Arthur meeting; no new reset.",
+    "Sins": "Chris sole exterior at final yard, Billy full-size inside sees headlamp and talks banjo. Kaze,Arthur,loyalDaynuh,Mahnuh atshop/yard. KKlivingguest,lastcamp position uncontradicted,not Sin or newarrival. Other BELLY residents unchanged/unshown. RomanceOFF,Briaroffplot,Teemoexcluded,ZidnotSin.",
+    "Daniel": "Dead/buried above stream. Arthur still carries separate unopened110silverpurse. SpearKaze,bottleChris unchanged. Killer unidentified bySins. Dutch now learns actual discovery/burial and offers tolisten forname; no acquiredanswer.",
+    "Tracy": "Dead. Netmender reports burial completed and Dutch visits actual indicated burialground, pays12silverhandling/burialcharge.",
+    "TPP": "DrEvilshipleader;Dutchright hand. Clifford masked atyard; real workinglaserhilt retained and used once tocut ordinary rusted ironlink afterclearance; noForce/universalpenetration. Brian separated organiclegs retained, tailoredcrewclothes acquired, own notebook, organism notcured/forgotten or grantednewpower. Founder/nameownership dispute unresolved; promised consultation,nofiling/righttransfer. Legitimate five-silver firsttrial delivered withtwo crew; no automatic generalterritorymonopoly. Dutch andDrEvil lastaboard/coast route, not transported withyardparty.",
+    "research": "Two actual unnamed existingcrew receivedBillypermission/intake/admission/release, Chriscontrolled existingRDR2 atrealconsole, filmedscreenonly withpermission; interviewedChris forbounded communitymemerecollections andArthur forRDR1. Carryrecording+notes toship. No globalinternet, duplicatecopy, new gameprogress or fullplaythrough asserted. These two nowknowactualBELLY admissionroute/camp, reporttoDrEvilonlyshownmaterial; noautomaticshareofentireinterior/storagesystems/residents.",
+    "knowledge": "Dutch nowknowssourcegamepremise, orderingandJohn/Jackscope. Notallfuturebetrayals/deaths. DrEvil gamefamiliarity learnedaftercrewstudy, sincereVaderbluffnotconfessed. Dutch/Jack hear sourceArthurTB and crew immediatelyclarifiescuredactualArthur; no disease relapse or futurefatalityassertion. Arthur reply confirmswell;CliffordcarriessealedreplynotyetreadbyDutch. Arthur learnsTracy/BrianculpabilityfromDutch. Chris inferssomethingswrongfromBrianslegs/Arthurwarning,notfulltelepathicaccount.",
+    "food": "Initialduck/roast9silverrestitutionpaid by agreedcommonfunds. Merchanttrial5silverpaid. Storageguardedstockallintact. Brian liftscover/dropsscrap/whistlesattemptingsabotage; Chrissees andshutsgate, Billywitnessesandcomments,Daynuhseesaftermath. Mahnuhnotreformed or humanstrategist. Chrisasksgravy atfinal; noreply/receiptassumed. Complimentarybirdrecoveredcovered,notyetreceivedbyDrEvil."
+  },
+  "resources": {
+    "common_start": 2120,
+    "restitution": 9,
+    "common_end": 2111,
+    "Kaze_personal_silver": 0,
+    "Daniel_purse_unopened": 110,
+    "Daniel_custodian": "Arthur",
+    "TPP_shared_purse_start": 66,
+    "Tracy_handling_burial": 12,
+    "TPP_shared_purse_end": 54,
+    "TPP_new_business_receipt": 5,
+    "receipt_custody": "Clifford,separateforcompany;notpersonalshare/profitdistribution",
+    "DrEvil_crew_stores": "Existing finite uncounted, ordinary recorder/notebooks/workclothes/chain used; no infinitefunding orEarthbank",
+    "shots": 0,
+    "lightsaber_activations": 1,
+    "E31_chests": "Both remainunopened/uncounted"
+  },
+  "review": {
+    "first_whole_read": "Complete6874worddraft reopened in two sequentialuntruncated chunks.",
+    "repairs": [
+      "Replace unsupported Dana personalwealth with real group-approved9silvercommon expenditure.",
+      "Establish offline crew research through actual owned game/recordedinterviews; realcommunitymemeaccess viaChris.",
+      "Make adultJack source description distinct from unfilmedRDR1 images.",
+      "Establish explicit TB fact and currentcure in research, retain immediate correction atspoiler.",
+      "Fix seller doublelocation; replace enteredstoreroombeforechaincut with tinswaitingoutside.",
+      "Fix Brian duplicate chairclimb and Dutch purseownership wording.",
+      "Add earned actualclosureofbaitingconfrontation; Chrisstopsrivalbaitwithoutdogreformation.",
+      "Develop pause-versuslivingworldinterview and Clifford meaningful plainironcut; reach25–30min perunit."
+    ],
+    "final_whole_reread": "Reopened entirefinal7643wordfile. Tool output omitted455tokens aroundunitboundary; reread continuous20000:26000characteroverlap tocover allomission. Both completeunits reviewed afterlastproseedit; no laterprosechange.",
+    "weakest_span": "Research exposition initially static; directscreen access, actual pause misinterpretation, privacychoice, Chris'sfandom andwarnings developcharactersandearnneededsource route. Retained necessary Arthur/Dutch exchange; compressed routine travel.",
+    "checks": {
+      "causality": "PASSeditorial: realinformationroute/roads/intake/crewresources; closedstoreroomopenedbeforeaccess; sellerpositionsrepaired.",
+      "author_fidelity": "PASSeditorial: all relevantselectedchain enactedwithoutfakegift/mockingfandom/automaticIPtransfer.",
+      "voice_comedy": "PASSeditorial: specificchef/riverhost/Arthurfamily/diplomaticDutch/DrEvilstatus/Brianfounderhumor; no copiedfilmquotebank; no guaranteedentertainmentclaim.",
+      "continuity": "PASS:2120-9=2111;66-12=54;5businessreceiptseparate;Arthurcured;giftretained;oneexterior.",
+      "audio": "NOT_RUN:assumed150wpm50.95minfeature; textpreparedforReadAloud only."
+    }
+  },
+  "future_threads": [
+    "Brian'scaughtsabotagereportandDrEvilreaction unresolved; donotassertbossalreadyknows.",
+    "Clifford stillcarriesArthur replyforDutch; actualdeliveryrequired.",
+    "Trademarkclaimconsultationpending,nolegallyregisteredrights.",
+    "Foodsecurityoperationhasoneactualsuccessfultrial,notpermanentmonopoly; Sinscanindependentlyreact.",
+    "Danielkilleridentity,Maul/KK,Frylock/Shake,otherselectednative/crossoverthreads remain pendingwithactualaccess/knowledge; no automaticdeath orrematch.",
+    "No45authorizedbeforefreshrequest."
+  ],
+  "next_episode_after_play": 45,
+  "episode45_authorized": false
+}
