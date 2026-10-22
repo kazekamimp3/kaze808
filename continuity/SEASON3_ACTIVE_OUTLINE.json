@@ -920,6 +920,27 @@
       "status": "AUTHOR_SELECTED_DEVELOPMENT",
       "owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
       "scope": "Latest8plotdirections and20relationshipbehaviors approved; latestKaze solo inquiry takes priority, outcomes retain agency/access; no all-in-one episode"
+    },
+    "FOURTH_WALL_POKER_RECOGNITION": {
+      "owner": "continuity/author/S7NS_Post_E50_Fourth_Wall_Recovery_Animal_Scope_20261021.md",
+      "latest_audio_owner": "continuity/author/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_20261021.md",
+      "status": "AUTHOR_SELECTED_BEAT_NOT_DRAFTED",
+      "purpose": "Poker intrusivebuild/recollection ofexistingawareness, discoverWade narrator",
+      "frozen_original_unchanged": true,
+      "current_narrator": "Wade already33+",
+      "permission_owner": "continuity/author/S7NS_Post_E50_Fourth_Wall_Recovery_Animal_Scope_20261021.md"
+    },
+    "KRATOS_MIMIR_HISTORY_CALLBACK": {
+      "owner": "continuity/author/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_20261021.md",
+      "status": "AUTHOR_SELECTED_POSSIBLE_LATER",
+      "timeline": "AfterWaderecognition, nofixed51/cliffhanger",
+      "same_Mimir": true,
+      "Daynah_Brian": "Rememberactualoldrearhipheadhistorywhenavailable"
+    },
+    "STARKILLER_R2_INTERSECTION": {
+      "owner": "continuity/author/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_20261021.md",
+      "status": "PROPOSED_OPEN_CONSTRUCTION",
+      "boundary": "KazeinitialinquiryremainsSOLO;noautomaticR2theft/locationorDLCmemories"
     }
   },
   "crossover_deployment": [
@@ -2572,7 +2593,7 @@
     "new_events": [],
     "episode51_authorized": false
   },
-  "latest_post_E50_selected_owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
+  "latest_post_E50_selected_owner": "continuity/author/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_20261021.md",
   "latest_author_approvals_and_corrections": {
     "change_id": "S7NS_POST_E50_APPROVALS_KAZE_STARKILLER_CAST_MOBILITY_20261021",
     "owner": "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
@@ -2595,9 +2616,9 @@
     "animal_stances": {
       "Kaze": "Petty malicious cruelty/hostage betrayal possible",
       "Chris": "Willing to kill opponent-owned animals, context matters",
-      "Arthur": "Maximum lowhonor, context-dependent willingness",
+      "Arthur": "Maximumlowhonor retained; newestrest-of-gangclarification supersedesautomatictrioanimalstance",
       "Mana": "Apex predator actively hunts edible prey smaller and sometimeslarger, raw bones included, noKi/nonverbal unchanged",
-      "others": "No new blanket rule"
+      "others": "DO_NOT_OPERATE_SAME_AS_KAZE_CHRIS_MAHNAH"
     },
     "household_exit": "Shake+Meatwad voluntarily depart when/after actual Frylock death. Charles remains. All alive/interior atactual50; no departure/death enacted.",
     "Starkiller_inquiry": {
@@ -2610,6 +2631,44 @@
     },
     "Clifford_trauma": "Unsolicited inappropriate timing/uninterested listeners",
     "Billy_lore": "Substantial unsolicited lore incl midfight to opponent; combat agency continues, no invented history or second exterior",
+    "story_days_advanced": 0,
+    "episode51_authorized": false
+  },
+  "latest_author_mask_meta_vehicle": {
+    "change_id": "S7NS_POST_E50_MASK_META_VEHICLE_CALLBACKS_20261021",
+    "owner": "continuity/author/S7NS_Post_E50_Mask_Meta_Vehicle_Callbacks_20261021.md",
+    "status": "AUTHOR_SELECTED_CONFIGURATION_AND_FUTURE_BEATS_NO_PLAY",
+    "fourth_wall_owner": "continuity/author/S7NS_Post_E50_Fourth_Wall_Recovery_Animal_Scope_20261021.md",
+    "audit": "continuity/work/S7NS_Post_E50_Buried_Character_Permissions_Audit_20261021.md",
+    "permissions": {
+      "Kaze": "LITERAL",
+      "Chris": "LITERAL_LEARNED_FROM_BILLY",
+      "Billy": "LITERAL",
+      "Mana": "SILENT_CANINE",
+      "Daniel": "HISTORICAL_DEAD",
+      "others": "OWN_SOURCE_ONLY"
+    },
+    "narrator_reciprocity": "Three can hear/address/argue/roast currentWade; notautomaticallyhostile. May ask mysteryanswers; Wade maydiscloseTRUEESTABLISHEDanswerorwithhold. Actualrevelationchangesactor knowledge; newnarrowoverrideofblanketblock, nounresolvedanswerinvented.",
+    "Chris_exterior": {
+      "Billy": "FULLSIZE_INSIDE_WITH_OWN_BANJO",
+      "voice_projector": "CHRIS_PREDATOR_MASK_HEADGEAR",
+      "no_double_banjo": true,
+      "mask_use": "Combat default / wheneverChrischooses",
+      "modes": "Independent thermal/lowlight/magnification/audio; noTeemo orreplacementAI"
+    },
+    "Billy_exterior": "Ownbanjoexterior; existinginteriorChris voiceoutlet retained",
+    "poker_revision": "SELECTED_E50_SAME_SPAN_INSERTION_NOT_DRAFTED_OR_DELIVERED; realization→Waderecognition, orderingopen, usemask",
+    "Kratos_Mimir": "Possiblelaterreachableencounter withSAMEphysicalhead alreadywithKratos; noforced51",
+    "Daynah_Brian_history": "Priorlivinghead onDaynah rearhip; callbackwhenactuallyinformed/reachable, notnewheadbody",
+    "Brian_height": {
+      "status": "PROPOSED_NOT_LOCKED",
+      "barefoot_inches": 30,
+      "barefoot_cm": 76.2
+    },
+    "Subaru": "ONE1998blue/gold22B↔Xwing, ownPokeballdeployrecall, actualE20emptyrecalls, notnewacquisition",
+    "R2_D2": "Independentexistingcompanion; actualwhereaboutsUNRESOLVED, notautomaticballoccupant/ownedproperty",
+    "Starkiller_R2": "LaterTatooineDLCactualR2interceptionprimaryverified; pinnedpreDLCversiondoesnotrememberit. Recognitionoftypeinference, personalrecognitionunverified; theftnotautomatic",
+    "animal_scope": "Kaze/Chris/Mahnah statedbehavior; restoperate differently, Arthur lowhonornotautomaticmembershipintrio",
     "story_days_advanced": 0,
     "episode51_authorized": false
   }
