@@ -1,0 +1,103 @@
+{
+  "schema": "S7NS_PAIRED_EPISODE_PREPARATION_V1",
+  "change_id": "S7NS_E42_A_VERY_IMPORTANT_CALL_20261021",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 42,
+  "title": "A Very Important Call",
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "User explicitly PLAY episode42; single42 only.",
+  "previous_delivery": {
+    "change_id": "S7NS_E41_CLUCK_R2_CHAT_DELIVERY_RECONCILIATION_20261021",
+    "episode": 41,
+    "title": "Cluck Around and Find Out",
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_FINAL_20261021.txt",
+    "sha256": "1bb3a0098e8d1467afcac0d132fe08a09092d1f4588b6b2335d7a0c97392d2c0",
+    "checkpoint": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
+    "basis": "Full immediately preceding assistant response visible from title through Don't fucking coach him. Current user requests Episode42. Exact saved GitHub pair and Drive manuscript retrieved; no machine byte comparison against rendered chat asserted. Old His Own Two Feet remains explicitly rejected/nonactive.",
+    "four_apps": "Existing GitHub/Drive/Notion/Airtable records consulted before drafting42. Matching original prepared pair preserved.",
+    "next_episode": 42
+  },
+  "manuscript": {
+    "path": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_FINAL_20261021.txt",
+    "sha256": "5ae27d3461cb6ea15e5d0d4d74aab5d420930646ef7b02bd5aae1d85bd7a0971",
+    "git_blob_sha1": "69390d296c65530f20448f056660f7141fb7a9ab",
+    "words": 3807,
+    "estimated_minutes_at_150_wpm": 25.32,
+    "audio_generated": false,
+    "drive_id": "1KLp3EwdFp5kgywi1MdAB55N30ucqsfXHyN5Yh8wVWk0",
+    "drive_url": "https://docs.google.com/document/d/1KLp3EwdFp5kgywi1MdAB55N30ucqsfXHyN5Yh8wVWk0/edit?usp=drivesdk"
+  },
+  "checkpoint_path": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_Checkpoint_20261021.json",
+  "source_reading": {
+    "reused": "Complete Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md SHA1 1228409d598af2679dfd70dd77d62f92ae1416ea, shoplifting integration, doctrine, active-comedy v1.1, current narrator and shared-body rules already read in this conversation.",
+    "fresh_complete_owners": [
+      "Van_der_Linde_Dutch_Source.txt",
+      "Brian_Fictional_Conjoined_Character_Source.txt",
+      "Jack_Marston_RDR1_Adult_1914_Duel_Source.txt",
+      "Clifford_Marston_Visual_20261019.md",
+      "Deadpool_Primary_Narration_After_E32_20261019.md",
+      "Tracy_Morgan_Speech_Fidelity_After_E32_20261018.md"
+    ],
+    "shared_source": "Busta_Rhymes_Conjoined_Brian_Fictional_Source.txt retrieved; older Busta identity, cybernetics, frozen prison/future labels yield to current Tracy/cast-death/actual E40 sources.",
+    "evidence_rule": "No original rejected41 event imported as occurred; selected host theft/DrEvil/gift sequence newly constructed in42."
+  },
+  "scene_end_if_played": {
+    "chronology": "Sins frame exactly continues final E41 firewood event on ruptureday9. Explicit five mornings earlier depicts previously unshown TPP day4 room extension and host theft. Nextmorning day5 DrEvil arrival/gift/unmasking/fakecall. Closing explicitly returns fourdayslater to same Sins frame, no world reset/replay or automatic new current day.",
+    "Tracy": "Permanently dead through Brian's knowingly continued host theft; body covered with net-mender awaiting handling, unpriced charge promised but not paid.",
+    "Brian": "Separate miniature adult with organic new legs, weak initial gait, cloth covering. Organism seam independently twitches; not cured, mastered, immortal or telepathic. Dutch/Clifford know his culpability. Current final TPP seen leaving briefing for crew clothing; not received yet.",
+    "TPP": "Dr Evil resource-backed leadership negotiated. Dutch direct right-hand/local liaison. Existing stolen ledger retained by Dutch; crew copies actual port headings and broken-road warning. Clifford retains chair/weapons/agency. They board actual working crewed submarine; ordered quarters/food/wash water and wash water actually provided; no dinner or ownership of Earth arsenal asserted.",
+    "gift": "Real working laser-beam lightsaber actually gifted and accepted by Clifford. Demonstrated activation, safe clearance/control explanation and chair strap consume nearly2minutes before sincere unmask/thanks. No Force powers or automatic cutting of all defenses. Hilt secured to chair.",
+    "mistake": "DrEvil sincerely thought masked/suited Clifford was DarthVader. Only after unmask he discovers cowboy, waits for name, hears Jack/Clifford and unsolicited personal trauma. Hides error with unringing fake important call; no confession/retraction. Clifford keeps weapon.",
+    "last_TPP_position": "DrEvil and Dutch privately in briefing room immediately after other departures, last line Who the fuck was that cowboy? Actual Arthur-to-Dutch game-origin conversation NOT yet established; no RDR game claim or crew research retroactively granted.",
+    "Sins": "Endframe same stream camp as41: Chris exterior returns from washinghands; Billy full-size inside sees headlamp and speaks banjo. Daynuh/Mahnuh/Arthur/Kaze outside, KK remains living guest at last known camp, not newly shown. Daniel buried, gear/purse custody retained.",
+    "food_security": "E41 merchant inquiry traveler remains underway/undelivered. No TPP contract/storage operation or collision before protected two-meeting chain.",
+    "others": "Frylock/KK living; selected future cuts remain pending. No unrelated actor travel/encounter introduced."
+  },
+  "resources_if_played": {
+    "common_silver": 2120,
+    "Kaze_silver": 0,
+    "Daniel_purse": 110,
+    "custodian": "Arthur, unopened separate",
+    "TPP_start": 72,
+    "room_extension": 6,
+    "TPP_end": 66,
+    "corpse_handling": "Unpriced unpaid charge promised; no deduction or burial invented.",
+    "shots": 0,
+    "E31_chests": "Both unopened/uncounted",
+    "new_equipment": "Clifford accepted actual dangerous laser-beam lightsaber, strap and case. Source-compatible submarine/crew introduced with finite uncounted stores; no bank connection, named film cast, superweapon inventory or unlimited fuel grant."
+  },
+  "review": {
+    "first_whole_read": "Entire3740-word file reopened and read in untruncated5885-token output.",
+    "repairs": [
+      "Correct room actors to four independent men.",
+      "Remove five-mornings/first-theft timing mismatch; anchor TPP atportday4.",
+      "Keep unknown corpse-handling bill as natural dialogue/narration instead of production disclaimer.",
+      "Show organism independent seam twitch after new legs.",
+      "Make genuine Vader belief legible at reveal.",
+      "Fix hilt custody and ambiguous Brian-exit grammatical subject.",
+      "Expand purposeful gift acceptance/name pause; final3807words."
+    ],
+    "final_whole_reread": "Complete final3807wordfile reopened and read untruncated6020-token output after all edits. No subsequent prose edits.",
+    "weakest_span": "Initial takeover too short/mostly promises; extended real ledger/chart work, Dutch's terms, independent Clifford access choice and Brian status collision. Remains actual negotiation rather than generic paperwork.",
+    "checks": {
+      "comedy": "PASS editorial: DrEvil ceremony/petty hierarchy/mistaken fan gift, Brian ignored founder, grotesque autonomy theft, sincere Jack disclosure/fakecall; distinct register/actors.",
+      "source_fidelity": "PASS editorial: actual selected death and source-bounded organism, Vader genuine mistake/gift before1-2minreveal/no retraction, no premature game omniscience.",
+      "continuity": "PASS:72-6=66; explicit concurrent chronology, actual routes/hands/custody, no Sins boat travel, narratorWadeonly.",
+      "audio": "NOT_RUN. Estimated25.3minutes at150wpm; plainTTStext, no measured voice performance."
+    }
+  },
+  "future_threads": [
+    "Establish actual Arthur-to-Dutch RDR knowledge route before accordingtoArthur explanation.",
+    "DrEvil private Dutch exchange then his OWN crew needs actual media access before research; no automatic Earth internet.",
+    "Later distinct second meeting: rehearsed RDR references/community memes, tattoos/neck misunderstanding, optional accidentalspoiler, Brian founder/trademark dispute; no forced legal transfer.",
+    "Food-security inquiry requires delivered message/contract after protected meetings, then actual accessible Mahnuh/TPP convergence.",
+    "Other selected cast deaths, Noxus/Heisenberg/roster threads remain open without compulsory cameos."
+  ],
+  "authorship": "Kaze originates S7NS, host-theft death/leadership/Vadergift/unmask/fakecall/RDRfuture/founder premises. Assistant authors this episode's new prose, dialogue, connective negotiation, bounded anatomy and local crew actions.",
+  "next_episode_after_play": 43,
+  "episode43_authorized": false,
+  "drive_checkpoint_id": "1JZg2I4BrLFVg6FowiDPLUSyiy1wiuNtM3K_9Uzxpk2A"
+}
