@@ -2,17 +2,17 @@
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "as_of": "2026-10-21 Pacific/Honolulu: E50 delivery reconciled; post-E50 WORK directions and proposed brainstorm",
-  "last_delivered_episode": 50,
-  "next_episode": 51,
-  "delivery_status": "E50_DELIVERED_PROVISIONAL",
+  "last_delivered_episode": 51,
+  "next_episode": 52,
+  "delivery_status": "E51_R1_DELIVERED_PROVISIONAL_R2_PREPARED",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "continuity/episodes/E50/CHAT_DELIVERY_RECONCILIATION_20261021.json",
-  "manuscript": "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
-  "manuscript_git_blob_sha1": "6775a71254249a00a6f60c250c4f753c2ff93f1a",
-  "manuscript_sha256": "a4797d2634759a54fe6c19ae0484d7eb81acaa9b15ed00ffed1c8b70aaece377",
-  "checkpoint": "continuity/episodes/E50/S3_E50_All_In_Checkpoint_20261021.json",
-  "state_owner": "continuity/episodes/E50/CHAT_DELIVERY_RECONCILIATION_20261021.json",
+  "delivery_reconciliation": "continuity/episodes/E51/R1_CHAT_DELIVERY_RECONCILIATION_20261022.json",
+  "manuscript": "continuity/episodes/E51/S3_E51_Fetch_FINAL_20261022.txt",
+  "manuscript_git_blob_sha1": "22fe44846f6573031e9a569a0e63581043c30a9c",
+  "manuscript_sha256": "c37c4647b6c4521fd8d2b04a1393c88ceac8f29ffbc0f744ba4208ba1d573ee7",
+  "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_Checkpoint_20261022.json",
+  "state_owner": "continuity/episodes/E51/R1_CHAT_DELIVERY_RECONCILIATION_20261022.json",
   "state_rule": "E50 delivered actual state is in its reconciliation. New WORK directions/proposals do not advance story time or enact deaths/regrowth.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -23,49 +23,43 @@
     "scope": "The ENTIRE previous CURRENT JSON, including E34 installation receipts, earlier research, previous episode/recovery records, scoped configurations, exact feature paths and all staged-package hashes, remains unchanged at this immutable revision. Historical work pointers there do not supersede this current workflow receipt. Consult it for any unchanged prior metadata rather than assuming absence."
   },
   "continuation_authorization": {
-    "status": "EXPLICIT_SINGLE_PLAY51_AUTHORIZED",
-    "episode51_authorized": true,
-    "episode52_authorized": false,
-    "direct_author": "play episode 51"
+    "status": "EXPLICIT_REVISE_AND_REPLAY_E51_ONLY",
+    "episode51_revision_authorized": true,
+    "episode52_authorized": false
   },
   "prepared_episode": {
-    "change_id": "S7NS_E51_FETCH_20261022",
+    "change_id": "S7NS_E51_FETCH_JESUS_RECOGNITION_R2_20261022",
     "episode_span": [
       51
     ],
     "episode_count": 1,
     "title": "Fetch",
+    "revision": "R2",
+    "same_episode_revision": true,
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
     "author_acceptance": "NOT_ASSERTED",
-    "authorization": "Latest direct user: play episode 51. Single51 only, no52.",
-    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_FINAL_20261022.txt",
-    "manuscript_sha256": "c37c4647b6c4521fd8d2b04a1393c88ceac8f29ffbc0f744ba4208ba1d573ee7",
-    "manuscript_git_blob_sha1": "22fe44846f6573031e9a569a0e63581043c30a9c",
-    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_Checkpoint_20261022.json",
-    "checkpoint_git_blob_sha1": "5364e56a5b1580ab62793a6111ed513b44d32618",
-    "drive_manuscript_id": "1G0PZ4-tx0TscbFl0ALo_9UTP55Gf-ZuA",
-    "drive_checkpoint_id": "1PdvtcdbNM2cFN51pQA0XBOb9m2FF9Mn-",
-    "drive_format": "Raw UTF-8 text/plain manuscript and application/json checkpoint; exact remote content/decoded bytes verified, not native Docs.",
+    "authorization": "Explicit revise/resend51 with Billy whole Jesus story and Bible recovery jokes. No52.",
+    "author_owner": "continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md",
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R2_FINAL_20261022.txt",
+    "manuscript_sha256": "0477f3dd40caf0ca40547a4f1ffb2714865bc52bd8c1f50982e6be85c650e8be",
+    "manuscript_git_blob_sha1": "751181959e7aa0e692c32ee99c956d34a1ab6695",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json",
+    "drive_manuscript_id": "1oRFtAEIelowv8yGApdDfVYbPnvGPHD1s",
+    "drive_checkpoint_id": "1pNfxHmNsjnthfB13BwdrhEBIMD27T9gI",
     "airtable_episode_record_ids": [
       "recO0O1hxfH6Cc00F"
     ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
-    "four_app_readbacks": {
-      "GitHub_pair_exact": true,
-      "Drive_manuscript_exact_text_and_checkpoint_base64_bytes": true,
-      "Airtable_hash_status_checkpoint": true,
-      "Notion_prepared_scope_hash_links": true
-    },
-    "words": 3804,
-    "assumed_wpm": 150,
-    "estimated_minutes": 25.36,
-    "next_action": "Render exact saved51 text in current authorized PLAY response; next interaction reconcile actual completion. No52 authorization."
+    "words": 5010,
+    "estimated_minutes_at_150_wpm": 33.4,
+    "audio_generated": false,
+    "next_action": "Render exact frozen R2 in authorized same-episode resend; reconcile actual R2 only after full response exists."
   },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -103,8 +97,8 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "E51_PREPARED_REVIEWED_SAVED_FOUR_APP_READBACK_FOR_AUTHORIZED_PLAY",
-  "work_resume_checkpoint_latest": "continuity/episodes/E51/S3_E51_Fetch_Checkpoint_20261022.json",
+  "work_status": "E51_R2_FINAL_REVIEWED_SAVED_VERIFYING_DESTINATIONS",
+  "work_resume_checkpoint_latest": "continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json",
   "work_change_id": "S7NS_CUMULATIVE_REPLACEMENT_PATCH_20261022",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
@@ -1735,5 +1729,39 @@
     "assumed_wpm": 150,
     "estimated_minutes": 25.36,
     "next_action": "Render exact saved51 text in current authorized PLAY response; next interaction reconcile actual completion. No52 authorization."
+  },
+  "prepared_E51_Fetch_R2_20261022": {
+    "change_id": "S7NS_E51_FETCH_JESUS_RECOGNITION_R2_20261022",
+    "episode_span": [
+      51
+    ],
+    "episode_count": 1,
+    "title": "Fetch",
+    "revision": "R2",
+    "same_episode_revision": true,
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Explicit revise/resend51 with Billy whole Jesus story and Bible recovery jokes. No52.",
+    "author_owner": "continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md",
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R2_FINAL_20261022.txt",
+    "manuscript_sha256": "0477f3dd40caf0ca40547a4f1ffb2714865bc52bd8c1f50982e6be85c650e8be",
+    "manuscript_git_blob_sha1": "751181959e7aa0e692c32ee99c956d34a1ab6695",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json",
+    "drive_manuscript_id": "1oRFtAEIelowv8yGApdDfVYbPnvGPHD1s",
+    "drive_checkpoint_id": "1pNfxHmNsjnthfB13BwdrhEBIMD27T9gI",
+    "airtable_episode_record_ids": [
+      "recO0O1hxfH6Cc00F"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "words": 5010,
+    "estimated_minutes_at_150_wpm": 33.4,
+    "audio_generated": false,
+    "next_action": "Render exact frozen R2 in authorized same-episode resend; reconcile actual R2 only after full response exists."
+  },
+  "latest_cumulative_author_scope": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md",
+  "latest_Billy_Jesus_correction": {
+    "owner": "continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md",
+    "status": "AUTHOR_SELECTED_R2_PREPARED",
+    "rule": "Campfire Special5 gift toChris occurred. Same whole Jesus/cross/crown swallow. Billy disbelieves until priest authenticates actual artifacts in R2; only then first recognizes Jesus. R1 early-knowing portrayal corrected by upcoming same-span revision. Preserve original Special5 and all unrelated rules."
   }
 }
