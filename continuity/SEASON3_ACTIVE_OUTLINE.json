@@ -1,8 +1,8 @@
 {
-  "status": "ACTIVE_ENSEMBLE_AFTER_DELIVERED_E50_WORK_ONLY",
+  "status": "ACTIVE_AFTER_E51_R1_DELIVERY_R2_PREPARED",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "state_owner": "continuity/CURRENT.json",
-  "next_new_main_episode": 51,
+  "next_new_main_episode": 52,
   "working_episode_count": null,
   "count_is_quota": false,
   "latest_sequence_lock": {
@@ -1280,7 +1280,7 @@
     "topic_sources/Capability_and_Speech_Overrides.txt",
     "approved_rolloff/staged/EXACT_QUOTE_REGISTER.json"
   ],
-  "current_cursor": "E50 All In delivered provisionally; Day19 Sins at barn drinking house below old works, intent to seek capital road. TPP last observed shipboard night18. Episode51 not authorized.",
+  "current_cursor": "Episode51 R1 delivered provisionally, same-span R2 prepared for explicit resend; no52 authorization",
   "pre_solo_schedule_provenance": "Unmodified prior outline preserved in rollback; current scheduling below overrides stale E17/E18 cursor and pending-introduction claims.",
   "focus_mode": "ENSEMBLE",
   "romance_owner": "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
@@ -2947,5 +2947,38 @@
     "status": "PREPARED_NOT_OCCURRED_UNTIL_PLAY",
     "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_Checkpoint_20261022.json",
     "continuation": "Day19 junction: Kaze departs alone toward coast with same Maul hilt fromArthur; otherSins intend return aboveworks, not yet there. TaiLung identity actually disclosed/relayed within candidate; current locations unknown. Capital objective displaced pending inquiry, not completed. Selected E50 poker insertion remains unperformed; restaurant consequence duty remains open beyond local alarm. All unrelated selected cumulative threads retained."
+  },
+  "prepared_E51_Fetch_R2_20261022": {
+    "change_id": "S7NS_E51_FETCH_JESUS_RECOGNITION_R2_20261022",
+    "episode_span": [
+      51
+    ],
+    "episode_count": 1,
+    "title": "Fetch",
+    "revision": "R2",
+    "same_episode_revision": true,
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Explicit revise/resend51 with Billy whole Jesus story and Bible recovery jokes. No52.",
+    "author_owner": "continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md",
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R2_FINAL_20261022.txt",
+    "manuscript_sha256": "0477f3dd40caf0ca40547a4f1ffb2714865bc52bd8c1f50982e6be85c650e8be",
+    "manuscript_git_blob_sha1": "751181959e7aa0e692c32ee99c956d34a1ab6695",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json",
+    "drive_manuscript_id": "1oRFtAEIelowv8yGApdDfVYbPnvGPHD1s",
+    "drive_checkpoint_id": "1pNfxHmNsjnthfB13BwdrhEBIMD27T9gI",
+    "airtable_episode_record_ids": [
+      "recO0O1hxfH6Cc00F"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "words": 5010,
+    "estimated_minutes_at_150_wpm": 33.4,
+    "audio_generated": false,
+    "next_action": "Render exact frozen R2 in authorized same-episode resend; reconcile actual R2 only after full response exists."
+  },
+  "latest_Billy_Jesus_authority": {
+    "owner": "continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md",
+    "status": "AUTHOR_SELECTED_R2_PREPARED",
+    "rule": "Campfire Special5 gift toChris occurred. Same whole Jesus/cross/crown swallow. Billy disbelieves until priest authenticates actual artifacts in R2; only then first recognizes Jesus. R1 early-knowing portrayal corrected by upcoming same-span revision. Preserve original Special5 and all unrelated rules."
   }
 }
