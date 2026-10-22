@@ -1,3 +1,11 @@
+# LATEST SCOPED AUTHOR CORRECTION — E51 R2, 22 October 2026
+
+Read continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md and the current matching episode checkpoint. User explicitly authorizes revising/resending51. The original campfire Special5 already establishes swallowing the WHOLE actual Jesus, the cross He was nailed to, crown of thorns and nails, with the real cross/crown later GIFTED to Chris. Do not demote that occurred gift to a future plan. Jesus is dead/digested/defecated under the latest cumulative correction; artifacts were separately preserved.
+
+The prepared R2 has exterior Billy retell that same story in NEW wording, still believing an impersonator until the priest physically examines/authenticates the original cross/crown. ONLY THEN Billy first accepts Jesus was genuine. Chris's requested Indian giver line invokes the prior gift; he permits an inspection LOAN and retains ownership, with actual release and reintake. Chapel replica is separate, nails not included. R1 early-knowing portrayal is superseded within the revised51 scene, original R1 and original campfire bytes preserved. R2 new knowledge is PREPARED until complete revised response exists. Source mechanics and every unrelated cumulative direction below remain valid; no new52/day/power/resurrection/divine detector/gift to priest.
+
+## Preserved earlier complete owner
+
 # CURRENT COMPLETE CHRIS/BILLY CHARACTER MECHANICAL OWNER — LATEST AUTHOR SUPERCESSION AFTER E32
 Absolute actor exclusion: authority/Character_Removal_Teemo_20261019.json; signature details: canon/characters/Chris_Billy_Signatures_Teemo_Erasure_20261019.md. One removed character has NO active existence, mechanic, mentor history, independent mind or gear tech. The old embedded header and inactive historical chapters below do not reinstate such material. Chris Moose is always voluntarily triggerable with legitimate bodily access, Billy Kancho remains 67-year perfected and fatal on valid landing; owner mechanics maintained. E32 delivered; E33 not enacted by WORK.
 
