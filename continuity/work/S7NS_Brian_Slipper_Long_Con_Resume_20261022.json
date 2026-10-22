@@ -1,0 +1,76 @@
+{
+  "change_id": "S7NS_BRIAN_SLIPPER_SLEEPWALK_DREVIL_LONG_CON_20261022",
+  "status": "COMPLETED_SAVED_AND_READBACK_VERIFIED",
+  "author_owner": "continuity/author/S7NS_Brian_Slipper_Sleepwalk_DrEvil_Long_Con_20261022.md",
+  "previous_completed_checkpoint": "continuity/work/S7NS_TPP_Fan_Love_Resume_R2_20261022.json",
+  "proofs": {
+    "GitHub_exact_files": true,
+    "Drive_native_index_exact": true,
+    "Drive_parent": true,
+    "Notion": true,
+    "Airtable_decision": true,
+    "Airtable_characters": true,
+    "actual_delivery_unchanged": true
+  },
+  "GitHub_files": [
+    {
+      "path": "continuity/author/S7NS_Brian_Slipper_Sleepwalk_DrEvil_Long_Con_20261022.md",
+      "blob_sha1": "04f46080a8ac98c6d36138032234cde0d107ec70",
+      "exact_text": true
+    },
+    {
+      "path": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+      "blob_sha1": "10605c564239215e508ca9051e4c8b749afa4749",
+      "exact_text": true
+    },
+    {
+      "path": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
+      "blob_sha1": "1ef03217b728cf63d0b2f97dbf281ac3d0fde7e3",
+      "exact_text": true
+    },
+    {
+      "path": "continuity/CURRENT.json",
+      "blob_sha1": "cd4686a371e665e30ae5d8522b0fb5f05d101545",
+      "exact_text": true
+    }
+  ],
+  "drive_document": "1nbz3q7LDSL4YCc3C-YwYn8S-3liyYKnYYHtdaCZTBC4",
+  "notion_page": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+  "airtable_decision": "recHGMs7eWktxtMiT",
+  "airtable_characters": [
+    "recbLT5UaQU9qqbWC",
+    "rec17KPB18Y1vviGh",
+    "recNrlIiUZJeQc8Xu"
+  ],
+  "selected_application": {
+    "change_id": "S7NS_BRIAN_SLIPPER_SLEEPWALK_DREVIL_LONG_CON_20261022",
+    "owner": "continuity/author/S7NS_Brian_Slipper_Sleepwalk_DrEvil_Long_Con_20261022.md",
+    "status": "AUTHOR_SELECTED_SLEEP_ANECDOTE_AND_RELATIONSHIP_MOTIVE_CORRECTION_NO_PLAY",
+    "slipper": {
+      "source": "Tristan/Kaze's direct real-life account, not Chris's anecdote or recovered independent transcript",
+      "real_sequence": "Tristan on phone → sleepwalking Brian approaches → removes Tristan's LEFT slipper → examines slipper with EYES CLOSED",
+      "status": "SELECTED_FUTURE_ADAPTATION_NOT_ENACTED",
+      "placement": "Additional occasional sleepwalking behavior alongside existing stage2 repertoire; no compulsory episode order",
+      "fiction_witness": "Kaze is natural self-insert adaptation; no unperformed scene/phone acquisition recorded",
+      "limits": "Preserve left side, phone context and closed eyes; do not diagnose cause or add injury/confrontation to the real account"
+    },
+    "DrEvil_Brian": {
+      "motive": "SOLE PURPOSE OF GETTING CLOSE IS THE ULTIMATE REVERSAL: calculated manipulation/long con",
+      "supersedes": "Earlier permission for genuine affection or deep attachment on Dr Evil's side as motive",
+      "Brian_experience": "Brian's feeling of acknowledgment, acceptance and belonging may be sincere; actual competence can be recognized as part of bait",
+      "development": "Patient convincing closeness earns trust before major personal reversal; ordinary petty humor persists without discharging payoff",
+      "timing_mechanism": "OPEN_NOT_ENACTED",
+      "preserved": "Scotty/daddy; tiny adult Brian founder/DJ and agency; Mini-Me naming remains Dr Evil choice; Busta rest"
+    },
+    "other_relationships": "No automatic TPP-wide conspiracy, new Dutch intention, or change to Clifford pseudo-fandom. Dutch's enabling remains unintended effect of restraint.",
+    "actual_delivered_episode": 50,
+    "episode51_authorized": false,
+    "story_days_advanced": 0
+  },
+  "actual_delivered_episode": 50,
+  "episode51_authorized": false,
+  "story_days_advanced": 0,
+  "manuscripts_and_frozen_checkpoints_rewritten": false,
+  "project_UI_installation": "NOT_CHANGED_NOT_CLAIMED",
+  "next_action": "Continue from completed WORK checkpoint. Tristan's left-slipper/closed-eye account is future adaptation material; Dr Evil's sole closeness motive is calculated ultimate reversal. Earlier contrary genuine-affection permission superseded; no new scene enacted."
+}
