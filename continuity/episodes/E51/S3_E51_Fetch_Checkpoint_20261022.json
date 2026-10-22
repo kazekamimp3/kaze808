@@ -1,0 +1,129 @@
+{
+  "schema": "S7NS_SINGLE_EPISODE_PREPARATION_V1",
+  "change_id": "S7NS_E51_FETCH_20261022",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 51,
+  "title": "Fetch",
+  "episode_count": 1,
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": {
+    "direct_author": "play episode 51",
+    "scope": "Single new Episode51 only; no Episode50 rewrite or Episode52 PLAY."
+  },
+  "previous_delivery": {
+    "episode": 50,
+    "title": "All In",
+    "status": "DELIVERED_PROVISIONAL",
+    "manuscript": "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
+    "sha256": "a4797d2634759a54fe6c19ae0484d7eb81acaa9b15ed00ffed1c8b70aaece377",
+    "reconciliation": "continuity/episodes/E50/CHAT_DELIVERY_RECONCILIATION_20261021.json"
+  },
+  "manuscript": {
+    "path": "continuity/episodes/E51/S3_E51_Fetch_FINAL_20261022.txt",
+    "words": 3804,
+    "bytes": 23528,
+    "sha256": "c37c4647b6c4521fd8d2b04a1393c88ceac8f29ffbc0f744ba4208ba1d573ee7",
+    "git_blob_sha1": "22fe44846f6573031e9a569a0e63581043c30a9c",
+    "estimated_minutes_at_150_wpm": 25.36,
+    "audio_generated": false,
+    "drive_id": "1G0PZ4-tx0TscbFl0ALo_9UTP55Gf-ZuA",
+    "drive_mime": "text/plain",
+    "drive_url": "https://drive.google.com/file/d/1G0PZ4-tx0TscbFl0ALo_9UTP55Gf-ZuA/view"
+  },
+  "checkpoint_path": "continuity/episodes/E51/S3_E51_Fetch_Checkpoint_20261022.json",
+  "sources": {
+    "bounded_four_app_prepass": {
+      "GitHub": "Fresh complete CURRENT and DELIVERY_LEDGER; exact E50 manuscript/checkpoint/reconciliation; live cumulative owner and active outline; live Chris CORE speech.",
+      "Airtable": "S7NS Continuity Control (Reference), appKCCr9zg0rsfbOI; actual E50 episode record recgzJP3OJ6uXFMrQ read, matching frozen hash and delivery status. E51 search returned no rows.",
+      "Notion": "Existing Episode and Checkpoint Index fetched; top E50 actual delivery section agrees. Historical lower sections not treated as current.",
+      "GoogleDrive": "Existing cumulative-release native document fetched; actual current cumulative owner agrees with attached source. Existing S7NS folder reused. E51 search returned no file."
+    },
+    "source_versions": {
+      "cumulative_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md",
+      "E36_E38_R2_blob": "f1dbb74c081e3c80a1ebc9ff7c97014b26b113f9",
+      "E39_E40_R2_blob": "634817760643f735ddabb57c88e50a6e5723ca3a",
+      "Chris_CORE_blob": "389ac960e3ddd08494a8ea7fe0cc03bbe72f5a45"
+    },
+    "material_full_owners_and_scopes": [
+      "Season3_Scene_Decision_Doctrine_20261010.md",
+      "S7NS_Authorial_Intent_Raw_Note_Fidelity_Active_Comedy_v1_1_20261020.md",
+      "S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
+      "S7NS_Cumulative_Approved_Update_20261022.md",
+      "S7NS_Post_E50_Fourth_Wall_Recovery_Animal_Scope_20261021.md",
+      "S7NS_Deadpool_Unhinged_Comparison_Humor_20261021.md",
+      "Deadpool current narrator and Rick speech owners",
+      "Chris CORE speech owner; original Chris/Billy deep-character, possession, fourth-wall, headgear and speech sections",
+      "Kaze individual portrayal, current morality/metafiction and full S39 forty-mechanism section",
+      "Arthur individual identity/voice/agency section; Dana and Mana complete individual source files",
+      "Lord Starkiller dedicated source; actual E39–40 freight-yard sequence and E36–38 Daniel/Tai Lung rematch passages"
+    ],
+    "limits": "Relevant sections and current scoped owners consulted; not a claim of rereading every historical source, whole combat kit or every archive. No new external factual research or audio test. Scene uses ordinary bodies, existing headgear and ordinary handling, no new combat ability."
+  },
+  "authorship": {
+    "Kaze_originated": "Characters, existing relationships/psychology, selected Mahnah church-crucifix theft and Billy/Jesus callback, Daynah trust/deception motive, narrator-answer permission, and solo Starkiller inquiry with real Maul-hilt handoff. Original raw notes remain unchanged in their source owners.",
+    "real_Chris_and_assistant": "Exact required four-turn contribution enacted at opening: Chris I farted.; assistant/Wade Noted.; Chris Thanks.; assistant/Wade Yep. First/third turns originated by real Chris, second/fourth by prior assistant as preserved by Kaze.",
+    "AI_expansion": "New episode prose/dialogue, ordinary chapel/unnamed congregation, physical cross-removal staging, bell alarm/recognition, actual narrator disclosures, freight-guard recontact/travel and final decision."
+  },
+  "candidate_state_after_play": {
+    "chronology": "Same Day19 afternoon as E50; no overnight or automatic capital arrival. Barn departure → foreman route → local chapel/gardens → square stone junction.",
+    "Chris_Billy": "Chris exterior throughout. Billy full-sized interior with own banjo; actual headlamp feed supplies exterior view and retracted Predator headgear projects his voice. No exterior banjo, duplicated body or instrument. BELLY residents remain inside and alive as at E50.",
+    "narrator_knowledge": "Kaze/Chris/Billy hear Wade directly under established capability. Mahnah retains silent canine awareness; no human subtitles. Arthur/Daynah cannot hear narrator. Kaze actually relays Tai Lung identity/rematch/loading-yard account; Chris/Billy hear directly. All group members hear Kaze repeat identity. Wade also supplies established name Lord Starkiller when asked. No current Tai Lung/Starkiller whereabouts or Maul affiliation invented.",
+    "Mahnah": "Independently removes chapel crucifix during service and carries it into forecourt as a stick. No form/scale/power change. Daynah and Chris take weight, Daynah cues release. Crucifix damaged, left with chapel; no ancient relic duplicated or transferred. No new money/food taken.",
+    "chapel": "Original supporting foreign congregation in Noxus, an AI-created location implementing the selected church beat; not asserted official Riot religious lore. Priest prevents candle fire, survives and demands departure. Existing Golden Heron notice enables local name/description recognition; smith bars shop, priest supports bell alarm and a man warns reachable homes. This is an initial local consequence, NOT fulfillment of the entire serious-lasting-consequence direction.",
+    "Daynah": "Baseline throughout, normal first-person speech. Hurt/anger concerns being excluded from dog information, not a new categorical anti-theft morality. Chris/Kaze agree to inform him. Agreement is not established permanent reform.",
+    "witness": "One surviving adult freight guard from actual E39–40 station describes witnessed cart lift, black blade/hinge, gate deaths and chart/port inquiry. Newly shown return from pay-officer search above works via next ford accounts for presence. Report is explicitly old, not a current Starkiller location. Guard remains alive and leaves freely.",
+    "Kaze": "Changes immediate route to solo coast inquiry seeking Starkiller/Maul association and further threat to family. No accusation that Starkiller directly killed Daniel, whose killer was just disclosed. No fixed confrontation/duel/alliance. Carries Maul hilt handed over by Arthur, inactive. Leaves junction alone on known backtrack toward coast; arrival not shown.",
+    "remaining_group": "Arthur, Chris/Billy, Daynah and Mahnah at square stone junction. Intend return above works and leave word with existing foreman if they move; actual return/camp not yet depicted. Capital/Swain objective displaced, still open.",
+    "actual_deaths_and_holds": "No new death or resurrection. Daniel/Tracy/Keke/Maul/Cartman/Jimmy/Timmy remain dead. Frylock alive; Shake/Meatwad/Charles inside. Romance OFF; Briar off plot; Teemo excluded; Zid not Sin."
+  },
+  "resources": {
+    "common_silver": 2111,
+    "Kaze_personal_silver": 0,
+    "Daniel_purse_unopened": 110,
+    "Daniel_purse_custodian": "Arthur",
+    "TPP_old_purse": 54,
+    "TPP_separate_business_receipt": 5,
+    "E31_chests": "Both unopened/uncounted",
+    "Maul_hilt": "Arthur hands same single inactive wrapped hilt to Kaze at junction",
+    "Arthur_survey": "Arthur retains same torn local map",
+    "new_silver_income_or_spending": 0,
+    "shots": 0,
+    "lightsaber_activations": 0,
+    "new_deaths": 0,
+    "cross": "Chapel-owned newly stolen/damaged/recovered object, left there; distinct from preserved ancient cross/crown",
+    "vehicle_and_R2": "No deployment, fuel creation or droid relocation."
+  },
+  "review": {
+    "first_full_read": "Complete 3782-word draft reopened untruncated after expansion. Earlier 2991-word construction was not released.",
+    "identified_repairs": [
+      "Restore independent Mahnah crucifix removal/carry rather than having Daynah help take it out.",
+      "Remove invented claim about what Jesus followers were discussing in historical scene.",
+      "Remove source-maintenance exposition from witness report and local alarm.",
+      "Correct returning guards travel direction at junction: comes down capital branch after pay-officer search reaching next ford.",
+      "Remove vague sword-carry placement; wrap same hilt at waistband.",
+      "Strengthen Chris concrete slippery-timber association without changing competent handling."
+    ],
+    "complete_final_reread": "Complete final 3804-word manuscript reopened untruncated after all final prose changes; no subsequent prose edits.",
+    "weakest_span_decision": "An ending only restating capital travel underdeveloped the selected inquiry. Added actual surviving-witness recontact, bounded historical information, differing group choices, physical hilt handoff and solo departure. Retained chapel alarm as local start of consequences, not a falsely completed imperial response.",
+    "mechanical_checks": {
+      "shared_body_and_audio": "PASS editorial: Chris remains exterior; Billy own interior banjo; voice from actual headgear.",
+      "canine_and_geometry": "PASS editorial: same giant canine, large open doors, low cross mounting, finite brackets/rope, ordinary grip/angle change; Daynah physical release cue.",
+      "knowledge": "PASS editorial: actual narrator disclosures persist and are relayed; guard relates actual witnessed E39–40 events only, stale timing acknowledged.",
+      "custody_resources": "PASS editorial: same hilt Arthur→Kaze; no firing, new money or ancient-artifact displacement.",
+      "author_fidelity": "PASS editorial judgment for enacted selected church theft, exact four turns, trust hurt and solo inquiry; selected E50 poker rewrite remains pending, not silently moved here.",
+      "comedy_voice_and_TTS": "PASS editorial judgment: distinct Billy hospitality/vanity, Chris associations/competence, Kaze personal instigation and Daynah baseline anger; straightforward spatial orientation and alternating humor/quiet. Not a guarantee of audience response.",
+      "audio_runtime": "NOT_RUN; 25.36 minutes at assumed150wpm, no audio generated."
+    }
+  },
+  "unperformed_selected_work": [
+    "E50 same-span poker intrusive-feeling/recollection/narrator-recognition insertion remains unwritten; E51 ordinary existing narrator interaction does not claim to enact/rewrite that specific E50 scene.",
+    "Tristan LEFT slipper/EYES CLOSED/phone anecdote and Chris shirt-lasso sleepwalking remain selected future. No Brian scene in51.",
+    "Dr Evil sole-motive long con, Dutch unintended enabling/fan-love, Frylock death/voluntary exits, Keke regrowth and Shang/Riddick compact fatal arcs retain latest cumulative scopes, not occurred by omission.",
+    "Restaurant serious lasting consequences still require further material follow-through for both Chris and Kaze; local recognition/alarm alone does not discharge requirement.",
+    "Kaze must actually locate/reach Starkiller before conversation; no preselected duel, lie, confession, alliance or return route."
+  ],
+  "next_episode": 52,
+  "episode52_authorized": false,
+  "delivery_rule": "Frozen candidate until full final response actually exists. Next interaction reconciles delivery as DELIVERED_PROVISIONAL; author acceptance separate."
+}
