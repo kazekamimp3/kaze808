@@ -61,7 +61,7 @@
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_Deadpool_Unhinged_Comparison_Humor_20261021.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -99,9 +99,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "POST_E50_SELECTED_TTS_FACTION_RELATIONSHIP_CORRECTIONS",
-  "work_resume_checkpoint_latest": "continuity/work/S7NS_Post_E50_TTS_Faction_Beef_Brian_Resume_20261021.json",
-  "work_change_id": "S7NS_POST_E50_TTS_FACTION_BEEF_BRIAN_REBALANCE_20261021",
+  "work_status": "SELECTED_DEADPOOL_UNHINGED_COMPARISON_COMEDY",
+  "work_resume_checkpoint_latest": "continuity/work/S7NS_Deadpool_Unhinged_Humor_Resume_20261021.json",
+  "work_change_id": "S7NS_DEADPOOL_UNHINGED_COMPARISON_HUMOR_20261021",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": "continuity/work/S7NS_Post_E50_Ensemble_Audit_Resume_20261021.json",
@@ -1398,5 +1398,14 @@
   "audience_TTS_names": {
     "Dana": "Daynah",
     "Mana": "Mahnah"
+  },
+  "prior_direct_author_scope_before_Wade_humor": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md",
+  "latest_Deadpool_humor_direction": {
+    "change_id": "S7NS_DEADPOOL_UNHINGED_COMPARISON_HUMOR_20261021",
+    "owner": "continuity/author/S7NS_Deadpool_Unhinged_Comparison_Humor_20261021.md",
+    "status": "AUTHOR_SELECTED_FUTURE",
+    "scope": "More original painfully specific grotesque/obscene comparisons like remembered penis/zipper example; scene-relevant, distinct Wade voice, no repeated zipper gag or joke quota",
+    "physical_deployment": "NARRATOR_ONLY_UNCHANGED",
+    "prior_TTS_relationship_owner": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md"
   }
 }
