@@ -2,8 +2,8 @@
   "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
-  "current_delivered_episode": 42,
-  "next_episode": 43,
+  "current_delivered_episode": 44,
+  "next_episode": 45,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -376,60 +376,88 @@
       "delivery_reconciliation": "continuity/episodes/E42/CHAT_DELIVERY_RECONCILIATION_20261021.json",
       "delivery_basis": "Complete Episode42 visibly rendered twice in this conversation, through Billy's I believe we should discuss the menu. User now says PLAY; continue43–44 under current two-episode default. No machine byte comparison against rendered chat or author acceptance claimed.",
       "originals_preserved": true
+    },
+    {
+      "episode": 43,
+      "title": "Audience Participation",
+      "feature_span": [
+        43,
+        44
+      ],
+      "manuscript": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_FINAL_20261021.txt",
+      "manuscript_sha256": "b5fcfc4b99bd5218986b05394f21204c3a02a8bab669c2266cfab7b164bcc8a7",
+      "checkpoint": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_Checkpoint_20261021.json",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_reconciliation": "continuity/features/E43_E44/CHAT_DELIVERY_RECONCILIATION_20261021.json"
+    },
+    {
+      "episode": 44,
+      "title": "Audience Participation",
+      "feature_span": [
+        43,
+        44
+      ],
+      "manuscript": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_FINAL_20261021.txt",
+      "manuscript_sha256": "b5fcfc4b99bd5218986b05394f21204c3a02a8bab669c2266cfab7b164bcc8a7",
+      "checkpoint": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_Checkpoint_20261021.json",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "delivery_reconciliation": "continuity/features/E43_E44/CHAT_DELIVERY_RECONCILIATION_20261021.json"
     }
   ],
   "prepared_episode": {
-    "change_id": "S7NS_E43_E44_AUDIENCE_PARTICIPATION_20261021",
+    "change_id": "S7NS_E45_E46_PLEASE_AND_THANK_YOU_20261021",
     "episode_span": [
-      43,
-      44
+      45,
+      46
     ],
-    "title": "Audience Participation",
+    "title": "Please and Thank You",
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
-    "manuscript": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_FINAL_20261021.txt",
-    "manuscript_sha256": "b5fcfc4b99bd5218986b05394f21204c3a02a8bab669c2266cfab7b164bcc8a7",
-    "manuscript_git_blob_sha1": "1954a969d2c03cfb56a4916644749602905194cb",
-    "checkpoint": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_Checkpoint_20261021.json",
-    "checkpoint_git_blob_sha1": "d795e0507f8ee79901830ba7280d1eafef78f447",
-    "drive_manuscript_id": "1AhzRbwdoBJ_MEfZirL5oTKOna0S_0GlPjuZp_vg4-LI",
-    "drive_checkpoint_id": "1RZ4vAYzUwu2NSbaV0NpK1EzCnI04fKPzdNaGVjPPAOo",
+    "manuscript": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_FINAL_20261021.txt",
+    "manuscript_sha256": "283a56b3a270c00bfdfa18b602ef859257d70498e1fb261529187472c76e01c4",
+    "manuscript_git_blob_sha1": "26e3ed6b7e98f449e4889248e183eb60d01dc046",
+    "checkpoint": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "3243b85c1b1d402c444f8d1f12fd3a7ece73a718",
+    "drive_manuscript_id": "1DWSjk6zw_5hujjwwWzSNGBhA3Y9KjxPs2wk5aN48Vbc",
+    "drive_checkpoint_id": "1MP6ArqZaDVjkB5zFizuwJ0GLZxLvwlgFS2y0D6VsGA4",
     "airtable_episode_record_ids": [
-      "recpONsJbx0skpBsc",
-      "recpaBZMK0hWnRDeS"
+      "rec1dXpVJRGb4VQWt",
+      "recptj157R49poLo3"
     ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
     "author_acceptance": "NOT_ASSERTED",
-    "authorization": "Latest and reiterated barePLAY; currentdefaultnext43–44.",
-    "next_action": "Render exact whole savedfeature now; reconcileactualdeliverynextinteraction.",
+    "authorization": "BarePLAY after completed43–44 authorizes45–46 under current two-consecutive-developed-units default. Repeated PLAY while working means finish this same pair; no47+ authorization.",
+    "next_action": "Render exact entire reviewed saved45–46 manuscript. Reconcile delivery only after full response exists; no47 authorization.",
     "four_app_readbacks": {
       "GitHub_pair_exact": true,
       "Drive_pair_native_index_exact": true,
       "Airtable_hash_checkpoint_status": true,
       "Notion_hash_scope": true
     },
-    "boundary": "Latest actual42.43–44candidate onlyuntilfullresponse."
+    "boundary": "Latestactual44.45–46 remainscandidate until complete chat response exists."
   },
   "playback_control": {
     "paused": false,
     "authorized_episode_span": [
-      43,
-      44
+      45,
+      46
     ],
-    "last_delivered_episode": 42,
-    "next_episode": 43,
-    "basis": "LatestbarePLAYauthorizesnexttwo. No45."
+    "last_delivered_episode": 44,
+    "next_episode": 45,
+    "basis": "Latest barePLAY after actual43–44 authorizes next45–46. Repeated PLAY means finish existingpair. No47."
   },
   "latest_scoped_author": "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md",
   "current_author_configuration": {
     "KAZE_ROMANCE_ENABLED": false,
     "Dana_Mana": "Loyal Sins",
     "Zid": "Not a Sin; prior pending betrayal and forced TPP admission canceled",
-    "K_K": "E33 emergence completed; not automatically a Sin",
+    "K_K": "Living independent guest after actual44; prepared45–46 death not applied until full response exists.",
     "Clifford": "E33 assisted walking surgery completed",
     "Deadpool": "Narrator only",
     "Mimir": "Fell and was physically attached to Kratos in E33",
     "Daniel": "Dead and buried in delivered41; Arthur holds unopened separate110silverpurse, Kaze spear, Chris cappedbottle.",
-    "TPP": "Actual42:Tracydead,Brianorganiclegs,DrEvilsubmarineleadership,Dutchright hand,Cliffordrealacceptedlightsaber;66silver,unpricedburialchargepending. No43–44candidateoutcomesapplied."
+    "TPP": "Actual44:54oldpurse plus5separatereceiptheldClifford;Tracyburied,Brianorganiclegs,DrEvilsubleader,Dutchrighthand. Brian sabotageblocked, complimentaryroastreturnunderway,ArthurreplyheldClifford;45–46candidateonly."
   },
   "original_manuscripts_or_checkpoints_rewritten": false,
   "project_ui_installation_performed": false,
@@ -477,16 +505,16 @@
     "original_r8_source_unchanged": true
   },
   "latest_Arthur_weapon_policy_author": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
-  "delivery_status": "E42_DELIVERED_PROVISIONAL",
+  "delivery_status": "E43_E44_DELIVERED_PROVISIONAL",
   "default_PLAY_episode_count": 2,
   "default_PLAY_format": "TWO_CONSECUTIVE_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_OVERRIDDEN",
   "default_PLAY_format_owner": "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
   "next_prospective_feature": [
-    43,
-    44
+    45,
+    46
   ],
   "next_episode_authorized": true,
-  "last_reconciliation_id": "S7NS_E42_CHAT_DELIVERY_RECONCILIATION_20261021",
+  "last_reconciliation_id": "S7NS_E43_E44_CHAT_DELIVERY_RECONCILIATION_20261021",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
   "episode_count_unchanged": true,
@@ -710,7 +738,7 @@
       44
     ],
     "title": "Audience Participation",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "status": "DELIVERED_PROVISIONAL",
     "manuscript": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_FINAL_20261021.txt",
     "manuscript_sha256": "b5fcfc4b99bd5218986b05394f21204c3a02a8bab669c2266cfab7b164bcc8a7",
     "manuscript_git_blob_sha1": "1954a969d2c03cfb56a4916644749602905194cb",
@@ -732,6 +760,38 @@
       "Airtable_hash_checkpoint_status": true,
       "Notion_hash_scope": true
     },
-    "boundary": "Latest actual42.43–44candidate onlyuntilfullresponse."
+    "boundary": "Latest actual42.43–44candidate onlyuntilfullresponse.",
+    "delivery_reconciliation": "continuity/features/E43_E44/CHAT_DELIVERY_RECONCILIATION_20261021.json"
+  },
+  "prepared_E45_E46_Please_and_Thank_You_20261021": {
+    "change_id": "S7NS_E45_E46_PLEASE_AND_THANK_YOU_20261021",
+    "episode_span": [
+      45,
+      46
+    ],
+    "title": "Please and Thank You",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "manuscript": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_FINAL_20261021.txt",
+    "manuscript_sha256": "283a56b3a270c00bfdfa18b602ef859257d70498e1fb261529187472c76e01c4",
+    "manuscript_git_blob_sha1": "26e3ed6b7e98f449e4889248e183eb60d01dc046",
+    "checkpoint": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "3243b85c1b1d402c444f8d1f12fd3a7ece73a718",
+    "drive_manuscript_id": "1DWSjk6zw_5hujjwwWzSNGBhA3Y9KjxPs2wk5aN48Vbc",
+    "drive_checkpoint_id": "1MP6ArqZaDVjkB5zFizuwJ0GLZxLvwlgFS2y0D6VsGA4",
+    "airtable_episode_record_ids": [
+      "rec1dXpVJRGb4VQWt",
+      "recptj157R49poLo3"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "BarePLAY after completed43–44 authorizes45–46 under current two-consecutive-developed-units default. Repeated PLAY while working means finish this same pair; no47+ authorization.",
+    "next_action": "Render exact entire reviewed saved45–46 manuscript. Reconcile delivery only after full response exists; no47 authorization.",
+    "four_app_readbacks": {
+      "GitHub_pair_exact": true,
+      "Drive_pair_native_index_exact": true,
+      "Airtable_hash_checkpoint_status": true,
+      "Notion_hash_scope": true
+    },
+    "boundary": "Latestactual44.45–46 remainscandidate until complete chat response exists."
   }
 }
