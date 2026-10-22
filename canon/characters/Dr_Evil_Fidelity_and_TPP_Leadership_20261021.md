@@ -226,3 +226,10 @@ New assistant suggestions remain PROPOSED unless separately selected: a source-i
 
 
 
+
+
+## Latest post-E50 direct-author relationship override
+
+Controlling owner: continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md
+Change ID: S7NS_POST_E50_TTS_FACTION_BEEF_BRIAN_REBALANCE_20261021
+Closeness with Brian retains savage praise/build-up/ego-teardown manipulation; keep varied and personal. Pull back the oversaturated Busta gag substantially. Dutch intentionally withholds rescue when Brian turns to him. Dr. Evil has no inherent personal beef with Kaze/the Sins, who find him funny; Kaze and Dr. Evil can side against Brian while actual TPP member grievances and objectives create conflict. Dutch's Bob/Arthur betrayal wound and Arthur/Chris's on-sight Clifford bullying must remain legible. New audience names Daynah/Mahnah. Prior recorded scenes and the actual42–50 leadership/gift/research state are history; these are future portrayal directions, no newly enacted encounter or resources. Read full controlling owner before future drafting.
