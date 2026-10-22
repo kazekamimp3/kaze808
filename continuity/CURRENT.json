@@ -1,7 +1,7 @@
 {
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "2026-10-21: E39–40 A Place to Wait R2 full chat delivery reconciled; Episode41 His Own Two Feet prepared/reviewed/saved, NO PLAY",
+  "as_of": "2026-10-21: E41 original author rejected; replacement Cluck Around R2 prepared/reviewed/saved and authorized for immediate PLAY",
   "last_delivered_episode": 40,
   "next_episode": 41,
   "delivery_status": "E39_E40_R2_DELIVERED_PROVISIONAL",
@@ -13,7 +13,7 @@
   "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
   "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
   "state_owner": "continuity/features/E39_E40/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
-  "state_rule": "The complete39–40 R2 response is actually visible and effective delivered provisional. Original39–40 checkpoint's PREPARED label is superseded by this receipt. Episode41 is only prepared; no41 occurred-state changes from WORK. Older E35/36–38 cursor fields below are dated provenance.",
+  "state_rule": "E40 remains effective delivered until replacement response exists. Old41was actually rendered then explicitlyrejected. No old41Tracydeath,Brianlegs,DrEvilarrival or70silvereffective. Danieldeadretained. Replacement origin41 overrides oldfutureplacement. EventualTPPcollision followsprotectedDrEvilchain.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -27,43 +27,37 @@
     "proposed_batch": [
       41
     ],
-    "status": "PREPARATION_ONLY_NO_PLAY",
-    "note": "User explicitly authorized preparation41 only. Await fresh PLAY for exact rendering; no42 preparation/PLAY."
+    "status": "PLAY_AUTHORIZED_EXACT_PREPARED_REPLACEMENT_ONLY"
   },
   "prepared_episode": {
-    "change_id": "S7NS_E41_HIS_OWN_TWO_FEET_PREPARED_20261021",
+    "change_id": "S7NS_E41_CLUCK_REPLACEMENT_R2_20261021",
     "episode": 41,
     "episode_span": [
       41
     ],
-    "title": "His Own Two Feet",
+    "title": "Cluck Around and Find Out",
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
-    "manuscript": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_FINAL_20261021.txt",
-    "manuscript_sha256": "64264a14a8f682a0627e0141bb09e468512bac08cef2a5ec3460fc78a16f37b8",
-    "manuscript_git_blob_sha1": "caa989320b6ee3eb857aab067dab7b556dea1a7e",
-    "checkpoint": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_Checkpoint_20261021.json",
-    "checkpoint_sha256": "f15430e25ad639b3c3eec710548ded9d6fec7ce4f03390cf911f48db3e10a457",
-    "checkpoint_git_blob_sha1": "9f6e8dd14996c59dabcc81864abf1aee0e628c54",
+    "manuscript": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_FINAL_20261021.txt",
+    "manuscript_sha256": "1bb3a0098e8d1467afcac0d132fe08a09092d1f4588b6b2335d7a0c97392d2c0",
+    "manuscript_git_blob_sha1": "022304425e01c359b8a987e912711daafebbc8df",
+    "checkpoint": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "b9fbfbdfd611bec050a357c1c71c3241589b82f9",
     "drive_manuscript_id": "1r7UFrab3h86fDcEf2lBUTqBYmhzO9LyVbqo9lWpY6o4",
     "drive_checkpoint_id": "1a7yXAJDQ_jH8Lhg5n_kW6CBoxcqrcxdp3YnnGEwbX8w",
     "airtable_episode_record_id": "rec5CQLb9Z3W32THu",
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
-    "notion_author_page": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
-    "library_manuscript_id": "libfile_8c6db64e057c8191a438efa2bfb1fc7d",
-    "library_checkpoint_id": "libfile_f266a7af88ec81918d212ee4e9c46780",
     "author_acceptance": "NOT_ASSERTED",
-    "authorization": "Explicit single Episode41 WORK PREPARE request; NO PLAY. Two-episode global default unchanged.",
+    "authorization": "Explicit replacement41 and PLAY now. No42.",
+    "next_action": "Render exact full replacement text now. Reconcile actual chat delivery next interaction.",
     "four_app_readbacks": {
       "GitHub_manuscript_exact": true,
       "GitHub_checkpoint_exact": true,
-      "GoogleDrive_manuscript_native_index_exact": true,
-      "GoogleDrive_checkpoint_native_index_exact": true,
-      "Airtable_episode_hash_checkpoint_status": true,
-      "Notion_episode_index_hash_checkpoint_links": true,
-      "Notion_author_page_hash": true
+      "Drive": "Complete prose/checkpoint match after native terminal-newline normalization; not byte-identical plain-text export",
+      "Airtable_hash_checkpoint": true,
+      "Notion_hash_scope": true
     },
-    "next_action": "On explicit PLAY EPISODE41, verify matching complete pair via four apps and render exact full saved text. No42 continuation.",
-    "boundary": "Latest actual delivered40; all41 deaths/body changes/custody/leadership and resources remain prepared candidate, not occurred. Do not alter manuscript wording during playback."
+    "supersedes": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_FINAL_20261021.txt",
+    "boundary": "Prior41explicitlyrejected andnotactive; E40effective untilreplacementresponseexists."
   },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
@@ -107,8 +101,8 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "EPISODE41_PREPARED_REVIEWED_SAVED_FOUR_APP_READBACKS_VERIFIED_NO_PLAY",
-  "work_resume_checkpoint_latest": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_Checkpoint_20261021.json",
+  "work_status": "E41_REPLACEMENT_R2_READY_FOR_EXACT_PLAY",
+  "work_resume_checkpoint_latest": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
   "work_change_id": "S7NS_E41_HIS_OWN_TWO_FEET_PREPARED_20261021",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
@@ -679,5 +673,43 @@
     "standalone_preview": "ARCHIVE_ONLY_NOT_SEASON_DELIVERY",
     "story_days_advanced": 0,
     "project_ui_installation": "PENDING_READBACK"
-  }
+  },
+  "E41_rejected_cut": {
+    "change_id": "S7NS_E41_HIS_OWN_TWO_FEET_PREPARED_20261021",
+    "episode": 41,
+    "episode_span": [
+      41
+    ],
+    "title": "His Own Two Feet",
+    "status": "AUTHOR_REJECTED_SUPERSEDED_AFTER_CHAT_DELIVERY",
+    "manuscript": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_FINAL_20261021.txt",
+    "manuscript_sha256": "64264a14a8f682a0627e0141bb09e468512bac08cef2a5ec3460fc78a16f37b8",
+    "manuscript_git_blob_sha1": "caa989320b6ee3eb857aab067dab7b556dea1a7e",
+    "checkpoint": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_Checkpoint_20261021.json",
+    "checkpoint_sha256": "f15430e25ad639b3c3eec710548ded9d6fec7ce4f03390cf911f48db3e10a457",
+    "checkpoint_git_blob_sha1": "9f6e8dd14996c59dabcc81864abf1aee0e628c54",
+    "drive_manuscript_id": "1r7UFrab3h86fDcEf2lBUTqBYmhzO9LyVbqo9lWpY6o4",
+    "drive_checkpoint_id": "1a7yXAJDQ_jH8Lhg5n_kW6CBoxcqrcxdp3YnnGEwbX8w",
+    "airtable_episode_record_id": "rec5CQLb9Z3W32THu",
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "notion_author_page": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+    "library_manuscript_id": "libfile_8c6db64e057c8191a438efa2bfb1fc7d",
+    "library_checkpoint_id": "libfile_f266a7af88ec81918d212ee4e9c46780",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Explicit single Episode41 WORK PREPARE request; NO PLAY. Two-episode global default unchanged.",
+    "four_app_readbacks": {
+      "GitHub_manuscript_exact": true,
+      "GitHub_checkpoint_exact": true,
+      "GoogleDrive_manuscript_native_index_exact": true,
+      "GoogleDrive_checkpoint_native_index_exact": true,
+      "Airtable_episode_hash_checkpoint_status": true,
+      "Notion_episode_index_hash_checkpoint_links": true,
+      "Notion_author_page_hash": true
+    },
+    "next_action": "On explicit PLAY EPISODE41, verify matching complete pair via four apps and render exact full saved text. No42 continuation.",
+    "boundary": "Latest actual delivered40; all41 deaths/body changes/custody/leadership and resources remain prepared candidate, not occurred. Do not alter manuscript wording during playback.",
+    "effective_story": false,
+    "reason": "Author intended three-person Mahnuh shoplifting collaboration in41; directly rejectspriorcut;Danieldeathretained."
+  },
+  "E41_replacement_authority": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json"
 }
