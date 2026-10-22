@@ -407,18 +407,34 @@
     },
     {
       "episode": 45,
-      "title": "Please and Thank You",
+      "title": "Founding Father",
       "feature_span": [
         45,
         46
       ],
-      "manuscript": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_FINAL_20261021.txt",
-      "manuscript_sha256": "283a56b3a270c00bfdfa18b602ef859257d70498e1fb261529187472c76e01c4",
-      "checkpoint": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_Checkpoint_20261021.json",
+      "manuscript": "continuity/episodes/E45/S3_E45_Founding_Father_R2_FINAL_20261022.txt",
+      "manuscript_sha256": "5d70134b9ad35c73fa1b8d4a023c621a77f79c71f0e819727f87f3af5c62d05a",
+      "checkpoint": "continuity/episodes/E45/S3_E45_Founding_Father_R2_Checkpoint_20261022.json",
       "delivery_status": "DELIVERED_PROVISIONAL",
       "author_acceptance": "NOT_ASSERTED",
-      "delivery_reconciliation": "continuity/features/E45_E46/CHAT_DELIVERY_RECONCILIATION_20261022.json",
-      "pending_revision": "continuity/episodes/E45/S3_E45_Founding_Father_R2_Checkpoint_20261022.json"
+      "delivery_reconciliation": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json",
+      "pending_revision": null,
+      "preserved_original_feature_entry": {
+        "episode": 45,
+        "title": "Please and Thank You",
+        "feature_span": [
+          45,
+          46
+        ],
+        "manuscript": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_FINAL_20261021.txt",
+        "manuscript_sha256": "283a56b3a270c00bfdfa18b602ef859257d70498e1fb261529187472c76e01c4",
+        "checkpoint": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_Checkpoint_20261021.json",
+        "delivery_status": "DELIVERED_PROVISIONAL",
+        "author_acceptance": "NOT_ASSERTED",
+        "delivery_reconciliation": "continuity/features/E45_E46/CHAT_DELIVERY_RECONCILIATION_20261022.json",
+        "pending_revision": "continuity/episodes/E45/S3_E45_Founding_Father_R2_Checkpoint_20261022.json"
+      },
+      "same_span_revision": true
     },
     {
       "episode": 46,
@@ -433,61 +449,61 @@
       "delivery_status": "DELIVERED_PROVISIONAL",
       "author_acceptance": "NOT_ASSERTED",
       "delivery_reconciliation": "continuity/features/E45_E46/CHAT_DELIVERY_RECONCILIATION_20261022.json",
-      "pending_revision": null
+      "pending_revision": "continuity/episodes/E46/S3_E46_The_Upper_Road_R2_Checkpoint_20261022.json"
     }
   ],
   "prepared_episode": {
-    "change_id": "S7NS_E45_FOUNDING_FATHER_R2_20261022",
+    "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
-      45
+      46
     ],
     "episode_count": 1,
     "same_span_revision": true,
-    "title": "Founding Father",
+    "title": "The Upper Road",
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
-    "author_owner": "continuity/author/S7NS_E45_DrEvil_Brian_Slow_Burn_MiniMe_R2_20261022.md",
     "author_acceptance": "NOT_ASSERTED",
-    "manuscript": "continuity/episodes/E45/S3_E45_Founding_Father_R2_FINAL_20261022.txt",
-    "manuscript_sha256": "5d70134b9ad35c73fa1b8d4a023c621a77f79c71f0e819727f87f3af5c62d05a",
-    "manuscript_git_blob_sha1": "597d29d99a57bbc2a4be168135729ef91c527847",
-    "checkpoint": "continuity/episodes/E45/S3_E45_Founding_Father_R2_Checkpoint_20261022.json",
-    "checkpoint_git_blob_sha1": "ecaae9487a08758d366f57c7ca8aae12909e52c7",
-    "drive_manuscript_id": "1CRHPYLQohOI8Og3pFfnnPl9r3n6XsTOo17NjLD55_ic",
-    "drive_checkpoint_id": "1PAwzWcBC0JLnESzw3C7GVIEBjx08kD08ckNYPFEgnH0",
+    "manuscript": "continuity/episodes/E46/S3_E46_The_Upper_Road_R2_FINAL_20261022.txt",
+    "manuscript_sha256": "0b68dcc3ab7d3b453961fac0852d3e7f24494a8b0a05f0d2ae4c4daab770a516",
+    "manuscript_git_blob_sha1": "7490a7704d9aa4967150f432ea2be452fe711671",
+    "checkpoint": "continuity/episodes/E46/S3_E46_The_Upper_Road_R2_Checkpoint_20261022.json",
+    "checkpoint_git_blob_sha1": "bea039f0fc806f71a15a8d23afe71da7c749782c",
+    "drive_manuscript_id": "17EnpdlbeEPyBGjHx5pj28fQxycm5KbYGiFe4P3qkMeI",
+    "drive_checkpoint_id": "1qzyUgiv2oAbz6X79KZg-PE9BNXVlob4yGZhdPOV4BcM",
     "airtable_episode_record_ids": [
-      "rec1dXpVJRGb4VQWt"
+      "recptj157R49poLo3"
     ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
     "four_app_readbacks": {
       "GitHub_pair_exact": true,
       "Drive_pair_native_index_exact": true,
-      "Airtable_hash_status_checkpoint": true,
+      "Airtable_hash_checkpoint_status": true,
       "Notion_hash_scope": true
     },
-    "next_action": "Render exact full saved single revised45. Do not generate47/48. Reconcile newrevision only once fullresponse exists.",
-    "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid."
+    "authorization": "Explicit46only; no47+. Single46 recutofalreadydeliveredKK/Maul/Sinsthread, notnewdeaths.",
+    "next_action": "Render exact saved complete46. Reconcile thisversion after fullresponse exists."
   },
   "playback_control": {
     "paused": false,
     "authorized_episode_span": [
-      45
+      46
     ],
     "last_delivered_episode": 46,
     "next_episode": 47,
-    "basis": "Direct PLAY45revisiononly; no47+. Original45–46actualdeliveryrecognized.",
-    "same_span_revision": true
+    "basis": "Explicit46only; existingSinsbranchafter45R2; no47/48authorization.",
+    "same_span_revision": true,
+    "latest_chat_delivered_episode": 45
   },
   "latest_scoped_author": "continuity/author/S7NS_R10_KK_Billy_Clifford_Fidelity_Corrections_20261020.md",
   "current_author_configuration": {
     "KAZE_ROMANCE_ENABLED": false,
     "Dana_Mana": "Loyal Sins",
     "Zid": "Not a Sin; prior pending betrayal and forced TPP admission canceled",
-    "K_K": "PermanentlydeadbyMaulinactual45–46; buriedbypear. No resurrection/reversal by45R2focusedTPP recut.",
+    "K_K": "PermanentlydeadbyMaulasoriginal45–46actual; new46R2presentssamestory, not resurrection/repeateddeath.",
     "Clifford": "E33 assisted walking surgery completed",
     "Deadpool": "Narrator only",
     "Mimir": "Fell and was physically attached to Kratos in E33",
     "Daniel": "Dead and buried in delivered41; Arthur holds unopened separate110silverpurse, Kaze spear, Chris cappedbottle.",
-    "TPP": "Actual45–46:54oldfunds+same5receiptdeliveredDutch, roastreceivedDrEvil, ArthurletterdeliveredDutch, Briansanction/nameunsettled. Revision45R2pettierdynamicprepared; do notapplynewgesture/termsbeforefullresponse.",
+    "TPP": "45R2actual:DrEvilmuchpettier,Brianresents/firstreluctantadmiration/caughthalfpinky/collarexperiment. Same54+5companymoney,letter/roastonce. No haircut,MiniMeacceptanceorIPsettlement.",
     "Brian_DrEvil_future": "continuity/author/S7NS_E45_DrEvil_Brian_Slow_Burn_MiniMe_R2_20261022.md"
   },
   "original_manuscripts_or_checkpoints_rewritten": false,
@@ -536,15 +552,15 @@
     "original_r8_source_unchanged": true
   },
   "latest_Arthur_weapon_policy_author": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
-  "delivery_status": "E45_E46_DELIVERED_PROVISIONAL",
+  "delivery_status": "E45_R2_DELIVERED_PROVISIONAL_WITH_PRIOR_E46_RETAINED",
   "default_PLAY_episode_count": 2,
   "default_PLAY_format": "TWO_CONSECUTIVE_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_OVERRIDDEN",
   "default_PLAY_format_owner": "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
   "next_prospective_feature": [
-    45
+    46
   ],
   "next_episode_authorized": false,
-  "last_reconciliation_id": "S7NS_E45_E46_CHAT_DELIVERY_RECONCILIATION_20261022",
+  "last_reconciliation_id": "S7NS_E45_FOUNDING_FATHER_R2_CHAT_DELIVERY_20261022",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
   "episode_count_unchanged": true,
@@ -834,7 +850,7 @@
     "episode_count": 1,
     "same_span_revision": true,
     "title": "Founding Father",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "status": "DELIVERED_PROVISIONAL",
     "author_owner": "continuity/author/S7NS_E45_DrEvil_Brian_Slow_Burn_MiniMe_R2_20261022.md",
     "author_acceptance": "NOT_ASSERTED",
     "manuscript": "continuity/episodes/E45/S3_E45_Founding_Father_R2_FINAL_20261022.txt",
@@ -854,7 +870,39 @@
       "Airtable_hash_status_checkpoint": true,
       "Notion_hash_scope": true
     },
-    "next_action": "Render exact full saved single revised45. Do not generate47/48. Reconcile newrevision only once fullresponse exists.",
-    "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid."
+    "next_action": "Delivered; preservepettierdynamic/slowfuturetrajectory.",
+    "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid.",
+    "delivery_reconciliation": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json"
+  },
+  "latest_chat_delivered_episode": 45,
+  "prepared_E46_The_Upper_Road_R2_20261022": {
+    "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
+    "episode_span": [
+      46
+    ],
+    "episode_count": 1,
+    "same_span_revision": true,
+    "title": "The Upper Road",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E46/S3_E46_The_Upper_Road_R2_FINAL_20261022.txt",
+    "manuscript_sha256": "0b68dcc3ab7d3b453961fac0852d3e7f24494a8b0a05f0d2ae4c4daab770a516",
+    "manuscript_git_blob_sha1": "7490a7704d9aa4967150f432ea2be452fe711671",
+    "checkpoint": "continuity/episodes/E46/S3_E46_The_Upper_Road_R2_Checkpoint_20261022.json",
+    "checkpoint_git_blob_sha1": "bea039f0fc806f71a15a8d23afe71da7c749782c",
+    "drive_manuscript_id": "17EnpdlbeEPyBGjHx5pj28fQxycm5KbYGiFe4P3qkMeI",
+    "drive_checkpoint_id": "1qzyUgiv2oAbz6X79KZg-PE9BNXVlob4yGZhdPOV4BcM",
+    "airtable_episode_record_ids": [
+      "recptj157R49poLo3"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "four_app_readbacks": {
+      "GitHub_pair_exact": true,
+      "Drive_pair_native_index_exact": true,
+      "Airtable_hash_checkpoint_status": true,
+      "Notion_hash_scope": true
+    },
+    "authorization": "Explicit46only; no47+. Single46 recutofalreadydeliveredKK/Maul/Sinsthread, notnewdeaths.",
+    "next_action": "Render exact saved complete46. Reconcile thisversion after fullresponse exists."
   }
 }
