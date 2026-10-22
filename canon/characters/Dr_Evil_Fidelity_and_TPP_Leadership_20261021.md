@@ -233,3 +233,12 @@ New assistant suggestions remain PROPOSED unless separately selected: a source-i
 Controlling owner: continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md
 Change ID: S7NS_POST_E50_TTS_FACTION_BEEF_BRIAN_REBALANCE_20261021
 Closeness with Brian retains savage praise/build-up/ego-teardown manipulation; keep varied and personal. Pull back the oversaturated Busta gag substantially. Dutch intentionally withholds rescue when Brian turns to him. Dr. Evil has no inherent personal beef with Kaze/the Sins, who find him funny; Kaze and Dr. Evil can side against Brian while actual TPP member grievances and objectives create conflict. Dutch's Bob/Arthur betrayal wound and Arthur/Chris's on-sight Clifford bullying must remain legible. New audience names Daynah/Mahnah. Prior recorded scenes and the actual42–50 leadership/gift/research state are history; these are future portrayal directions, no newly enacted encounter or resources. Read full controlling owner before future drafting.
+
+
+## Latest continuing fan-love / Dutch enablement override — 22 October 2026
+
+Controlling owner: continuity/author/S7NS_TPP_Fan_Love_Dutch_Clifford_20261022.md
+Change ID: S7NS_DR_EVIL_CLIFFORD_FAN_LOVE_DUTCH_ENABLEMENT_20261022
+Dr. Evil's pseudo fan love toward Clifford persists and worsens over time after the already-completed Vader reveal, real gift and actual bounded crew research. Dutch actively enables/validates his boss while he and Clifford privately die of cringe and publicly hold composure/play along. Dutch's diplomatic cover encourages more awkward familiarity; Clifford's recipient politeness differs from Dutch's reinforcement. No reset of Dr. Evil's knowledge, gift replay, automatic meme quotas or immediate public exposure. Retain independently walking adult Jack and actual current50 state. Future portrayal only; no new scene/day through WORK.
+
+Also retain the newer genuine Dr. Evil/Brian emotional-development and major-reversal refinement at continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md; older no-softening shorthand does not prohibit genuine attachment. Full existing film fidelity and actual finite resources remain.
