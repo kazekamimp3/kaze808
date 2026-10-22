@@ -1,6 +1,6 @@
 {
   "change_id": "S7NS_MANA_SHOPLIFTING_SEASON3_OUTLINE_20261021",
-  "status": "LOCAL_VALIDATION_PASSED_REMOTE_SAVES_PENDING",
+  "status": "OUTLINE_INTEGRATED_PACKAGE_SAVED_PROJECT_UI_REPLACEMENT_PENDING",
   "latest_user_correction": "Incorporate concept into Season3 outline; do not craft episode; create replacement ZIP",
   "owner": "continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md",
   "current_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
@@ -45,11 +45,106 @@
     "mapped full owners into replacement bundles",
     "preserved existing manuscripts/episode cards",
     "verified28 baseline physical hashes and all source slices",
-    "built changed-only replacement and rollback archives"
+    "built changed-only replacement and rollback archives",
+    "GitHub exact owner/outline/next/index/current readbacks",
+    "Airtable and Notion saved/read back",
+    "Drive full author and full outline raw bytes exact read back",
+    "replacement ZIP CRC and exact member bytes verified",
+    "replacement ZIP persisted as libfile_44bd78f086808191a69bcd7b9c008a62"
   ],
-  "next_action": "Finish any pending connector receipts; then deliver ZIP. Actual Project attachment replacement/readback is separate. Do not restart research or generate another manuscript.",
+  "next_action": "Deliver saved ZIP; user replaces exactly four listed Project sources, then verify actual attachment readback. Do not draft episode or repeat research.",
   "no_new_PLAY_authorization": true,
   "validation": "VALIDATION.json",
   "destination_receipts": "See SAVE_RECEIPTS.json when present; no remote completion inferred from local validation.",
-  "unfinished_step": "Save connected outline/author/checkpoint, finalize ZIP, persist ZIP, deliver link. Do not rerun research or builder."
+  "unfinished_step": "Save connected outline/author/checkpoint, finalize ZIP, persist ZIP, deliver link. Do not rerun research or builder.",
+  "package": {
+    "filename": "S7NS_Mana_Season3_Outline_Replacement_Package.zip",
+    "library_file_id": "libfile_44bd78f086808191a69bcd7b9c008a62",
+    "replacement_files": 4,
+    "unchanged_bundles": 25,
+    "project_ui_installed": false
+  },
+  "four_app_receipts": {
+    "continuity/SEASON3_NEXT.md": {
+      "exact": true,
+      "sha": "e61b5b9cc638bd864904e438c2fab772ae94fcae"
+    },
+    "continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md": {
+      "exact": true,
+      "sha": "c921f69d1e5e8da141fdc48a26daab5f0025c7a3"
+    },
+    "continuity/work/S7NS_Mana_Shoplifting_Outline_Resume_20261021.json": {
+      "exact": true,
+      "sha": "79807c74e17c5c4620c78bfd9497e25e770360b8"
+    },
+    "routing/MASTER_SOURCE_INDEX.json": {
+      "exact": true,
+      "sha": "4bbe878a01dd49bc29fa22377256765e5cc28d16"
+    },
+    "Notion": {
+      "readback": true
+    },
+    "continuity/SEASON3_ACTIVE_OUTLINE.json": {
+      "exact": true,
+      "sha": "63cee73daf5bf1c12e0c68420a58a33ce09af93b"
+    },
+    "continuity/CURRENT.json": {
+      "exact": true,
+      "sha": "74899d43294d39c81ea45c8377684f7ec35e1fc8"
+    },
+    "Drive_int_owner": {
+      "id": "11BDtS0Lndg9awPw5RuOKYVFtLTKY3Ms7",
+      "readback": true,
+      "exact": true,
+      "keys": [
+        "content",
+        "title",
+        "url",
+        "file_name",
+        "mime_type",
+        "file_ext",
+        "b64_string",
+        "id",
+        "parent_ids",
+        "drive_id",
+        "created_time",
+        "modified_time",
+        "is_empty",
+        "file_uri",
+        "file_size_bytes",
+        "display_url",
+        "display_title",
+        "structuredContent"
+      ]
+    },
+    "Airtable": {
+      "readback": true
+    },
+    "Drive_int_outline": {
+      "id": "1TCb7bbz8CBlzwbYKKt175z2psJgzTWYX",
+      "readback": true,
+      "exact": true,
+      "keys": [
+        "content",
+        "title",
+        "url",
+        "file_name",
+        "mime_type",
+        "file_ext",
+        "b64_string",
+        "id",
+        "parent_ids",
+        "drive_id",
+        "created_time",
+        "modified_time",
+        "is_empty",
+        "file_uri",
+        "file_size_bytes",
+        "display_url",
+        "display_title",
+        "structuredContent"
+      ],
+      "verification": "Base64 returned raw file decoded as UTF8 and compared to exact local active outline"
+    }
+  }
 }
