@@ -1782,7 +1782,7 @@
   },
   "mana_shoplifting_integration": {
     "id": "MANA_SHOPLIFTING_TPP",
-    "status": "AUTHOR_SELECTED_FUTURE_OUTLINE_NOT_OCCURRED",
+    "status": "PARTLY_ENACTED_E41_REMAINING_FUTURE",
     "owner": "continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md",
     "title": "Mana discovers shoplifting; Chris and Billy conceal it; Dana finds the pattern; TPP exploits the demand",
     "placement": {
@@ -1816,7 +1816,12 @@
       "Kaze": "fictional direction/Rain Man/Dr Evil/Billy scope",
       "assistant": "causal integration and optional construction"
     },
-    "story_days_advanced": 0
+    "story_days_advanced": 0,
+    "current_delivery_reconciliation": {
+      "origin_and_local_discovery": "ACTUALLY_DELIVERED_REPLACEMENT41",
+      "evidence": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
+      "rule": "Do not replay origin or treatfullgrowingtheft/ChrisBillycomplicity/Daynuhdiscoveryasstillunwritten. BroaderTPPmerchantcollisionretainsactual42–49progress and unperformed parts; no entirearccompletionasserted."
+    }
   },
   "latest_outline_work": {
     "change_id": "S7NS_MANA_SHOPLIFTING_SEASON3_OUTLINE_20261021",
@@ -1851,5 +1856,38 @@
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
     "author_acceptance": "NOT_ASSERTED",
     "previous_actual_delivery": 48
+  },
+  "latest_E50_author_direction": {
+    "owner": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
+    "status": "AUTHOR_SELECTED",
+    "Brian_sleep": "Occasional stagedrecurrence; stage1seatedknees/hips/grunts, stage2sleepwalkingfood/coldcoffeemiscalledhot, stage3exactChrislasso/shirtthrow/whitehairybrightbuttocks/kick/quote/wakeupretained requiringrealovernightcontact. No newdiagnosis/parasitecause.",
+    "Brian_scale": "Increasevariedphysicalsmallhands/feet/climbing/eyeline/weightcomedy, not repetitivegagquota or bodyreset.",
+    "Mahnuh_poker": "KazeintroducesChrismoneygambling;ChristeachesMahnuhlearnedshove;Daynuhbeer/barreveal findsall3allinregardlesscards. Real localplayers/stakesandcanineidentity.",
+    "episode_span": [
+      50
+    ],
+    "episode51_authorized": false
+  },
+  "Brian_sleeping_stages_20261021": {
+    "owner": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
+    "stage1": "PREPARED50_NOT_YET_CHAT_PLAYED",
+    "stage2": "PREPARED50_NOT_YET_CHAT_PLAYED",
+    "stage3": "AUTHOR_SELECTED_FUTURE_UNENACTED_REAL_CHRIS_PROXIMITY_REQUIRED",
+    "overplay": "Occasionalrecurrence, not everyepisode/night; preservewholethirdbeat."
+  },
+  "Mahnuh_gambling_20261021": {
+    "owner": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
+    "status": "PREPARED50_NOT_YET_CHAT_PLAYED",
+    "mechanism": "Source-approvedabsurdpoker withnonverbalcaninelearnednosepushandactualChrishandlingcards;notasavant/translatedmind.",
+    "actual_theft_origin": 41,
+    "remaining_TPP_arc": "Preserveexistingactualmeetings/businessresources;futurecollisionsactualaccessrequired."
+  },
+  "prepared_E50_All_In_20261021": {
+    "manuscript": "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
+    "sha256": "a4797d2634759a54fe6c19ae0484d7eb81acaa9b15ed00ffed1c8b70aaece377",
+    "checkpoint": "continuity/episodes/E50/S3_E50_All_In_Checkpoint_20261021.json",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "previous_actual_delivery": 49,
+    "author_acceptance": "NOT_ASSERTED"
   }
 }
