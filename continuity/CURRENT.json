@@ -1,19 +1,19 @@
 {
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "2026-10-21: E41 original author rejected; replacement Cluck Around R2 prepared/reviewed/saved and authorized for immediate PLAY",
-  "last_delivered_episode": 40,
-  "next_episode": 41,
-  "delivery_status": "E39_E40_R2_DELIVERED_PROVISIONAL",
+  "as_of": "2026-10-21: replacement41 delivered provisionally;42 reviewed/saved and singlePLAYauthorized",
+  "last_delivered_episode": 41,
+  "next_episode": 42,
+  "delivery_status": "E41_CLUCK_R2_DELIVERED_PROVISIONAL",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "continuity/features/E39_E40/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
-  "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
-  "manuscript_git_blob_sha1": "634817760643f735ddabb57c88e50a6e5723ca3a",
-  "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
-  "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-  "state_owner": "continuity/features/E39_E40/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
-  "state_rule": "E40 remains effective delivered until replacement response exists. Old41was actually rendered then explicitlyrejected. No old41Tracydeath,Brianlegs,DrEvilarrival or70silvereffective. Danieldeadretained. Replacement origin41 overrides oldfutureplacement. EventualTPPcollision followsprotectedDrEvilchain.",
+  "delivery_reconciliation": "continuity/episodes/E41/Cluck_R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
+  "manuscript": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_FINAL_20261021.txt",
+  "manuscript_git_blob_sha1": "022304425e01c359b8a987e912711daafebbc8df",
+  "manuscript_sha256": "1bb3a0098e8d1467afcac0d132fe08a09092d1f4588b6b2335d7a0c97392d2c0",
+  "checkpoint": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
+  "state_owner": "continuity/episodes/E41/Cluck_R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
+  "state_rule": "Full replacement41 visibly delivered; supersedes rejected41.42prepared only until fullresponse. No acceptance asserted.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -23,41 +23,39 @@
     "scope": "The ENTIRE previous CURRENT JSON, including E34 installation receipts, earlier research, previous episode/recovery records, scoped configurations, exact feature paths and all staged-package hashes, remains unchanged at this immutable revision. Historical work pointers there do not supersede this current workflow receipt. Consult it for any unchanged prior metadata rather than assuming absence."
   },
   "continuation_authorization": {
-    "episode": 41,
+    "episode": 42,
     "proposed_batch": [
-      41
+      42
     ],
-    "status": "PLAY_AUTHORIZED_EXACT_PREPARED_REPLACEMENT_ONLY"
+    "status": "PLAY_AUTHORIZED_EXACT_PREPARED_EPISODE_ONLY"
   },
   "prepared_episode": {
-    "change_id": "S7NS_E41_CLUCK_REPLACEMENT_R2_20261021",
-    "episode": 41,
+    "change_id": "S7NS_E42_A_VERY_IMPORTANT_CALL_20261021",
+    "episode": 42,
     "episode_span": [
-      41
+      42
     ],
-    "title": "Cluck Around and Find Out",
+    "title": "A Very Important Call",
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
-    "manuscript": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_FINAL_20261021.txt",
-    "manuscript_sha256": "1bb3a0098e8d1467afcac0d132fe08a09092d1f4588b6b2335d7a0c97392d2c0",
-    "manuscript_git_blob_sha1": "022304425e01c359b8a987e912711daafebbc8df",
-    "checkpoint": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
-    "checkpoint_git_blob_sha1": "b9fbfbdfd611bec050a357c1c71c3241589b82f9",
-    "drive_manuscript_id": "1r7UFrab3h86fDcEf2lBUTqBYmhzO9LyVbqo9lWpY6o4",
-    "drive_checkpoint_id": "1a7yXAJDQ_jH8Lhg5n_kW6CBoxcqrcxdp3YnnGEwbX8w",
-    "airtable_episode_record_id": "rec5CQLb9Z3W32THu",
+    "manuscript": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_FINAL_20261021.txt",
+    "manuscript_sha256": "5ae27d3461cb6ea15e5d0d4d74aab5d420930646ef7b02bd5aae1d85bd7a0971",
+    "manuscript_git_blob_sha1": "69390d296c65530f20448f056660f7141fb7a9ab",
+    "checkpoint": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "8a3e74c2052aa173d63c5101830b770107fbdea8",
+    "drive_manuscript_id": "1KLp3EwdFp5kgywi1MdAB55N30ucqsfXHyN5Yh8wVWk0",
+    "drive_checkpoint_id": "1JZg2I4BrLFVg6FowiDPLUSyiy1wiuNtM3K_9Uzxpk2A",
+    "airtable_episode_record_id": "recqTrPfq1QzGkz5O",
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
     "author_acceptance": "NOT_ASSERTED",
-    "authorization": "Explicit replacement41 and PLAY now. No42.",
-    "next_action": "Render exact full replacement text now. Reconcile actual chat delivery next interaction.",
+    "authorization": "Explicit single PLAY42; no43.",
+    "next_action": "Render exact complete saved42. Reconcile actual delivery on next interaction.",
     "four_app_readbacks": {
-      "GitHub_manuscript_exact": true,
-      "GitHub_checkpoint_exact": true,
-      "Drive": "Complete prose/checkpoint match after native terminal-newline normalization; not byte-identical plain-text export",
+      "GitHub_pair_exact": true,
+      "Drive_pair_native_index_exact": true,
       "Airtable_hash_checkpoint": true,
-      "Notion_hash_scope": true
+      "Notion_hash_checkpoint_and41receipt": true
     },
-    "supersedes": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_FINAL_20261021.txt",
-    "boundary": "Prior41explicitlyrejected andnotactive; E40effective untilreplacementresponseexists."
+    "boundary": "41 replacement delivered provisionally.42 candidate outcomes only until full actual response."
   },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
@@ -101,9 +99,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "E41_REPLACEMENT_R2_READY_FOR_EXACT_PLAY",
-  "work_resume_checkpoint_latest": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
-  "work_change_id": "S7NS_E41_HIS_OWN_TWO_FEET_PREPARED_20261021",
+  "work_status": "E42_REVIEWED_SAVED_READY_FOR_AUTHORIZED_PLAY",
+  "work_resume_checkpoint_latest": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_Checkpoint_20261021.json",
+  "work_change_id": "S7NS_E42_A_VERY_IMPORTANT_CALL_20261021",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": {
@@ -132,7 +130,7 @@
   "history_unchanged": true,
   "latest_R5_MO_POWAH_author": "continuity/author/S7NS_E35_MO_POWAH_Pure_Dickhead_Joke_20261019.md",
   "latest_R5_MO_POWAH_author_blob_sha1": "d777a9e61550231c7874f3abadb2ff4f08fbfeaa",
-  "work_resume_checkpoint_latest_git_blob_sha1": "9f6e8dd14996c59dabcc81864abf1aee0e628c54",
+  "work_resume_checkpoint_latest_git_blob_sha1": "8a3e74c2052aa173d63c5101830b770107fbdea8",
   "R5_MO_POWAH_status": "Chris intentionally trolls a perfectly competent chef to be a dickhead; chef changes nothing, Chris pretends correction worked. Not a milk/cooking grievance. Future E36–38 ONLY.",
   "latest_direct_author_revision": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "E36_E38_research_revision": "continuity/editorial/E36_E38_Theo_TPP_Fissure_Revision_Research_R1_20261019.md",
@@ -301,14 +299,14 @@
   },
   "default_PLAY_episode_count": 2,
   "next_prospective_episode_batch": [
-    41
+    42
   ],
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
   "current_prepared_episode_count": 1,
-  "current_prepared_drive_id": "1r7UFrab3h86fDcEf2lBUTqBYmhzO9LyVbqo9lWpY6o4",
-  "current_prepared_full_sha256": "64264a14a8f682a0627e0141bb09e468512bac08cef2a5ec3460fc78a16f37b8",
+  "current_prepared_drive_id": "1KLp3EwdFp5kgywi1MdAB55N30ucqsfXHyN5Yh8wVWk0",
+  "current_prepared_full_sha256": "5ae27d3461cb6ea15e5d0d4d74aab5d420930646ef7b02bd5aae1d85bd7a0971",
   "authorial_fidelity_v1_1": {
     "change_id": "S7NS_AUTHORIAL_FIDELITY_ACTIVE_COMEDY_V11_20261020",
     "selection": "AUTHOR_SELECTED_BY_EXPLICIT_ESKETIT",
@@ -565,7 +563,7 @@
     },
     "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "checkpoint_git_blob_sha1": "3b35951d42f29b33643b818105e7829f05028c25",
+  "checkpoint_git_blob_sha1": "b9fbfbdfd611bec050a357c1c71c3241589b82f9",
   "prepared_E39_E40_A_Place_To_Wait_R2_20261021": {
     "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
     "episode_span": [
@@ -711,5 +709,87 @@
     "effective_story": false,
     "reason": "Author intended three-person Mahnuh shoplifting collaboration in41; directly rejectspriorcut;Danieldeathretained."
   },
-  "E41_replacement_authority": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json"
+  "E41_replacement_authority": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
+  "prepared_E41_Cluck_R2": {
+    "change_id": "S7NS_E41_CLUCK_REPLACEMENT_R2_20261021",
+    "episode": 41,
+    "episode_span": [
+      41
+    ],
+    "title": "Cluck Around and Find Out",
+    "status": "DELIVERED_PROVISIONAL",
+    "manuscript": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_FINAL_20261021.txt",
+    "manuscript_sha256": "1bb3a0098e8d1467afcac0d132fe08a09092d1f4588b6b2335d7a0c97392d2c0",
+    "manuscript_git_blob_sha1": "022304425e01c359b8a987e912711daafebbc8df",
+    "checkpoint": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "b9fbfbdfd611bec050a357c1c71c3241589b82f9",
+    "drive_manuscript_id": "1r7UFrab3h86fDcEf2lBUTqBYmhzO9LyVbqo9lWpY6o4",
+    "drive_checkpoint_id": "1a7yXAJDQ_jH8Lhg5n_kW6CBoxcqrcxdp3YnnGEwbX8w",
+    "airtable_episode_record_id": "rec5CQLb9Z3W32THu",
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Prior replacement41PLAY completed; current user authorizes42.",
+    "next_action": "Continue with42.",
+    "four_app_readbacks": {
+      "GitHub_manuscript_exact": true,
+      "GitHub_checkpoint_exact": true,
+      "Drive": "Complete prose/checkpoint match after native terminal-newline normalization; not byte-identical plain-text export",
+      "Airtable_hash_checkpoint": true,
+      "Notion_hash_scope": true
+    },
+    "supersedes": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_FINAL_20261021.txt",
+    "boundary": "Replacement41active provisionally; oldHisOwnTwoFeet rejected.",
+    "delivery_reconciliation": "continuity/episodes/E41/Cluck_R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
+  },
+  "prepared_E42_20261021": {
+    "change_id": "S7NS_E42_A_VERY_IMPORTANT_CALL_20261021",
+    "episode": 42,
+    "episode_span": [
+      42
+    ],
+    "title": "A Very Important Call",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "manuscript": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_FINAL_20261021.txt",
+    "manuscript_sha256": "5ae27d3461cb6ea15e5d0d4d74aab5d420930646ef7b02bd5aae1d85bd7a0971",
+    "manuscript_git_blob_sha1": "69390d296c65530f20448f056660f7141fb7a9ab",
+    "checkpoint": "continuity/episodes/E42/S3_Episode_42_A_Very_Important_Call_Checkpoint_20261021.json",
+    "checkpoint_git_blob_sha1": "8a3e74c2052aa173d63c5101830b770107fbdea8",
+    "drive_manuscript_id": "1KLp3EwdFp5kgywi1MdAB55N30ucqsfXHyN5Yh8wVWk0",
+    "drive_checkpoint_id": "1JZg2I4BrLFVg6FowiDPLUSyiy1wiuNtM3K_9Uzxpk2A",
+    "airtable_episode_record_id": "recqTrPfq1QzGkz5O",
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Explicit single PLAY42; no43.",
+    "next_action": "Render exact complete saved42. Reconcile actual delivery on next interaction.",
+    "four_app_readbacks": {
+      "GitHub_pair_exact": true,
+      "Drive_pair_native_index_exact": true,
+      "Airtable_hash_checkpoint": true,
+      "Notion_hash_checkpoint_and41receipt": true
+    },
+    "boundary": "41 replacement delivered provisionally.42 candidate outcomes only until full actual response."
+  },
+  "current_actual_after_E41": {
+    "evidence": "continuity/episodes/E41/Cluck_R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
+    "scene_end": {
+      "time": "Burial duskdiscoveryday4;originday5;duckday6;basketday7;scraps/discoveryday8;cart/day9. No offscreenTPPactivity invented.",
+      "Sins": "Stream/pear camp. Daniel buried above water. Arthur holds unopened110purse separately; Kaze spear; Chris intactcappedbottle. Kaze revisitscrusher yard withoutculpritID. Dana/Mana loyal,KK livingguest.",
+      "Chris_Billy": "Chris exterior entire41;Billyfullsizeinside seesactualheadlamp and speaksbanjo. No newmaterialtransfer orBillyfoodreceipt;thighowed/unfulfilled.",
+      "Mana": "New foodthefthabit;nonverbalcanine.1roastconsumed,ducksharedChris/Mana;basketreturned,scrapsgifted;finalroastreturned. No transferredBillypowers.",
+      "Dana": "Investigates throughobservation/merchantcontact/wrapping;confrontsChris/Billy;physicallystabilizescart toprotectworker;no newform.",
+      "merchant": "Ninebreedingchickens recovered;closedfoodbox secure. Actualworker departsforport withstorage/securityinquiry,not received/contractedyet.",
+      "TPP": "E40 actual72silver,Tracyalive/Brianconjoined,Dutch/Clifford alive;DrEvil future. Rejected41 not active."
+    },
+    "resources": {
+      "common_silver": 2120,
+      "Kaze_silver": 0,
+      "Daniel_purse": 110,
+      "custodian": "Arthur",
+      "TPP_silver": 72,
+      "shots": 0,
+      "E31_chests": "Both unopened/uncounted",
+      "restitution": "Dana promises tosettlefirstroast;unpriced/unpaid,notcashdeduction.",
+      "food": "Firstroast andpartduckconsumed,giftedscrapsconsumed,unknownremainingducknotclaimedstored;finalroastreturned,ninechickensrecovered."
+    }
+  }
 }
