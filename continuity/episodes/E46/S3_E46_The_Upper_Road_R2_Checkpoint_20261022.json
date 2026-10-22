@@ -1,0 +1,111 @@
+{
+  "schema": "S7NS_SINGLE_EPISODE_REVISION_PREPARATION_V1",
+  "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 46,
+  "title": "The Upper Road",
+  "same_span_revision": true,
+  "episode_count": 1,
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "Latest explicit play episode46; single46 only. After45R2 focusedTPPrec ut, this presents preservedSins/KK/Maulthread asselfcontained46; no47+. Original45–46events not duplicated.",
+  "previous_delivery_receipt": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json",
+  "previous_revision": {
+    "episode": 45,
+    "title": "Founding Father",
+    "status": "DELIVERED_PROVISIONAL",
+    "sha256": "5d70134b9ad35c73fa1b8d4a023c621a77f79c71f0e819727f87f3af5c62d05a",
+    "checkpoint": "continuity/episodes/E45/S3_E45_Founding_Father_R2_Checkpoint_20261022.json"
+  },
+  "original_pair": {
+    "manuscript": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_FINAL_20261021.txt",
+    "sha256": "283a56b3a270c00bfdfa18b602ef859257d70498e1fb261529187472c76e01c4",
+    "checkpoint": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_Checkpoint_20261021.json",
+    "status": "PRESERVED_DELIVERED_PROVISIONAL"
+  },
+  "manuscript": {
+    "path": "continuity/episodes/E46/S3_E46_The_Upper_Road_R2_FINAL_20261022.txt",
+    "words": 4019,
+    "chars": 23359,
+    "bytes": 23875,
+    "sha256": "0b68dcc3ab7d3b453961fac0852d3e7f24494a8b0a05f0d2ae4c4daab770a516",
+    "git_blob_sha1": "7490a7704d9aa4967150f432ea2be452fe711671",
+    "drive_id": "17EnpdlbeEPyBGjHx5pj28fQxycm5KbYGiFe4P3qkMeI",
+    "drive_url": "https://docs.google.com/document/d/17EnpdlbeEPyBGjHx5pj28fQxycm5KbYGiFe4P3qkMeI/edit?usp=drivesdk",
+    "estimated_minutes_at_150_wpm": 26.793333333333333,
+    "audio_generated": false
+  },
+  "checkpoint_path": "continuity/episodes/E46/S3_E46_The_Upper_Road_R2_Checkpoint_20261022.json",
+  "drive_checkpoint_id": "1qzyUgiv2oAbz6X79KZg-PE9BNXVlob4yGZhdPOV4BcM",
+  "drive_checkpoint_url": "https://docs.google.com/document/d/1qzyUgiv2oAbz6X79KZg-PE9BNXVlob4yGZhdPOV4BcM/edit?usp=drivesdk",
+  "source_prepass": {
+    "GitHub": "LiveCURRENT/LEDGER/45R2CP and fullKKcharacterownerread",
+    "Airtable": "45/46existingrecordsread",
+    "Notion": "Existingepisodeindexread",
+    "GoogleDrive": "Actual45R2manuscriptretrieved; fullsameconversationresponseavailable",
+    "fresh_full_owners": [
+      "character_sources/KK_Keke_Complete_Character_Source_20261019.md",
+      "e45_sources/Maul_Character_Source.txt",
+      "e45_sources/K_K_E34_Application_State_20261019.md"
+    ],
+    "reused": "Complete materially relevant Kaze/Arthur/Chris/Billy/Dana/Mana narrator and approvedcasttrim owners alreadyread in sameconversation; no newpower mechanism introduced.",
+    "source_limit": "No claim of rereadingeverybundle/fullKaze155kpsych or newaudio/filmtest.",
+    "exact_passage_basis": "4019wordrevision condenses prior45KKday15encounter and retains prior46Kaze/aftermath, removes priorTPPscene because45R2nowowns it."
+  },
+  "candidate_state_after_play": {
+    "chronology": "Explicitopening beforeBrianreturncoast/DrEvilbreakfast orients day15morning→day15night Sins thread. GloballatestTPPday16fromdelivered45R2notrolledback. No secondbirth/death/receipt or newlyadvancedday.",
+    "KK": "Permanently killed by Maul after coercive recruitment/withheld stick and actual fought encounter. Root bracing, ironwood hardening, extra/elongated hands, hollows, splinters/canopy, compression, regeneration/distributed vital tissue materially used. Sustained industrial furnace confinement destroys essential whole organism after repeated escape attempts; not a generic single-blade weak spot/fire-instadeath. No viable seed/clone/core escapes. Cooled remains recovered and buried near own purchased pear; ordinary stick laid across ground.",
+    "Maul": "First actual appearance this branch from pre-Ahsoka-duel CloneWarsS7. Forcesavescart for local map/information, recruits KK for independent return/Sidious agenda, coerces and kills. Takes serious wounds/metalleg damage; waits in road shelter with map, cannot instantrepair leg. Kaze follows actual blood/metalfoot evidence and sees him. Maul attacks with Force/saber; Kaze physically overwhelms and kills immediately, uninjured. Body remains broken upper road marked off by localworkers. No crew, later knowledge, power parity or global tracking.",
+    "Sins": "Chris exterior throughout; Billy full-size inside, headlamp and banjo only. Kaze,Arthur,Daynuh,Mahnuh with him; no new membership. K.K. independent living guest until permanent death, no posthumous admission. RomanceOFF/Briaroffplot/Teemoexcluded/ZidnotSin unchanged.",
+    "equipment": "Arthur recovers and deactivates Maul doubleended red saber, wraps control/protects accidentalactivation and retains. Recovers torn local road survey; map use deferred tomorrow. Kaze declines equipment decision tonight. Clifford retains original gift lightsaber secured to chair, no activation this pair. Kaze no new powers, no Ki/Rinnegan/portal/claws; local senses and physical output only.",
+    "knowledge": "Witness knows Maul name from heard introduction; incomplete fight testimony explicitly limited, Arthur records only seen material. Billy sees aftermath through actual headlamp; no reconstructed full fight. Kaze saw fatal aftermath and personally killed Maul, not first encounter; gang not automatically informed on Maul source/Sidious intentions. TPP not yet informed KK/Maul deaths. Dutch receives Arthur actual letter/cure confirmation from Clifford.",
+    "TPP": "DrEvil leadersubresourceowner, Dutchrighthand. Clifford true report. Brian excluded nextdelivery, assigned review with actual recordedattribution. Three recommendations adopted; repeat inquiry unpriced/uncontracted. Initial trademark quarrel now muchpettier, termsonepage deliveredconsiderationonly, noIPfiling/transfer/settlement. DrEvil rejectsautomaticauthority. Brian resents yetfirstadmiration/caughtpinky/collarexperiment. No haircut/nickname/acceptance.",
+    "Brian_body": "Same organicseparateadulttinybody, newlegs awkwardunderactualjumpawayfromfallingframe,noinjury. Organismseam moves undercloth,not cured/controlled. Tracy stilldead; no absolution/forgottenhosttheft.",
+    "Daniel_Tracy": "Both remain dead. Daniel killer still unidentified by Sins; no attribution to Maul/TaiLung via unrelated encounter. Daniel110purse Arthur unopened; spearKaze,bottleChris. Tracy burial12 already paid previouspair.",
+    "unchanged_TPP_arc": "Retain muchpettierDrEvil and Brianinitialadmiration/caughthalfpinky/collarexperiment. No baldhead/MiniMe/acceptanceyet; conditionalfuturelatestauthorownerretained."
+  },
+  "resources": {
+    "common_silver": 2111,
+    "Kaze_personal_silver": 0,
+    "Daniel_purse_unopened": 110,
+    "Daniel_custodian": "Arthur",
+    "TPP_old_purse": 54,
+    "TPP_business_receipt": 5,
+    "receipt": "AlreadydeliveredDutch,notpaidagain",
+    "shots": 0,
+    "Clifford_lightsaber": "Unchangedsecuredchair,nofiring",
+    "Maul_saber": "CombatthenArthurswitchesoff/retrieves samehilt; no duplicateinventory",
+    "E31_chests": "Unopened/uncounted"
+  },
+  "review": {
+    "first_whole_read": "Complete4000worddraft reopened untruncated before repairs.",
+    "repairs": [
+      "Fix breakfastpronoun toBrian.",
+      "Replace ambiguous tookmapandleftitthere with explicitlyretainedstick.",
+      "Correct worker sentrunning attribution; K.K. toldhimgo,notMaul.",
+      "MakeKaze retrieveactualstick afterleavingitoutsidefight, closingcustody route."
+    ],
+    "final_whole_reread": "Complete4019word final reopened untruncated afterlastproseedit. No laterprosechange.",
+    "weakest_span": "CondensedKKfight preservesgrowth/regrowth/hollows/rootbracing/splinters/canopy/compression/distributedheartwood and Maulconfinementwhile leavingdevelopedchoices+aftermath. ExistingTPPblockremoved tohonor45R2 and avoidtwoidenticalcompanyreturns.",
+    "source_provisions": {
+      "KK": "Fullowner 1–10 and compression: bodilygeometry/resources; no genericfireweakness/immortality. Actualfurnacephysicalconfinement persists untilessentialtissuedestroyed; repeatedescapesfail.",
+      "Maul": "Pre-AhsokaduelS7, Forceanddoubleblade, injuryandindependentagenda; nolaterVenator/Rebelsknowledge.",
+      "Kaze": "Actualballistictravel, localbloodscentandvisualtarget, dangersenseandphysicalbaseline; noportal/Ki/cleave/newarmor or forcedparity."
+    },
+    "checks": {
+      "causality": "PASS editorial: workeractualroad, Maulinjuredwaitingshelter, Kazeactualroute",
+      "body_knowledge_custody": "PASS editorial: oneexterior/banjo/headlamp; witnesslimit/name; hilt/map/stickroutes",
+      "author_fidelity": "PASS editorial: priorselectedpermanentKKdeath/fulldefenses, Kaze decisive mismatch, latest45R2TPPretained",
+      "runtime": "4019words≈26.79minutes assumed150wpm",
+      "audio": "NOT_RUN"
+    }
+  },
+  "future_threads": [
+    "Arthur holdsoneMaulhilt andlocalmap; tomorrowrouteunplayed.",
+    "KK/Maulremainpermanentlydead; no rematch/newcore.",
+    "Danielkillerunidentified; newMaulencounterdoesnotidentifyTaiLung.",
+    "Brianfuturebaldhead/rolemodelarc withcontinuedBrianidentity; DrEvilacceptance/nicknamestillconditional."
+  ],
+  "next_new_episode": 47,
+  "episode47_authorized": false
+}
