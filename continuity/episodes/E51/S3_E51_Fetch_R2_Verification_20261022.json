@@ -1,0 +1,74 @@
+{
+  "change_id": "S7NS_E51_FETCH_JESUS_RECOGNITION_R2_20261022",
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript_sha256": "0477f3dd40caf0ca40547a4f1ffb2714865bc52bd8c1f50982e6be85c650e8be",
+  "GitHub": {
+    "ms": {
+      "path": "continuity/episodes/E51/S3_E51_Fetch_R2_FINAL_20261022.txt",
+      "exact": true,
+      "blob_sha1": "751181959e7aa0e692c32ee99c956d34a1ab6695"
+    },
+    "cp": {
+      "path": "continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json",
+      "exact": true,
+      "blob_sha1": "935f3cfd459bf60507604959393b640550e9c151"
+    },
+    "author": {
+      "path": "continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md",
+      "exact": true,
+      "blob_sha1": "fbd080f9a5dce667001eccec70e82632a90b6f70"
+    },
+    "r1": {
+      "path": "continuity/episodes/E51/R1_CHAT_DELIVERY_RECONCILIATION_20261022.json",
+      "exact": true,
+      "blob_sha1": "04f5b00c8d3a7982906dcd70892da07beab2c0e7"
+    },
+    "current": {
+      "path": "continuity/CURRENT.json",
+      "exact": true,
+      "blob_sha1": "fb8eb538f464a0033b5109b5d53db6dd9925a2fc"
+    },
+    "ledger": {
+      "path": "continuity/DELIVERY_LEDGER.json",
+      "exact": true,
+      "blob_sha1": "88b59208d82636389a3b67ef735da432beddedf5"
+    },
+    "outline": {
+      "path": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+      "exact": true,
+      "blob_sha1": "432570ca4a452f0dbf696d6bf5085dfb110b3425"
+    },
+    "next": {
+      "path": "continuity/SEASON3_NEXT.md",
+      "exact": true,
+      "blob_sha1": "af39740bc091a0c8625d198e3af957e49d35e129"
+    },
+    "billy": {
+      "path": "character_sources/Billy_Character_Source.txt",
+      "exact": true,
+      "blob_sha1": "b35faf5d812dbdffdafee24e85cf3b47b28a794a"
+    },
+    "shared": {
+      "path": "canon/characters/chris_catfish_billy_current.md",
+      "exact": true,
+      "blob_sha1": "a92564b2b32d45393358e5735cb7e3d2cba4f3c8"
+    }
+  },
+  "Drive": {
+    "manuscript_exact": true,
+    "checkpoint_exact_bytes": true,
+    "manuscript_id": "1oRFtAEIelowv8yGApdDfVYbPnvGPHD1s",
+    "checkpoint_id": "1pNfxHmNsjnthfB13BwdrhEBIMD27T9gI"
+  },
+  "Airtable": {
+    "record_id": "recO0O1hxfH6Cc00F",
+    "hash_exact": true,
+    "status_scope": true
+  },
+  "Notion": {
+    "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "hash_present": true,
+    "scope_present": true
+  }
+}
