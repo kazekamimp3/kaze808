@@ -61,7 +61,7 @@
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_Post_E50_Ensemble_Comedy_Cast_KK_Revision_20261021.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -99,9 +99,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "POST_E50_AUDIT_SELECTED_DIRECTIONS_PROPOSED_OPTIONS",
-  "work_resume_checkpoint_latest": "continuity/work/S7NS_Post_E50_Ensemble_Audit_Resume_20261021.json",
-  "work_change_id": "S7NS_POST_E50_ENSEMBLE_COMEDY_CAST_KK_20261021",
+  "work_status": "POST_E50_SELECTED_TTS_FACTION_RELATIONSHIP_CORRECTIONS",
+  "work_resume_checkpoint_latest": "continuity/work/S7NS_Post_E50_TTS_Faction_Beef_Brian_Resume_20261021.json",
+  "work_change_id": "S7NS_POST_E50_TTS_FACTION_BEEF_BRIAN_REBALANCE_20261021",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": "continuity/work/S7NS_Post_E50_Ensemble_Audit_Resume_20261021.json",
@@ -1062,9 +1062,11 @@
   },
   "Brian_Busta_Rhymes_obsession_author_20261021": {
     "owner": "continuity/author/S7NS_E47_Brian_Busta_Rhymes_Obsession_20261021.md",
-    "status": "DIRECT_AUTHOR_SELECTED_CURRENT_CHARACTER_DIRECTION",
+    "status": "HISTORICAL_HEAVY_REPETITION_SUPERSEDED_BY_LATEST_AUTHOR",
     "prior_slow_burn_owner": "continuity/author/S7NS_E45_DrEvil_Brian_Slow_Burn_MiniMe_R2_20261022.md",
-    "scope": "Ongoingabsurdassociativeglazing; noactualBusta/lyrics/newbody. DrEvilpettiness/Scotty/Brianidentity/slowfutureMiniMearc retain."
+    "scope": "Ongoingabsurdassociativeglazing; noactualBusta/lyrics/newbody. DrEvilpettiness/Scotty/Brianidentity/slowfutureMiniMearc retain.",
+    "current_owner": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md",
+    "current_scope": "Retain taste, substantially reduce use/rest gag; no automatic Busta interjections."
   },
   "current_actual_after_E47": {
     "evidence": "continuity/episodes/E47/CHAT_DELIVERY_RECONCILIATION_20261021.json",
@@ -1195,7 +1197,7 @@
     "next_action": "Complete previous49chat observed; frozenpreparationCP unchanged.",
     "delivery_reconciliation": "continuity/episodes/E49/CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "latest_direct_author_scope_git_blob_sha1": "a705bf6f6d95064bbfd2862907604a5201e11e25",
+  "latest_direct_author_scope_git_blob_sha1": null,
   "latest_E49_character_application": {
     "owner": "continuity/author/S7NS_E49_Dana_Brian_BELLY_Public_Chaos_20261021.md",
     "status": "AUTHOR_SELECTED_PORTRAYAL",
@@ -1372,5 +1374,29 @@
     "detailed_construction": "PROPOSED"
   },
   "work_receipt": "continuity/work/S7NS_Post_E50_Ensemble_Audit_Resume_20261021.json",
-  "current_prepared_episode_count_note": "E50 is delivered. No new prepared episode in post50 WORK; historical prepared records retained."
+  "current_prepared_episode_count_note": "E50 is delivered. No new prepared episode in post50 WORK; historical prepared records retained.",
+  "latest_relationship_TTS_application": {
+    "change_id": "S7NS_POST_E50_TTS_FACTION_BEEF_BRIAN_REBALANCE_20261021",
+    "owner": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md",
+    "status": "AUTHOR_SELECTED_FUTURE_PORTRAYAL_WORK_ONLY",
+    "tts": {
+      "Dana": "Daynah",
+      "Mana": "Mahnah",
+      "historical_manuscripts": "PRESERVED",
+      "voice_test": "NOT_PERFORMED"
+    },
+    "Brian_Busta": "SUBSTANTIALLY_REDUCE_AND_REST_GAG; occasional earned fresh recurrence only, no automatic insertions",
+    "DrEvil_Brian": "Closeness retains savage deliberate praise/build-up then precise ego destruction; vary implementation; retain tiny adult founder/DJ, Scotty/daddy and conditional MiniMe",
+    "Arthur_Chris_Clifford": "Genuine personal beef; on-sight hazing/bullying, not softened neutral banter; Clifford retains agency/competence and actual physical consequences",
+    "Dutch_Arthur": "Personal resentment: Chris killed Dutch twinBob and Arthur chooses Sins includingChris overDutch after long history. Controlled civility possible, emotional neutrality not.",
+    "DrEvil_Sins": "No inherent personal beef. Kaze and Sins findDrEvil funny; Kaze/DrEvil can side together aboutBrian. TPP members' grievances/objectives cause conflict without universal hatred or blanketalliance.",
+    "Brian_Dutch": "Desperate appeal for support meets conspicuous deliberately distant gaze/nonresponse; vary related calculated abandonment, not obliviousness.",
+    "story_days_advanced": 0,
+    "new_events": [],
+    "episode51_authorized": false
+  },
+  "audience_TTS_names": {
+    "Dana": "Daynah",
+    "Mana": "Mahnah"
+  }
 }
