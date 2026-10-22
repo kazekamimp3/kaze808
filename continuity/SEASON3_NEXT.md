@@ -1,3 +1,9 @@
+# EPISODE51 R2 READY FOR CURRENT AUTHORIZED RESEND
+
+Read continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md and continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json. R1 original51 fully delivered provisionally and preserved, acceptance NOT_ASSERTED. R2 same-span final5010words (33.4min at assumed150wpm; longer due requested full retelling). Original cross/crown remain Chris-owned; Billy's FIRST recognition occurs ONLY after priest authenticates them. Real one-exterior swaps and borrowing/reintake, plus Bible jokes while recovering Mahnah's different replica. SameDay19 endpoint/hilt/coast-inquiry preserved. No52 PLAY. Reconcile revised response only after it actually exists.
+
+## Preserved previous routing text
+
 # EPISODE51 PREPARED FOR CURRENT AUTHORIZED PLAY — 22 October 2026
 
 Explicit single PLAY51: Fetch,3804words,exact hash c37c4647b6c4521fd8d2b04a1393c88ceac8f29ffbc0f744ba4208ba1d573ee7. Full reviewed pair continuity/episodes/E51/S3_E51_Fetch_FINAL_20261022.txt and continuity/episodes/E51/S3_E51_Fetch_Checkpoint_20261022.json. Four-app readbacks verified. Actual delivered cursor remains50 until complete current response exists; no52 or author acceptance. Upon successful delivery reconcile candidate: Kaze alone back toward coast with Maul hilt; others stilljunction/intend return aboveworks. TaiLung truth disclosed, church theft/Jesus callback and local recognition/alarm enacted in candidate only. Starkiller lead is old freight-guard eyewitness report, not current location or preset duel. E50 selected poker insertion remains unperformed, originals unchanged. Serious restaurant consequences remain open. Read full paired checkpoint for all custody/knowledge/prospective distinctions.
