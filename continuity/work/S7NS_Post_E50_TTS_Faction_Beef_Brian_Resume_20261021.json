@@ -1,0 +1,60 @@
+{
+  "change_id": "S7NS_POST_E50_TTS_FACTION_BEEF_BRIAN_REBALANCE_20261021",
+  "status": "AUTHOR_SELECTED_TTS_AND_RELATIONSHIP_DIRECTIONS_SAVED_VERIFIED",
+  "owner": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md",
+  "actual_episode": 50,
+  "episode51_authorized": false,
+  "story_days_advanced": 0,
+  "github": [
+    {
+      "path": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md",
+      "sha": "47e7e1d7c952eddb2327bb36ab2897cfd1817b56",
+      "exact_text_readback": true
+    },
+    {
+      "path": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
+      "sha": "a1b4c10d07ca38d45e72cd17ae0d38669b2b925c",
+      "exact_text_readback": true
+    },
+    {
+      "path": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+      "sha": "30e9ed31d2112685b4cb725190c8323e1b137c76",
+      "exact_text_readback": true
+    },
+    {
+      "path": "continuity/CURRENT.json",
+      "sha": "8f6ab4fed2a4e880283528caa4dcd87e60c76263",
+      "exact_text_readback": true
+    }
+  ],
+  "airtable": {
+    "decision": "recCi8ujGgJn9cI96",
+    "affected_characters": [
+      "rec17KPB18Y1vviGh",
+      "rec3WGTbBWweViUJU",
+      "recJFSsIPL4f3HUBf",
+      "recMRq96eQTYXRhtW",
+      "recYNPq0s0v8OB9wj",
+      "recmiKA4VravujrPS",
+      "recpYEexIYBIwx0GP",
+      "recv0DvUxpEhtnJ6j"
+    ],
+    "readback": "PASS decision and all8 character notes"
+  },
+  "notion": {
+    "page": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+    "readback": "PASS changeID, Daynah/Mahnah and scoped direction"
+  },
+  "drive": {
+    "id": "1X0Ocp9CSBJkg9RH-lAM8hgwvfAa1byRfAXYCczVgygg",
+    "native_index_exact": true,
+    "parent_readback": [
+      "1RrEZtbm3JO1ZvIF-ZJvsno79ZGVZQPaz"
+    ]
+  },
+  "voice_test": "NOT_PERFORMED",
+  "historical_prose_rewritten": false,
+  "project_UI_installation": "NOT_CHANGED_NOT_CLAIMED",
+  "pending": [],
+  "next_action": "Use Daynah/Mahnah and latest relationship corrections in next separately authorized draft. Preserve rest of post-E50 brainstorm as proposed and actual E50 state unchanged."
+}
