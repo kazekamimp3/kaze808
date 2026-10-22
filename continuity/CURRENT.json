@@ -1,19 +1,19 @@
 {
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "2026-10-21: actual43–44 reconciled; reviewed45–46 prepared for authorized PLAY",
-  "last_delivered_episode": 44,
-  "next_episode": 45,
-  "delivery_status": "E43_E44_DELIVERED_PROVISIONAL",
+  "as_of": "2026-10-22: actual45–46 reconciled; authorrequests single revised45, reviewed and saved",
+  "last_delivered_episode": 46,
+  "next_episode": 47,
+  "delivery_status": "E45_E46_DELIVERED_PROVISIONAL",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "continuity/features/E43_E44/CHAT_DELIVERY_RECONCILIATION_20261021.json",
-  "manuscript": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_FINAL_20261021.txt",
-  "manuscript_git_blob_sha1": "1954a969d2c03cfb56a4916644749602905194cb",
-  "manuscript_sha256": "b5fcfc4b99bd5218986b05394f21204c3a02a8bab669c2266cfab7b164bcc8a7",
-  "checkpoint": "continuity/features/E43_E44/S3_E43_E44_Audience_Participation_Checkpoint_20261021.json",
-  "state_owner": "continuity/features/E43_E44/CHAT_DELIVERY_RECONCILIATION_20261021.json",
-  "state_rule": "Complete43–44 visible twice and reconciled.45–46 prepared only until full response exists. No acceptance asserted.",
+  "delivery_reconciliation": "continuity/features/E45_E46/CHAT_DELIVERY_RECONCILIATION_20261022.json",
+  "manuscript": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_FINAL_20261021.txt",
+  "manuscript_git_blob_sha1": "26e3ed6b7e98f449e4889248e183eb60d01dc046",
+  "manuscript_sha256": "283a56b3a270c00bfdfa18b602ef859257d70498e1fb261529187472c76e01c4",
+  "checkpoint": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_Checkpoint_20261021.json",
+  "state_owner": "continuity/features/E45_E46/CHAT_DELIVERY_RECONCILIATION_20261022.json",
+  "state_rule": "Whole prior45–46 deliveredprovisional. Single45R2currentlyprepared; afterchat replacesTPPpassageonly, unrelated46KK/Maul/Sinsoutcomesretained. No47PLAY authorized.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -24,51 +24,47 @@
   },
   "continuation_authorization": {
     "episode_span": [
-      45,
-      46
+      45
     ],
-    "proposed_batch": [
-      45,
-      46
-    ],
-    "status": "PLAY_AUTHORIZED_CURRENT_TWO_EPISODE_DEFAULT"
+    "status": "SINGLE_EPISODE_SAME_SCENE_REVISION_PLAY_AUTHORIZED",
+    "next_new_episode47_authorized": false
   },
   "prepared_episode": {
-    "change_id": "S7NS_E45_E46_PLEASE_AND_THANK_YOU_20261021",
+    "change_id": "S7NS_E45_FOUNDING_FATHER_R2_20261022",
     "episode_span": [
-      45,
-      46
+      45
     ],
-    "title": "Please and Thank You",
+    "episode_count": 1,
+    "same_span_revision": true,
+    "title": "Founding Father",
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
-    "manuscript": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_FINAL_20261021.txt",
-    "manuscript_sha256": "283a56b3a270c00bfdfa18b602ef859257d70498e1fb261529187472c76e01c4",
-    "manuscript_git_blob_sha1": "26e3ed6b7e98f449e4889248e183eb60d01dc046",
-    "checkpoint": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_Checkpoint_20261021.json",
-    "checkpoint_git_blob_sha1": "3243b85c1b1d402c444f8d1f12fd3a7ece73a718",
-    "drive_manuscript_id": "1DWSjk6zw_5hujjwwWzSNGBhA3Y9KjxPs2wk5aN48Vbc",
-    "drive_checkpoint_id": "1MP6ArqZaDVjkB5zFizuwJ0GLZxLvwlgFS2y0D6VsGA4",
+    "author_owner": "continuity/author/S7NS_E45_DrEvil_Brian_Slow_Burn_MiniMe_R2_20261022.md",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E45/S3_E45_Founding_Father_R2_FINAL_20261022.txt",
+    "manuscript_sha256": "5d70134b9ad35c73fa1b8d4a023c621a77f79c71f0e819727f87f3af5c62d05a",
+    "manuscript_git_blob_sha1": "597d29d99a57bbc2a4be168135729ef91c527847",
+    "checkpoint": "continuity/episodes/E45/S3_E45_Founding_Father_R2_Checkpoint_20261022.json",
+    "checkpoint_git_blob_sha1": "ecaae9487a08758d366f57c7ca8aae12909e52c7",
+    "drive_manuscript_id": "1CRHPYLQohOI8Og3pFfnnPl9r3n6XsTOo17NjLD55_ic",
+    "drive_checkpoint_id": "1PAwzWcBC0JLnESzw3C7GVIEBjx08kD08ckNYPFEgnH0",
     "airtable_episode_record_ids": [
-      "rec1dXpVJRGb4VQWt",
-      "recptj157R49poLo3"
+      "rec1dXpVJRGb4VQWt"
     ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
-    "author_acceptance": "NOT_ASSERTED",
-    "authorization": "BarePLAY after completed43–44 authorizes45–46 under current two-consecutive-developed-units default. Repeated PLAY while working means finish this same pair; no47+ authorization.",
-    "next_action": "Render exact entire reviewed saved45–46 manuscript. Reconcile delivery only after full response exists; no47 authorization.",
     "four_app_readbacks": {
       "GitHub_pair_exact": true,
       "Drive_pair_native_index_exact": true,
-      "Airtable_hash_checkpoint_status": true,
+      "Airtable_hash_status_checkpoint": true,
       "Notion_hash_scope": true
     },
-    "boundary": "Latestactual44.45–46 remainscandidate until complete chat response exists."
+    "next_action": "Render exact full saved single revised45. Do not generate47/48. Reconcile newrevision only once fullresponse exists.",
+    "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid."
   },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_E45_DrEvil_Brian_Slow_Burn_MiniMe_R2_20261022.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -106,9 +102,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "E45_E46_COMPLETE_REVIEWED_SAVED_READBACK_VERIFIED_READY_FOR_EXACT_PLAY",
-  "work_resume_checkpoint_latest": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_Checkpoint_20261021.json",
-  "work_change_id": "S7NS_E45_E46_PLEASE_AND_THANK_YOU_20261021",
+  "work_status": "REVISED45_COMPLETE_REVIEWED_SAVED_READBACK_VERIFIED_READY_FOR_EXACT_PLAY",
+  "work_resume_checkpoint_latest": "continuity/episodes/E45/S3_E45_Founding_Father_R2_Checkpoint_20261022.json",
+  "work_change_id": "S7NS_E45_FOUNDING_FATHER_R2_20261022",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": {
@@ -137,7 +133,7 @@
   "history_unchanged": true,
   "latest_R5_MO_POWAH_author": "continuity/author/S7NS_E35_MO_POWAH_Pure_Dickhead_Joke_20261019.md",
   "latest_R5_MO_POWAH_author_blob_sha1": "d777a9e61550231c7874f3abadb2ff4f08fbfeaa",
-  "work_resume_checkpoint_latest_git_blob_sha1": "3243b85c1b1d402c444f8d1f12fd3a7ece73a718",
+  "work_resume_checkpoint_latest_git_blob_sha1": "ecaae9487a08758d366f57c7ca8aae12909e52c7",
   "R5_MO_POWAH_status": "Chris intentionally trolls a perfectly competent chef to be a dickhead; chef changes nothing, Chris pretends correction worked. Not a milk/cooking grievance. Future E36–38 ONLY.",
   "latest_direct_author_revision": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "E36_E38_research_revision": "continuity/editorial/E36_E38_Theo_TPP_Fissure_Revision_Research_R1_20261019.md",
@@ -306,15 +302,14 @@
   },
   "default_PLAY_episode_count": 2,
   "next_prospective_episode_batch": [
-    45,
-    46
+    45
   ],
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-  "current_prepared_episode_count": 2,
-  "current_prepared_drive_id": "1DWSjk6zw_5hujjwwWzSNGBhA3Y9KjxPs2wk5aN48Vbc",
-  "current_prepared_full_sha256": "283a56b3a270c00bfdfa18b602ef859257d70498e1fb261529187472c76e01c4",
+  "current_prepared_episode_count": 1,
+  "current_prepared_drive_id": "1CRHPYLQohOI8Og3pFfnnPl9r3n6XsTOo17NjLD55_ic",
+  "current_prepared_full_sha256": "5d70134b9ad35c73fa1b8d4a023c621a77f79c71f0e819727f87f3af5c62d05a",
   "authorial_fidelity_v1_1": {
     "change_id": "S7NS_AUTHORIAL_FIDELITY_ACTIVE_COMEDY_V11_20261020",
     "selection": "AUTHOR_SELECTED_BY_EXPLICIT_ESKETIT",
@@ -571,7 +566,7 @@
     },
     "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "checkpoint_git_blob_sha1": "d795e0507f8ee79901830ba7280d1eafef78f447",
+  "checkpoint_git_blob_sha1": "3243b85c1b1d402c444f8d1f12fd3a7ece73a718",
   "prepared_E39_E40_A_Place_To_Wait_R2_20261021": {
     "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
     "episode_span": [
@@ -898,7 +893,7 @@
       46
     ],
     "title": "Please and Thank You",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "status": "DELIVERED_PROVISIONAL",
     "manuscript": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_FINAL_20261021.txt",
     "manuscript_sha256": "283a56b3a270c00bfdfa18b602ef859257d70498e1fb261529187472c76e01c4",
     "manuscript_git_blob_sha1": "26e3ed6b7e98f449e4889248e183eb60d01dc046",
@@ -920,6 +915,76 @@
       "Airtable_hash_checkpoint_status": true,
       "Notion_hash_scope": true
     },
-    "boundary": "Latestactual44.45–46 remainscandidate until complete chat response exists."
+    "boundary": "Latestactual44.45–46 remainscandidate until complete chat response exists.",
+    "delivery_reconciliation": "continuity/features/E45_E46/CHAT_DELIVERY_RECONCILIATION_20261022.json",
+    "revision_scope": "TPPpassage45R2prepared; unrelatedeventsremain."
+  },
+  "prepared_E45_Founding_Father_R2_20261022": {
+    "change_id": "S7NS_E45_FOUNDING_FATHER_R2_20261022",
+    "episode_span": [
+      45
+    ],
+    "episode_count": 1,
+    "same_span_revision": true,
+    "title": "Founding Father",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_owner": "continuity/author/S7NS_E45_DrEvil_Brian_Slow_Burn_MiniMe_R2_20261022.md",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E45/S3_E45_Founding_Father_R2_FINAL_20261022.txt",
+    "manuscript_sha256": "5d70134b9ad35c73fa1b8d4a023c621a77f79c71f0e819727f87f3af5c62d05a",
+    "manuscript_git_blob_sha1": "597d29d99a57bbc2a4be168135729ef91c527847",
+    "checkpoint": "continuity/episodes/E45/S3_E45_Founding_Father_R2_Checkpoint_20261022.json",
+    "checkpoint_git_blob_sha1": "ecaae9487a08758d366f57c7ca8aae12909e52c7",
+    "drive_manuscript_id": "1CRHPYLQohOI8Og3pFfnnPl9r3n6XsTOo17NjLD55_ic",
+    "drive_checkpoint_id": "1PAwzWcBC0JLnESzw3C7GVIEBjx08kD08ckNYPFEgnH0",
+    "airtable_episode_record_ids": [
+      "rec1dXpVJRGb4VQWt"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "four_app_readbacks": {
+      "GitHub_pair_exact": true,
+      "Drive_pair_native_index_exact": true,
+      "Airtable_hash_status_checkpoint": true,
+      "Notion_hash_scope": true
+    },
+    "next_action": "Render exact full saved single revised45. Do not generate47/48. Reconcile newrevision only once fullresponse exists.",
+    "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid."
+  },
+  "current_actual_after_E46": {
+    "evidence": "continuity/features/E45_E46/CHAT_DELIVERY_RECONCILIATION_20261022.json",
+    "scene_end": {
+      "chronology": "Opens day15 same poultry gate; explicit rewind morning15 K.K. chooses independent upstream visit. Maul kills K.K. at kiln afternoon15; remains nearby due injured leg and investigative watch. Worker runs actual route, Kaze actual ballistic travel/local tracking/visual target, kills Maul before others arrive. Same15evening burial. TPP intercut explicitly reaches port morning16; then explicit return previous15evening Sins frame. Latest globally shown day16 morning, final Sins frame15night.",
+      "Sins": "Chris exterior throughout; Billy full-size inside, headlamp and banjo only. Kaze,Arthur,Daynuh,Mahnuh with him; no new membership. K.K. independent living guest until permanent death, no posthumous admission. RomanceOFF/Briaroffplot/Teemoexcluded/ZidnotSin unchanged.",
+      "KK": "Permanently killed by Maul after coercive recruitment/withheld stick and actual fought encounter. Root bracing, ironwood hardening, extra/elongated hands, hollows, splinters/canopy, compression, regeneration/distributed vital tissue materially used. Sustained industrial furnace confinement destroys essential whole organism after repeated escape attempts; not a generic single-blade weak spot/fire-instadeath. No viable seed/clone/core escapes. Cooled remains recovered and buried near own purchased pear; ordinary stick laid across ground.",
+      "Maul": "First actual appearance this branch from pre-Ahsoka-duel CloneWarsS7. Forcesavescart for local map/information, recruits KK for independent return/Sidious agenda, coerces and kills. Takes serious wounds/metalleg damage; waits in road shelter with map, cannot instantrepair leg. Kaze follows actual blood/metalfoot evidence and sees him. Maul attacks with Force/saber; Kaze physically overwhelms and kills immediately, uninjured. Body remains broken upper road marked off by localworkers. No crew, later knowledge, power parity or global tracking.",
+      "equipment": "Arthur recovers and deactivates Maul doubleended red saber, wraps control/protects accidentalactivation and retains. Recovers torn local road survey; map use deferred tomorrow. Kaze declines equipment decision tonight. Clifford retains original gift lightsaber secured to chair, no activation this pair. Kaze no new powers, no Ki/Rinnegan/portal/claws; local senses and physical output only.",
+      "knowledge": "Witness knows Maul name from heard introduction; incomplete fight testimony explicitly limited, Arthur records only seen material. Billy sees aftermath through actual headlamp; no reconstructed full fight. Kaze saw fatal aftermath and personally killed Maul, not first encounter; gang not automatically informed on Maul source/Sidious intentions. TPP not yet informed KK/Maul deaths. Dutch receives Arthur actual letter/cure confirmation from Clifford.",
+      "TPP": "First5silver receipt actually delivered Dutch separate old54. Roast/gravy actually received DrEvil. Clifford truthfully reports Brian sabotage. Brian excluded next delivery, assigned local arrangement review with actual attribution; three recommendations recorded. Possible repeat inquiry, no price/contract/payment concluded. Trademark/name contribution acknowledged but terms merely requested; no filing/ownership transfer/royalty law invented. DrEvil leader/Dutchrighthand; Brian organiclegs/host seam baseline unchanged; no additional murder.",
+      "Daniel_Tracy": "Both remain dead. Daniel killer still unidentified by Sins; no attribution to Maul/TaiLung via unrelated encounter. Daniel110purse Arthur unopened; spearKaze,bottleChris. Tracy burial12 already paid previouspair."
+    },
+    "resources": {
+      "common_silver": 2111,
+      "Kaze_personal_silver": 0,
+      "Daniel_purse_unopened": 110,
+      "Daniel_custodian": "Arthur",
+      "TPP_old_purse": 54,
+      "TPP_business_receipt": 5,
+      "TPP_receipt_custody": "Delivered Clifford→Dutch, kept distinct pending accounting; no new income or expenses",
+      "shots": 0,
+      "Clifford_lightsaber_activations": 0,
+      "Maul_lightsaber": "Combat45, reactivation46; Arthur switchesoff/retrieves",
+      "E31_chests": "Both unopened/uncounted",
+      "new_local_borrowed_items": "Worker tongs/coolingtrough then donated workcloth; Arthur borrowed diggingtool; no commonfundspend invented"
+    }
+  },
+  "Brian_DrEvil_slow_burn_author_20261022": {
+    "owner": "continuity/author/S7NS_E45_DrEvil_Brian_Slow_Burn_MiniMe_R2_20261022.md",
+    "status": "AUTHOR_SELECTED_FUTURE_TRAJECTORY",
+    "petty": true,
+    "Scotty_daddy_dynamic_retained": true,
+    "Brian_identity_must_remain": true,
+    "shaved_head": "FUTURE_SELECTED_NOT_OCCURRED",
+    "pinky": "New45R2candidatefirsthalfgesture",
+    "MiniMe": "CONDITIONAL_ON_DR_EVIL_CHOSEN_ACCEPTANCE;NOT_YET"
   }
 }
