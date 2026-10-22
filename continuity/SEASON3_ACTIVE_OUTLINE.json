@@ -2288,10 +2288,10 @@
     }
   },
   "latest_outline_work": {
-    "change_id": "S7NS_DR_EVIL_CLIFFORD_FAN_LOVE_DUTCH_ENABLEMENT_20261022",
+    "change_id": "S7NS_TPP_FAN_LOVE_DUTCH_UNINTENTIONAL_ENABLEMENT_R2_20261022",
     "owner": "continuity/author/S7NS_TPP_Fan_Love_Dutch_Clifford_20261022.md",
     "status": "AUTHOR_SELECTED_RECURRING_PORTRAYAL_NO_PLAY",
-    "checkpoint": "continuity/work/S7NS_TPP_Fan_Love_Resume_20261022.json",
+    "checkpoint": "continuity/work/S7NS_TPP_Fan_Love_Resume_R2_20261022.json",
     "delivered_state_unchanged": true,
     "story_days_advanced": 0
   },
@@ -2799,26 +2799,37 @@
     "story_days_advanced": 0
   },
   "latest_TPP_fanlove_application": {
-    "change_id": "S7NS_DR_EVIL_CLIFFORD_FAN_LOVE_DUTCH_ENABLEMENT_20261022",
+    "change_id": "S7NS_TPP_FAN_LOVE_DUTCH_UNINTENTIONAL_ENABLEMENT_R2_20261022",
     "owner": "continuity/author/S7NS_TPP_Fan_Love_Dutch_Clifford_20261022.md",
     "status": "AUTHOR_SELECTED_RECURRING_PORTRAYAL_NO_PLAY",
     "DrEvil": "Pseudo fan love toward Clifford persists and generally intensifies over time; researched RDR references and relatable/cool boss performance increasingly awkward.",
     "origin": "Existing sincere Vader mistake, real completed lightsaber gift, unmasking, concealed mistake and later crew game/meme research are retained history. Dr Evil now knows Clifford/Jack; do not replay initial mistake or reset his knowledge.",
-    "Dutch": "Existing right-hand man actively enables/validates the boss's behavior while privately cringing; diplomatic approval and face-saving reinforcement encourage further attempts. Not merely a silent bystander.",
+    "Dutch": "NOT intentional encouragement. Right-hand man contains his reaction because of his position, power stakes and risk of escalation. Dr Evil misreads constrained politeness/noncorrection as approval; enabling is an unintended effect.",
     "Clifford": "Privately suffers the cringe with Dutch, outwardly maintains courtesy/composure and plays along. Adult independent walking Jack retains agency, competence, grievances and unsolicited trauma.",
-    "mechanism": "Boss seeks recognition/rapport → Dutch enables and Clifford holds composure → boss reads encouragement → worse attempt. Flexible relationship pattern, no fixed quota or identical repeated line.",
+    "mechanism": "Boss attempts rapport → Dutch restrains reaction to manage position/avoid escalation while Clifford holds composure → boss misreads tolerance as approval → worse unwanted attempt.",
     "pacing": "Worsens over time without requiring every day/scene to escalate. Keep actual operations, useful decisions and distinct voices moving; no meme catchphrase saturation.",
     "public_private": "Both hold it down publicly instead of exposing the bluff/calling out the boss. Private glances and constrained responses can convey embarrassment through actual scene access.",
     "preserved_Brian_arc": "Separate latest genuine-attachment/belonging development and major eventual reversal remain active, per continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md",
     "actual_delivered_episode": 50,
     "episode51_authorized": false,
-    "story_days_advanced": 0
+    "story_days_advanced": 0,
+    "revision": "R2_DIRECT_AUTHOR_INTENT_CORRECTION",
+    "escalation": "A serious Dutch blowup can move toward drawn guns and rarely de-escalate easily. Potential, not already occurred or automatic from any objection. Lesser social/positional costs remain possible; no new event selected.",
+    "supersedes": "Previous AI deliberate-enabler/hype-man interpretation only; original fan-love continuation and shared private cringe remain."
   },
   "prior_outline_work_before_TPP_fanlove": {
     "change_id": "S7NS_RESTAURANT_CONSEQUENCES_DAYNAH_ANGER_BRIAN_REVERSAL_20261022",
     "owner": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md",
     "status": "AUTHOR_SELECTED_FUTURE_CONSEQUENCES_AND_PORTRAYAL_NO_PLAY",
     "checkpoint": "continuity/work/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_Resume_20261022.json",
+    "delivered_state_unchanged": true,
+    "story_days_advanced": 0
+  },
+  "prior_outline_work_before_TPP_fanlove_R2": {
+    "change_id": "S7NS_DR_EVIL_CLIFFORD_FAN_LOVE_DUTCH_ENABLEMENT_20261022",
+    "owner": "continuity/author/S7NS_TPP_Fan_Love_Dutch_Clifford_20261022.md",
+    "status": "AUTHOR_SELECTED_RECURRING_PORTRAYAL_NO_PLAY",
+    "checkpoint": "continuity/work/S7NS_TPP_Fan_Love_Resume_20261022.json",
     "delivered_state_unchanged": true,
     "story_days_advanced": 0
   }
