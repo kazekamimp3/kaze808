@@ -1,3 +1,11 @@
+# Latest post-E50 mobility correction — controlling
+
+Owner: continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md
+Change ID: S7NS_POST_E50_APPROVALS_KAZE_STARKILLER_CAST_MOBILITY_20261021
+The author clarifies the original walking-surgery intent: Clifford NO LONGER NEEDS A WHEELCHAIR and walks independently after the enacted surgery. Retire routine chair-for-rest, partial-restoration and mandatory locomotion-support staging. No further operation needed; do not invent a limp/relapse to preserve the old dependency. Crooked neck, scars, unfinished tattoos, adult Jack identity and actual gifted laser lightsaber persist. Earlier frozen chair passages remain evidence of an adaptation mismatch, not a required future handicap. An old chair is not automatically destroyed/disposed and gear needs real carry staging. Read full latest owner for approved on-sight Arthur/Chris hazing and unsolicited trauma. No new scene or fictional time advance.
+
+## Historical E32 source, preserved verbatim below
+
 # Clifford Marston — current appearance and actor identity after E32
 Newest author: Cliffords' body is visibly affected by **a bent/crooked neck** after **repeated cliff pushes by Chris and Arthur**, and his **incomplete stick-and-poke tattoos** must appear in any scene where Clifford is seen. This is an author-current visual and retained-life history clarification, NOT permission to add new cliff falls or another tattooing event.
 
