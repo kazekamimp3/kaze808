@@ -1,0 +1,56 @@
+{
+  "schema": "S7NS_CHAT_DELIVERY_RECONCILIATION_V1",
+  "change_id": "S7NS_E45_E46_CHAT_DELIVERY_RECONCILIATION_20261022",
+  "episode_span": [
+    45,
+    46
+  ],
+  "title": "Please and Thank You",
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": {
+    "path": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_FINAL_20261021.txt",
+    "words": 7931,
+    "unit45": 4156,
+    "unit46": 3775,
+    "boundary_char": 24314,
+    "sha256": "283a56b3a270c00bfdfa18b602ef859257d70498e1fb261529187472c76e01c4",
+    "git_blob_sha1": "26e3ed6b7e98f449e4889248e183eb60d01dc046",
+    "bytes": 47529,
+    "episode45_words_with_header": 4156,
+    "episode46_words": 3775,
+    "episode46_start_char": 24314,
+    "drive_id": "1DWSjk6zw_5hujjwwWzSNGBhA3Y9KjxPs2wk5aN48Vbc",
+    "drive_url": "https://docs.google.com/document/d/1DWSjk6zw_5hujjwwWzSNGBhA3Y9KjxPs2wk5aN48Vbc/edit?usp=drivesdk",
+    "estimated_minutes_at_150_wpm": 52.873333333333335,
+    "audio_generated": false
+  },
+  "checkpoint": "continuity/features/E45_E46/S3_E45_E46_Please_and_Thank_You_Checkpoint_20261021.json",
+  "evidence": "Entire immediately preceding assistant response visible in chat, opening Daynuh refusing gravy through Kaze sitting with people still there. User now specifically requests45 revised with pettier DrEvil and Brian slow imitation. Delivery acknowledged; no acceptance or machine byte comparison to chat asserted.",
+  "actual_state_after_play": {
+    "chronology": "Opens day15 same poultry gate; explicit rewind morning15 K.K. chooses independent upstream visit. Maul kills K.K. at kiln afternoon15; remains nearby due injured leg and investigative watch. Worker runs actual route, Kaze actual ballistic travel/local tracking/visual target, kills Maul before others arrive. Same15evening burial. TPP intercut explicitly reaches port morning16; then explicit return previous15evening Sins frame. Latest globally shown day16 morning, final Sins frame15night.",
+    "Sins": "Chris exterior throughout; Billy full-size inside, headlamp and banjo only. Kaze,Arthur,Daynuh,Mahnuh with him; no new membership. K.K. independent living guest until permanent death, no posthumous admission. RomanceOFF/Briaroffplot/Teemoexcluded/ZidnotSin unchanged.",
+    "KK": "Permanently killed by Maul after coercive recruitment/withheld stick and actual fought encounter. Root bracing, ironwood hardening, extra/elongated hands, hollows, splinters/canopy, compression, regeneration/distributed vital tissue materially used. Sustained industrial furnace confinement destroys essential whole organism after repeated escape attempts; not a generic single-blade weak spot/fire-instadeath. No viable seed/clone/core escapes. Cooled remains recovered and buried near own purchased pear; ordinary stick laid across ground.",
+    "Maul": "First actual appearance this branch from pre-Ahsoka-duel CloneWarsS7. Forcesavescart for local map/information, recruits KK for independent return/Sidious agenda, coerces and kills. Takes serious wounds/metalleg damage; waits in road shelter with map, cannot instantrepair leg. Kaze follows actual blood/metalfoot evidence and sees him. Maul attacks with Force/saber; Kaze physically overwhelms and kills immediately, uninjured. Body remains broken upper road marked off by localworkers. No crew, later knowledge, power parity or global tracking.",
+    "equipment": "Arthur recovers and deactivates Maul doubleended red saber, wraps control/protects accidentalactivation and retains. Recovers torn local road survey; map use deferred tomorrow. Kaze declines equipment decision tonight. Clifford retains original gift lightsaber secured to chair, no activation this pair. Kaze no new powers, no Ki/Rinnegan/portal/claws; local senses and physical output only.",
+    "knowledge": "Witness knows Maul name from heard introduction; incomplete fight testimony explicitly limited, Arthur records only seen material. Billy sees aftermath through actual headlamp; no reconstructed full fight. Kaze saw fatal aftermath and personally killed Maul, not first encounter; gang not automatically informed on Maul source/Sidious intentions. TPP not yet informed KK/Maul deaths. Dutch receives Arthur actual letter/cure confirmation from Clifford.",
+    "TPP": "First5silver receipt actually delivered Dutch separate old54. Roast/gravy actually received DrEvil. Clifford truthfully reports Brian sabotage. Brian excluded next delivery, assigned local arrangement review with actual attribution; three recommendations recorded. Possible repeat inquiry, no price/contract/payment concluded. Trademark/name contribution acknowledged but terms merely requested; no filing/ownership transfer/royalty law invented. DrEvil leader/Dutchrighthand; Brian organiclegs/host seam baseline unchanged; no additional murder.",
+    "Daniel_Tracy": "Both remain dead. Daniel killer still unidentified by Sins; no attribution to Maul/TaiLung via unrelated encounter. Daniel110purse Arthur unopened; spearKaze,bottleChris. Tracy burial12 already paid previouspair."
+  },
+  "resources": {
+    "common_silver": 2111,
+    "Kaze_personal_silver": 0,
+    "Daniel_purse_unopened": 110,
+    "Daniel_custodian": "Arthur",
+    "TPP_old_purse": 54,
+    "TPP_business_receipt": 5,
+    "TPP_receipt_custody": "Delivered Clifford→Dutch, kept distinct pending accounting; no new income or expenses",
+    "shots": 0,
+    "Clifford_lightsaber_activations": 0,
+    "Maul_lightsaber": "Combat45, reactivation46; Arthur switchesoff/retrieves",
+    "E31_chests": "Both unopened/uncounted",
+    "new_local_borrowed_items": "Worker tongs/coolingtrough then donated workcloth; Arthur borrowed diggingtool; no commonfundspend invented"
+  },
+  "next_episode": 47,
+  "authorization": "No47+; explicit revision45 only."
+}
