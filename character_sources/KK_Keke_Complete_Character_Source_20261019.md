@@ -39,3 +39,10 @@ One Chris or Billy exterior; inactive partner full size inside BELLY. Billy sove
 
 ## Editorial/provenance safeguard
 S3 E1-32 and five confirmed Billy Specials are preserved; latest E32 "No Horizon" DELIVERED_PROVISIONAL, E33 UNWRITTEN, not automatically accepted. This file creates character canon DESIGN but zero past birth, membership, equipment transfer, old meetings, casualties, healing event, travel, elapsed time or E33 plot. Exact living/fighting activity must be enacted by separate author PLAY. Existing one storytelling procedure remains the ONLY episode-generation process.
+
+
+## 2026-10-21 post-E50 scoped author override — future regrowth
+
+Change ID: S7NS_POST_E50_ENSEMBLE_COMEDY_CAST_KK_20261021
+Latest owner: continuity/author/S7NS_Post_E50_Ensemble_Comedy_Cast_KK_Revision_20261021.md
+The author explicitly selects adding a Groot-lineage regrowth mechanic for K.K. This supersedes earlier no-return/no-resurrection limits ONLY to permit K.K.'s future regrowth. It does not invalidate the actual E46 death, imply an escaped living core in that scene, rewrite frozen prose or grant universal resurrection. At actual E50 he remains dead, with cooled material buried near his separately purchased/planted ordinary pear tree; there is no enacted sprout or return. Precise growth conditions, timescale, memory/identity continuity and future membership remain construction proposals in continuity/work/S7NS_Post_E50_Ensemble_Audit_Brainstorm_20261021.md; no instant full-size restore or endless spare bodies is granted. Preserve his original uncanny autonomous adult characterization, all original plant biology and source-bounded abilities except this express future-return override. Shake/Frylock are actual BELLY residents according to delivered E33 entry and later roster reconciliation sources; the older future-resident label above is historical. K.K. is not automatically a Sin.
