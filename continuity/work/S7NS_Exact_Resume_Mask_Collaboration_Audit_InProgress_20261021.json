@@ -1,0 +1,28 @@
+{
+  "status": "IN_PROGRESS_EXACT_RESUME",
+  "completed_prior_change": "continuity/work/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_Resume_20261021.json",
+  "fourth_wall_work": {
+    "author_local": "S7NS_Post_E50_Fourth_Wall_Recovery_Animal_Scope_20261021.md",
+    "audit_local": "S7NS_Post_E50_Buried_Character_Permissions_Audit_20261021.md",
+    "author_repo": "continuity/author/S7NS_Post_E50_Fourth_Wall_Recovery_Animal_Scope_20261021.md",
+    "audit_repo": "continuity/work/S7NS_Post_E50_Buried_Character_Permissions_Audit_20261021.md",
+    "completed": [
+      "Original source audit, permission map, animal scope clarified, local files saved"
+    ],
+    "unfinished": [
+      "Persist latest author/audit to four services and route CURRENT/outline",
+      "Verify readbacks and save resume receipt"
+    ]
+  },
+  "latest_additions": [
+    "Billy takes banjo inside when Chris exterior; predator mask projects Billy voice",
+    "Restore combat/optional mask use and source-defined vision modes",
+    "Assess original three-person Chris/Dana/Kaze phone brainstorm from actual transcript",
+    "Characters notice Wade replaced narrator; possible later Kratos+sameMimir encounter",
+    "Audit actual Brian hip-hanging memory and callbacks",
+    "Establish/source-check Brian height"
+  ],
+  "episode": 50,
+  "episode51_authorized": false,
+  "fictional_time_advanced": 0
+}
