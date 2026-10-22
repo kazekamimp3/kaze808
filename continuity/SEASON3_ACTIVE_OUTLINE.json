@@ -1,8 +1,8 @@
 {
-  "status": "ACTIVE_ENSEMBLE_AFTER_DELIVERED_E32_DANA_MANA_LOYAL_RESTORED",
+  "status": "ACTIVE_ENSEMBLE_AFTER_DELIVERED_E50_WORK_ONLY",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "state_owner": "continuity/CURRENT.json",
-  "next_new_main_episode": 41,
+  "next_new_main_episode": 51,
   "working_episode_count": null,
   "count_is_quota": false,
   "latest_sequence_lock": {
@@ -26,7 +26,7 @@
     "TPP": "Forms shortly after Meatwad in the early Noxian movement, not after a long regional tour. Preserve selected actual revival/conjoining, access, separation/reconstruction and communication prerequisites where needed; stage them efficiently rather than asserting them completed or inventing a free mechanism. T.P.P. is Brusta Thymes, the same adult Clifford, and Dutch; Frank remains his own person and is not automatically enlisted. Later rented-HQ/tattoos/rival scores remain future developments.",
     "Specials": "The five confirmed campfire Specials remain already-established canon and unchanged originals. They are not replayed or reset to unoccurred. Earlier retelling scenes still cannot know later campfire disclosures. No newly retold manuscript is created by WORK."
   },
-  "opening": "Continue after delivered E29 at the Noxian harbor shelf when PLAY is authorized. The group has reunited; Samira departed south with her recovered weapons. Briefly leave Naganeka and the original ballista behind under the latest author directive, then continue the group objective. The leave-behind and inland departure have not occurred in WORK.",
+  "opening": "Future continuation begins from actual E50 end after separate PLAY authorization. No opening scene selected by this WORK.",
   "construction_principle": "Researched world motives + actual altered history + independently chosen Sins desires generate the plot. Named champions are agents with goals, not cameo bosses. Consequences include grief, opportunity, institutional change, divided loyalties, fear and admiration; not compulsory punishment.",
   "movements": [
     {
@@ -485,11 +485,12 @@
       "authorization": "Author selected the alliance, comic Clifford reconstruction, surgical Frank separation and recurring roasts, accepted the offered repertoire, then selected Anchorman-style rival-crew encounter energy on 13 October 2026 Honolulu. WORK only. Author subsequently approved the next ten offered comic possibilities and explicitly added Brian's heavy Dr. Evil energy, Dutch's absurd long speeches and on-page tattoo progression, the selected TP/artist-murder sequence, genuine villainy and badly timed interference in Sins scores on 13 October 2026 Honolulu. The next author turn approves the Busta/Scotty recommendation and all eight offered possibilities, selects the rented headquarters/landlord/rent-money direction, clarifies Clifford's existing tattoo humiliation, and adds Coon and Friends / The Stick of Truth influence. Charles and Meatwad are requested to have more meaningful presence; new pitches for them are not yet selected. Later author approval selects BELLY-only Manson & Meatwad’s Inside Job. Trailer Park Boys influence belongs to that mockumentary, not TPP.",
       "name": "T.P.P. — Tampon Pandemic Productions",
       "members": [
-        "Dutch van der Linde",
-        "Clifford Marston (same adult Jack Marston; surgery future)",
-        "Tracy Morgan (full-sized, incorrectly believed to be Busta Rhymes by TPP) / Brian (miniature fictional adult shoulder-conjoined, independent mind)"
+        "Dr. Evil — resource-backed leader",
+        "Dutch — right hand",
+        "Clifford — same adult Jack Marston, surgically supported, actual gifted laser lightsaber retained",
+        "Brian — independent miniature adult with organic legs, founder, separate organism unresolved"
       ],
-      "identity": "ONE conjoined existing full-size Tracy Morgan + miniature project-human Brian with TWO distinct adult minds. The gang believes him to be Busta Rhymes and still calls Brusta Thymes. The real Busta Rhymes is not a duplicate actor; prior Busta-identifications by TPP are mistaken. Clifford is adult Jack, not John, with future low-budget Vader surgical reconstruction not yet enacted.",
+      "identity": "Current four living TPP members listed above. Tracy dead E42, Cartman/Jimmy/Timmy dead E39–40. No current conjoined host or new actual Mini-Me.",
       "development_order": "History: Meatwad E9; meeting E10; one revival/conjoining E11; Frank separation alive, Clifford reconstruction, alliance and rented HQ E12; tattoo disaster E17. No replay. Subsequent additions require new choices.",
       "developments": [
         {
@@ -705,28 +706,29 @@
         "genre_influences": "Step Brothers/Prestige Worldwide, Anchorman, Austin Powers/Dr Evil, Spaceballs, South Park/Coon and Friends/Stick of Truth, RDR2, applied as competing committed situations rather than imported actors or powers."
       },
       "research_owner": "research_sources/Ensemble_Instigation_Research.txt",
-      "current_state": "Last-confirmed E17/E20: four minds/three bodies; marks and artist killing retained, 2 silver10 copper, 4 silver rent was due E20 evening, 3 silver loan, unfinished Tahiti painting/four mangoes at HQ. Four subsequent overnights elapsed; no payment/eviction/theft outcome auto-granted. Return available when causal.",
-      "current_true_identity": "Tracy Morgan (mistaken for Busta Rhymes by all TPP members, including Brian)",
+      "current_state": "PostE50: actual DrEvil ship/finite crew resources; old purse54silver plus same prior5receipt; Brian stages1/2 sleep incidents enacted, stage3future. No new rental/base/recruitment.",
+      "current_true_identity": "Tracy's mistaken Busta labeling is historical; Tracy died42. Brian is the independent miniature adult founder, NOT Brian Griffin.",
       "current_miniature_identity": "Brian: project-specific fictional adult human conjoined near Tracy shoulder, NOT Brian Griffin",
       "TPP_FIDELITY_SOURCE": "continuity/editorial/TPP_Ensemble_Tone_After_E32_20261018.md",
       "TRACY_CURRENT_OWNER": "character_sources/crossover_extended/Tracy_Morgan_Brusta_Current_20261018.md",
-      "CLIFFORD_RECONSTRUCTION_AUTHOR_DIRECTION": "Future genuinely walk-enabling surgery with final-beat patient reveal: looks like Anakin/Darth Vader transformation until Clifford is named; no literal Vader, no accomplished surgery at E32.",
-      "S3_CORRECTION_STATUS": "AUTHOR_SELECTED_CURRENT_TRUE_IDENTITY_AND_FUTURE_SURGERY; prior E12/E17/E32 facts preserved; E33 not played.",
+      "CLIFFORD_RECONSTRUCTION_AUTHOR_DIRECTION": "Completed E33; no second reconstruction.",
+      "S3_CORRECTION_STATUS": "CURRENT_POST_E50; older E32 labels historical",
       "current_author_added_rivalry_directive": "Include living roster outside Sins as real possible TPP contacts; Zid prospective member and elaborate anti-Sins scheme originator once actual betrayal enacted; current E32 port ledger is tangible starting resource.",
       "detailed_rivalry_guide": "continuity/roster_agency/TPP_MultiRoster_Elaborate_Failed_Genius_Plans_20261019.md",
       "current_future_leadership_20261021": {
         "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
-        "status": "AUTHOR_SELECTED_NOT_ENACTED",
+        "status": "ENACTED_E42",
         "leader": "Dr Evil via resources",
         "right_hand": "Dutch",
         "Brian": "Scotty relationship role",
         "Clifford": "Field enforcer/security APPROVED; Dr Evil gifts real laser-beam lightsaber, not yet enacted",
         "resource_scope": "Substantive source-compatible advantage selected; specific entry assets/extraction snapshot not yet selected",
-        "principle": "Characters retain individual motives, speech, agency and sourced capabilities; show actual acceptance and real resource access."
+        "principle": "Characters retain individual motives, speech, agency and sourced capabilities; show actual acceptance and real resource access.",
+        "evidence": "continuity/episodes/E42/CHAT_DELIVERY_RECONCILIATION_20261021.json"
       },
       "Clifford_lightsaber_gift_20261021": {
         "change_id": "S7NS_CLIFFORD_DR_EVIL_REAL_LASER_LIGHTSABER_20261021",
-        "status": "AUTHOR_SELECTED_FUTURE_GIFT_NOT_YET_HANDED_OVER",
+        "status": "GIFT_ENACTED_E42_RETAINED_E50",
         "giver": "Dr Evil",
         "recipient": "adult Jack/Clifford Marston",
         "weapon": "real working lightsaber using real laser beams",
@@ -735,16 +737,17 @@
         "story_time_advanced": 0,
         "gift_motive_and_reveal": {
           "change_id": "S7NS_DR_EVIL_CLIFFORD_VADER_FAN_GIFT_REVEAL_20261021",
-          "status": "AUTHOR_SELECTED_FUTURE_NOT_ENACTED",
+          "status": "ENACTED_E42",
           "motive": "Dr Evil big fan; has only seen Clifford masked/suited and genuinely mistakes him for actual Darth Vader",
           "sequence": "Real laser-beam lightsaber handed over and accepted; roughly 1–2 minutes later Clifford sincerely unmasks to thank Dr Evil respectfully face-to-face; Dr Evil discovers truth only then; socially too late to retract freshly accepted gift, Clifford keeps weapon",
           "protected": "Genuine error and courtesy, no planned scam/mocking present; no magical transfer rule or actual Vader import",
           "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md"
-        }
+        },
+        "evidence": "continuity/episodes/E42/CHAT_DELIVERY_RECONCILIATION_20261021.json"
       },
       "Dr_Evil_RDR_relatory_boss_scene_20261021": {
         "change_id": "S7NS_DR_EVIL_CLIFFORD_DUTCH_RDR_RELATABLE_BOSS_20261021",
-        "status": "AUTHOR_SELECTED_SCENE_CHAIN_NOT_PLAYED",
+        "status": "CHAIN_ENACTED_E42_E44_NO_REPLAY",
         "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
         "sequence": [
           "Conceal Vader mistake and wait for Clifford's name",
@@ -762,7 +765,7 @@
       },
       "founder_and_meme_name_dispute_20261021": {
         "change_id": "S7NS_TPP_MEMES_SPOILER_BRIAN_FOUNDER_TRADEMARK_20261021",
-        "status": "AUTHOR_SELECTED_FUTURE_NOT_PLAYED",
+        "status": "MEETING_DISPUTE_ENACTED_E44_E45_RIGHTS_UNSETTLED",
         "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
         "prior_eight_suggestions": "APPROVED_CONSTRUCTION_OPTIONS",
         "meme_knowledge": "Crew supplies actual RDR2 fan memes; Dutch/Jack unfamiliar with memes; recognize own history separately",
@@ -775,10 +778,15 @@
       },
       "mana_shoplifting_intersection": {
         "owner": "continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md",
-        "status": "FUTURE_NOT_OCCURRED",
+        "status": "PARTLY_ENACTED_E41_E44_REMAINING_FUTURE",
         "after": "Dr Evil leadership and protected two-meeting chain",
         "function": "specific food-security/delivery opportunity created by real dog thefts; original TPP goals/agency continue",
-        "no_existing_outcomes_rewritten": true
+        "no_existing_outcomes_rewritten": true,
+        "current_delivery_reconciliation": {
+          "origin_and_local_discovery": "ACTUALLY_DELIVERED_REPLACEMENT41",
+          "evidence": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
+          "rule": "Do not replay origin or treatfullgrowingtheft/ChrisBillycomplicity/Daynuhdiscoveryasstillunwritten. BroaderTPPmerchantcollisionretainsactual42–49progress and unperformed parts; no entirearccompletionasserted."
+        }
       }
     },
     "BILLY_RICK_ENGINEERED_EVOLUTION": {
@@ -850,15 +858,15 @@
     },
     "MANA_SHOPLIFTING_TPP": {
       "id": "MANA_SHOPLIFTING_TPP",
-      "status": "AUTHOR_SELECTED_FUTURE_OUTLINE_NOT_OCCURRED",
+      "status": "PARTLY_ENACTED_E41_E44_REMAINING_FUTURE",
       "owner": "continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md",
       "title": "Mana discovers shoplifting; Chris and Billy conceal it; Dana finds the pattern; TPP exploits the demand",
       "placement": {
         "movement": "NOXUS_CONTEST",
         "episode_number": null,
-        "origin": "Future reachable multi-day market stay; do not backfill completed or frozen manuscripts",
+        "origin": "Origin, Chris/Billy complicity and local Daynuh discovery enacted replacement41; do not replay.",
         "TPP_collision": "After actual Dr Evil leadership and protected first/second meeting sequence; actual supply route connects both groups",
-        "gate": "Resolve any newer live delivery first; E40 delivered/E41 prepared labels are packaging snapshot only"
+        "gate": "Actual50 end controls; remaining wider collision not automatically completed."
       },
       "core": [
         "Real incident adapted: Dana asleep, missing dog, surprise INSIDE shop",
@@ -884,7 +892,12 @@
         "Kaze": "fictional direction/Rain Man/Dr Evil/Billy scope",
         "assistant": "causal integration and optional construction"
       },
-      "story_days_advanced": 0
+      "story_days_advanced": 0,
+      "current_delivery_reconciliation": {
+        "origin_and_local_discovery": "ACTUALLY_DELIVERED_REPLACEMENT41",
+        "evidence": "continuity/episodes/E41/S3_Episode_41_Cluck_Around_R2_Checkpoint_20261021.json",
+        "rule": "Do not replay origin or treatfullgrowingtheft/ChrisBillycomplicity/Daynuhdiscoveryasstillunwritten. BroaderTPPmerchantcollisionretainsactual42–49progress and unperformed parts; no entirearccompletionasserted."
+      }
     }
   },
   "crossover_deployment": [
@@ -949,9 +962,9 @@
       "snapshot": "KFP2008 after prison escape, before Valley confrontation",
       "desire": "Recognition and promised greatness",
       "arc": "A41",
-      "next_action": "Last evidenced injured and awake at exercise yard; subsequent actions require his actual recovery and location.",
+      "next_action": "Independent actor after killing Daniel; Sins have not identified him as killer. Own later fatal closure remains qualified possible development, not a completed or fixed death.",
       "boundary": "No automatic redemption, death, teleportation or mandatory rematch.",
-      "status": "DEFEATED_ALIVE_E13",
+      "status": "DANIEL_KILL_ENACTED_REVISED_E36_E38_LATER_WHEREABOUTS_UNKNOWN",
       "source_routes": [
         "character_sources/season3/Tai_Lung_Character_Source.txt"
       ]
@@ -961,12 +974,13 @@
       "snapshot": "Clone WarsS7 before Ahsoka duel",
       "desire": "Leverage and escape from another master; urgent home-world stakes",
       "arc": "IONIA",
-      "next_action": "Enter a specific contest over information/access with his own actual resources; try persuasion and coercion, then live with the result. His offer to Starkiller can fail for their distinct reasons.",
+      "next_action": "None as living actor; Kaze killed him after Maul killed K.K. Arthur retains recovered hilt/map.",
       "boundary": "No Shadow Collective imported army, Rebels memories or automatic Sith alliance.",
-      "status": "SELECTED_PROSPECTIVE_ROLE_WITH_RETAINED_SOURCE_SNAPSHOT",
+      "status": "DEAD_E46",
       "source_routes": [
         "character_sources/season3/Maul_Character_Source.txt"
-      ]
+      ],
+      "evidence": "continuity/episodes/E46/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
     },
     {
       "identity": "Shang Tsung",
@@ -978,7 +992,12 @@
       "status": "SELECTED_PROSPECTIVE_ROLE_WITH_RETAINED_SOURCE_SNAPSHOT",
       "source_routes": [
         "character_sources/season3/Shang_Tsung_Character_Source.txt"
-      ]
+      ],
+      "cast_cut_direction": {
+        "status": "ENDORSED_COMPACT_FATAL_APPEARANCE_DEVELOPMENT_NOT_ENACTED",
+        "killers_and_timing": "Unselected",
+        "owner": "continuity/author/S7NS_E36_E38_Cast_Trim_Daniel_DrEvil_20261021.md"
+      }
     },
     {
       "identity": "Riddick",
@@ -990,7 +1009,12 @@
       "status": "SELECTED_PROSPECTIVE_ROLE_WITH_RETAINED_SOURCE_SNAPSHOT",
       "source_routes": [
         "character_sources/season3/Riddick_Character_Source.txt"
-      ]
+      ],
+      "cast_cut_direction": {
+        "status": "ENDORSED_COMPACT_FATAL_APPEARANCE_DEVELOPMENT_NOT_ENACTED",
+        "killers_and_timing": "Unselected",
+        "owner": "continuity/author/S7NS_E36_E38_Cast_Trim_Daniel_DrEvil_20261021.md"
+      }
     },
     {
       "identity": "Magneto",
@@ -1011,21 +1035,22 @@
       "snapshot": "TFU dark ending immediately after reconstruction",
       "desire": "Agency after coercive reconstruction",
       "arc": "IONIA",
-      "next_action": "A promised route to power/autonomy attracts him into a particular access bargain. His independent decision changes a contest involving Maul or a native patron; violence is source-bounded and need not redeem him.",
+      "next_action": "Last observed taking coast chart toward harbor for transport/information after killing Cartman/Jimmy/Timmy. Any new intersection requires actual travel/access. Obsolete proposed Maul bargain cannot occur alive.",
       "boundary": "Custom unstable black sabers retained; not Darksaber, TFU2clone, heroic ending, or postDLC memories.",
-      "status": "SELECTED_PROSPECTIVE_ROLE_WITH_RETAINED_SOURCE_SNAPSHOT",
+      "status": "DEBUT_ENACTED_E39_E40_ALIVE_AT_LAST_OBSERVATION",
       "source_routes": [
         "character_sources/season3/Lord_Starkiller_Character_Source.txt"
-      ]
+      ],
+      "evidence": "continuity/features/E39_E40/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
     },
     {
       "identity": "Dutch",
       "snapshot": "RDR2lateChapter3 only",
       "desire": "Sell a future, money/base, loyalty, genuine Bob grief",
       "arc": "A41",
-      "next_action": "On long route toward rented HQ after tattoo artist killing; rent pressure remains.",
+      "next_action": "Continue actual shipboard/coastal goals with crew and finite funds; old rented-HQ return/rent actions are historical, not current automatic tasks.",
       "boundary": "Bob Ross is his twin, buried E12 with Micah. Unfinished Tahiti painting and four mangoes at HQ. TPP tattoo acquired E17; no extra tattoo or return to HQ yet.",
-      "status": "ACTIVE_TPP_E17",
+      "status": "ACTIVE_TPP_RIGHT_HAND_TO_DR_EVIL_AFTER_E50",
       "source_routes": [
         "character_sources/season3/Van_der_Linde_Dutch_Source.txt"
       ]
@@ -1206,7 +1231,7 @@
     "topic_sources/Capability_and_Speech_Overrides.txt",
     "approved_rolloff/staged/EXACT_QUOTE_REGISTER.json"
   ],
-  "current_cursor": "E32 No Horizon DELIVERED_PROVISIONAL. E33 next NOT played. New author truth: Brusta's conjoined host is Tracy Morgan, TPP mistake him for Busta, human miniature Brian not Brian Griffin. Clifford is adult Jack with later surgery staged as Vader fakeout. Kaze romance OFF prospectively. Dana and Mana remain loyal Sins.",
+  "current_cursor": "E50 All In delivered provisionally; Day19 Sins at barn drinking house below old works, intent to seek capital road. TPP last observed shipboard night18. Episode51 not authorized.",
   "pre_solo_schedule_provenance": "Unmodified prior outline preserved in rollback; current scheduling below overrides stale E17/E18 cursor and pending-introduction claims.",
   "focus_mode": "ENSEMBLE",
   "romance_owner": "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
@@ -1315,9 +1340,9 @@
   "playback_control": {
     "paused": true,
     "authorized_episode": null,
-    "last_delivered_episode": 40,
-    "next_episode": 41,
-    "basis": "Full39–40 response observed.41 preparation only; fresh PLAY needed."
+    "last_delivered_episode": 50,
+    "next_episode": 51,
+    "basis": "Post-E50 WORK only"
   },
   "historical_prior_to_E30_cursor": {
     "status": "ACTIVE_ENSEMBLE_AFTER_E29_ROMANCE_ON_NAGANEKA_DROPPED",
@@ -1439,10 +1464,10 @@
     "continuity": "E1–32 prior 'Busta' references reflect characters' mistaken beliefs, no old prose rewrite"
   },
   "Clifford_upcoming_reconstruction": {
-    "status": "AUTHOR_SELECTED_FUTURE_NOT_ENACTED",
-    "patient": "adult Jack Clifford Marston, not John Marston or Anakin Skywalker",
-    "reveal": "Vader-style surgical misdirection, final Clifford reveal",
-    "walk": "earned through source-bounded operation and mechanical components, with costs/limitations"
+    "status": "COMPLETED_E33",
+    "patient": "same adult Jack/Clifford Marston",
+    "outcome": "Walking with actual supports/limitations; chair remains; no replayed surgery or Force powers",
+    "evidence": "continuity/episodes/E33/S3_Episode_33_Checkpoint.json"
   },
   "last_author_before_current_tracy_reveal": {
     "KAZE_ROMANCE_ENABLED": false,
@@ -1480,22 +1505,22 @@
     {
       "name": "Eric Cartman / The Coon",
       "age": "CHILD",
-      "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED"
+      "status": "KILLED_BY_STARKILLER_E39_E40"
     },
     {
       "name": "Jimmy Valmer",
       "age": "CHILD",
-      "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED"
+      "status": "KILLED_BY_STARKILLER_E39_E40"
     },
     {
       "name": "Timmy Burch",
       "age": "CHILD",
-      "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED"
+      "status": "KILLED_BY_STARKILLER_E39_E40"
     },
     {
       "name": "Dr. Evil",
       "age": "ADULT",
-      "status": "JOINING_AUTHOR_SELECTED_NOT_YET_ENACTED",
+      "status": "JOINED_LEADERSHIP_ENACTED_E42",
       "future_role": "LEADER_AUTHOR_SELECTED_20261021",
       "fidelity_owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md"
     }
@@ -1575,10 +1600,10 @@
     "content_limits": "Keep minor cast age-appropriate; adult raunch separate; speaker-specific vocabulary, not generic profanity smearing."
   },
   "current_TPP_Clifford_surgery": {
-    "status": "FUTURE_AUTHOR_SELECTED_UNENACTED",
-    "patient": "Clifford = adult Jack Marston, not father John or Anakin",
-    "presentation": "Vader-like deliberately misleading operation; reveal Clifford at end of surgical sequence, genuine physical/technical costs.",
-    "source": "research_sources/John_Marston_RDR_Speech_and_Clifford_Contrast_20261018.md"
+    "status": "COMPLETED_E33",
+    "patient": "same adult Jack/Clifford Marston",
+    "outcome": "Walking with actual supports/limitations; chair remains; no replayed surgery or Force powers",
+    "evidence": "continuity/episodes/E33/S3_Episode_33_Checkpoint.json"
   },
   "BELLY_absurd_roommates_authority": "continuity/author/BELLY_Shake_Frylock_Catastrophic_Absurdism_After_E32_20261019.json",
   "current_comedy_research": "research/Transcript_Based_Catastrophic_Absurdism_After_E32_20261019.md",
@@ -1714,63 +1739,39 @@
   },
   "latest_Dr_Evil_author_owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
   "latest_delivered_and_prepared_override_20261021": {
-    "precedence": "Latest actual full39–40 R2 response and current41 preparation outrank all older numbered placements/statuses in this preserved outline.",
     "last_delivered": {
-      "episode": 40,
-      "title": "A Place to Wait",
-      "feature_span": [
-        39,
-        40
-      ],
-      "combined_feature": true,
-      "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
-      "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
-      "manuscript_git_blob_sha1": "634817760643f735ddabb57c88e50a6e5723ca3a",
-      "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-      "delivery_status": "DELIVERED_PROVISIONAL",
-      "author_acceptance": "NOT_ASSERTED",
-      "delivery_reconciliation": "continuity/features/E39_E40/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
-      "delivery_basis": "Complete prior assistant response visible in this conversation, title through final The branch Daniel had hung from was empty. Exact matching GitHub text and Drive native manuscript/checkpoint read this turn. User explicitly requests reconciliation and continuation. No full machine byte comparison against chat message or author acceptance asserted.",
-      "originals_preserved": true
-    },
-    "prepared": {
-      "change_id": "S7NS_E41_HIS_OWN_TWO_FEET_PREPARED_20261021",
-      "episode": 41,
+      "change_id": "S7NS_E50_ALL_IN_20261021",
       "episode_span": [
-        41
+        50
       ],
-      "title": "His Own Two Feet",
-      "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
-      "manuscript": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_FINAL_20261021.txt",
-      "manuscript_sha256": "64264a14a8f682a0627e0141bb09e468512bac08cef2a5ec3460fc78a16f37b8",
-      "manuscript_git_blob_sha1": "caa989320b6ee3eb857aab067dab7b556dea1a7e",
-      "checkpoint": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_Checkpoint_20261021.json",
-      "checkpoint_sha256": "f15430e25ad639b3c3eec710548ded9d6fec7ce4f03390cf911f48db3e10a457",
-      "checkpoint_git_blob_sha1": "9f6e8dd14996c59dabcc81864abf1aee0e628c54",
-      "drive_manuscript_id": "1r7UFrab3h86fDcEf2lBUTqBYmhzO9LyVbqo9lWpY6o4",
-      "drive_checkpoint_id": "1a7yXAJDQ_jH8Lhg5n_kW6CBoxcqrcxdp3YnnGEwbX8w",
-      "airtable_episode_record_id": "rec5CQLb9Z3W32THu",
-      "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
-      "notion_author_page": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
-      "library_manuscript_id": "libfile_8c6db64e057c8191a438efa2bfb1fc7d",
-      "library_checkpoint_id": "libfile_f266a7af88ec81918d212ee4e9c46780",
+      "episode_count": 1,
+      "title": "All In",
+      "status": "DELIVERED_PROVISIONAL",
       "author_acceptance": "NOT_ASSERTED",
-      "authorization": "Explicit single Episode41 WORK PREPARE request; NO PLAY. Two-episode global default unchanged.",
+      "author_owner": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
+      "manuscript": "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
+      "manuscript_sha256": "a4797d2634759a54fe6c19ae0484d7eb81acaa9b15ed00ffed1c8b70aaece377",
+      "manuscript_git_blob_sha1": "6775a71254249a00a6f60c250c4f753c2ff93f1a",
+      "checkpoint": "continuity/episodes/E50/S3_E50_All_In_Checkpoint_20261021.json",
+      "checkpoint_git_blob_sha1": "4f93033f7e3581b0a74615dfe58b19eb63ab92af",
+      "drive_manuscript_id": "1Iw9rR3ke_czzG-DSVDeX3Cd-kyZEtPDTMX4WMZD4m5g",
+      "drive_checkpoint_id": "1PCU5cSwq2VLkScefBkvPkFQBGnt4zWqACxrmcvMz8ZM",
+      "airtable_episode_record_ids": [
+        "recgzJP3OJ6uXFMrQ"
+      ],
+      "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
       "four_app_readbacks": {
-        "GitHub_manuscript_exact": true,
-        "GitHub_checkpoint_exact": true,
-        "GoogleDrive_manuscript_native_index_exact": true,
-        "GoogleDrive_checkpoint_native_index_exact": true,
-        "Airtable_episode_hash_checkpoint_status": true,
-        "Notion_episode_index_hash_checkpoint_links": true,
-        "Notion_author_page_hash": true
+        "GitHub_pair_exact": true,
+        "Drive_pair_native_index_exact": true,
+        "Airtable_hash_checkpoint_status": true,
+        "Notion_hash_scope": true
       },
-      "next_action": "On explicit PLAY EPISODE41, verify matching complete pair via four apps and render exact full saved text. No42 continuation.",
-      "boundary": "Latest actual delivered40; all41 deaths/body changes/custody/leadership and resources remain prepared candidate, not occurred. Do not alter manuscript wording during playback."
+      "authorization": "Explicit PLAY50 only; no51.",
+      "next_action": "E50 delivered; new WORK audit only. Episode51 requires separate PLAY authorization.",
+      "delivery_reconciliation": "continuity/episodes/E50/CHAT_DELIVERY_RECONCILIATION_20261021.json"
     },
-    "Daniel_current": "Dead, body recovered at original stream; burial only in candidate41. Gang ignorant of Tai Lung.",
-    "TPP_current": "Cartman/Jimmy/Timmy dead, survivors rented room72silver as of40; no later deaths/new legs/Dr Evil leadership yet occurred.",
-    "selected_future_owners_retained": true
+    "prepared_new_episode": null,
+    "authority": "continuity/episodes/E50/CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
   "historical_next_episode_direction_before_E41": {
     "priority": "Group-led substantive objective, suspense and developed ensemble comedy; resume main operation rather than another local acquisition tour.",
@@ -1782,15 +1783,15 @@
   },
   "mana_shoplifting_integration": {
     "id": "MANA_SHOPLIFTING_TPP",
-    "status": "PARTLY_ENACTED_E41_REMAINING_FUTURE",
+    "status": "PARTLY_ENACTED_E41_E44_REMAINING_FUTURE",
     "owner": "continuity/author/S7NS_Mana_Shoplifting_Season3_Integration_20261021.md",
     "title": "Mana discovers shoplifting; Chris and Billy conceal it; Dana finds the pattern; TPP exploits the demand",
     "placement": {
       "movement": "NOXUS_CONTEST",
       "episode_number": null,
-      "origin": "Future reachable multi-day market stay; do not backfill completed or frozen manuscripts",
+      "origin": "Origin, Chris/Billy complicity and local Daynuh discovery enacted replacement41; do not replay.",
       "TPP_collision": "After actual Dr Evil leadership and protected first/second meeting sequence; actual supply route connects both groups",
-      "gate": "Resolve any newer live delivery first; E40 delivered/E41 prepared labels are packaging snapshot only"
+      "gate": "Actual50 end controls; remaining wider collision not automatically completed."
     },
     "core": [
       "Real incident adapted: Dana asleep, missing dog, surprise INSIDE shop",
@@ -1883,11 +1884,253 @@
     "remaining_TPP_arc": "Preserveexistingactualmeetings/businessresources;futurecollisionsactualaccessrequired."
   },
   "prepared_E50_All_In_20261021": {
+    "change_id": "S7NS_E50_ALL_IN_20261021",
+    "episode_span": [
+      50
+    ],
+    "episode_count": 1,
+    "title": "All In",
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "author_owner": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
     "manuscript": "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
-    "sha256": "a4797d2634759a54fe6c19ae0484d7eb81acaa9b15ed00ffed1c8b70aaece377",
+    "manuscript_sha256": "a4797d2634759a54fe6c19ae0484d7eb81acaa9b15ed00ffed1c8b70aaece377",
+    "manuscript_git_blob_sha1": "6775a71254249a00a6f60c250c4f753c2ff93f1a",
     "checkpoint": "continuity/episodes/E50/S3_E50_All_In_Checkpoint_20261021.json",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
-    "previous_actual_delivery": 49,
-    "author_acceptance": "NOT_ASSERTED"
+    "checkpoint_git_blob_sha1": "4f93033f7e3581b0a74615dfe58b19eb63ab92af",
+    "drive_manuscript_id": "1Iw9rR3ke_czzG-DSVDeX3Cd-kyZEtPDTMX4WMZD4m5g",
+    "drive_checkpoint_id": "1PCU5cSwq2VLkScefBkvPkFQBGnt4zWqACxrmcvMz8ZM",
+    "airtable_episode_record_ids": [
+      "recgzJP3OJ6uXFMrQ"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "four_app_readbacks": {
+      "GitHub_pair_exact": true,
+      "Drive_pair_native_index_exact": true,
+      "Airtable_hash_checkpoint_status": true,
+      "Notion_hash_scope": true
+    },
+    "authorization": "Explicit PLAY50 only; no51.",
+    "next_action": "E50 delivered; new WORK audit only. Episode51 requires separate PLAY authorization.",
+    "delivery_reconciliation": "continuity/episodes/E50/CHAT_DELIVERY_RECONCILIATION_20261021.json"
+  },
+  "historical_outline_fields_before_post_E50_reconciliation": {
+    "status": "ACTIVE_ENSEMBLE_AFTER_DELIVERED_E32_DANA_MANA_LOYAL_RESTORED",
+    "next_new_main_episode": 41,
+    "current_cursor": "E32 No Horizon DELIVERED_PROVISIONAL. E33 next NOT played. New author truth: Brusta's conjoined host is Tracy Morgan, TPP mistake him for Busta, human miniature Brian not Brian Griffin. Clifford is adult Jack with later surgery staged as Vader fakeout. Kaze romance OFF prospectively. Dana and Mana remain loyal Sins.",
+    "opening": "Continue after delivered E29 at the Noxian harbor shelf when PLAY is authorized. The group has reunited; Samira departed south with her recovered weapons. Briefly leave Naganeka and the original ballista behind under the latest author directive, then continue the group objective. The leave-behind and inland departure have not occurred in WORK.",
+    "playback_control": {
+      "paused": true,
+      "authorized_episode": null,
+      "last_delivered_episode": 40,
+      "next_episode": 41,
+      "basis": "Full39–40 response observed.41 preparation only; fresh PLAY needed."
+    },
+    "TPP_author_selected_new_members": [
+      {
+        "name": "Eric Cartman / The Coon",
+        "age": "CHILD",
+        "status": "KILLED_BY_STARKILLER_E39_E40"
+      },
+      {
+        "name": "Jimmy Valmer",
+        "age": "CHILD",
+        "status": "KILLED_BY_STARKILLER_E39_E40"
+      },
+      {
+        "name": "Timmy Burch",
+        "age": "CHILD",
+        "status": "KILLED_BY_STARKILLER_E39_E40"
+      },
+      {
+        "name": "Dr. Evil",
+        "age": "ADULT",
+        "status": "JOINED_LEADERSHIP_ENACTED_E42",
+        "future_role": "LEADER_AUTHOR_SELECTED_20261021",
+        "fidelity_owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md"
+      }
+    ],
+    "current_TPP_Clifford_surgery": {
+      "status": "FUTURE_AUTHOR_SELECTED_UNENACTED",
+      "patient": "Clifford = adult Jack Marston, not father John or Anakin",
+      "presentation": "Vader-like deliberately misleading operation; reveal Clifford at end of surgical sequence, genuine physical/technical costs.",
+      "source": "research_sources/John_Marston_RDR_Speech_and_Clifford_Contrast_20261018.md"
+    },
+    "Clifford_upcoming_reconstruction": {
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_ENACTED",
+      "patient": "adult Jack Clifford Marston, not John Marston or Anakin Skywalker",
+      "reveal": "Vader-style surgical misdirection, final Clifford reveal",
+      "walk": "earned through source-bounded operation and mechanical components, with costs/limitations"
+    },
+    "latest_delivered_and_prepared_override_20261021": {
+      "precedence": "Latest actual full39–40 R2 response and current41 preparation outrank all older numbered placements/statuses in this preserved outline.",
+      "last_delivered": {
+        "episode": 40,
+        "title": "A Place to Wait",
+        "feature_span": [
+          39,
+          40
+        ],
+        "combined_feature": true,
+        "manuscript": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_FINAL_20261021.txt",
+        "manuscript_sha256": "0333b6de49451a5cd55853e3dcdf37880a495cf50aab2d0816920bc861acf088",
+        "manuscript_git_blob_sha1": "634817760643f735ddabb57c88e50a6e5723ca3a",
+        "checkpoint": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
+        "delivery_status": "DELIVERED_PROVISIONAL",
+        "author_acceptance": "NOT_ASSERTED",
+        "delivery_reconciliation": "continuity/features/E39_E40/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json",
+        "delivery_basis": "Complete prior assistant response visible in this conversation, title through final The branch Daniel had hung from was empty. Exact matching GitHub text and Drive native manuscript/checkpoint read this turn. User explicitly requests reconciliation and continuation. No full machine byte comparison against chat message or author acceptance asserted.",
+        "originals_preserved": true
+      },
+      "prepared": {
+        "change_id": "S7NS_E41_HIS_OWN_TWO_FEET_PREPARED_20261021",
+        "episode": 41,
+        "episode_span": [
+          41
+        ],
+        "title": "His Own Two Feet",
+        "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+        "manuscript": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_FINAL_20261021.txt",
+        "manuscript_sha256": "64264a14a8f682a0627e0141bb09e468512bac08cef2a5ec3460fc78a16f37b8",
+        "manuscript_git_blob_sha1": "caa989320b6ee3eb857aab067dab7b556dea1a7e",
+        "checkpoint": "continuity/episodes/E41/S3_Episode_41_His_Own_Two_Feet_Checkpoint_20261021.json",
+        "checkpoint_sha256": "f15430e25ad639b3c3eec710548ded9d6fec7ce4f03390cf911f48db3e10a457",
+        "checkpoint_git_blob_sha1": "9f6e8dd14996c59dabcc81864abf1aee0e628c54",
+        "drive_manuscript_id": "1r7UFrab3h86fDcEf2lBUTqBYmhzO9LyVbqo9lWpY6o4",
+        "drive_checkpoint_id": "1a7yXAJDQ_jH8Lhg5n_kW6CBoxcqrcxdp3YnnGEwbX8w",
+        "airtable_episode_record_id": "rec5CQLb9Z3W32THu",
+        "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+        "notion_author_page": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+        "library_manuscript_id": "libfile_8c6db64e057c8191a438efa2bfb1fc7d",
+        "library_checkpoint_id": "libfile_f266a7af88ec81918d212ee4e9c46780",
+        "author_acceptance": "NOT_ASSERTED",
+        "authorization": "Explicit single Episode41 WORK PREPARE request; NO PLAY. Two-episode global default unchanged.",
+        "four_app_readbacks": {
+          "GitHub_manuscript_exact": true,
+          "GitHub_checkpoint_exact": true,
+          "GoogleDrive_manuscript_native_index_exact": true,
+          "GoogleDrive_checkpoint_native_index_exact": true,
+          "Airtable_episode_hash_checkpoint_status": true,
+          "Notion_episode_index_hash_checkpoint_links": true,
+          "Notion_author_page_hash": true
+        },
+        "next_action": "On explicit PLAY EPISODE41, verify matching complete pair via four apps and render exact full saved text. No42 continuation.",
+        "boundary": "Latest actual delivered40; all41 deaths/body changes/custody/leadership and resources remain prepared candidate, not occurred. Do not alter manuscript wording during playback."
+      },
+      "Daniel_current": "Dead, body recovered at original stream; burial only in candidate41. Gang ignorant of Tai Lung.",
+      "TPP_current": "Cartman/Jimmy/Timmy dead, survivors rented room72silver as of40; no later deaths/new legs/Dr Evil leadership yet occurred.",
+      "selected_future_owners_retained": true
+    }
+  },
+  "historical_TPP_fields_before_post_E50": {
+    "members": [
+      "Dutch van der Linde",
+      "Clifford Marston (same adult Jack Marston; surgery future)",
+      "Tracy Morgan (full-sized, incorrectly believed to be Busta Rhymes by TPP) / Brian (miniature fictional adult shoulder-conjoined, independent mind)"
+    ],
+    "identity": "ONE conjoined existing full-size Tracy Morgan + miniature project-human Brian with TWO distinct adult minds. The gang believes him to be Busta Rhymes and still calls Brusta Thymes. The real Busta Rhymes is not a duplicate actor; prior Busta-identifications by TPP are mistaken. Clifford is adult Jack, not John, with future low-budget Vader surgical reconstruction not yet enacted.",
+    "current_state": "Last-confirmed E17/E20: four minds/three bodies; marks and artist killing retained, 2 silver10 copper, 4 silver rent was due E20 evening, 3 silver loan, unfinished Tahiti painting/four mangoes at HQ. Four subsequent overnights elapsed; no payment/eviction/theft outcome auto-granted. Return available when causal.",
+    "current_true_identity": "Tracy Morgan (mistaken for Busta Rhymes by all TPP members, including Brian)",
+    "current_future_leadership_20261021": {
+      "owner": "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md",
+      "status": "AUTHOR_SELECTED_NOT_ENACTED",
+      "leader": "Dr Evil via resources",
+      "right_hand": "Dutch",
+      "Brian": "Scotty relationship role",
+      "Clifford": "Field enforcer/security APPROVED; Dr Evil gifts real laser-beam lightsaber, not yet enacted",
+      "resource_scope": "Substantive source-compatible advantage selected; specific entry assets/extraction snapshot not yet selected",
+      "principle": "Characters retain individual motives, speech, agency and sourced capabilities; show actual acceptance and real resource access."
+    },
+    "CLIFFORD_RECONSTRUCTION_AUTHOR_DIRECTION": "Future genuinely walk-enabling surgery with final-beat patient reveal: looks like Anakin/Darth Vader transformation until Clifford is named; no literal Vader, no accomplished surgery at E32."
+  },
+  "latest_author_post_E50": {
+    "change_id": "S7NS_POST_E50_ENSEMBLE_COMEDY_CAST_KK_20261021",
+    "owner": "continuity/author/S7NS_Post_E50_Ensemble_Comedy_Cast_KK_Revision_20261021.md",
+    "report": "continuity/work/S7NS_Post_E50_Ensemble_Audit_Brainstorm_20261021.md",
+    "selected": [
+      "Recover consequential buried threads",
+      "Increase character-specific absurd/grotesque/dark comedy",
+      "Approximately halve recent political exposition duration",
+      "Complete already-selected cast-cut construction",
+      "K.K.-specific future regrowth mechanic"
+    ],
+    "specific_plot_and_relationship_ideas": "PROPOSED",
+    "actual_KK_life_status": "DEAD_AT_E50_NO_REGROWTH_YET",
+    "fictional_time_advanced": 0
+  },
+  "actual_after_E50": {
+    "evidence": "continuity/episodes/E50/CHAT_DELIVERY_RECONCILIATION_20261021.json",
+    "state": {
+      "chronology": "49 day17 afternoon→50 night17 stage1 aboard. Sins camp17, walk18, camp18, reach old works/settlement day19. Stage2 aboard night18 explicitly a one-night lookback; card scene resumes afternoon19. Actual two overnights/two-day journey, no simultaneous distant bodies.",
+      "driver_lead": "Original driver located by existing foreman near wheelwright shed. Confirms Maul appeared across gap during cart danger and learned Kaze's name from driver's rumor; no witnessed previous path, portal, sender or routehome. Kaze learns Maul wasn't originally seeking him. Asked lead is resolved with bounded dead end, not forgotten. Driver permits Arthur to retain same local torn survey; no new map/weapon.",
+      "Sins_end": "At barn drinking house below works afternoon19. Kaze chooses seek actual road toward Swain's capital after local mason identifies official seat; no appointment/actualcapitalarrival or Swain summons. Arthur has open-road information from foreman, map and Maul hilt/control protected, Daniel110purse unopened. Daynuh baseline and Mahnuh canine base unchanged. Chris sole exterior; Billy full-sized interior seeing actual headlamp, speaking banjo. All BELLY residents still inside including lifeless stoneDeathMountain.",
+      "poker": "Kaze teaches Chris actual-money game; Chris shares finite new roll and teaches Mahnuh nose-push through food. Daynuh wakes, searches actual near-yard route, enters bar for beer and finds all3 allin with3locals. Source41 promise bring wandering dog toDaynuh is directly challenged. Chris firstwins8, Mahnuh nextwins8, mason lastwins18; no coercion/cheat, all dedicatedrollcash0 at end. Internal bankroll/borrowing banter not settled into repayment terms; no external gambling debt/credit or collateral bet. Daynuh frustrated, funny and eventually laughs, not stupid/passive or moral lecture.",
+      "Brian_stage1": "First witnessed by DrEvil/Dutch/Clifford night17: sitting asleep, knees repeatedly open/close, hips thrust, effort grunts, wakes on shoulder touch and denies with adjustedposition. Not new wakinggym/no medical diagnosis or parasite cause. Actual tiny-body cloth/bench/eyeline/feet/rung/table-corner comedy.",
+      "Brian_stage2": "Separate night18 actual sleepwalking galley; handles ordinarycloth/spoon/bread/butter, makes spoon-in-bread arrangement, lifts crewcupwithbothhands and spills coldcoffee onshirt, saysHot. Dutch verifies cupcold and removes utensil before bite; wakes,claims cooled, climbs down. No actualburn/fall or new injury/cure. DrEvil/TPP hostile amused response; identity/founder/DJ/Busta/pinky/conditionalMiniMearc intact.",
+      "Brian_stage3": "AUTHOR_SELECTED_FUTURE_UNENACTED: exact Chris shirtlasso/throw/turn/whitehairedhairybuttocks brightness/kick/exactBRIAN_WHAT_THE_FUCK/wake-shortsup-dismissal sequence retained full in newest owner. Requires actual future sharednight/access. No claim Chris saw stages1/2 remotely. Deferral explicitly disclosed in commentary; no fixedepisode51 commitment.",
+      "others": "Swain/Darius/Orra hidden-plate investigation and actual49local report continue as unresolved actor threads; two elapsed days do not imply confirmed order arrival/outcome or freeze all actors. No cutaway/new champion forced. Daniel killer stillunknownSins. Daniel/Tracy/KK/Maul/Cartman/Jimmy/Timmy remain permanentlydead. RomanceOFF/Briaroffactive/Teemoexcluded/ZidnotSin."
+    },
+    "resources": {
+      "common_silver": 2111,
+      "Kaze_personal_silver": 0,
+      "Daniel_purse_unopened": 110,
+      "Daniel_custodian": "Arthur",
+      "TPP_old_purse": 54,
+      "TPP_business_receipt": 5,
+      "receipt": "Same prior5 retained, not paid again.",
+      "new_salvage_discovery": "Four ordinary working brass hinges physically found in existing mixed ironmongery, not a rare artifact/device or new power. Billy releases same4 then Chris sells them.",
+      "sale": "4hinges→6silver+onebeer, actual accepted barter; hinges now keeper, beer consumedDaynuh. No repair service assumed.",
+      "new_dedicated_personal_gambling_roll": {
+        "source_silver": 6,
+        "first_hand": {
+          "Kaze": 2,
+          "Chris": 2,
+          "cordmaker": 2,
+          "mason": 2,
+          "pot": 8,
+          "winner": "Chris",
+          "Chris_unbet": 2,
+          "roll_total_after": 10
+        },
+        "second_hand": {
+          "Kaze": 2,
+          "Chris": 2,
+          "Mahnuh": 2,
+          "mason": 2,
+          "pot": 8,
+          "winner": "Mahnuh",
+          "Chris_unbet": 4,
+          "roll_total_after": 12
+        },
+        "third_hand": {
+          "Kaze": 2,
+          "Chris": 4,
+          "Mahnuh": 6,
+          "mason": 6,
+          "sidepots": [
+            8,
+            6,
+            4
+          ],
+          "pot": 18,
+          "winner": "mason",
+          "roll_total_after": 0
+        },
+        "net_silver": -6,
+        "external_credit": 0,
+        "internal_loan_terms": "Not fixed; bankroll/borrow banter not automatically forgiven or converted to scheduled debt."
+      },
+      "new_income_silver": 6,
+      "new_gambling_outflow_net_silver": 6,
+      "new_cash_spending_other": 0,
+      "shots": 0,
+      "lightsaber_activations": 0,
+      "new_deaths": 0,
+      "Maul_hilt": "Arthur,one",
+      "Clifford_gift": "Clifford,oneunchanged",
+      "E31_chests": "Unopened/uncounted",
+      "ordinary_use": "Chris finite own food morsels reward dog, no new immunity. Two breadpieces/butter/spoon and oldcoffeecup from crewgalley; coffee spills cold, no loss of money/infinitefood mechanic.",
+      "Death_Mountain": "Same single lifeless ordinary stone inside with Meatwad."
+    }
   }
 }
