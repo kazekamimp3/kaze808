@@ -41,7 +41,7 @@
     "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists.",
     "knowledge_correction_from_delivered51": "Kaze, Chris and Billy heard Wade identify Tai Lung as Daniel's killer in51; Kaze relayed it to Arthur/Daynah. Current location remains unknown. Daniel's returned knowledge not automatically identical. This corrects an initial outline error, not a new revelation."
   },
-  "latest_direct_author_scope": "continuity/author/S7NS_Pre50_Review_Six_Approvals_Kaze_Animals_20261023.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_Brian_Shake_Dutch_GGA_R2_20261023.md",
   "reader_outline": "continuity/S7NS_Season3_Revised_Outline_20261023.md",
   "archive": {
     "path": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json",
@@ -1377,5 +1377,20 @@
     "proposal_status": "Specific launch construction, consequences and sample dialogue proposed, not separately approved",
     "research_guard": "Urban Pleasures trolley and A Rage Unleashed army boat are distinct; all-decline injury theory unconfirmed; no exhaustive ambient corpus verified",
     "continuity_guard": "Dutch imported late Chapter3; later game missions not personal memories. Actual58 unchanged,59 unwritten,PLAY held; prior six approvals retained."
-  }
+  },
+  "latest_Brian_Shake_Dutch_GGA_author_direction": {
+    "change_id": "S7NS_BRIAN_SHAKE_DUTCH_GGA_R2_20261023",
+    "authority": "continuity/author/S7NS_Brian_Shake_Dutch_GGA_R2_20261023.md",
+    "status": "AUTHOR_SELECTED_FUTURE; SPECIFIC_NEW_IMPROVEMENTS_PROPOSED; NO_PLAY",
+    "selected": [
+      "Brian finds Dr Evil's discarded memorized RDR/RDR2 research and misuses it",
+      "Shake genuinely enjoys Brian's writing; excellent freestyle shatters Brian's pride; Brian invents offense, steals Clifford's saber during VR fishing and deliberately kills Shake; cringey empowerment",
+      "Dutch crash construction approved; complete Tahiti/Bob Ross lala escalation selected",
+      "Both GGA interference/surrounding-situation lists approved; internal practice pays off with outsiders",
+      "Jack returns to affectionate virtual Uncle Arthur because it heals his inner soul; later completes RDR2 then RDR1 and acquires knowledge through actual progress"
+    ],
+    "guard": "Actual58 unchanged; Shake alive; Jack has not completed campaigns. Stage travel, gameplay access, saber custody and discoveries. Daniel's selected farewell and prior six approvals retained; Dr Evil calculated long-con persists.",
+    "drive_id": "1ON6LCMyGLWyEe9JuGveBQfvbMuXCvvO_"
+  },
+  "canonical_outline_owner": "continuity/SEASON3_ACTIVE_OUTLINE.json"
 }
