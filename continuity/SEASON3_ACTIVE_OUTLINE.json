@@ -2998,7 +2998,7 @@
   "latest_Brian_petty_comedy_approval": {
     "change_id": "S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022",
     "owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
-    "status": "AUTHOR_APPROVED_REPERTOIRE_NOT_ENACTED",
+    "status": "ALL_PRIOR_REPERTOIRE_AND_P1_P5_AUTHOR_APPROVED_NOT_ENACTED",
     "approved": [
       "Daynah accidental contact + sincere apology",
       "Brian anticipates foot and saves face",
@@ -3007,7 +3007,19 @@
       "DrEvil weaponizes prior height-denial",
       "Brian practical success and ambiguous praise"
     ],
-    "new_P1_P5": "PROPOSED_ONLY_NOT_APPROVED",
-    "review": "Cumulative comedy/relationships, current notes and actual50 notebook/sleep scenes reviewed. No forced51 cutaway or gag quota."
+    "new_P1_P5": "AUTHOR_APPROVED_FUTURE_NOT_ENACTED",
+    "review": "Cumulative comedy/relationships, current notes and actual50 notebook/sleep scenes reviewed. No forced51 cutaway or gag quota.",
+    "latest_approval": "lock it all in. ready to send the episode with everything we talked about?",
+    "author_sha256": "3bb69339d928d1e96d53ac4b0e8bd86e02154d735aacbdc98e4d67968c70aedb"
+  },
+  "latest_E51_fourth_wall_R3": {
+    "author_owner": "continuity/author/S7NS_E51_Fourth_Wall_Rediscovery_R3_20261022.md",
+    "status": "PREPARED_SAME51_NOT_CHAT_PLAYED",
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R3_FINAL_20261022.txt",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R3_Checkpoint_20261022.json",
+    "sha256": "d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce",
+    "older_E50_poker_specific_insert": "SUPERSEDED_BY_EXPLICIT_FART_TRIGGER_E51_REDISCOVERY",
+    "Brian_future": "All approved for actual future meetings/access; no51cutaway forced",
+    "no52": true
   }
 }
