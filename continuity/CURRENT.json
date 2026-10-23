@@ -34,7 +34,7 @@
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_Pre50_Review_Six_Approvals_Kaze_Animals_20261023.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_Brian_Shake_Dutch_GGA_R2_20261023.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -72,9 +72,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "Pre50 targeted review; six CHAT scene approvals mapped explicitly; Kaze animal portrayal and visible Kratos/Mimir plan restored. No PLAY.",
-  "work_resume_checkpoint_latest": "continuity/work/S7NS_Pre50_Review_Resume_20261023.json",
-  "work_change_id": "S7NS_PRE50_REVIEW_SIX_APPROVALS_KAZE_ANIMALS_20261023",
+  "work_status": "Brian/Shake exit, Dutch/GGA approvals and Jack VR refuge/campaign progression selected for future; enhancements proposed; no PLAY.",
+  "work_resume_checkpoint_latest": "continuity/work/S7NS_Brian_Shake_Dutch_GGA_Resume_20261023.json",
+  "work_change_id": "S7NS_BRIAN_SHAKE_DUTCH_GGA_R2_20261023",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": "continuity/work/S7NS_Cumulative_Replacement_Patch_Resume_20261022.json",
@@ -2158,5 +2158,19 @@
     "proposal_status": "Specific launch construction, consequences and sample dialogue proposed, not separately approved",
     "research_guard": "Urban Pleasures trolley and A Rage Unleashed army boat are distinct; all-decline injury theory unconfirmed; no exhaustive ambient corpus verified",
     "continuity_guard": "Dutch imported late Chapter3; later game missions not personal memories. Actual58 unchanged,59 unwritten,PLAY held; prior six approvals retained."
+  },
+  "latest_Brian_Shake_Dutch_GGA_author_direction": {
+    "change_id": "S7NS_BRIAN_SHAKE_DUTCH_GGA_R2_20261023",
+    "authority": "continuity/author/S7NS_Brian_Shake_Dutch_GGA_R2_20261023.md",
+    "status": "AUTHOR_SELECTED_FUTURE; SPECIFIC_NEW_IMPROVEMENTS_PROPOSED; NO_PLAY",
+    "selected": [
+      "Brian finds Dr Evil's discarded memorized RDR/RDR2 research and misuses it",
+      "Shake genuinely enjoys Brian's writing; excellent freestyle shatters Brian's pride; Brian invents offense, steals Clifford's saber during VR fishing and deliberately kills Shake; cringey empowerment",
+      "Dutch crash construction approved; complete Tahiti/Bob Ross lala escalation selected",
+      "Both GGA interference/surrounding-situation lists approved; internal practice pays off with outsiders",
+      "Jack returns to affectionate virtual Uncle Arthur because it heals his inner soul; later completes RDR2 then RDR1 and acquires knowledge through actual progress"
+    ],
+    "guard": "Actual58 unchanged; Shake alive; Jack has not completed campaigns. Stage travel, gameplay access, saber custody and discoveries. Daniel's selected farewell and prior six approvals retained; Dr Evil calculated long-con persists.",
+    "drive_id": "1ON6LCMyGLWyEe9JuGveBQfvbMuXCvvO_"
   }
 }
