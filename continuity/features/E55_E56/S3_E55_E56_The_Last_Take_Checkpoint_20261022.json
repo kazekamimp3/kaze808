@@ -1,0 +1,170 @@
+{
+  "schema": "S7NS_TWO_EPISODE_FEATURE_CHECKPOINT_V1",
+  "change_id": "S7NS_E55_E56_THE_LAST_TAKE_20261022",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode_span": [
+    55,
+    56
+  ],
+  "episode_count": 2,
+  "title": "The Last Take",
+  "episode_titles": {
+    "55": "The Last Take",
+    "56": "Somewhere Mine"
+  },
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "Latest repeated explicit PLAY55&56 together, with bounded-Wade/no mystery-spoiler correction. Repetitions steer this one pair, not extra copies or additional episodes.",
+  "previous_delivery": {
+    "schema": "S7NS_CHAT_DELIVERY_RECONCILIATION_V1",
+    "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+    "episode_span": [
+      53,
+      54
+    ],
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "evidence": "Complete immediately preceding joint53–54 final is visible in this conversation; subsequent explicit55&56PLAY confirms continuation, not acceptance. Full response contained both production units.",
+    "manuscript": "continuity/features/E53_E54/S3_E53_E54_Off_the_Record_FINAL_20261022.txt",
+    "sha256": "004c3743e5f89451474a28375554dec9d410901b9d7875de797a1e3fd4b97922",
+    "checkpoint": "continuity/features/E53_E54/S3_E53_E54_Off_the_Record_Checkpoint_20261022.json",
+    "chat_byte_identity": "NOT_MACHINE_VERIFIED",
+    "new_author_correction": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
+    "original_manuscripts_rewritten": false,
+    "next_episode": 55
+  },
+  "manuscript": {
+    "path": "continuity/features/E55_E56/S3_E55_E56_The_Last_Take_FINAL_20261022.txt",
+    "file": "S3_E55_E56_The_Last_Take_FINAL_20261022.txt",
+    "bytes": 47399,
+    "words": 7601,
+    "sha256": "4f05302c89295c60baa8fcc4421b28ed9fb8dec570599d8a11526aa3ff327285",
+    "git_blob_sha1": "33c0dd85deaadf7d5d4f2ad9b4a7bb1f23293b7b",
+    "estimated_minutes_at_150_wpm": 50.67333333333333
+  },
+  "checkpoint_path": "continuity/features/E55_E56/S3_E55_E56_The_Last_Take_Checkpoint_20261022.json",
+  "episode_units": [
+    {
+      "episode": 55,
+      "title": "The Last Take",
+      "path": "continuity/episodes/E55/S3_E55_The_Last_Take_FINAL_20261022.txt",
+      "file": "S3_E55_The_Last_Take_FINAL_20261022.txt",
+      "bytes": 24019,
+      "words": 3827,
+      "sha256": "c7fe4fedafab6dc043977a044c178fcf0791e904b9a1364bea9d451a1bab3b51",
+      "git_blob_sha1": "0584b84f03e0540382005c3e20fbaa7311a3dea8",
+      "estimated_minutes_at_150_wpm": 25.513333333333332,
+      "boundary": "Begins Don't move. Ends Then Chris stopped calling for help.",
+      "checkpoint": {
+        "chronology": "Day20morning",
+        "state": "Billy exterior, Chris fullinside; Arthur/Kaze scout crossing and startback, Daynah runs tofetch them. Frylock dies from acid injuries after actual Shake assault, cause not yet known to witnesses/narrator. Camera still recording. All otherhousehold residents aliveinside; Shake has not yet left."
+      }
+    },
+    {
+      "episode": 56,
+      "title": "Somewhere Mine",
+      "path": "continuity/episodes/E56/S3_E56_Somewhere_Mine_FINAL_20261022.txt",
+      "file": "S3_E56_Somewhere_Mine_FINAL_20261022.txt",
+      "bytes": 23415,
+      "words": 3778,
+      "sha256": "d7d976685f60fa07e6a2d2e21f3942ba5059363e1fedcef3a071e0da9d86e103",
+      "git_blob_sha1": "0c33f0a691da550f3ba3e22d5cd66b72511866f7",
+      "estimated_minutes_at_150_wpm": 25.186666666666667,
+      "boundary": "Begins Outside, Billy stood perfectly still. Ends feature final line.",
+      "checkpoint": {
+        "chronology": "Day20 later same day, no overnight",
+        "state": "Frylock corpse released/buried above runoff; camera evidence exposes Shake. Shake alive, independently left towardoldworks earlier. Meatwad independently leaves viaBillywithownDeathMountainstone into scrub, no traveling duo. Charles stays. Sins resume inland capital road; Billy exterior/Chris fullinside. TPP remains harbor, Galen leaves consultation alone with chart; no confirmed next physical location/destination arrival."
+      }
+    }
+  ],
+  "sources": {
+    "prepass": "Fresh GitHubCURRENT/ledger/outline/exact54checkpoint plus exact53–54 manuscript, Airtable53/54, Notionexistingindex and Driveexactjointtext. Actual preceding fulljointresponse available. Same32localattachments supplied repeatedly; no Library reads of attachments.",
+    "full_owner_reuse": "Previously complete unchanged Chris/Billy/BELLY, Kaze/Arthur/Daynah/Mahnah, Charles/Meatwad, DrEvil/Brian/Dutch/Clifford/Starkiller owners read in this conversation reused. Full singleSceneDecisionDoctrine read again; full organicremasterspec read; targeted exactcurrentBillysovereignty/noautomaticsurveillance, audienceknowledge, outwardvoice, Charlesstation, cumulativecasttrim andpost50selectedexit clauses inspected. No claimfreshfullarchive or newlyfullShake/Frylockprofile.",
+    "authority_routes": [
+      "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
+      "continuity/author/S7NS_Post_E50_Approvals_Kaze_Starkiller_Cast_Mobility_20261021.md",
+      "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md",
+      "canon/household/BELLY_ATHF_Dysfunction_After_E34_20261019.md",
+      "canon/characters/chris_catfish_billy_current.md",
+      "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+      "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
+      "approved_rolloff/staged/BOYS_CLUB_ACCESS_AND_CHARLES_MONITOR.md"
+    ],
+    "primary_research": {
+      "scope": "Targeted textual officialAdultSwim search checked Frylock eye-beams, not full video viewing; system2gap followedby system1verification. Wiki results not used to invent jewel depletion/flight weakness/TK limits or equipment removals.",
+      "urls": [
+        "https://www.adultswim.com/videos/aqua-teen-hunger-force",
+        "https://www.adultswim.com/videos/aqua-teen-hunger-force/total-re-carl"
+      ],
+      "boundary": "Branch-author selected permanent acid death controls outcome; no universal source-seriesacidvulnerability, exactreactiontime, strengthceiling or generalresurrection rule claimed."
+    }
+  },
+  "working_brief": {
+    "choice": "Domestic ownership/filming/privacy dispute escalates through Shake's selfish actualassault; current camera fairlyrecords it, delayed discovery happens through physicalplayback. Sharedhome changes throughseparatevoluntaryexits. Shoreassessment pays off54commitment honestly and advancesGalentoalocalinquiry lead,notfree ship.",
+    "strongest_options": "Frylockkeepsflight and useseye-beam immediately tobreakShakecontactthenfliesout; damagealreadyfatal. Billycanrouteintake/release and guardactualnoticed threats, but noomniscientinteriorfeed or rewind/healotherpeople. Nobodywithreverse-healingaccessisstandingbesidehimduringfatalinjury; Kazeonlyarrivesafterdeath. Selectedpermanentdeathnotreset. Camera limited toactualaim/recordcycle, no otherroom/exteriorfootage.",
+    "knowledge": "Wade startswithonlyactualpreviouslyverbalnarrated54history, narratescurrentobservableactions, admitsdidn'tseecause; noauthornotesasfacts. Chris/Charles/Meatwadseeactualcamera playback; Billylegitimatelyperceivesaudience-shownimageviaTheAudienceKnowsONLYthen. Chrisverballytellsoutsidegangviaactualbanjo. No narratorgivesmysteryanswer. TaiLungcurrentwhereabouts, hiddenplateculprit andotherunresolvedsecretsunchanged.",
+    "agency": "BillyletsShakedepartbyrequestwithoutknowingcause; notacquittal. AfterevidenceChrisrefusesretrieval/hunt andbarsreturn; Kazeneitherforcedforgivenessnordeliberatelysparesapersonhedecidedtokill. Meatwadleavesforhisownplaceevenofferedstay; Charleschoosestayandpreservejointfilmcredit. Dutchretainsgrief/visitorboundary; mechanicrefusesunqualifiedpromise; Galendoesn'tjoin. Brianseekscareerrespectthroughterriblerapsandvengeance, Doctor'smotiveunchangedcalculatedlongcon."
+  },
+  "candidate_state_after_play": {
+    "chronology": "Day20morning throughlaterday, oneovernightfrom54; samechosenroadcamp→Sinsresumeinlandroad. No capitalarrival.",
+    "Sins": "KazeArthurDaynahMahnahBilly exterior together road. Chrisfullsizeinside withCharlesonlyremainingresidentofthefour. ArthurinactivewrappedMaulhilt/survey/Danielunopened110retained. Billyownbanjoexterior; Chrisvoiceoutactualbanjo. No new power/equipment.",
+    "Frylock": "Actuallypermanentlydead55fromShakeforcedimmersion/holdinginambientacid; retainedflight/beamcounterandselfextractionfailedtoundoinjury. BodyactuallyBillyreleased, carriedintograveKazedug,coveredwithArthurassistanceabovewaterline. No assimilatednature/soul/reward/resurrection.",
+    "Shake": "Alive, volitionaldeparture56afteractualdeath, Billypermittedmouthrelease. Wentbacktowardoldworks, oppositescoutingroute; laterexactlocationunknown. Scorchedcup-rim,bentstraw,pittedglovepersist. TooknoChrisproperty/camera/money. Liesexposedlater, returnbarred; no immunityfromfutureconsequences.",
+    "Meatwad": "Alive, voluntarilyleftlaterafterwatchingevidence, independentofShake. Billyactualmouthrelease; visitedgrave, talkedtoDaynah, tookownDeathMountainstoneandenteredseparatescrub. No newhomefound/doorbuilt/travelduocreated.",
+    "Charles": "AlivefullphysicalnonmemberinsideBELLY, choosestay. Dedicatedoutwardmonitorstationretained,notanactualpersonalbanjo. CameraChris-ownedoffatstation, priorfootageandfatalclipkept; Manson&Meatwadcreditretained.No outwardbroadcast/newwardenappointment/inheritingFrylockskills.",
+    "TPP": "Sameharbor/submarine. Shoreassessmentcompleted; noavailableoffworldtech/qualifiedbuilder. MechanicgivesboundedordinaryPiltoverreputationleadfromexistingchart, notguaranteedhyperdrive orconfirmedexpert. Galenleavesalonewithchart; futuretravel/shipaccessnotobtained. Dutchnoinvitationaboardstands, stillgrievesboys. Cliffordhelmetoffonquay, saberbeltnotactivated; independentmobilityintact.",
+    "Brian_Doctor": "AdultBrianstill24inches, miniChair/woodriseractualretrievalstaged. Journalcandidlywhitewasheshuman→head→shoulder→Morgan-bodyhistory; exactterribleoriginalverseandresponsepreserved. BriefmutualrecognitionwithClifforddoesn'tcurevendetta/statusdenial. Doctorreadsjournal,meanresignationjoke/heightbait,returnstoBrian. No majorreversal/MiniMeacceptance/genuineaffectionupgrade.",
+    "preserved_unknowns": "TaiLungcurrentlocation; Orrahiddenplate; Xwingcapabilities/locationandR2; Keke-specificregrowthnotstarted; remainingnative/crossoverthreadsnotdischarged. Swainpolicy/foremanlossfrom53persistwithoutneworders/recap. RomanceOFF/Briaroff/Teemoerased/ZidnotSin."
+  },
+  "resources": {
+    "common_silver": 2111,
+    "Kaze_silver": 0,
+    "Daniel_purse_Arthur": 110,
+    "Daniel_purse_opened": false,
+    "TPP_silver": 54,
+    "separate_receipt": 5,
+    "E31_chests": "Bothunopened",
+    "new_money": 0,
+    "spending": 0,
+    "shots": 0,
+    "saber_activations": 0,
+    "new_deaths": [
+      "Frylock"
+    ],
+    "food": "Existing53openPepsibottlespilled/emptytrace, notnewbottleacquisition. Newcandycountnotclaimed. No infinitefood/restock.",
+    "audio_generated": false
+  },
+  "review": {
+    "first_whole_read": "Complete7501worddraft reopened sequential1–700,701–1400,1401–2200,2201–end, alluntruncated.",
+    "repairs": [
+      "Galenbringsownchart; Doctorcannotprepossessit. Correctharbororientation.",
+      "Stagecameraopen-door/edge sightline, Shakehandpressureandglovesplash, retainFrylockbeamandflight.",
+      "RemoveinventedCharlespersonalbanjo; existingstationisoutwardmonitor. GiveCharles/Meatwadactualquestion-rehearsalturnintostoragepassage, nota magicallyinvisiblepersoninthesamelounge.",
+      "StageBillyaudienceknowledgeatactualplayback; eliminateunearnedprivateintent/narratorfutureassertions.",
+      "DifferentiateShakereturntowardoldworksfromArthurKazecrossingapproach; noimpossiblemissedmeeting.",
+      "Stageburialbodytransfer, chair/riserretrieval, removefalsenewmovieforgetting andfalseShakedrankbottleclaim.",
+      "RepairdanglingBrianline,doubleChrissit,newunestablishedinterviewchair."
+    ],
+    "complete_final_read": "Afterlastpatch entire7601wordfinal reopened in one untruncated cat result, fromonefeaturetitle through recordinglightoff. No laterprosechanges; frozenfinalbyte-identical.",
+    "weakest_span_decision": "InitialTPPconsultationriskedrepeat54. Its completedhonestassessment, boundedPiltoverinquiry, DutchrefusalofDoctor'sresources/invitationstance andconcreteBrian/Cliffordaftermathchangecircumstances. Interioraftermathisdeliberatelyquiet buteachchoicechangesroster/custody/credit; no forcedfuneralgag or fixedrevengemission.",
+    "checks": {
+      "narrator": "PASS editorial againstlatestauthor: no hiddenanswerdispatch, actualunknownresponse, evidenceowneddisclosure, nobroadnewhearingpermission.",
+      "mechanics": "PASS editorial narrowed tobranchlocks:oneexterior, actualmouthrelease/inversion/banjocustody, powersnotremoved, noautomaticinternalview, cameraactualrecordinganddoorwaysightline, corpsepersistentlyburied. No claimlivevideo-levelcanonverification.",
+      "continuity": "PASS editorial fromactual54endpoint, true53–54deliveryreconciledseparately. Currentstatecandidateuntilresponse.",
+      "voice_agency": "PASS editorialjudgment, notaudiocertification: differentiatedvulgar/quietSins, boundedGalen/mechanic, mercenaryDutch, pettyDoctor/Brian, separateMeatwad/Charleschoices.",
+      "runtime": "7601words/ASSUMED150wpm=50.67estimatedminutes; individualunits3827/3778words≈25.51/25.19. Noaudioor timingmeasurement."
+    }
+  },
+  "unperformed_selected_work": [
+    "Keke-specificfutureGrootregrowth",
+    "Swain/Orrahiddenplateinvestigation",
+    "Remainingnamednative/crossoverselectedmeetings",
+    "DrEvilmajorreversalandMiniMelongcon",
+    "Brian/Daynahproximitygagswhenactuallyaccessible"
+  ],
+  "next_episode": 57,
+  "episode57_authorized": false,
+  "delivery_rule": "Renderexactfullone-titlefeatureunchanged. Reconcile55and56onlyafternextcompletefinalexists; acceptanceNOT_ASSERTED. Do notautoPLAY57.",
+  "drive_manuscript_id": "1_5plUYyrxGt_XcbHc98EnYSY86F__aXV"
+}
+
