@@ -1,0 +1,90 @@
+{
+  "schema": "S7NS_TWO_EPISODE_FEATURE_CHECKPOINT_V1",
+  "change_id": "S7NS_E57_E58_CARRY_ON_20261023",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode_span": [
+    57,
+    58
+  ],
+  "title": "Carry On",
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "Latest explicit play ep57-58; follow-up send it. No59 PLAY.",
+  "previous_delivery": {
+    "episode_span": [
+      55,
+      56
+    ],
+    "revision": "Below the Belt R3",
+    "sha256": "2ab33c97c0e80ddb57a80f2d6a82917e41922f557430041cc139402c0ec263ba",
+    "status": "DELIVERED_PROVISIONAL",
+    "original_unchanged": true
+  },
+  "manuscript": {
+    "path": "continuity/features/E57_E58/S3_E57_E58_Carry_On_FINAL_20261023.txt",
+    "sha256": "2aa1275c87e00c4b09b5a6f65b9d9165d307fae5ce38e346c0390f8d45f42a45",
+    "git_blob_sha1": "35f8f2feee130e705d6f3e961fa8db24d277bc8f",
+    "words": 7719,
+    "body_words": 7712,
+    "assumed_wpm": 150,
+    "estimated_minutes": 51.413333333333334,
+    "audio_generated": false
+  },
+  "units": [
+    {
+      "episode": 57,
+      "words": 3877,
+      "boundary_end": "He reached the cut-stone crossing before they did.",
+      "events": "Day22 morning: private screening retaliation lands including Kaze; Daniel lazily returns alive with requested meta aside; original purse/spear/bottle returned by actual custodians. Household/camera enter Billy. Sins voluntarily rob fortified transfer yard, win decisively, seize four chests, duck pot and cloth; mark S7NS, leave inland."
+    },
+    {
+      "episode": 58,
+      "words": 3835,
+      "boundary_start": "The crossing occupied a deep notch in the hills.",
+      "events": "Same day: escaped driver reaches captain with prior district evidence. Courier leaves before confrontation. Bridge denial/attempted demolition and decisive ensemble fight; aqueduct destroyed, captain killed. Brief TPP rap/recognition scene. Chris destroys valuable cloth for pot wrapping; barred store refuses him. Gang rests on inland shelf late afternoon; TPP remains moored submarine."
+    }
+  ],
+  "candidate_end_state": {
+    "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
+    "Sins": "Kaze, Chris exterior/Billy inside, Arthur, Daynah baseline, Mahnah baseline, Daniel at dry shelf on inland route late Day22. No capital arrival. Charles/Meatwad/Shake inside Billy; Frylock alive separate with whereabouts unknown. Keke not returned.",
+    "TPP": "Doctor/Dutch/Brian/Clifford aboard still-moored submarine. Screening retaliation success does not reconcile Clifford/Brian tattoo grievance. Brian soreness/tattoo/green hair remain; no new mooning. Doctor major calculated reversal still pending, mild acknowledgment/rap teardown only. Existing chair/ceiling damage persists.",
+    "camera": "Chris-owned camera physically held by Meatwad inside Billy; old screening footage retained. Doctor has one expressly copied private screening copy on recreation computer. Current fight footage is camera pointed at exterior monitor, not omniscient angles or public transmission. Audience reaction is Brian memory, not self-recorded playback.",
+    "resources": {
+      "common_silver": 2111,
+      "Kaze_personal": 0,
+      "Daniel_personal": 110,
+      "Daniel_purse_now": "Daniel",
+      "TPP": 54,
+      "TPP_separate_receipt": 5,
+      "new_loot": "Four unopened ironbound transport chests, distinct from two E31 unopened chests; value not counted/distributed. Duck iron roasting pot quoted12silver; bolt ceremonial silver-threaded cloth quoted200silver, substantially cut into packaging, exact remainder/value unknown. Captain sword salvaged by Chris.",
+      "shots": "Arthur7 total: three revolver, one HighNoon, three ordinary Count; no full charge/Hypercharge. Chris4: one ChowMain, three Critic. Finite ammo/feedstock reduced, numeric reserves unestablished; no refill.",
+      "weapons_end": "Arthur Count configuration, one joined system; Chris normal tools and mask/headgear, acquired sword; Daniel spear/bottle; BlackMarrow integrated again.",
+      "bowl": "Mahnah took Brian floor bowl aboard submarine; no assertion it travelled inland."
+    },
+    "injuries": "Kaze spear/bolt wounds regenerating, blood/dirty clothes persist; no armor avoidance/gear reset. Billy shoulder/belly sword wounds healing inside, no exact completion asserted. Mahnah paw abrasion cleaned; rests. Daniel no described major wound; clone transfer not healing.",
+    "opposition": "Transfer guards killed/injured, exact aggregate count not assigned; merchants/driver escape. Crossing captain dead by valid clothed Kancho; mage and multiple soldiers killed, last injured fleeing soldier murdered by Kaze. One swallowed soldier severely injured; exact digestive final fate not newly asserted. Courier escaped inland carrying descriptions/driver report; destination and recipients not yet shown.",
+    "terrain": "Transfer yard gallery/wagon damaged. Bridge middle destroyed by defensive mage, gatehouse/three-arch aqueduct demolished by Kaze. Water spill alters road; remains impassable to ordinary traffic without repair.",
+    "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists."
+  },
+  "review": {
+    "whole_first_read": "Complete draft lines1–480,481–900,901–1275 reopened.",
+    "repairs": [
+      "Added meaningful Chris pot-defense exchange to develop unit57 and protect-prize premise.",
+      "Show cloth acquisition by exterior Billy at interior Chris request, then cutting inside; fix handoff to exterior Chris.",
+      "Explicit private computer copy while camera present, no recorded new screening audience.",
+      "Remove unexplained black blood on driver; no false contact.",
+      "Manifest BlackMarrow before bolt deflection, retain it through later support cuts.",
+      "Differentiate pot admission after Billy emergence from Chris switching.",
+      "Clarify lid rim, Daniel intoxication, last memory versus actual footage; remove several compliance-heavy lines."
+    ],
+    "final_read": "Complete revised final reopened1–660 and661–end; aggregate tool output truncated579tokens in unchanged latter portion, recovered1125–1220 separately. Earlier full final-read chunks also cover all unchanged text. No edits after this read.",
+    "weakest_span": "Potential generic robbery: added active cookware theft/protection and linked distinct ensemble choices, then a completed win rather than artificial cliffhanger. Boundary57 exceeds3750words,58 exceeds3750.",
+    "mechanics": "Actual local ice clone exit established before transfer, literal ice forearms, no new form; current R6 Arthur combine/split and no charge; actual water approach for Billy; Daynah BigKahuna third person and baseline return; animal nonverbal; danger sense shown; one exterior preserved.",
+    "source_scope": "Fresh live four-service prepass, full doctrine and approved55–58 plus Daniel addendum; Daniel portrayal and mechanics read with truncated sections recovered; relevant Dana/Mana mechanical/voice sections and cumulative corrections; full Arthur R6 current override and detailed current weapon sections. Reused previously read unchanged full Kaze/Chris/Billy/Arthur/TPP owners; not a claim of new full archive read. Exact55–56 ending and VR passages consulted; E40/E41/E46 custody evidence consulted.",
+    "quality": "Editorial judgment, not guaranteed hype/comedy or author acceptance.",
+    "audio": "Not generated or timed."
+  },
+  "attribution": "Kaze originated approved premise, Daniel return/meta explanation, comedy mechanisms, pair directions and tone. Assistant authored connective prose/dialogue, screening execution, duck-pot/cloth particulars, original encounters and fight choreography under those directions.",
+  "future": "No59 authorization. Keke future return, TaiLung knowledge/closure, Orra hidden plate, actual Starkiller whereabouts, Frank independence/protection, romanceOFF, Briar offplot, Teemo erased all retained. Deadpool has no new mystery answers.",
+  "destinations": "Preparation receipts tracked separately; actual chat delivery reconciled only after it exists."
+}
