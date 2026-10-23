@@ -2,8 +2,8 @@
   "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
-  "current_delivered_episode": 58,
-  "next_episode": 59,
+  "current_delivered_episode": 59,
+  "next_episode": 60,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -654,9 +654,38 @@
       "delivery_reconciliation": "continuity/features/E57_E58/CHAT_DELIVERY_RECONCILIATION_20261023.json",
       "author_acceptance": "NOT_ASSERTED",
       "chat_byte_identity": "NOT_MACHINE_VERIFIED"
+    },
+    {
+      "episode": 59,
+      "title": "Family Business",
+      "manuscript": "continuity/episodes/E59/S3_E59_Family_Business_FINAL_20261023.txt",
+      "manuscript_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
+      "checkpoint": "continuity/episodes/E59/S3_E59_Family_Business_Checkpoint_20261023.json",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "delivery_reconciliation": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
+      "author_acceptance": "NOT_ASSERTED",
+      "chat_byte_identity": "Conversation evidence; no machine export comparison"
     }
   ],
-  "prepared_episode": 59,
+  "prepared_episode": {
+    "episode_span": [
+      60,
+      61
+    ],
+    "title": "Customer Service",
+    "status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED",
+    "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023.txt",
+    "manuscript_sha256": "530dd2c24a7da5f26566f049ddabcdc0ef50674897f75a68cfdef357d5a79d04",
+    "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023_Checkpoint.json",
+    "drive_manuscript_id": "19FwW5sLC_-Ld8BqdCEQrJpZx4BR7_Fhy",
+    "drive_checkpoint_id": "12CmwEtviJpcxRgujZ_-VDBtGHZfhAxfk",
+    "airtable_record_ids": [
+      "rec8cj5veGRSW2owr",
+      "recATksnDNbPYkMZz"
+    ],
+    "author_acceptance": "NOT_ASSERTED",
+    "played": false
+  },
   "playback_control": {
     "hold": false,
     "scope": "Single Episode59 only. Episode60 remains unauthorized. Reconcile delivered cursor after the final chat response exists."
@@ -709,7 +738,7 @@
     "original_r8_source_unchanged": true
   },
   "latest_Arthur_weapon_policy_author": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
-  "delivery_status": "DELIVERED_PROVISIONAL_THROUGH_58; E59_STILL_FAMILY_PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "delivery_status": "DELIVERED_PROVISIONAL",
   "default_PLAY_episode_count": 2,
   "default_PLAY_format": "TWO_CONSECUTIVE_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_OVERRIDDEN",
   "default_PLAY_format_owner": "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
@@ -720,7 +749,7 @@
     ],
     "status": "OUTLINED_UNWRITTEN_NOT_PLAY_AUTHORIZED"
   },
-  "next_episode_authorized": true,
+  "next_episode_authorized": "DRAFT ONLY; noPLAY",
   "last_reconciliation_id": "S7NS_S3_HUMOR_OUTLINE_AFTER_E58_20261023",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
@@ -1035,7 +1064,7 @@
     "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid.",
     "delivery_reconciliation": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
-  "latest_chat_delivered_episode": 58,
+  "latest_chat_delivered_episode": 59,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -1233,7 +1262,7 @@
   },
   "episode52_authorized": true,
   "preparation_rule": "Episode59 prepared only; render exact reviewed text, reconcile actual delivery next interaction; no author acceptance inferred.",
-  "last_delivered_episode": 58,
+  "last_delivered_episode": 59,
   "prepared_E51_Fetch_R2_20261022": {
     "change_id": "S7NS_E51_FETCH_JESUS_RECOGNITION_R2_20261022",
     "episode_span": [
@@ -1406,7 +1435,7 @@
   "episode57_authorized": false,
   "episode58_authorized": false,
   "episode59_authorized": true,
-  "episode60_authorized": false,
+  "episode60_authorized": true,
   "historical_preparation_policy": "Dated prepared_* keys record past preparation; current delivered cursor and latest receipt govern.",
   "prepared_E59_Family_Business_20261023": {
     "episode": 59,
@@ -1459,14 +1488,140 @@
     "concurrent_preparation_note": "Fresh control files also contain an undelivered Family Business candidate from another preparation. Preserve that record and its artifacts. This chat selects Still Family; no claim is made that another candidate was played or accepted."
   },
   "current_prepared_episode_count": 1,
-  "selected_prepared_response": "S7NS_E59_STILL_FAMILY_20261023",
+  "selected_prepared_response": null,
   "continuation_authorization": {
-    "status": "SINGLE_E59_PLAY_AUTHORIZED_PREPARED_PENDING_RESPONSE",
+    "status": "DRAFT_GENERATION_AUTHORIZED_PLAY_HELD",
     "authorized_episode_span": [
-      59
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
     ],
-    "episode59_authorized": true,
-    "episode60_authorized": false,
-    "basis": "Latest direct request: play episode 59. This supersedes earlier holds for E59 only."
-  }
+    "requested_pairs": [
+      [
+        60,
+        61
+      ],
+      [
+        62,
+        63
+      ],
+      [
+        64,
+        65
+      ],
+      [
+        66,
+        67
+      ],
+      [
+        68,
+        69
+      ]
+    ],
+    "play_authorized": false,
+    "basis": "User: generate episode pairs; once fully generated save to draft; user will say when to send. Later extends sequence through69."
+  },
+  "playback_hold": "All generated60–69 drafts held until user requests sending.",
+  "current_playback_request": null,
+  "prepared_draft_features_60_69": [
+    {
+      "episode_span": [
+        60,
+        61
+      ],
+      "title": "Customer Service",
+      "status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED",
+      "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023.txt",
+      "manuscript_sha256": "530dd2c24a7da5f26566f049ddabcdc0ef50674897f75a68cfdef357d5a79d04",
+      "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023_Checkpoint.json",
+      "drive_manuscript_id": "19FwW5sLC_-Ld8BqdCEQrJpZx4BR7_Fhy",
+      "drive_checkpoint_id": "12CmwEtviJpcxRgujZ_-VDBtGHZfhAxfk",
+      "airtable_record_ids": [
+        "rec8cj5veGRSW2owr",
+        "recATksnDNbPYkMZz"
+      ],
+      "author_acceptance": "NOT_ASSERTED",
+      "played": false
+    },
+    {
+      "episode_span": [
+        62,
+        63
+      ],
+      "title": "A Better Picture",
+      "status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED",
+      "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023.txt",
+      "manuscript_sha256": "364b836e2e3773acd41c369db7c9dcdd6684a62945ea25c2a2e85bc4c2ed5fa7",
+      "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023_Checkpoint.json",
+      "drive_manuscript_id": "1hyMc1-qr7kWc5_IuLWIFe2YIVk5gLozN",
+      "drive_checkpoint_id": "1zJVsgymkqNEgwF5Fj7PHMACPI2_-_m1v",
+      "airtable_record_ids": [
+        "recdbgNozZ73lMUrX",
+        "recAByyTrxrLjeGyU"
+      ],
+      "author_acceptance": "NOT_ASSERTED",
+      "played": false
+    }
+  ],
+  "pending_draft_pairs": [
+    [
+      64,
+      65
+    ],
+    [
+      66,
+      67
+    ],
+    [
+      68,
+      69
+    ]
+  ],
+  "delivery_reconciliation": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
+  "manuscript": "continuity/episodes/E59/S3_E59_Family_Business_FINAL_20261023.txt",
+  "manuscript_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
+  "checkpoint": "continuity/episodes/E59/S3_E59_Family_Business_Checkpoint_20261023.json",
+  "current_actual_after_E59": {
+    "day": 22,
+    "time": "evening, no overnight elapsed",
+    "location": "concealed hollow back from inland freight yard road; lower-lane convoy robbery selected for before dawn",
+    "exterior": [
+      "Kaze",
+      "Chris",
+      "Arthur",
+      "Daynah",
+      "Mahnah"
+    ],
+    "Billy": "interior; voice through Chris headgear",
+    "household": "Charles, Meatwad, Master Shake back inside Billy after permitted physical exit/hugs/readmission",
+    "Daniel": "peacefully departed in white light to spirit realm after sincere family farewell; no second killing; no spirit-realm cutaway",
+    "Daniel_spear": "Daniel-owned, Kaze custodial possession, laid alongside Kaze at ending",
+    "Daniel_bottle": "faded with Daniel; absent from exterior inventory",
+    "Daniel_purse": {
+      "silver": 110,
+      "custodian": "Arthur",
+      "ownership": "Daniel",
+      "commingled": false
+    },
+    "common_silver": 2105,
+    "common_silver_delta": -6,
+    "expense": "bread, sausage, onions purchased from Pell",
+    "Kaze_personal_silver": 0,
+    "new_transport_chests": "four remain uncounted inside Billy; not same as older two chests",
+    "Chris_duck_pot": "used for supper, cooled, retained with silver-thread packing cloth",
+    "ammo": "no shots fired; prior spent amounts unchanged",
+    "healing": "no new injuries or invented switch-heal; prior recovery not assigned invented completion time; Mahnah forepaw rested",
+    "TPP": "no cutaway or new event; prior submarine endpoint preserved; Brian/Clifford/Dr Evil/Dutch and future Shake murder unadvanced",
+    "Pell": "alive, departed toward freight yard; knows gang appearance and suspicious questions; whether he reports remains open",
+    "target": "temporary coastward pooled freight convoy; notice lists spirits/perfume/silk/coin; guard count and actual dawn contents not yet known"
+  },
+  "prepared_E59_Family_Business_current_status": "DELIVERED_PROVISIONAL — actual chat version; immutable checkpoint preserved",
+  "alternate_E59_preparation_note": "Still Family preserved as alternate; actual Family Business delivered/reposted here anchors continuation."
 }
