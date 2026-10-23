@@ -4,7 +4,7 @@
   "as_of": "2026-10-23",
   "last_delivered_episode": 58,
   "next_episode": 59,
-  "delivery_status": "DELIVERED_PROVISIONAL_THROUGH_58; E59_PREPARED_SAVED_NOT_YET_DELIVERED",
+  "delivery_status": "DELIVERED_PROVISIONAL_THROUGH_58; E59_STILL_FAMILY_PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
   "delivery_reconciliation": "continuity/features/E57_E58/CHAT_DELIVERY_RECONCILIATION_20261023.json",
@@ -23,11 +23,13 @@
     "scope": "The ENTIRE previous CURRENT JSON, including E34 installation receipts, earlier research, previous episode/recovery records, scoped configurations, exact feature paths and all staged-package hashes, remains unchanged at this immutable revision. Historical work pointers there do not supersede this current workflow receipt. Consult it for any unchanged prior metadata rather than assuming absence."
   },
   "continuation_authorization": {
-    "status": "WORK_ONLY_PLAYBACK_HELD",
-    "authorized_episode_span": [],
-    "episode59_authorized": false,
+    "status": "SINGLE_E59_PLAY_AUTHORIZED_PREPARED_PENDING_RESPONSE",
+    "authorized_episode_span": [
+      59
+    ],
+    "episode59_authorized": true,
     "episode60_authorized": false,
-    "basis": "Latest direct author: do not send episode until requested."
+    "basis": "Latest direct request: play episode 59. This supersedes earlier holds for E59 only."
   },
   "prepared_episode": 59,
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
@@ -1761,7 +1763,7 @@
     "meeting_status": "E52_DELIVERED_PROVISIONAL",
     "actual_checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json"
   },
-  "playback_hold": true,
+  "playback_hold": false,
   "latest_Brian_petty_comedy_approval": {
     "change_id": "S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022",
     "owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
@@ -2259,5 +2261,41 @@
     "word_count": 3833,
     "scope": "Single59 authorized by current direct PLAY; reconcile completed final next interaction."
   },
-  "current_playback_request": "play episode 59."
+  "current_playback_request": "play episode 59.",
+  "prepared_E59_Still_Family_20261023": {
+    "change_id": "S7NS_E59_STILL_FAMILY_20261023",
+    "episode": 59,
+    "episode_span": [
+      59
+    ],
+    "episode_count": 1,
+    "title": "Still Family",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "manuscript": "continuity/episodes/E59/S3_Episode_59_Still_Family_FINAL_20261023.txt",
+    "manuscript_sha256": "7928514cad8c8b209b81a66e47f4701cb03abd950d9f26099a80cd66ad1b56e6",
+    "manuscript_git_blob_sha1": "b86a39c75a74b7d1b2433ce2e78960ec753fb694",
+    "checkpoint": "continuity/episodes/E59/S3_Episode_59_Still_Family_Checkpoint_20261023.json",
+    "checkpoint_sha256": "a69d83d59ff45d09ff4f84b20f40017314725bc70c00c6d04c4a45cb87a821a7",
+    "checkpoint_git_blob_sha1": "353ca817ea6074ede1d40ab62b63803f75ddc15a",
+    "drive_manuscript_id": "14m5Y7R_N_2f81cd7PpRc_qr8Z8P6ZIKq",
+    "drive_checkpoint_id": "1nNsaDY3Pehda1NBWCuWomR8B-XqCObEG",
+    "airtable_episode_record_id": "recjzpykM6HieQ7hJ",
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "author_acceptance": "NOT_ASSERTED",
+    "words": 3904,
+    "body_words": 3898,
+    "assumed_wpm": 150,
+    "estimated_minutes": 25.99,
+    "audio_generated": false,
+    "authorization": "Latest direct user request: play episode 59. Single episode only; E60 not authorized.",
+    "next_action": "Render this exact saved final in the current response. Reconcile actual chat delivery at the next interaction; actual delivered cursor remains 58 until then.",
+    "four_app_readbacks": {
+      "github": "Exact final, checkpoint and review text matched.",
+      "google_drive": "Final exact text matched; checkpoint exact base64 bytes matched.",
+      "airtable": "Prepared record read back.",
+      "notion": "Prepared Still Family section and both paired links read back."
+    },
+    "concurrent_preparation_note": "Fresh control files also contain an undelivered Family Business candidate from another preparation. Preserve that record and its artifacts. This chat selects Still Family; no claim is made that another candidate was played or accepted."
+  },
+  "selected_prepared_response": "S7NS_E59_STILL_FAMILY_20261023"
 }
