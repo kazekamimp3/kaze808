@@ -1,0 +1,15 @@
+{
+  "schema": "S7NS_CHAT_DELIVERY_RECONCILIATION",
+  "episode": 51,
+  "revision": "R2",
+  "status": "DELIVERED_PROVISIONAL_REVISION_REQUESTED",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R2_FINAL_20261022.txt",
+  "sha256": "0477f3dd40caf0ca40547a4f1ffb2714865bc52bd8c1f50982e6be85c650e8be",
+  "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json",
+  "basis": "Conversation history records the full5010word R2 response ending Alone, with a dead man's weapon and a question that did not yet require anybody else to die. Subsequent direct author rejected casual fourth-wall familiarity and selected rediscovery. Complete preceding response was recorded by prior turn; raw chat export/byte comparison is not available here.",
+  "chat_byte_identity": "NOT_MACHINE_VERIFIED",
+  "current_revision_request": "R3 same51, explicit resumed resend after Brian brainstorming; no52.",
+  "original_pair_preserved": true,
+  "state": "R2 endpoint remains provisional; R3 re-presents same episode and same final physical state, changing opening knowledge acquisition."
+}
