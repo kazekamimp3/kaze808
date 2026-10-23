@@ -1,8 +1,8 @@
 {
   "status": "ACTIVE_AFTER_E51_R1_DELIVERY_R2_PREPARED",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "state_owner": "continuity/episodes/E51/R3_CHAT_DELIVERY_RECONCILIATION_20261022.json",
-  "next_new_main_episode": 52,
+  "state_owner": "continuity/episodes/E52/CHAT_DELIVERY_RECONCILIATION_20261022.json",
+  "next_new_main_episode": 53,
   "working_episode_count": null,
   "count_is_quota": false,
   "latest_sequence_lock": {
@@ -1280,7 +1280,7 @@
     "topic_sources/Capability_and_Speech_Overrides.txt",
     "approved_rolloff/staged/EXACT_QUOTE_REGISTER.json"
   ],
-  "current_cursor": "E51R3 delivered provisional; single52 reviewed/saved for PLAY; no53.",
+  "current_cursor": "52deliveredprovisional; joint53–54reviewed/savedforPLAY; no55.",
   "pre_solo_schedule_provenance": "Unmodified prior outline preserved in rollback; current scheduling below overrides stale E17/E18 cursor and pending-introduction claims.",
   "focus_mode": "ENSEMBLE",
   "romance_owner": "continuity/author/Kaze_Romance_OFF_After_E32_20261018.json",
@@ -1741,51 +1741,55 @@
     "RW_KINDRED"
   ],
   "prepared_episode": {
-    "change_id": "S7NS_E52_EYE_CONTACT_20261022",
+    "change_id": "S7NS_E53_E54_OFF_THE_RECORD_20261022",
     "episode_span": [
-      52
+      53,
+      54
     ],
-    "episode_count": 1,
-    "title": "Eye Contact",
+    "episode_count": 2,
+    "title": "Off the Record",
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
     "author_acceptance": "NOT_ASSERTED",
-    "authorization": "Explicit single52 PLAY; no53.",
-    "manuscript": "continuity/episodes/E52/S3_E52_Eye_Contact_FINAL_20261022.txt",
-    "manuscript_sha256": "211bb6fe49b63ee9a16467c1f4e244ca481d58671e1a86d53f740ff951d82f78",
-    "manuscript_git_blob_sha1": "29af44af3a8b97f0a57bcf9611a26b05f6999a38",
-    "checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json",
-    "checkpoint_git_blob_sha1": "cf3351a04446d2c9579eed5cf4a493ea74575b71",
-    "drive_manuscript_id": "1BJE3JE5CzSIssyjetoz5zKqmwlZ4wd1N",
-    "drive_checkpoint_id": "1kdbJfGCJlIqVbcMdK1J2rMtvp6t0Y6Gu",
-    "words": 3805,
-    "estimated_minutes_at_150_wpm": 25.366666666666667,
+    "authorization": "Latest explicit play53&54,together; prior single53 scope superseded BEFORE any53delivery. No55.",
+    "manuscript": "continuity/features/E53_E54/S3_E53_E54_Off_the_Record_FINAL_20261022.txt",
+    "manuscript_sha256": "004c3743e5f89451474a28375554dec9d410901b9d7875de797a1e3fd4b97922",
+    "manuscript_git_blob_sha1": "aa03daebb07f96fa4de38d740fc6a51a0bb5e3cb",
+    "checkpoint": "continuity/features/E53_E54/S3_E53_E54_Off_the_Record_Checkpoint_20261022.json",
+    "checkpoint_git_blob_sha1": "3971a627d289eb692df46961f7105c5dc65abe4c",
+    "drive_manuscript_id": "1pLSaF3AmP-1saE3ShWi_Sj6aC-SLazEk",
+    "drive_checkpoint_id": "1urXDXL_L1Nv793hPGsqYBHkyaNjwFE_w",
+    "words": 7526,
+    "estimated_minutes_at_150_wpm": 50.17333333333333,
     "audio_generated": false,
     "airtable_episode_record_ids": [
-      "rec4NVhzCJK0ayaqi"
+      "recHpqXWcT7KnnTVJ",
+      "recu0rekkVk9RL6ds"
     ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
     "four_app_readbacks": {
-      "GitHub_pair_exact": true,
-      "Drive_pair_exact": true,
-      "Airtable_hash_checkpoint_status": true,
+      "GitHub_feature_pair_exact": true,
+      "GitHub54_unit_pair_exact": true,
+      "Drive_feature_pair_exact": true,
+      "Airtable_both_hash_checkpoint_status": true,
       "Notion_scope_hash_links": true
     },
-    "verification": "continuity/episodes/E52/S3_E52_Eye_Contact_Verification_20261022.json",
+    "verification": "continuity/features/E53_E54/S3_E53_E54_Off_the_Record_Verification_20261022.json",
     "Library_package": {
-      "library_file_id": "libfile_831415ca44f881919429ce683ccdb29c",
-      "path": "/workspace/scratch/e9b248a4a62a/S7NS_Episode_52_Eye_Contact_Reviewed_Package_20261022.zip",
+      "library_file_id": "libfile_1124b6e54a408191b2239f941cfd9e42",
+      "path": "/workspace/scratch/e9b248a4a62a/S7NS_Episodes_53_54_Off_the_Record_Reviewed_Package_20261022.zip",
       "version": null
     },
-    "next_action": "Full exact single52 PLAY; reconcile only after complete response exists."
+    "next_action": "Render exact frozen one-title53–54 feature. Reconcile BOTH only after complete final response exists. No55."
   },
   "playback_control": {
     "paused": false,
     "authorized_episode_span": [
-      52
+      53,
+      54
     ],
-    "last_delivered_episode": 51,
-    "next_episode": 52,
-    "basis": "Explicit play52only; no53.",
+    "last_delivered_episode": 52,
+    "next_episode": 53,
+    "basis": "Latestexpanded53&54together BEFORE any53PLAY. No55.",
     "same_span_revision": false
   },
   "historical_prior_to_E30_cursor": {
@@ -2997,10 +3001,11 @@
     "Tracy_identity": "Existing actual Tracy host remains; Busta résumé boast/mistaken attribution retained; no second body invented",
     "DrEvil_motive": "Sole calculated ultimate reversal unchanged; chair is separately selected petty beat",
     "drive_author_id": "1wBIOajgxP3WxOAY3EFI6BM_BmJsSrc7S",
-    "meeting_status": "PREPARED_E52_NOT_ACTUAL_UNTIL_FULL_PLAY",
+    "meeting_status": "E52_DELIVERED_PROVISIONAL",
     "required_geometry": "Brian-sized seat and adult table; standing ON seat barely clears tabletop",
     "vendetta": "Remembered5ft10 adulthood/formerSin/offscreenKaze killing; preserve actual hip-head/shoulder/Tracy42 history",
-    "candidate_checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json"
+    "candidate_checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json",
+    "actual_checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json"
   },
   "latest_Brian_petty_comedy_approval": {
     "change_id": "S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022",
@@ -3068,9 +3073,59 @@
     "next_action": "Full exact single52 PLAY; reconcile only after complete response exists."
   },
   "current_E52_selected_threads": {
-    "scope": "Candidate only until full PLAY",
+    "scope": "E52_DELIVERED_PROVISIONAL",
     "Starkiller": "Solo inquiry reached/conducted; master chain disclosed, no current network proved. Kaze leaves inland; reunion not shown.",
     "Brian": "Chair trap/denial/Dutch nonrescue/real riser success/ambiguous praise/résumé/feedback restrictions/bad rap integrated52.",
-    "pending": "Daynah contact/anticipatory dodge, trauma hijack, Kaze-DrEvil siding, Mimir and sleep repertoire require future actual access. Ultimate long-con reversal and other cumulative threads pending."
+    "pending": "Daynah contact/anticipatory dodge, trauma hijack, Kaze-DrEvil siding, Mimir and sleep repertoire require future actual access. Ultimate long-con reversal and other cumulative threads pending.",
+    "checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json"
+  },
+  "prepared_E53_E54_Off_the_Record_20261022": {
+    "change_id": "S7NS_E53_E54_OFF_THE_RECORD_20261022",
+    "episode_span": [
+      53,
+      54
+    ],
+    "episode_count": 2,
+    "title": "Off the Record",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Latest explicit play53&54,together; prior single53 scope superseded BEFORE any53delivery. No55.",
+    "manuscript": "continuity/features/E53_E54/S3_E53_E54_Off_the_Record_FINAL_20261022.txt",
+    "manuscript_sha256": "004c3743e5f89451474a28375554dec9d410901b9d7875de797a1e3fd4b97922",
+    "manuscript_git_blob_sha1": "aa03daebb07f96fa4de38d740fc6a51a0bb5e3cb",
+    "checkpoint": "continuity/features/E53_E54/S3_E53_E54_Off_the_Record_Checkpoint_20261022.json",
+    "checkpoint_git_blob_sha1": "3971a627d289eb692df46961f7105c5dc65abe4c",
+    "drive_manuscript_id": "1pLSaF3AmP-1saE3ShWi_Sj6aC-SLazEk",
+    "drive_checkpoint_id": "1urXDXL_L1Nv793hPGsqYBHkyaNjwFE_w",
+    "words": 7526,
+    "estimated_minutes_at_150_wpm": 50.17333333333333,
+    "audio_generated": false,
+    "airtable_episode_record_ids": [
+      "recHpqXWcT7KnnTVJ",
+      "recu0rekkVk9RL6ds"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "four_app_readbacks": {
+      "GitHub_feature_pair_exact": true,
+      "GitHub54_unit_pair_exact": true,
+      "Drive_feature_pair_exact": true,
+      "Airtable_both_hash_checkpoint_status": true,
+      "Notion_scope_hash_links": true
+    },
+    "verification": "continuity/features/E53_E54/S3_E53_E54_Off_the_Record_Verification_20261022.json",
+    "Library_package": {
+      "library_file_id": "libfile_1124b6e54a408191b2239f941cfd9e42",
+      "path": "/workspace/scratch/e9b248a4a62a/S7NS_Episodes_53_54_Off_the_Record_Reviewed_Package_20261022.zip",
+      "version": null
+    },
+    "next_action": "Render exact frozen one-title53–54 feature. Reconcile BOTH only after complete final response exists. No55."
+  },
+  "current_E53_E54_thread_progress": {
+    "status": "CANDIDATE_NOT_ACTUAL_UNTIL_FULL_FEATURE_PLAY",
+    "checkpoint": "continuity/features/E53_E54/S3_E53_E54_Off_the_Record_Checkpoint_20261022.json",
+    "unit53": "Reunion, Arthursamehiltreturned, domesticmockumentarypropertydecision, foremanrealrefuge/localhelploss, Swainpublicverifiedinformation/paymasterpolicy. Broaderconsequencespending.",
+    "unit54": "StarkillerTPPtransport/Cliffordresemblanceliabilityactuallyintersect. No boardedship/spacecraft/employment. Honestboundedtomorrowshoreassessmentplanned, no guaranteedbuild. Dutchgrief/crewagencyandcalculatedBrianattentionpersist.",
+    "Sins": "ChrisinformsDaynahaboutMahnahroadmarker, stonereturned; groupactuallychoosesnewinlandgroundnight19. Nocapitalarrival/TaiLunglocation.",
+    "remaining": "Orrahiddenplate, Frylockdeath/voluntaryexits, Keke regrowth, Shang/Riddick, Brianlongcon/proximity/sleepgagsretainpendingrealaccessrequirements."
   }
 }
