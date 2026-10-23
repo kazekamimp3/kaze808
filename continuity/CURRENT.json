@@ -4,16 +4,16 @@
   "as_of": "2026-10-21 Pacific/Honolulu: E50 delivery reconciled; post-E50 WORK directions and proposed brainstorm",
   "last_delivered_episode": 51,
   "next_episode": 52,
-  "delivery_status": "E51_R1_DELIVERED_PROVISIONAL_R2_PREPARED",
+  "delivery_status": "E51_R2_DELIVERED_PROVISIONAL_R3_PREPARED",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "continuity/episodes/E51/R1_CHAT_DELIVERY_RECONCILIATION_20261022.json",
-  "manuscript": "continuity/episodes/E51/S3_E51_Fetch_FINAL_20261022.txt",
-  "manuscript_git_blob_sha1": "22fe44846f6573031e9a569a0e63581043c30a9c",
-  "manuscript_sha256": "c37c4647b6c4521fd8d2b04a1393c88ceac8f29ffbc0f744ba4208ba1d573ee7",
-  "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_Checkpoint_20261022.json",
-  "state_owner": "continuity/episodes/E51/R1_CHAT_DELIVERY_RECONCILIATION_20261022.json",
-  "state_rule": "E50 delivered actual state is in its reconciliation. New WORK directions/proposals do not advance story time or enact deaths/regrowth.",
+  "delivery_reconciliation": "continuity/episodes/E51/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json",
+  "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R2_FINAL_20261022.txt",
+  "manuscript_git_blob_sha1": "751181959e7aa0e692c32ee99c956d34a1ab6695",
+  "manuscript_sha256": "0477f3dd40caf0ca40547a4f1ffb2714865bc52bd8c1f50982e6be85c650e8be",
+  "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json",
+  "state_owner": "continuity/episodes/E51/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json",
+  "state_rule": "Last actual complete51R2 is provisional with revision requested. R3 prepares same episode/endpoint and latest explicit narrator acquisition correction. WORK creates no scene/day.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -23,50 +23,43 @@
     "scope": "The ENTIRE previous CURRENT JSON, including E34 installation receipts, earlier research, previous episode/recovery records, scoped configurations, exact feature paths and all staged-package hashes, remains unchanged at this immutable revision. Historical work pointers there do not supersede this current workflow receipt. Consult it for any unchanged prior metadata rather than assuming absence."
   },
   "continuation_authorization": {
-    "status": "EXPLICIT_REVISE_AND_REPLAY_E51_ONLY",
+    "status": "EXPLICIT_RESUMED_REVISE_AND_REPLAY_E51_ONLY",
     "episode51_revision_authorized": true,
     "episode52_authorized": false
   },
   "prepared_episode": {
-    "change_id": "S7NS_E51_FETCH_JESUS_RECOGNITION_R2_20261022",
+    "change_id": "S7NS_E51_FETCH_FOURTH_WALL_R3_20261022",
     "episode_span": [
       51
     ],
     "episode_count": 1,
     "title": "Fetch",
-    "revision": "R2",
+    "revision": "R3",
     "same_episode_revision": true,
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
     "author_acceptance": "NOT_ASSERTED",
-    "authorization": "Explicit revise/resend51 with Billy whole Jesus story and Bible recovery jokes. No52.",
-    "author_owner": "continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md",
-    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R2_FINAL_20261022.txt",
-    "manuscript_sha256": "0477f3dd40caf0ca40547a4f1ffb2714865bc52bd8c1f50982e6be85c650e8be",
-    "manuscript_git_blob_sha1": "751181959e7aa0e692c32ee99c956d34a1ab6695",
-    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json",
-    "drive_manuscript_id": "1oRFtAEIelowv8yGApdDfVYbPnvGPHD1s",
-    "drive_checkpoint_id": "1pNfxHmNsjnthfB13BwdrhEBIMD27T9gI",
+    "authorization": "Latest user lock it all in / ready to send resumes specifically sameE51 resend after hold. No52.",
+    "author_owner": "continuity/author/S7NS_E51_Fourth_Wall_Rediscovery_R3_20261022.md",
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R3_FINAL_20261022.txt",
+    "manuscript_sha256": "d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce",
+    "manuscript_git_blob_sha1": "ffb00a276e63772c097a7506e798056dd6db8970",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R3_Checkpoint_20261022.json",
+    "drive_manuscript_id": "1AwfiSKKg8V8bvUjde-qTV-Ujsf_mIs1K",
+    "drive_checkpoint_id": "1FaEZv7ZXqamsPJpQKQKxzBAn7khIkIPL",
+    "words": 5655,
+    "estimated_minutes_at_150_wpm": 37.7,
+    "audio_generated": false,
     "airtable_episode_record_ids": [
       "recO0O1hxfH6Cc00F"
     ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
-    "words": 5010,
-    "estimated_minutes_at_150_wpm": 33.4,
-    "audio_generated": false,
-    "next_action": "Render exact frozen R2 in authorized same-episode resend; reconcile actual R2 only after full response exists.",
-    "four_app_readbacks": {
-      "GitHub_pair_exact": true,
-      "Drive_pair_exact": true,
-      "Airtable_hash_checkpoint_status": true,
-      "Notion_revision_scope_hash_links": true
-    },
-    "verification": "continuity/episodes/E51/S3_E51_Fetch_R2_Verification_20261022.json"
+    "next_action": "Render exact frozen R3 for explicitly resumed51 resend; reconcile only after full response exists."
   },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
   "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_E51_Fourth_Wall_Rediscovery_R3_20261022.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -104,8 +97,8 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "BRIAN_PETTY_COMEDY_R2_FOUR_APP_VERIFIED_E51_ON_HOLD",
-  "work_resume_checkpoint_latest": "continuity/work/S7NS_Brian_Petty_Comedy_Lock_R2_Resume_20261022.json",
+  "work_status": "E51_R3_REVIEWED_SAVED_FINAL_READBACKS_PENDING",
+  "work_resume_checkpoint_latest": "continuity/episodes/E51/S3_E51_Fetch_R3_Checkpoint_20261022.json",
   "work_change_id": "S7NS_CUMULATIVE_REPLACEMENT_PATCH_20261022",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
@@ -1792,17 +1785,13 @@
     "resume": "continuity/work/S7NS_Brian_Height_Journal_Chair_Resume_20261022.json"
   },
   "playback_hold": {
-    "active": true,
-    "scope": "Episode51 resend",
-    "basis": "Author paused51 for Brian ideas; latest instruction locks prior repertoire and requests more brainstorming, not PLAY.",
-    "local_reviewed_E51_R3": "S3_E51_Fetch_R3_FINAL_20261022.txt",
-    "local_sha256": "d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce",
-    "candidate_status": "Reviewed local draft only; no R3 connected save or chat playback yet"
+    "active": false,
+    "resolved_by": "Latest direct user lock it all in / ready to send the episode resumes specifically51."
   },
   "latest_Brian_petty_comedy_approval": {
     "change_id": "S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022",
     "owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
-    "status": "AUTHOR_APPROVED_REPERTOIRE_NOT_ENACTED",
+    "status": "ALL_PRIOR_REPERTOIRE_AND_P1_P5_AUTHOR_APPROVED_NOT_ENACTED",
     "approved": [
       "Daynah accidental contact + sincere apology",
       "Brian anticipates foot and saves face",
@@ -1811,13 +1800,44 @@
       "DrEvil weaponizes prior height-denial",
       "Brian practical success and ambiguous praise"
     ],
-    "new_P1_P5": "PROPOSED_ONLY_NOT_APPROVED",
+    "new_P1_P5": "AUTHOR_APPROVED_FUTURE_NOT_ENACTED",
     "review": "Cumulative comedy/relationships, current notes and actual50 notebook/sleep scenes reviewed. No forced51 cutaway or gag quota.",
-    "author_sha256": "aed4da6e71c2e3fee91498c8aa933a58682e709d2b92d6a836f0c4d7924c459c",
-    "Drive_author_id": "1wBIOajgxP3WxOAY3EFI6BM_BmJsSrc7S",
-    "Library_file_id": "libfile_93fda92382288191be196402e9474533",
-    "four_app_readbacks_verified": true,
-    "Library_version": 1
+    "latest_approval": "lock it all in. ready to send the episode with everything we talked about?",
+    "author_sha256": "3bb69339d928d1e96d53ac4b0e8bd86e02154d735aacbdc98e4d67968c70aedb"
   },
-  "latest_Daynah_Brian_accidental_contact": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md"
+  "latest_Daynah_Brian_accidental_contact": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
+  "prepared_E51_Fetch_R3_20261022": {
+    "change_id": "S7NS_E51_FETCH_FOURTH_WALL_R3_20261022",
+    "episode_span": [
+      51
+    ],
+    "episode_count": 1,
+    "title": "Fetch",
+    "revision": "R3",
+    "same_episode_revision": true,
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Latest user lock it all in / ready to send resumes specifically sameE51 resend after hold. No52.",
+    "author_owner": "continuity/author/S7NS_E51_Fourth_Wall_Rediscovery_R3_20261022.md",
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R3_FINAL_20261022.txt",
+    "manuscript_sha256": "d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce",
+    "manuscript_git_blob_sha1": "ffb00a276e63772c097a7506e798056dd6db8970",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R3_Checkpoint_20261022.json",
+    "drive_manuscript_id": "1AwfiSKKg8V8bvUjde-qTV-Ujsf_mIs1K",
+    "drive_checkpoint_id": "1FaEZv7ZXqamsPJpQKQKxzBAn7khIkIPL",
+    "words": 5655,
+    "estimated_minutes_at_150_wpm": 37.7,
+    "audio_generated": false,
+    "airtable_episode_record_ids": [
+      "recO0O1hxfH6Cc00F"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "next_action": "Render exact frozen R3 for explicitly resumed51 resend; reconcile only after full response exists."
+  },
+  "latest_narrator_recovery": {
+    "author_owner": "continuity/author/S7NS_E51_Fourth_Wall_Rediscovery_R3_20261022.md",
+    "status": "AUTHOR_SELECTED_E51_REDISCOVERY_PREPARED",
+    "older_poker_insert": "SUPERSEDED_AS_CURRENT_REPAIR",
+    "facts": "Characters forgot capability; Wade unaware they could hear; mutual surprise; Mimir withKratos, Wade narrator since33;51refers whole-season silence."
+  }
 }
