@@ -658,13 +658,8 @@
   ],
   "prepared_episode": 59,
   "playback_control": {
-    "hold": true,
-    "scope": "WORK_ONLY; explicit author request required before PLAY59–60",
-    "current_request": "play episode 59.",
-    "authorized_episodes": [
-      59
-    ],
-    "status": "PREPARED_PENDING_ACTUAL_FINAL_RESPONSE"
+    "hold": false,
+    "scope": "Single Episode59 only. Episode60 remains unauthorized. Reconcile delivered cursor after the final chat response exists."
   },
   "latest_scoped_author": "continuity/author/S7NS_S3_Humor_Outline_After_E58_20261023.md",
   "current_author_configuration": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
@@ -714,7 +709,7 @@
     "original_r8_source_unchanged": true
   },
   "latest_Arthur_weapon_policy_author": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
-  "delivery_status": "DELIVERED_PROVISIONAL_THROUGH_58",
+  "delivery_status": "DELIVERED_PROVISIONAL_THROUGH_58; E59_STILL_FAMILY_PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
   "default_PLAY_episode_count": 2,
   "default_PLAY_format": "TWO_CONSECUTIVE_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_OVERRIDDEN",
   "default_PLAY_format_owner": "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
@@ -725,7 +720,7 @@
     ],
     "status": "OUTLINED_UNWRITTEN_NOT_PLAY_AUTHORIZED"
   },
-  "next_episode_authorized": false,
+  "next_episode_authorized": true,
   "last_reconciliation_id": "S7NS_S3_HUMOR_OUTLINE_AFTER_E58_20261023",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
@@ -1427,5 +1422,51 @@
     "author_acceptance": "NOT_ASSERTED",
     "word_count": 3833,
     "scope": "Single59 authorized by current direct PLAY; reconcile completed final next interaction."
+  },
+  "prepared_E59_Still_Family_20261023": {
+    "change_id": "S7NS_E59_STILL_FAMILY_20261023",
+    "episode": 59,
+    "episode_span": [
+      59
+    ],
+    "episode_count": 1,
+    "title": "Still Family",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "manuscript": "continuity/episodes/E59/S3_Episode_59_Still_Family_FINAL_20261023.txt",
+    "manuscript_sha256": "7928514cad8c8b209b81a66e47f4701cb03abd950d9f26099a80cd66ad1b56e6",
+    "manuscript_git_blob_sha1": "b86a39c75a74b7d1b2433ce2e78960ec753fb694",
+    "checkpoint": "continuity/episodes/E59/S3_Episode_59_Still_Family_Checkpoint_20261023.json",
+    "checkpoint_sha256": "a69d83d59ff45d09ff4f84b20f40017314725bc70c00c6d04c4a45cb87a821a7",
+    "checkpoint_git_blob_sha1": "353ca817ea6074ede1d40ab62b63803f75ddc15a",
+    "drive_manuscript_id": "14m5Y7R_N_2f81cd7PpRc_qr8Z8P6ZIKq",
+    "drive_checkpoint_id": "1nNsaDY3Pehda1NBWCuWomR8B-XqCObEG",
+    "airtable_episode_record_id": "recjzpykM6HieQ7hJ",
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "author_acceptance": "NOT_ASSERTED",
+    "words": 3904,
+    "body_words": 3898,
+    "assumed_wpm": 150,
+    "estimated_minutes": 25.99,
+    "audio_generated": false,
+    "authorization": "Latest direct user request: play episode 59. Single episode only; E60 not authorized.",
+    "next_action": "Render this exact saved final in the current response. Reconcile actual chat delivery at the next interaction; actual delivered cursor remains 58 until then.",
+    "four_app_readbacks": {
+      "github": "Exact final, checkpoint and review text matched.",
+      "google_drive": "Final exact text matched; checkpoint exact base64 bytes matched.",
+      "airtable": "Prepared record read back.",
+      "notion": "Prepared Still Family section and both paired links read back."
+    },
+    "concurrent_preparation_note": "Fresh control files also contain an undelivered Family Business candidate from another preparation. Preserve that record and its artifacts. This chat selects Still Family; no claim is made that another candidate was played or accepted."
+  },
+  "current_prepared_episode_count": 1,
+  "selected_prepared_response": "S7NS_E59_STILL_FAMILY_20261023",
+  "continuation_authorization": {
+    "status": "SINGLE_E59_PLAY_AUTHORIZED_PREPARED_PENDING_RESPONSE",
+    "authorized_episode_span": [
+      59
+    ],
+    "episode59_authorized": true,
+    "episode60_authorized": false,
+    "basis": "Latest direct request: play episode 59. This supersedes earlier holds for E59 only."
   }
 }
