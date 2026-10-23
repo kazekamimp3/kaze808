@@ -1,0 +1,76 @@
+{
+  "schema": "S7NS_SINGLE_EPISODE_CHECKPOINT_V1",
+  "change_id": "S7NS_E59_STILL_FAMILY_20261023",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 59,
+  "title": "Still Family",
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "Latest direct user: play episode 59. Single episode; E60 not authorized.",
+  "previous_delivery": {
+    "episode": 58,
+    "manuscript": "continuity/features/E57_E58/S3_E57_E58_Carry_On_FINAL_20261023.txt",
+    "sha256": "2aa1275c87e00c4b09b5a6f65b9d9165d307fae5ce38e346c0390f8d45f42a45",
+    "status": "DELIVERED_PROVISIONAL",
+    "unchanged": true
+  },
+  "manuscript": {
+    "path": "continuity/episodes/E59/S3_Episode_59_Still_Family_FINAL_20261023.txt",
+    "sha256": "7928514cad8c8b209b81a66e47f4701cb03abd950d9f26099a80cd66ad1b56e6",
+    "words": 3904,
+    "body_words": 3898,
+    "assumed_wpm": 150,
+    "estimated_minutes": 25.99,
+    "audio_generated": false
+  },
+  "candidate_end_state": {
+    "clock": "Same Day22; late-afternoon shelf continuation through dusk. No automatic new day or capital arrival.",
+    "Daniel": "Completed sincere thanks and physical hugs with Mahnah, Daynah, Arthur, Chris, Billy after actual switch, and Kaze. Faded in white light to spirit realm for stated intention to get wasted with Master Oogway. No second killing, corpse, reusable portal, new universal resurrection power, or spirit-realm cutaway. His own spear, unbreakable replenishing bottle and tied 110-silver purse all departed with him. No gift or duplication.",
+    "Wade": "Only after departure, delivered explicitly authorized real-author-Kaze roast about last-minute spirit-realm excuse avoiding a lame second killing. No other secret-plan access. Kaze and exterior Billy hear/respond; Arthur only hears their side. No newly granted narrator hearing.",
+    "Sins": "Kaze, Chris exterior/Billy inside, Arthur, Daynah baseline and Mahnah baseline at eastern quarry-road bend near inland posting yard at dusk. Select morning theft of Madam Vey dining installation and related goods bound for coastal export depot. No robbery or acquisition yet. Arthur provided reconnaissance; no permanent commander or profits distributed.",
+    "BELLY": "Billy interior with his single banjo, Charles, Meatwad and Shake. Chris-owned camera remains inside with Meatwad, lowered during farewell; no new recording/public broadcast asserted. Duck pot and salvaged captain sword were physically admitted by exterior Billy before final inversion. Six unopened chests remain distinct: two fromE31 plus four fromE57. No contents/count invented.",
+    "new_observed_people_and_goods": "Madam Vey, competent civilian merchant transporting assembled private dining installation. Display wagon drawn by six horses, two closed freight wagons, mounted escorts with exact count unassigned. Table, cabinet, horsehair chairs, silverware/service bell, lamps, wax roast-bird display and mechanical pinned-cylinder music box seen; sale value unassigned. Contents of closed freight wagons unknown. Horses are new convoy animals, not a retcon of E57 escapees.",
+    "new_observed_operation": "Convoy moving down from inland toward coast halts at posting yard before ruined crossing. Madam Vey tells Arthur eastern quarry detour at first light leads around damage to coastal export depot. He warns of local split-trough leak and helps one freight wagon to upper ground beside display; she offers work, which he does not take. Arthur personally carries facts back. No magical messages, paper raid or new ship dependency.",
+    "consequences": "Existing Chris/Kaze GoldenHeron descriptions visibly posted by a porter; Vey reads and adjusts gate guard. Gang chooses Arthur-only reconnaissance while recognized names remain out of sight. No claim exact E58 courier arrived here or of an unseen official receiving it.",
+    "resources": {
+      "common_silver": 2111,
+      "Kaze_personal": 0,
+      "Daniel_personal": 110,
+      "Daniel_money_location": "With Daniel in spirit realm; no longer in Arthur or gang custody",
+      "TPP_silver": 54,
+      "TPP_separate_receipt": 5,
+      "shots_this_episode": 0,
+      "new_loot_this_episode": null,
+      "food": "Existing supplies portioned/consumed; numeric amounts not established; no refill",
+      "Arthur_weapons": "Count physically separated back into the same two Unshaken revolvers, holstered; no new ammo, charge or Hypercharge",
+      "Chris_Billy": "Final Chris exterior with normal headgear projecting interior Billy voice. Billy own banjo brought inward on switch."
+    },
+    "injuries": "Billy shoulder still visibly closing during farewell; no exact healing completion, reset, or new wounds. Mahnah paw still briefly favored; Daynah accommodates. Kaze prior blood/injury residue persists; no clothing repair/reset asserted.",
+    "TPP": "No cutaway or new enacted TPP event. Dr Evil, Dutch, adult Brian and adult Clifford remain aboard prior moored submarine. Brian green-hair knowledge and real screening win retained; Shake alive insideBilly; saber theft, murder, departure, crash, travel and VR developments still future.",
+    "holds": "Frylock separate/alive, latest author in France; Keke regrowth future; Frank departed/protected; Teemo excluded; Zid not Sin; Briar offplot; romanceOFF. Tai Lung killer knowledge fromE51 retained, current whereabouts unknown. All other unresolved chests/Orra/hidden plate and crossovers unadvanced."
+  },
+  "future_prerequisites": {
+    "60": "Begin from selected quarry-bend stakeout, not another farewell or target selection. Earn actual night/morning progression if used. Robbery/GGA outsider win must alter operation; Chris Moose Knuckle Menace Man same outsider at very end, not enacted here. TPP payment to stop Brian still future. Vey/new target is AI-authored execution under author-approved generic criminal objective, not independent author acceptance.",
+    "61_plus": "Coastal export destination provides reachable future convergence, not arrival. Original console insideBilly; headset aboard sub, physical return still required. No automatic TPP move or Shake departure. Preserve R6 schedule as flexible future; no fixed finale."
+  },
+  "review": {
+    "complete_first_read": "Entire 3535-word draft reopened without truncation.",
+    "repairs": [
+      "Made spear/bottle placement before hugs explicit.",
+      "Corrected purse ownership from ambiguous Arthur phrasing to Daniel funds held for him.",
+      "Brought Billy single banjo back inside on final switch; staged pot/sword intake and food exit.",
+      "Added explicit Count split before holstered revolvers in yard.",
+      "Adjusted Daynah hug for height and Daniel ice-forearm sensation.",
+      "Removed invented narrator biography for Vey; demonstrated competence through strap inspection.",
+      "Developed Arthur practical/helpful reconnaissance into exploitative opportunity and distinct comedy; no filler battle.",
+      "Fixed convoy downhill arrival and posting-yard location; changed impossible uphill aqueduct runoff to observed split-trough leak.",
+      "Replaced weak unrelated narrator analogy; clarified final bell reference."
+    ],
+    "complete_final_reread": "Entire corrected FINAL read in full after all edits; no truncation and no subsequent prose edits.",
+    "source_scope": "Live GitHub CURRENT/LEDGER, full E57-58 manuscript/checkpoint with targeted passage recovery, full lockedR6 owner and routed chronology; single scene doctrine and authorial-fidelity policy. Current complete Daniel, Dana, Mana portrayal owners, full ChrisCORE speech and Wade bounded-knowledge owners; relevant Kaze attachment/autonomy/speech, Arthur body/eye/weapon/voice, Chris/Billy inversion/custody/audio and shared group source sections. Other lengthy inherited archives were not exhaustively reread; no all-season audit claim.",
+    "quality": "Editorial assessment, not author acceptance or guaranteed comedy. Sincere farewell completes before requested meta roast; no interruption/repeat killing. Distinct voices, active original comedy, physical custody and lawful source access checked.",
+    "four_app_prepass": "GitHub live58 and R6; Airtable recK1nhslgLwGsyPX R6; Notion author-decision R6; matching complete DriveR6 text. Episode page older R4 labels treated as historical."
+  },
+  "attribution": "Kaze originated and selected Daniel farewell/family hugs/white-light/Oogway intention, after-departure author roast, continuing criminal objective, characters, comedy and source laws. Assistant wrote expanded dialogue/prose and invented Vey dining-installation target, bell hypocrisy, wax bird, musical criticism, Arthur scouting/wagon assistance and connective action. No independent author acceptance inferred.",
+  "destinations": "Separate receipt records remote writes/readbacks. Delivery reconciled only after actual chat response; preparation itself does not advance delivered cursor."
+}
