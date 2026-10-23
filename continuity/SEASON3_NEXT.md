@@ -15,3 +15,7 @@ Continue the existing sole drafting/review procedure only after explicit PLAY. R
 ## Latest additive author selections — 2026-10-23
 
 Read `continuity/author/S7NS_Brian_Shake_Dutch_GGA_R2_20261023.md` before staging future scenes. Brian's discarded RDR research misuse, Shake's genuine rap collaboration then Brian's deliberate saber murder, Dutch's approved crash and full Tahiti/Bob Ross escalation, both approved GGA situation lists and outsider application are selected future. Jack returns to affectionate virtual Uncle Arthur for sincere inner healing, then later completes RDR2 followed by RDR1; discoveries require actual gameplay progress. Shake currently alive inside Billy inland; no return/death or campaign completion has occurred. New recommendations in the brief are proposals. Prior six approvals and Daniel's farewell remain; all episode placement flexible except selected farewell direction. PLAY remains held.
+
+## R3 proposed chronology and approval mapping
+
+Latest source `continuity/author/S7NS_Chronology_Approvals_Review_R3_20261023.md` maps approved CHAT improvements1–6 and supplies proposed59–94placements. No fixed season length, new event or PLAY. Preserve R2 selection details, Daniel farewell and actual58. Detailed new brainstorm remains proposed; review coverage is expressly partial, with full45/47now added.
