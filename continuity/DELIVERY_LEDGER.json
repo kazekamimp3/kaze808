@@ -2,7 +2,7 @@
   "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
-  "current_delivered_episode": 50,
+  "current_delivered_episode": 51,
   "next_episode": 52,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
@@ -539,37 +539,47 @@
       "delivery_status": "DELIVERED_PROVISIONAL",
       "author_acceptance": "NOT_ASSERTED",
       "delivery_reconciliation": "continuity/episodes/E50/CHAT_DELIVERY_RECONCILIATION_20261021.json"
+    },
+    {
+      "episode": 51,
+      "title": "Fetch",
+      "revision": "R2",
+      "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R2_FINAL_20261022.txt",
+      "manuscript_sha256": "0477f3dd40caf0ca40547a4f1ffb2714865bc52bd8c1f50982e6be85c650e8be",
+      "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json",
+      "delivery_status": "DELIVERED_PROVISIONAL_REVISION_REQUESTED",
+      "delivery_reconciliation": "continuity/episodes/E51/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json",
+      "author_acceptance": "NOT_ASSERTED",
+      "chat_byte_identity": "NOT_MACHINE_VERIFIED"
     }
   ],
   "prepared_episode": {
-    "change_id": "S7NS_E50_ALL_IN_20261021",
+    "change_id": "S7NS_E51_FETCH_FOURTH_WALL_R3_20261022",
     "episode_span": [
-      50
+      51
     ],
     "episode_count": 1,
-    "title": "All In",
+    "title": "Fetch",
+    "revision": "R3",
+    "same_episode_revision": true,
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
     "author_acceptance": "NOT_ASSERTED",
-    "author_owner": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
-    "manuscript": "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
-    "manuscript_sha256": "a4797d2634759a54fe6c19ae0484d7eb81acaa9b15ed00ffed1c8b70aaece377",
-    "manuscript_git_blob_sha1": "6775a71254249a00a6f60c250c4f753c2ff93f1a",
-    "checkpoint": "continuity/episodes/E50/S3_E50_All_In_Checkpoint_20261021.json",
-    "checkpoint_git_blob_sha1": "4f93033f7e3581b0a74615dfe58b19eb63ab92af",
-    "drive_manuscript_id": "1Iw9rR3ke_czzG-DSVDeX3Cd-kyZEtPDTMX4WMZD4m5g",
-    "drive_checkpoint_id": "1PCU5cSwq2VLkScefBkvPkFQBGnt4zWqACxrmcvMz8ZM",
+    "authorization": "Latest user lock it all in / ready to send resumes specifically sameE51 resend after hold. No52.",
+    "author_owner": "continuity/author/S7NS_E51_Fourth_Wall_Rediscovery_R3_20261022.md",
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R3_FINAL_20261022.txt",
+    "manuscript_sha256": "d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce",
+    "manuscript_git_blob_sha1": "ffb00a276e63772c097a7506e798056dd6db8970",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R3_Checkpoint_20261022.json",
+    "drive_manuscript_id": "1AwfiSKKg8V8bvUjde-qTV-Ujsf_mIs1K",
+    "drive_checkpoint_id": "1FaEZv7ZXqamsPJpQKQKxzBAn7khIkIPL",
+    "words": 5655,
+    "estimated_minutes_at_150_wpm": 37.7,
+    "audio_generated": false,
     "airtable_episode_record_ids": [
-      "recgzJP3OJ6uXFMrQ"
+      "recO0O1hxfH6Cc00F"
     ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
-    "four_app_readbacks": {
-      "GitHub_pair_exact": true,
-      "Drive_pair_native_index_exact": true,
-      "Airtable_hash_checkpoint_status": true,
-      "Notion_hash_scope": true
-    },
-    "authorization": "Explicit PLAY50 only; no51.",
-    "next_action": "Render exact whole3851word saved50; reconcile only after complete chat delivery exists."
+    "next_action": "Render exact frozen R3 for explicitly resumed51 resend; reconcile only after full response exists."
   },
   "playback_control": {
     "paused": false,
@@ -582,7 +592,7 @@
     "same_span_revision": false,
     "latest_chat_delivered_episode": 49
   },
-  "latest_scoped_author": "continuity/author/S7NS_E50_Brian_Sleep_Mana_Poker_Scale_Comedy_20261021.md",
+  "latest_scoped_author": "continuity/author/S7NS_E51_Fourth_Wall_Rediscovery_R3_20261022.md",
   "current_author_configuration": {
     "KAZE_ROMANCE_ENABLED": false,
     "Dana_Mana": "Loyal Sins",
@@ -644,7 +654,7 @@
     "original_r8_source_unchanged": true
   },
   "latest_Arthur_weapon_policy_author": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
-  "delivery_status": "E49_DELIVERED_PROVISIONAL",
+  "delivery_status": "E51_R2_DELIVERED_PROVISIONAL_R3_PREPARED",
   "default_PLAY_episode_count": 2,
   "default_PLAY_format": "TWO_CONSECUTIVE_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_OVERRIDDEN",
   "default_PLAY_format_owner": "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
@@ -971,7 +981,7 @@
     "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid.",
     "delivery_reconciliation": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
-  "latest_chat_delivered_episode": 50,
+  "latest_chat_delivered_episode": 51,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -1185,7 +1195,7 @@
     "title": "Fetch",
     "revision": "R2",
     "same_episode_revision": true,
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "status": "DELIVERED_PROVISIONAL_REVISION_REQUESTED",
     "author_acceptance": "NOT_ASSERTED",
     "authorization": "Explicit revise/resend51 with Billy whole Jesus story and Bible recovery jokes. No52.",
     "author_owner": "continuity/author/S7NS_E51_Billy_Jesus_Priest_R2_20261022.md",
@@ -1202,6 +1212,36 @@
     "words": 5010,
     "estimated_minutes_at_150_wpm": 33.4,
     "audio_generated": false,
-    "next_action": "Render exact frozen R2 in authorized same-episode resend; reconcile actual R2 only after full response exists."
-  }
+    "next_action": "Render exact frozen R2 in authorized same-episode resend; reconcile actual R2 only after full response exists.",
+    "reconciliation": "continuity/episodes/E51/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json"
+  },
+  "prepared_E51_Fetch_R3_20261022": {
+    "change_id": "S7NS_E51_FETCH_FOURTH_WALL_R3_20261022",
+    "episode_span": [
+      51
+    ],
+    "episode_count": 1,
+    "title": "Fetch",
+    "revision": "R3",
+    "same_episode_revision": true,
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Latest user lock it all in / ready to send resumes specifically sameE51 resend after hold. No52.",
+    "author_owner": "continuity/author/S7NS_E51_Fourth_Wall_Rediscovery_R3_20261022.md",
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R3_FINAL_20261022.txt",
+    "manuscript_sha256": "d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce",
+    "manuscript_git_blob_sha1": "ffb00a276e63772c097a7506e798056dd6db8970",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R3_Checkpoint_20261022.json",
+    "drive_manuscript_id": "1AwfiSKKg8V8bvUjde-qTV-Ujsf_mIs1K",
+    "drive_checkpoint_id": "1FaEZv7ZXqamsPJpQKQKxzBAn7khIkIPL",
+    "words": 5655,
+    "estimated_minutes_at_150_wpm": 37.7,
+    "audio_generated": false,
+    "airtable_episode_record_ids": [
+      "recO0O1hxfH6Cc00F"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "next_action": "Render exact frozen R3 for explicitly resumed51 resend; reconcile only after full response exists."
+  },
+  "latest_Brian_comedy_approval": "P1-P5 and all prior repertoire AUTHOR_APPROVED_FUTURE_NOT_ENACTED"
 }
