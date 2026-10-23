@@ -1,0 +1,98 @@
+{
+  "change_id": "S7NS_PRE50_REVIEW_SIX_APPROVALS_KAZE_ANIMALS_20261023",
+  "status": "COMPLETE_VERIFIED_SCOPED_REVIEW",
+  "author_owner": "continuity/author/S7NS_Pre50_Review_Six_Approvals_Kaze_Animals_20261023.md",
+  "scope": "Six chat scene approvals mapped; targeted pre50 review; Kaze animal portrayal and explicit Kratos/Mimir season role.",
+  "approval_mapping": [
+    {
+      "chat_scene": 1,
+      "prior_document_scene": 1,
+      "name": "Tai Lung wins the fight and loses the event",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED"
+    },
+    {
+      "chat_scene": 2,
+      "prior_document_scene": 2,
+      "name": "Shang’s no-sensation breakthrough for Baldur",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED"
+    },
+    {
+      "chat_scene": 3,
+      "prior_document_scene": 3,
+      "name": "Brian’s music earns TPP money for the wrong reason",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED"
+    },
+    {
+      "chat_scene": 4,
+      "prior_document_scene": 5,
+      "name": "Riddick’s silent escape with Billy commentary",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED"
+    },
+    {
+      "chat_scene": 5,
+      "prior_document_scene": 7,
+      "name": "Starkiller encounters Chris’s vehicle",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED"
+    },
+    {
+      "chat_scene": 6,
+      "prior_document_scene": 6,
+      "name": "Brian meets Mimir, the head with the better career",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED"
+    }
+  ],
+  "episode_status": {
+    "last_delivered": 58,
+    "next": 59,
+    "play_authorized": false,
+    "story_days_advanced": 0,
+    "manuscripts_rewritten": false
+  },
+  "review_limit": "Targeted earlier manuscript scenes and opening-source history. Not a complete full-text audit of Episodes1–49; final current1–18 manuscript set not established.",
+  "receipts": {
+    "github": {
+      "author": true,
+      "active_outline": true,
+      "current": true,
+      "reader_outline": true,
+      "readback": "All4 exact supplied-text matches"
+    },
+    "google_drive": {
+      "file_id": "1MPw0A-Dyc3oZtKr_jptgif52a_-TwOMO",
+      "readback": "Fulltext matches local15448byte artifact; one additional finalnewline relative toGitHub authoredstring.",
+      "local_sha256": "dc6e1015dd8d0f9051bc46704ece128f26b41b5f10b2d7e8a910ae6dd4df3f37"
+    },
+    "notion": {
+      "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+      "targeted_update": true,
+      "readback": "Approval map,newcurrentsection,PLAYhold present; history retained"
+    },
+    "airtable": {
+      "table": "tbl5dFC7den6PyDSw",
+      "record": "recnk41gmVOZRa5DX",
+      "readback": true
+    },
+    "saved_review": {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/S7NS/S7NS_Pre50_Review_and_Approved_Scenes_20261023.md",
+      "file_id": "file_00000000d8fc81fdb02c7818271768c1",
+      "library_file_id": "libfile_237c5a162214819188f76cd88eb21135",
+      "file_name": "S7NS_Pre50_Review_and_Approved_Scenes_20261023.md",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "6ad4b1d160b88191ac62dae8b3937659",
+      "mime_type": "text/markdown",
+      "library_artifact_type": "report",
+      "file_size_bytes": 15448,
+      "external_connectors_accessed": false
+    }
+  },
+  "next_action": "Await author direction; noPLAY. Apply selected scenes through independent motives and actual travel. Newhorse andKratosreport constructions remainPROPOSED."
+}
