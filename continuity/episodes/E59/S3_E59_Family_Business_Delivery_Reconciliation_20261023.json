@@ -1,0 +1,47 @@
+{
+  "schema": "S7NS_CHAT_DELIVERY_RECONCILIATION",
+  "episode": 59,
+  "title": "Family Business",
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "continuity/episodes/E59/S3_E59_Family_Business_FINAL_20261023.txt",
+  "manuscript_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
+  "checkpoint": "continuity/episodes/E59/S3_E59_Family_Business_Checkpoint_20261023.json",
+  "evidence": "Manuscript delivered and exactreposted afteruserreported disappearance inthischat; subsequentgeneration60–63 anchors thisversion.",
+  "chat_byte_identity": "Conversation evidence; not separately machineverified export.",
+  "alternate_preparation": "StillFamily7928514...preservednotselectedforcontinuation.",
+  "actual_end_state": {
+    "day": 22,
+    "time": "evening, no overnight elapsed",
+    "location": "concealed hollow back from inland freight yard road; lower-lane convoy robbery selected for before dawn",
+    "exterior": [
+      "Kaze",
+      "Chris",
+      "Arthur",
+      "Daynah",
+      "Mahnah"
+    ],
+    "Billy": "interior; voice through Chris headgear",
+    "household": "Charles, Meatwad, Master Shake back inside Billy after permitted physical exit/hugs/readmission",
+    "Daniel": "peacefully departed in white light to spirit realm after sincere family farewell; no second killing; no spirit-realm cutaway",
+    "Daniel_spear": "Daniel-owned, Kaze custodial possession, laid alongside Kaze at ending",
+    "Daniel_bottle": "faded with Daniel; absent from exterior inventory",
+    "Daniel_purse": {
+      "silver": 110,
+      "custodian": "Arthur",
+      "ownership": "Daniel",
+      "commingled": false
+    },
+    "common_silver": 2105,
+    "common_silver_delta": -6,
+    "expense": "bread, sausage, onions purchased from Pell",
+    "Kaze_personal_silver": 0,
+    "new_transport_chests": "four remain uncounted inside Billy; not same as older two chests",
+    "Chris_duck_pot": "used for supper, cooled, retained with silver-thread packing cloth",
+    "ammo": "no shots fired; prior spent amounts unchanged",
+    "healing": "no new injuries or invented switch-heal; prior recovery not assigned invented completion time; Mahnah forepaw rested",
+    "TPP": "no cutaway or new event; prior submarine endpoint preserved; Brian/Clifford/Dr Evil/Dutch and future Shake murder unadvanced",
+    "Pell": "alive, departed toward freight yard; knows gang appearance and suspicious questions; whether he reports remains open",
+    "target": "temporary coastward pooled freight convoy; notice lists spirits/perfume/silk/coin; guard count and actual dawn contents not yet known"
+  }
+}
