@@ -1,7 +1,7 @@
 {
   "schema": "s7ns.work-resume.v1",
   "change_id": "S7NS_S3_HUMOR_OUTLINE_AFTER_E58_20261023",
-  "status": "CONNECTED_REVISION_VERIFIED; PACKAGE_SAVE_NEXT",
+  "status": "COMPLETE_VERIFIED; PLAY_HELD",
   "actual_last_delivered": 58,
   "next_episode": 59,
   "playback_hold": true,
@@ -94,7 +94,11 @@
       ]
     },
     "Library": {
-      "status": "PACKAGE_TO_BE_SAVED_AFTER_THIS_SNAPSHOT; final identity appended to live work receipt"
+      "status": "SAVED; LOCAL_IDENTITY_APPLIED",
+      "library_file_id": "libfile_eb18bb731ffc8191a084ea933ccf6fff",
+      "filename": "S7NS_Season3_Revised_Outline_Review_20261023.zip",
+      "sha256": "d931f43e4985c3d3eac0a2916f52b9403c4925d05817b55c170d857e8d55685f",
+      "package_note": "ZIP contains pre-save snapshot of this work receipt; live receipt records final save identity."
     }
   },
   "project_ui_attachment_installation": "NOT_PERFORMED_OR_CLAIMED",
