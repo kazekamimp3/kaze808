@@ -1,0 +1,33 @@
+{
+  "change_id": "S7NS_E51_FETCH_FOURTH_WALL_R3_20261022",
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript_sha256": "d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce",
+  "GitHub": {
+    "manuscript_exact": true,
+    "manuscript_blob_sha1": "ffb00a276e63772c097a7506e798056dd6db8970",
+    "checkpoint_exact": true,
+    "checkpoint_blob_sha1": "de1c515f02dcefdbd547d11044b82f8c3b3ac430"
+  },
+  "Drive": {
+    "manuscript_exact": true,
+    "checkpoint_exact_bytes": true,
+    "manuscript_id": "1AwfiSKKg8V8bvUjde-qTV-Ujsf_mIs1K",
+    "checkpoint_id": "1FaEZv7ZXqamsPJpQKQKxzBAn7khIkIPL"
+  },
+  "Airtable": {
+    "episode51_hash_and_cp_verified": true,
+    "record_id": "recO0O1hxfH6Cc00F"
+  },
+  "Notion": {
+    "revision_scope_hash_links_verified": true,
+    "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a"
+  },
+  "Brian": {
+    "all_P1_P5_approved": true,
+    "author_sha256": "3bb69339d928d1e96d53ac4b0e8bd86e02154d735aacbdc98e4d67968c70aedb",
+    "Drive_owner_exact": true
+  },
+  "limits": "No generated/measured audio, no author acceptance, no Project attachment installation. R3 response not yet exists; actual playback reconciles next interaction. Estimated37.7min exceeds older25–30target.",
+  "prior_versions": "R1 andR2 originals kept; R2 delivery reconciled without machine chat-byte identity."
+}
