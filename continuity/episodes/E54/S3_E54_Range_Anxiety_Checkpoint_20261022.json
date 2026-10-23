@@ -1,0 +1,80 @@
+{
+  "schema": "S7NS_EPISODE_CHECKPOINT_V1",
+  "change_id": "S7NS_E54_RANGE_ANXIETY_IN_E53_E54_20261022",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 54,
+  "title": "Range Anxiety",
+  "status": "PREPARED_IN_AUTHORIZED_TWO_EPISODE_FEATURE_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "Latest direct user: play episode53 &54,together. Overrides previoussingle53scope. No55.",
+  "actual_last_delivered_episode": 52,
+  "previous_production_unit": {
+    "episode": 53,
+    "status": "PREPARED_SAME_FEATURE_NOT_INDEPENDENTLY_DELIVERED",
+    "checkpoint": "continuity/episodes/E53/S3_E53_Off_the_Record_Checkpoint_20261022.json"
+  },
+  "manuscript": {
+    "path": "continuity/episodes/E54/S3_E54_Range_Anxiety_FINAL_20261022.txt",
+    "words": 3768,
+    "bytes": 23873,
+    "sha256": "f7491b79b092caee8b5ff430b113dc0174fe2668d1964072d1da70d7bcd166ef",
+    "git_blob_sha1": "ce1342ae128acf1aaadcc7eb611afaf12aa9a4b7",
+    "estimated_minutes_at_150_wpm": 25.12,
+    "audio_generated": false
+  },
+  "checkpoint_path": "continuity/episodes/E54/S3_E54_Range_Anxiety_Checkpoint_20261022.json",
+  "feature_manuscript": "continuity/features/E53_E54/S3_E53_E54_Off_the_Record_FINAL_20261022.txt",
+  "feature_checkpoint": "continuity/features/E53_E54/S3_E53_E54_Off_the_Record_Checkpoint_20261022.json",
+  "candidate_state_after_play": {
+    "chronology": "Day19 dusk→early night, no overnight. Harbor54 follows solo52 inquiry independently while53Sins leaveworks; inland group walks/restores road marker then actually chooses ground beyond next rise. No capital arrival.",
+    "Sins": "Kaze/Arthur/Chris(exterior,Billyinsidewithownbanjo)/Daynah/Mahnah together at newly chosen inland stopping ground. Arthur retains same inactive wrapped Maul hilt, survey and unopened Daniel110 purse. Chris informs Daynah of actual Mahnah road-marker theft attempt; Daynah cues release/restores stone. No new growth/form/loot retained;51 inform promise followed once, not permanent cure.",
+    "Starkiller": "TFU1 darkending same pin, alone onquay then leaves along harbor lane beyondshed; exact next sleeping location not shown. Finds submarine advanced but not space-capable. Takes/releases Clifford cheap helmet and boarding plank telekinetically, no saber activation/choke/newability/ship lift. Keeps same torn coast chart; no transport obtained. Learns DrEvil past source-world spacecraft commissioning, current mechanic only maintains present vessel. Bounded tomorrow shore discussion selected, no starship promised/built, builder/prototype coordinates not conjured.",
+    "Clifford": "Walks independently maskedbychoice, sourcecheapVaderresemblance attracts actualGalen inquiry. Releases fastenings before Forcepull; helmet crossesgaptoGalen, setquay, Cliffordretrievesphysicallyacrossplank. Allactualface/tattoo/neckremain. NoVaderidentity/noForcepowers/newmedicaldamage. Saber staysunactivatedonbelt. ArticulatesownChris/ArthurtraumawhenBrianproposesKazegrievance; no impliedGalenredemptionorabsolveddanger.",
+    "TPP": "Crew follows52 report-before-offer, Galen neverboards. DrEvilvainboastaboutsource-worldspacecraftcausescoerciveliftingofplank; crewclear, plankreturnedusable. Mechaniccrossesshoreforchartdiscussionandreturns. Dutchnearlyreachesrevolverthenchoosesnofirebecausecrew/Cliffordriskandseenpower; grief/angeragainstthreeboyskillerpersists, no apology/forgiveness/alliance. DutchpressesDoctorforrealcrewchoice. Tomorrow technical discussion ashore agreed withoutguarantee, no employment/bodyguard/invitationaboard/payment. Mechanicsetsownscope andDoctorexplicitlyacceptslimitedassessment.",
+    "Brian": "Stilladult24inches. Samejournal/miniaturechairandrealriser. Grievanceopportunismmomentarilyoverridesown52 dependencyadvice; triesofferKazeinformation, Galenrefusesmutualinterest/employment. No detailsbeyondBrianformerSin/KazekilledhimandCliffordChris/Arthurharmdisclosed. Doctorbendsforactualshouldercontact/recallsvalidadvice, usescalculatedattention. BrianwritesKAZEhardandvaluesadvicebeingremembered. NoinstantMiniMeacceptance/majorreversal/genuineDoctoraffection motive.",
+    "actor_knowledge": "GalenlearnsDrEvilname/TPPname/Brianfounder, BrianformerSinKazegrievance andCliffordclaims; TPPlearnsStarkillername andhemetKazetoday, andVaderresemblanceprovokeshim, notfull52privateconversation. NoautomaticwhereaboutsSins/BELLY/Xwing/R2/missionmemories. Kaze/Chris/Billynotautomaticallyreceiveprivate54harbordialogue;narratorpermissionunchanged/no newhearer. DoctoralreadyknowsCliffordisJack, notreplayedfirstreveal/gift.",
+    "other_threads": "53foremanrefuge/helpwithdrawalandSwainpublic-information/paymasterorderspersist. Capitalordersnotinstantlyreachharbororquarry. Orrahiddenplateunresolved. Frylock/Shake/Meatwad/Charlesremainaliveinside; theirfuturefatality/exitsnotrushed. KekeDanielandotherdeadremain; romanceOFF/Briaroff/Teemoerased/ZidnotSin."
+  },
+  "resources": {
+    "common_silver": 2111,
+    "Kaze_personal_silver": 0,
+    "Daniel_purse_unopened": 110,
+    "Daniel_purse_custodian": "Arthur",
+    "TPP_old_purse": 54,
+    "TPP_separate_business_receipt": 5,
+    "E31_chests": "Both unopened/uncounted",
+    "Maul_hilt": "Kaze returns same wrapped inactive hilt to Arthur at reunion; Arthur holds at end.",
+    "Arthur_survey": "Arthur retains same torn local map",
+    "new_silver_income_or_spending": 0,
+    "shots": 0,
+    "lightsaber_activations": 0,
+    "new_deaths": 0,
+    "cross": "CHAPEL replica damaged/recovered and left there. ORIGINAL crucifix and crown briefly loaned for Ansel examination, physically returned to protected storage, still Chris-owned. Original nails stay Billy-owned and uninspected.",
+    "vehicle_and_R2": "No deployment, fuel creation or droid relocation.",
+    "new_gifts": 0,
+    "minor_physical_contact": "Kaze shoulders past foreman into wall, foreman keeps feet/alive; no quantified lasting injury.",
+    "consumption": "Existing finite camp food; Billy consumes portion left by Chris. Existing already-open Pepsi passed Frylock→admission→Charles→Chris→besideFrylock, no duplicate bottle. Untouched candy retained Meatwad. No bankroll/rental payment.",
+    "new_policy": "Information reward amount unestablished and unpaid. No actual employer transaction or payout. New capital notification not yet universally arrived.",
+    "temporary_custody": "CliffordhelmetGalen→quay→Clifford; singleboardingplanktemporarilylifted/replaced; Galenretainschart.",
+    "new_commitment": "Tomorrow shore discussion only, not completed build/contract/employment/payment."
+  },
+  "review": {
+    "first_whole_read": "Complete2904word54draft reopened in two untruncated chunks.",
+    "repairs": [
+      "Develop chart encounter/requirements and mechanic's own willingness so next-dayassessment is meaningful without free spacecraft or expertupgrade.",
+      "Add actual name/company/founder exchange, not assumed shared knowledge.",
+      "MakeDoctorbendbeforetouching24inchBrian'sshoulder.",
+      "Replace staleplankwait/repeatedtomorrow wording afterexpandedshoreinspection; keepactualcrossings/helmreturnclear."
+    ],
+    "complete_final_read": "Wholefinalcombined7526wordfeature reopened in four consecutive untruncated chunks, including entire54body afterlastprosepatch. No laterproseedits.",
+    "weakest_span": "Initialtransportconversationriskedemptyfailure. Nowrealchart/directwitnessgrief, boundedproposal, firsttechnicallead, personnelconsent, Doctor/Brianrecognitionandnarrownext-daycommitmentchangeactualoptions; no miraclebuild.",
+    "checks": {
+      "fidelity": "PASS editorial: sourcedTFU1postreconstruction/preDLC; ruthlesscoercionandautonomyneed, notloyallyrecruitedhero. DrEvilboast/source-worldrockettravelwithinfullowner resourceboundaries; Dutchagencyandunintendedfanenabling.",
+      "mechanics": "PASS editorial: TKsmallobjectswithphysicalpositions, helmetunfastened/retrieved, plankclear/returned, noforceproofclifford or inventedflight/counters; Briangeometryfixed.",
+      "knowledge": "PASS editorial: names/proposalsactuallysaid, nocutawayinformationautomaticallygivenSins,54doesnotreplayKaze'sfirstmeeting.",
+      "runtime": "3768words/assumed150wpm=25.12minutes; noaudio."
+    }
+  },
+  "next_episode": 55,
+  "episode55_authorized": false
+}
