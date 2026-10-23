@@ -1662,5 +1662,76 @@
     "guard": "Actual58 unchanged;59 unwritten; all prior selections retained; old59–94schedule provisional and needs Brian resequencing",
     "drive_id": "1Wf9CTjECEQvbfzjpoywWv_ma6liJnDk1"
   },
-  "proposed_episode_chronology_revision_needed": "Brian departure/new desert arc changes later TPP placements and Dr Evil long con; preserve selected events, resequence before PLAY. Easter identity and placement open."
+  "proposed_episode_chronology_revision_needed": "R5 proposed movement revision saved; author choices for Easter identity, one-theft linkage, exact placement and travel remain open. No59 manuscript.",
+  "proposed_episode_chronology_status": "HISTORICAL_R3_PLACEMENTS; retained verbatim; use proposed_chronology_R5 and its complete owner for current scheduling recommendations",
+  "proposed_chronology_R5": {
+    "change_id": "S7NS_BRIAN_DEPARTURE_CHRONOLOGY_R5_20261023",
+    "owner": "continuity/author/S7NS_Brian_Departure_Chronology_Review_R5_20261023.md",
+    "status": "PROPOSED_CONNECTIONS_AND_PLACEMENTS_NOT_AUTHOR_APPROVED",
+    "delivered_endpoint": 58,
+    "next_episode": 59,
+    "play_authorized": false,
+    "movements": [
+      {
+        "order": 1,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Next, from 59",
+        "Sins_and_world": "Daniel's sincere farewell; a new chosen criminal objective carries the inland consequences forward.",
+        "TPP_and_Brian": "Begin the changed submarine circumstances without repeating old reveals.",
+        "dependency_and_status": "Farewell is selected future. Particular crime and placement remain proposed."
+      },
+      {
+        "order": 2,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Before Brian leaves",
+        "Sins_and_world": "GGA practice can affect the same theft, intimidation or escape; Dana initiates as well as reacts.",
+        "TPP_and_Brian": "Brian finds the memorized/discarded research. Quiet-payment music scene; Evil begins sustained apparent investment. Shake chooses to return and physically travels.",
+        "dependency_and_status": "Underlying scenes selected; their combination and exact order proposed."
+      },
+      {
+        "order": 3,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Still before departure",
+        "Sins_and_world": "Tai Lung's selected winning-fight/humiliating-presentation scene can intersect a real paid event. Shang/Baldur can begin separately.",
+        "TPP_and_Brian": "Useful TPP crime leads to Dutch's crash. Clifford rescues him; Brian fusses over the LEFT-cheek portrait. Dutch's chart-painting then changes actual work.",
+        "dependency_and_status": "Move the crash ahead of departure. Brian's precise event job is optional; do not retain him for later bookings by inertia."
+      },
+      {
+        "order": 4,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Departure hinge",
+        "Sins_and_world": "Sins continue their own objective; they do not receive secret remote news.",
+        "TPP_and_Brian": "Shake's excellent freestyle, Brian's involuntary applause, genuine collaboration offer, rejected opportunity, jealous rationalization, saber theft, deliberate murder, then departure with the weapon. Jack's comfort remains sincere.",
+        "dependency_and_status": "All listed major events selected. One-theft linkage and immediate exit timing proposed."
+      },
+      {
+        "order": 5,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Separated routes",
+        "Sins_and_world": "Shang/Baldur consequences can advance Kratos/Mimir's existing inquiry through a real report. The selected Brian/Mimir encounter moves to the first credible meeting along Brian's independent route.",
+        "TPP_and_Brian": "Brian locates Starkiller through evidence and asks for mentorship. Refusal. Material travel follows; desert collapse, Tusken discovery, waking mid-thrust before Jabba/Jar Jar.",
+        "dependency_and_status": "Mentorship refusal and desert sequence selected. Location, access, source snapshots and travel construction proposed."
+      },
+      {
+        "order": 6,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Continuing season",
+        "Sins_and_world": "Magneto; Heisenberg/Jesse; Matt/47; vehicle/homeward interests; Riddick/exterior Vecna; Bilgewater/sea; Ionian/Darkin/horror strands retain their source gates and independent motives.",
+        "TPP_and_Brian": "Clifford can act on the missing saber; Dutch's altered behavior changes TPP; Evil's plan adapts only through acquired information. Jack advances through RDR2, then RDR1 over actual time.",
+        "dependency_and_status": "Retained opportunities, not compulsory attendance or automatic outcomes. Existing Shang/Riddick fatal selections remain open in exact execution."
+      },
+      {
+        "order": 7,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Later earned intersections",
+        "Sins_and_world": "Noxian consequences and major source-gated developments resolve when actual access supports them. Easter can sit where Chris has a credible opportunity to prepare the hunt.",
+        "TPP_and_Brian": "Evil's sustained calculated reversal eventually targets a specific expectation Brian has genuinely invested in.",
+        "dependency_and_status": "No fixed 94-episode ending. Easter identity unselected. No arbitrary return to submarine or instant campaign completion."
+      }
+    ],
+    "egg_identity": "OPEN; JESUS_RECOMMENDED_NOT_SELECTED",
+    "key_dependency": "Dutch crash and Brian portrait fuss precede Brian departure; proposed one theft joins Shake murder to departure; Evil con retained without fixed91 payoff",
+    "preservation": "Prior selected events, actual manuscripts, character owners, full registers and prior proposed chronology preserved"
+  },
+  "latest_work_development_owner": "continuity/author/S7NS_Brian_Departure_Chronology_Review_R5_20261023.md"
 }
