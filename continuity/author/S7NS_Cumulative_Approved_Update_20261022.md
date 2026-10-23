@@ -1,3 +1,7 @@
+LATEST SCOPED APPROVAL — S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022 /22 October2026 Pacific/Honolulu
+Controlling owner: continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md
+Current Brian is24in/2ft tall, remembers original5ft10 and former Sin/offscreen Kaze death/head-at-Daynah-hip/shoulder/Tracy42 body history. All five preceding comedy suggestions now approved, alongside Daynah's genuine accidental walking contact/apology: anticipatory sidestep, grand grievance titles, feedback restrictions, DrEvil denial trap, real Brian riser/useful-work success plus ambiguous praise. Notebook already visible in actual50. Five new proposals P1-P5 are only proposed. Existing sole-motive DrEvil long con, false Clifford fandom, distinct Dutch motives and current bodies remain. E51 playback paused; no scene/day advanced. Complete prior cumulative owner follows as dated evidence; scoped old numeric-height and superseded-plan headings cannot override this or newer exact episode evidence.
+
 # S7NS cumulative approved update — 22 October 2026
 
 Release: S7NS_CUMULATIVE_REPLACEMENT_PATCH_20261022.
