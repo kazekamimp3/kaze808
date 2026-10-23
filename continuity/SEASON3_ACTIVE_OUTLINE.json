@@ -41,7 +41,7 @@
     "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists.",
     "knowledge_correction_from_delivered51": "Kaze, Chris and Billy heard Wade identify Tai Lung as Daniel's killer in51; Kaze relayed it to Arthur/Daynah. Current location remains unknown. Daniel's returned knowledge not automatically identical. This corrects an initial outline error, not a new revelation."
   },
-  "latest_direct_author_scope": "continuity/author/S7NS_Brian_Shake_Dutch_GGA_R2_20261023.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_Chronology_Approvals_Review_R3_20261023.md",
   "reader_outline": "continuity/S7NS_Season3_Revised_Outline_20261023.md",
   "archive": {
     "path": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json",
@@ -1391,5 +1391,258 @@
     ],
     "guard": "Actual58 unchanged; Shake alive; Jack has not completed campaigns. Stage travel, gameplay access, saber custody and discoveries. Daniel's selected farewell and prior six approvals retained; Dr Evil calculated long-con persists.",
     "drive_id": "1ON6LCMyGLWyEe9JuGveBQfvbMuXCvvO_"
-  }
+  },
+  "latest_chronology_approval_review": {
+    "change_id": "S7NS_CHRONOLOGY_APPROVALS_REVIEW_R3_20261023",
+    "authority": "continuity/author/S7NS_Chronology_Approvals_Review_R3_20261023.md",
+    "approved_latest_chat_improvements": [
+      {
+        "id": 1,
+        "selection": "Jack's refuge gradually becomes investigation; a later quiet request to be left alone can signal changed investment."
+      },
+      {
+        "id": 2,
+        "selection": "Virtual Arthur and actual Arthur remain emotionally distinct; actual Arthur can mistakenly assume gameplay improved their relationship before learning what Jack discovered."
+      },
+      {
+        "id": 3,
+        "selection": "Brian involuntarily applauds/enjoys Shake's excellent freestyle, then jealousy catches up as Shake continues without the notebook."
+      },
+      {
+        "id": 4,
+        "selection": "Shake offers real collaboration; Brian rejects an actual opportunity because superiority matters more than partnership."
+      },
+      {
+        "id": 5,
+        "selection": "Brian treats discarded game research as a walkthrough for living people; some useful knowledge works, then ego corrupts application."
+      },
+      {
+        "id": 6,
+        "selection": "Dutch's Tahiti/Bob Ross fixation transforms a usable chart into a painting, creates an argument with Clifford and alters an operation."
+      }
+    ],
+    "new_chronology_status": "PROPOSED_WORKING_PLACEMENTS_59_TO_94; NOT_APPROVED_SEASON_LENGTH; SOURCE_GATED_ROWS_MAY_MOVE",
+    "new_brainstorm_status": "FOUR_NEW_EVENTS_PROPOSED_NOT_APPROVED",
+    "analysis_scope": "Prior verified coverage: full22,26,49; nearly all revised36–38 with a displayed late-transition gap; opening/middle/ending or substantial scenes across21,23–25,27–35,41–48;39–40 discovery ending; source-backed original opening-duel and Billy history, not complete current1–18 manuscripts. This turn adds COMPLETE revised45 and COMPLETE47, 3,782 and3,770 whitespace words respectively, no output truncation. Recent50–58 have creation/revision records, author feedback and targeted passage review; this document does not assert a fresh full line-by-line comparative audit of all nine. Earlier searches did not establish the full current1–18 standalone manuscript set. No exhaustive all58-script claim or complete-as-possible claim. Further full-manuscript comparisons remain possible.",
+    "guard": "Actual58 unchanged;59 unwritten;PLAY held;R2 author selections and earlier six crossover approvals retained.",
+    "drive_id": "1wC7Qd429OQiGEqLGyMMJORGBRuvYj0s3"
+  },
+  "proposed_episode_chronology": [
+    {
+      "episode": 59,
+      "focus": "Family, then business",
+      "description": "Daniel’s sincere farewell. The Sins inspect usable loot and choose an arms-auction theft; GGA begins as family downtime. Shake decides to return to the submarine.",
+      "status_note": "Existing farewell selected; arms-auction target and placement proposed."
+    },
+    {
+      "episode": 60,
+      "focus": "A successful crime becomes a worse problem",
+      "description": "The theft pays off; GGA meets an outsider and Kaze’s unnecessary cruelty changes the escape. TPP earns the approved payment to leave rather than let Brian perform.",
+      "status_note": "Core operation/violence-comedy direction and Brian quiet-payment scene selected; precise construction proposed."
+    },
+    {
+      "episode": 61,
+      "focus": "Discarded expertise",
+      "description": "Brian retrieves Dr. Evil’s discarded game research. Shake returns through shown travel; Jack chooses affectionate VR fishing. The Sins obtain a public, credible lead toward Tai Lung’s current activity.",
+      "status_note": "Underlying Brian/Shake/Jack selections approved; placement and lead proposed."
+    },
+    {
+      "episode": 62,
+      "focus": "The wrong kind of breakthrough",
+      "description": "Shake’s genuinely excellent freestyle wins Brian’s involuntary applause, then destroys his ego. Brian refuses collaboration, invents disrespect, steals the saber during Jack’s refuge and kills Shake alone.",
+      "status_note": "Author-selected events plus newly approved improvements3–4; exact scene construction unwritten."
+    },
+    {
+      "episode": 63,
+      "focus": "Dutch takes the wheel",
+      "description": "TPP secures a real gain; Dutch’s command decision contributes to the launch wreck. Clifford gets them out. Dutch’s contradictory orders start the Tahiti/Bob Ross escalation.",
+      "status_note": "Crash construction selected; placement proposed."
+    },
+    {
+      "episode": 64,
+      "focus": "Winning the fight, losing the event",
+      "description": "Tai Lung receives insulting public promotion despite demonstrating genuine mastery. Brian’s presentation work, the Sins’ actual objective and Tai Lung’s anger collide violently.",
+      "status_note": "Earlier approved Tai Lung presentation scene; placement proposed."
+    },
+    {
+      "episode": 65,
+      "focus": "A service worth trying",
+      "description": "Shang establishes a real limited benefit before offering Baldur relief. Brian misuses his research on a Dutch now treating a chart like a Tahiti painting.",
+      "status_note": "Shang/Baldur and Dutch map behavior selected; causal connection and placement proposed."
+    },
+    {
+      "episode": 66,
+      "focus": "The customer is still numb",
+      "description": "The approved Baldur demonstration becomes destructive; Shang tries to rebrand the failure. A reachable report advances Kratos and Mimir’s existing investigation.",
+      "status_note": "Approved demonstration; report route and placement proposed."
+    },
+    {
+      "episode": 67,
+      "focus": "The bargain has teeth",
+      "description": "Shang’s predation reaches a consequential confrontation and his selected compact fatal arc resolves. The Sins pursue an actual gain while affected people choose their own responses.",
+      "status_note": "Prior compact fatal-arc selection retained; means/killer and placement open."
+    },
+    {
+      "episode": 68,
+      "focus": "A better-qualified head",
+      "description": "A motivated Kratos/Mimir reunion makes the approved Brian career comparison possible. Dr. Evil begins sustained apparent mentorship; Jack’s game refuge starts producing questions.",
+      "status_note": "Brian/Mimir scene and Jack investigator direction selected; mentor pacing and placement proposed."
+    },
+    {
+      "episode": 69,
+      "focus": "Useful people are being priced",
+      "description": "Magneto acts for specific people facing coercive terms. A concrete supply or worker connection points toward Zaun; Noxian policy has a visible local effect.",
+      "status_note": "Existing refugee/motive strands retained; specific causal link and placement proposed."
+    },
+    {
+      "episode": 70,
+      "focus": "Heisenberg already owns something they want",
+      "description": "The Sins’ chosen target intersects Heisenberg’s existing empire. Jesse makes an independent practical choice; no new business-origin recap.",
+      "status_note": "Existing empire/agency retained; operation and placement proposed."
+    },
+    {
+      "episode": 71,
+      "focus": "Three different jobs",
+      "description": "Matt’s protection/evidence objective and 47’s bounded contract collide with the Sins’ possession of something valuable. The resulting violence changes custody or access.",
+      "status_note": "Retained independent motives; exact commission/confrontation proposed."
+    },
+    {
+      "episode": 72,
+      "focus": "The city remembers",
+      "description": "Piltover/Zaun relationships and surviving consequences change a deal the Sins want. TPP’s success gives Brian more confidence in borrowed expertise.",
+      "status_note": "Existing regional register controls who is alive/present; placement and specific encounter proposed."
+    },
+    {
+      "episode": 73,
+      "focus": "The right spacecraft, the wrong owner",
+      "description": "Starkiller reaches Chris’s vehicle through a real lead. The approved encounter resolves a bargain, refusal or attempt with a material result.",
+      "status_note": "Earlier approved vehicle scene; capability check and outcome open."
+    },
+    {
+      "episode": 74,
+      "focus": "Different meanings of home",
+      "description": "Thor pursues the same credible technical resource for his own reasons; Kratos/Mimir complicate that goal. Rick/Morty and Billy’s selected engineering event fit here only if actual access and prerequisites support them.",
+      "status_note": "Retained motives and existing evolution selection; intersection and placement proposed."
+    },
+    {
+      "episode": 75,
+      "focus": "An escape with commentary",
+      "description": "Riddick’s freedom objective intersects the gang’s crime. Billy mistakes silence for attention during the approved violent escape sequence.",
+      "status_note": "Earlier approved scene; exact work site/access proposed."
+    },
+    {
+      "episode": 76,
+      "focus": "Freedom has a price",
+      "description": "Riddick makes consequential independent choices; his separately selected compact fatal development reaches its proper confrontation. Exterior Vecna evidence changes the gang’s next objective.",
+      "status_note": "Fatal development retained; death mechanism, timing and Vecna connection remain construction decisions."
+    },
+    {
+      "episode": 77,
+      "focus": "A horror problem they cannot talk over",
+      "description": "The exterior Vecna arc receives a substantial operation with real fear, grotesque consequences and decisive violence. Billy’s protected interior is preserved.",
+      "status_note": "Existing exterior arc retained; placement and operation proposed."
+    },
+    {
+      "episode": 78,
+      "focus": "Bilgewater’s useful liars",
+      "description": "A valuable criminal deal brings Arthur into Graves and Twisted Fate’s interests. Maritime pressure supplies a reason for further local involvement.",
+      "status_note": "Retained Arthur encounters; actual deal/travel/placement proposed."
+    },
+    {
+      "episode": 79,
+      "focus": "Everyone has a different exit",
+      "description": "Arthur’s Graves/Twisted Fate conflict pays off through distinct tactics and double-dealing; the other Sins act on the same operation’s changing needs.",
+      "status_note": "Selected encounter slots retained; outcome and exact battle structure open."
+    },
+    {
+      "episode": 80,
+      "focus": "A port worth fighting over",
+      "description": "Miss Fortune and Gangplank’s opposed interests affect the desired prize or route. Arthur’s retained encounters form part of an actual territorial problem.",
+      "status_note": "Source-valid local objectives and living status required; placement proposed."
+    },
+    {
+      "episode": 81,
+      "focus": "The prize changes hands",
+      "description": "The port conflict has a decisive result. Billy’s Nautilus strand enters through a relevant salvage, obstruction or grievance rather than a random challenger.",
+      "status_note": "Retained Billy/Arthur slots; specific incident and placement proposed."
+    },
+    {
+      "episode": 82,
+      "focus": "A name on somebody else’s list",
+      "description": "Pyke’s independent target brings danger into an already consequential sea operation. The gang’s own reasons to interfere stay distinct.",
+      "status_note": "Retained Pyke encounter; no automatic list membership or guaranteed kill; placement proposed."
+    },
+    {
+      "episode": 83,
+      "focus": "An offer the sea will not honor",
+      "description": "Nami and Illaoi’s distinct goals intersect the gang’s desire; Billy’s retained confrontations are staged without assigning them identical motives or granting automatic powers.",
+      "status_note": "Selected encounter slots retained; one episode may expand if needed; placement provisional."
+    },
+    {
+      "episode": 84,
+      "focus": "Two hosts, incompatible appetites",
+      "description": "Billy and Tahm Kench’s retained encounter makes hospitality, appetite and bargaining dangerous. Other Sins’ choices matter to the result.",
+      "status_note": "Selected encounter retained; no invented universal contract terms or guaranteed outcome."
+    },
+    {
+      "episode": 85,
+      "focus": "The serpent has its own plans",
+      "description": "Yormungander’s physical presence and actual relationships change the route. Thor/Mimir’s interests differ from Billy’s hatred; no compulsory monster alliance.",
+      "status_note": "Existing single-serpent strand retained; encounter/placement proposed."
+    },
+    {
+      "episode": 86,
+      "focus": "Someone refuses the performance",
+      "description": "A real Ionian objective produces Kaze’s retained Yone confrontation; local priorities and GGA resist the gang’s usual social control.",
+      "status_note": "Selected opportunity retained; source prerequisites, travel and outcome open."
+    },
+    {
+      "episode": 87,
+      "focus": "Three wills in one conflict",
+      "description": "Kayn, Rhaast and Kaze want incompatible things. Their selected confrontation develops from a concrete objective, with independent host/weapon agency.",
+      "status_note": "Selected opportunity retained; no automatic transfer, acquisition or victory."
+    },
+    {
+      "episode": 88,
+      "focus": "The sealed opportunity",
+      "description": "Zaahen’s selected encounter receives its own substantial place only after legitimate identity/body/access conditions are met.",
+      "status_note": "Conditional selected opportunity retained; no invented awakening merely to meet schedule."
+    },
+    {
+      "episode": 89,
+      "focus": "Fear earns the silence",
+      "description": "Fiddlesticks’ retained confrontation is a real horror movement with consequences; comedy surrounds actual decisions instead of continuously interrupting fear.",
+      "status_note": "Selected opportunity retained; source-valid location/access and placement open."
+    },
+    {
+      "episode": 90,
+      "focus": "Back to the consequences",
+      "description": "Return toward Noxus for a gain the gang actively wants. Earlier crimes, damaged routes, deals and surviving opposition shape the approach.",
+      "status_note": "Existing final-operation direction retained; exact prize and return route proposed."
+    },
+    {
+      "episode": 91,
+      "focus": "The patron and the artist",
+      "description": "Dr. Evil’s developed apparent investment in Brian reaches the selected ultimate reversal of Brian’s specific expectation. Brian’s rejection of Shake gives it continuity.",
+      "status_note": "Ultimate calculated reversal selected; exact promise, betrayal and placement remain unwritten."
+    },
+    {
+      "episode": 92,
+      "focus": "Open the right door",
+      "description": "An earned major Noxian operation reaches the legitimate conditions for Mordekaiser’s retained opportunity, if satisfied. Native factions act for separate reasons.",
+      "status_note": "Hard-gated selection retained; no automatic release, summons or finale attendance."
+    },
+    {
+      "episode": 93,
+      "focus": "The operation, not the attendance list",
+      "description": "The main confrontation resolves through extraordinary competence and consequences of earlier choices. Use only actors with actual stakes and access.",
+      "status_note": "Existing decisive finale direction retained; numbered placement, fight outcome and scale proposed."
+    },
+    {
+      "episode": 94,
+      "focus": "What they keep",
+      "description": "The operation ends with persistent gains, losses and an earned absurd consequence. Jack’s completed RDR2-then-RDR1 progression affects an actual choice by the time the campaign arc concludes.",
+      "status_note": "Working endpoint only; not approved season length. Completion must follow real play/time and can move without compressing it."
+    }
+  ]
 }
