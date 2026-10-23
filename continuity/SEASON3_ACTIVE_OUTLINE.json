@@ -1760,7 +1760,8 @@
     "desert_JarJar_poster_episode": 64,
     "all_R6_substance_retained": true,
     "episode61_repair": "Operation setup in60; fight/presentation/escape/crash one sequence61; chart consequences62",
-    "drafts_to_revise": [
+    "drafts_to_revise": [],
+    "historical_drafts_requiring_revision": [
       {
         "episode_span": [
           60,
@@ -1785,6 +1786,87 @@
         "status": "PRESERVED_R6_DRAFT_R7_REVISION_REQUIRED_BEFORE_DELIVERY",
         "reason": "Old crash62/chart63; Shake alive and saber retained through63; incompatible with selected murder62 and rap/Easter63. No manuscript rewrite in this update."
       }
+    ],
+    "revised_draft_pairs": [
+      {
+        "episode_span": [
+          60,
+          61
+        ],
+        "title": "Customer Service",
+        "status": "REVISED_DRAFT_REVIEWED_NOT_PLAYED",
+        "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023.txt",
+        "manuscript_sha256": "d417bd2d56b4ccbc52ecab49df4d8c6453b47cdebc27912a2c35e4724d98d1f2",
+        "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023_Checkpoint.json",
+        "drive_manuscript_id": "1i49sbTKgP3xtxEFcL1FDm6sdCRCUIUxP",
+        "drive_checkpoint_id": "1MG9o7EOrKSY2f90AGinKAfAV_NQAup0A",
+        "played": false,
+        "author_acceptance": "NOT_ASSERTED",
+        "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md"
+      },
+      {
+        "episode_span": [
+          62,
+          63
+        ],
+        "title": "A Better Picture",
+        "status": "REVISED_DRAFT_REVIEWED_NOT_PLAYED",
+        "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+        "manuscript_sha256": "f6b0a1b4d5234c1d15f260eca7be622fcebb7f962b1de5a74cd888a9bc304ea7",
+        "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
+        "drive_manuscript_id": "1LYxv6-kjaDo4FYQAWhDKdRTE7Qp8rKjS",
+        "drive_checkpoint_id": "1Sk7FUeovMzPnCCqoNUpigZKOpY1ykiaF",
+        "played": false,
+        "author_acceptance": "NOT_ASSERTED",
+        "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md"
+      }
     ]
+  },
+  "draft_execution_projection_R7": {
+    "change_id": "S7NS_E60_E63_DRAFT_REBUILD_R7_20261023",
+    "status": "DRAFTED_NOT_ENACTED",
+    "pairs": [
+      {
+        "episode_span": [
+          60,
+          61
+        ],
+        "title": "Customer Service",
+        "status": "REVISED_DRAFT_REVIEWED_NOT_PLAYED",
+        "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023.txt",
+        "manuscript_sha256": "d417bd2d56b4ccbc52ecab49df4d8c6453b47cdebc27912a2c35e4724d98d1f2",
+        "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023_Checkpoint.json",
+        "drive_manuscript_id": "1i49sbTKgP3xtxEFcL1FDm6sdCRCUIUxP",
+        "drive_checkpoint_id": "1MG9o7EOrKSY2f90AGinKAfAV_NQAup0A",
+        "played": false,
+        "author_acceptance": "NOT_ASSERTED",
+        "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md"
+      },
+      {
+        "episode_span": [
+          62,
+          63
+        ],
+        "title": "A Better Picture",
+        "status": "REVISED_DRAFT_REVIEWED_NOT_PLAYED",
+        "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+        "manuscript_sha256": "f6b0a1b4d5234c1d15f260eca7be622fcebb7f962b1de5a74cd888a9bc304ea7",
+        "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
+        "drive_manuscript_id": "1LYxv6-kjaDo4FYQAWhDKdRTE7Qp8rKjS",
+        "drive_checkpoint_id": "1Sk7FUeovMzPnCCqoNUpigZKOpY1ykiaF",
+        "played": false,
+        "author_acceptance": "NOT_ASSERTED",
+        "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md"
+      }
+    ],
+    "episode_boundaries": {
+      "60": "robbery/GGA and linked operation setup; money wagon escapes; Noll fatal final payoff; research starts",
+      "61": "physical convergence/Shake return/headset; Tai Lung wins; presentation disaster; theft/escape/crash/rescue/LEFT cheek",
+      "62": "chart/tower continuation, excellent Shake performance, jealousy/offer/rejection, one saber theft during safe fishing, deliberate murder/departure; evidence ashore",
+      "63": "earned crossing/full rap/specific feedback/autograph/X-wing extraction/extra shove; complete Easter resurrection/denial/hoarding/rant/hunt"
+    },
+    "future_guard": "All candidate events future until actual PLAY.64 opens Brian walking; collapse/discovery/mid-thrust wake/Jabba/JarJar/poster remain future.",
+    "props": "Same saber Brian; journal signed; cross/crown Chris; original console/headset insideBilly; no reincarnated Shake",
+    "later_movements": "Retained unchanged; no fixed season length"
   }
 }

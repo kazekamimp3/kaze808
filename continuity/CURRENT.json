@@ -297,7 +297,7 @@
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-  "current_prepared_episode_count": 0,
+  "current_prepared_episode_count": 4,
   "current_prepared_drive_id": "1rqxEn8UYi0INi1j-BvfYTr4lOYKT9V2h",
   "current_prepared_full_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
   "authorial_fidelity_v1_1": {
@@ -1390,7 +1390,7 @@
     "detailed_construction": "PROPOSED"
   },
   "work_receipt": "continuity/work/S7NS_Cumulative_Replacement_Patch_Resume_20261022.json",
-  "current_prepared_episode_count_note": "No R7-compatible ready-to-deliver manuscript verified; R6 drafts preserved with revision guard.",
+  "current_prepared_episode_count_note": "Four R7 revised draft units60–63, two pairs; not sent/played, not author accepted. No change to actual59.",
   "latest_relationship_TTS_application": {
     "change_id": "S7NS_POST_E50_TTS_FACTION_BEEF_BRIAN_REBALANCE_20261021",
     "owner": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md",
@@ -2341,20 +2341,15 @@
         61
       ],
       "title": "Customer Service",
-      "status": "PRESERVED_R6_DRAFT_R7_REVISION_REQUIRED_BEFORE_DELIVERY",
-      "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023.txt",
-      "manuscript_sha256": "530dd2c24a7da5f26566f049ddabcdc0ef50674897f75a68cfdef357d5a79d04",
-      "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023_Checkpoint.json",
-      "drive_manuscript_id": "19FwW5sLC_-Ld8BqdCEQrJpZx4BR7_Fhy",
-      "drive_checkpoint_id": "12CmwEtviJpcxRgujZ_-VDBtGHZfhAxfk",
-      "airtable_record_ids": [
-        "rec8cj5veGRSW2owr",
-        "recATksnDNbPYkMZz"
-      ],
-      "author_acceptance": "NOT_ASSERTED",
+      "status": "REVISED_DRAFT_REVIEWED_NOT_PLAYED",
+      "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023.txt",
+      "manuscript_sha256": "d417bd2d56b4ccbc52ecab49df4d8c6453b47cdebc27912a2c35e4724d98d1f2",
+      "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023_Checkpoint.json",
+      "drive_manuscript_id": "1i49sbTKgP3xtxEFcL1FDm6sdCRCUIUxP",
+      "drive_checkpoint_id": "1MG9o7EOrKSY2f90AGinKAfAV_NQAup0A",
       "played": false,
-      "pre_R7_status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED",
-      "revision_owner": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md"
+      "author_acceptance": "NOT_ASSERTED",
+      "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md"
     },
     {
       "episode_span": [
@@ -2362,20 +2357,15 @@
         63
       ],
       "title": "A Better Picture",
-      "status": "PRESERVED_R6_DRAFT_R7_REVISION_REQUIRED_BEFORE_DELIVERY",
-      "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023.txt",
-      "manuscript_sha256": "364b836e2e3773acd41c369db7c9dcdd6684a62945ea25c2a2e85bc4c2ed5fa7",
-      "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023_Checkpoint.json",
-      "drive_manuscript_id": "1hyMc1-qr7kWc5_IuLWIFe2YIVk5gLozN",
-      "drive_checkpoint_id": "1zJVsgymkqNEgwF5Fj7PHMACPI2_-_m1v",
-      "airtable_record_ids": [
-        "recdbgNozZ73lMUrX",
-        "recAByyTrxrLjeGyU"
-      ],
-      "author_acceptance": "NOT_ASSERTED",
+      "status": "REVISED_DRAFT_REVIEWED_NOT_PLAYED",
+      "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+      "manuscript_sha256": "f6b0a1b4d5234c1d15f260eca7be622fcebb7f962b1de5a74cd888a9bc304ea7",
+      "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
+      "drive_manuscript_id": "1LYxv6-kjaDo4FYQAWhDKdRTE7Qp8rKjS",
+      "drive_checkpoint_id": "1Sk7FUeovMzPnCCqoNUpigZKOpY1ykiaF",
       "played": false,
-      "pre_R7_status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED",
-      "revision_owner": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md"
+      "author_acceptance": "NOT_ASSERTED",
+      "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md"
     }
   ],
   "pending_draft_pairs": [
@@ -2452,8 +2442,10 @@
       "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023.txt",
       "sha256": "530dd2c24a7da5f26566f049ddabcdc0ef50674897f75a68cfdef357d5a79d04",
       "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023_Checkpoint.json",
-      "status": "PRESERVED_R6_DRAFT_R7_REVISION_REQUIRED_BEFORE_DELIVERY",
-      "reason": "Old crash62/chart63; Shake alive and saber retained through63; incompatible with selected murder62 and rap/Easter63. No manuscript rewrite in this update."
+      "status": "HISTORICAL_R6_DRAFT_SUPERSEDED_BY_REVISED_R7_DRAFT",
+      "reason": "Old crash62/chart63; Shake alive and saber retained through63; incompatible with selected murder62 and rap/Easter63. No manuscript rewrite in this update.",
+      "replacement": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023.txt",
+      "original_preserved": true
     },
     {
       "episode_span": [
@@ -2464,8 +2456,10 @@
       "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023.txt",
       "sha256": "364b836e2e3773acd41c369db7c9dcdd6684a62945ea25c2a2e85bc4c2ed5fa7",
       "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023_Checkpoint.json",
-      "status": "PRESERVED_R6_DRAFT_R7_REVISION_REQUIRED_BEFORE_DELIVERY",
-      "reason": "Old crash62/chart63; Shake alive and saber retained through63; incompatible with selected murder62 and rap/Easter63. No manuscript rewrite in this update."
+      "status": "HISTORICAL_R6_DRAFT_SUPERSEDED_BY_REVISED_R7_DRAFT",
+      "reason": "Old crash62/chart63; Shake alive and saber retained through63; incompatible with selected murder62 and rap/Easter63. No manuscript rewrite in this update.",
+      "replacement": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+      "original_preserved": true
     }
   ],
   "latest_condensed_weave_R7": {
@@ -2562,5 +2556,92 @@
       "basis": "User: generate episode pairs; once fully generated save to draft; user will say when to send. Later extends sequence through69."
     }
   },
-  "next_draft_work_order_R7": "Revise existing60–61 and62–63 for R7 before continuing64–69; preserve original drafts. This turn updates outline/indexes only."
+  "next_draft_work_order_R7": "R7 revisions60–63 now saved; retain them as active draft dependencies. No send/PLAY. Pending64–69 must use revised63 candidate endpoint and selected future sequence, not old R6 draft endpoints.",
+  "pre_draft_rebuild_R7_originals": [
+    {
+      "episode_span": [
+        60,
+        61
+      ],
+      "title": "Customer Service",
+      "status": "PRESERVED_R6_DRAFT_R7_REVISION_REQUIRED_BEFORE_DELIVERY",
+      "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023.txt",
+      "manuscript_sha256": "530dd2c24a7da5f26566f049ddabcdc0ef50674897f75a68cfdef357d5a79d04",
+      "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023_Checkpoint.json",
+      "drive_manuscript_id": "19FwW5sLC_-Ld8BqdCEQrJpZx4BR7_Fhy",
+      "drive_checkpoint_id": "12CmwEtviJpcxRgujZ_-VDBtGHZfhAxfk",
+      "airtable_record_ids": [
+        "rec8cj5veGRSW2owr",
+        "recATksnDNbPYkMZz"
+      ],
+      "author_acceptance": "NOT_ASSERTED",
+      "played": false,
+      "pre_R7_status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED",
+      "revision_owner": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md"
+    },
+    {
+      "episode_span": [
+        62,
+        63
+      ],
+      "title": "A Better Picture",
+      "status": "PRESERVED_R6_DRAFT_R7_REVISION_REQUIRED_BEFORE_DELIVERY",
+      "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023.txt",
+      "manuscript_sha256": "364b836e2e3773acd41c369db7c9dcdd6684a62945ea25c2a2e85bc4c2ed5fa7",
+      "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023_Checkpoint.json",
+      "drive_manuscript_id": "1hyMc1-qr7kWc5_IuLWIFe2YIVk5gLozN",
+      "drive_checkpoint_id": "1zJVsgymkqNEgwF5Fj7PHMACPI2_-_m1v",
+      "airtable_record_ids": [
+        "recdbgNozZ73lMUrX",
+        "recAByyTrxrLjeGyU"
+      ],
+      "author_acceptance": "NOT_ASSERTED",
+      "played": false,
+      "pre_R7_status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED",
+      "revision_owner": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md"
+    }
+  ],
+  "draft_rebuild_R7": {
+    "change_id": "S7NS_E60_E63_DRAFT_REBUILD_R7_20261023",
+    "status": "REVISED_DRAFT_REVIEWED_NOT_PLAYED",
+    "owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md",
+    "actual_delivered_cursor": 59,
+    "prepared_pairs": [
+      {
+        "episode_span": [
+          60,
+          61
+        ],
+        "title": "Customer Service",
+        "status": "REVISED_DRAFT_REVIEWED_NOT_PLAYED",
+        "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023.txt",
+        "manuscript_sha256": "d417bd2d56b4ccbc52ecab49df4d8c6453b47cdebc27912a2c35e4724d98d1f2",
+        "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023_Checkpoint.json",
+        "drive_manuscript_id": "1i49sbTKgP3xtxEFcL1FDm6sdCRCUIUxP",
+        "drive_checkpoint_id": "1MG9o7EOrKSY2f90AGinKAfAV_NQAup0A",
+        "played": false,
+        "author_acceptance": "NOT_ASSERTED",
+        "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md"
+      },
+      {
+        "episode_span": [
+          62,
+          63
+        ],
+        "title": "A Better Picture",
+        "status": "REVISED_DRAFT_REVIEWED_NOT_PLAYED",
+        "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+        "manuscript_sha256": "f6b0a1b4d5234c1d15f260eca7be622fcebb7f962b1de5a74cd888a9bc304ea7",
+        "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
+        "drive_manuscript_id": "1LYxv6-kjaDo4FYQAWhDKdRTE7Qp8rKjS",
+        "drive_checkpoint_id": "1Sk7FUeovMzPnCCqoNUpigZKOpY1ykiaF",
+        "played": false,
+        "author_acceptance": "NOT_ASSERTED",
+        "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md"
+      }
+    ],
+    "outline_alignment": "selected_chronology_R7",
+    "runtime": "Approx23–25 minutes/unit at150wpm; estimates only, below25 target in several units; no measured audio or runtime lock",
+    "all_season_audit": "unfinished"
+  }
 }
