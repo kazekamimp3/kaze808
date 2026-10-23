@@ -1,3 +1,15 @@
+# Latest approval — R3, all five further proposals selected
+
+Change ID: S7NS_BRIAN_ALL_COMEDY_APPROVED_R3_20261022
+Author-local date: 2026-10-22 Pacific/Honolulu.
+Exact latest author: “lock it all in. ready to send the episode with everything we talked about?”
+
+All five proposals P1-P5 in the previous R2 section are now AUTHOR_APPROVED: immediately identifiable anonymous diss; Clifford takes over Brian's feedback session and Dr. Evil's fandom sustains it; Brian's expected anti-Kaze solidarity collides with Dr. Evil/Kaze personal amusement; private journal publicly recited with controlled context; professional-head-life advice for Mimir only at a genuinely reached later Kratos/Mimir encounter. Prior R2 PROPOSED labels below are preserved history and superseded on selection status by THIS latest approval. All earlier approved repertoire, source limits, distinct motives and ordinary successes remain. Examples are editable construction, not mandatory fixed lines or a quota.
+
+This selects future scenes/opportunities, not completed events. The current Episode51 remains the reviewed Sins road/chapel/solo-inquiry episode; Brian/TPP material belongs in next actual meetings/encounters and is not crammed into51. Latest request resumes the previously paused same51 resend. No Episode52 authorized. No WORK story day, new encounter, death, injury, prop or asset is enacted by this approval. Preserve all raw notes and the complete R2 text below. Kaze originates/approves the premises; AI examples remain credited as expansions.
+
+---
+
 # Locked additions and further comedy development — R2
 
 Change ID: S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022
