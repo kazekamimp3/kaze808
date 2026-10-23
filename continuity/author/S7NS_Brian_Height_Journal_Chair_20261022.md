@@ -1,3 +1,68 @@
+# Locked additions and further comedy development — R2
+
+Change ID: S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022
+Author-local date: 2026-10-22 Pacific/Honolulu. WORK only. Episode51 remains paused.
+Latest explicit approval: “lock in all those ideas anything else worth brainstorming? Before you brainstorm, look at all of the shit we have so far and brainstorm.”
+
+## New direct author note preserved
+
+one more thing It should be a recurring gag that Dana does. He genuinely does not see Brian in the way because he's so fucking tall. So he can just, like, be walking and kick. Oh shit, my bad, Brian.
+
+Before I start the episode, is there anything is worth adding to improve all of this comedic, petty shit? I don't know.
+
+## All five preceding assistant suggestions are now AUTHOR_APPROVED
+
+The approval applies to ALL five suggestions, plus Kaze's accidental-Daynah-contact premise, not only the assistant's final two-item recommendation. These are approved recurring repertoire/construction options; they are not already performed events, per-episode quotas or a demand to reproduce every sample verbatim.
+
+1. DAYNAH_ACCIDENTAL_CONTACT: Daynah is so tall that he genuinely misses two-foot Brian in his walking path, catches/kicks him with a step, then sincerely apologizes, along the lines of “Shit. My bad, Brian.” No deliberate bullying or fake apology. Brian can be more offended that the disregard was unintentional. Stage actual proximity and contact; no teleportation, mandatory severe injury, automatic forced transformation or invented invulnerability. The author did request actual accidental contact; do not quietly substitute an entirely contact-free joke.
+2. BRIAN_ANTICIPATES_FOOT: On a later real encounter Brian casually steps aside as Daynah approaches, continues speaking, then realizes the others saw his practiced maneuver. Face-saving sample: “That was positioning. I’m familiar with foot traffic.” Occasional changed payoff, not repeated identical kick entrances.
+3. GRAND_GRIEVANCE_TITLES: Journal complaints get inflated program/track names. Selected example titles: The Suppression of Independent Artists for interruption; Operation: Rise Above for the chair; These Boots Were Made for Oppression for being accidentally kicked. Brian can spend longer explaining a title than performing the bad rap. Titles are original assistant developments now approved; avoid copied song lyrics.
+4. FEEDBACK_RESTRICTIONS: He requests opinions only after excluding everything that might justify a negative one. Original approved construction: “Before I read this, understand it’s deliberately raw.” Critic dislikes it. “Well, you’re reviewing the rawness. I specifically excluded that.” Honest-feedback request becomes an attempt to control the verdict. Responses to the deliberately terrible grievance raps remain rejecting/disappointed.
+5. DREVIL_USES_DENIAL: After Brian insists height does not bother him, Dr. Evil later weaponizes that exact denial against a real access complaint: “You were very clear that your height wasn’t an issue. I respected that.” Brian has to publicly reopen the insecurity. Preserve an actual earlier statement/opportunity, not omniscient knowledge of a private denial.
+6. BRIAN_SOLVES_SOMETHING: The fifth original bullet (listed sixth here because the author premise is item1) grants real practical success. Brian can obtain/use a sensible riser, see comfortably and deliver an actually useful observation; solve access with ordinary available objects, not new height/powers. Dr. Evil's approved ambiguous response: “Excellent. You’re much easier to overlook when you contribute.” Brian must assess whether it was praise. His practical success and useful point remain real; do not sabotage them automatically to manufacture another failure.
+
+The approved thematic application: Brian tries to control descriptions of his life. Résumé: mutilation becomes professional development. Journal: humiliation becomes persecution. Bad raps: irritation becomes an imaginary major battle. He has initiative, countermeasures, competence, other motives and occasional wins. This is characterization, not a diagnosis or compulsory explanation of every action.
+
+## Review of the material already present
+
+Reviewed fresh connected CURRENT/DELIVERY_LEDGER/active outline; full latest Brian author owner and its matching Drive text; existing Airtable Brian record and Notion top index; full cumulative portrayal menu; current TPP relationship author scopes, Dr. Evil's current owner and prior source-voice study in this conversation. Reopened the actual Episode50 TPP passages: seated-sleep exercise and cold-coffee/galley episode, with the notebook visibly already present. The journal can develop that real notebook; no compulsory new acquisition or claim of a first-ever notebook.
+Reused the complete Episode51 R3 whole-draft review from the preceding work; no prose changes or new full reread claimed in this brainstorm. Current local51 R3 has the corrected fart-triggered fourth-wall rediscovery and the reviewed R2 church/Jesus material; it is not yet connected-saved or chat-delivered. Earlier frozen episodes are preserved.
+The old cumulative headings saying30in, church-unperformed or poker-only realization are historical where latest direct author/R2/R3 scope supersedes. Numeric current Brian is24in, original remembered height70in. The author-selected actual Tracy-host correction remains, with Busta in Brian's résumé boast/misattribution.
+Existing finite arcs: Frylock still alive, future Shake-caused death and voluntary Shake/Meatwad departure pending; do not guarantee future simultaneous household attendance. Dr. Evil's sole long-con motive, continuing false fandom for Clifford, Dutch's unintended reinforcement of that fandom, intentional abandonment of Brian, and actual Arthur/Chris–Clifford/Dutch–Arthur grievances remain distinct. No new character, arrival, death, transfer, meeting, resource or story day enacted.
+
+## Further ideas — PROPOSED ONLY, awaiting selection
+
+### P1 — The supposedly anonymous diss identifies its target immediately
+Brian denies the notebook rap is about his boss while naming a bald, scarred villain with a custom chair and an eye-contact grievance. Dr. Evil can calmly identify the clues rather than pretend not to understand. Candidate: “It’s fictional.” / “Then why is he wearing my clothes?”
+Connects: the new bad-rap/feedback repertoire, Brian's face-saving and Dr. Evil's personal attention. The song stays terrible; do not claim musical endorsement or use copied lyrics.
+
+### P2 — Clifford hijacks the feedback session with real trauma
+Brian asks for an opinion on a four-line grievance rap. A specific word gives Clifford a natural opening into an unsolicited personal account. Brian's audience becomes somebody else's audience. Dr. Evil, trapped in his committed fan performance, insists they let Clifford finish. Candidate Brian: “This was supposed to be feedback.” / Dr. Evil: “And you’ve received a tremendous amount.”
+Connects actual adult Jack's articulate trauma-dumping, false fandom and Brian's need to control the room. Clifford need not consciously sabotage Brian or become stupid. Use source-valid trauma, not fabricated new tragedy, and keep the useful scene objective moving.
+
+### P3 — Brian's enemy introduction becomes an enjoyable boss conversation
+At a genuinely reachable future Sins/TPP encounter, Brian expects describing Kaze as his killer to produce shared outrage. Dr. Evil and Kaze instead find each other funny, under the already selected personal-amusement relationship. Brian must witness his own grievance becoming conversational material. Candidate: Brian “He killed me.” / Dr. Evil “Yes. You led with that. The rest of the presentation wandered.”
+This supplies a concrete construction for the already selected Kaze/Dr. Evil disposition. It is not an extra blanket friendship/alliance, a completed encounter, an invented detail of the offscreen death or an automatic settlement of Brian's vendetta. Personal amusement can coexist with faction conflict.
+
+### P4 — A confidential journal gets promoted aloud
+Brian labels a furious entry confidential, then cannot resist reading it to someone for validation. He stops them from looking at the page while publicly reciting its contents. Candidate: “Don’t read that. It’s private.” / “You’re reading it to me.” / “With context.”
+Connects source-observed public-post performance with a physical notebook and controlled-feedback demands. No bystander reads tiny text from impossible distance, secret surveillance or automatic boss access.
+
+### P5 — Brian tries to mentor Mimir about professional head life
+Only at an independently reached later Kratos/SAME physical Mimir encounter already allowed by the outline, Brian recognizes a former line of work and offers unsolicited hip/belt employment advice as a seasoned professional. Mimir has his own judgment and relationship with Kratos and can reject Brian's career framing. Brian being sincere about one practical detail can sharpen the absurdity.
+This is a physical character scene, not Mimir resuming narration, a new head transformation, automatic shared memories or an extra Kratos cameo inserted solely for a gag. Brian's actual Daynah-hip history motivates it; useful specifics need actual supporting history or clear personal boasting.
+
+Recommendation: P2 and P3 make the strongest next substantial scenes because they collide three distinct motives and advance existing relationships. P1/P4 are short variants for later journal use. P5 is reserved for the already-planned actual Kratos/Mimir access. These recommendations are not approvals or a fixed running order. Do not cram these and every prior gag into one meeting.
+
+## Attribution and saved scope
+
+Kaze originated the characters, body history, revenge motive, résumé/journal concept, recurring bad-rap feedback, custom-chair eye-contact trap and accidental Daynah contact, then expressly approved the five prior assistant ideas. The title/feedback/denial/countermeasure examples and five new proposals are AI-written construction. Newly proposed P1–P5 remain separate from the approved repertoire.
+Update canonical routing, existing character notes and active outline for the approved scope; preserve full previous owner below and all frozen manuscripts. This work does not install Project attachments or authorize playback.
+
+---
+
+# Preserved complete original author owner and initial AI examples
+
 # Brian's remembered height, career résumé, journal raps and meeting chair
 
 Change ID: S7NS_BRIAN_HEIGHT_JOURNAL_CHAIR_20261022
