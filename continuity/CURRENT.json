@@ -104,8 +104,8 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "BRIAN_HEIGHT_JOURNAL_CHAIR_FOUR_APP_VERIFIED_E51_ON_HOLD",
-  "work_resume_checkpoint_latest": "continuity/work/S7NS_Brian_Height_Journal_Chair_Resume_20261022.json",
+  "work_status": "BRIAN_PETTY_COMEDY_R2_APPROVED_SAVING_READBACKS_E51_ON_HOLD",
+  "work_resume_checkpoint_latest": "continuity/work/S7NS_Brian_Petty_Comedy_Lock_R2_Resume_20261022.json",
   "work_change_id": "S7NS_CUMULATIVE_REPLACEMENT_PATCH_20261022",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
@@ -1794,9 +1794,28 @@
   "playback_hold": {
     "active": true,
     "scope": "Episode51 resend",
-    "basis": "Latest direct user: wait one more idea; Brian height/journal/chair author note. Await resume instruction.",
+    "basis": "Author paused51 for Brian ideas; latest instruction locks prior repertoire and requests more brainstorming, not PLAY.",
     "local_reviewed_E51_R3": "S3_E51_Fetch_R3_FINAL_20261022.txt",
     "local_sha256": "d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce",
     "candidate_status": "Reviewed local draft only; no R3 connected save or chat playback yet"
-  }
+  },
+  "latest_Brian_petty_comedy_approval": {
+    "change_id": "S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022",
+    "owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
+    "status": "AUTHOR_APPROVED_REPERTOIRE_NOT_ENACTED",
+    "approved": [
+      "Daynah accidental contact + sincere apology",
+      "Brian anticipates foot and saves face",
+      "grand grievance titles",
+      "feedback restrictions",
+      "DrEvil weaponizes prior height-denial",
+      "Brian practical success and ambiguous praise"
+    ],
+    "new_P1_P5": "PROPOSED_ONLY_NOT_APPROVED",
+    "review": "Cumulative comedy/relationships, current notes and actual50 notebook/sleep scenes reviewed. No forced51 cutaway or gag quota.",
+    "author_sha256": "aed4da6e71c2e3fee91498c8aa933a58682e709d2b92d6a836f0c4d7924c459c",
+    "Drive_author_id": "1wBIOajgxP3WxOAY3EFI6BM_BmJsSrc7S",
+    "Library_file_id": "libfile_93fda92382288191be196402e9474533"
+  },
+  "latest_Daynah_Brian_accidental_contact": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md"
 }
