@@ -1644,5 +1644,23 @@
       "description": "The operation ends with persistent gains, losses and an earned absurd consequence. Jack’s completed RDR2-then-RDR1 progression affects an actual choice by the time the campaign arc concludes.",
       "status_note": "Working endpoint only; not approved season length. Completion must follow real play/time and can move without compressing it."
     }
-  ]
+  ],
+  "latest_handoff_brian_desert_easter": {
+    "change_id": "S7NS_HANDOFF_BRIAN_DESERT_EASTER_20261023",
+    "authority": "continuity/author/S7NS_Chat_Handoff_Brian_Desert_Easter_20261023.md",
+    "review": "continuity/author/S7NS_All_Season_Review_Brian_Departure_R4_20261023.md",
+    "status": "AUTHOR_SELECTED_FUTURE; EGG_IDENTITY_PROPOSED_JESUS_NOT_APPROVED; NO_PLAY",
+    "selected": [
+      "Brian leaves T.P.P after daily trolling, takes Clifford saber, Starkiller declines mentorship, desert collapse, Tuskens find him, wakes mid sleep-thrust before Jabba and Jar Jar and recognizes them",
+      "Later Chris boils and hides Easter eggs for Meatwad; one cracks with holy light four seconds after placement; Chris resents ordinary pleasure becoming absurd"
+    ],
+    "proposed": [
+      "Single saber theft links already-selected Shake murder with departure",
+      "Jesus emerges from egg; revival must respect E51 explicit digestion/death"
+    ],
+    "coverage": "21 full Season2 texts, two drafts; fresh full57–58; all-series audit incomplete; missing S1 and early resetS3 manuscripts, remaining full reads needed",
+    "guard": "Actual58 unchanged;59 unwritten; all prior selections retained; old59–94schedule provisional and needs Brian resequencing",
+    "drive_id": "1Wf9CTjECEQvbfzjpoywWv_ma6liJnDk1"
+  },
+  "proposed_episode_chronology_revision_needed": "Brian departure/new desert arc changes later TPP placements and Dr Evil long con; preserve selected events, resequence before PLAY. Easter identity and placement open."
 }
