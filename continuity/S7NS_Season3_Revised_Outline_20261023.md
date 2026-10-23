@@ -2,6 +2,10 @@
 
 Change ID: S7NS_S3_HUMOR_OUTLINE_AFTER_E58_20261023. Author: Kaze. Outline construction and editorial expansion: AI. WORK ONLY. No Episode 59 or 60 playback until Kaze explicitly requests it.
 
+## Latest approved addendum — earlier review, Kaze's animal cruelty, Kratos and Mimir
+
+The author has now approved the SIX scenes in the preceding CHAT answer, which map to document scenes1,2,3,5,7,6 below. They are selected future scenes, not occurred events or six mandatory placements in59–60. Document4 and8 remain proposed. The earlier blanket unapproved wording is superseded for these six only. [Read the exact mapping, earlier-episode critique and character corrections](https://github.com/kazekamimp3/kaze808/blob/main/continuity/author/S7NS_Pre50_Review_Six_Approvals_Kaze_Animals_20261023.md). The review states its coverage; it is not a complete reread of all49 scripts. Kaze's deliberate enemy-animal cruelty must appear when the situation supplies it; Kratos and the same physical Black Mimir retain independent purposes. No PLAY authorized.
+
 ## What this revision changes
 
 The season continues from the delivered end of 58. Episodes 1–58 and the five campfire Specials are preserved. This is a revision of the remaining season's structure, emphasis, scene construction and routing, not a restart or an order to rewrite earlier episodes. Latest author steering makes Episodes50–58, the original Chris five-duel story and his other original writing the creative benchmark, and requires displaced crossover characters to have credible independent reasons to act and intersect. The character/intersection register and review below are part of this revision. New scene constructions remain proposals.
