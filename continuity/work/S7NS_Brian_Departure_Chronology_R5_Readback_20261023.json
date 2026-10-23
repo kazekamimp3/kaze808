@@ -1,0 +1,71 @@
+{
+  "change_id": "S7NS_BRIAN_DEPARTURE_CHRONOLOGY_R5_20261023",
+  "mode": "WORK_ONLY_NO_PLAY",
+  "status": "SAVED_READBACK; CREATIVE_CONNECTIONS_PROPOSED",
+  "actual_delivered_episode": 58,
+  "next_episode": 59,
+  "story_days_advanced": 0,
+  "episode_generated": false,
+  "author_approval_of_new_connections": false,
+  "egg_identity": "OPEN",
+  "report": "continuity/author/S7NS_Brian_Departure_Chronology_Review_R5_20261023.md",
+  "report_sha256": "d0e10b43dfb50bac3bdcbedae33df2d7935948e8696e12bd3b920c7a79ee7d01",
+  "library_id": "libfile_bf14b9ca200081918c7299982e0a1298",
+  "receipts": [
+    {
+      "destination": "github_report",
+      "verified": true,
+      "sha": "ed6d2986f25e8b325fd3ee3f0302eee2cbd7a9e6"
+    },
+    {
+      "destination": "github_outline",
+      "verified": true,
+      "sha": "3069212017b1d35e1d95b30303ecc19ec4a034d7"
+    },
+    {
+      "destination": "github_current",
+      "verified": true,
+      "sha": "c70110b31faccf7c3baa949d65f41265abcfb883"
+    },
+    {
+      "destination": "drive",
+      "verified": true,
+      "proof": "full readable text equality; not remote raw byte hash",
+      "file_id": "1c5THrZqsnO7cxI7BpZd3eXp5elEVP7-E"
+    },
+    {
+      "destination": "notion",
+      "verified": true,
+      "proof": "new scoped section plus retained prior installation section",
+      "page_id": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb"
+    },
+    {
+      "destination": "airtable_decision",
+      "verified": true,
+      "record": "recbOrgJGyvlltmaI"
+    },
+    {
+      "destination": "airtable_research",
+      "verified": true,
+      "record": "recrZg6qDACSbjObQ"
+    }
+  ],
+  "new_complete_manuscript_reads": [
+    23,
+    24
+  ],
+  "inherited_prior_coverage": "continuity/author/S7NS_All_Season_Review_Brian_Departure_R4_20261023.md",
+  "audit_complete": false,
+  "next_work": [
+    "Author chooses Easter identity; Jesus still proposed",
+    "Review one-theft connection, revised chronology and source snapshot/travel choices",
+    "Read E21 then E25 in full; close36–38 gap; recover missing S1/S2/current earlyS3 original manuscripts"
+  ],
+  "preserved": [
+    "DELIVERY_LEDGER unchanged",
+    "All episode manuscripts/checkpoints unchanged",
+    "CURRENT latest direct author scope remains original handoff",
+    "All prior outline rows/registers retained"
+  ],
+  "pending_destinations": []
+}
