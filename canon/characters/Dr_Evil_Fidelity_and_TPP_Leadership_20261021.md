@@ -252,3 +252,8 @@ Controlling owner: continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md
 ## Approved Brian comedy repertoire — R2, 22 October 2026
 
 Latest author approval S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022 at continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md locks ALL five prior assistant suggestions, plus Daynah's sincere accidental contact. Dr. Evil may weaponize an actually heard prior denial of height insecurity against a later real access complaint. Brian's ordinary riser solution and genuinely useful observation can succeed; approved ambiguous praise leaves that success intact. Restricted feedback, grand grievance titles and later anticipatory-foot sidestep belong to Brian's active comic repertoire. Keep the sole calculated long con and distinct founder/Scotty identity. The five new journal/Clifford/Kaze/Mimir proposals are unapproved; no automatic enactment, new encounter or gag quota. E51 remains paused.
+
+
+## All five further Brian proposals approved — R3
+
+Latest Kaze: lock it all in / ready to send. Under continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md, P1 immediately identifiable anonymous diss, P2 Clifford taking over Brian feedback with Dr. Evil's false fandom, P3 Brian grievance colliding with Kaze/Dr. Evil amusement, P4 confidential journal performed aloud, and P5 later reachable Mimir professional-head callback are AUTHOR_APPROVED future repertoire. Earlier PROPOSED labels are historical on selection status. No automatic meeting, narrator switch, teleportation or per-scene quota; sole calculated long con and each actor's agency remain.
