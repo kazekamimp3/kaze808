@@ -2,18 +2,18 @@
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "as_of": "2026-10-23",
-  "last_delivered_episode": 59,
-  "next_episode": 60,
-  "delivery_status": "DELIVERED_PROVISIONAL_THROUGH_59_FAMILY_BUSINESS; R7_PLANNING_NO_PLAY",
+  "last_delivered_episode": 61,
+  "next_episode": 62,
+  "delivery_status": "DELIVERED_PROVISIONAL_THROUGH_61; E62_E63_AUTHORIZED_PREPARED_PENDING_CHAT",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
-  "manuscript": "continuity/episodes/E59/S3_E59_Family_Business_FINAL_20261023.txt",
-  "manuscript_git_blob_sha1": "ec74c187b13bd3103b061f2b6abb1bba58cdd611",
-  "manuscript_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
-  "checkpoint": "continuity/episodes/E59/S3_E59_Family_Business_Checkpoint_20261023.json",
-  "state_owner": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
-  "state_rule": "Actual58 endpoint remains in delivery receipt. E59 candidate state is in its paired prepared checkpoint; reconcile only after actual final chat exists.",
+  "delivery_reconciliation": "continuity/features/E60_E61/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+  "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023.txt",
+  "manuscript_git_blob_sha1": "093f6c856cb9a700b12ce5d54ddfb57d190ea577",
+  "manuscript_sha256": "d417bd2d56b4ccbc52ecab49df4d8c6453b47cdebc27912a2c35e4724d98d1f2",
+  "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023_Checkpoint.json",
+  "state_owner": "continuity/features/E60_E61/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+  "state_rule": "Actual61 endpoint is in current_actual_after_E61 and delivery receipt. E62–63 candidate checkpoint is not actual until completed chat is reconciled.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -61,7 +61,11 @@
     "play_authorized": false,
     "basis": "User: generate episode pairs; once fully generated save to draft; user will say when to send. Later extends sequence through69.",
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
-    "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
+    "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY.",
+    "current_play_exception": [
+      62,
+      63
+    ]
   },
   "prepared_episode": null,
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
@@ -297,7 +301,7 @@
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-  "current_prepared_episode_count": 4,
+  "current_prepared_episode_count": 2,
   "current_prepared_drive_id": "1rqxEn8UYi0INi1j-BvfYTr4lOYKT9V2h",
   "current_prepared_full_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
   "authorial_fidelity_v1_1": {
@@ -557,7 +561,7 @@
     },
     "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "checkpoint_git_blob_sha1": "e310e073e3013f610489dae6cfcc05b87402851c",
+  "checkpoint_git_blob_sha1": "f925784f1ab9795acb7f5674d3a6dd9a657ae6e2",
   "prepared_E39_E40_A_Place_To_Wait_R2_20261021": {
     "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
     "episode_span": [
@@ -982,7 +986,7 @@
     "haircut_evidence": "continuity/episodes/E48/CHAT_DELIVERY_RECONCILIATION_20261021.json",
     "latest_relationship_refinement": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md"
   },
-  "latest_chat_delivered_episode": 59,
+  "latest_chat_delivered_episode": 61,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -1795,7 +1799,7 @@
     "meeting_status": "E52_DELIVERED_PROVISIONAL",
     "actual_checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json"
   },
-  "playback_hold": true,
+  "playback_hold": "Lifted for Episodes62–63 by current request; later episodes remain held.",
   "latest_Brian_petty_comedy_approval": {
     "change_id": "S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022",
     "owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
@@ -2141,7 +2145,7 @@
     "terrain": "Transfer yard gallery/wagon damaged. Bridge middle destroyed by defensive mage, gatehouse/three-arch aqueduct demolished by Kaze. Water spill alters road; remains impassable to ordinary traffic without repair.",
     "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists."
   },
-  "checkpoint_sha256": "39a58532eecea4c20df432c12bfdc6f2858a6166bee3722b4969f3515631a52d",
+  "checkpoint_sha256": null,
   "current_actual_after_E58": {
     "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
     "Sins": "Kaze, Chris exterior/Billy inside, Arthur, Daynah baseline, Mahnah baseline, Daniel at dry shelf on inland route late Day22. No capital arrival. Charles/Meatwad/Shake inside Billy; Frylock alive separate with whereabouts unknown. Keke not returned.",
@@ -2297,7 +2301,15 @@
     "scope": "Single59 authorized by current direct PLAY; reconcile completed final next interaction.",
     "delivery_reconciliation": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json"
   },
-  "current_playback_request": null,
+  "current_playback_request": {
+    "episode_span": [
+      62,
+      63
+    ],
+    "authorization": "Latest direct user: play Episodes 62-63.",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED"
+  },
   "prepared_E59_Still_Family_20261023": {
     "change_id": "S7NS_E59_STILL_FAMILY_20261023",
     "episode": 59,
@@ -2333,7 +2345,22 @@
     },
     "concurrent_preparation_note": "Fresh control files also contain an undelivered Family Business candidate from another preparation. Preserve that record and its artifacts. This chat selects Still Family; no claim is made that another candidate was played or accepted."
   },
-  "selected_prepared_response": null,
+  "selected_prepared_response": {
+    "episode_span": [
+      62,
+      63
+    ],
+    "title": "A Better Picture",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+    "manuscript_sha256": "f6b0a1b4d5234c1d15f260eca7be622fcebb7f962b1de5a74cd888a9bc304ea7",
+    "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
+    "drive_manuscript_id": "1LYxv6-kjaDo4FYQAWhDKdRTE7Qp8rKjS",
+    "drive_checkpoint_id": "1Sk7FUeovMzPnCCqoNUpigZKOpY1ykiaF",
+    "played": false,
+    "author_acceptance": "NOT_ASSERTED",
+    "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md"
+  },
   "prepared_draft_features_60_69": [
     {
       "episode_span": [
@@ -2341,15 +2368,16 @@
         61
       ],
       "title": "Customer Service",
-      "status": "REVISED_DRAFT_REVIEWED_NOT_PLAYED",
+      "status": "DELIVERED_PROVISIONAL",
       "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023.txt",
       "manuscript_sha256": "d417bd2d56b4ccbc52ecab49df4d8c6453b47cdebc27912a2c35e4724d98d1f2",
       "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023_Checkpoint.json",
       "drive_manuscript_id": "1i49sbTKgP3xtxEFcL1FDm6sdCRCUIUxP",
       "drive_checkpoint_id": "1MG9o7EOrKSY2f90AGinKAfAV_NQAup0A",
-      "played": false,
+      "played": true,
       "author_acceptance": "NOT_ASSERTED",
-      "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md"
+      "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md",
+      "delivery_reconciliation": "continuity/features/E60_E61/CHAT_DELIVERY_RECONCILIATION_20261023.json"
     },
     {
       "episode_span": [
@@ -2643,5 +2671,38 @@
     "outline_alignment": "selected_chronology_R7",
     "runtime": "Approx23–25 minutes/unit at150wpm; estimates only, below25 target in several units; no measured audio or runtime lock",
     "all_season_audit": "unfinished"
+  },
+  "current_actual_after_E61": {
+    "candidate_only": false,
+    "day": 24,
+    "time": "evening",
+    "location": "Coastal export depot; Sins ashore, TPP submarine at outer berth after real surface voyage",
+    "exterior": "Billy; Chris full-size interior",
+    "Daniel": "Departed actual59; no repeat farewell; spear inside Billy in Kaze custody; purse110 with Arthur separate; bottle absent",
+    "household": "Charles and Meatwad inside; Shake returned physically to submarine, alive",
+    "funds": {
+      "Sins_common": 2461,
+      "Daniel_separate": 110,
+      "Kaze_personal": 0,
+      "TPP_common": 66,
+      "TPP_separate_receipt": 5,
+      "TPP_contingent_spirit_balance_owed_to_Sins": 30
+    },
+    "cargo": {
+      "perfume_crates": 5,
+      "silk_rolls": 2,
+      "spirit_casks": 0,
+      "lamp_oil_barrels": 4,
+      "Noll_toolbox": 1,
+      "brass_barrier_post": 1,
+      "bronze_admission_sign": 1,
+      "older_unopened_chests": "unchanged, contents unresolved"
+    },
+    "TPP": "Three instruments recovered, fourth in Harl upper store. Borrowed launch sunk; service boat intact. Dutch true head injury, Clifford rescue and Brian LEFT-cheek portrait fuss. Dutch withdrawal reverses toward finishing operation; tattoos retained. Brian research acquired and partly wet, competence recognized. Evil purpose remains selected calculated long con.",
+    "Jack": "Headset physically returned inside Billy beside original console; voluntary safe fishing arranged for following day. Real saber with Jack aboard, not stolen yet.",
+    "casualties": "Three convoy escorts and Noll dead60; Harl watchman shot61. Varr beaten/surrenders, not killed. Tai Lung wins and remains alive. Merrit abducted, alive.",
+    "shots": "Arthur3 in60; Dutch1 and Jack1 in61; no exact reserve invented",
+    "pressure": "Money wagon escaped; recognition and closure deny freight/cargo options. Exhibition fire, theft and broken pier; witnesses retain faces/ship.",
+    "knowledge": "Sins recognize Tai Lung as Daniel killer from actual51; no new confession. Brian hears Arthur intended inland route; no current remote coordinates."
   }
 }
