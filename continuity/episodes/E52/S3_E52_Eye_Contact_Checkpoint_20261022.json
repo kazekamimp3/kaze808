@@ -1,0 +1,119 @@
+{
+  "schema": "S7NS_EPISODE_CHECKPOINT_V1",
+  "change_id": "S7NS_E52_EYE_CONTACT_20261022",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 52,
+  "title": "Eye Contact",
+  "episode_count": 1,
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": {
+    "direct": "play episode 52.",
+    "scope": "Single Episode52 overrides default two-episode format; no53."
+  },
+  "previous_delivery": {
+    "episode": 51,
+    "revision": "R3",
+    "status": "DELIVERED_PROVISIONAL",
+    "reconciliation": "continuity/episodes/E51/R3_CHAT_DELIVERY_RECONCILIATION_20261022.json",
+    "acceptance": "NOT_ASSERTED"
+  },
+  "manuscript": {
+    "path": "continuity/episodes/E52/S3_E52_Eye_Contact_FINAL_20261022.txt",
+    "sha256": "211bb6fe49b63ee9a16467c1f4e244ca481d58671e1a86d53f740ff951d82f78",
+    "words": 3805,
+    "bytes": 23955,
+    "estimated_minutes_at_150_wpm": 25.366666666666667,
+    "audio_generated": false,
+    "drive_id": "1BJE3JE5CzSIssyjetoz5zKqmwlZ4wd1N",
+    "drive_mime": "text/plain"
+  },
+  "checkpoint_path": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json",
+  "sources": {
+    "workflow": "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+    "four_app": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
+    "fresh_read": "GitHub complete CURRENT/ledger/outline/E51R3 checkpoint and manuscript; Airtable exact E51 row; Notion existing index; Drive exact E51R3 text. Exact E39–40R2 Starkiller introduction read. Full Starkiller and Dutch source owners read. Current full Kaze physical/leap/Narrative Recognition clauses reread. Latest Brian and DrEvil current owners and cumulative author scope consulted.",
+    "reused_unchanged": "Previously completed full procedure, authorial fidelity/comedy research, Kaze psychology and relevant original Brian/DrEvil owners from this conversation remain applicable; no claim of a fresh reread of every unchanged archive.",
+    "author_owners": [
+      "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md",
+      "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
+      "continuity/author/S7NS_E51_Fourth_Wall_Rediscovery_R3_20261022.md",
+      "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md"
+    ],
+    "primary_research": [
+      {
+        "url": "https://www.cinelinx.com/games/culture/looking-back-on-lucasarts-and-the-force-unleashed-with-haden-blackman-interview/",
+        "finding": "Game writer Haden Blackman explains PROXY's Maul simulation and training-droid role; supports knowing Maul through the simulation, without inventing a meeting."
+      },
+      {
+        "url": "https://www.asoundeffect.com/star-wars-maul-shadow-lord-sound/",
+        "finding": "PROXY actor David W. Collins recalls the droid simulating Maul to fight Starkiller. Later Maul television canon not grafted onto the pinned TFU1 dark ending."
+      }
+    ]
+  },
+  "authorship": {
+    "author": "Kaze selected solo inquiry, Brian original/current heights/history, résumé reframing, journal/rap/feedback behavior, chair/eye-contact trap, Dutch nonrescue, occasional genuine Brian competence and DrEvil sole-motive long con.",
+    "AI": "Original harbor carpenter, meeting dialogue, stable box riser, security decision, exact résumé/verse and two-thread scene construction. No claimed transcription of private journal or social post beyond sourced mannerisms."
+  },
+  "candidate_state_after_play": {
+    "chronology": "Same Day19 afternoon becoming later afternoon; no overnight. Kaze reaches old breakwater by physical ballistic leaps, converses, then launches inland. Actual gang reunion is not shown.",
+    "Kaze": "Solo inquiry completed without duel. Same inactive Maul hilt returns to Kaze after brief voluntary examination; remains wrapped at waist. Learns Starkiller's claims about Maul simulation, Sith/master relationship, Vader killed and Emperor-ordered reconstruction, transport objective. No proof of current Maul/Sith operation or TaiLung connection established. No oath, alliance, forgiveness, assassination contract or future encounter forced.",
+    "Starkiller": "TFU1 dark ending post-reconstruction/pre-Tatooine-HothDLC. Remains at breakwater with same stolen coast chart, no transport obtained. Identifies PROXY-type simulation but does not claim meeting actual Maul. Discloses Vader/Emperor relationship selectively; seeks autonomy. Does not hear Wade; sees Kaze address air. Learns Kaze name, he killed Maul after loss, has people he will not identify, jumps and lacks a way back. No group names/location/vehicle/R2 access disclosed.",
+    "Kaze_mechanics": "Physical ballistic leaps with landings, no flight or portal. Observes/catches object initially; Galen ceases pull and accepts voluntary handoff. No Force immunity or unearned overpowering. Narrative Recognition yields defining approval/ownership wound shape only, no biography/name/mindread/truth certification.",
+    "narrator": "Wade sole narrator. Location shown onscreen before he discloses true current answer to Kaze. E51 rediscovery not repeated. Only Kaze literally answers him in this episode; no other new hearer or embodied Wade.",
+    "remaining_Sins": "No new scene relocates Arthur/Chris(Billy interior)/Daynah/Mahnah from last-known junction/intended return above works. No remote knowledge of harbor conversation.",
+    "TPP": "Same submarine harbor. DrEvil/Dutch/Clifford/Brian hold next meeting. Crewman's fresh shore observation places armored stranger at breakwater; Dutch supplies actual old station killings. DrEvil considers offer then decides no invitation now; notify if approaches. This is not a permanent bar on future transport intersection.",
+    "Brian": "Adult exactly24inches, remembers70inches/formerSin/offscreenKaze killing. Actual existing notebook includes boastful résumé, Unresolved Personnel Matter, new Operation:Rise Above complaint and intentionally terrible diss verse. Supposed Busta collaboration is HIS misattribution; actual host Tracy remains dead by Brian42. Voluntary singular-head résumé claim is face-saving, not objective historical retcon.",
+    "chair": "New custom adult two-foot scale chair actually received; no climb initially, seated table obscures view, standing ON seat barely clears. DrEvil weaponizes prior denial and asks eyecontact. Brian independently obtains stable existing wooden box as riser; succeeds at seated eyecontact. Chair remains in meeting room on box.",
+    "DrEvil_Brian": "Acknowledges real dependency/security point and reads résumé as calculated attention. Brian sincerely values useful recognition. Sole-motive long con persists; major reversal not enacted.",
+    "Dutch_Clifford": "Dutch deliberately avoids rescuing Brian by studying crease; no intentional fan-act enabling. Dutch preserves grief over Cartman/Jimmy/Timmy. Clifford independent adult walker with gifted unactivated saber; resists recruiting killer and gives disappointed journal feedback.",
+    "holds": "No death/resurrection/combat/saber activation. Frylock alive; Shake/Meatwad/Charles unchanged inside. Daniel/Keke/Maul/Tracy/Cartman/Jimmy/Timmy remain dead. RomanceOFF/Briaroff/Teemoerased/ZidnotSin; Daynah/Mahnah loyal."
+  },
+  "resources": {
+    "common_silver": 2111,
+    "Kaze_personal_silver": 0,
+    "Daniel_purse_unopened": 110,
+    "Daniel_purse_custodian": "Arthur",
+    "TPP_old_purse": 54,
+    "TPP_separate_business_receipt": 5,
+    "E31_chests": "Both unopened/uncounted",
+    "Maul_hilt": "Kaze retains same inactive wrapped hilt; voluntary short examination by Starkiller, returned.",
+    "Arthur_survey": "Arthur retains same torn local map",
+    "new_silver_income_or_spending": 0,
+    "shots": 0,
+    "lightsaber_activations": 0,
+    "new_deaths": 0,
+    "cross": "CHAPEL replica damaged/recovered and left there. ORIGINAL crucifix and crown briefly loaned for Ansel examination, physically returned to protected storage, still Chris-owned. Original nails stay Billy-owned and uninspected.",
+    "vehicle_and_R2": "No deployment, fuel creation or droid relocation.",
+    "new_gifts": "One scaled Brian chair. Construction payment/source account not shown; no invented debit from tracked TPP purse."
+  },
+  "review": {
+    "first_full_read": "Complete3179word draft reopened and read.",
+    "repairs": [
+      "Add Sith/Vader/Emperor exchange to answer actual affiliation inquiry without fabricating current network or certified truth.",
+      "Add promotional résumé scene with adult height memory, actual Tracy distinction and DrEvil patient attention.",
+      "Remove unnecessary wheelchair recap, implied future-reading and mechanical immunity exposition; clarify hilt handoff and known title/personal-name question.",
+      "Retain independent Brian riser success, real contribution and later failed feedback bid; no chair gag quota or instant major betrayal."
+    ],
+    "complete_final_reread": "Final3805word manuscript reopened in two consecutive untruncated chunks after all prose edits; frozen copy identical. No later prose edits.",
+    "weakest_span_decision": "Resolved over-evasive affiliation middle with concrete master chain while keeping unanswered current association. Expanded meaningful character decisions instead of repeating travel/Bible/fart beats.",
+    "checks": {
+      "continuity": "PASS editorial against E51R3 endpoint and current scoped owners",
+      "fidelity": "PASS editorial: Galen coerced dark-ending pin, no clone/DLC memories or helpful buddy conversion; Kaze enquiry with agency; Brian journal self-branding/denial and real competence",
+      "geometry_custody": "PASS editorial: one wrapped inactive hilt, explicit ceased pull/handoff/return; scaled chair and adult tabletop with real riser",
+      "knowledge": "PASS editorial: prior shown narrator answer, claims distinguished from proof, no new hearers",
+      "runtime": "3805words / assumed150wpm =25.37minutes; no audio rendered"
+    }
+  },
+  "unperformed_selected_work": [
+    "Episode52 candidate events are not actual until complete PLAY response exists; acceptance remains unasserted.",
+    "Brian Daynah accidental kick/sincere apology and anticipatory dodge require real proximity; not forced into separated harbor scene.",
+    "Trauma hijack, Kaze/DrEvil side-taking, future Mimir encounter, slipper/shirt sleep episodes remain selected unperformed where not previously shown.",
+    "DrEvil ultimate reversal, Frylock Shake-caused death then voluntary departures, Keke regrowth, Shang/Riddick compact fatal arcs remain pending.",
+    "Restaurant serious lasting consequences remain open; this harbor inquiry does not discharge them.",
+    "Kaze gang reunion and any future transport intersection must be enacted; no53 authorized."
+  ],
+  "next_episode": 53,
+  "episode53_authorized": false,
+  "delivery_rule": "Save/readback candidate, then full exact single52 PLAY. Do not mark delivered before complete final response."
+}
