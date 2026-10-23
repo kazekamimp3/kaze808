@@ -1,3 +1,11 @@
+# CURRENT: EPISODES 57–58 PLANNING
+
+55–56 “Below the Belt” R3 are DELIVERED_PROVISIONAL, author acceptance NOT_ASSERTED. Keep the exact manuscript and checkpoint unchanged. The latest author moves Daniel's deliberately lazy living return and Deadpool's ChatGPT cast-cutting explanation to 57–58. Keke stays out of that pair. All other approved 57–58 directions remain. This placement correction is not a new PLAY and advances no story time.
+
+Latest addendum: `continuity/author/S7NS_E57_E58_Daniel_Return_Author_20261023.md`. Full approved directions: `continuity/author/S7NS_E55_E58_Approved_Rework_20261023.md`. Actual state: `continuity/features/E55_E56/S3_E55_E56_Below_the_Belt_R3_Checkpoint_20261023.json`. Delivery receipt: `continuity/features/E55_E56/CHAT_DELIVERY_RECONCILIATION_20261023_R3.json`.
+
+# HISTORICAL HANDOFFS BELOW — NOT CURRENT DIRECTIONS
+
 # EPISODES55–56 READY FOR CURRENT AUTHORIZED JOINT PLAY
 
 Actual lastcompletechat:53–54, DELIVERED_PROVISIONAL; acceptance NOT_ASSERTED. Receipt `continuity/features/E53_E54/CHAT_DELIVERY_RECONCILIATION_20261022.json`. Repeated55&56PLAYsteersoneunfinishedpair. LatestapprovedboundedWade owner `continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md` governs before old narratorheaders: only actual verbal narrated knowledge, no mystery answer dispatch or canon-file intelligence. Existing hearing permissions/Billy audience perception remain.
