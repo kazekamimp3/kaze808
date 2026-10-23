@@ -1,0 +1,108 @@
+{
+  "change_id": "S7NS_CONDENSED_WEAVE_R7_20261023",
+  "status": "APPLIED_AND_READBACK_VERIFIED",
+  "outline_commit": "9538b2fd27ac3ad8f1c0c405e9a917e109dc2f43",
+  "concurrent_parent_preserved": "6cbffc78cd90d33999774f588bb776f21f545e1f",
+  "github": [
+    {
+      "path": "continuity/CURRENT.json",
+      "match": true,
+      "sha": "d56be18e1e045f4e57ab10d6fef300c44ee2a0c4"
+    },
+    {
+      "path": "continuity/DELIVERY_LEDGER.json",
+      "match": true,
+      "sha": "c63a24dba9b0be19d5a64c4f757716a16d1d5469"
+    },
+    {
+      "path": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+      "match": true,
+      "sha": "376a88a52f2bdb4430bd6aef58bf40ea5c242a1f"
+    },
+    {
+      "path": "KAZE_READ_FIRST.txt",
+      "match": true,
+      "sha": "b5f852e4a8542a85241f79853104e2c9f312a58d"
+    },
+    {
+      "path": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
+      "match": true,
+      "sha": "38c4858a4ae2011dbc73664a4bb5d57c16f26f6c"
+    },
+    {
+      "path": "routing/S7NS_Condensed_Weave_R7_20261023.json",
+      "match": true,
+      "sha": "031cbb0c7d707af217826ed57c5214ad8ba54734"
+    },
+    {
+      "path": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_condensed_R7_20261023.json",
+      "match": true,
+      "sha": "f0e3dc92f5fa1689ace9e7a4cf6a5d3f549f8f28"
+    }
+  ],
+  "drive": {
+    "id": "11RTvAf4w7mSkWVlp1f6AWV4NQx4M1qoF",
+    "exact_report_match": true
+  },
+  "indexes": [
+    {
+      "surface": "notion",
+      "id": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
+      "match": true,
+      "historicalPreserved": true
+    },
+    {
+      "surface": "notion",
+      "id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+      "match": true,
+      "historicalPreserved": true
+    },
+    {
+      "surface": "airtable",
+      "key": "chars",
+      "match": true,
+      "ids": [
+        "rec17KPB18Y1vviGh",
+        "reci2zN7t1rcbhFMS",
+        "recOLTpcdAJKF95D1",
+        "reczfi1uXWtAjNYnr",
+        "rec1Du5hDxuomm5qB",
+        "recpYEexIYBIwx0GP",
+        "recv0DvUxpEhtnJ6j",
+        "recbLT5UaQU9qqbWC",
+        "recYNPq0s0v8OB9wj"
+      ]
+    },
+    {
+      "surface": "airtable",
+      "key": "decision",
+      "match": true,
+      "ids": [
+        "recXBHDVdgjYOmZNX"
+      ]
+    },
+    {
+      "surface": "airtable",
+      "key": "drafts",
+      "match": true,
+      "ids": [
+        "rec8cj5veGRSW2owr",
+        "recATksnDNbPYkMZz",
+        "recdbgNozZ73lMUrX",
+        "recAByyTrxrLjeGyU"
+      ]
+    }
+  ],
+  "preservation": {
+    "original_manuscripts_checkpoints_raw_rap_tts": "UNMODIFIED",
+    "existing_60_63_drafts": "PRESERVED_REQUIRES_R7_REVISION_BEFORE_DELIVERY",
+    "prior_draft_only_60_69_authorization": "RETAINED_WITH_R7_DEPENDENCY_GUARD",
+    "attachments": "UNMODIFIED",
+    "all_season_audit": "UNFINISHED",
+    "new_episode_generated": false,
+    "new_episode_played": false
+  },
+  "delivered_endpoint": 59,
+  "author_acceptance": "NOT_ASSERTED",
+  "scope": "R7 condensed interwoven future outline: 60 robbery/GGA and operation setup; 61 convergence, Tai Lung win/presentation humiliation and Dutch crash/rescue; 62 chart consequences, Shake performance/jealousy, one saber theft, deliberate murder and Brian departure; 63 FULL Brian/Starkiller rap/feedback/autograph/X-wing/Force push and Easter Jesus; 64 desert/Jawas/Tuskens/Jabba/Jar Jar/Busta poster; 65 Shang/Baldur and later imitation payoff; 66 vehicle/wrong owner and separately routed Brian/Mimir. Later strands preserved, not auto-reserved to old episode slots. R6 scene substance, raw rap and TTS retained. Actual delivered 59 Family Business; no PLAY. Existing R6 60–63 drafts preserved but need revision; prior draft-only 60–69 authorization retained, revise 60–63 first."
+}
