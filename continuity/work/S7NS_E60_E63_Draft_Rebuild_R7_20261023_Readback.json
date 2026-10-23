@@ -1,0 +1,83 @@
+{
+  "change_id": "S7NS_E60_E63_DRAFT_REBUILD_R7_20261023",
+  "status": "SAVED_READBACK_VERIFIED_DRAFT_ONLY",
+  "commit": "e413b67460a12d3063ae8433c0f2016a1d300b8f",
+  "github": [
+    {
+      "path": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023.txt",
+      "match": true
+    },
+    {
+      "path": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023_Checkpoint.json",
+      "match": true
+    },
+    {
+      "path": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+      "match": true
+    },
+    {
+      "path": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
+      "match": true
+    },
+    {
+      "path": "continuity/CURRENT.json",
+      "match": true
+    },
+    {
+      "path": "continuity/DELIVERY_LEDGER.json",
+      "match": true
+    },
+    {
+      "path": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+      "match": true
+    },
+    {
+      "path": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md",
+      "match": true
+    }
+  ],
+  "drive": [
+    {
+      "id": "1i49sbTKgP3xtxEFcL1FDm6sdCRCUIUxP",
+      "match": true
+    },
+    {
+      "id": "1MG9o7EOrKSY2f90AGinKAfAV_NQAup0A",
+      "match": true,
+      "proof": "raw returned bytes equal expected UTF8 via base64 equality"
+    },
+    {
+      "id": "1LYxv6-kjaDo4FYQAWhDKdRTE7Qp8rKjS",
+      "match": true
+    },
+    {
+      "id": "1Sk7FUeovMzPnCCqoNUpigZKOpY1ykiaF",
+      "match": true,
+      "proof": "raw returned bytes equal expected UTF8 via base64 equality"
+    }
+  ],
+  "airtable": {
+    "exact_fields_readback": true,
+    "ids": [
+      "rec8cj5veGRSW2owr",
+      "recATksnDNbPYkMZz",
+      "recdbgNozZ73lMUrX",
+      "recAByyTrxrLjeGyU"
+    ]
+  },
+  "notion": {
+    "id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "new_section_and_hashes_readback": true
+  },
+  "actual_delivered_cursor": 59,
+  "played": false,
+  "sent": false,
+  "author_acceptance": "NOT_ASSERTED",
+  "originals": "R6 drafts/checkpoints,59,raw/TTS lyrics and previous outline archive preserved",
+  "outline_and_checkpoint_alignment": "R7 episode60–63 candidate bindings saved together; no occurred-state advancement",
+  "runtime": "About23–25minutes/unit atassumed150wpm; severalbelowstanding25target, not measured/locked. No padding.",
+  "all_season_audit": "UNFINISHED",
+  "later_64_69": "not generated in this scoped revision",
+  "library_zip": "Existing collection ZIP not replaced; active revised text/checkpoints saved in GitHub and Drive and indexed in Airtable/Notion",
+  "attachments": "unchanged"
+}
