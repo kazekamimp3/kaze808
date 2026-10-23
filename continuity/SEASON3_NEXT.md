@@ -1,21 +1,18 @@
-# S7NS — next authorized story: 59–60, currently WORK only
+# S7NS — draft queue; PLAY held
 
-Actual delivered endpoint:58, Carry On, DELIVERED_PROVISIONAL; acceptance NOT_ASSERTED. No59–60 script prepared, no PLAY authorization. Do not advance fictional time during planning.
+Actual delivered endpoint: **59, Family Business**, DELIVERED_PROVISIONAL, author acceptance NOT_ASSERTED. Anchor SHA256: a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993. Reconciliation: continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json. The alternate Still Family preparation remains preserved and is not this conversation's delivered version.
 
-Read `continuity/author/S7NS_S3_Humor_Outline_After_E58_20261023.md`, `continuity/S7NS_Season3_Revised_Outline_20261023.md`, `continuity/SEASON3_ACTIVE_OUTLINE.json`, and `continuity/features/E57_E58/CHAT_DELIVERY_RECONCILIATION_20261023.json`. Original57–58 manuscript/checkpoint stay unchanged.
+User authorized complete paired drafts **60–61, 62–63, 64–65, 66–67, 68–69**, saved for later retrieval. User will say when to send. No episode text is currently authorized for PLAY.
 
-59 begins with Daniel's selected peaceful final visit: scoped Wade creator/tent joke, thanks for family, real hugs, white-light fade to the spirit realm to get wasted with Master Oogway. No repeat murder. At the actual58 endpoint he remains alive; departure and object custody must be staged. Ordinary later Daniel duels are displaced after departure, not reassigned to Kaze.
+## Complete reviewed drafts
 
-Then use existing loot toward one substantial desired criminal operation. A reputation-driven opportunity, gain, preventable escalation and consequent60 opposition form the pair. TPP has a smaller independent crime. Brian already learned in revised56 that the glued green curls are Daynah's pubes; develop aftermath. Dr Evil's major calculated trust reversal remains future. Deadpool knows only actual verbal narration; no hidden-answer delivery.
+- 60–61 Customer Service: continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023.txt; checkpoint continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023_Checkpoint.json; SHA256 530dd2c24a7da5f26566f049ddabcdc0ef50674897f75a68cfdef357d5a79d04.
+- 62–63 A Better Picture: continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023.txt; checkpoint continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023_Checkpoint.json; SHA256 364b836e2e3773acd41c369db7c9dcdd6684a62945ea25c2a2e85bc4c2ed5fa7.
 
-The full outline supplies seven connected remaining movements, distinct humor influences, twelve optional scene constructions and all retained source routes. Examples are AI options, not individually approved canon. Old region schedules/cursors are archived at `continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json`; the previous NEXT handoff is preserved at `continuity/archive/SEASON3_NEXT_before_humor_20261023.md`.
+## Resume
 
-Continue the existing sole drafting/review procedure only after explicit PLAY. RomanceOFF, Briaroffplot, Keke regrowthfuture, Frylockalive, Frankindependent, Teemoerased. No invented capital arrival, elapsed days, inventory distribution, mystery disclosure or new power.
+Generate 64–65, then 66–67, then 68–69. Use full relevant sources, complete drafts, separate whole reads, repairs and complete final rereads under the sole Scene Decision Doctrine. Save each feature and paired checkpoint; verify exact readbacks. Each episode unit 3750–4500 spoken words at assumed 150wpm. Candidate states only: actual delivered cursor stays 59.
 
-## Latest additive author selections — 2026-10-23
+Next writing anchor is candidate63 in continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023_Checkpoint.json. R6 locked batch is authoritative; selected future events do not count as actual. Read full selected actor owners before adding Tai Lung, Starkiller, Jabba, Jar Jar, Jawas or Tuskens. Preserve raw author rap/poster wording with revised and TTS companions. One saber theft in65 links murder and departure; original console stays inside Billy; Jack guest access is physical. Brian cannot hear Wade. Evil's sole motive is calculated long con. No forced same-day travel or invented powers.
 
-Read `continuity/author/S7NS_Brian_Shake_Dutch_GGA_R2_20261023.md` before staging future scenes. Brian's discarded RDR research misuse, Shake's genuine rap collaboration then Brian's deliberate saber murder, Dutch's approved crash and full Tahiti/Bob Ross escalation, both approved GGA situation lists and outsider application are selected future. Jack returns to affectionate virtual Uncle Arthur for sincere inner healing, then later completes RDR2 followed by RDR1; discoveries require actual gameplay progress. Shake currently alive inside Billy inland; no return/death or campaign completion has occurred. New recommendations in the brief are proposals. Prior six approvals and Daniel's farewell remain; all episode placement flexible except selected farewell direction. PLAY remains held.
-
-## R3 proposed chronology and approval mapping
-
-Latest source `continuity/author/S7NS_Chronology_Approvals_Review_R3_20261023.md` maps approved CHAT improvements1–6 and supplies proposed59–94placements. No fixed season length, new event or PLAY. Preserve R2 selection details, Daniel farewell and actual58. Detailed new brainstorm remains proposed; review coverage is expressly partial, with full45/47now added.
+Original drafts and review repairs preserved locally. Prior NEXT and outline histories remain in repository history and existing archive. Saving advances no story time.
