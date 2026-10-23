@@ -1,0 +1,20 @@
+{
+  "schema": "S7NS_CHAT_DELIVERY_RECONCILIATION_V1",
+  "episode": 51,
+  "title": "Fetch",
+  "revision": "R3",
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R3_FINAL_20261022.txt",
+  "sha256": "d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce",
+  "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R3_Checkpoint_20261022.json",
+  "basis": "Prior conversation continuity records the complete R3 final response, matching the saved title, revised fourth-wall rediscovery and endpoint. Latest explicit user requests Episode52. No machine comparison to exported chat bytes is available.",
+  "chat_byte_identity": "NOT_MACHINE_VERIFIED",
+  "original_pairs_preserved": true,
+  "state": "Same Day19 junction endpoint. Kaze coastward alone with Arthur's handed-over Maul hilt; remaining gang intends return above works. E51 rediscovery and Ansel authentication are now provisional delivered events.",
+  "new_authorization": {
+    "direct": "play episode 52.",
+    "episode52_only": true,
+    "episode53": false
+  }
+}
