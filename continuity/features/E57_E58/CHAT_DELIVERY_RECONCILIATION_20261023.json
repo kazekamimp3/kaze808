@@ -1,0 +1,56 @@
+{
+  "schema": "s7ns.delivery-reconciliation.v1",
+  "change_id": "S7NS_S3_HUMOR_OUTLINE_AFTER_E58_20261023",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode_span": [
+    57,
+    58
+  ],
+  "title": "Carry On",
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "evidence": "Preceding complete assistant response delivered the reviewed Carry On pair after explicit play ep57-58 and send it; subsequent author requested review and outline work.",
+  "chat_byte_identity": "NOT_MACHINE_VERIFIED",
+  "manuscript": {
+    "path": "continuity/features/E57_E58/S3_E57_E58_Carry_On_FINAL_20261023.txt",
+    "sha256": "2aa1275c87e00c4b09b5a6f65b9d9165d307fae5ce38e346c0390f8d45f42a45",
+    "git_blob_sha1": "35f8f2feee130e705d6f3e961fa8db24d277bc8f",
+    "words": 7719,
+    "body_words": 7712,
+    "assumed_wpm": 150,
+    "estimated_minutes": 51.413333333333334,
+    "audio_generated": false
+  },
+  "checkpoint": "continuity/features/E57_E58/S3_E57_E58_Carry_On_Checkpoint_20261023.json",
+  "checkpoint_sha256": "7ff7b9083a322bb40f56206f00ecca4c3abaf38cee9ba70b9d7935afc4cb8f40",
+  "original_prepared_checkpoint_unchanged": true,
+  "actual_end_state": {
+    "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
+    "Sins": "Kaze, Chris exterior/Billy inside, Arthur, Daynah baseline, Mahnah baseline, Daniel at dry shelf on inland route late Day22. No capital arrival. Charles/Meatwad/Shake inside Billy; Frylock alive separate with whereabouts unknown. Keke not returned.",
+    "TPP": "Doctor/Dutch/Brian/Clifford aboard still-moored submarine. Screening retaliation success does not reconcile Clifford/Brian tattoo grievance. Brian soreness/tattoo/green hair remain; no new mooning. Doctor major calculated reversal still pending, mild acknowledgment/rap teardown only. Existing chair/ceiling damage persists.",
+    "camera": "Chris-owned camera physically held by Meatwad inside Billy; old screening footage retained. Doctor has one expressly copied private screening copy on recreation computer. Current fight footage is camera pointed at exterior monitor, not omniscient angles or public transmission. Audience reaction is Brian memory, not self-recorded playback.",
+    "resources": {
+      "common_silver": 2111,
+      "Kaze_personal": 0,
+      "Daniel_personal": 110,
+      "Daniel_purse_now": "Daniel",
+      "TPP": 54,
+      "TPP_separate_receipt": 5,
+      "new_loot": "Four unopened ironbound transport chests, distinct from two E31 unopened chests; value not counted/distributed. Duck iron roasting pot quoted12silver; bolt ceremonial silver-threaded cloth quoted200silver, substantially cut into packaging, exact remainder/value unknown. Captain sword salvaged by Chris.",
+      "shots": "Arthur7 total: three revolver, one HighNoon, three ordinary Count; no full charge/Hypercharge. Chris4: one ChowMain, three Critic. Finite ammo/feedstock reduced, numeric reserves unestablished; no refill.",
+      "weapons_end": "Arthur Count configuration, one joined system; Chris normal tools and mask/headgear, acquired sword; Daniel spear/bottle; BlackMarrow integrated again.",
+      "bowl": "Mahnah took Brian floor bowl aboard submarine; no assertion it travelled inland."
+    },
+    "injuries": "Kaze spear/bolt wounds regenerating, blood/dirty clothes persist; no armor avoidance/gear reset. Billy shoulder/belly sword wounds healing inside, no exact completion asserted. Mahnah paw abrasion cleaned; rests. Daniel no described major wound; clone transfer not healing.",
+    "opposition": "Transfer guards killed/injured, exact aggregate count not assigned; merchants/driver escape. Crossing captain dead by valid clothed Kancho; mage and multiple soldiers killed, last injured fleeing soldier murdered by Kaze. One swallowed soldier severely injured; exact digestive final fate not newly asserted. Courier escaped inland carrying descriptions/driver report; destination and recipients not yet shown.",
+    "terrain": "Transfer yard gallery/wagon damaged. Bridge middle destroyed by defensive mage, gatehouse/three-arch aqueduct demolished by Kaze. Water spill alters road; remains impassable to ordinary traffic without repair.",
+    "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists.",
+    "knowledge_correction_from_delivered51": "Kaze, Chris and Billy heard Wade identify Tai Lung as Daniel's killer in51; Kaze relayed it to Arthur/Daynah. Current location remains unknown. Daniel's returned knowledge not automatically identical. This corrects an initial outline error, not a new revelation."
+  },
+  "latest_planning_override": "continuity/author/S7NS_S3_Humor_Outline_After_E58_20261023.md",
+  "override_effect": "Daniel farewell remains future; alive at actual58 endpoint. Brian already knows hair origin.",
+  "next_episode": 59,
+  "next_episode_authorized": false,
+  "playback_hold": true,
+  "new_story_events_during_work": []
+}
