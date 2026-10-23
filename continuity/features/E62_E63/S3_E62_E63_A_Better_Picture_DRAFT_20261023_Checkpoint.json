@@ -1,0 +1,139 @@
+{
+  "schema": "S7NS_PAIRED_DRAFT_CHECKPOINT_V1",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "season": 3,
+  "episode_span": [
+    62,
+    63
+  ],
+  "title": "A Better Picture",
+  "status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "Generate pairedfeatures60–61,62–63, then64–65,66–67,68–69; fullygenerate andsaveasdrafts forlaterretrieval;userwillrequestsend. NoPLAYauthorized.",
+  "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023.txt",
+  "manuscript_sha256": "364b836e2e3773acd41c369db7c9dcdd6684a62945ea25c2a2e85bc4c2ed5fa7",
+  "word_count_including_title": 7800,
+  "assumed_words_per_minute": 150,
+  "estimated_minutes": 52.0,
+  "audio_generated": false,
+  "actual_delivered_cursor": 59,
+  "continuation_anchor": {
+    "episode": 59,
+    "title": "Family Business",
+    "sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
+    "evidence": "Actual manuscript delivered and exactly reposted inthisconversation. No authoracceptanceasserted.",
+    "alternate": "Still Family is a preserved alternate preparation, notused for thiscontinuation."
+  },
+  "draft_dependency": "530dd2c24a7da5f26566f049ddabcdc0ef50674897f75a68cfdef357d5a79d04",
+  "candidate_end_state_if_later_delivered": {
+    "candidate_only": true,
+    "day": 26,
+    "time": "dusk",
+    "location": "Coastal export depot; Sins camp beyond rope sheds; TPP submarine at outer berth after surface voyage Days23–24.",
+    "Sins": "Kaze, Arthur, Daynah, Mahnah outside; Billy exterior, Chris inside. Daniel departed in actual59, spear custody Kaze; ownership Daniel. Charles and Meatwad remain protected guests inside Billy. Shake physically exited and returned to submarine. Frylock separate, whereabouts unestablished.",
+    "funds": {
+      "Sins_common_silver": 2413,
+      "Daniel_separate_silver_with_Arthur": 110,
+      "Kaze_personal": 0,
+      "TPP_common": 236,
+      "TPP_separate_receipt": 5
+    },
+    "funds_change": "No Sins changes beyondE61. TPP106+130finalbalance=236; original200contract less30wreckdeduction=170total paid including40advance. Separate5 unchanged.",
+    "cargo_inside_Billy": {
+      "perfume_crates": 5,
+      "silk_rolls": 2,
+      "medicinal_spirit_casks": 2,
+      "lamp_oil_barrels": 4,
+      "Noll_toolbox": 1,
+      "older_unopened_chests": "Unchanged four E57–58 plus two E31; value still unknown."
+    },
+    "weapons": "Clifford same giftreal-lasersaber used onlycontactcuts chain/rope/braceeye, noForce. Retains atberthfinal. OtherSinsgearunchanged. Daniel spearstillKaze.",
+    "TPP": "Dutch foreheadinjury/headache persists, face mango/trees/Bob LEFT cheek retained. Chart paintedTahiti/mangoisland; no answeringghost. Brianresearch helpedonce thenpredictionsfailed. Evil usefulsupport remainscalculatedlongcon; offers shipannouncements diagnosis tomorrow. Shakealive aboard.",
+    "game": "Day25 fishing deferred byactualmessage afterrescue; Day26 Jack voluntaryguestinsideBilly, safe return demonstrated twice, peacefulfishing completed, headsetremainsinsideBillyoriginalconsole. Jackreturnsberthandsaberisstillonshelf. No65theftyet; nofullcampaigncompletion oractualArthurforgiveness.",
+    "consequences": "Rear moneywagon escaped dueNoll stall/signal. Fronttwo cargo stolen;3escort deaths plusNoll. Drivers and horses depart. Watch recognizes Chris/Kaze via actualdispatch; inlandfreightstopped. Fenn finite320purchase only.",
+    "crime": "All4brassinstrumentcases stolen and deliveredSella. Borrowedlaunch wrecked atgantry; serviceboatintact. Signal tower destroyed, accidentally obstructingpatrol and reinforcingDutch badreasoning. Merrit coercedguide releasedonpromisedcompletion,alivewithknowledgeofship/faces; signalman survivesfloatingwreck rescue pending. Dutch E62one lethalshot; E63oneguardshotandonecovering,3newrounds total; CliffordE62two cover shots,E63zero. Noexactreservesinvented."
+  },
+  "actual_state_advanced_by_save": false,
+  "sources": [
+    {
+      "path": "live/canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+      "sha256": "40fdb97179a8a9c5f5edfba7663b253d23275e9b5ebeac4623b23efea41f438b"
+    },
+    {
+      "path": "newest/continuity/author/S7NS_Locked_Batch_R6_20261023.md",
+      "sha256": "11717c563c7867fa92466449fae17856559b6c6c9cafa6ddacafd7bc50962acb"
+    }
+  ],
+  "full_owner_reading": "Reuse unchanged full owners read in this session: Chris original mechanics/full CORE speech; Billy/BELLY; Kaze psychology/mechanics; Arthur unifiedweapon/current; Daynah/Mahnah originals; Brian original/full currentoverrides; Dutch lateChapter3owner; adult1914Jack owner; DrEvil full relevantfidelity sections; actual57–58 and59 manuscript. R6 latestoverrides andR2 selections read. Not an allseason audit.",
+  "episode_record_contract": {
+    "units": [
+      {
+        "episode": 62,
+        "word_count": 3841,
+        "sha256": "55ebbf70627af0e453aab772308897d120f8011bf0c581878f845e088ba09aed",
+        "estimated_minutes_at_150wpm": 25.61,
+        "full_text_read_coverage": "Complete separate first review, repairs, complete revised reread; truncated tool segments explicitly continued.",
+        "actual_repairs": [
+          "Attached Dr Evil departure line to its actual speaker after the inserted boat-handling scene.",
+          "Replaced mechanics/compliance commentary with contact, vessel and prison details.",
+          "Added actual shore visit postponing fishing after the rescue, preserving Day25-to26 timing.",
+          "Replaced asserted private rehearsal with observable request and response."
+        ],
+        "weakest_span_decision": "Boat-seating insert needed clearer dialogue attribution; repaired. Captivegratitude scene retained because Brian thanks rescuer but permitscoercion, contrasting later selfjustification."
+      },
+      {
+        "episode": 63,
+        "word_count": 3956,
+        "sha256": "6590d37d13f82f3a4a5c7deaa74a825644a90389bf93d166847a90483b61b9ce",
+        "estimated_minutes_at_150wpm": 26.37,
+        "full_text_read_coverage": "Complete separate first review, repairs, complete revised reread; truncated tool segments explicitly continued.",
+        "actual_repairs": [
+          "Established stored paint/brush, real map conflict, captive false praise, key-ring access, weakened tower foot and physical cutting route.",
+          "Preserved Dutch ongoing pain and grief rather than attributing lifetime behavior to one injury.",
+          "Corrected duplicate stool/headset staging and removed unsupported world-arrival date implication."
+        ],
+        "weakest_span_decision": "Pre-fishing controls risked repetition; corrected staging and retainedtwo requested demonstrations because Jack chooses verifiedsafety. Campaign remainsfuture. Tower scene earnsbadreasoning reinforcement viarealaccident."
+      }
+    ],
+    "narrator": "Wade only; no future outline feed, Brian cannot hear narrator. Physicalactors have onlyobserved knowledge.",
+    "material_resolutions": [
+      {
+        "source": "R6 + Chris hat mechanics",
+        "evidence": "Nollwinswit, signalsmoneyescape; pity triggerssamevictimhatkillatveryend60; exactshoutsand20seconds."
+      },
+      {
+        "source": "R6 Jackaccess + oneexterior owners",
+        "evidence": "Shake physicallyexitsBilly61; originalheadsetreturned; originalconsole staysinside; Jackvoluntaryvisit63 endsberthsaberretained."
+      },
+      {
+        "source": "R6 Dutch/DrEvil/Brian",
+        "evidence": "Usefulobservationandflattery62; realcrashheadimpact,rescue,leftcheekfuss; chartoperation63, captivepraise,toweraccidentalbenefit; Evilcrediblesupportnotgenuinefatherhood."
+      }
+    ],
+    "regressions": {
+      "custody_and_resources": {
+        "result": "PASS",
+        "evidence": "Cargo9/6 initial minus4/4sale=>5/2; Sins2413;TPP106then236,5separate;Daniel110separate."
+      },
+      "same_body": {
+        "result": "PASS",
+        "evidence": "Explicitinversionsandbanjo/headgearpaths;BillyexteriorChrisinsideatfeatureend."
+      },
+      "source_causality": {
+        "result": "PASS",
+        "evidence": "NoForceforJack;directsabercontact;shiprealcoastaljourney; guideactualknowledge; realrescueboat."
+      },
+      "future_separation": {
+        "result": "PASS",
+        "evidence": "Shakealive, saberretained, 64TaiLungand65murderstillfutureat63boundary."
+      },
+      "all_season_audit": {
+        "result": "NOT_RUN",
+        "evidence": "Scopedowner/manuscript review only."
+      }
+    },
+    "unresolved_issues": [],
+    "editorial_assessment": "Assistantjudgment; no authorapprovalorqualityguarantee."
+  },
+  "delivery_rule": "Retrieve this exact draft onlywhenuserrequestssend. SavingdoesnotcountasPLAY."
+}
