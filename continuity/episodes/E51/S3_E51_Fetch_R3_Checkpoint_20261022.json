@@ -1,0 +1,170 @@
+{
+  "schema": "S7NS_SINGLE_EPISODE_PREPARATION_V1",
+  "change_id": "S7NS_E51_FETCH_FOURTH_WALL_R3_20261022",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 51,
+  "title": "Fetch",
+  "episode_count": 1,
+  "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "Latest user lock it all in / ready to send resumes specifically sameE51 resend after hold. No52.",
+  "previous_delivery": {
+    "episode": 50,
+    "title": "All In",
+    "status": "DELIVERED_PROVISIONAL",
+    "manuscript": "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
+    "sha256": "a4797d2634759a54fe6c19ae0484d7eb81acaa9b15ed00ffed1c8b70aaece377",
+    "reconciliation": "continuity/episodes/E50/CHAT_DELIVERY_RECONCILIATION_20261021.json"
+  },
+  "manuscript": {
+    "path": "continuity/episodes/E51/S3_E51_Fetch_R3_FINAL_20261022.txt",
+    "words": 5655,
+    "bytes": 35379,
+    "sha256": "d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce",
+    "git_blob_sha1": "ffb00a276e63772c097a7506e798056dd6db8970",
+    "estimated_minutes_at_150_wpm": 37.7,
+    "audio_generated": false,
+    "drive_id": "1AwfiSKKg8V8bvUjde-qTV-Ujsf_mIs1K",
+    "drive_mime": "text/plain"
+  },
+  "checkpoint_path": "continuity/episodes/E51/S3_E51_Fetch_R3_Checkpoint_20261022.json",
+  "sources": {
+    "bounded_four_app_prepass": {
+      "GitHub": "Fresh complete CURRENT and DELIVERY_LEDGER; exact E50 manuscript/checkpoint/reconciliation; live cumulative owner and active outline; live Chris CORE speech.",
+      "Airtable": "S7NS Continuity Control (Reference), appKCCr9zg0rsfbOI; actual E50 episode record recgzJP3OJ6uXFMrQ read, matching frozen hash and delivery status. E51 search returned no rows.",
+      "Notion": "Existing Episode and Checkpoint Index fetched; top E50 actual delivery section agrees. Historical lower sections not treated as current.",
+      "GoogleDrive": "Existing cumulative-release native document fetched; actual current cumulative owner agrees with attached source. Existing S7NS folder reused. E51 search returned no file."
+    },
+    "source_versions": {
+      "cumulative_owner": "continuity/author/S7NS_Cumulative_Approved_Update_20261022.md",
+      "E36_E38_R2_blob": "f1dbb74c081e3c80a1ebc9ff7c97014b26b113f9",
+      "E39_E40_R2_blob": "634817760643f735ddabb57c88e50a6e5723ca3a",
+      "Chris_CORE_blob": "389ac960e3ddd08494a8ea7fe0cc03bbe72f5a45"
+    },
+    "material_full_owners_and_scopes": [
+      "Season3_Scene_Decision_Doctrine_20261010.md",
+      "S7NS_Authorial_Intent_Raw_Note_Fidelity_Active_Comedy_v1_1_20261020.md",
+      "S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
+      "S7NS_Cumulative_Approved_Update_20261022.md",
+      "S7NS_Post_E50_Fourth_Wall_Recovery_Animal_Scope_20261021.md",
+      "S7NS_Deadpool_Unhinged_Comparison_Humor_20261021.md",
+      "Deadpool current narrator and Rick speech owners",
+      "Chris CORE speech owner; original Chris/Billy deep-character, possession, fourth-wall, headgear and speech sections",
+      "Kaze individual portrayal, current morality/metafiction and full S39 forty-mechanism section",
+      "Arthur individual identity/voice/agency section; Dana and Mana complete individual source files",
+      "Lord Starkiller dedicated source; actual E39–40 freight-yard sequence and E36–38 Daniel/Tai Lung rematch passages"
+    ],
+    "limits": "Relevant sections and current scoped owners consulted; not a claim of rereading every historical source, whole combat kit or every archive. No new external factual research or audio test. Scene uses ordinary bodies, existing headgear and ordinary handling, no new combat ability.",
+    "revision_prepass": "Fresh GitHub complete CURRENT/LEDGER/KAZE_READ_FIRST and exact E51 manuscript/checkpoint; same E51 Airtable record and existing Notion index; Drive exact R1 text agrees with GitHub. Reused prior full doctrine/comedy/character/voice reading where unchanged. New full source read: Billy_Jesus_Encounter_Scene_20261009.txt and complete actual campfire Jesus sequence in approved_rolloff/staged/MERGED_EPISODES/05_THE_SKY_DONT_GIVE_A_FUCK.md; current full-body jaw-switch/egress/storage clauses consulted. Latest direct author controls revised wording and new realization.",
+    "R3_prepass": "Fresh connected CURRENT/DELIVERY_LEDGER/full active-outline records, priorR2 checkpoint and live Brian approval; same Airtable51 row and Brian row; existing Notion index and matching Drive author owner. Relevant full character/voice/mechanics/doctrine/source-history reads from earlier unchanged work reused. Complete final manuscript reopened again before save; no new internet research or audio test."
+  },
+  "authorship": {
+    "Kaze_originated": "Characters, existing relationships/psychology, selected Mahnah church-crucifix theft and Billy/Jesus callback, Daynah trust/deception motive, narrator-answer permission, and solo Starkiller inquiry with real Maul-hilt handoff. Original raw notes remain unchanged in their source owners. Latest author additionally originates priest examination as FIRST real recognition, exterior Billy whole-story retelling, Chris exact Indian giver beat, and Bible/filthy humor during extraction.",
+    "real_Chris_and_assistant": "Exact required four-turn contribution enacted at opening: Chris I farted.; assistant/Wade Noted.; Chris Thanks.; assistant/Wade Yep. First/third turns originated by real Chris, second/fourth by prior assistant as preserved by Kaze.",
+    "AI_expansion": "New oral retelling, original Bible/physical/ownership jokes, Father Ansel identity and examination/illustrated-volume staging, physical release/reintake and reactions. Original campfire manuscript untouched; no claim of independent historical/religious artifact verification.",
+    "R3": "Kaze originated corrected forgotten-capability sequence, Chris-to-Kaze target, unease, recognition, upgrade response and mutual51episode shock. AI expanded dialogue/jokes and connective action. Latest author Yup overrides earlier exact Yep. Kaze selects allBrianP1-P5 for future scenes; not enacted here."
+  },
+  "candidate_state_after_play": {
+    "chronology": "Same Day19 afternoon as E50; no overnight or automatic capital arrival. Barn departure → foreman route → local chapel/gardens → square stone junction.",
+    "Chris_Billy": "Chris exterior opening. After dog crucifix recovery, one continuous jaw/chest inversion makes Billy sole exterior, Chris full-sized inside at exterior monitor speaking through Billy banjo. Billy holds floor/retells, physically releases and reintakes original artifacts. Chris requests return; Billy permits full inverse switch. Chris exterior for recognition/alarm/junction and episode end, Billy inside with banjo; headgear projects Billy voice again.",
+    "narrator_knowledge": "Chris's fart addressed to Kaze triggers forgotten-capability rediscovery. Kaze/Chris/Billy realize current narrator is Wade; Mahnah responds silently, Arthur/Daynah do not hear. Wade newly learns they can answer; he says Mimir is withKratos, wins Kaze over, reacts to entire51episode silence without claiming pre33 tenure. New question about Daniel then establishes TaiLung identity/rematch/loading yard through Wade and Kaze's relay. Later established Starkiller name disclosed; current whereabouts/Maul affiliation remain unknown.",
+    "Mahnah": "Same nonverbal giant base canine, no form change. Removes replica during service, carries it out. Chris tugging briefly reinforces tug game; Daynah stops simultaneous pulling and cues release while gang supports physical weight. Situational Moses, commandment, body-of-Christ/resurrection jokes; ordinary handler competence solves it without forced weakness.",
+    "chapel": "Original supporting foreign congregation in Noxus, an AI-created location implementing the selected church beat; not asserted official Riot religious lore. Priest prevents candle fire, survives and demands departure. Existing Golden Heron notice enables local name/description recognition; smith bars shop, priest supports bell alarm and a man warns reachable homes. This is an initial local consequence, NOT fulfillment of the entire serious-lasting-consequence direction.",
+    "Daynah": "Baseline throughout, normal first-person speech. Hurt/anger concerns being excluded from dog information, not a new categorical anti-theft morality. Chris/Kaze agree to inform him. Agreement is not established permanent reform.",
+    "witness": "One surviving adult freight guard from actual E39–40 station describes witnessed cart lift, black blade/hinge, gate deaths and chart/port inquiry. Newly shown return from pay-officer search above works via next ford accounts for presence. Report is explicitly old, not a current Starkiller location. Guard remains alive and leaves freely.",
+    "Kaze": "Changes immediate route to solo coast inquiry seeking Starkiller/Maul association and further threat to family. No accusation that Starkiller directly killed Daniel, whose killer was just disclosed. No fixed confrontation/duel/alliance. Carries Maul hilt handed over by Arthur, inactive. Leaves junction alone on known backtrack toward coast; arrival not shown.",
+    "remaining_group": "Arthur, Chris/Billy, Daynah and Mahnah at square stone junction. Intend return above works and leave word with existing foreman if they move; actual return/camp not yet depicted. Capital/Swain objective displaced, still open.",
+    "actual_deaths_and_holds": "No new death or resurrection. Daniel/Tracy/Keke/Maul/Cartman/Jimmy/Timmy remain dead. Frylock alive; Shake/Meatwad/Charles inside. Romance OFF; Briar off plot; Teemo excluded; Zid not Sin.",
+    "Billy_Jesus": "BEFORE Ansel confirms artifacts, Billy still believes historical Jesus was an impersonator. Retells same campfire facts in new language: crowd leaves, Jesus cries own name, virgin Mary/miracle dispute, invoice suspicion and self-important anti-scam rhetoric, swallows WHOLE man nailed to cross plus thorns/nails. Priest asks for artifacts, physically examines genuine cross/crown against his religious volume and explicitly affirms identity. ONLY THEN Billy first accepts he literally swallowed Jesus Christ. Chris/gang previously knew. Billy acknowledgement changes knowledge prospectively; no original campfire disbelief erased. Jesus already dead/digested/defecated, no resurrection or living passenger.",
+    "artifacts": "Original cross and crown gifted to Chris in established Special5. Chris calls Billy Indian giver, demands borrowing language and permits inspection. Chris inside positions objects for Billy sovereign release. Original cross comes through mouth, Kaze/Arthur lower it; crown separately on ledge; Ansel examines. Chris retains ownership, no gift to priest. Kaze/Arthur lift cross for actual reintake; crown follows preserving route; Chris restores protected storage. Nails never released/never gifted. Chapel replica is a different damaged object, remains church-owned."
+  },
+  "resources": {
+    "common_silver": 2111,
+    "Kaze_personal_silver": 0,
+    "Daniel_purse_unopened": 110,
+    "Daniel_purse_custodian": "Arthur",
+    "TPP_old_purse": 54,
+    "TPP_separate_business_receipt": 5,
+    "E31_chests": "Both unopened/uncounted",
+    "Maul_hilt": "Arthur hands same single inactive wrapped hilt to Kaze at junction",
+    "Arthur_survey": "Arthur retains same torn local map",
+    "new_silver_income_or_spending": 0,
+    "shots": 0,
+    "lightsaber_activations": 0,
+    "new_deaths": 0,
+    "cross": "CHAPEL replica damaged/recovered and left there. ORIGINAL crucifix and crown briefly loaned for Ansel examination, physically returned to protected storage, still Chris-owned. Original nails stay Billy-owned and uninspected.",
+    "vehicle_and_R2": "No deployment, fuel creation or droid relocation.",
+    "new_gifts": 0
+  },
+  "review": {
+    "draft_read": "Full new draft opened through ending during prior preparation; final text read in complete sequential chunks after repairs.",
+    "repairs": [
+      "Replace familiar narrator opening with authored fart→uneasy Thanks→Yup→rediscovery→Mimir whereabouts/job→upgrade→mutual shock chain.",
+      "Replace unsupported ladder recollection with explicit hypothetical analogy.",
+      "Remove all-caps shout; preserve excited spoken delivery.",
+      "Fix cloth-fold timing and align serious Daniel reply with Wade not knowing they could hear him."
+    ],
+    "final_read": "Exact frozen5655word text reopened completely in two untruncated chunks in this resumed turn. No prose edits after hash d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce.",
+    "weakest_span": "Expanded narrator scene earns its space by resolving explicit author continuity correction and making later mystery questions possible. Rest of same episode retains reviewed Jesus/physical/social/inquiry causality. New Brian meeting material remains future rather than a forced detour.",
+    "checks": {
+      "fourth_wall": "PASS editorial: Chris speaks to Kaze; uneasy answer recognition; participants hear; Mimir/Deadpool recognition; Kaze is won over; Wade surprised;51 refers whole-season silence not his tenure.",
+      "Jesus": "PASS editorial: same reviewedR2 story/artifacts/ownership/examination-before-recognition material; actual whole-swallow history and dead/digested/excreted outcome retained.",
+      "mechanics": "PASS editorial: one exterior, Billy inside/headgear at opening; real physical switches and artifact handling retained.",
+      "other_cast": "PASS editorial: Arthur/Daynah hear outward character speech only; Mahnah nonverbal. No new Brian or TPP meeting enacted.",
+      "ending": "PASS: sameDay19 junction→Kaze alone coastward with actual hilt. No new injury/death/shot/saber activation/coin change.",
+      "runtime": "5655words/assumed150wpm=37.7min, beyond older25–30target due explicit complete corrections. Not measured or generated audio."
+    }
+  },
+  "unperformed_selected_work": [
+    "E50 same-span poker intrusive-feeling/recollection/narrator-recognition insertion remains unwritten; E51 ordinary existing narrator interaction does not claim to enact/rewrite that specific E50 scene.",
+    "Tristan LEFT slipper/EYES CLOSED/phone anecdote and Chris shirt-lasso sleepwalking remain selected future. No Brian scene in51.",
+    "Dr Evil sole-motive long con, Dutch unintended enabling/fan-love, Frylock death/voluntary exits, Keke regrowth and Shang/Riddick compact fatal arcs retain latest cumulative scopes, not occurred by omission.",
+    "Restaurant serious lasting consequences still require further material follow-through for both Chris and Kaze; local recognition/alarm alone does not discharge requirement.",
+    "Kaze must actually locate/reach Starkiller before conversation; no preselected duel, lie, confession, alliance or return route.",
+    "R2 new Billy recognition and artifact inspection remain PREPARED until complete revised response exists. No52 authorized; no new campfire replay, death, redemption campaign or compulsory future religious arc."
+  ],
+  "next_episode": 52,
+  "episode52_authorized": false,
+  "delivery_rule": "Frozen candidate until full final response actually exists. Next interaction reconciles delivery as DELIVERED_PROVISIONAL; author acceptance separate.",
+  "revision": "R3",
+  "same_episode_revision": true,
+  "author_owner": "continuity/author/S7NS_E51_Fourth_Wall_Rediscovery_R3_20261022.md",
+  "original_E51_preserved": {
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_FINAL_20261022.txt",
+    "sha256": "c37c4647b6c4521fd8d2b04a1393c88ceac8f29ffbc0f744ba4208ba1d573ee7",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_Checkpoint_20261022.json",
+    "delivery_reconciliation": "continuity/episodes/E51/R1_CHAT_DELIVERY_RECONCILIATION_20261022.json",
+    "status": "DELIVERED_PROVISIONAL_REVISION_REQUESTED",
+    "author_acceptance": "NOT_ASSERTED"
+  },
+  "original_R2_pair_preserved": {
+    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R2_FINAL_20261022.txt",
+    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json",
+    "delivery_reconciliation": "continuity/episodes/E51/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json",
+    "sha256": "0477f3dd40caf0ca40547a4f1ffb2714865bc52bd8c1f50982e6be85c650e8be",
+    "status": "DELIVERED_PROVISIONAL_REVISION_REQUESTED"
+  },
+  "prior_R2_review": {
+    "first_full_read": "Complete5030word expanded R2 manuscript reopened untruncated. Earlier5413word construction compressed in unchanged opening/aftermath/lead passages without deleting events.",
+    "repairs": [
+      "Correct two speaker ambiguities introduced by compression: Arthur name/direction observation and Daynah request.",
+      "Remove invented Chris shouting-his-name-at-poker callback.",
+      "Give Billy fresh Judas/justice/judgment rhetoric rather than claiming loss of source memory or copying full campfire wording.",
+      "Correct cross resting/support/lift geometry before reintake and Kaze getting off reclaimed handcart.",
+      "Remove invented Jesus-digestion-within-three-days claim; no new exact digestion interval.",
+      "Fix Daynah noticing dog by own glance rather than appearing to hear Wade."
+    ],
+    "complete_final_reread": "Complete final5010word text reopened untruncated after all repairs; no subsequent prose edits.",
+    "weakest_span_decision": "Preserved entire protected story/proof/recognition arc and distinct handling/ownership comedy. Compressed less consequential repeated travel questions. Expanded same episode to33.4min at assumed150wpm because latest author requests complete retelling and recovery humor; this exceeds older25–30min target, not measured audio.",
+    "checks": {
+      "author_fidelity": "PASS editorial: mistaken-impostor conviction persists until genuine artifact examination; all-arrangement swallow; prior Chris gift and exact requested phrase; whole source event rephrased; physical exterior Billy; filthy Bible recovery jokes.",
+      "mechanics_custody": "PASS editorial: one exterior, two real switches, actual mouth release and reintake, separate replica, Chris loan/retained ownership, nails remain separate.",
+      "knowledge": "PASS editorial: Ansel authenticates first, then Billy realizes. No early Billy acceptance, resurrection, magical detector or universal holy powers.",
+      "story_continuity": "PASS editorial: sameDay19 and same final route/hilt handoff; no new deaths/money/shots/saber activation; other prior scopes preserved.",
+      "audio_runtime": "NOT_RUN;5010words/150=33.4estimatedminutes.",
+      "comedy_quality": "Editorial judgment: priest competence/certainty, Billy vanity/skepticism, Chris ownership/associations, Daynah handling, Kaze instigation and Wade obscene imagery interact rather than interchangeable gag queue."
+    }
+  },
+  "pending_future_Brian_owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
+  "pending_future_Brian_status": "ALL_REPERTOIRE_INCLUDING_P1_P5_AUTHOR_APPROVED_NOT_ENACTED"
+}
