@@ -543,54 +543,63 @@
     {
       "episode": 51,
       "title": "Fetch",
-      "revision": "R2",
-      "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R2_FINAL_20261022.txt",
-      "manuscript_sha256": "0477f3dd40caf0ca40547a4f1ffb2714865bc52bd8c1f50982e6be85c650e8be",
-      "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R2_Checkpoint_20261022.json",
-      "delivery_status": "DELIVERED_PROVISIONAL_REVISION_REQUESTED",
-      "delivery_reconciliation": "continuity/episodes/E51/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json",
+      "revision": "R3",
+      "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R3_FINAL_20261022.txt",
+      "manuscript_sha256": "d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce",
+      "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R3_Checkpoint_20261022.json",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "delivery_reconciliation": "continuity/episodes/E51/R3_CHAT_DELIVERY_RECONCILIATION_20261022.json",
       "author_acceptance": "NOT_ASSERTED",
       "chat_byte_identity": "NOT_MACHINE_VERIFIED"
     }
   ],
   "prepared_episode": {
-    "change_id": "S7NS_E51_FETCH_FOURTH_WALL_R3_20261022",
+    "change_id": "S7NS_E52_EYE_CONTACT_20261022",
     "episode_span": [
-      51
+      52
     ],
     "episode_count": 1,
-    "title": "Fetch",
-    "revision": "R3",
-    "same_episode_revision": true,
+    "title": "Eye Contact",
     "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
     "author_acceptance": "NOT_ASSERTED",
-    "authorization": "Latest user lock it all in / ready to send resumes specifically sameE51 resend after hold. No52.",
-    "author_owner": "continuity/author/S7NS_E51_Fourth_Wall_Rediscovery_R3_20261022.md",
-    "manuscript": "continuity/episodes/E51/S3_E51_Fetch_R3_FINAL_20261022.txt",
-    "manuscript_sha256": "d0f7bb016a845e0bc1b632c5641b951b54075189aee7083d35544b7f1bb8c7ce",
-    "manuscript_git_blob_sha1": "ffb00a276e63772c097a7506e798056dd6db8970",
-    "checkpoint": "continuity/episodes/E51/S3_E51_Fetch_R3_Checkpoint_20261022.json",
-    "drive_manuscript_id": "1AwfiSKKg8V8bvUjde-qTV-Ujsf_mIs1K",
-    "drive_checkpoint_id": "1FaEZv7ZXqamsPJpQKQKxzBAn7khIkIPL",
-    "words": 5655,
-    "estimated_minutes_at_150_wpm": 37.7,
+    "authorization": "Explicit single52 PLAY; no53.",
+    "manuscript": "continuity/episodes/E52/S3_E52_Eye_Contact_FINAL_20261022.txt",
+    "manuscript_sha256": "211bb6fe49b63ee9a16467c1f4e244ca481d58671e1a86d53f740ff951d82f78",
+    "manuscript_git_blob_sha1": "29af44af3a8b97f0a57bcf9611a26b05f6999a38",
+    "checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json",
+    "checkpoint_git_blob_sha1": "cf3351a04446d2c9579eed5cf4a493ea74575b71",
+    "drive_manuscript_id": "1BJE3JE5CzSIssyjetoz5zKqmwlZ4wd1N",
+    "drive_checkpoint_id": "1kdbJfGCJlIqVbcMdK1J2rMtvp6t0Y6Gu",
+    "words": 3805,
+    "estimated_minutes_at_150_wpm": 25.366666666666667,
     "audio_generated": false,
     "airtable_episode_record_ids": [
-      "recO0O1hxfH6Cc00F"
+      "rec4NVhzCJK0ayaqi"
     ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
-    "next_action": "Render exact frozen R3 for explicitly resumed51 resend; reconcile only after full response exists."
+    "four_app_readbacks": {
+      "GitHub_pair_exact": true,
+      "Drive_pair_exact": true,
+      "Airtable_hash_checkpoint_status": true,
+      "Notion_scope_hash_links": true
+    },
+    "verification": "continuity/episodes/E52/S3_E52_Eye_Contact_Verification_20261022.json",
+    "Library_package": {
+      "library_file_id": "libfile_831415ca44f881919429ce683ccdb29c",
+      "path": "/workspace/scratch/e9b248a4a62a/S7NS_Episode_52_Eye_Contact_Reviewed_Package_20261022.zip",
+      "version": null
+    },
+    "next_action": "Full exact single52 PLAY; reconcile only after complete response exists."
   },
   "playback_control": {
     "paused": false,
     "authorized_episode_span": [
-      50
+      52
     ],
-    "last_delivered_episode": 49,
-    "next_episode": 50,
-    "basis": "Explicit50only. Candidate50notactualuntilwholechat. No51.",
-    "same_span_revision": false,
-    "latest_chat_delivered_episode": 49
+    "last_delivered_episode": 51,
+    "next_episode": 52,
+    "basis": "Explicit play52only; no53.",
+    "same_span_revision": false
   },
   "latest_scoped_author": "continuity/author/S7NS_E51_Fourth_Wall_Rediscovery_R3_20261022.md",
   "current_author_configuration": {
@@ -654,7 +663,7 @@
     "original_r8_source_unchanged": true
   },
   "latest_Arthur_weapon_policy_author": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
-  "delivery_status": "E51_R2_DELIVERED_PROVISIONAL_R3_PREPARED",
+  "delivery_status": "E51_R3_DELIVERED_PROVISIONAL_E52_PREPARED",
   "default_PLAY_episode_count": 2,
   "default_PLAY_format": "TWO_CONSECUTIVE_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_OVERRIDDEN",
   "default_PLAY_format_owner": "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
@@ -667,7 +676,7 @@
     "episode51_authorized": false
   },
   "next_episode_authorized": true,
-  "last_reconciliation_id": "continuity/episodes/E49/CHAT_DELIVERY_RECONCILIATION_20261021.json",
+  "last_reconciliation_id": "continuity/episodes/E51/R3_CHAT_DELIVERY_RECONCILIATION_20261022.json",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
   "episode_count_unchanged": true,
@@ -1183,7 +1192,7 @@
     "next_action": "Render exact saved51 text in current authorized PLAY response; next interaction reconcile actual completion. No52 authorization.",
     "delivery_reconciliation": "continuity/episodes/E51/R1_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
-  "episode52_authorized": false,
+  "episode52_authorized": true,
   "preparation_rule": "R1 actually delivered51; original frozen. R2 same-span revision prepared for current explicit resend; not a second church day. Reconcile actual revised response only afterward.",
   "last_delivered_episode": 51,
   "prepared_E51_Fetch_R2_20261022": {
@@ -1224,7 +1233,7 @@
     "title": "Fetch",
     "revision": "R3",
     "same_episode_revision": true,
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "status": "DELIVERED_PROVISIONAL",
     "author_acceptance": "NOT_ASSERTED",
     "authorization": "Latest user lock it all in / ready to send resumes specifically sameE51 resend after hold. No52.",
     "author_owner": "continuity/author/S7NS_E51_Fourth_Wall_Rediscovery_R3_20261022.md",
@@ -1241,7 +1250,47 @@
       "recO0O1hxfH6Cc00F"
     ],
     "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
-    "next_action": "Render exact frozen R3 for explicitly resumed51 resend; reconcile only after full response exists."
+    "next_action": "Render exact frozen R3 for explicitly resumed51 resend; reconcile only after full response exists.",
+    "delivery_reconciliation": "continuity/episodes/E51/R3_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
-  "latest_Brian_comedy_approval": "P1-P5 and all prior repertoire AUTHOR_APPROVED_FUTURE_NOT_ENACTED"
+  "latest_Brian_comedy_approval": "P1-P5 and all prior repertoire AUTHOR_APPROVED_FUTURE_NOT_ENACTED",
+  "prepared_E52_Eye_Contact_20261022": {
+    "change_id": "S7NS_E52_EYE_CONTACT_20261022",
+    "episode_span": [
+      52
+    ],
+    "episode_count": 1,
+    "title": "Eye Contact",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "author_acceptance": "NOT_ASSERTED",
+    "authorization": "Explicit single52 PLAY; no53.",
+    "manuscript": "continuity/episodes/E52/S3_E52_Eye_Contact_FINAL_20261022.txt",
+    "manuscript_sha256": "211bb6fe49b63ee9a16467c1f4e244ca481d58671e1a86d53f740ff951d82f78",
+    "manuscript_git_blob_sha1": "29af44af3a8b97f0a57bcf9611a26b05f6999a38",
+    "checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json",
+    "checkpoint_git_blob_sha1": "cf3351a04446d2c9579eed5cf4a493ea74575b71",
+    "drive_manuscript_id": "1BJE3JE5CzSIssyjetoz5zKqmwlZ4wd1N",
+    "drive_checkpoint_id": "1kdbJfGCJlIqVbcMdK1J2rMtvp6t0Y6Gu",
+    "words": 3805,
+    "estimated_minutes_at_150_wpm": 25.366666666666667,
+    "audio_generated": false,
+    "airtable_episode_record_ids": [
+      "rec4NVhzCJK0ayaqi"
+    ],
+    "notion_episode_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "four_app_readbacks": {
+      "GitHub_pair_exact": true,
+      "Drive_pair_exact": true,
+      "Airtable_hash_checkpoint_status": true,
+      "Notion_scope_hash_links": true
+    },
+    "verification": "continuity/episodes/E52/S3_E52_Eye_Contact_Verification_20261022.json",
+    "Library_package": {
+      "library_file_id": "libfile_831415ca44f881919429ce683ccdb29c",
+      "path": "/workspace/scratch/e9b248a4a62a/S7NS_Episode_52_Eye_Contact_Reviewed_Package_20261022.zip",
+      "version": null
+    },
+    "next_action": "Full exact single52 PLAY; reconcile only after complete response exists."
+  },
+  "episode53_authorized": false
 }
