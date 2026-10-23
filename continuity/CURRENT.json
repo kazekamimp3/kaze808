@@ -33,8 +33,8 @@
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_NEXT.md",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
-  "outline_rule": "Read the latest full scoped author and brief. A plan cannot undo delivered events, assume automatic actor compliance or advance the clock.",
-  "latest_direct_author_scope": "continuity/author/S7NS_Chat_Handoff_Brian_Desert_Easter_20261023.md",
+  "outline_rule": "Use continuity/SEASON3_ACTIVE_OUTLINE.json selected_chronology_R6 and continuity/author/S7NS_Locked_Batch_R6_20261023.md. Old outlines/proposed schedules historical. No fixed finale94/99.",
+  "latest_direct_author_scope": "continuity/author/S7NS_Locked_Batch_R6_20261023.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -72,9 +72,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "Copy-paste handoff; Brian desert departure and Easter setup selected; egg identity Jesus proposed only; all-season analysis incomplete; actual58 and NO PLAY unchanged.",
-  "work_resume_checkpoint_latest": "continuity/author/S7NS_Brian_Departure_Chronology_Review_R5_20261023.md",
-  "work_change_id": "S7NS_BRIAN_DEPARTURE_CHRONOLOGY_R5_20261023",
+  "work_status": "R6_AUTHOR_SELECTED_FUTURE_APPLIED; NO_PLAY; READBACK_RECEIPT_SEPARATE",
+  "work_resume_checkpoint_latest": "continuity/work/S7NS_Locked_Batch_R6_Readback_20261023.json",
+  "work_change_id": "S7NS_LOCKED_BATCH_R6_20261023",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": "continuity/work/S7NS_Cumulative_Replacement_Patch_Resume_20261022.json",
@@ -1171,7 +1171,7 @@
     "next_action": "Complete previous49chat observed; frozenpreparationCP unchanged.",
     "delivery_reconciliation": "continuity/episodes/E49/CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "latest_direct_author_scope_git_blob_sha1": "3b7c660686be9fa5ada3e69f37512164dc1d3dde",
+  "latest_direct_author_scope_git_blob_sha1": null,
   "latest_E49_character_application": {
     "owner": "continuity/author/S7NS_E49_Dana_Brian_BELLY_Public_Chaos_20261021.md",
     "status": "AUTHOR_SELECTED_PORTRAYAL",
@@ -2134,8 +2134,9 @@
   "latest_Daniel_farewell": {
     "status": "AUTHOR_SELECTED_FUTURE",
     "placement": 59,
-    "authority": "continuity/author/S7NS_S3_Humor_Outline_After_E58_20261023.md",
-    "alive_at_actual58": true
+    "authority": "continuity/author/S7NS_Locked_Batch_R6_20261023.md",
+    "alive_at_actual58": true,
+    "Wade_meta": "AFTER departure: expose real author Kaze half-assed spirit-realm excuse instead of second killing; no general omniscience."
   },
   "latest_Brian_green_hair": {
     "status": "DISCOVERED_IN_DELIVERED_R3_E56",
@@ -2209,10 +2210,10 @@
     "drive_id": "1wC7Qd429OQiGEqLGyMMJORGBRuvYj0s3"
   },
   "latest_all_season_review": "continuity/author/S7NS_All_Season_Review_Brian_Departure_R4_20261023.md",
-  "latest_handoff_drive_id": "1Wf9CTjECEQvbfzjpoywWv_ma6liJnDk1",
+  "latest_handoff_drive_id": "1NODXX3V-erpFzaO3fRT9YskRAkC3RYj9",
   "latest_development_R5": {
     "owner": "continuity/author/S7NS_Brian_Departure_Chronology_Review_R5_20261023.md",
-    "status": "PROPOSED_PLACEMENTS; REVIEW_INCOMPLETE; NO_PLAY",
+    "status": "HISTORICAL_PROPOSAL_SUPERSEDED_WHERE_CONFLICTING_BY_R6",
     "new_complete_reads": [
       23,
       24
@@ -2223,6 +2224,22 @@
     "author_decision_record": "recbOrgJGyvlltmaI",
     "research_record": "recrZg6qDACSbjObQ",
     "notion_page": "3fd4e1b7-29b3-817b-952d-e88c4e91f4cb",
-    "guard": "Latest direct author remains the handoff; AI proposals do not become authority. Actual58/next59 unchanged."
+    "guard": "Latest direct author remains the handoff; AI proposals do not become authority. Actual58/next59 unchanged.",
+    "superseded_by": "continuity/author/S7NS_Locked_Batch_R6_20261023.md"
+  },
+  "latest_locked_batch_R6": {
+    "change_id": "S7NS_LOCKED_BATCH_R6_20261023",
+    "owner": "continuity/author/S7NS_Locked_Batch_R6_20261023.md",
+    "raw_notes_and_TTS": "continuity/author/S7NS_Brian_Rap_Raw_TTS_Notes_R6_20261023.md",
+    "routing": "routing/S7NS_Locked_Batch_R6_20261023.json",
+    "status": "COMMITTED_AUTHOR_SELECTED_FUTURE_NO_PLAY",
+    "authorization": "esketit after blanket selection",
+    "actual58_unchanged": true,
+    "episode_generated": false,
+    "story_days_advanced": 0,
+    "egg_identity": "JESUS",
+    "Daniel_farewell_episode": 59,
+    "next_action": "Separate future WORK/PLAY authorization; all-season audit remains open.",
+    "drive_owner_id": "1NODXX3V-erpFzaO3fRT9YskRAkC3RYj9"
   }
 }

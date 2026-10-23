@@ -1,0 +1,1737 @@
+{
+  "schema": "s7ns.forward-outline.v2",
+  "change_id": "S7NS_S3_HUMOR_OUTLINE_AFTER_E58_20261023",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "status": "AUTHOR_REQUESTED_FORWARD_REVISION; AI_CONSTRUCTION_OPTIONS_NOT_INDIVIDUALLY_APPROVED",
+  "current_control": {
+    "last_delivered_episode": 58,
+    "delivery_status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "next_episode": 59,
+    "prepared_episode": null,
+    "playback_hold": true,
+    "next_episode_authorized": false,
+    "story_days_advanced_by_work": 0,
+    "KAZE_ROMANCE_ENABLED": false,
+    "Briar_active_plot": false,
+    "ensemble_paused": false,
+    "final_episode_quota": null
+  },
+  "state_owner": "continuity/features/E57_E58/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+  "current_actual_after_E58": {
+    "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
+    "Sins": "Kaze, Chris exterior/Billy inside, Arthur, Daynah baseline, Mahnah baseline, Daniel at dry shelf on inland route late Day22. No capital arrival. Charles/Meatwad/Shake inside Billy; Frylock alive separate with whereabouts unknown. Keke not returned.",
+    "TPP": "Doctor/Dutch/Brian/Clifford aboard still-moored submarine. Screening retaliation success does not reconcile Clifford/Brian tattoo grievance. Brian soreness/tattoo/green hair remain; no new mooning. Doctor major calculated reversal still pending, mild acknowledgment/rap teardown only. Existing chair/ceiling damage persists.",
+    "camera": "Chris-owned camera physically held by Meatwad inside Billy; old screening footage retained. Doctor has one expressly copied private screening copy on recreation computer. Current fight footage is camera pointed at exterior monitor, not omniscient angles or public transmission. Audience reaction is Brian memory, not self-recorded playback.",
+    "resources": {
+      "common_silver": 2111,
+      "Kaze_personal": 0,
+      "Daniel_personal": 110,
+      "Daniel_purse_now": "Daniel",
+      "TPP": 54,
+      "TPP_separate_receipt": 5,
+      "new_loot": "Four unopened ironbound transport chests, distinct from two E31 unopened chests; value not counted/distributed. Duck iron roasting pot quoted12silver; bolt ceremonial silver-threaded cloth quoted200silver, substantially cut into packaging, exact remainder/value unknown. Captain sword salvaged by Chris.",
+      "shots": "Arthur7 total: three revolver, one HighNoon, three ordinary Count; no full charge/Hypercharge. Chris4: one ChowMain, three Critic. Finite ammo/feedstock reduced, numeric reserves unestablished; no refill.",
+      "weapons_end": "Arthur Count configuration, one joined system; Chris normal tools and mask/headgear, acquired sword; Daniel spear/bottle; BlackMarrow integrated again.",
+      "bowl": "Mahnah took Brian floor bowl aboard submarine; no assertion it travelled inland."
+    },
+    "injuries": "Kaze spear/bolt wounds regenerating, blood/dirty clothes persist; no armor avoidance/gear reset. Billy shoulder/belly sword wounds healing inside, no exact completion asserted. Mahnah paw abrasion cleaned; rests. Daniel no described major wound; clone transfer not healing.",
+    "opposition": "Transfer guards killed/injured, exact aggregate count not assigned; merchants/driver escape. Crossing captain dead by valid clothed Kancho; mage and multiple soldiers killed, last injured fleeing soldier murdered by Kaze. One swallowed soldier severely injured; exact digestive final fate not newly asserted. Courier escaped inland carrying descriptions/driver report; destination and recipients not yet shown.",
+    "terrain": "Transfer yard gallery/wagon damaged. Bridge middle destroyed by defensive mage, gatehouse/three-arch aqueduct demolished by Kaze. Water spill alters road; remains impassable to ordinary traffic without repair.",
+    "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists.",
+    "knowledge_correction_from_delivered51": "Kaze, Chris and Billy heard Wade identify Tai Lung as Daniel's killer in51; Kaze relayed it to Arthur/Daynah. Current location remains unknown. Daniel's returned knowledge not automatically identical. This corrects an initial outline error, not a new revelation."
+  },
+  "latest_direct_author_scope": "continuity/author/S7NS_Chronology_Approvals_Review_R3_20261023.md",
+  "reader_outline": "continuity/S7NS_Season3_Revised_Outline_20261023.md",
+  "archive": {
+    "path": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json",
+    "sha256": "a25bd4ff7419d3aa57e24b2b777b5703c29c04791d21f85d69ad767ec8c3ca01",
+    "original_blob_sha1": "e056347f040cf792b6a7687e785b55a38ce4b9e9",
+    "rule": "Exact previous outline retained as provenance; old cursors/outcomes not current instructions"
+  },
+  "humor_application": "| Source influence | Use in this season | Avoid |\n|---|---|---|\n| Kaze's original Chris duels, Billy stories and Brian premises | Committed absurdity, disgusting specific reveals, genre betrayal, tiny grievances with enormous consequences; the impossible event leaves real history | Replaying Hawking, Bob, Jesus, conjoining, the mirror or the chair as new first-time reveals |\n| Rick and Morty | Impressive competence weaponized for embarrassing personal reasons; an attempted correction makes the problem change; costly demonstrations of being technically right | Mandatory disaster, generic nihilism, Rick gadgets granted to other people |\n| Trover Saves the Universe | People argue from bizarre but internally understandable priorities; objections and interruptions redirect the situation; hideous surroundings treated casually | Endless improvisation, interchangeable profanity, random nouns posing as jokes |\n| Aqua Teen Hunger Force | Domestic grudges, selfish ownership claims, literal misunderstandings, inventive sabotage, sudden grotesque anticlimax | Harmless household sketches, a perpetually responsible Chris, treating Meatwad as incapable of counterplay |\n| Step Brothers / Prestige Worldwide | TPP treats its self-created prestige as already real; extravagant presentation threatens a viable criminal scheme | Turning every TPP scene into an incompetent pitch meeting |\n| Anchorman | Crew identity, territorial vanity and disproportionate rivalry become physical events; they can fight competently while arguing about ridiculous stakes | A compulsory roll call, copied alley fight or new gang cameo parade |\n| Austin Powers / Dr. Evil | Elaborate villainous self-presentation meets a precise practical objection; petty authority and real menace coexist | Generic sarcastic boss, automatic immediate punchline after every meaningful exchange |\n| Spaceballs | An impressive threat is punctured by an ordinary physical or social fact, fairly staged | Repeating Clifford's surgery/Vader discovery or granting him Force powers |\n| South Park: Coon & Friends and Stick of Truth | Selfish brand politics and enormous sincere investment in shabby symbols; vile actions defended as organizational duty | Reintroducing dead children or treating the influence as imported powers |\n| Surf's Up, The Office US, Trailer Park Boys | Inside Job's observed behavior, defensive interviews, credit disputes, awkward silences, genuine shared enjoyment | Assigning Trailer Park Boys as TPP's primary voice or using interviews to explain every joke |\n| Jackass, selected directly in this conversation | Deliberate group participation, anticipation, physical consequence, camera complicity and victims' retaliation | Repeating the same prank, harmless resets, or treating all accidents as secretly intentional |\n| Chris's Theo Von and Filthy Frank influences | Sincere sideways associations, bodily disgust, grotesque specificity, culinary expertise and intrusive recollection | Theo biography or a copied performer impression; making Chris the patient dad |\n| Daniel's Pete Davidson, Dan Cummins and Jo Koy influences | Self-implication, elaborate absurd reasoning, embodied family observations, jokes in terrible circumstances | Only ice puns, automatic amnesia, or making him the gang's moral supervisor |\n| Billy's Tahm Kench / Primus / Uncle Rico strands | Predatory hospitality, tactile grotesquerie, committed personal history and glory-days interruption | A generic ancient lore terminal or silent transport container |\n| Brian's supplied public-post language | One small task becomes an imaginary broadcast event: ellipses, adjacent puns, old-school music vocabulary, invented audience, self-review | Only short jokes about height, copying private messages, or losing his actual audio competence |\n| Deadpool with the selected Rick rhetorical influence | Wade conspires with listeners, produces revoltingly precise comparisons, argues, self-corrects and exposes his own vanity | Narrating the continuity checklist, omniscient answers, giving every speaker Wade's rhythm |\n\nThese are working mechanisms, not quotas, copied routines or demands for constant comedy. Horror, restraint, genuine affection, ordinary success and a decisive unfunny death can make the surrounding humor more effective.",
+  "next_pair": {
+    "episodes": [
+      59,
+      60
+    ],
+    "status": "OUTLINED_UNWRITTEN_NOT_PLAY_AUTHORIZED",
+    "construction": "This pair is the next planned story, not a prepared script. The author-approved direction is one substantial criminal operation, real use of existing loot, a TPP side objective, a meaningful consequence of the Sins' notoriety, and progress on one existing thread. Its precise dialogue and ending remain unwritten.\n\n**59 — Farewell, then obtain something they actually want.** Begin at the shelf with the selected Daniel farewell. Wade's original phrasing may explain that real-life Daniel left Daynah's tent, so creator Kaze was trying to remove him again before he walked back in and heard it. Do not turn creator Kaze into an in-world killer or claim the real person cannot hear the episode. Daniel explains his return as one final visit, thanks the whole gang for being his family, hugs everyone, and fades in white light toward the spirit realm to get wasted with Master Oogway. Keep that specific absurd destination and the sincere attachment. No violent second killing, accidental interruption that prevents the departure, joke undoing it, or obligatory spirit-realm cutaway.\n\nStage the hugs with real access: Chris and Billy each get their own moment through an actual exterior switch; Mahnah responds as a dog. Do not silently erase other established family bonds, but do not teleport absent actors into the farewell. His spear, bottle and purse must have explicit custody when he fades; exact handling is a drafting decision, not newly recorded inventory. The supernatural departure is this author-selected exception, not universal immortality, a new portal power or proof the gang can follow. Once enacted, Daniel leaves the ongoing material-world ensemble and his ordinary future duels become displaced, not silently reassigned.\n\nAllow a short honest response before the next practical choice. Inspect/count a relevant chest or two and establish what is usable without a ledger recital. If it contains ordinary spendable silver, let it be ordinary spendable silver: they do not need a money launderer simply to justify a plot. Any sale applies to identifiable goods; a criminal contact can instead provide access, supply, information or a valuable opportunity that respectable trade now refuses them.\n\nTheir reputation brings a mixture of fear, admiration, opportunism and refusal. Pick a concrete desired prize and one main opposition with a reason to deal. The Sins make a plausible approach, gain something, then one of their unnecessary choices changes the situation. Kaze knowingly feeds a preventable escalation; Chris's particular pride or appetite shapes his actions; Arthur can exploit an opening instead of merely objecting. Daynah, Mahnah and Billy get agency where their interests matter, not a compulsory line each. Daniel does not reappear in this operation after his farewell.\n\nRecommended construction: a broker trying to profit from the Sins' notoriety offers access while attempting to control how their reputation is displayed. Chris objects to an insulting valuation or depiction; Kaze turns the objection into a public demonstration because he wants to see what happens. The demonstration has a real, immediate benefit and an unwanted audience with its own plan. Do not let the scene become a hearing about legal ownership. An illustration or price argument is only an ignition point.\n\nEnd 59 with a completed gain or decisive smaller confrontation and a specific problem produced by that gain. Do not stop halfway through an already-won fight to manufacture the episode boundary.\n\n**60 — Keep the gain while somebody else exploits the mess.** Opposition reacts to what actually happened. The main fight changes access and possession: protect or seize the specific prize, reach someone who can still refuse, prevent destruction of something useful, or beat a rival to a meaningful route. Killing a guard is not automatically the solution to the whole objective. The Sins retain full strength and can win spectacularly; no invented equalizer or mandatory punishment.\n\nChoose a few spatial anchors, a changing hazard and linked actions. A clever enemy has a goal beyond surviving until Kaze kills him. Let a secondary opponent exploit the distraction, retreat successfully or destroy its own asset if that choice is credible. A decisive hit stays decisive. The final state includes a real result, a changed relationship or access condition, and a fresh comic payoff produced by the operation.\n\n**TPP through the pair.** Give the four members a specific, smaller criminal undertaking with a benefit they want. Brian's screening success encourages him to claim authority over presentation. He first contributes something real, then attempts to narrate his own greatness while others need him to do the job. Dr. Evil grants apparent responsibility. Dutch wants actual gain and control; Clifford wants to avoid being made a mascot and can take effective action. Their plot reaches a result within the pair rather than advertising a future meeting.\n\nBrian's remaining glued curls affect self-presentation and his decisions. He may hide them, demand removal, punish an observer for noticing, or try to rebrand the appearance; the first discovery already happened. A failed removal attempt must be an actual chosen event, not assumed injury or instant reset. Bad raps remain available, but no automatic rap–rejection loop.\n\nAdvance only one existing evidence thread in this pair if it fits naturally. Prefer a relevant clue or changed access over a new mysterious object. The Orra/hidden-plate route or an actual lead concerning Tai Lung needs its original evidence owner before selection. Do not make the chests secretly contain either answer. Wade knows only what he has actually narrated and cannot solve the mystery from the outline.\n\nLATEST AUTHOR CONFIRMATION: make violence and comic decisions part of the same unfolding problem. Restore Kaze's deliberate enemy-animal killing when actually staged; no automatic animal exemption or mandatory per-episode quota. New horse-withdrawal construction is PROPOSED, not included in the preceding six approvals. Do not rewrite the horses escaping57–58. Detailed character scopes and Kratos/Mimir return routes: continuity/author/S7NS_Pre50_Review_Six_Approvals_Kaze_Animals_20261023.md."
+  },
+  "movements": [
+    {
+      "title": "1. Noxus: notorious enough to be useful, dangerous enough to be refused",
+      "status": "PROSPECTIVE_ARCHITECTURE_NOT_OCCURRED",
+      "construction": "The immediate spine is the gang's chosen inland direction and the effects of its crimes. Build successive operations from distinct desires: profitable theft, a useful illicit service, a public status contest, a territorial disagreement, then an earned major confrontation. Do not repeat convoy–checkpoint–guard massacre.\n\nSwain and Darius make short, consequential decisions from actual reports and their different interests. Draven's arena, LeBlanc's manipulation, Vladimir's interests, Sion's military use, and the individual agendas of Katarina, Talon, Riven, Samira and Elise remain distinct opportunities. Their intelligence appears in what they do. A single consequential order and its local execution usually earns more than a council recap. Keep existing source gates and actual relationship history; do not force universal cooperation against the Sins.\n\nHumor comes from the mismatch between how the Sins see themselves and the very different reasons people want, imitate, flatter, exploit or avoid them. People can admire the wrong detail without trivializing victims. Kaze can enjoy notoriety and still dislike someone else monetizing it. Chris can be professionally insulted by an accurate accusation for a completely different reason. Arthur can profit from the chaos while refusing its stupidest flourish.\n\nThe restaurant thread remains active until it has materially changed more than one temporary doorstep. Lost access, divided potential allies, an opponent's informed tactic or a concrete cost can persist without forcing remorse. Wins are still wins."
+    },
+    {
+      "title": "2. TPP: success makes the rivalry worse",
+      "status": "PROSPECTIVE_ARCHITECTURE_NOT_OCCURRED",
+      "construction": "TPP pursues its own crimes against the wider reachable roster, not only Brian's revenge against Kaze. Give Dr. Evil an elaborate plan worth puncturing, Dutch persuasion that can actually work, Clifford a dangerous task and Brian a real contribution he mistakes for universal authority. Sins and TPP can pursue the same object for incompatible reasons. An Anchorman-like collision grows from that competition, with readable action and individual grudges.\n\nCarry the camera-credit dispute, founder/name dispute, borrowed fame and embarrassing fan relationship into new choices rather than more identical staff meetings. Dr. Evil knows Clifford is Jack; the mistaken Vader gift and subsequent research are completed. Dutch's constrained politeness unintentionally enables the doctor's behavior. His grief over Bob and resentment of Arthur remain capable of changing cooperation. Chris and Arthur's bullying can provoke actual retaliation. Brian and Clifford's screening alliance does not erase the forced-tattoo grievance.\n\nDr. Evil's major reversal gets its own developed arc: convincing useful attention, Brian investing in a particular status or belonging, an independently credible reliance, then the selected exceptionally nasty betrayal of that exact expectation. The doctor's sole motive remains calculated cruelty. Ordinary roasts can continue, but not every warm-looking moment gets instantly exposed. Do not cash out the ultimate reversal as another chair joke or force the other TPP members to be accomplices.\n\nMahnah's established theft can collide again with a specific merchant or TPP interest. The origin, poker and church incidents are completed. Daynah's hurt concerns family concealment and exclusion; preserve his craft, humor and capacity to instigate. A new theft has to change the problem, not simply be a bigger object in the same fetch scene."
+    },
+    {
+      "title": "3. Useful monsters: finish the buried personal threads",
+      "status": "PROSPECTIVE_ARCHITECTURE_NOT_OCCURRED",
+      "construction": "Shang Tsung's selected compact arc begins with a limited service someone actually wants and ends through his exploitation, another person's refusal and a consequential confrontation. His flattering professional manner can carry horrible terms. Do not invent a perfect universal cure, transported Well or a convenient resurrection service. His endorsed fatal development remains selected; exact means, killer and timing require actual construction.\n\nTai Lung remains an independent actor with recognition hunger and an unresolved whereabouts thread. Daniel's selected farewell removes the proposed living-Daniel rematch from the forward plan. His earlier murder and the gang's51 discovery of the killer remain history; fresh location evidence can still change their choices. No compulsory revenge itinerary or new guaranteed Tai Lung death follows. Wade does not disclose new knowledge from source files; the later bounded-knowledge rule does not erase an already-delivered revelation.\n\nStarkiller continues pursuing transport on his own. His already-completed inquiry with Kaze and failed submarine assessment are not replayed. An encounter with the existing car/X-wing or R2 is possible only after actual custody, capabilities and location are resolved. A desperate transport objective can collide with Chris's ownership and foolish priorities without making Starkiller a taxi driver, permanent Sin or source of guaranteed offworld flight.\n\nKeke's selected regrowth receives a specific future event and elapsed development when the story can support it. Original burial, the separate pear tree and Keke's agency survive. Do not turn Daniel's author-directed return into the mechanism. The return can expose Kaze's excessive protectiveness and Chris's differing care; Keke need not become another permanent passenger.\n\nThese threads are staggered. Finish or substantially change one before opening another comparably demanding cast story."
+    },
+    {
+      "title": "4. Zaun and Piltover: recognizable people with unfinished business",
+      "status": "PROSPECTIVE_ARCHITECTURE_NOT_OCCURRED",
+      "construction": "A return must serve a chosen objective, not a franchise checklist. Heisenberg's actual business, workforce, prior theft and unpaid-wage direction can intersect with the Sins' new resources and reputation. His independent associates are not summoned automatically. Existing Death Note custody and limits require the actual current owners; no omniscient name-killing shortcut or automatic empire inheritance.\n\nPreserve individual encounter slots for Caitlyn, Jinx, Vi, Camille, adult Zeri, Renata, Mel and the rest of the regional register. Living restorations do not erase old killings, fear, losses or property custody. Grayson, Sky and Cassandra remain dead. Romance OFF does not erase meetings or prior relationship consequences; it also does not authorize fresh flirting by an old outline default.\n\nThe comic contrast is useful criminal expertise colliding with civic prestige, old grievances and absurd domestic priorities. The operation should make those relationships matter. Medical, police or scientific scenes earn their time through a decision, dangerous offer or sharp reversal, not exposition tours."
+    },
+    {
+      "title": "5. Sea, monsters and the body-horror household",
+      "status": "PROSPECTIVE_ARCHITECTURE_NOT_OCCURRED",
+      "construction": "Bilgewater and the Isles preserve Arthur's Graves, Twisted Fate, Miss Fortune and Gangplank opportunities; Billy's Nami, Pyke, Nautilus, Illaoi and Tahm Kench threads; Ibaaros and Taarosh; Riddick's independent compact fatal-arc development; and the substantive exterior Vecna/Upside Down arc. These are several possible connected operations, not one crowded episode.\n\nThor and the single older world-encircling Yormungander have their own motives. The serpent's actual physical presence changes routes and local trade through observable geography. Billy's hatred supplies a personal agenda and outrageous stories; it does not obligate the serpent to participate in a rivalry he hasn't accepted. No additional global catastrophe or free portal is invented in planning.\n\nHorror is allowed to remain frightening. The joke can occur in the response, a selfish choice during escape, or the disgusting mundane consequence after the threat—not an interrupting roast every time tension rises. Vecna remains an exterior arc; Billy's protections and sovereignty are not removed to manufacture a chase inside BELLY.\n\nRick's previously selected Billy evolution remains a real future event only when its prerequisites exist. The selected explanation and injection belong together, not an artificial research-season detour. Chris can hate the new bodily domestic environment while finding it useful; residents disagree and adapt. Already-granted mechanics cannot be awarded twice, and the historical evolution card does not itself prove the injection occurred.\n\nTravel uses the members' legitimate methods and actual access. Maritime stories do not make the gang dependent on hired boats."
+    },
+    {
+      "title": "6. Ionia, the southern regions and the northern/western routes",
+      "status": "PROSPECTIVE_ARCHITECTURE_NOT_OCCURRED",
+      "construction": "Daniel's Wukong, Sett, Lee Sin, Akali and Gragas opportunities are preserved as selections displaced by the latest final-departure direction. Kaze does not inherit those slots. These native actors remain independent regional people; a different encounter requires its own motive, not substitution to tick Daniel's boxes. Kaze's Yone, Kayn/Rhaast, Zaahen and Fiddlesticks opportunities retain their real identity, body, possession and knowledge gates. A repeated first meeting with Kratos or Baldur is not a new arc; any reencounter remembers the earlier fight.\n\nIxtal/Shurima preserves Naafiri and the pack's actual goals; Targon and northern routes retain Horazi, Anaakca and Joraal; Bandle/wood and spirit-threshold tracks preserve Baalkux and Praa. Xolaani's domination, Rhaast's contest with Kayn and the other Darkin wills stay distinct. Naganeka and the ballista stay dropped. Historical dead Darkin remain history, and unresolved identities do not become freshly voiced weapons for a gag. Each specific source entry and regional encounter slot remains routed in the structured register.\n\nComic opportunities come from different social customs, standards of mastery and incompatible ambitions. A character can insist on competing in something irrelevant while a genuinely dangerous participant pursues the real contest. Native characters can be funny, competent and hostile in their own voices. No universal gullible villagers, tournament montage of promised kills, or arbitrary world tour."
+    },
+    {
+      "title": "7. The eventual Noxus payoff",
+      "status": "PROSPECTIVE_ARCHITECTURE_NOT_OCCURRED",
+      "construction": "Return to one consequential operation the Sins choose for something they want. Its difficulty grows from actual earlier decisions: reputation, damaged infrastructure, rival success, lost access, informed opposition and changed family relationships. The native factions and TPP need not agree on what should happen.\n\nMordekaiser's selected opportunity requires legitimate access and its full source conditions; it is not a license to place every villain in the finale. Finish the operation decisively with persistent gains and losses. A victorious gang can still be monstrously irresponsible. End on a meaningful choice or earned absurd consequence, not a sequel teaser assembled from every unused name."
+    }
+  ],
+  "character_application": "- Kaze instigates deliberately, enjoys watching preventable chaos, and can become its embarrassed participant. Do not automatically make him the cleverest speaker or give every bad choice a hidden noble motive.\n- Chris's expertise sometimes solves the real problem while his chosen priority creates a different one. Billy can disagree, act independently and take the floor. Their switches and actual voice routes remain coherent without constant mechanical lectures.\n- Arthur can initiate low-honor crime, devise a dirty solution and deliver a devastating short response. He is not confined to saying no. Preserve current combined-gun architecture and the full-charge/Hypercharge hold.\n- Daynah crafts, jokes, protects, argues and instigates. Mahnah is an independent nonverbal dog with learned relationships, not a random theft dispenser. Active gamma-form third-person speech remains distinct from baseline.\n- Daniel remains genuinely drunk, tactically intelligent and situation-responsive during his farewell. His jokes and thanks belong to the same person. After the selected fade he is absent from ongoing material-world scenes; his history and the gang's attachment remain.\n- Brian needs varied tactics: actual work, borrowed authority, social manipulation, bad writing, strategic silence, denial and occasional effective retaliation. Continued humiliation does not erase adult agency. The supplied public-post habits guide new original journal prose; private real-life messages are not story material by default.\n- Charles's need to direct and own a narrative conflicts with Meatwad's footage, interests and competence. Shake can hijack that conflict for selfish benefit. Chris's camera records only what it actually can. The submarine visit was a selected location exception; no automatic public transmission or global filming access.\n- Wade's fourth-wall exchanges can be sustained and reciprocal when established hearers engage him. He can be uncertain, fooled or embarrassed. His knowledge remains bounded by actual verbal narration; source documents and future plans are not his memory.",
+  "optional_scenes": "These examples show the level and variety of invention expected. They are AI-authored options under Kaze's approved direction, not new guaranteed scenes or fresh powers.\n\n1. A prospective victim offers TPP a smaller payment to leave quietly. Dr. Evil takes offense at the low estimate of their menace; Dutch realizes it is their cleanest profit; Brian begins an itemized explanation of why he personally deserves a higher threat valuation. Clifford is already collecting the money.\n2. Brian tries to remove the green curls while rehearsing a dignified statement for the next person who asks. He has to seek practical help from someone whose joke he just rejected. The humiliation is dependence and lost composure, not another surprise about the hair's origin.\n3. Brian deliberately writes a very short rap after being told to stop explaining. Its spoken introduction is longer than the rap. A listener praises the silence after it; Brian tries to credit that as an intentional production decision.\n4. A buyer appreciates Chris's craftsmanship but values the ugly improvised repair more than the original expensive item. Chris starts defending the insulted object so aggressively that Arthur tries to complete the sale before Chris talks them out of their own profit.\n5. During a criminal demonstration, Kaze quietly offers an opponent an effective way to interrupt the presenter because he wants to see the reaction. The opponent uses it immediately, before Kaze has moved out of the way. The damage and social reversal are real.\n6. Dutch begins an eloquent explanation of a new tattoo. An existing face tattoo distorts as he talks, and someone keeps mistaking its expression for Dutch agreeing with them. His attempt to maintain dignity changes the negotiation; a new design still requires an actual session.\n7. Dr. Evil gives Brian a meaningful technical responsibility and genuinely usable equipment. The scene ends after Brian succeeds. Later the doctor invokes that exact success to make a humiliating request seem like proof of trust. This builds the con rather than spending its final payoff.\n8. Clifford volunteers a useful intimidating entrance. Dr. Evil's unsolicited fan coaching makes it worse, but Clifford still succeeds at the actual threat. He then has to hear the doctor claim the coaching was decisive.\n9. Inside Job catches someone being briefly competent and unguarded. Charles cannot tolerate that the best scene happened without his direction, so his attempt to recreate it becomes a separate, visibly false scene. Meatwad prefers the original and can act on that preference.\n10. Billy tells a long ancient story during a fight because he considers the opponent's tactic derivative. The opponent changes tactics to interrupt it. Billy resents losing his ending more than taking the hit, while Chris exploits the new opening. The story never freezes combat.\n11. Daynah demonstrates that a stolen mechanism works while explaining why the gang's proposed use is stupid. Kaze accepts the engineering lesson and enthusiastically adopts the stupid use. Daynah's next choice depends on what he actually wants, rather than automatically becoming the responsible adult.\n12. The Sins win a violent operation while disagreeing about what the valuable prize actually is. The disagreement is established before the fight and changes tactics during it; its resolution costs or rewards them afterward. Do not repeat the duck/cloth punchline with replacement nouns.",
+  "selection_dispositions": {
+    "Daniel": "ALIVE_ACTUAL_E58; AUTHOR_SELECTED_FUTURE_FAREWELL_AT_NEXT_AUTHORIZED59. Peaceful thanks/hugs/white light/spirit realm/Oogway; repeat murder rejected. Ordinary later Daniel duels displaced, not reassigned.",
+    "Brian": "ALREADY_KNOWS_PUBIC_HAIR_ORIGIN_IN_R3_E56; preserve glued curls/T.P.P./soreness until actual change. Adult24in, old5ft10 history, journal/public-post voice, audio skill, grudges, body embarrassment and retaliation. Approved named nicknames remain, no new list falsely approved.",
+    "TPP": "CURRENT Doctor/Dutch/Brian/Clifford; independent crimes/agency. Formation, surgery, conjoining resolution, gifts, tattoos, chair, mooning, VR and mirror are completed history. Archived scene pool optional filtered for dead/exited actors; long-con remains future calculated Dr Evil cruelty. Dutch unintentionally enables; Clifford has actual mobility, not Force powers.",
+    "Mahnah": "Theft origin/poker/church completed; future theft and family-concealment consequences only as new chosen events.",
+    "BILLY_RICK_ENGINEERED_EVOLUTION": "Retain selected full future design from archive; actual current full-body owner and prerequisite verification mandatory. Explanation/injection same event when staged. No new award from outline; no duplicated completed injection.",
+    "Keke": "Dead actual; selected regrowth future with specific event and elapsed development, not Daniel mechanism.",
+    "Shang_Tsung_and_Riddick": "Separate compact fatal-arc selections retained, precise acts/timing not occurred or guaranteed by schedule.",
+    "Starkiller": "Inquiry and failed submarine assessment completed; last leaves with chart. Independent transport objective; R2/car/X-wing intersection gated by actual custody and capability.",
+    "Tai_Lung": "Independent, whereabouts unresolved. Historical Daniel murder retained, no automatic narrator disclosure or new revenge guarantee. Daniel rematch displaced.",
+    "regional_encounters": "All individual women-register slots remain independent encounters; romanceOFF, scoped life restorations preserve prior harm and custody. No mandatory tour or romance.",
+    "champion_lives": "Draven/Olaf living baseline; later specific female restorations control Vi/Jinx/Caitlyn/Ambessa. No universal revival for Ekko/Warwick/Viktor or other dead. Samira actual later history retained. Full source governs each case.",
+    "duels": "Separate disposition per source row below; completed encounters not replayed, departed actor slots not reassigned, no automatic upgrades.",
+    "darkins": "Separate identities/gates below; Naganeka removed/ballista left, Varus/Valmar/Kai not active; Styraatu custody must be reconciled before scheduling; no restoration of ancient dead or independent Aatrox.",
+    "Thor_serpent": "Single older world-encircling Yormungander, distinct actor; no compulsory rivalry acceptance, free portal or automatic new catastrophe.",
+    "Baldur_Kratos_Mimir": "Earlier encounters completed; living histories and selected Mimir callbacks retained; no first-meeting reset.",
+    "BELLY": "Charles/Meatwad/Shake inside at58; Frylock alive seekingFrance, departure not death. Camera limits and Chris/Billy actual switches remain.",
+    "reserve_cameos": "Woody/Buzz/Courage/JohnnyBravo/Daffy/Skipper/Kowalski/Rico/Private retained as unintroduced optional reserves; not automatic season obligations. Shake/Frylock introduction entries historical.",
+    "disabled_or_retired": "RomanceOFF; Briaroffplot; Teemoerased; ZidnotSin and compulsory betrayal canceled; Frankindependentprotected; Maul/Tracy/Cartman/Jimmy/Timmy dead."
+  },
+  "duel_disposition_register": [
+    {
+      "id": "DUEL-01",
+      "actor": "Kaze",
+      "opponent": "Kayn/Rhaast",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/0",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-02",
+      "actor": "Kaze",
+      "opponent": "Fiddlesticks",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/1",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-03",
+      "actor": "Kaze",
+      "opponent": "Yone",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/2",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-04",
+      "actor": "Kaze",
+      "opponent": "Mordekaiser",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/3",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-05",
+      "actor": "Kaze",
+      "opponent": "Zaahen",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/4",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-11",
+      "actor": "Chris",
+      "opponent": "Micah Bell",
+      "status": "COMPLETED_E3",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/5",
+      "forward_disposition": "COMPLETED_OPENING_HISTORY; no repeated first duel"
+    },
+    {
+      "id": "DUEL-12",
+      "actor": "Chris",
+      "opponent": "Jack Marston (adult 1914, RDR1)",
+      "status": "COMPLETED_E4",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/6",
+      "forward_disposition": "COMPLETED_OPENING_HISTORY; no repeated first duel"
+    },
+    {
+      "id": "DUEL-13",
+      "actor": "Chris",
+      "opponent": "Eyehole Man",
+      "status": "COMPLETED_E1",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/7",
+      "forward_disposition": "COMPLETED_OPENING_HISTORY; no repeated first duel"
+    },
+    {
+      "id": "DUEL-14",
+      "actor": "Chris",
+      "opponent": "Colm O'Driscoll",
+      "status": "COMPLETED_E5",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/8",
+      "forward_disposition": "COMPLETED_OPENING_HISTORY; no repeated first duel"
+    },
+    {
+      "id": "DUEL-15",
+      "actor": "Chris",
+      "opponent": "Mr. Nimbus",
+      "status": "COMPLETED_E2",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/9",
+      "forward_disposition": "COMPLETED_OPENING_HISTORY; no repeated first duel"
+    },
+    {
+      "id": "DUEL-16",
+      "actor": "Billy",
+      "opponent": "Tahm Kench",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/10",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-17",
+      "actor": "Billy",
+      "opponent": "Nautilus",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/11",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-18",
+      "actor": "Billy",
+      "opponent": "Pyke",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/12",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-19",
+      "actor": "Billy",
+      "opponent": "Illaoi",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/13",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-20",
+      "actor": "Billy",
+      "opponent": "Nami",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/14",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-21",
+      "actor": "Daniel",
+      "opponent": "Wukong",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/15",
+      "forward_disposition": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL; not inherited by Kaze; native actors independent"
+    },
+    {
+      "id": "DUEL-22",
+      "actor": "Daniel",
+      "opponent": "Gragas",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/16",
+      "forward_disposition": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL; not inherited by Kaze; native actors independent"
+    },
+    {
+      "id": "DUEL-23",
+      "actor": "Daniel",
+      "opponent": "Lee Sin",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/17",
+      "forward_disposition": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL; not inherited by Kaze; native actors independent"
+    },
+    {
+      "id": "DUEL-24",
+      "actor": "Daniel",
+      "opponent": "Sett",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/18",
+      "forward_disposition": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL; not inherited by Kaze; native actors independent"
+    },
+    {
+      "id": "DUEL-25",
+      "actor": "Daniel",
+      "opponent": "Akali",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/19",
+      "forward_disposition": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL; not inherited by Kaze; native actors independent"
+    },
+    {
+      "id": "DUEL-26",
+      "actor": "Arthur",
+      "opponent": "Graves",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/20",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-27",
+      "actor": "Arthur",
+      "opponent": "Gangplank",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/21",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-28",
+      "actor": "Arthur",
+      "opponent": "Twisted Fate",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/22",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-29",
+      "actor": "Arthur",
+      "opponent": "Samira",
+      "status": "COMPLETED_E14",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/23",
+      "forward_disposition": "PRIOR_CURRENT_BRANCH_ENCOUNTER_COMPLETED; any reencounter preserves history, not a compulsory rematch"
+    },
+    {
+      "id": "DUEL-30",
+      "actor": "Arthur",
+      "opponent": "Miss Fortune",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/24",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-31",
+      "actor": "Frank Castle",
+      "opponent": "Lucian",
+      "status": "RETIRED_BY_AUTHOR",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/25",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-32",
+      "actor": "Frank Castle",
+      "opponent": "Vayne",
+      "status": "RETIRED_BY_AUTHOR",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/26",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-33",
+      "actor": "Frank Castle",
+      "opponent": "Akshan",
+      "status": "RETIRED_BY_AUTHOR",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/27",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-34",
+      "actor": "Frank Castle",
+      "opponent": "Kalista",
+      "status": "RETIRED_BY_AUTHOR",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/28",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-35",
+      "actor": "Frank Castle",
+      "opponent": "Talon",
+      "status": "RETIRED_BY_AUTHOR",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/29",
+      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+    },
+    {
+      "id": "DUEL-46",
+      "actor": "Kaze",
+      "opponent": "Baldur",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/30",
+      "forward_disposition": "PRIOR_CURRENT_BRANCH_ENCOUNTER_COMPLETED; any reencounter preserves history, not a compulsory rematch"
+    },
+    {
+      "id": "DUEL-47",
+      "actor": "Kaze",
+      "opponent": "Kratos",
+      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/31",
+      "forward_disposition": "PRIOR_CURRENT_BRANCH_ENCOUNTER_COMPLETED; any reencounter preserves history, not a compulsory rematch"
+    }
+  ],
+  "darkin_disposition_register": [
+    {
+      "identity": "Aatrox",
+      "mode": "HISTORICAL_IDENTITY_ERASURE_HOLD",
+      "fidelity_boundary": "Independent restoration remains unresolved. No clone, remnant consciousness, new Aatrox dialogue or resurrection is created.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/0",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Rhaast",
+      "mode": "SCYTHE_AND_KAYN_CONTEST",
+      "fidelity_boundary": "No fully transformed Rhaast or shadow-assassin Kayn granted without resolving their actual ongoing struggle. No fusion.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/1",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Naafiri",
+      "mode": "EXISTING_PACK_ACTOR",
+      "fidelity_boundary": "Pack consciousness does not confer global Darkin telepathy, infinite bodies or a strict single-body duel.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/2",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Zaahen",
+      "mode": "CONDITIONAL_FREE_BODY_ACTOR",
+      "fidelity_boundary": "Do not invent Xin Zhao's death/possession or a universal resurrection mechanic from a champion page.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/3",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Xolaani",
+      "mode": "WEAPON_WITH_SPECIFIC_LOCAL_INFLUENCE",
+      "fidelity_boundary": "No automatic Mihira consumption, world-ender form, universal blood-network range, host generation or protected weapon transfer.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/4",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Taarosh",
+      "mode": "WEAPON_BOUND_SHADOW_ISLES_CUSTODY",
+      "fidelity_boundary": "No automatic death-island body, new ghost army or transfer to the Sins. His participation is a complete attempted-release plot, not a living cameo.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/5",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Joraal",
+      "mode": "SHIELD_BOUND_DEMACIAN_CUSTODY",
+      "fidelity_boundary": "His traumatic speech is fragmented but meaningful; no psychiatric diagnosis, automatic host possession or lore-invented shield immunity.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/6",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Horazi",
+      "mode": "LODESTONE_BOUND_TARGON_TRACK",
+      "fidelity_boundary": "No automatic stone-guardian vessel, omniscient star vision, new Nami quest resolution or unexplained direct voice channel.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/7",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Naganeka of Zuretta",
+      "mode": "BALLISTA_BOUND_NОXIAN_PROCUREMENT",
+      "fidelity_boundary": "No arbitrary beast host, automatic summon, duplicated weapon, card-stat artillery output or uninformed cross-continent arrival.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/8",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Anaakca",
+      "mode": "SPEAR_BOUND_FRELJORD_TRACK",
+      "fidelity_boundary": "No silent Sejuani cameo, completed possession from a card picture, invented immunities or new permanent gang spear.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/9",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Ibaaros",
+      "mode": "HARPOON_BOUND_SEA_TRACK",
+      "fidelity_boundary": "His exact potential vessel species remains unknown. No universal seawater possession or automatic fusion with Billy.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/10",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Baalkux",
+      "mode": "STAFF_BANDLEWOOD_TRACK",
+      "fidelity_boundary": "No newly invented infinite wood-body, arbitrary doorway into BELLY or full transported yordle civilization.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/11",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Praa",
+      "mode": "FAN_AT_SPIRIT_THRESHOLD",
+      "fidelity_boundary": "This closure does not grant Kaze spirit portals or establish that every Darkin can leave any sealed dimension.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/12",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Styraatu",
+      "mode": "HARP_UNEARTHED_ZAUN_TRACK",
+      "fidelity_boundary": "No literal game-keyword damage, instant destruction of all Zaun or undocumented Chirean vessel.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/13",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Cebotaru",
+      "mode": "ANCIENT_SURVIVOR_CURRENT_FATE_UNKNOWN",
+      "fidelity_boundary": "No invented modern weapon, host, resurrection or name-to-object identification.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/14",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Valeeva",
+      "mode": "ANCIENT_SURVIVOR_CURRENT_FATE_UNKNOWN",
+      "fidelity_boundary": "No active Varus, Valmar or Kai; no invented biological sibling relationship or secret modern instrument.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/15",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Ta’anari",
+      "mode": "CONFIRMED_HISTORICAL_DEAD",
+      "fidelity_boundary": "No resurrection, present voice, invented weapon or compulsory individual flashback. Preserve actual source sequence and keep unsupported details unknown.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/16",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Xuuyan",
+      "mode": "CONFIRMED_HISTORICAL_DEAD",
+      "fidelity_boundary": "No resurrection, present voice, invented weapon or compulsory individual flashback. Preserve actual source sequence and keep unsupported details unknown.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/17",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Syphax",
+      "mode": "CONFIRMED_HISTORICAL_DEAD",
+      "fidelity_boundary": "No resurrection, present voice, invented weapon or compulsory individual flashback. Preserve actual source sequence and keep unsupported details unknown.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/18",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Zigantus",
+      "mode": "CONFIRMED_HISTORICAL_DEAD",
+      "fidelity_boundary": "No resurrection, present voice, invented weapon or compulsory individual flashback. Preserve actual source sequence and keep unsupported details unknown.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/19",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Shabaka",
+      "mode": "CONFIRMED_HISTORICAL_DEAD",
+      "fidelity_boundary": "No resurrection, present voice, invented weapon or compulsory individual flashback. Preserve actual source sequence and keep unsupported details unknown.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/20",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Shabake",
+      "mode": "CONFIRMED_HISTORICAL_DEAD",
+      "fidelity_boundary": "No resurrection, present voice, invented weapon or compulsory individual flashback. Preserve actual source sequence and keep unsupported details unknown.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/21",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    },
+    {
+      "identity": "Enakai",
+      "mode": "CONFIRMED_HISTORICAL_DEAD",
+      "fidelity_boundary": "No resurrection, present voice, invented weapon or compulsory individual flashback. Preserve actual source sequence and keep unsupported details unknown.",
+      "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/22",
+      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+    }
+  ],
+  "source_routes": {
+    "duel_ledger": "topic_sources/Season_3_Duel_Ledger.json",
+    "darkin_owner": "topic_sources/Season_3_Darkin_Plots.json",
+    "household_owner": "approved_rolloff/staged/CHRIS_CHARLES_MEATWAD_ROOMMATE_LOCK.md",
+    "full_opening_owner_routes": [
+      "topic_sources/Chris_Post_Five_Duels_Charles_Hawking_Arc.txt",
+      "character_sources/Chris_Character_Source.txt",
+      "character_sources/Billy_Character_Source.txt",
+      "character_sources/Chris_Billy_BELLY_Source.txt",
+      "character_sources/crossover_extended/Eyehole_Man_Fidelity_Source.txt",
+      "character_sources/crossover_extended/Mr_Nimbus_Fidelity_Source.txt",
+      "character_sources/crossover_extended/Micah_Bell_Individual_Duel_Source.txt",
+      "character_sources/crossover_extended/Bob_Ross_Fictional_CoConsciousness_Source.txt",
+      "character_sources/crossover_extended/Jack_Marston_RDR1_Adult_1914_Duel_Source.txt",
+      "character_sources/crossover_extended/Colm_ODriscoll_Individual_Duel_Source.txt",
+      "character_sources/crossover_extended/Stephen_Hawking_Fictional_Disguise_Source.txt",
+      "character_sources/crossover_extended/Busta_Rhymes_Conjoined_Brian_Fictional_Source.txt",
+      "character_sources/crossover_extended/Brian_Fictional_Conjoined_Character_Source.txt",
+      "character_sources/season3/Van_der_Linde_Dutch_Source.txt",
+      "character_sources/Arthur_Character_Source.txt",
+      "character_sources/Frank_Character_Source.txt",
+      "character_sources/crossover_extended/Charles_Manson_Fish_Reveal_Fidelity_Source.txt",
+      "character_sources/crossover_extended/Meatwad_ATHF_Fidelity_Source.txt",
+      "topic_sources/Chris_RDR2_Play_Behavior_Source.txt",
+      "approved_rolloff/staged/CHRIS_CHARLES_MEATWAD_ROOMMATE_LOCK.md",
+      "approved_rolloff/staged/BOYS_CLUB_ACCESS_AND_CHARLES_MONITOR.md",
+      "topic_sources/Group_Relationships.txt",
+      "topic_sources/Capability_and_Speech_Overrides.txt",
+      "approved_rolloff/staged/EXACT_QUOTE_REGISTER.json"
+    ],
+    "champion_region_owner": "reference/Female_Champion_Regions_20261018.json",
+    "noxus_research_owner": "research/Noxus_Women_20261018.md",
+    "encounter_register": "continuity/Runeterra_Women_Encounter_Register.json",
+    "encounter_register_sha256": "705c5cdf25ae6cb5823e85cb1940f014782634b90b90ff362de5fa13274790dd",
+    "latest_active_full_owner_route": "routing/Current_Roster_Kit_Overrides_20261019.json",
+    "narration_current_owner": "canon/presentation/Deadpool_Primary_Narration_After_E32_20261019.md",
+    "full_character_sources": "Use CURRENT and routing/Current_Roster_Kit_Overrides_20261019.json plus latest scoped author owners; summaries never replace full kits.",
+    "prior_future_selections": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/author_selected_future_threads",
+    "prior_crossover_selections": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/crossover_deployment",
+    "prior_champion_register": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/champion_consequence_register",
+    "prior_TPP_option_pool": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/author_selected_future_threads/TPP",
+    "prior_reserve_cameos": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/season3_WTF_crossover_additions"
+  },
+  "source_evidence": [
+    {
+      "path": "canon/presentation/S7NS_Authorial_Intent_Raw_Note_Fidelity_Active_Comedy_v1_1_20261020.md",
+      "role": "Author intent, original-premise fidelity, active comedy"
+    },
+    {
+      "path": "research/Rick_ATHF_Trover_TPP_Comedy_Dialogue_DeepPass_20261019.md",
+      "sha256": "90b428f8e64a562687c7ec685aba58814c42a49ae58d63d26276608713f3d54c",
+      "role": "Existing representative transcript-based mechanism analysis; not new exhaustive franchise viewing"
+    },
+    {
+      "path": "research/Transcript_Based_Catastrophic_Absurdism_After_E32_20261019.md",
+      "sha256": "ba56bb1e7546019f1072082a7548279b0644791883836c21decfdb30c94e012c",
+      "role": "Prior comedy research and application"
+    },
+    {
+      "path": "canon/presentation/S3_E34_Comedy_Source_Application_20261019.md",
+      "role": "Distinct ensemble voices"
+    },
+    {
+      "path": "canon/tpp/TPP_After_E34_Absurd_Crime_20261019.md",
+      "role": "TPP comic crime mechanisms; historical roster superseded"
+    },
+    {
+      "path": "continuity/author/S7NS_Deadpool_Unhinged_Comparison_Humor_20261021.md",
+      "role": "Wade verbal comparisons and author tone"
+    },
+    {
+      "path": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
+      "role": "Current narrator knowledge boundary"
+    },
+    {
+      "path": "continuity/author/S7NS_Post_E50_Ensemble_Comedy_Cast_KK_Revision_20261021.md",
+      "role": "Ensemble/cast author direction, later Daniel correction controls"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1ndQSe4-qD3WychWDKOvvtEaMKcipSQiOR2JaqoLxH6Y/view",
+      "role": "Supplied Brian analysis: public-post rhetoric only; private messages not incorporated"
+    },
+    {
+      "path": "continuity/author/S7NS_E55_E58_Approved_Rework_20261023.md",
+      "role": "Approved preceding episode construction; actual delivered replacements control"
+    },
+    {
+      "path": "continuity/author/S7NS_S3_Humor_Outline_After_E58_20261023.md",
+      "role": "Latest direct author scope and peaceful Daniel supersession"
+    }
+  ],
+  "previous_top_level_disposition": {
+    "status": {
+      "disposition": "SUPERSEDED_CURRENT_CONTROL",
+      "route": "current_control"
+    },
+    "branch_id": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/branch_id"
+    },
+    "state_owner": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/state_owner"
+    },
+    "next_new_main_episode": {
+      "disposition": "SUPERSEDED_CURRENT_CONTROL",
+      "route": "current_control"
+    },
+    "working_episode_count": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/working_episode_count"
+    },
+    "count_is_quota": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/count_is_quota"
+    },
+    "latest_sequence_lock": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_sequence_lock"
+    },
+    "opening": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/opening"
+    },
+    "construction_principle": {
+      "disposition": "REVISED_FORWARD_ARCHITECTURE; individual gates remain in archived source",
+      "route": "continuity/S7NS_Season3_Revised_Outline_20261023.md"
+    },
+    "movements": {
+      "disposition": "REVISED_FORWARD_ARCHITECTURE; individual gates remain in archived source",
+      "route": "continuity/S7NS_Season3_Revised_Outline_20261023.md"
+    },
+    "episodes": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/episodes"
+    },
+    "author_selected_future_threads": {
+      "disposition": "RETAIN_NONCONFLICTING_SELECTIONS_WITH_EXPLICIT_CURRENT_DISPOSITIONS",
+      "route": "selection_dispositions plus continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/author_selected_future_threads"
+    },
+    "crossover_deployment": {
+      "disposition": "RETAIN_NONCONFLICTING_SELECTIONS_WITH_EXPLICIT_CURRENT_DISPOSITIONS",
+      "route": "selection_dispositions plus continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/crossover_deployment"
+    },
+    "champion_consequence_register": {
+      "disposition": "RETAIN_NONCONFLICTING_SELECTIONS_WITH_EXPLICIT_CURRENT_DISPOSITIONS",
+      "route": "selection_dispositions plus continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/champion_consequence_register"
+    },
+    "native_agenda_application": {
+      "disposition": "REVISED_FORWARD_ARCHITECTURE; individual gates remain in archived source",
+      "route": "continuity/S7NS_Season3_Revised_Outline_20261023.md"
+    },
+    "duel_ledger": {
+      "disposition": "RETAINED_SOURCE_ROUTE",
+      "route": "source_routes/duel_ledger"
+    },
+    "darkin_owner": {
+      "disposition": "RETAINED_SOURCE_ROUTE",
+      "route": "source_routes/darkin_owner"
+    },
+    "household_owner": {
+      "disposition": "RETAINED_SOURCE_ROUTE",
+      "route": "source_routes/household_owner"
+    },
+    "rules": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/rules"
+    },
+    "legacy_outline": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/legacy_outline"
+    },
+    "story_days_advanced": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/story_days_advanced"
+    },
+    "new_events": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/new_events"
+    },
+    "opening_detail_owner": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/opening_detail_owner"
+    },
+    "full_opening_owner_routes": {
+      "disposition": "RETAINED_SOURCE_ROUTE",
+      "route": "source_routes/full_opening_owner_routes"
+    },
+    "current_cursor": {
+      "disposition": "SUPERSEDED_CURRENT_CONTROL",
+      "route": "current_control"
+    },
+    "pre_solo_schedule_provenance": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/pre_solo_schedule_provenance"
+    },
+    "focus_mode": {
+      "disposition": "SUPERSEDED_CURRENT_CONTROL",
+      "route": "current_control"
+    },
+    "romance_owner": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/romance_owner"
+    },
+    "KAZE_ROMANCE_ENABLED": {
+      "disposition": "SUPERSEDED_CURRENT_CONTROL",
+      "route": "current_control"
+    },
+    "solo_schedule": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/solo_schedule"
+    },
+    "ensemble_hold": {
+      "disposition": "SUPERSEDED_CURRENT_CONTROL",
+      "route": "current_control"
+    },
+    "female_life_override": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/female_life_override"
+    },
+    "female_roster_audit": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/female_roster_audit"
+    },
+    "current_author_boundaries": {
+      "disposition": "SUPERSEDED_CURRENT_CONTROL",
+      "route": "current_control"
+    },
+    "adult_character_pins": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/adult_character_pins"
+    },
+    "solo_opening": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/solo_opening"
+    },
+    "champion_region_owner": {
+      "disposition": "RETAINED_SOURCE_ROUTE",
+      "route": "source_routes/champion_region_owner"
+    },
+    "noxus_research_owner": {
+      "disposition": "RETAINED_SOURCE_ROUTE",
+      "route": "source_routes/noxus_research_owner"
+    },
+    "briar_first_meeting_override": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/briar_first_meeting_override"
+    },
+    "authority_override": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/authority_override"
+    },
+    "concise_outline": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/concise_outline"
+    },
+    "editorial_feedback": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/editorial_feedback"
+    },
+    "provenance": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/provenance"
+    },
+    "next_episode_direction": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/next_episode_direction"
+    },
+    "authority_overrides": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/authority_overrides"
+    },
+    "encounter_register": {
+      "disposition": "RETAINED_SOURCE_ROUTE",
+      "route": "source_routes/encounter_register"
+    },
+    "encounter_register_sha256": {
+      "disposition": "RETAINED_SOURCE_ROUTE",
+      "route": "source_routes/encounter_register_sha256"
+    },
+    "cross_movement_women_slots": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/cross_movement_women_slots"
+    },
+    "prepared_episode": {
+      "disposition": "SUPERSEDED_CURRENT_CONTROL",
+      "route": "current_control"
+    },
+    "playback_control": {
+      "disposition": "SUPERSEDED_CURRENT_CONTROL",
+      "route": "current_control"
+    },
+    "historical_prior_to_E30_cursor": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/historical_prior_to_E30_cursor"
+    },
+    "delivered_evidence_after_original_cursor": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/delivered_evidence_after_original_cursor"
+    },
+    "current_author_world_serpent_override": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_author_world_serpent_override"
+    },
+    "current_roster_agency_policy": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_roster_agency_policy"
+    },
+    "post_E31_next_direction": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/post_E31_next_direction"
+    },
+    "prepared_episode_historical_label": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prepared_episode_historical_label"
+    },
+    "recurring_living_encounter_authority": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/recurring_living_encounter_authority"
+    },
+    "recurring_living_encounter_rule": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/recurring_living_encounter_rule"
+    },
+    "prepared_episode_after_E31": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prepared_episode_after_E31"
+    },
+    "dana_mana_reinstatement_owner": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/dana_mana_reinstatement_owner"
+    },
+    "dana_mana_full_owner_routes": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/dana_mana_full_owner_routes"
+    },
+    "sins_current_membership_override": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/sins_current_membership_override"
+    },
+    "current_plan_after_E32": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_plan_after_E32"
+    },
+    "actor_driven_outline_revision": {
+      "disposition": "REVISED_FORWARD_ARCHITECTURE; individual gates remain in archived source",
+      "route": "continuity/S7NS_Season3_Revised_Outline_20261023.md"
+    },
+    "conditional_actor_intersections_examples": {
+      "disposition": "REVISED_FORWARD_ARCHITECTURE; individual gates remain in archived source",
+      "route": "continuity/S7NS_Season3_Revised_Outline_20261023.md"
+    },
+    "outline_semantic_coverage_note": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/outline_semantic_coverage_note"
+    },
+    "latest_author_TPP_and_romance": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_author_TPP_and_romance"
+    },
+    "TPP_Tracy_identity": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/TPP_Tracy_identity"
+    },
+    "Clifford_upcoming_reconstruction": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/Clifford_upcoming_reconstruction"
+    },
+    "last_author_before_current_tracy_reveal": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/last_author_before_current_tracy_reveal"
+    },
+    "author_current_tpp_tracy_correction": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/author_current_tpp_tracy_correction"
+    },
+    "current_tpp_tracy_route": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_tpp_tracy_route"
+    },
+    "current_tracy_speech_fidelity": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_tracy_speech_fidelity"
+    },
+    "current_john_jack_voice_fidelity": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_john_jack_voice_fidelity"
+    },
+    "current_tpp_comedy_fidelity": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_tpp_comedy_fidelity"
+    },
+    "current_WTF_optional_candidates": {
+      "disposition": "RETAIN_NONCONFLICTING_SELECTIONS_WITH_EXPLICIT_CURRENT_DISPOSITIONS",
+      "route": "selection_dispositions plus continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_WTF_optional_candidates"
+    },
+    "current_post_E32_character_decisions": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_post_E32_character_decisions"
+    },
+    "current_character_agency_matrix_library": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_character_agency_matrix_library"
+    },
+    "latest_comedic_research_authority": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_comedic_research_authority"
+    },
+    "current_comedy_and_crude_language_source": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_comedy_and_crude_language_source"
+    },
+    "new_tpp_roster_source": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/new_tpp_roster_source"
+    },
+    "TPP_author_selected_new_members": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/TPP_author_selected_new_members"
+    },
+    "season3_WTF_crossover_additions": {
+      "disposition": "RETAIN_NONCONFLICTING_SELECTIONS_WITH_EXPLICIT_CURRENT_DISPOSITIONS",
+      "route": "selection_dispositions plus continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/season3_WTF_crossover_additions"
+    },
+    "author_current_absurd_comedy_repair": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/author_current_absurd_comedy_repair"
+    },
+    "current_TPP_Clifford_surgery": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_TPP_Clifford_surgery"
+    },
+    "BELLY_absurd_roommates_authority": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/BELLY_absurd_roommates_authority"
+    },
+    "current_comedy_research": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_comedy_research"
+    },
+    "BELLY_roommate_future": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/BELLY_roommate_future"
+    },
+    "primary_narrator": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/primary_narrator"
+    },
+    "narration_current_owner": {
+      "disposition": "RETAINED_SOURCE_ROUTE",
+      "route": "source_routes/narration_current_owner"
+    },
+    "narrator_full_speech_research": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/narrator_full_speech_research"
+    },
+    "deadpool_rick_style": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/deadpool_rick_style"
+    },
+    "black_mimir_role_current": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/black_mimir_role_current"
+    },
+    "existing_narration_catalog": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/existing_narration_catalog"
+    },
+    "author_selected_deadpool_narrator_change": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/author_selected_deadpool_narrator_change"
+    },
+    "tpp_all_roster_intersection_owner": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/tpp_all_roster_intersection_owner"
+    },
+    "TPP_cross_roster_agency_policy": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/TPP_cross_roster_agency_policy"
+    },
+    "zid_TPP_betrayal_and_plan_activation": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/zid_TPP_betrayal_and_plan_activation"
+    },
+    "current_tone_author_reaffirmed": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_tone_author_reaffirmed"
+    },
+    "latest_deadpool_narrator_only_dana_chris_authority": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_deadpool_narrator_only_dana_chris_authority"
+    },
+    "deadpool_current_deployment": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/deadpool_current_deployment"
+    },
+    "dana_chris_shared_RDR2_owner": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/dana_chris_shared_RDR2_owner"
+    },
+    "dana_chris_RDR2_portrayal": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/dana_chris_RDR2_portrayal"
+    },
+    "latest_oct19_serpent_crossovers_combat_game_canon": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_oct19_serpent_crossovers_combat_game_canon"
+    },
+    "latest_active_full_owner_route": {
+      "disposition": "RETAINED_SOURCE_ROUTE",
+      "route": "source_routes/latest_active_full_owner_route"
+    },
+    "current_world_serpent_identity": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_world_serpent_identity"
+    },
+    "all_living_rosters_can_encounter_each_other": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/all_living_rosters_can_encounter_each_other"
+    },
+    "clifford_sith_parody_future": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/clifford_sith_parody_future"
+    },
+    "teemo_character_erasure": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/teemo_character_erasure"
+    },
+    "billy_kancho_and_chris_moose_author_lock": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/billy_kancho_and_chris_moose_author_lock"
+    },
+    "latest_author_Mimir_stash_Clifford_QAPX": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_author_Mimir_stash_Clifford_QAPX"
+    },
+    "mimir_kratos_after_valhalla": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/mimir_kratos_after_valhalla"
+    },
+    "chris_BELLY_food_stash": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/chris_BELLY_food_stash"
+    },
+    "clifford_Marston_live_visual": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/clifford_Marston_live_visual"
+    },
+    "QAPX_cutover_stage": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/QAPX_cutover_stage"
+    },
+    "latest_scoped_author_override": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_scoped_author_override"
+    },
+    "future_scope_correction_20261019": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/future_scope_correction_20261019"
+    },
+    "latest_author_revision_20261021": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_author_revision_20261021"
+    },
+    "latest_Dr_Evil_author_owner": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_Dr_Evil_author_owner"
+    },
+    "latest_delivered_and_prepared_override_20261021": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_delivered_and_prepared_override_20261021"
+    },
+    "historical_next_episode_direction_before_E41": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/historical_next_episode_direction_before_E41"
+    },
+    "mana_shoplifting_integration": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/mana_shoplifting_integration"
+    },
+    "latest_outline_work": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_outline_work"
+    },
+    "latest_E49_author_direction": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_E49_author_direction"
+    },
+    "BELLY_current_played_roster_reconciliation": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/BELLY_current_played_roster_reconciliation"
+    },
+    "prepared_E49_Public_Facing_20261021": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prepared_E49_Public_Facing_20261021"
+    },
+    "latest_E50_author_direction": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_E50_author_direction"
+    },
+    "Brian_sleeping_stages_20261021": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/Brian_sleeping_stages_20261021"
+    },
+    "Mahnuh_gambling_20261021": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/Mahnuh_gambling_20261021"
+    },
+    "prepared_E50_All_In_20261021": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prepared_E50_All_In_20261021"
+    },
+    "historical_outline_fields_before_post_E50_reconciliation": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/historical_outline_fields_before_post_E50_reconciliation"
+    },
+    "historical_TPP_fields_before_post_E50": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/historical_TPP_fields_before_post_E50"
+    },
+    "latest_author_post_E50": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_author_post_E50"
+    },
+    "actual_after_E50": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/actual_after_E50"
+    },
+    "latest_author_relationship_TTS_correction": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_author_relationship_TTS_correction"
+    },
+    "latest_post_E50_selected_owner": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_post_E50_selected_owner"
+    },
+    "latest_author_approvals_and_corrections": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_author_approvals_and_corrections"
+    },
+    "latest_author_mask_meta_vehicle": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_author_mask_meta_vehicle"
+    },
+    "latest_author_Mahnah_Daynah_Chris_contribution": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_author_Mahnah_Daynah_Chris_contribution"
+    },
+    "prior_outline_work_before_crucifix": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prior_outline_work_before_crucifix"
+    },
+    "latest_restaurant_Daynah_Brian_application": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_restaurant_Daynah_Brian_application"
+    },
+    "prior_outline_work_before_restaurant_consequences": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prior_outline_work_before_restaurant_consequences"
+    },
+    "latest_TPP_fanlove_application": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_TPP_fanlove_application"
+    },
+    "prior_outline_work_before_TPP_fanlove": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prior_outline_work_before_TPP_fanlove"
+    },
+    "prior_outline_work_before_TPP_fanlove_R2": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prior_outline_work_before_TPP_fanlove_R2"
+    },
+    "latest_Brian_slipper_longcon_application": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_Brian_slipper_longcon_application"
+    },
+    "prior_outline_work_before_slipper_longcon": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prior_outline_work_before_slipper_longcon"
+    },
+    "prior_outline_work_before_cumulative_patch": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prior_outline_work_before_cumulative_patch"
+    },
+    "consolidated_selected_direction": {
+      "disposition": "RETAIN_NONCONFLICTING_SELECTIONS_WITH_EXPLICIT_CURRENT_DISPOSITIONS",
+      "route": "selection_dispositions plus continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/consolidated_selected_direction"
+    },
+    "prepared_E51_Fetch_20261022": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prepared_E51_Fetch_20261022"
+    },
+    "prepared_E51_candidate_next_state": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prepared_E51_candidate_next_state"
+    },
+    "prepared_E51_Fetch_R2_20261022": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prepared_E51_Fetch_R2_20261022"
+    },
+    "latest_Billy_Jesus_authority": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_Billy_Jesus_authority"
+    },
+    "latest_Brian_height_journal_chair": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_Brian_height_journal_chair"
+    },
+    "latest_Brian_petty_comedy_approval": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_Brian_petty_comedy_approval"
+    },
+    "latest_E51_fourth_wall_R3": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_E51_fourth_wall_R3"
+    },
+    "prepared_E52_Eye_Contact_20261022": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prepared_E52_Eye_Contact_20261022"
+    },
+    "current_E52_selected_threads": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_E52_selected_threads"
+    },
+    "prepared_E53_E54_Off_the_Record_20261022": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prepared_E53_E54_Off_the_Record_20261022"
+    },
+    "current_E53_E54_thread_progress": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_E53_E54_thread_progress"
+    },
+    "current_delivered_episode": {
+      "disposition": "SUPERSEDED_CURRENT_CONTROL",
+      "route": "current_control"
+    },
+    "next_episode": {
+      "disposition": "SUPERSEDED_CURRENT_CONTROL",
+      "route": "current_control"
+    },
+    "latest_direct_author_scope": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_direct_author_scope"
+    },
+    "latest_narrator_knowledge_rule": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/latest_narrator_knowledge_rule"
+    },
+    "current_actual_after_E54": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_actual_after_E54"
+    },
+    "prepared_E55_E56_The_Last_Take_20261022": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prepared_E55_E56_The_Last_Take_20261022"
+    },
+    "prepared_E55_E56_candidate_next_state": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/prepared_E55_E56_candidate_next_state"
+    },
+    "current_E55_E56_thread_progress": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/current_E55_E56_thread_progress"
+    },
+    "next_after_prepared_feature": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/next_after_prepared_feature"
+    },
+    "episode57_authorized": {
+      "disposition": "ARCHIVED_PROVENANCE; nonconflicting source detail remains retrievable, never treat historical cursor/status as current",
+      "route": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/episode57_authorized"
+    }
+  },
+  "recent_episode_review": "This is editorial judgment about the saved final versions, not a claim that the author accepted every line. Episode51 means Fetch R3; 55–56 means Below the Belt R3, not the superseded Last Take. Carry On is the most recent delivered pair.\n\n| Episodes | Strongest work | Where the writing still needs improvement |\n|---|---|---|\n| 50, All In | Mahnah's gambling is simple learned behavior made absurd by everyone voluntarily treating it as finance. Daynah's irritation is personal. Brian's sleep behavior has different embarrassed reactions. Selling the hinges makes the lost stake matter. | Poker explains more mechanics than the joke needs. The initial investigative return is useful but should stay proportionate to its small informational gain. |\n| 51, Fetch R3 | The fart discovers an entire forgotten conversational possibility. The stolen crucifix causes the story, story causes artifact inspection, inspection destroys Billy's certainty, and Chris still wants his property back. Several characters drive different parts of one sequence. | Some narration labels the joke or explains mechanics after the image already works. Wade's then-authorized revelations must not become the default information service after the later correction. |\n| 52, Eye Contact | The chair gives Brian exactly what he requested while defeating his real goal. His denial becomes Dr. Evil's defense. The journal rewrites humiliation into promotion. Useful advice creates believable leverage for the long con. | Kaze/Starkiller have a real disagreement, but too many questions establish adjacent versions of the same boundary. Keep the recognition and choice; compress circular clarification. |\n| 53–54, Off the Record | The documentary lets selfish personalities expose themselves. Meatwad's quiet interruptions are effective. The lost foreman's help and actual public notices make prior violence matter. Clifford retrieving his helmet preserves dignity and resentment. | The ship discussion keeps renegotiating what cannot be provided, then defers the decision. It becomes static. Repeated legalistic clarification and narrator explanations of honest uncertainty drain energy. A partial lead should force an action sooner. |\n| 55–56, Below the Belt R3 | The pranks connect: interview hunger, forced tattoo, captured sleep mooning, hidden makeup, hydraulic control, bodily launch, mirror and pubic-hair discovery. Clifford's genuine enjoyment makes the VR betrayal sharper; asking whether the fish saved is the secondary payoff. Kaze suffers his own instigation. | Brian carries a very high share of the joke load. More competent independent actions and conflicting wants elsewhere would prevent the season becoming his punishment program. Some deliberate camera/switch explanation can be compressed. |\n| 57–58, Carry On | Brian and Clifford land real retaliation. The yard robbery is openly criminal. Each Sin contributes physically; the bridge changes under the fight. Chris destroys expensive cloth to protect the cheap duck pot, then still collects steel and asks barred victims for onions. | Two successive armed-road confrontations risk a repeated kill-the-defense rhythm. Most opponents are disposable guards. Future violence needs more individual objectives, counterplay and a changed relationship, without artificial parity or compulsory mercy. |\n\nThe improvement is real, but its strongest large comic mechanisms came from Kaze's supplied premises and corrections. AI contribution includes much of the connecting dialogue, staging and prose; that does not transfer authorship of the inventions. The task now is independently originating equally consequential mechanisms, not asking the author to provide every funny event and calling the expansion creativity.\n\nNo system can honestly promise perfect reproduction of a person's creative process. In this project, consistency can improve through actual source use and comparison with these examples. Preserved files support later work; this is not a claim that the model has privately trained itself or permanently absorbed the style. Judge the next unsupplied scene by its invention and effects.\n\nThe original Chris opening demonstrates a wider range than Brian humiliation: ordinary cereal triggers a nearly fatal encounter; Bob's separate consciousness makes a killing emotionally worse; Hawking's apocalyptic boast collapses into a grotesque bodily event; Billy sincerely grieves through a physically repulsive memorial; a mechanical fish becomes an unwanted roommate and cites a receipt. Different kinds of escalation leave permanent people, objects and grievances behind. These completed events are benchmarks, not scenes to replay.",
+  "crossover_motive_intersection_register": "These are proposed forward applications of the supplied snapshots and latest scene evidence. The cause of displacement stays as established or unresolved; a missing origin is not filled with a universal new portal explanation. Current location, travel and knowledge must be checked before a scene. The broad imported-snapshot catalog includes other events and reserve characters; it is not a living Season3 attendance list.\n\n| Character or existing group | Why act in this world? | Concrete next activity and credible collision | Limit / season role |\n|---|---|---|---|\n| Starkiller | Escape coercion and obtain an actual way off-world; he has no functioning route merely because he is powerful. | Stop repeating harbor inquiries. Follow one credible technical lead, acquire a necessary resource or make a consequential bargain. A later meeting over Chris's existing transforming vehicle can give the same object incompatible meanings: escape for Starkiller, prized property for Chris. | Resolve real vehicle capability, fuel, R2 whereabouts and access first. If a real departure becomes possible, allow it; no invented endless failure or automatic theft. |\n| Tai Lung | Recover the recognition he believes his mastery deserves. | Choose a Noxian sponsor or public feat that appears to reward merit. A Draven-linked promotion exploits his image while discounting his authority. TPP seeks a paid presentation job there. Actual publicity can bring his location to the Sins. | A proposed arena strand, not already his career. He is a resourceful dangerous adult, not a cat-meme machine. The gang already knows he killed Daniel. |\n| Shang Tsung | Rebuild leverage, secure material support and investigate unfamiliar soul/magical opportunities after losing access to his original setting. | Demonstrate one genuinely useful bounded service, gain customers, then sell an exploitative extension. Baldur is a possible customer seeking sensation; Heisenberg a later rival over the same buyers, access or patron. | New Era version; no transported Well, universal cure, effortless copied powers or prearranged Black Rose pact. His selected compact fatal arc remains, exact confrontation open. |\n| Baldur | Find relief from the intact enchantment and regain bodily autonomy. | Pursue a specific promising treatment or challenger. A failed Shang demonstration exposes exploitation; his resulting violence targets the failed bargain, not whoever happens to be the protagonist. | He has already met/fought Kaze. No first-meeting replay; no automatic curse solution, sensation from ordinary injury or late-game memories. |\n| Thor | Find his way back to his family and war, while resisting being used again. | Test a patron's concrete evidence before accepting a bounded violent job. A credible research resource can be sought by Starkiller too; compatible need does not guarantee cooperation. Kratos/Mimir can later complicate his understanding of home. | GoW snapshot, not Marvel. Family concern does not make him harmless. No repeatable serpent-displacement trick, invented prolonged employment or automatic rematch. |\n| Kratos and the same Black Mimir | Establish where they are and choose a route toward their own people while deciding whom to help. | Seek a genuine lead, consult a located native knowledgeable person, protect someone during an actual obstruction. Meeting Thor or the serpent has meaning because the imports do not share the same temporal knowledge. A reachable Sins reunion gives the old narrator a physical life. | Post-Valhalla restraint and readiness for decisive violence coexist. Mimir is a vulnerable-positioned independent talking head, not Wade's remote intelligence link. |\n| Older Yormungander | Survive and respond as an intelligent displaced being with his own relationships. | His real body and movement change reachable maritime traffic. A chosen interaction with Mimir or Thor can redirect a voyage or conflict. Billy's hatred can interfere with a practical objective. | Not a monster hired for the finale or a gag-sized pet; no universal English, invented dimensions or compulsory participation in Billy's feud. |\n| Magneto | Assess whether this society offers outsiders a viable life and defend specific people he has chosen to protect. | Continue the actual refugee strand. An offer of protection carries a conscription, labor or possession demand. He rejects the demand in action. That can cross a Noxian policy or Heisenberg supply interest without making him the Sins' ally. | Earth616 selected era; mages are not automatically mutants. Do not reset his30 appearance or transplant every film trait. |\n| Riddick | Secure practical freedom, equipment and a defensible route; avoid another hierarchy that owns him. | A specific extraction or escape from an exploited work site can intersect TPP's paid crime and the Sins' theft. He may use their disturbance and leave them with its consequences. | Quiet observation and sudden lethal action contrast with the group. Not a recurring rescue service or passive target. Selected compact fatal development stays separately gated. |\n| Heisenberg | Preserve an already-successful empire and his indispensability; displacement has given him power he may not want to leave. | Respond to documented counterfeit sales, stolen supplies or lost buyers. A Shang service threatens the same customers, rather than meeting him at a random villain summit. TPP can accept a limited job; the Sins can want goods he already owns. | PURPLE PAIN already exists; no new launch, automatic world monopoly or synthesis instructions. His cure remains real. Notebook constraints do not disappear. |\n| Jesse | Earn independence and protect particular people without surrendering all practical connections to Walter. | Use actual lab/workplace competence to help someone leave an exploitative arrangement or secure paid work. A supply or worker dispute intersects Matt's evidence and Walter's retaliation. | Not a walking conscience, obedient assistant or universal scientist. Actual travel matters; no instant appearance in Noxus. |\n| Agent47 | Maintain professional autonomy through bounded paid work in unfamiliar conditions. | A contract to recover a person, sample or item can conflict with the Sins' possession or TPP's theft. He completes/refuses the actual scope instead of joining every fight. | Existing earned enhancements retained, no automatic Noxian presence or ICA network. Clever disguise relies on access and observers, not a game meter. |\n| Matt Murdock | Protect actual endangered people and find usable truth while navigating a system in which he has no automatic legal office. | Investigate a named survivor or coercive enterprise; help secure a real escape or evidence handoff. This crosses Jesse/Heisenberg/47 through a specific person, not a moral conference. | Respect his existing journey and return-time constraints; old schedule is not proof he arrived. Sensory inference is fallible, not objective mind reading. |\n| Ryuk | Watch what a new human does with the notebook's power; seek interest, not revenge for Light. | Appear only through valid custody/perception/route. A human's elaborate justification or attempt to order him around may amuse him. Selective answers can change a choice. | No faction membership, mystery briefing, automatic name supply or second Wade. Resolve owner-exclusive uncertainties only when needed. |\n| Dr. Evil | Build an organization that gives him material leverage and a stage for his villainous identity. | Pursue a profitable extortion, seizure or contracted intimidation. Real success funds another initiative. His branding and need to control the room create practical exposure. | He is not personally obliged to hate Kaze. Short warm-looking Brian scenes build his calculated long con; not every kindness is immediately reversed. |\n| Dutch | Recover leadership, independence and a loyal circle; his real Bob/Arthur grievance complicates cooperation. | Negotiate a criminal deal he can actually secure, then discover the doctor has altered its presentation or who receives credit. Face tattoos affect impression; they are not his entire personality. | LateChapter3 source plus actual branch history. His restraint unintentionally enables the doctor's fandom; he is not secretly its enthusiastic producer. |\n| Clifford / adult Jack | Retain autonomy and dignity, use his restored mobility and survive people who treat his injuries as entertainment. | Undertake a dangerous task competently, choose a grudging partner, or retaliate with Brian where their interests overlap. Source-game familiarity does not erase resentment of Arthur/Chris. | Adult, independent, not Vader or a Force-user. Gift/helmet/research/VR are history, not fresh reveals. |\n| Brian | Reclaim status, founding credit and the adult life he remembers; turn real audio competence into recognition. | Obtain a consequential sound/editing task in a real criminal undertaking. His success creates leverage; an inflated claim or needless explanation can endanger it. Revenge targets are particular, not everybody equally. | Keep technical competence, genuine occasional wins, terrible journal rhetoric and varied humiliation. Hair discovery completed; no eternal identical rap rejection. |\n| Charles, Meatwad and Shake | Housing, food, ownership and attention create different domestic motives. | They fight over what the camera is for, whose version gets shown and who controls the usable footage. Exterior visits require Billy's actual cooperation. Film can affect an existing deal rather than spawn a global TV industry overnight. | Distinct intelligence/voices; Charles limited literacy, not total inability. Meatwad can refuse. Shake's aborted departure is completed. |\n| Frylock | His chosen independent departure stands. | Remains offstage seeking France until an earned later reason brings news or contact. | No compulsory check-in, death or immediate replacement. |\n| Rick and Morty | Rick's scientific curiosity and control; Morty's separate stakes and willingness to object or choose. | Retain the selected Billy engineering event when access, consent and the current body state support it. A native discovery can interest Rick on its own; Morty needs a concrete interest beyond saying stop. | The broader S7 snapshot is not proof of current presence or a broken portal gun. Do not strand them by arbitrary incompetence. No sexual material involving Morty. |\n| R2-D2 | An independent droid's chosen relationship with Chris and practical problem-solving. | Once real whereabouts are established, his interests may overlap with a ship repair or escape attempt. He can object to a person's use of the vehicle. | Not automatically stored in the vehicle ball, not Chris's owned prop; Starkiller lacks laterDLC memories. |\n| Daniel | One final visit with his family. | Selected59 farewell, sincere hugs and white-light departure toward drinking with Oogway. | Alive at58; farewell future. His ordinary later matchups displaced; no violent re-killing. |\n| Keke | Future selected regrowth, then his own choices. | Reintroduction waits for the actual regrowth event and development. His return changes relationships without requiring full-time ensemble membership. | Original death and burial preserved; no Daniel-based universal resurrection or already-stored core. |\n| Unintroduced comedy reserves | Their own survival, social identity and purpose would precede joining anyone's plot. | Woody/Buzz can have a bounded belonging/transport problem; Courage a specific fearful protective choice; JohnnyBravo unwanted self-presentation; Daffy credit/greed; the four penguins a coordinated practical objective. Introduce only the one small strand with a genuine job in the season. | Available options, not newly approved events or a mandatory parade. Full character owner before drafting. No unexplained all-cast arrival. |\n| Dead/retired/excluded imports | Their history still changes survivors. | Bob through Dutch/Chris; Maul through Keke/Starkiller inquiry; former conjoined body through Brian's distorted résumé. Frank's absence stands. | No roster revision revives Maul, Heimdall, Bob, Hawking, Tracy, Cartman, Jimmy or Timmy; no duplicateBusta. Frank's no-return boundary remains. |\n\nThere need not be one answer to “do they want to go home?” Starkiller and Thor may actively seek a route. Heisenberg has a reason to defend what he built here. Riddick needs freedom more immediately than a philosophical homecoming. Tai Lung may find a new audience attractive. These differences create intersections without a shared-villain club.\n\nVISIBLE ROSTER CORRECTION: Kratos and the SAME Black Mimir must appear in the concise season plan as well as full register. Kratos's26 Baldur investigation and Mimir's33 physical reunion precede future meetings. A reachable report from the approved Shang/Baldur demonstration is a PROPOSED reason to intersect; the Brian/Mimir career comparison is AUTHOR_SELECTED. No remote narrator feed, automatic alliance or immediate travel.",
+  "causal_season_sequence": "Use the seven movements above as geographic possibilities, but build the causal sequence around completed operations and choices:\n\n1. **Farewell and a specific Noxian score.** Daniel's goodbye, then59–60 uses actual money/loot and notoriety to pursue a concrete resource or illicit opportunity. Select the exact prize before drafting. TPP's smaller crime must achieve something. No new crossover just to populate the pair.\n2. **Recognition becomes a commodity.** A proposed TaiLung/Draven strand gives public recognition a price. TPP can be paid to stage promotion; the Sins can gain credible location information. Tai Lung's own choice escalates it. This replaces passive waiting for a revenge summons.\n3. **A useful service becomes predation.** Shang earns access before exploiting it. A Baldur treatment offer creates an independent collision; the mess can leave actual evidence or a commercial contact pointing toward the next operation. Do not make every event one secret master plan.\n4. **The established Zaun economy pushes back.** A real supply/customer/witness dispute activates Walter, Jesse,47 and Matt at locations their actual journeys allow. Magneto's chosen people may independently face a related political cost. The Sins can exploit the dispute and still harm someone they don't care about. Not everybody needs to meet.\n5. **A route off-world becomes a choice about dependence.** Starkiller must act on a credible lead rather than ask another carpenter. Thor's return desire can intersect that resource for a different reason. If Rick or Chris's vehicle is relevant, use its real capacities; do not invent a disability to preserve the subplot.\n6. **Horror and sea routes change priorities.** Riddick, the serpent and the exterior Vecna operation enter through actual access and competing needs. A small creature incident develops into a local dangerous operation, not a franchise montage. Let fear or brutality stand without narrator reassurance.\n7. **An earned major operation closes the season.** Earlier deals, humiliations, surviving adversaries, gained resources and broken access determine who helps, obstructs, profits or refuses. Include only the actors with reasons to be there. Nativechampion/Darkin opportunities remain separate, source-gated and unordered where necessary.\n\nFinish a smaller character arc before opening another demanding one. A successful departure or an enemy choosing elsewhere can be a complete outcome. Their absence then matters instead of requiring another bench of waiting characters.",
+  "latest_new_scene_proposals": "Latest author approval selects CHAT scenes1–6, mapped to the document scenes1,2,3,5,7,6 below. Those six are AUTHOR_SELECTED future constructions, not occurred events or guaranteed59–60 placements. Document4 and8 remain PROPOSED. See continuity/author/S7NS_Pre50_Review_Six_Approvals_Kaze_Animals_20261023.md. They test the author's process through a concrete desire, a specific wrong belief, a changed situation and a further payoff. Sample lines are editable originals.\n\n1. **Tai Lung wins the fight and loses the event.** A Noxian promoter offers the recognition he wants, then introduces him as an exotic novelty. Tai Lung brutally wins and holds the pose for his title. A handler places a promotional ribbon on him. The insult is deliberate exploitation of his marketability, not an inability to recognize a speaking person. TPP has been hired for the presentation; Brian announces a “purrfect performance” into the microphone. Tai Lung turns toward the announcer. Dr. Evil points at Brian immediately: “Independent contractor.” Kaze, arriving for an actual reason, asks the promoter whether the other side of the ribbon says second place. Tai Lung destroys the presentation and changes the crowd's reaction; the championship/job/revenge objectives collide. No guaranteed capture, death or gang win.\n\n2. **Shang's no-sensation demonstration.** His first customer receives a genuine modest benefit. Baldur therefore agrees to a more ambitious paid test. TPP supplies the presentation space for a cut. Baldur remains entirely numb while the treatment apparatus wrecks its surroundings. Dr. Evil tries to classify escalating damage as evidence that it works. Baldur screams in fury. Shang immediately says, “There. A response.” Baldur answers, “I could get fucking angry before I paid you.” The patient's violence is now a material threat to the scam, and Shang must adapt rather than deliver a villain speech. No curse cure or imported machine guaranteed by the outline.\n\n3. **Brian successfully gets the gang paid—and hates why.** Dutch negotiates a quiet exit payment from a prospective victim who genuinely wants to avoid a fight. Brian insists the offer fails to recognize TPP's threat level. The victim raises it only after hearing Brian will otherwise perform his entire promotional set. Dr. Evil accepts. Brian can truthfully say his music made money; everybody agrees for a reason he finds unbearable. Later he presents the payment as his booking rate and voluntarily recreates the problem. A real gain precedes the new mistake; don't immediately remove the money just to deny him a win.\n\n4. **White objects to the wrong part of a fraud.** Shang's independent promotion starts taking actual customers from Walter's local business. The offer promises purity of spirit, not a scientifically supported cure. Walter challenges a claim with real evidence; Shang reframes every correction as confirmation of how much Walter respects the product. A dangerous negotiation becomes a fight over who gets to define the harm they sell. Proposed exchange: “People are getting hurt.” / “I was discussing the labeling.” Their personnel have their own limits; one may leave while the two principals argue. Violence comes from an actual retaliatory order or seizure, not a random explosion. No real production method or automatic partnership.\n\n5. **The silent escape acquires commentary.** Riddick has a real route out of a dangerous work site. The Sins' theft or TPP's crime breaks that route open and starts pursuit. If Billy takes the exterior in the resulting darkness, he mistakes Riddick's refusal to answer his story for attentive listening. Riddick quietly kills a pursuer while Billy is still speaking. “Wasn't listenin', was he?” Billy asks. “Neither am I,” Riddick answers. Billy is offended by the living man's manners, not the body. Their incompatible objectives change the escape; Riddick may take the opening and leave rather than become their guide. Stage actual sound, visibility and positions—no invulnerable stealth or BELLY access assumed.\n\n6. **Brian meets the head with a better job.** During a genuinely motivated reunion with Kratos/Mimir, Brian hears Mimir give useful advice and receive an actual answer. He explains his own former head-at-Daynah's-hip arrangement as executive experience. Mimir asks one practical question about what he did. Brian's answer becomes the résumé. Dr. Evil, listening nearby only if actual travel places him there, begins discussing Mimir's qualifications while Brian is still speaking. Alternate version uses an actually present Sin instead of importing the doctor. The wound is replaceability and recognition, not another anatomical height joke. Mimir can decline the job and still devastate Brian by being wanted.\n\n7. **Starkiller finally encounters the right vehicle and the wrong owner.** Only after an actual causal sighting and capability check, he recognizes a potentially useful spacecraft. Chris treats the inquiry as a conversation about his car and its condition. Starkiller can move metal; that does not give him trust, fuel, a route home or the right to take it. Chris's first objection to a telekinetic inspection is the handprint-equivalent damage or displaced contents. Arthur tries to negotiate a useful exchange; Kaze invites a demonstration because he wants to watch Chris react. The scene must resolve an actual bargain/refusal/theft attempt and change the travel plot, not end with another appointment. Do not preassign victory or break the vehicle for a gag.\n\n8. **A sound professional gets hired, and the artist ruins it.** Brian successfully repairs a real audio problem for a TPP intimidation job. The threatening message works. He then adds an unsolicited verse to the closing silence because he cannot bear leaving his contribution anonymous. The recipient laughs at exactly the wrong moment, believes TPP's threat was a joke, and makes a specific dangerous choice. Clifford has to enforce the original threat while Brian argues that the reaction proves audience engagement. The job can still succeed violently, at a cost created by the embellishment. Film/audio playback uses actually acquired and demonstrated equipment; no automatic broadcast network.\n\nThe final selection should vary targets and mechanisms. Do not run all eight, put every crossover in one episode, or replace precise invention with a longer list of obscenities. Let the genuine fishing pleasure, Brian's useful work, Daniel's goodbye and the Sins' affection remain real alongside their cruelty.",
+  "latest_creative_benchmark": "Author-selected E50 onward plus original author writing, especially Chris five-duel sequence. AI must originate mechanisms, not just connective prose. No claim of perfect imitation/permanent training.",
+  "review": "Use the existing whole-draft → whole-read → repair → whole-final-reread procedure. Judge whether the least worthwhile scene creates an actual decision, surprise, relationship change or payoff. Remove narrator explanations of compliance and joke meaning. Do not add a new process, joke quota, mandatory cameo or even distribution of abilities.\n\nThe previous outline is preserved exactly in the dated archive. Its older pending labels, initial roster and superseded endings are evidence, not current instructions. The new structured outline carries current state, active movements, source routes and a disposition for every prior top-level section. Original manuscripts and original source owners are not rewritten by this work.\n\nActual delivery of Carry On is reconciled provisionally, separately from author acceptance. All new plans remain future. No episode text, fictional travel, elapsed day, new death, money distribution or acquired power is produced by this revision.",
+  "original_manuscripts_or_checkpoints_rewritten": false,
+  "latest_approval_addendum": {
+    "change_id": "S7NS_PRE50_REVIEW_SIX_APPROVALS_KAZE_ANIMALS_20261023",
+    "author_scope": "continuity/author/S7NS_Pre50_Review_Six_Approvals_Kaze_Animals_20261023.md",
+    "approved_scenes": [
+      {
+        "chat_scene": 1,
+        "prior_document_scene": 1,
+        "name": "Tai Lung wins the fight and loses the event",
+        "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED"
+      },
+      {
+        "chat_scene": 2,
+        "prior_document_scene": 2,
+        "name": "Shang’s no-sensation breakthrough for Baldur",
+        "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED"
+      },
+      {
+        "chat_scene": 3,
+        "prior_document_scene": 3,
+        "name": "Brian’s music earns TPP money for the wrong reason",
+        "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED"
+      },
+      {
+        "chat_scene": 4,
+        "prior_document_scene": 5,
+        "name": "Riddick’s silent escape with Billy commentary",
+        "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED"
+      },
+      {
+        "chat_scene": 5,
+        "prior_document_scene": 7,
+        "name": "Starkiller encounters Chris’s vehicle",
+        "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED"
+      },
+      {
+        "chat_scene": 6,
+        "prior_document_scene": 6,
+        "name": "Brian meets Mimir, the head with the better career",
+        "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED"
+      }
+    ],
+    "unapproved_document_scene_numbers": [
+      4,
+      8
+    ],
+    "playback": "HELD",
+    "earlier_review_scope": "Targeted manuscript scenes and opening source-history review; not a complete49-manuscript reread."
+  },
+  "dutch_crash_gga_author_direction": {
+    "change_id": "S7NS_DUTCH_CRASH_GGA_20261023",
+    "authority": "continuity/author/S7NS_Dutch_Crash_GGA_20261023.md",
+    "drive": "https://drive.google.com/file/d/1bOu-U5CQgwaotM9djj4BYbkjnpGLw9i2/view",
+    "author_selected": [
+      "New project-native Dutch crash/head impact with subsequent behavioral changes",
+      "Recurring reciprocal intra-Sins Greet Greet Antagonize wit competition with character-specific speech"
+    ],
+    "proposal_status": "Specific launch construction, consequences and sample dialogue proposed, not separately approved",
+    "research_guard": "Urban Pleasures trolley and A Rage Unleashed army boat are distinct; all-decline injury theory unconfirmed; no exhaustive ambient corpus verified",
+    "continuity_guard": "Dutch imported late Chapter3; later game missions not personal memories. Actual58 unchanged,59 unwritten,PLAY held; prior six approvals retained."
+  },
+  "latest_Brian_Shake_Dutch_GGA_author_direction": {
+    "change_id": "S7NS_BRIAN_SHAKE_DUTCH_GGA_R2_20261023",
+    "authority": "continuity/author/S7NS_Brian_Shake_Dutch_GGA_R2_20261023.md",
+    "status": "AUTHOR_SELECTED_FUTURE; SPECIFIC_NEW_IMPROVEMENTS_PROPOSED; NO_PLAY",
+    "selected": [
+      "Brian finds Dr Evil's discarded memorized RDR/RDR2 research and misuses it",
+      "Shake genuinely enjoys Brian's writing; excellent freestyle shatters Brian's pride; Brian invents offense, steals Clifford's saber during VR fishing and deliberately kills Shake; cringey empowerment",
+      "Dutch crash construction approved; complete Tahiti/Bob Ross lala escalation selected",
+      "Both GGA interference/surrounding-situation lists approved; internal practice pays off with outsiders",
+      "Jack returns to affectionate virtual Uncle Arthur because it heals his inner soul; later completes RDR2 then RDR1 and acquires knowledge through actual progress"
+    ],
+    "guard": "Actual58 unchanged; Shake alive; Jack has not completed campaigns. Stage travel, gameplay access, saber custody and discoveries. Daniel's selected farewell and prior six approvals retained; Dr Evil calculated long-con persists.",
+    "drive_id": "1ON6LCMyGLWyEe9JuGveBQfvbMuXCvvO_"
+  },
+  "latest_chronology_approval_review": {
+    "change_id": "S7NS_CHRONOLOGY_APPROVALS_REVIEW_R3_20261023",
+    "authority": "continuity/author/S7NS_Chronology_Approvals_Review_R3_20261023.md",
+    "approved_latest_chat_improvements": [
+      {
+        "id": 1,
+        "selection": "Jack's refuge gradually becomes investigation; a later quiet request to be left alone can signal changed investment."
+      },
+      {
+        "id": 2,
+        "selection": "Virtual Arthur and actual Arthur remain emotionally distinct; actual Arthur can mistakenly assume gameplay improved their relationship before learning what Jack discovered."
+      },
+      {
+        "id": 3,
+        "selection": "Brian involuntarily applauds/enjoys Shake's excellent freestyle, then jealousy catches up as Shake continues without the notebook."
+      },
+      {
+        "id": 4,
+        "selection": "Shake offers real collaboration; Brian rejects an actual opportunity because superiority matters more than partnership."
+      },
+      {
+        "id": 5,
+        "selection": "Brian treats discarded game research as a walkthrough for living people; some useful knowledge works, then ego corrupts application."
+      },
+      {
+        "id": 6,
+        "selection": "Dutch's Tahiti/Bob Ross fixation transforms a usable chart into a painting, creates an argument with Clifford and alters an operation."
+      }
+    ],
+    "new_chronology_status": "PROPOSED_WORKING_PLACEMENTS_59_TO_94; NOT_APPROVED_SEASON_LENGTH; SOURCE_GATED_ROWS_MAY_MOVE",
+    "new_brainstorm_status": "FOUR_NEW_EVENTS_PROPOSED_NOT_APPROVED",
+    "analysis_scope": "Prior verified coverage: full22,26,49; nearly all revised36–38 with a displayed late-transition gap; opening/middle/ending or substantial scenes across21,23–25,27–35,41–48;39–40 discovery ending; source-backed original opening-duel and Billy history, not complete current1–18 manuscripts. This turn adds COMPLETE revised45 and COMPLETE47, 3,782 and3,770 whitespace words respectively, no output truncation. Recent50–58 have creation/revision records, author feedback and targeted passage review; this document does not assert a fresh full line-by-line comparative audit of all nine. Earlier searches did not establish the full current1–18 standalone manuscript set. No exhaustive all58-script claim or complete-as-possible claim. Further full-manuscript comparisons remain possible.",
+    "guard": "Actual58 unchanged;59 unwritten;PLAY held;R2 author selections and earlier six crossover approvals retained.",
+    "drive_id": "1wC7Qd429OQiGEqLGyMMJORGBRuvYj0s3"
+  },
+  "proposed_episode_chronology": [
+    {
+      "episode": 59,
+      "focus": "Family, then business",
+      "description": "Daniel’s sincere farewell. The Sins inspect usable loot and choose an arms-auction theft; GGA begins as family downtime. Shake decides to return to the submarine.",
+      "status_note": "Existing farewell selected; arms-auction target and placement proposed."
+    },
+    {
+      "episode": 60,
+      "focus": "A successful crime becomes a worse problem",
+      "description": "The theft pays off; GGA meets an outsider and Kaze’s unnecessary cruelty changes the escape. TPP earns the approved payment to leave rather than let Brian perform.",
+      "status_note": "Core operation/violence-comedy direction and Brian quiet-payment scene selected; precise construction proposed."
+    },
+    {
+      "episode": 61,
+      "focus": "Discarded expertise",
+      "description": "Brian retrieves Dr. Evil’s discarded game research. Shake returns through shown travel; Jack chooses affectionate VR fishing. The Sins obtain a public, credible lead toward Tai Lung’s current activity.",
+      "status_note": "Underlying Brian/Shake/Jack selections approved; placement and lead proposed."
+    },
+    {
+      "episode": 62,
+      "focus": "The wrong kind of breakthrough",
+      "description": "Shake’s genuinely excellent freestyle wins Brian’s involuntary applause, then destroys his ego. Brian refuses collaboration, invents disrespect, steals the saber during Jack’s refuge and kills Shake alone.",
+      "status_note": "Author-selected events plus newly approved improvements3–4; exact scene construction unwritten."
+    },
+    {
+      "episode": 63,
+      "focus": "Dutch takes the wheel",
+      "description": "TPP secures a real gain; Dutch’s command decision contributes to the launch wreck. Clifford gets them out. Dutch’s contradictory orders start the Tahiti/Bob Ross escalation.",
+      "status_note": "Crash construction selected; placement proposed."
+    },
+    {
+      "episode": 64,
+      "focus": "Winning the fight, losing the event",
+      "description": "Tai Lung receives insulting public promotion despite demonstrating genuine mastery. Brian’s presentation work, the Sins’ actual objective and Tai Lung’s anger collide violently.",
+      "status_note": "Earlier approved Tai Lung presentation scene; placement proposed."
+    },
+    {
+      "episode": 65,
+      "focus": "A service worth trying",
+      "description": "Shang establishes a real limited benefit before offering Baldur relief. Brian misuses his research on a Dutch now treating a chart like a Tahiti painting.",
+      "status_note": "Shang/Baldur and Dutch map behavior selected; causal connection and placement proposed."
+    },
+    {
+      "episode": 66,
+      "focus": "The customer is still numb",
+      "description": "The approved Baldur demonstration becomes destructive; Shang tries to rebrand the failure. A reachable report advances Kratos and Mimir’s existing investigation.",
+      "status_note": "Approved demonstration; report route and placement proposed."
+    },
+    {
+      "episode": 67,
+      "focus": "The bargain has teeth",
+      "description": "Shang’s predation reaches a consequential confrontation and his selected compact fatal arc resolves. The Sins pursue an actual gain while affected people choose their own responses.",
+      "status_note": "Prior compact fatal-arc selection retained; means/killer and placement open."
+    },
+    {
+      "episode": 68,
+      "focus": "A better-qualified head",
+      "description": "A motivated Kratos/Mimir reunion makes the approved Brian career comparison possible. Dr. Evil begins sustained apparent mentorship; Jack’s game refuge starts producing questions.",
+      "status_note": "Brian/Mimir scene and Jack investigator direction selected; mentor pacing and placement proposed."
+    },
+    {
+      "episode": 69,
+      "focus": "Useful people are being priced",
+      "description": "Magneto acts for specific people facing coercive terms. A concrete supply or worker connection points toward Zaun; Noxian policy has a visible local effect.",
+      "status_note": "Existing refugee/motive strands retained; specific causal link and placement proposed."
+    },
+    {
+      "episode": 70,
+      "focus": "Heisenberg already owns something they want",
+      "description": "The Sins’ chosen target intersects Heisenberg’s existing empire. Jesse makes an independent practical choice; no new business-origin recap.",
+      "status_note": "Existing empire/agency retained; operation and placement proposed."
+    },
+    {
+      "episode": 71,
+      "focus": "Three different jobs",
+      "description": "Matt’s protection/evidence objective and 47’s bounded contract collide with the Sins’ possession of something valuable. The resulting violence changes custody or access.",
+      "status_note": "Retained independent motives; exact commission/confrontation proposed."
+    },
+    {
+      "episode": 72,
+      "focus": "The city remembers",
+      "description": "Piltover/Zaun relationships and surviving consequences change a deal the Sins want. TPP’s success gives Brian more confidence in borrowed expertise.",
+      "status_note": "Existing regional register controls who is alive/present; placement and specific encounter proposed."
+    },
+    {
+      "episode": 73,
+      "focus": "The right spacecraft, the wrong owner",
+      "description": "Starkiller reaches Chris’s vehicle through a real lead. The approved encounter resolves a bargain, refusal or attempt with a material result.",
+      "status_note": "Earlier approved vehicle scene; capability check and outcome open."
+    },
+    {
+      "episode": 74,
+      "focus": "Different meanings of home",
+      "description": "Thor pursues the same credible technical resource for his own reasons; Kratos/Mimir complicate that goal. Rick/Morty and Billy’s selected engineering event fit here only if actual access and prerequisites support them.",
+      "status_note": "Retained motives and existing evolution selection; intersection and placement proposed."
+    },
+    {
+      "episode": 75,
+      "focus": "An escape with commentary",
+      "description": "Riddick’s freedom objective intersects the gang’s crime. Billy mistakes silence for attention during the approved violent escape sequence.",
+      "status_note": "Earlier approved scene; exact work site/access proposed."
+    },
+    {
+      "episode": 76,
+      "focus": "Freedom has a price",
+      "description": "Riddick makes consequential independent choices; his separately selected compact fatal development reaches its proper confrontation. Exterior Vecna evidence changes the gang’s next objective.",
+      "status_note": "Fatal development retained; death mechanism, timing and Vecna connection remain construction decisions."
+    },
+    {
+      "episode": 77,
+      "focus": "A horror problem they cannot talk over",
+      "description": "The exterior Vecna arc receives a substantial operation with real fear, grotesque consequences and decisive violence. Billy’s protected interior is preserved.",
+      "status_note": "Existing exterior arc retained; placement and operation proposed."
+    },
+    {
+      "episode": 78,
+      "focus": "Bilgewater’s useful liars",
+      "description": "A valuable criminal deal brings Arthur into Graves and Twisted Fate’s interests. Maritime pressure supplies a reason for further local involvement.",
+      "status_note": "Retained Arthur encounters; actual deal/travel/placement proposed."
+    },
+    {
+      "episode": 79,
+      "focus": "Everyone has a different exit",
+      "description": "Arthur’s Graves/Twisted Fate conflict pays off through distinct tactics and double-dealing; the other Sins act on the same operation’s changing needs.",
+      "status_note": "Selected encounter slots retained; outcome and exact battle structure open."
+    },
+    {
+      "episode": 80,
+      "focus": "A port worth fighting over",
+      "description": "Miss Fortune and Gangplank’s opposed interests affect the desired prize or route. Arthur’s retained encounters form part of an actual territorial problem.",
+      "status_note": "Source-valid local objectives and living status required; placement proposed."
+    },
+    {
+      "episode": 81,
+      "focus": "The prize changes hands",
+      "description": "The port conflict has a decisive result. Billy’s Nautilus strand enters through a relevant salvage, obstruction or grievance rather than a random challenger.",
+      "status_note": "Retained Billy/Arthur slots; specific incident and placement proposed."
+    },
+    {
+      "episode": 82,
+      "focus": "A name on somebody else’s list",
+      "description": "Pyke’s independent target brings danger into an already consequential sea operation. The gang’s own reasons to interfere stay distinct.",
+      "status_note": "Retained Pyke encounter; no automatic list membership or guaranteed kill; placement proposed."
+    },
+    {
+      "episode": 83,
+      "focus": "An offer the sea will not honor",
+      "description": "Nami and Illaoi’s distinct goals intersect the gang’s desire; Billy’s retained confrontations are staged without assigning them identical motives or granting automatic powers.",
+      "status_note": "Selected encounter slots retained; one episode may expand if needed; placement provisional."
+    },
+    {
+      "episode": 84,
+      "focus": "Two hosts, incompatible appetites",
+      "description": "Billy and Tahm Kench’s retained encounter makes hospitality, appetite and bargaining dangerous. Other Sins’ choices matter to the result.",
+      "status_note": "Selected encounter retained; no invented universal contract terms or guaranteed outcome."
+    },
+    {
+      "episode": 85,
+      "focus": "The serpent has its own plans",
+      "description": "Yormungander’s physical presence and actual relationships change the route. Thor/Mimir’s interests differ from Billy’s hatred; no compulsory monster alliance.",
+      "status_note": "Existing single-serpent strand retained; encounter/placement proposed."
+    },
+    {
+      "episode": 86,
+      "focus": "Someone refuses the performance",
+      "description": "A real Ionian objective produces Kaze’s retained Yone confrontation; local priorities and GGA resist the gang’s usual social control.",
+      "status_note": "Selected opportunity retained; source prerequisites, travel and outcome open."
+    },
+    {
+      "episode": 87,
+      "focus": "Three wills in one conflict",
+      "description": "Kayn, Rhaast and Kaze want incompatible things. Their selected confrontation develops from a concrete objective, with independent host/weapon agency.",
+      "status_note": "Selected opportunity retained; no automatic transfer, acquisition or victory."
+    },
+    {
+      "episode": 88,
+      "focus": "The sealed opportunity",
+      "description": "Zaahen’s selected encounter receives its own substantial place only after legitimate identity/body/access conditions are met.",
+      "status_note": "Conditional selected opportunity retained; no invented awakening merely to meet schedule."
+    },
+    {
+      "episode": 89,
+      "focus": "Fear earns the silence",
+      "description": "Fiddlesticks’ retained confrontation is a real horror movement with consequences; comedy surrounds actual decisions instead of continuously interrupting fear.",
+      "status_note": "Selected opportunity retained; source-valid location/access and placement open."
+    },
+    {
+      "episode": 90,
+      "focus": "Back to the consequences",
+      "description": "Return toward Noxus for a gain the gang actively wants. Earlier crimes, damaged routes, deals and surviving opposition shape the approach.",
+      "status_note": "Existing final-operation direction retained; exact prize and return route proposed."
+    },
+    {
+      "episode": 91,
+      "focus": "The patron and the artist",
+      "description": "Dr. Evil’s developed apparent investment in Brian reaches the selected ultimate reversal of Brian’s specific expectation. Brian’s rejection of Shake gives it continuity.",
+      "status_note": "Ultimate calculated reversal selected; exact promise, betrayal and placement remain unwritten."
+    },
+    {
+      "episode": 92,
+      "focus": "Open the right door",
+      "description": "An earned major Noxian operation reaches the legitimate conditions for Mordekaiser’s retained opportunity, if satisfied. Native factions act for separate reasons.",
+      "status_note": "Hard-gated selection retained; no automatic release, summons or finale attendance."
+    },
+    {
+      "episode": 93,
+      "focus": "The operation, not the attendance list",
+      "description": "The main confrontation resolves through extraordinary competence and consequences of earlier choices. Use only actors with actual stakes and access.",
+      "status_note": "Existing decisive finale direction retained; numbered placement, fight outcome and scale proposed."
+    },
+    {
+      "episode": 94,
+      "focus": "What they keep",
+      "description": "The operation ends with persistent gains, losses and an earned absurd consequence. Jack’s completed RDR2-then-RDR1 progression affects an actual choice by the time the campaign arc concludes.",
+      "status_note": "Working endpoint only; not approved season length. Completion must follow real play/time and can move without compressing it."
+    }
+  ],
+  "latest_handoff_brian_desert_easter": {
+    "change_id": "S7NS_HANDOFF_BRIAN_DESERT_EASTER_20261023",
+    "authority": "continuity/author/S7NS_Chat_Handoff_Brian_Desert_Easter_20261023.md",
+    "review": "continuity/author/S7NS_All_Season_Review_Brian_Departure_R4_20261023.md",
+    "status": "AUTHOR_SELECTED_FUTURE; EGG_IDENTITY_PROPOSED_JESUS_NOT_APPROVED; NO_PLAY",
+    "selected": [
+      "Brian leaves T.P.P after daily trolling, takes Clifford saber, Starkiller declines mentorship, desert collapse, Tuskens find him, wakes mid sleep-thrust before Jabba and Jar Jar and recognizes them",
+      "Later Chris boils and hides Easter eggs for Meatwad; one cracks with holy light four seconds after placement; Chris resents ordinary pleasure becoming absurd"
+    ],
+    "proposed": [
+      "Single saber theft links already-selected Shake murder with departure",
+      "Jesus emerges from egg; revival must respect E51 explicit digestion/death"
+    ],
+    "coverage": "21 full Season2 texts, two drafts; fresh full57–58; all-series audit incomplete; missing S1 and early resetS3 manuscripts, remaining full reads needed",
+    "guard": "Actual58 unchanged;59 unwritten; all prior selections retained; old59–94schedule provisional and needs Brian resequencing",
+    "drive_id": "1Wf9CTjECEQvbfzjpoywWv_ma6liJnDk1"
+  },
+  "proposed_episode_chronology_revision_needed": "R5 proposed movement revision saved; author choices for Easter identity, one-theft linkage, exact placement and travel remain open. No59 manuscript.",
+  "proposed_episode_chronology_status": "HISTORICAL_R3_PLACEMENTS; retained verbatim; use proposed_chronology_R5 and its complete owner for current scheduling recommendations",
+  "proposed_chronology_R5": {
+    "change_id": "S7NS_BRIAN_DEPARTURE_CHRONOLOGY_R5_20261023",
+    "owner": "continuity/author/S7NS_Brian_Departure_Chronology_Review_R5_20261023.md",
+    "status": "PROPOSED_CONNECTIONS_AND_PLACEMENTS_NOT_AUTHOR_APPROVED",
+    "delivered_endpoint": 58,
+    "next_episode": 59,
+    "play_authorized": false,
+    "movements": [
+      {
+        "order": 1,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Next, from 59",
+        "Sins_and_world": "Daniel's sincere farewell; a new chosen criminal objective carries the inland consequences forward.",
+        "TPP_and_Brian": "Begin the changed submarine circumstances without repeating old reveals.",
+        "dependency_and_status": "Farewell is selected future. Particular crime and placement remain proposed."
+      },
+      {
+        "order": 2,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Before Brian leaves",
+        "Sins_and_world": "GGA practice can affect the same theft, intimidation or escape; Dana initiates as well as reacts.",
+        "TPP_and_Brian": "Brian finds the memorized/discarded research. Quiet-payment music scene; Evil begins sustained apparent investment. Shake chooses to return and physically travels.",
+        "dependency_and_status": "Underlying scenes selected; their combination and exact order proposed."
+      },
+      {
+        "order": 3,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Still before departure",
+        "Sins_and_world": "Tai Lung's selected winning-fight/humiliating-presentation scene can intersect a real paid event. Shang/Baldur can begin separately.",
+        "TPP_and_Brian": "Useful TPP crime leads to Dutch's crash. Clifford rescues him; Brian fusses over the LEFT-cheek portrait. Dutch's chart-painting then changes actual work.",
+        "dependency_and_status": "Move the crash ahead of departure. Brian's precise event job is optional; do not retain him for later bookings by inertia."
+      },
+      {
+        "order": 4,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Departure hinge",
+        "Sins_and_world": "Sins continue their own objective; they do not receive secret remote news.",
+        "TPP_and_Brian": "Shake's excellent freestyle, Brian's involuntary applause, genuine collaboration offer, rejected opportunity, jealous rationalization, saber theft, deliberate murder, then departure with the weapon. Jack's comfort remains sincere.",
+        "dependency_and_status": "All listed major events selected. One-theft linkage and immediate exit timing proposed."
+      },
+      {
+        "order": 5,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Separated routes",
+        "Sins_and_world": "Shang/Baldur consequences can advance Kratos/Mimir's existing inquiry through a real report. The selected Brian/Mimir encounter moves to the first credible meeting along Brian's independent route.",
+        "TPP_and_Brian": "Brian locates Starkiller through evidence and asks for mentorship. Refusal. Material travel follows; desert collapse, Tusken discovery, waking mid-thrust before Jabba/Jar Jar.",
+        "dependency_and_status": "Mentorship refusal and desert sequence selected. Location, access, source snapshots and travel construction proposed."
+      },
+      {
+        "order": 6,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Continuing season",
+        "Sins_and_world": "Magneto; Heisenberg/Jesse; Matt/47; vehicle/homeward interests; Riddick/exterior Vecna; Bilgewater/sea; Ionian/Darkin/horror strands retain their source gates and independent motives.",
+        "TPP_and_Brian": "Clifford can act on the missing saber; Dutch's altered behavior changes TPP; Evil's plan adapts only through acquired information. Jack advances through RDR2, then RDR1 over actual time.",
+        "dependency_and_status": "Retained opportunities, not compulsory attendance or automatic outcomes. Existing Shang/Riddick fatal selections remain open in exact execution."
+      },
+      {
+        "order": 7,
+        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
+        "movement": "Later earned intersections",
+        "Sins_and_world": "Noxian consequences and major source-gated developments resolve when actual access supports them. Easter can sit where Chris has a credible opportunity to prepare the hunt.",
+        "TPP_and_Brian": "Evil's sustained calculated reversal eventually targets a specific expectation Brian has genuinely invested in.",
+        "dependency_and_status": "No fixed 94-episode ending. Easter identity unselected. No arbitrary return to submarine or instant campaign completion."
+      }
+    ],
+    "egg_identity": "OPEN; JESUS_RECOMMENDED_NOT_SELECTED",
+    "key_dependency": "Dutch crash and Brian portrait fuss precede Brian departure; proposed one theft joins Shake murder to departure; Evil con retained without fixed91 payoff",
+    "preservation": "Prior selected events, actual manuscripts, character owners, full registers and prior proposed chronology preserved"
+  },
+  "latest_work_development_owner": "continuity/author/S7NS_Brian_Departure_Chronology_Review_R5_20261023.md"
+}

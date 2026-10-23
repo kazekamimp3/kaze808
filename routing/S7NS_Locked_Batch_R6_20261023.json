@@ -1,0 +1,22 @@
+{
+  "change_id": "S7NS_LOCKED_BATCH_R6_20261023",
+  "authority": "continuity/author/S7NS_Locked_Batch_R6_20261023.md",
+  "raw_notes_TTS": "continuity/author/S7NS_Brian_Rap_Raw_TTS_Notes_R6_20261023.md",
+  "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+  "actual_state": "continuity/CURRENT.json",
+  "prior_outline": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_locked_R6_20261023.json",
+  "affected_owner_scopes": {
+    "Daniel": "farewell59/meta after; equipment custody future",
+    "Brian": "rap/source voice/Shake/departure/JarJar/trend",
+    "Starkiller": "preDLC/Xwing audition/autograph/Forcepush/travel",
+    "Clifford": "insideBilly VR, saber stays aboard, later campaigns",
+    "Chris_Billy_Meatwad_Jesus": "Easter resurrection, artifacts, bad-faith denial",
+    "Dr_Evil": "calculated interrupted kindness and later con",
+    "Dutch": "crash before departure, portrait/chart/tower",
+    "Jabba_JarJar_Jawas_Tuskens": "selected versions/motives/travel/languages, deliberate clothing gag divergence",
+    "Frank_Naganeka_Kratos_Baldur": "register status consistency only"
+  },
+  "full_owner_rule": "Keep unchanged original full owners; R6 is scoped override, not replacement for mechanics. Raw originals preserved.",
+  "audit_complete": false,
+  "play_authorized": false
+}

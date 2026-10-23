@@ -1,8 +1,8 @@
 {
   "schema": "s7ns.forward-outline.v2",
-  "change_id": "S7NS_S3_HUMOR_OUTLINE_AFTER_E58_20261023",
+  "change_id": "S7NS_LOCKED_BATCH_R6_20261023",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "status": "AUTHOR_REQUESTED_FORWARD_REVISION; AI_CONSTRUCTION_OPTIONS_NOT_INDIVIDUALLY_APPROVED",
+  "status": "AUTHOR_SELECTED_FUTURE_R6; E58_DELIVERED; E59_UNWRITTEN; NO_PLAY",
   "current_control": {
     "last_delivered_episode": 58,
     "delivery_status": "DELIVERED_PROVISIONAL",
@@ -41,13 +41,14 @@
     "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists.",
     "knowledge_correction_from_delivered51": "Kaze, Chris and Billy heard Wade identify Tai Lung as Daniel's killer in51; Kaze relayed it to Arthur/Daynah. Current location remains unknown. Daniel's returned knowledge not automatically identical. This corrects an initial outline error, not a new revelation."
   },
-  "latest_direct_author_scope": "continuity/author/S7NS_Chronology_Approvals_Review_R3_20261023.md",
-  "reader_outline": "continuity/S7NS_Season3_Revised_Outline_20261023.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_Locked_Batch_R6_20261023.md",
+  "reader_outline": "continuity/author/S7NS_Locked_Batch_R6_20261023.md",
   "archive": {
     "path": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json",
     "sha256": "a25bd4ff7419d3aa57e24b2b777b5703c29c04791d21f85d69ad767ec8c3ca01",
     "original_blob_sha1": "e056347f040cf792b6a7687e785b55a38ce4b9e9",
-    "rule": "Exact previous outline retained as provenance; old cursors/outcomes not current instructions"
+    "rule": "Exact previous outline retained as provenance; old cursors/outcomes not current instructions",
+    "before_locked_R6": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_locked_R6_20261023.json"
   },
   "humor_application": "| Source influence | Use in this season | Avoid |\n|---|---|---|\n| Kaze's original Chris duels, Billy stories and Brian premises | Committed absurdity, disgusting specific reveals, genre betrayal, tiny grievances with enormous consequences; the impossible event leaves real history | Replaying Hawking, Bob, Jesus, conjoining, the mirror or the chair as new first-time reveals |\n| Rick and Morty | Impressive competence weaponized for embarrassing personal reasons; an attempted correction makes the problem change; costly demonstrations of being technically right | Mandatory disaster, generic nihilism, Rick gadgets granted to other people |\n| Trover Saves the Universe | People argue from bizarre but internally understandable priorities; objections and interruptions redirect the situation; hideous surroundings treated casually | Endless improvisation, interchangeable profanity, random nouns posing as jokes |\n| Aqua Teen Hunger Force | Domestic grudges, selfish ownership claims, literal misunderstandings, inventive sabotage, sudden grotesque anticlimax | Harmless household sketches, a perpetually responsible Chris, treating Meatwad as incapable of counterplay |\n| Step Brothers / Prestige Worldwide | TPP treats its self-created prestige as already real; extravagant presentation threatens a viable criminal scheme | Turning every TPP scene into an incompetent pitch meeting |\n| Anchorman | Crew identity, territorial vanity and disproportionate rivalry become physical events; they can fight competently while arguing about ridiculous stakes | A compulsory roll call, copied alley fight or new gang cameo parade |\n| Austin Powers / Dr. Evil | Elaborate villainous self-presentation meets a precise practical objection; petty authority and real menace coexist | Generic sarcastic boss, automatic immediate punchline after every meaningful exchange |\n| Spaceballs | An impressive threat is punctured by an ordinary physical or social fact, fairly staged | Repeating Clifford's surgery/Vader discovery or granting him Force powers |\n| South Park: Coon & Friends and Stick of Truth | Selfish brand politics and enormous sincere investment in shabby symbols; vile actions defended as organizational duty | Reintroducing dead children or treating the influence as imported powers |\n| Surf's Up, The Office US, Trailer Park Boys | Inside Job's observed behavior, defensive interviews, credit disputes, awkward silences, genuine shared enjoyment | Assigning Trailer Park Boys as TPP's primary voice or using interviews to explain every joke |\n| Jackass, selected directly in this conversation | Deliberate group participation, anticipation, physical consequence, camera complicity and victims' retaliation | Repeating the same prank, harmless resets, or treating all accidents as secretly intentional |\n| Chris's Theo Von and Filthy Frank influences | Sincere sideways associations, bodily disgust, grotesque specificity, culinary expertise and intrusive recollection | Theo biography or a copied performer impression; making Chris the patient dad |\n| Daniel's Pete Davidson, Dan Cummins and Jo Koy influences | Self-implication, elaborate absurd reasoning, embodied family observations, jokes in terrible circumstances | Only ice puns, automatic amnesia, or making him the gang's moral supervisor |\n| Billy's Tahm Kench / Primus / Uncle Rico strands | Predatory hospitality, tactile grotesquerie, committed personal history and glory-days interruption | A generic ancient lore terminal or silent transport container |\n| Brian's supplied public-post language | One small task becomes an imaginary broadcast event: ellipses, adjacent puns, old-school music vocabulary, invented audience, self-review | Only short jokes about height, copying private messages, or losing his actual audio competence |\n| Deadpool with the selected Rick rhetorical influence | Wade conspires with listeners, produces revoltingly precise comparisons, argues, self-corrects and exposes his own vanity | Narrating the continuity checklist, omniscient answers, giving every speaker Wade's rhythm |\n\nThese are working mechanisms, not quotas, copied routines or demands for constant comedy. Horror, restraint, genuine affection, ordinary success and a decisive unfunny death can make the surrounding humor more effective.",
   "next_pair": {
@@ -56,7 +57,7 @@
       60
     ],
     "status": "OUTLINED_UNWRITTEN_NOT_PLAY_AUTHORIZED",
-    "construction": "This pair is the next planned story, not a prepared script. The author-approved direction is one substantial criminal operation, real use of existing loot, a TPP side objective, a meaningful consequence of the Sins' notoriety, and progress on one existing thread. Its precise dialogue and ending remain unwritten.\n\n**59 — Farewell, then obtain something they actually want.** Begin at the shelf with the selected Daniel farewell. Wade's original phrasing may explain that real-life Daniel left Daynah's tent, so creator Kaze was trying to remove him again before he walked back in and heard it. Do not turn creator Kaze into an in-world killer or claim the real person cannot hear the episode. Daniel explains his return as one final visit, thanks the whole gang for being his family, hugs everyone, and fades in white light toward the spirit realm to get wasted with Master Oogway. Keep that specific absurd destination and the sincere attachment. No violent second killing, accidental interruption that prevents the departure, joke undoing it, or obligatory spirit-realm cutaway.\n\nStage the hugs with real access: Chris and Billy each get their own moment through an actual exterior switch; Mahnah responds as a dog. Do not silently erase other established family bonds, but do not teleport absent actors into the farewell. His spear, bottle and purse must have explicit custody when he fades; exact handling is a drafting decision, not newly recorded inventory. The supernatural departure is this author-selected exception, not universal immortality, a new portal power or proof the gang can follow. Once enacted, Daniel leaves the ongoing material-world ensemble and his ordinary future duels become displaced, not silently reassigned.\n\nAllow a short honest response before the next practical choice. Inspect/count a relevant chest or two and establish what is usable without a ledger recital. If it contains ordinary spendable silver, let it be ordinary spendable silver: they do not need a money launderer simply to justify a plot. Any sale applies to identifiable goods; a criminal contact can instead provide access, supply, information or a valuable opportunity that respectable trade now refuses them.\n\nTheir reputation brings a mixture of fear, admiration, opportunism and refusal. Pick a concrete desired prize and one main opposition with a reason to deal. The Sins make a plausible approach, gain something, then one of their unnecessary choices changes the situation. Kaze knowingly feeds a preventable escalation; Chris's particular pride or appetite shapes his actions; Arthur can exploit an opening instead of merely objecting. Daynah, Mahnah and Billy get agency where their interests matter, not a compulsory line each. Daniel does not reappear in this operation after his farewell.\n\nRecommended construction: a broker trying to profit from the Sins' notoriety offers access while attempting to control how their reputation is displayed. Chris objects to an insulting valuation or depiction; Kaze turns the objection into a public demonstration because he wants to see what happens. The demonstration has a real, immediate benefit and an unwanted audience with its own plan. Do not let the scene become a hearing about legal ownership. An illustration or price argument is only an ignition point.\n\nEnd 59 with a completed gain or decisive smaller confrontation and a specific problem produced by that gain. Do not stop halfway through an already-won fight to manufacture the episode boundary.\n\n**60 — Keep the gain while somebody else exploits the mess.** Opposition reacts to what actually happened. The main fight changes access and possession: protect or seize the specific prize, reach someone who can still refuse, prevent destruction of something useful, or beat a rival to a meaningful route. Killing a guard is not automatically the solution to the whole objective. The Sins retain full strength and can win spectacularly; no invented equalizer or mandatory punishment.\n\nChoose a few spatial anchors, a changing hazard and linked actions. A clever enemy has a goal beyond surviving until Kaze kills him. Let a secondary opponent exploit the distraction, retreat successfully or destroy its own asset if that choice is credible. A decisive hit stays decisive. The final state includes a real result, a changed relationship or access condition, and a fresh comic payoff produced by the operation.\n\n**TPP through the pair.** Give the four members a specific, smaller criminal undertaking with a benefit they want. Brian's screening success encourages him to claim authority over presentation. He first contributes something real, then attempts to narrate his own greatness while others need him to do the job. Dr. Evil grants apparent responsibility. Dutch wants actual gain and control; Clifford wants to avoid being made a mascot and can take effective action. Their plot reaches a result within the pair rather than advertising a future meeting.\n\nBrian's remaining glued curls affect self-presentation and his decisions. He may hide them, demand removal, punish an observer for noticing, or try to rebrand the appearance; the first discovery already happened. A failed removal attempt must be an actual chosen event, not assumed injury or instant reset. Bad raps remain available, but no automatic rap–rejection loop.\n\nAdvance only one existing evidence thread in this pair if it fits naturally. Prefer a relevant clue or changed access over a new mysterious object. The Orra/hidden-plate route or an actual lead concerning Tai Lung needs its original evidence owner before selection. Do not make the chests secretly contain either answer. Wade knows only what he has actually narrated and cannot solve the mystery from the outline.\n\nLATEST AUTHOR CONFIRMATION: make violence and comic decisions part of the same unfolding problem. Restore Kaze's deliberate enemy-animal killing when actually staged; no automatic animal exemption or mandatory per-episode quota. New horse-withdrawal construction is PROPOSED, not included in the preceding six approvals. Do not rewrite the horses escaping57–58. Detailed character scopes and Kratos/Mimir return routes: continuity/author/S7NS_Pre50_Review_Six_Approvals_Kaze_Animals_20261023.md."
+    "construction": "E59–60 OUTLINED, UNWRITTEN, NO PLAY. Latest R6 selected direction controls; previous exact construction preserved in continuity/archive/SEASON3_ACTIVE_OUTLINE_before_locked_R6_20261023.json#/next_pair.\n\n59: sincere Daniel thanks/family hugs/white light/spirit realm to get wasted with Master Oogway; physical Chris/Billy switch and dog response, explicit spear/bottle/purse custody. AFTER he is gone, Wade exposes real-life Kaze inventing last-minute spirit-realm excuse because killing him twice would be lame. Scoped author-meta permission only. New criminal target chosen from existing inland situation; no return or ordinary Daniel duels.\n\n60: criminal robbery with reciprocal GGA, outsider counterplay/score dispute affects operation, Kaze knowingly enables, Arthur and Dana agency; Chris Moose Knuckle Menace Man on SAME outsider at very end. TPP gains selected payment to stop Brian performing. Target goods lead toward coastal export depot and eventual TPP rendezvous; no cargo contents or money invented as already acquired.\n\nAll full character rules and broader selected arcs in continuity/author/S7NS_Locked_Batch_R6_20261023.md. Original manuscripts unchanged. No duck-pot rerun, automatic righteous victims, mandatory mercy or repeated first reveals."
   },
   "movements": [
     {
@@ -95,17 +96,17 @@
       "construction": "Return to one consequential operation the Sins choose for something they want. Its difficulty grows from actual earlier decisions: reputation, damaged infrastructure, rival success, lost access, informed opposition and changed family relationships. The native factions and TPP need not agree on what should happen.\n\nMordekaiser's selected opportunity requires legitimate access and its full source conditions; it is not a license to place every villain in the finale. Finish the operation decisively with persistent gains and losses. A victorious gang can still be monstrously irresponsible. End on a meaningful choice or earned absurd consequence, not a sequel teaser assembled from every unused name."
     }
   ],
-  "character_application": "- Kaze instigates deliberately, enjoys watching preventable chaos, and can become its embarrassed participant. Do not automatically make him the cleverest speaker or give every bad choice a hidden noble motive.\n- Chris's expertise sometimes solves the real problem while his chosen priority creates a different one. Billy can disagree, act independently and take the floor. Their switches and actual voice routes remain coherent without constant mechanical lectures.\n- Arthur can initiate low-honor crime, devise a dirty solution and deliver a devastating short response. He is not confined to saying no. Preserve current combined-gun architecture and the full-charge/Hypercharge hold.\n- Daynah crafts, jokes, protects, argues and instigates. Mahnah is an independent nonverbal dog with learned relationships, not a random theft dispenser. Active gamma-form third-person speech remains distinct from baseline.\n- Daniel remains genuinely drunk, tactically intelligent and situation-responsive during his farewell. His jokes and thanks belong to the same person. After the selected fade he is absent from ongoing material-world scenes; his history and the gang's attachment remain.\n- Brian needs varied tactics: actual work, borrowed authority, social manipulation, bad writing, strategic silence, denial and occasional effective retaliation. Continued humiliation does not erase adult agency. The supplied public-post habits guide new original journal prose; private real-life messages are not story material by default.\n- Charles's need to direct and own a narrative conflicts with Meatwad's footage, interests and competence. Shake can hijack that conflict for selfish benefit. Chris's camera records only what it actually can. The submarine visit was a selected location exception; no automatic public transmission or global filming access.\n- Wade's fourth-wall exchanges can be sustained and reciprocal when established hearers engage him. He can be uncertain, fooled or embarrassed. His knowledge remains bounded by actual verbal narration; source documents and future plans are not his memory.",
+  "character_application": "- Kaze instigates deliberately, enjoys watching preventable chaos, and can become its embarrassed participant. Do not automatically make him the cleverest speaker or give every bad choice a hidden noble motive.\n- Chris's expertise sometimes solves the real problem while his chosen priority creates a different one. Billy can disagree, act independently and take the floor. Their switches and actual voice routes remain coherent without constant mechanical lectures.\n- Arthur can initiate low-honor crime, devise a dirty solution and deliver a devastating short response. He is not confined to saying no. Preserve current combined-gun architecture and the full-charge/Hypercharge hold.\n- Daynah crafts, jokes, protects, argues and instigates. Mahnah is an independent nonverbal dog with learned relationships, not a random theft dispenser. Active gamma-form third-person speech remains distinct from baseline.\n- Daniel remains genuinely drunk, tactically intelligent and situation-responsive during his farewell. His jokes and thanks belong to the same person. After the selected fade he is absent from ongoing material-world scenes; his history and the gang's attachment remain.\n- Brian needs varied tactics: actual work, borrowed authority, social manipulation, bad writing, strategic silence, denial and occasional effective retaliation. Continued humiliation does not erase adult agency. The supplied public-post habits guide new original journal prose; private real-life messages are not story material by default.\n- Charles's need to direct and own a narrative conflicts with Meatwad's footage, interests and competence. Shake can hijack that conflict for selfish benefit. Chris's camera records only what it actually can. The submarine visit was a selected location exception; no automatic public transmission or global filming access.\n- Wade's fourth-wall exchanges can be sustained and reciprocal when established hearers engage him. He can be uncertain, fooled or embarrassed. His knowledge remains bounded by actual verbal narration; source documents and future plans are not his memory.\nR6: Brian never hears Wade. Daniel59 author roast after farewell only. Chris/Billy Jesus bad-faith denial and Brian/Starkiller/desert chronology use R6 owner. Prior generic examples cannot override selected custody or travel.",
   "optional_scenes": "These examples show the level and variety of invention expected. They are AI-authored options under Kaze's approved direction, not new guaranteed scenes or fresh powers.\n\n1. A prospective victim offers TPP a smaller payment to leave quietly. Dr. Evil takes offense at the low estimate of their menace; Dutch realizes it is their cleanest profit; Brian begins an itemized explanation of why he personally deserves a higher threat valuation. Clifford is already collecting the money.\n2. Brian tries to remove the green curls while rehearsing a dignified statement for the next person who asks. He has to seek practical help from someone whose joke he just rejected. The humiliation is dependence and lost composure, not another surprise about the hair's origin.\n3. Brian deliberately writes a very short rap after being told to stop explaining. Its spoken introduction is longer than the rap. A listener praises the silence after it; Brian tries to credit that as an intentional production decision.\n4. A buyer appreciates Chris's craftsmanship but values the ugly improvised repair more than the original expensive item. Chris starts defending the insulted object so aggressively that Arthur tries to complete the sale before Chris talks them out of their own profit.\n5. During a criminal demonstration, Kaze quietly offers an opponent an effective way to interrupt the presenter because he wants to see the reaction. The opponent uses it immediately, before Kaze has moved out of the way. The damage and social reversal are real.\n6. Dutch begins an eloquent explanation of a new tattoo. An existing face tattoo distorts as he talks, and someone keeps mistaking its expression for Dutch agreeing with them. His attempt to maintain dignity changes the negotiation; a new design still requires an actual session.\n7. Dr. Evil gives Brian a meaningful technical responsibility and genuinely usable equipment. The scene ends after Brian succeeds. Later the doctor invokes that exact success to make a humiliating request seem like proof of trust. This builds the con rather than spending its final payoff.\n8. Clifford volunteers a useful intimidating entrance. Dr. Evil's unsolicited fan coaching makes it worse, but Clifford still succeeds at the actual threat. He then has to hear the doctor claim the coaching was decisive.\n9. Inside Job catches someone being briefly competent and unguarded. Charles cannot tolerate that the best scene happened without his direction, so his attempt to recreate it becomes a separate, visibly false scene. Meatwad prefers the original and can act on that preference.\n10. Billy tells a long ancient story during a fight because he considers the opponent's tactic derivative. The opponent changes tactics to interrupt it. Billy resents losing his ending more than taking the hit, while Chris exploits the new opening. The story never freezes combat.\n11. Daynah demonstrates that a stolen mechanism works while explaining why the gang's proposed use is stupid. Kaze accepts the engineering lesson and enthusiastically adopts the stupid use. Daynah's next choice depends on what he actually wants, rather than automatically becoming the responsible adult.\n12. The Sins win a violent operation while disagreeing about what the valuable prize actually is. The disagreement is established before the fight and changes tactics during it; its resolution costs or rewards them afterward. Do not repeat the duck/cloth punchline with replacement nouns.",
   "selection_dispositions": {
-    "Daniel": "ALIVE_ACTUAL_E58; AUTHOR_SELECTED_FUTURE_FAREWELL_AT_NEXT_AUTHORIZED59. Peaceful thanks/hugs/white light/spirit realm/Oogway; repeat murder rejected. Ordinary later Daniel duels displaced, not reassigned.",
-    "Brian": "ALREADY_KNOWS_PUBIC_HAIR_ORIGIN_IN_R3_E56; preserve glued curls/T.P.P./soreness until actual change. Adult24in, old5ft10 history, journal/public-post voice, audio skill, grudges, body embarrassment and retaliation. Approved named nicknames remain, no new list falsely approved.",
-    "TPP": "CURRENT Doctor/Dutch/Brian/Clifford; independent crimes/agency. Formation, surgery, conjoining resolution, gifts, tattoos, chair, mooning, VR and mirror are completed history. Archived scene pool optional filtered for dead/exited actors; long-con remains future calculated Dr Evil cruelty. Dutch unintentionally enables; Clifford has actual mobility, not Force powers.",
+    "Daniel": "ALIVE_ACTUAL58; AUTHOR_SELECTED59 sincere farewell then Wade author-Kaze exposure AFTER departure. Future ordinary duels displaced.",
+    "Brian": "Adult24in actual58 aboard. R6 future files/Shake envy and deliberate murder/one saber theft/departure/audition/desert/JarJar fandom/poster/trend selected; no Force or fourth-wall hearing. Real57–58 editing win retained.",
+    "TPP": "CURRENT Doctor/Dutch/Brian/Clifford; independent crimes/agency. Formation, surgery, conjoining resolution, gifts, tattoos, chair, mooning, VR and mirror are completed history. Archived scene pool optional filtered for dead/exited actors; long-con remains future calculated Dr Evil cruelty. Dutch unintentionally enables; Clifford has actual mobility, not Force powers. R6 departure changes memberships only when enacted; Dutch crash/LEFT-cheek fuss before Brian exit; Evil interrupted kindness and resumed con no fixed91.",
     "Mahnah": "Theft origin/poker/church completed; future theft and family-concealment consequences only as new chosen events.",
     "BILLY_RICK_ENGINEERED_EVOLUTION": "Retain selected full future design from archive; actual current full-body owner and prerequisite verification mandatory. Explanation/injection same event when staged. No new award from outline; no duplicated completed injection.",
     "Keke": "Dead actual; selected regrowth future with specific event and elapsed development, not Daniel mechanism.",
     "Shang_Tsung_and_Riddick": "Separate compact fatal-arc selections retained, precise acts/timing not occurred or guaranteed by schedule.",
-    "Starkiller": "Inquiry and failed submarine assessment completed; last leaves with chart. Independent transport objective; R2/car/X-wing intersection gated by actual custody and capability.",
+    "Starkiller": "Prior inquiry/failed submarine assessment completed. R6 future Xwing-bait apprenticeship rap/feedback/autograph/info extraction/Force-push selected; preDLC reconstructed version. Northern Shurima travel and actual return to Chris required.",
     "Tai_Lung": "Independent, whereabouts unresolved. Historical Daniel murder retained, no automatic narrator disclosure or new revenge guarantee. Daniel rematch displaced.",
     "regional_encounters": "All individual women-register slots remain independent encounters; romanceOFF, scoped life restorations preserve prior harm and custody. No mandatory tour or romance.",
     "champion_lives": "Draven/Olaf living baseline; later specific female restorations control Vi/Jinx/Caitlyn/Ambessa. No universal revival for Ekko/Warwick/Viktor or other dead. Samira actual later history retained. Full source governs each case.",
@@ -115,7 +116,9 @@
     "Baldur_Kratos_Mimir": "Earlier encounters completed; living histories and selected Mimir callbacks retained; no first-meeting reset.",
     "BELLY": "Charles/Meatwad/Shake inside at58; Frylock alive seekingFrance, departure not death. Camera limits and Chris/Billy actual switches remain.",
     "reserve_cameos": "Woody/Buzz/Courage/JohnnyBravo/Daffy/Skipper/Kowalski/Rico/Private retained as unintroduced optional reserves; not automatic season obligations. Shake/Frylock introduction entries historical.",
-    "disabled_or_retired": "RomanceOFF; Briaroffplot; Teemoerased; ZidnotSin and compulsory betrayal canceled; Frankindependentprotected; Maul/Tracy/Cartman/Jimmy/Timmy dead."
+    "disabled_or_retired": "RomanceOFF; Briaroffplot; Teemoerased; ZidnotSin and compulsory betrayal canceled; Frankindependentprotected; Maul/Tracy/Cartman/Jimmy/Timmy dead.",
+    "Easter": "JESUS_SELECTED_NEW_RESURRECTION; Billy knows/denies, Chris mocks until cross/crown requested then sides with denial; full grievance list; E72 working placement.",
+    "VR": "Original console/game insideBilly; Jack physically visits with headset, leaves saber in submarine berth; later Billy guest/full RDR2 thenRDR1 over time. No console loan or remote gameplay."
   },
   "duel_disposition_register": [
     {
@@ -242,7 +245,7 @@
       "id": "DUEL-21",
       "actor": "Daniel",
       "opponent": "Wukong",
-      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "status": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL",
       "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/15",
       "forward_disposition": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL; not inherited by Kaze; native actors independent"
     },
@@ -250,7 +253,7 @@
       "id": "DUEL-22",
       "actor": "Daniel",
       "opponent": "Gragas",
-      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "status": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL",
       "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/16",
       "forward_disposition": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL; not inherited by Kaze; native actors independent"
     },
@@ -258,7 +261,7 @@
       "id": "DUEL-23",
       "actor": "Daniel",
       "opponent": "Lee Sin",
-      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "status": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL",
       "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/17",
       "forward_disposition": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL; not inherited by Kaze; native actors independent"
     },
@@ -266,7 +269,7 @@
       "id": "DUEL-24",
       "actor": "Daniel",
       "opponent": "Sett",
-      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "status": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL",
       "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/18",
       "forward_disposition": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL; not inherited by Kaze; native actors independent"
     },
@@ -274,7 +277,7 @@
       "id": "DUEL-25",
       "actor": "Daniel",
       "opponent": "Akali",
-      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "status": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL",
       "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/19",
       "forward_disposition": "DISPLACED_BY_AUTHOR_SELECTED_FINAL_FAREWELL; not inherited by Kaze; native actors independent"
     },
@@ -324,7 +327,7 @@
       "opponent": "Lucian",
       "status": "RETIRED_BY_AUTHOR",
       "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/25",
-      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+      "forward_disposition": "RETIRED_BY_AUTHOR; Frank stays departed; no scheduling/reassignment."
     },
     {
       "id": "DUEL-32",
@@ -332,7 +335,7 @@
       "opponent": "Vayne",
       "status": "RETIRED_BY_AUTHOR",
       "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/26",
-      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+      "forward_disposition": "RETIRED_BY_AUTHOR; Frank stays departed; no scheduling/reassignment."
     },
     {
       "id": "DUEL-33",
@@ -340,7 +343,7 @@
       "opponent": "Akshan",
       "status": "RETIRED_BY_AUTHOR",
       "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/27",
-      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+      "forward_disposition": "RETIRED_BY_AUTHOR; Frank stays departed; no scheduling/reassignment."
     },
     {
       "id": "DUEL-34",
@@ -348,7 +351,7 @@
       "opponent": "Kalista",
       "status": "RETIRED_BY_AUTHOR",
       "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/28",
-      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+      "forward_disposition": "RETIRED_BY_AUTHOR; Frank stays departed; no scheduling/reassignment."
     },
     {
       "id": "DUEL-35",
@@ -356,13 +359,13 @@
       "opponent": "Talon",
       "status": "RETIRED_BY_AUTHOR",
       "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/29",
-      "forward_disposition": "RETAIN_SOURCE_GATES; reconcile current scene evidence before scheduling; no guaranteed victory or award"
+      "forward_disposition": "RETIRED_BY_AUTHOR; Frank stays departed; no scheduling/reassignment."
     },
     {
       "id": "DUEL-46",
       "actor": "Kaze",
       "opponent": "Baldur",
-      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "status": "PRIOR_CURRENT_BRANCH_ENCOUNTER_COMPLETED",
       "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/30",
       "forward_disposition": "PRIOR_CURRENT_BRANCH_ENCOUNTER_COMPLETED; any reencounter preserves history, not a compulsory rematch"
     },
@@ -370,7 +373,7 @@
       "id": "DUEL-47",
       "actor": "Kaze",
       "opponent": "Kratos",
-      "status": "PROSPECTIVE_NOT_OCCURRED",
+      "status": "PRIOR_CURRENT_BRANCH_ENCOUNTER_COMPLETED",
       "source_pointer": "topic_sources/Season_3_Duel_Ledger.json#/records/31",
       "forward_disposition": "PRIOR_CURRENT_BRANCH_ENCOUNTER_COMPLETED; any reencounter preserves history, not a compulsory rematch"
     }
@@ -434,10 +437,10 @@
     },
     {
       "identity": "Naganeka of Zuretta",
-      "mode": "BALLISTA_BOUND_NОXIAN_PROCUREMENT",
+      "mode": "DROPPED_BY_AUTHOR",
       "fidelity_boundary": "No arbitrary beast host, automatic summon, duplicated weapon, card-stat artillery output or uninformed cross-continent arrival.",
       "source_pointer": "topic_sources/Season_3_Darkin_Plots.json#/8",
-      "disposition": "RETAIN_SEPARATE_IDENTITY_AND_SOURCE_GATES; history-only remains history; current custody must be reconciled"
+      "disposition": "BALLISTA_AND_ACTIVE_PLOT_DROPPED; historical source only; do not schedule."
     },
     {
       "identity": "Anaakca",
@@ -579,7 +582,8 @@
     "prior_crossover_selections": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/crossover_deployment",
     "prior_champion_register": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/champion_consequence_register",
     "prior_TPP_option_pool": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/author_selected_future_threads/TPP",
-    "prior_reserve_cameos": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/season3_WTF_crossover_additions"
+    "prior_reserve_cameos": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json#/season3_WTF_crossover_additions",
+    "latest_locked_batch": "routing/S7NS_Locked_Batch_R6_20261023.json"
   },
   "source_evidence": [
     {
@@ -1312,8 +1316,8 @@
     }
   },
   "recent_episode_review": "This is editorial judgment about the saved final versions, not a claim that the author accepted every line. Episode51 means Fetch R3; 55–56 means Below the Belt R3, not the superseded Last Take. Carry On is the most recent delivered pair.\n\n| Episodes | Strongest work | Where the writing still needs improvement |\n|---|---|---|\n| 50, All In | Mahnah's gambling is simple learned behavior made absurd by everyone voluntarily treating it as finance. Daynah's irritation is personal. Brian's sleep behavior has different embarrassed reactions. Selling the hinges makes the lost stake matter. | Poker explains more mechanics than the joke needs. The initial investigative return is useful but should stay proportionate to its small informational gain. |\n| 51, Fetch R3 | The fart discovers an entire forgotten conversational possibility. The stolen crucifix causes the story, story causes artifact inspection, inspection destroys Billy's certainty, and Chris still wants his property back. Several characters drive different parts of one sequence. | Some narration labels the joke or explains mechanics after the image already works. Wade's then-authorized revelations must not become the default information service after the later correction. |\n| 52, Eye Contact | The chair gives Brian exactly what he requested while defeating his real goal. His denial becomes Dr. Evil's defense. The journal rewrites humiliation into promotion. Useful advice creates believable leverage for the long con. | Kaze/Starkiller have a real disagreement, but too many questions establish adjacent versions of the same boundary. Keep the recognition and choice; compress circular clarification. |\n| 53–54, Off the Record | The documentary lets selfish personalities expose themselves. Meatwad's quiet interruptions are effective. The lost foreman's help and actual public notices make prior violence matter. Clifford retrieving his helmet preserves dignity and resentment. | The ship discussion keeps renegotiating what cannot be provided, then defers the decision. It becomes static. Repeated legalistic clarification and narrator explanations of honest uncertainty drain energy. A partial lead should force an action sooner. |\n| 55–56, Below the Belt R3 | The pranks connect: interview hunger, forced tattoo, captured sleep mooning, hidden makeup, hydraulic control, bodily launch, mirror and pubic-hair discovery. Clifford's genuine enjoyment makes the VR betrayal sharper; asking whether the fish saved is the secondary payoff. Kaze suffers his own instigation. | Brian carries a very high share of the joke load. More competent independent actions and conflicting wants elsewhere would prevent the season becoming his punishment program. Some deliberate camera/switch explanation can be compressed. |\n| 57–58, Carry On | Brian and Clifford land real retaliation. The yard robbery is openly criminal. Each Sin contributes physically; the bridge changes under the fight. Chris destroys expensive cloth to protect the cheap duck pot, then still collects steel and asks barred victims for onions. | Two successive armed-road confrontations risk a repeated kill-the-defense rhythm. Most opponents are disposable guards. Future violence needs more individual objectives, counterplay and a changed relationship, without artificial parity or compulsory mercy. |\n\nThe improvement is real, but its strongest large comic mechanisms came from Kaze's supplied premises and corrections. AI contribution includes much of the connecting dialogue, staging and prose; that does not transfer authorship of the inventions. The task now is independently originating equally consequential mechanisms, not asking the author to provide every funny event and calling the expansion creativity.\n\nNo system can honestly promise perfect reproduction of a person's creative process. In this project, consistency can improve through actual source use and comparison with these examples. Preserved files support later work; this is not a claim that the model has privately trained itself or permanently absorbed the style. Judge the next unsupplied scene by its invention and effects.\n\nThe original Chris opening demonstrates a wider range than Brian humiliation: ordinary cereal triggers a nearly fatal encounter; Bob's separate consciousness makes a killing emotionally worse; Hawking's apocalyptic boast collapses into a grotesque bodily event; Billy sincerely grieves through a physically repulsive memorial; a mechanical fish becomes an unwanted roommate and cites a receipt. Different kinds of escalation leave permanent people, objects and grievances behind. These completed events are benchmarks, not scenes to replay.",
-  "crossover_motive_intersection_register": "These are proposed forward applications of the supplied snapshots and latest scene evidence. The cause of displacement stays as established or unresolved; a missing origin is not filled with a universal new portal explanation. Current location, travel and knowledge must be checked before a scene. The broad imported-snapshot catalog includes other events and reserve characters; it is not a living Season3 attendance list.\n\n| Character or existing group | Why act in this world? | Concrete next activity and credible collision | Limit / season role |\n|---|---|---|---|\n| Starkiller | Escape coercion and obtain an actual way off-world; he has no functioning route merely because he is powerful. | Stop repeating harbor inquiries. Follow one credible technical lead, acquire a necessary resource or make a consequential bargain. A later meeting over Chris's existing transforming vehicle can give the same object incompatible meanings: escape for Starkiller, prized property for Chris. | Resolve real vehicle capability, fuel, R2 whereabouts and access first. If a real departure becomes possible, allow it; no invented endless failure or automatic theft. |\n| Tai Lung | Recover the recognition he believes his mastery deserves. | Choose a Noxian sponsor or public feat that appears to reward merit. A Draven-linked promotion exploits his image while discounting his authority. TPP seeks a paid presentation job there. Actual publicity can bring his location to the Sins. | A proposed arena strand, not already his career. He is a resourceful dangerous adult, not a cat-meme machine. The gang already knows he killed Daniel. |\n| Shang Tsung | Rebuild leverage, secure material support and investigate unfamiliar soul/magical opportunities after losing access to his original setting. | Demonstrate one genuinely useful bounded service, gain customers, then sell an exploitative extension. Baldur is a possible customer seeking sensation; Heisenberg a later rival over the same buyers, access or patron. | New Era version; no transported Well, universal cure, effortless copied powers or prearranged Black Rose pact. His selected compact fatal arc remains, exact confrontation open. |\n| Baldur | Find relief from the intact enchantment and regain bodily autonomy. | Pursue a specific promising treatment or challenger. A failed Shang demonstration exposes exploitation; his resulting violence targets the failed bargain, not whoever happens to be the protagonist. | He has already met/fought Kaze. No first-meeting replay; no automatic curse solution, sensation from ordinary injury or late-game memories. |\n| Thor | Find his way back to his family and war, while resisting being used again. | Test a patron's concrete evidence before accepting a bounded violent job. A credible research resource can be sought by Starkiller too; compatible need does not guarantee cooperation. Kratos/Mimir can later complicate his understanding of home. | GoW snapshot, not Marvel. Family concern does not make him harmless. No repeatable serpent-displacement trick, invented prolonged employment or automatic rematch. |\n| Kratos and the same Black Mimir | Establish where they are and choose a route toward their own people while deciding whom to help. | Seek a genuine lead, consult a located native knowledgeable person, protect someone during an actual obstruction. Meeting Thor or the serpent has meaning because the imports do not share the same temporal knowledge. A reachable Sins reunion gives the old narrator a physical life. | Post-Valhalla restraint and readiness for decisive violence coexist. Mimir is a vulnerable-positioned independent talking head, not Wade's remote intelligence link. |\n| Older Yormungander | Survive and respond as an intelligent displaced being with his own relationships. | His real body and movement change reachable maritime traffic. A chosen interaction with Mimir or Thor can redirect a voyage or conflict. Billy's hatred can interfere with a practical objective. | Not a monster hired for the finale or a gag-sized pet; no universal English, invented dimensions or compulsory participation in Billy's feud. |\n| Magneto | Assess whether this society offers outsiders a viable life and defend specific people he has chosen to protect. | Continue the actual refugee strand. An offer of protection carries a conscription, labor or possession demand. He rejects the demand in action. That can cross a Noxian policy or Heisenberg supply interest without making him the Sins' ally. | Earth616 selected era; mages are not automatically mutants. Do not reset his30 appearance or transplant every film trait. |\n| Riddick | Secure practical freedom, equipment and a defensible route; avoid another hierarchy that owns him. | A specific extraction or escape from an exploited work site can intersect TPP's paid crime and the Sins' theft. He may use their disturbance and leave them with its consequences. | Quiet observation and sudden lethal action contrast with the group. Not a recurring rescue service or passive target. Selected compact fatal development stays separately gated. |\n| Heisenberg | Preserve an already-successful empire and his indispensability; displacement has given him power he may not want to leave. | Respond to documented counterfeit sales, stolen supplies or lost buyers. A Shang service threatens the same customers, rather than meeting him at a random villain summit. TPP can accept a limited job; the Sins can want goods he already owns. | PURPLE PAIN already exists; no new launch, automatic world monopoly or synthesis instructions. His cure remains real. Notebook constraints do not disappear. |\n| Jesse | Earn independence and protect particular people without surrendering all practical connections to Walter. | Use actual lab/workplace competence to help someone leave an exploitative arrangement or secure paid work. A supply or worker dispute intersects Matt's evidence and Walter's retaliation. | Not a walking conscience, obedient assistant or universal scientist. Actual travel matters; no instant appearance in Noxus. |\n| Agent47 | Maintain professional autonomy through bounded paid work in unfamiliar conditions. | A contract to recover a person, sample or item can conflict with the Sins' possession or TPP's theft. He completes/refuses the actual scope instead of joining every fight. | Existing earned enhancements retained, no automatic Noxian presence or ICA network. Clever disguise relies on access and observers, not a game meter. |\n| Matt Murdock | Protect actual endangered people and find usable truth while navigating a system in which he has no automatic legal office. | Investigate a named survivor or coercive enterprise; help secure a real escape or evidence handoff. This crosses Jesse/Heisenberg/47 through a specific person, not a moral conference. | Respect his existing journey and return-time constraints; old schedule is not proof he arrived. Sensory inference is fallible, not objective mind reading. |\n| Ryuk | Watch what a new human does with the notebook's power; seek interest, not revenge for Light. | Appear only through valid custody/perception/route. A human's elaborate justification or attempt to order him around may amuse him. Selective answers can change a choice. | No faction membership, mystery briefing, automatic name supply or second Wade. Resolve owner-exclusive uncertainties only when needed. |\n| Dr. Evil | Build an organization that gives him material leverage and a stage for his villainous identity. | Pursue a profitable extortion, seizure or contracted intimidation. Real success funds another initiative. His branding and need to control the room create practical exposure. | He is not personally obliged to hate Kaze. Short warm-looking Brian scenes build his calculated long con; not every kindness is immediately reversed. |\n| Dutch | Recover leadership, independence and a loyal circle; his real Bob/Arthur grievance complicates cooperation. | Negotiate a criminal deal he can actually secure, then discover the doctor has altered its presentation or who receives credit. Face tattoos affect impression; they are not his entire personality. | LateChapter3 source plus actual branch history. His restraint unintentionally enables the doctor's fandom; he is not secretly its enthusiastic producer. |\n| Clifford / adult Jack | Retain autonomy and dignity, use his restored mobility and survive people who treat his injuries as entertainment. | Undertake a dangerous task competently, choose a grudging partner, or retaliate with Brian where their interests overlap. Source-game familiarity does not erase resentment of Arthur/Chris. | Adult, independent, not Vader or a Force-user. Gift/helmet/research/VR are history, not fresh reveals. |\n| Brian | Reclaim status, founding credit and the adult life he remembers; turn real audio competence into recognition. | Obtain a consequential sound/editing task in a real criminal undertaking. His success creates leverage; an inflated claim or needless explanation can endanger it. Revenge targets are particular, not everybody equally. | Keep technical competence, genuine occasional wins, terrible journal rhetoric and varied humiliation. Hair discovery completed; no eternal identical rap rejection. |\n| Charles, Meatwad and Shake | Housing, food, ownership and attention create different domestic motives. | They fight over what the camera is for, whose version gets shown and who controls the usable footage. Exterior visits require Billy's actual cooperation. Film can affect an existing deal rather than spawn a global TV industry overnight. | Distinct intelligence/voices; Charles limited literacy, not total inability. Meatwad can refuse. Shake's aborted departure is completed. |\n| Frylock | His chosen independent departure stands. | Remains offstage seeking France until an earned later reason brings news or contact. | No compulsory check-in, death or immediate replacement. |\n| Rick and Morty | Rick's scientific curiosity and control; Morty's separate stakes and willingness to object or choose. | Retain the selected Billy engineering event when access, consent and the current body state support it. A native discovery can interest Rick on its own; Morty needs a concrete interest beyond saying stop. | The broader S7 snapshot is not proof of current presence or a broken portal gun. Do not strand them by arbitrary incompetence. No sexual material involving Morty. |\n| R2-D2 | An independent droid's chosen relationship with Chris and practical problem-solving. | Once real whereabouts are established, his interests may overlap with a ship repair or escape attempt. He can object to a person's use of the vehicle. | Not automatically stored in the vehicle ball, not Chris's owned prop; Starkiller lacks laterDLC memories. |\n| Daniel | One final visit with his family. | Selected59 farewell, sincere hugs and white-light departure toward drinking with Oogway. | Alive at58; farewell future. His ordinary later matchups displaced; no violent re-killing. |\n| Keke | Future selected regrowth, then his own choices. | Reintroduction waits for the actual regrowth event and development. His return changes relationships without requiring full-time ensemble membership. | Original death and burial preserved; no Daniel-based universal resurrection or already-stored core. |\n| Unintroduced comedy reserves | Their own survival, social identity and purpose would precede joining anyone's plot. | Woody/Buzz can have a bounded belonging/transport problem; Courage a specific fearful protective choice; JohnnyBravo unwanted self-presentation; Daffy credit/greed; the four penguins a coordinated practical objective. Introduce only the one small strand with a genuine job in the season. | Available options, not newly approved events or a mandatory parade. Full character owner before drafting. No unexplained all-cast arrival. |\n| Dead/retired/excluded imports | Their history still changes survivors. | Bob through Dutch/Chris; Maul through Keke/Starkiller inquiry; former conjoined body through Brian's distorted résumé. Frank's absence stands. | No roster revision revives Maul, Heimdall, Bob, Hawking, Tracy, Cartman, Jimmy or Timmy; no duplicateBusta. Frank's no-return boundary remains. |\n\nThere need not be one answer to “do they want to go home?” Starkiller and Thor may actively seek a route. Heisenberg has a reason to defend what he built here. Riddick needs freedom more immediately than a philosophical homecoming. Tai Lung may find a new audience attractive. These differences create intersections without a shared-villain club.\n\nVISIBLE ROSTER CORRECTION: Kratos and the SAME Black Mimir must appear in the concise season plan as well as full register. Kratos's26 Baldur investigation and Mimir's33 physical reunion precede future meetings. A reachable report from the approved Shang/Baldur demonstration is a PROPOSED reason to intersect; the Brian/Mimir career comparison is AUTHOR_SELECTED. No remote narrator feed, automatic alliance or immediate travel.",
-  "causal_season_sequence": "Use the seven movements above as geographic possibilities, but build the causal sequence around completed operations and choices:\n\n1. **Farewell and a specific Noxian score.** Daniel's goodbye, then59–60 uses actual money/loot and notoriety to pursue a concrete resource or illicit opportunity. Select the exact prize before drafting. TPP's smaller crime must achieve something. No new crossover just to populate the pair.\n2. **Recognition becomes a commodity.** A proposed TaiLung/Draven strand gives public recognition a price. TPP can be paid to stage promotion; the Sins can gain credible location information. Tai Lung's own choice escalates it. This replaces passive waiting for a revenge summons.\n3. **A useful service becomes predation.** Shang earns access before exploiting it. A Baldur treatment offer creates an independent collision; the mess can leave actual evidence or a commercial contact pointing toward the next operation. Do not make every event one secret master plan.\n4. **The established Zaun economy pushes back.** A real supply/customer/witness dispute activates Walter, Jesse,47 and Matt at locations their actual journeys allow. Magneto's chosen people may independently face a related political cost. The Sins can exploit the dispute and still harm someone they don't care about. Not everybody needs to meet.\n5. **A route off-world becomes a choice about dependence.** Starkiller must act on a credible lead rather than ask another carpenter. Thor's return desire can intersect that resource for a different reason. If Rick or Chris's vehicle is relevant, use its real capacities; do not invent a disability to preserve the subplot.\n6. **Horror and sea routes change priorities.** Riddick, the serpent and the exterior Vecna operation enter through actual access and competing needs. A small creature incident develops into a local dangerous operation, not a franchise montage. Let fear or brutality stand without narrator reassurance.\n7. **An earned major operation closes the season.** Earlier deals, humiliations, surviving adversaries, gained resources and broken access determine who helps, obstructs, profits or refuses. Include only the actors with reasons to be there. Nativechampion/Darkin opportunities remain separate, source-gated and unordered where necessary.\n\nFinish a smaller character arc before opening another demanding one. A successful departure or an enemy choosing elsewhere can be a complete outcome. Their absence then matters instead of requiring another bench of waiting characters.",
+  "crossover_motive_intersection_register": "R6 OVERRIDE: continuity/author/S7NS_Locked_Batch_R6_20261023.md supplies Brian departure/audition and new Jabba/JarJar/Jawa/Tusken versions/access. Selected working chronology controls placement; following motive register retained where compatible.\n\nThese are proposed forward applications of the supplied snapshots and latest scene evidence. The cause of displacement stays as established or unresolved; a missing origin is not filled with a universal new portal explanation. Current location, travel and knowledge must be checked before a scene. The broad imported-snapshot catalog includes other events and reserve characters; it is not a living Season3 attendance list.\n\n| Character or existing group | Why act in this world? | Concrete next activity and credible collision | Limit / season role |\n|---|---|---|---|\n| Starkiller | Escape coercion and obtain an actual way off-world; he has no functioning route merely because he is powerful. | Stop repeating harbor inquiries. Follow one credible technical lead, acquire a necessary resource or make a consequential bargain. A later meeting over Chris's existing transforming vehicle can give the same object incompatible meanings: escape for Starkiller, prized property for Chris. | Resolve real vehicle capability, fuel, R2 whereabouts and access first. If a real departure becomes possible, allow it; no invented endless failure or automatic theft. |\n| Tai Lung | Recover the recognition he believes his mastery deserves. | Choose a Noxian sponsor or public feat that appears to reward merit. A Draven-linked promotion exploits his image while discounting his authority. TPP seeks a paid presentation job there. Actual publicity can bring his location to the Sins. | A proposed arena strand, not already his career. He is a resourceful dangerous adult, not a cat-meme machine. The gang already knows he killed Daniel. |\n| Shang Tsung | Rebuild leverage, secure material support and investigate unfamiliar soul/magical opportunities after losing access to his original setting. | Demonstrate one genuinely useful bounded service, gain customers, then sell an exploitative extension. Baldur is a possible customer seeking sensation; Heisenberg a later rival over the same buyers, access or patron. | New Era version; no transported Well, universal cure, effortless copied powers or prearranged Black Rose pact. His selected compact fatal arc remains, exact confrontation open. |\n| Baldur | Find relief from the intact enchantment and regain bodily autonomy. | Pursue a specific promising treatment or challenger. A failed Shang demonstration exposes exploitation; his resulting violence targets the failed bargain, not whoever happens to be the protagonist. | He has already met/fought Kaze. No first-meeting replay; no automatic curse solution, sensation from ordinary injury or late-game memories. |\n| Thor | Find his way back to his family and war, while resisting being used again. | Test a patron's concrete evidence before accepting a bounded violent job. A credible research resource can be sought by Starkiller too; compatible need does not guarantee cooperation. Kratos/Mimir can later complicate his understanding of home. | GoW snapshot, not Marvel. Family concern does not make him harmless. No repeatable serpent-displacement trick, invented prolonged employment or automatic rematch. |\n| Kratos and the same Black Mimir | Establish where they are and choose a route toward their own people while deciding whom to help. | Seek a genuine lead, consult a located native knowledgeable person, protect someone during an actual obstruction. Meeting Thor or the serpent has meaning because the imports do not share the same temporal knowledge. A reachable Sins reunion gives the old narrator a physical life. | Post-Valhalla restraint and readiness for decisive violence coexist. Mimir is a vulnerable-positioned independent talking head, not Wade's remote intelligence link. |\n| Older Yormungander | Survive and respond as an intelligent displaced being with his own relationships. | His real body and movement change reachable maritime traffic. A chosen interaction with Mimir or Thor can redirect a voyage or conflict. Billy's hatred can interfere with a practical objective. | Not a monster hired for the finale or a gag-sized pet; no universal English, invented dimensions or compulsory participation in Billy's feud. |\n| Magneto | Assess whether this society offers outsiders a viable life and defend specific people he has chosen to protect. | Continue the actual refugee strand. An offer of protection carries a conscription, labor or possession demand. He rejects the demand in action. That can cross a Noxian policy or Heisenberg supply interest without making him the Sins' ally. | Earth616 selected era; mages are not automatically mutants. Do not reset his30 appearance or transplant every film trait. |\n| Riddick | Secure practical freedom, equipment and a defensible route; avoid another hierarchy that owns him. | A specific extraction or escape from an exploited work site can intersect TPP's paid crime and the Sins' theft. He may use their disturbance and leave them with its consequences. | Quiet observation and sudden lethal action contrast with the group. Not a recurring rescue service or passive target. Selected compact fatal development stays separately gated. |\n| Heisenberg | Preserve an already-successful empire and his indispensability; displacement has given him power he may not want to leave. | Respond to documented counterfeit sales, stolen supplies or lost buyers. A Shang service threatens the same customers, rather than meeting him at a random villain summit. TPP can accept a limited job; the Sins can want goods he already owns. | PURPLE PAIN already exists; no new launch, automatic world monopoly or synthesis instructions. His cure remains real. Notebook constraints do not disappear. |\n| Jesse | Earn independence and protect particular people without surrendering all practical connections to Walter. | Use actual lab/workplace competence to help someone leave an exploitative arrangement or secure paid work. A supply or worker dispute intersects Matt's evidence and Walter's retaliation. | Not a walking conscience, obedient assistant or universal scientist. Actual travel matters; no instant appearance in Noxus. |\n| Agent47 | Maintain professional autonomy through bounded paid work in unfamiliar conditions. | A contract to recover a person, sample or item can conflict with the Sins' possession or TPP's theft. He completes/refuses the actual scope instead of joining every fight. | Existing earned enhancements retained, no automatic Noxian presence or ICA network. Clever disguise relies on access and observers, not a game meter. |\n| Matt Murdock | Protect actual endangered people and find usable truth while navigating a system in which he has no automatic legal office. | Investigate a named survivor or coercive enterprise; help secure a real escape or evidence handoff. This crosses Jesse/Heisenberg/47 through a specific person, not a moral conference. | Respect his existing journey and return-time constraints; old schedule is not proof he arrived. Sensory inference is fallible, not objective mind reading. |\n| Ryuk | Watch what a new human does with the notebook's power; seek interest, not revenge for Light. | Appear only through valid custody/perception/route. A human's elaborate justification or attempt to order him around may amuse him. Selective answers can change a choice. | No faction membership, mystery briefing, automatic name supply or second Wade. Resolve owner-exclusive uncertainties only when needed. |\n| Dr. Evil | Build an organization that gives him material leverage and a stage for his villainous identity. | Pursue a profitable extortion, seizure or contracted intimidation. Real success funds another initiative. His branding and need to control the room create practical exposure. | He is not personally obliged to hate Kaze. Short warm-looking Brian scenes build his calculated long con; not every kindness is immediately reversed. |\n| Dutch | Recover leadership, independence and a loyal circle; his real Bob/Arthur grievance complicates cooperation. | Negotiate a criminal deal he can actually secure, then discover the doctor has altered its presentation or who receives credit. Face tattoos affect impression; they are not his entire personality. | LateChapter3 source plus actual branch history. His restraint unintentionally enables the doctor's fandom; he is not secretly its enthusiastic producer. |\n| Clifford / adult Jack | Retain autonomy and dignity, use his restored mobility and survive people who treat his injuries as entertainment. | Undertake a dangerous task competently, choose a grudging partner, or retaliate with Brian where their interests overlap. Source-game familiarity does not erase resentment of Arthur/Chris. | Adult, independent, not Vader or a Force-user. Gift/helmet/research/VR are history, not fresh reveals. |\n| Brian | Reclaim status, founding credit and the adult life he remembers; turn real audio competence into recognition. | Obtain a consequential sound/editing task in a real criminal undertaking. His success creates leverage; an inflated claim or needless explanation can endanger it. Revenge targets are particular, not everybody equally. | Keep technical competence, genuine occasional wins, terrible journal rhetoric and varied humiliation. Hair discovery completed; no eternal identical rap rejection. |\n| Charles, Meatwad and Shake | Housing, food, ownership and attention create different domestic motives. | They fight over what the camera is for, whose version gets shown and who controls the usable footage. Exterior visits require Billy's actual cooperation. Film can affect an existing deal rather than spawn a global TV industry overnight. | Distinct intelligence/voices; Charles limited literacy, not total inability. Meatwad can refuse. Shake's aborted departure is completed. |\n| Frylock | His chosen independent departure stands. | Remains offstage seeking France until an earned later reason brings news or contact. | No compulsory check-in, death or immediate replacement. |\n| Rick and Morty | Rick's scientific curiosity and control; Morty's separate stakes and willingness to object or choose. | Retain the selected Billy engineering event when access, consent and the current body state support it. A native discovery can interest Rick on its own; Morty needs a concrete interest beyond saying stop. | The broader S7 snapshot is not proof of current presence or a broken portal gun. Do not strand them by arbitrary incompetence. No sexual material involving Morty. |\n| R2-D2 | An independent droid's chosen relationship with Chris and practical problem-solving. | Once real whereabouts are established, his interests may overlap with a ship repair or escape attempt. He can object to a person's use of the vehicle. | Not automatically stored in the vehicle ball, not Chris's owned prop; Starkiller lacks laterDLC memories. |\n| Daniel | One final visit with his family. | Selected59 farewell, sincere hugs and white-light departure toward drinking with Oogway. | Alive at58; farewell future. His ordinary later matchups displaced; no violent re-killing. |\n| Keke | Future selected regrowth, then his own choices. | Reintroduction waits for the actual regrowth event and development. His return changes relationships without requiring full-time ensemble membership. | Original death and burial preserved; no Daniel-based universal resurrection or already-stored core. |\n| Unintroduced comedy reserves | Their own survival, social identity and purpose would precede joining anyone's plot. | Woody/Buzz can have a bounded belonging/transport problem; Courage a specific fearful protective choice; JohnnyBravo unwanted self-presentation; Daffy credit/greed; the four penguins a coordinated practical objective. Introduce only the one small strand with a genuine job in the season. | Available options, not newly approved events or a mandatory parade. Full character owner before drafting. No unexplained all-cast arrival. |\n| Dead/retired/excluded imports | Their history still changes survivors. | Bob through Dutch/Chris; Maul through Keke/Starkiller inquiry; former conjoined body through Brian's distorted résumé. Frank's absence stands. | No roster revision revives Maul, Heimdall, Bob, Hawking, Tracy, Cartman, Jimmy or Timmy; no duplicateBusta. Frank's no-return boundary remains. |\n\nThere need not be one answer to “do they want to go home?” Starkiller and Thor may actively seek a route. Heisenberg has a reason to defend what he built here. Riddick needs freedom more immediately than a philosophical homecoming. Tai Lung may find a new audience attractive. These differences create intersections without a shared-villain club.\n\nVISIBLE ROSTER CORRECTION: Kratos and the SAME Black Mimir must appear in the concise season plan as well as full register. Kratos's26 Baldur investigation and Mimir's33 physical reunion precede future meetings. A reachable report from the approved Shang/Baldur demonstration is a PROPOSED reason to intersect; the Brian/Mimir career comparison is AUTHOR_SELECTED. No remote narrator feed, automatic alliance or immediate travel.",
+  "causal_season_sequence": "R6 active episode sequence: selected_chronology_R6. continuity/author/S7NS_Locked_Batch_R6_20261023.md controls farewell/meta, Dutch-before-departure, murder/audition/desert and Easter. Earlier high-level operation rationale retained below only where compatible.\n\nUse the seven movements above as geographic possibilities, but build the causal sequence around completed operations and choices:\n\n1. **Farewell and a specific Noxian score.** Daniel's goodbye, then59–60 uses actual money/loot and notoriety to pursue a concrete resource or illicit opportunity. Select the exact prize before drafting. TPP's smaller crime must achieve something. No new crossover just to populate the pair.\n2. **Recognition becomes a commodity.** A proposed TaiLung/Draven strand gives public recognition a price. TPP can be paid to stage promotion; the Sins can gain credible location information. Tai Lung's own choice escalates it. This replaces passive waiting for a revenge summons.\n3. **A useful service becomes predation.** Shang earns access before exploiting it. A Baldur treatment offer creates an independent collision; the mess can leave actual evidence or a commercial contact pointing toward the next operation. Do not make every event one secret master plan.\n4. **The established Zaun economy pushes back.** A real supply/customer/witness dispute activates Walter, Jesse,47 and Matt at locations their actual journeys allow. Magneto's chosen people may independently face a related political cost. The Sins can exploit the dispute and still harm someone they don't care about. Not everybody needs to meet.\n5. **A route off-world becomes a choice about dependence.** Starkiller must act on a credible lead rather than ask another carpenter. Thor's return desire can intersect that resource for a different reason. If Rick or Chris's vehicle is relevant, use its real capacities; do not invent a disability to preserve the subplot.\n6. **Horror and sea routes change priorities.** Riddick, the serpent and the exterior Vecna operation enter through actual access and competing needs. A small creature incident develops into a local dangerous operation, not a franchise montage. Let fear or brutality stand without narrator reassurance.\n7. **An earned major operation closes the season.** Earlier deals, humiliations, surviving adversaries, gained resources and broken access determine who helps, obstructs, profits or refuses. Include only the actors with reasons to be there. Nativechampion/Darkin opportunities remain separate, source-gated and unordered where necessary.\n\nFinish a smaller character arc before opening another demanding one. A successful departure or an enemy choosing elsewhere can be a complete outcome. Their absence then matters instead of requiring another bench of waiting characters.",
   "latest_new_scene_proposals": "Latest author approval selects CHAT scenes1–6, mapped to the document scenes1,2,3,5,7,6 below. Those six are AUTHOR_SELECTED future constructions, not occurred events or guaranteed59–60 placements. Document4 and8 remain PROPOSED. See continuity/author/S7NS_Pre50_Review_Six_Approvals_Kaze_Animals_20261023.md. They test the author's process through a concrete desire, a specific wrong belief, a changed situation and a further payoff. Sample lines are editable originals.\n\n1. **Tai Lung wins the fight and loses the event.** A Noxian promoter offers the recognition he wants, then introduces him as an exotic novelty. Tai Lung brutally wins and holds the pose for his title. A handler places a promotional ribbon on him. The insult is deliberate exploitation of his marketability, not an inability to recognize a speaking person. TPP has been hired for the presentation; Brian announces a “purrfect performance” into the microphone. Tai Lung turns toward the announcer. Dr. Evil points at Brian immediately: “Independent contractor.” Kaze, arriving for an actual reason, asks the promoter whether the other side of the ribbon says second place. Tai Lung destroys the presentation and changes the crowd's reaction; the championship/job/revenge objectives collide. No guaranteed capture, death or gang win.\n\n2. **Shang's no-sensation demonstration.** His first customer receives a genuine modest benefit. Baldur therefore agrees to a more ambitious paid test. TPP supplies the presentation space for a cut. Baldur remains entirely numb while the treatment apparatus wrecks its surroundings. Dr. Evil tries to classify escalating damage as evidence that it works. Baldur screams in fury. Shang immediately says, “There. A response.” Baldur answers, “I could get fucking angry before I paid you.” The patient's violence is now a material threat to the scam, and Shang must adapt rather than deliver a villain speech. No curse cure or imported machine guaranteed by the outline.\n\n3. **Brian successfully gets the gang paid—and hates why.** Dutch negotiates a quiet exit payment from a prospective victim who genuinely wants to avoid a fight. Brian insists the offer fails to recognize TPP's threat level. The victim raises it only after hearing Brian will otherwise perform his entire promotional set. Dr. Evil accepts. Brian can truthfully say his music made money; everybody agrees for a reason he finds unbearable. Later he presents the payment as his booking rate and voluntarily recreates the problem. A real gain precedes the new mistake; don't immediately remove the money just to deny him a win.\n\n4. **White objects to the wrong part of a fraud.** Shang's independent promotion starts taking actual customers from Walter's local business. The offer promises purity of spirit, not a scientifically supported cure. Walter challenges a claim with real evidence; Shang reframes every correction as confirmation of how much Walter respects the product. A dangerous negotiation becomes a fight over who gets to define the harm they sell. Proposed exchange: “People are getting hurt.” / “I was discussing the labeling.” Their personnel have their own limits; one may leave while the two principals argue. Violence comes from an actual retaliatory order or seizure, not a random explosion. No real production method or automatic partnership.\n\n5. **The silent escape acquires commentary.** Riddick has a real route out of a dangerous work site. The Sins' theft or TPP's crime breaks that route open and starts pursuit. If Billy takes the exterior in the resulting darkness, he mistakes Riddick's refusal to answer his story for attentive listening. Riddick quietly kills a pursuer while Billy is still speaking. “Wasn't listenin', was he?” Billy asks. “Neither am I,” Riddick answers. Billy is offended by the living man's manners, not the body. Their incompatible objectives change the escape; Riddick may take the opening and leave rather than become their guide. Stage actual sound, visibility and positions—no invulnerable stealth or BELLY access assumed.\n\n6. **Brian meets the head with a better job.** During a genuinely motivated reunion with Kratos/Mimir, Brian hears Mimir give useful advice and receive an actual answer. He explains his own former head-at-Daynah's-hip arrangement as executive experience. Mimir asks one practical question about what he did. Brian's answer becomes the résumé. Dr. Evil, listening nearby only if actual travel places him there, begins discussing Mimir's qualifications while Brian is still speaking. Alternate version uses an actually present Sin instead of importing the doctor. The wound is replaceability and recognition, not another anatomical height joke. Mimir can decline the job and still devastate Brian by being wanted.\n\n7. **Starkiller finally encounters the right vehicle and the wrong owner.** Only after an actual causal sighting and capability check, he recognizes a potentially useful spacecraft. Chris treats the inquiry as a conversation about his car and its condition. Starkiller can move metal; that does not give him trust, fuel, a route home or the right to take it. Chris's first objection to a telekinetic inspection is the handprint-equivalent damage or displaced contents. Arthur tries to negotiate a useful exchange; Kaze invites a demonstration because he wants to watch Chris react. The scene must resolve an actual bargain/refusal/theft attempt and change the travel plot, not end with another appointment. Do not preassign victory or break the vehicle for a gag.\n\n8. **A sound professional gets hired, and the artist ruins it.** Brian successfully repairs a real audio problem for a TPP intimidation job. The threatening message works. He then adds an unsolicited verse to the closing silence because he cannot bear leaving his contribution anonymous. The recipient laughs at exactly the wrong moment, believes TPP's threat was a joke, and makes a specific dangerous choice. Clifford has to enforce the original threat while Brian argues that the reaction proves audience engagement. The job can still succeed violently, at a cost created by the embellishment. Film/audio playback uses actually acquired and demonstrated equipment; no automatic broadcast network.\n\nThe final selection should vary targets and mechanisms. Do not run all eight, put every crossover in one episode, or replace precise invention with a longer list of obscenities. Let the genuine fishing pleasure, Brian's useful work, Daniel's goodbye and the Sins' affection remain real alongside their cruelty.",
   "latest_creative_benchmark": "Author-selected E50 onward plus original author writing, especially Chris five-duel sequence. AI must originate mechanisms, not just connective prose. No claim of perfect imitation/permanent training.",
   "review": "Use the existing whole-draft → whole-read → repair → whole-final-reread procedure. Judge whether the least worthwhile scene creates an actual decision, surprise, relationship change or payoff. Remove narrator explanations of compliance and joke meaning. Do not add a new process, joke quota, mandatory cameo or even distribution of abilities.\n\nThe previous outline is preserved exactly in the dated archive. Its older pending labels, initial roster and superseded endings are evidence, not current instructions. The new structured outline carries current state, active movements, source routes and a disposition for every prior top-level section. Original manuscripts and original source owners are not rewritten by this work.\n\nActual delivery of Carry On is reconciled provisionally, separately from author acceptance. All new plans remain future. No episode text, fictional travel, elapsed day, new death, money distribution or acquired power is produced by this revision.",
@@ -1393,345 +1397,216 @@
     "drive_id": "1ON6LCMyGLWyEe9JuGveBQfvbMuXCvvO_"
   },
   "latest_chronology_approval_review": {
-    "change_id": "S7NS_CHRONOLOGY_APPROVALS_REVIEW_R3_20261023",
-    "authority": "continuity/author/S7NS_Chronology_Approvals_Review_R3_20261023.md",
-    "approved_latest_chat_improvements": [
-      {
-        "id": 1,
-        "selection": "Jack's refuge gradually becomes investigation; a later quiet request to be left alone can signal changed investment."
-      },
-      {
-        "id": 2,
-        "selection": "Virtual Arthur and actual Arthur remain emotionally distinct; actual Arthur can mistakenly assume gameplay improved their relationship before learning what Jack discovered."
-      },
-      {
-        "id": 3,
-        "selection": "Brian involuntarily applauds/enjoys Shake's excellent freestyle, then jealousy catches up as Shake continues without the notebook."
-      },
-      {
-        "id": 4,
-        "selection": "Shake offers real collaboration; Brian rejects an actual opportunity because superiority matters more than partnership."
-      },
-      {
-        "id": 5,
-        "selection": "Brian treats discarded game research as a walkthrough for living people; some useful knowledge works, then ego corrupts application."
-      },
-      {
-        "id": 6,
-        "selection": "Dutch's Tahiti/Bob Ross fixation transforms a usable chart into a painting, creates an argument with Clifford and alters an operation."
-      }
-    ],
-    "new_chronology_status": "PROPOSED_WORKING_PLACEMENTS_59_TO_94; NOT_APPROVED_SEASON_LENGTH; SOURCE_GATED_ROWS_MAY_MOVE",
-    "new_brainstorm_status": "FOUR_NEW_EVENTS_PROPOSED_NOT_APPROVED",
-    "analysis_scope": "Prior verified coverage: full22,26,49; nearly all revised36–38 with a displayed late-transition gap; opening/middle/ending or substantial scenes across21,23–25,27–35,41–48;39–40 discovery ending; source-backed original opening-duel and Billy history, not complete current1–18 manuscripts. This turn adds COMPLETE revised45 and COMPLETE47, 3,782 and3,770 whitespace words respectively, no output truncation. Recent50–58 have creation/revision records, author feedback and targeted passage review; this document does not assert a fresh full line-by-line comparative audit of all nine. Earlier searches did not establish the full current1–18 standalone manuscript set. No exhaustive all58-script claim or complete-as-possible claim. Further full-manuscript comparisons remain possible.",
-    "guard": "Actual58 unchanged;59 unwritten;PLAY held;R2 author selections and earlier six crossover approvals retained.",
-    "drive_id": "1wC7Qd429OQiGEqLGyMMJORGBRuvYj0s3"
+    "status": "HISTORICAL_SUPERSEDED_WHERE_CONFLICTING",
+    "preserved_at": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_locked_R6_20261023.json#/latest_chronology_approval_review",
+    "current_authority": "continuity/author/S7NS_Locked_Batch_R6_20261023.md"
   },
-  "proposed_episode_chronology": [
+  "proposed_episode_chronology": {
+    "status": "HISTORICAL_SUPERSEDED_WHERE_CONFLICTING",
+    "preserved_at": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_locked_R6_20261023.json#/proposed_episode_chronology",
+    "current_authority": "continuity/author/S7NS_Locked_Batch_R6_20261023.md"
+  },
+  "latest_handoff_brian_desert_easter": {
+    "status": "HISTORICAL_SUPERSEDED_WHERE_CONFLICTING",
+    "preserved_at": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_locked_R6_20261023.json#/latest_handoff_brian_desert_easter",
+    "current_authority": "continuity/author/S7NS_Locked_Batch_R6_20261023.md"
+  },
+  "proposed_episode_chronology_revision_needed": false,
+  "proposed_episode_chronology_status": "SUPERSEDED_BY_AUTHOR_SELECTED_R6_WORKING_SCHEDULE",
+  "proposed_chronology_R5": {
+    "status": "HISTORICAL_SUPERSEDED_WHERE_CONFLICTING",
+    "preserved_at": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_locked_R6_20261023.json#/proposed_chronology_R5",
+    "current_authority": "continuity/author/S7NS_Locked_Batch_R6_20261023.md"
+  },
+  "latest_work_development_owner": "continuity/author/S7NS_Locked_Batch_R6_20261023.md",
+  "historical_proposal_fields": {
+    "archive": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_locked_R6_20261023.json",
+    "rule": "Old59–94 and R5 proposals preserved there; active schedule is selected_chronology_R6. Do not replay or use superseded labels."
+  },
+  "selected_chronology_R6": [
     {
-      "episode": 59,
-      "focus": "Family, then business",
-      "description": "Daniel’s sincere farewell. The Sins inspect usable loot and choose an arms-auction theft; GGA begins as family downtime. Shake decides to return to the submarine.",
-      "status_note": "Existing farewell selected; arms-auction target and placement proposed."
+      "episode_or_movement": "59",
+      "development": "Daniel farewell and completed sincere goodbye, THEN Wade exposes real author Kaze; choose next criminal objective.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "FIXED_AUTHOR_E59"
     },
     {
-      "episode": 60,
-      "focus": "A successful crime becomes a worse problem",
-      "description": "The theft pays off; GGA meets an outsider and Kaze’s unnecessary cruelty changes the escape. TPP earns the approved payment to leave rather than let Brian perform.",
-      "status_note": "Core operation/violence-comedy direction and Brian quiet-payment scene selected; precise construction proposed."
+      "episode_or_movement": "60",
+      "development": "Robbery/GGA outsider win changes operation; Chris Moose Knuckle Menace Man at end; TPP paid to stop Brian performing.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 61,
-      "focus": "Discarded expertise",
-      "description": "Brian retrieves Dr. Evil’s discarded game research. Shake returns through shown travel; Jack chooses affectionate VR fishing. The Sins obtain a public, credible lead toward Tai Lung’s current activity.",
-      "status_note": "Underlying Brian/Shake/Jack selections approved; placement and lead proposed."
+      "episode_or_movement": "61",
+      "development": "Coastal export depot convergence with actual submarine journey; Shake exits Billy/returns; Brian finds files; Jack requests fishing.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 62,
-      "focus": "The wrong kind of breakthrough",
-      "description": "Shake’s genuinely excellent freestyle wins Brian’s involuntary applause, then destroys his ego. Brian refuses collaboration, invents disrespect, steals the saber during Jack’s refuge and kills Shake alone.",
-      "status_note": "Author-selected events plus newly approved improvements3–4; exact scene construction unwritten."
+      "episode_or_movement": "62",
+      "development": "Useful TPP crime, Dutch launch wreck/head impact, Clifford rescue, Brian LEFT-cheek fuss; research earns real success.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 63,
-      "focus": "Dutch takes the wheel",
-      "description": "TPP secures a real gain; Dutch’s command decision contributes to the launch wreck. Clifford gets them out. Dutch’s contradictory orders start the Tahiti/Bob Ross escalation.",
-      "status_note": "Crash construction selected; placement proposed."
+      "episode_or_movement": "63",
+      "development": "Dutch chart painting and guide conflict; Brian predictions fail; Evil meaningful support; Jack peaceful access established.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 64,
-      "focus": "Winning the fight, losing the event",
-      "description": "Tai Lung receives insulting public promotion despite demonstrating genuine mastery. Brian’s presentation work, the Sins’ actual objective and Tai Lung’s anger collide violently.",
-      "status_note": "Earlier approved Tai Lung presentation scene; placement proposed."
+      "episode_or_movement": "64",
+      "development": "Tai Lung wins, presentation humiliates; Brian participates before departure; consequences affect actual job.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 65,
-      "focus": "A service worth trying",
-      "description": "Shang establishes a real limited benefit before offering Baldur relief. Brian misuses his research on a Dutch now treating a chart like a Tahiti painting.",
-      "status_note": "Shang/Baldur and Dutch map behavior selected; causal connection and placement proposed."
+      "episode_or_movement": "65",
+      "development": "Shake excellent freestyle, applause/jealousy, collaboration rejected, saber theft while Jack insideBilly, deliberate murder, Brian departure.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 66,
-      "focus": "The customer is still numb",
-      "description": "The approved Baldur demonstration becomes destructive; Shang tries to rebrand the failure. A reachable report advances Kratos and Mimir’s existing investigation.",
-      "status_note": "Approved demonstration; report route and placement proposed."
+      "episode_or_movement": "66",
+      "development": "Clifford missing saber, Evil unused kindness; Brian follows evidence/earns passage; Shang/Baldur lead on Sins side.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 67,
-      "focus": "The bargain has teeth",
-      "description": "Shang’s predation reaches a consequential confrontation and his selected compact fatal arc resolves. The Sins pursue an actual gain while affected people choose their own responses.",
-      "status_note": "Prior compact fatal-arc selection retained; means/killer and placement open."
+      "episode_or_movement": "67",
+      "development": "Shown arrival at Shuriman yard; full apprenticeship rap/feedback/signature/Xwing info/extra-force push. Separate Sins gossip “simp lame.”",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 68,
-      "focus": "A better-qualified head",
-      "description": "A motivated Kratos/Mimir reunion makes the approved Brian career comparison possible. Dr. Evil begins sustained apparent mentorship; Jack’s game refuge starts producing questions.",
-      "status_note": "Brian/Mimir scene and Jack investigator direction selected; mentor pacing and placement proposed."
+      "episode_or_movement": "68",
+      "development": "Walk/dehydration/blackout; Jawas and Tuskens find sleep activity, imitation begins; wake MID-THRUST before Jabba/JarJar.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 69,
-      "focus": "Useful people are being priced",
-      "description": "Magneto acts for specific people facing coercive terms. A concrete supply or worker connection points toward Zaun; Noxian policy has a visible local effect.",
-      "status_note": "Existing refugee/motive strands retained; specific causal link and placement proposed."
+      "episode_or_movement": "69",
+      "development": "Small real saber bargain, inflated belonging, JarJar fandom/journal cover, Busta poster breakup.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 70,
-      "focus": "Heisenberg already owns something they want",
-      "description": "The Sins’ chosen target intersects Heisenberg’s existing empire. Jesse makes an independent practical choice; no new business-origin recap.",
-      "status_note": "Existing empire/agency retained; operation and placement proposed."
+      "episode_or_movement": "70",
+      "development": "Imitation spread over actual time, Brian claims fans/disrupts business; Shang treatment offer reaches Baldur.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 71,
-      "focus": "Three different jobs",
-      "description": "Matt’s protection/evidence objective and 47’s bounded contract collide with the Sins’ possession of something valuable. The resulting violence changes custody or access.",
-      "status_note": "Retained independent motives; exact commission/confrontation proposed."
+      "episode_or_movement": "71",
+      "development": "Baldur still numb, demonstration wrecks bargain; actual witness/report toward Kratos/Mimir.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 72,
-      "focus": "The city remembers",
-      "description": "Piltover/Zaun relationships and surviving consequences change a deal the Sins want. TPP’s success gives Brian more confidence in borrowed expertise.",
-      "status_note": "Existing regional register controls who is alive/present; placement and specific encounter proposed."
+      "episode_or_movement": "72",
+      "development": "Chris Easter hunt, four-second holy egg, Jesus resurrection, Billy denial/Chris hoarding reversal/full grievance rant.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 73,
-      "focus": "The right spacecraft, the wrong owner",
-      "description": "Starkiller reaches Chris’s vehicle through a real lead. The approved encounter resolves a bargain, refusal or attempt with a material result.",
-      "status_note": "Earlier approved vehicle scene; capability check and outcome open."
+      "episode_or_movement": "73",
+      "development": "Shang selected compact fatal development, exact killer/mechanism open; Brian earns opportunity onward.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 74,
-      "focus": "Different meanings of home",
-      "description": "Thor pursues the same credible technical resource for his own reasons; Kratos/Mimir complicate that goal. Rick/Morty and Billy’s selected engineering event fit here only if actual access and prerequisites support them.",
-      "status_note": "Retained motives and existing evolution selection; intersection and placement proposed."
+      "episode_or_movement": "74",
+      "development": "Kratos/Mimir report route intersects Brian's actual travel; head-with-better-career scene.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 75,
-      "focus": "An escape with commentary",
-      "description": "Riddick’s freedom objective intersects the gang’s crime. Billy mistakes silence for attention during the approved violent escape sequence.",
-      "status_note": "Earlier approved scene; exact work site/access proposed."
+      "episode_or_movement": "75",
+      "development": "Starkiller shown return/tracing contact reaches Chris vehicle; real bargain/refusal/attempt, outcome not predetermined.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 76,
-      "focus": "Freedom has a price",
-      "description": "Riddick makes consequential independent choices; his separately selected compact fatal development reaches its proper confrontation. Exterior Vecna evidence changes the gang’s next objective.",
-      "status_note": "Fatal development retained; death mechanism, timing and Vecna connection remain construction decisions."
+      "episode_or_movement": "76",
+      "development": "Thor homeward interest where reachable; Jack longer guest/game access; actualArthur not forgiven by virtual affection.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 77,
-      "focus": "A horror problem they cannot talk over",
-      "description": "The exterior Vecna arc receives a substantial operation with real fear, grotesque consequences and decisive violence. Billy’s protected interior is preserved.",
-      "status_note": "Existing exterior arc retained; placement and operation proposed."
+      "episode_or_movement": "77–78",
+      "development": "Magneto concrete protection dispute, supply/trade link toward Zaun; Brian separate actual work/travel.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 78,
-      "focus": "Bilgewater’s useful liars",
-      "description": "A valuable criminal deal brings Arthur into Graves and Twisted Fate’s interests. Maritime pressure supplies a reason for further local involvement.",
-      "status_note": "Retained Arthur encounters; actual deal/travel/placement proposed."
+      "episode_or_movement": "79–80",
+      "development": "Heisenberg empire collision, independentJesse, Matt protection/evidence and47 contract through actual goods/people.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 79,
-      "focus": "Everyone has a different exit",
-      "description": "Arthur’s Graves/Twisted Fate conflict pays off through distinct tactics and double-dealing; the other Sins act on the same operation’s changing needs.",
-      "status_note": "Selected encounter slots retained; outcome and exact battle structure open."
+      "episode_or_movement": "81–82",
+      "development": "Piltover/Zaun consequences and encounters; Rick/Morty/Billy engineering only with full prerequisites and presence.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 80,
-      "focus": "A port worth fighting over",
-      "description": "Miss Fortune and Gangplank’s opposed interests affect the desired prize or route. Arthur’s retained encounters form part of an actual territorial problem.",
-      "status_note": "Source-valid local objectives and living status required; placement proposed."
+      "episode_or_movement": "83–84",
+      "development": "Riddick silent escape/Billy commentary, then selected fatal development with independent consequential choices.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 81,
-      "focus": "The prize changes hands",
-      "description": "The port conflict has a decisive result. Billy’s Nautilus strand enters through a relevant salvage, obstruction or grievance rather than a random challenger.",
-      "status_note": "Retained Billy/Arthur slots; specific incident and placement proposed."
+      "episode_or_movement": "85–86",
+      "development": "Substantial exteriorVecna horror; protectedBELLY remains.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 82,
-      "focus": "A name on somebody else’s list",
-      "description": "Pyke’s independent target brings danger into an already consequential sea operation. The gang’s own reasons to interfere stay distinct.",
-      "status_note": "Retained Pyke encounter; no automatic list membership or guaranteed kill; placement proposed."
+      "episode_or_movement": "87–88",
+      "development": "Arthur Graves/TwistedFate then MissFortune/Gangplank through criminal/territorial stakes.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 83,
-      "focus": "An offer the sea will not honor",
-      "description": "Nami and Illaoi’s distinct goals intersect the gang’s desire; Billy’s retained confrontations are staged without assigning them identical motives or granting automatic powers.",
-      "status_note": "Selected encounter slots retained; one episode may expand if needed; placement provisional."
+      "episode_or_movement": "89–90",
+      "development": "Billy Nautilus/Pyke tied to salvage, territory, debt or actual target.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 84,
-      "focus": "Two hosts, incompatible appetites",
-      "description": "Billy and Tahm Kench’s retained encounter makes hospitality, appetite and bargaining dangerous. Other Sins’ choices matter to the result.",
-      "status_note": "Selected encounter retained; no invented universal contract terms or guaranteed outcome."
+      "episode_or_movement": "91–92",
+      "development": "Distinct Nami/Illaoi goals, Billy/Tahm dangerous hospitality; expand if needed.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 85,
-      "focus": "The serpent has its own plans",
-      "description": "Yormungander’s physical presence and actual relationships change the route. Thor/Mimir’s interests differ from Billy’s hatred; no compulsory monster alliance.",
-      "status_note": "Existing single-serpent strand retained; encounter/placement proposed."
+      "episode_or_movement": "93–94",
+      "development": "Single WorldSerpent changes route/operation; Thor/Mimir interests versus Billy hatred; NOT ending.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 86,
-      "focus": "Someone refuses the performance",
-      "description": "A real Ionian objective produces Kaze’s retained Yone confrontation; local priorities and GGA resist the gang’s usual social control.",
-      "status_note": "Selected opportunity retained; source prerequisites, travel and outcome open."
+      "episode_or_movement": "Following movement",
+      "development": "Ionia Yone/Kayn/Rhaast/Zaahen/Fiddlesticks with access; separate remaining regional Darkin gates.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     },
     {
-      "episode": 87,
-      "focus": "Three wills in one conflict",
-      "description": "Kayn, Rhaast and Kaze want incompatible things. Their selected confrontation develops from a concrete objective, with independent host/weapon agency.",
-      "status_note": "Selected opportunity retained; no automatic transfer, acquisition or victory."
-    },
-    {
-      "episode": 88,
-      "focus": "The sealed opportunity",
-      "description": "Zaahen’s selected encounter receives its own substantial place only after legitimate identity/body/access conditions are met.",
-      "status_note": "Conditional selected opportunity retained; no invented awakening merely to meet schedule."
-    },
-    {
-      "episode": 89,
-      "focus": "Fear earns the silence",
-      "description": "Fiddlesticks’ retained confrontation is a real horror movement with consequences; comedy surrounds actual decisions instead of continuously interrupting fear.",
-      "status_note": "Selected opportunity retained; source-valid location/access and placement open."
-    },
-    {
-      "episode": 90,
-      "focus": "Back to the consequences",
-      "description": "Return toward Noxus for a gain the gang actively wants. Earlier crimes, damaged routes, deals and surviving opposition shape the approach.",
-      "status_note": "Existing final-operation direction retained; exact prize and return route proposed."
-    },
-    {
-      "episode": 91,
-      "focus": "The patron and the artist",
-      "description": "Dr. Evil’s developed apparent investment in Brian reaches the selected ultimate reversal of Brian’s specific expectation. Brian’s rejection of Shake gives it continuity.",
-      "status_note": "Ultimate calculated reversal selected; exact promise, betrayal and placement remain unwritten."
-    },
-    {
-      "episode": 92,
-      "focus": "Open the right door",
-      "description": "An earned major Noxian operation reaches the legitimate conditions for Mordekaiser’s retained opportunity, if satisfied. Native factions act for separate reasons.",
-      "status_note": "Hard-gated selection retained; no automatic release, summons or finale attendance."
-    },
-    {
-      "episode": 93,
-      "focus": "The operation, not the attendance list",
-      "description": "The main confrontation resolves through extraordinary competence and consequences of earlier choices. Use only actors with actual stakes and access.",
-      "status_note": "Existing decisive finale direction retained; numbered placement, fight outcome and scale proposed."
-    },
-    {
-      "episode": 94,
-      "focus": "What they keep",
-      "description": "The operation ends with persistent gains, losses and an earned absurd consequence. Jack’s completed RDR2-then-RDR1 progression affects an actual choice by the time the campaign arc concludes.",
-      "status_note": "Working endpoint only; not approved season length. Completion must follow real play/time and can move without compressing it."
+      "episode_or_movement": "Later Noxian return",
+      "development": "Chosen operation draws on accumulated consequences; Mordekaiser only legitimate access; no fixed finale number.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "SELECTED_WORKING_EXPANDABLE"
     }
   ],
-  "latest_handoff_brian_desert_easter": {
-    "change_id": "S7NS_HANDOFF_BRIAN_DESERT_EASTER_20261023",
-    "authority": "continuity/author/S7NS_Chat_Handoff_Brian_Desert_Easter_20261023.md",
-    "review": "continuity/author/S7NS_All_Season_Review_Brian_Departure_R4_20261023.md",
-    "status": "AUTHOR_SELECTED_FUTURE; EGG_IDENTITY_PROPOSED_JESUS_NOT_APPROVED; NO_PLAY",
-    "selected": [
-      "Brian leaves T.P.P after daily trolling, takes Clifford saber, Starkiller declines mentorship, desert collapse, Tuskens find him, wakes mid sleep-thrust before Jabba and Jar Jar and recognizes them",
-      "Later Chris boils and hides Easter eggs for Meatwad; one cracks with holy light four seconds after placement; Chris resents ordinary pleasure becoming absurd"
-    ],
-    "proposed": [
-      "Single saber theft links already-selected Shake murder with departure",
-      "Jesus emerges from egg; revival must respect E51 explicit digestion/death"
-    ],
-    "coverage": "21 full Season2 texts, two drafts; fresh full57–58; all-series audit incomplete; missing S1 and early resetS3 manuscripts, remaining full reads needed",
-    "guard": "Actual58 unchanged;59 unwritten; all prior selections retained; old59–94schedule provisional and needs Brian resequencing",
-    "drive_id": "1Wf9CTjECEQvbfzjpoywWv_ma6liJnDk1"
-  },
-  "proposed_episode_chronology_revision_needed": "R5 proposed movement revision saved; author choices for Easter identity, one-theft linkage, exact placement and travel remain open. No59 manuscript.",
-  "proposed_episode_chronology_status": "HISTORICAL_R3_PLACEMENTS; retained verbatim; use proposed_chronology_R5 and its complete owner for current scheduling recommendations",
-  "proposed_chronology_R5": {
-    "change_id": "S7NS_BRIAN_DEPARTURE_CHRONOLOGY_R5_20261023",
-    "owner": "continuity/author/S7NS_Brian_Departure_Chronology_Review_R5_20261023.md",
-    "status": "PROPOSED_CONNECTIONS_AND_PLACEMENTS_NOT_AUTHOR_APPROVED",
-    "delivered_endpoint": 58,
-    "next_episode": 59,
-    "play_authorized": false,
-    "movements": [
-      {
-        "order": 1,
-        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
-        "movement": "Next, from 59",
-        "Sins_and_world": "Daniel's sincere farewell; a new chosen criminal objective carries the inland consequences forward.",
-        "TPP_and_Brian": "Begin the changed submarine circumstances without repeating old reveals.",
-        "dependency_and_status": "Farewell is selected future. Particular crime and placement remain proposed."
-      },
-      {
-        "order": 2,
-        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
-        "movement": "Before Brian leaves",
-        "Sins_and_world": "GGA practice can affect the same theft, intimidation or escape; Dana initiates as well as reacts.",
-        "TPP_and_Brian": "Brian finds the memorized/discarded research. Quiet-payment music scene; Evil begins sustained apparent investment. Shake chooses to return and physically travels.",
-        "dependency_and_status": "Underlying scenes selected; their combination and exact order proposed."
-      },
-      {
-        "order": 3,
-        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
-        "movement": "Still before departure",
-        "Sins_and_world": "Tai Lung's selected winning-fight/humiliating-presentation scene can intersect a real paid event. Shang/Baldur can begin separately.",
-        "TPP_and_Brian": "Useful TPP crime leads to Dutch's crash. Clifford rescues him; Brian fusses over the LEFT-cheek portrait. Dutch's chart-painting then changes actual work.",
-        "dependency_and_status": "Move the crash ahead of departure. Brian's precise event job is optional; do not retain him for later bookings by inertia."
-      },
-      {
-        "order": 4,
-        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
-        "movement": "Departure hinge",
-        "Sins_and_world": "Sins continue their own objective; they do not receive secret remote news.",
-        "TPP_and_Brian": "Shake's excellent freestyle, Brian's involuntary applause, genuine collaboration offer, rejected opportunity, jealous rationalization, saber theft, deliberate murder, then departure with the weapon. Jack's comfort remains sincere.",
-        "dependency_and_status": "All listed major events selected. One-theft linkage and immediate exit timing proposed."
-      },
-      {
-        "order": 5,
-        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
-        "movement": "Separated routes",
-        "Sins_and_world": "Shang/Baldur consequences can advance Kratos/Mimir's existing inquiry through a real report. The selected Brian/Mimir encounter moves to the first credible meeting along Brian's independent route.",
-        "TPP_and_Brian": "Brian locates Starkiller through evidence and asks for mentorship. Refusal. Material travel follows; desert collapse, Tusken discovery, waking mid-thrust before Jabba/Jar Jar.",
-        "dependency_and_status": "Mentorship refusal and desert sequence selected. Location, access, source snapshots and travel construction proposed."
-      },
-      {
-        "order": 6,
-        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
-        "movement": "Continuing season",
-        "Sins_and_world": "Magneto; Heisenberg/Jesse; Matt/47; vehicle/homeward interests; Riddick/exterior Vecna; Bilgewater/sea; Ionian/Darkin/horror strands retain their source gates and independent motives.",
-        "TPP_and_Brian": "Clifford can act on the missing saber; Dutch's altered behavior changes TPP; Evil's plan adapts only through acquired information. Jack advances through RDR2, then RDR1 over actual time.",
-        "dependency_and_status": "Retained opportunities, not compulsory attendance or automatic outcomes. Existing Shang/Riddick fatal selections remain open in exact execution."
-      },
-      {
-        "order": 7,
-        "status": "PROPOSED_NOT_AUTHOR_SELECTED_PLACEMENT",
-        "movement": "Later earned intersections",
-        "Sins_and_world": "Noxian consequences and major source-gated developments resolve when actual access supports them. Easter can sit where Chris has a credible opportunity to prepare the hunt.",
-        "TPP_and_Brian": "Evil's sustained calculated reversal eventually targets a specific expectation Brian has genuinely invested in.",
-        "dependency_and_status": "No fixed 94-episode ending. Easter identity unselected. No arbitrary return to submarine or instant campaign completion."
-      }
-    ],
-    "egg_identity": "OPEN; JESUS_RECOMMENDED_NOT_SELECTED",
-    "key_dependency": "Dutch crash and Brian portrait fuss precede Brian departure; proposed one theft joins Shake murder to departure; Evil con retained without fixed91 payoff",
-    "preservation": "Prior selected events, actual manuscripts, character owners, full registers and prior proposed chronology preserved"
-  },
-  "latest_work_development_owner": "continuity/author/S7NS_Brian_Departure_Chronology_Review_R5_20261023.md"
+  "latest_selected_batch_R6": {
+    "owner": "continuity/author/S7NS_Locked_Batch_R6_20261023.md",
+    "raw_notes_and_TTS": "continuity/author/S7NS_Brian_Rap_Raw_TTS_Notes_R6_20261023.md",
+    "approved_by": "Kaze final blanket lock then esketit",
+    "future_only": true,
+    "egg_identity": "JESUS",
+    "Brian_fourth_wall": false,
+    "Daniel_meta": "Wade author roast AFTER farewell; scoped exception only",
+    "not_implemented_story_events": true
+  }
 }
