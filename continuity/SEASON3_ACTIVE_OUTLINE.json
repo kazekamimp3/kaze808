@@ -56,7 +56,7 @@
       59,
       60
     ],
-    "status": "OUTLINED_UNWRITTEN_NOT_PLAY_AUTHORIZED",
+    "status": "E59_STILL_FAMILY_PREPARED_NOT_CHAT_DELIVERED; E60_UNWRITTEN_NOT_AUTHORIZED",
     "construction": "E59–60 OUTLINED, UNWRITTEN, NO PLAY. Latest R6 selected direction controls; previous exact construction preserved in continuity/archive/SEASON3_ACTIVE_OUTLINE_before_locked_R6_20261023.json#/next_pair.\n\n59: sincere Daniel thanks/family hugs/white light/spirit realm to get wasted with Master Oogway; physical Chris/Billy switch and dog response, explicit spear/bottle/purse custody. AFTER he is gone, Wade exposes real-life Kaze inventing last-minute spirit-realm excuse because killing him twice would be lame. Scoped author-meta permission only. New criminal target chosen from existing inland situation; no return or ordinary Daniel duels.\n\n60: criminal robbery with reciprocal GGA, outsider counterplay/score dispute affects operation, Kaze knowingly enables, Arthur and Dana agency; Chris Moose Knuckle Menace Man on SAME outsider at very end. TPP gains selected payment to stop Brian performing. Target goods lead toward coastal export depot and eventual TPP rendezvous; no cargo contents or money invented as already acquired.\n\nAll full character rules and broader selected arcs in continuity/author/S7NS_Locked_Batch_R6_20261023.md. Original manuscripts unchanged. No duck-pot rerun, automatic righteous victims, mandatory mercy or repeated first reveals."
   },
   "movements": [
@@ -1608,5 +1608,15 @@
     "Brian_fourth_wall": false,
     "Daniel_meta": "Wade author roast AFTER farewell; scoped exception only",
     "not_implemented_story_events": true
+  },
+  "prepared_execution_E59": {
+    "change_id": "S7NS_E59_STILL_FAMILY_20261023",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "selected_for_this_response": "Still Family",
+    "manuscript": "continuity/episodes/E59/S3_Episode_59_Still_Family_FINAL_20261023.txt",
+    "checkpoint": "continuity/episodes/E59/S3_Episode_59_Still_Family_Checkpoint_20261023.json",
+    "actual_delivered_episode": 58,
+    "episode60_authorized": false,
+    "note": "Candidate selects Madam Vey's display wagon and quarry-road bend for the next criminal objective; no robbery or proceeds yet. Preserve selected R6 future beats."
   }
 }
