@@ -2,8 +2,8 @@
   "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
-  "current_delivered_episode": 54,
-  "next_episode": 55,
+  "current_delivered_episode": 56,
+  "next_episode": 57,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -592,21 +592,48 @@
       "delivery_reconciliation": "continuity/features/E53_E54/CHAT_DELIVERY_RECONCILIATION_20261022.json",
       "author_acceptance": "NOT_ASSERTED",
       "chat_byte_identity": "NOT_MACHINE_VERIFIED"
+    },
+    {
+      "episode": 55,
+      "title": "Below the Belt",
+      "feature_span": [
+        55,
+        56
+      ],
+      "revision": "R3",
+      "manuscript": "continuity/features/E55_E56/S3_E55_E56_Below_the_Belt_R3_FINAL_20261023.txt",
+      "manuscript_sha256": "2ab33c97c0e80ddb57a80f2d6a82917e41922f557430041cc139402c0ec263ba",
+      "checkpoint": "continuity/features/E55_E56/S3_E55_E56_Below_the_Belt_R3_Checkpoint_20261023.json",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "delivery_reconciliation": "continuity/features/E55_E56/CHAT_DELIVERY_RECONCILIATION_20261023_R3.json",
+      "author_acceptance": "NOT_ASSERTED",
+      "chat_byte_identity": "NOT_MACHINE_VERIFIED"
+    },
+    {
+      "episode": 56,
+      "title": "Below the Belt",
+      "feature_span": [
+        55,
+        56
+      ],
+      "revision": "R3",
+      "manuscript": "continuity/features/E55_E56/S3_E55_E56_Below_the_Belt_R3_FINAL_20261023.txt",
+      "manuscript_sha256": "2ab33c97c0e80ddb57a80f2d6a82917e41922f557430041cc139402c0ec263ba",
+      "checkpoint": "continuity/features/E55_E56/S3_E55_E56_Below_the_Belt_R3_Checkpoint_20261023.json",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "delivery_reconciliation": "continuity/features/E55_E56/CHAT_DELIVERY_RECONCILIATION_20261023_R3.json",
+      "author_acceptance": "NOT_ASSERTED",
+      "chat_byte_identity": "NOT_MACHINE_VERIFIED"
     }
   ],
-  "prepared_episode": 55,
+  "prepared_episode": null,
   "playback_control": {
-    "paused": false,
-    "authorized_episode_span": [
-      53,
-      54
-    ],
-    "last_delivered_episode": 52,
-    "next_episode": 53,
-    "basis": "Latestexpanded53&54together BEFORE any53PLAY. No55.",
-    "same_span_revision": false
+    "last_delivered_episode": 56,
+    "next_episode": 57,
+    "authorized_episode_span": [],
+    "basis": "55–56 completed; latest instruction moves planned Daniel return to 57–58, without playing the pair."
   },
-  "latest_scoped_author": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
+  "latest_scoped_author": "continuity/author/S7NS_E57_E58_Daniel_Return_Author_20261023.md",
   "current_author_configuration": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
   "original_manuscripts_or_checkpoints_rewritten": false,
   "project_ui_installation_performed": false,
@@ -654,20 +681,20 @@
     "original_r8_source_unchanged": true
   },
   "latest_Arthur_weapon_policy_author": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
-  "delivery_status": "DELIVERED_PROVISIONAL_THROUGH_54",
+  "delivery_status": "DELIVERED_PROVISIONAL_THROUGH_56",
   "default_PLAY_episode_count": 2,
   "default_PLAY_format": "TWO_CONSECUTIVE_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_OVERRIDDEN",
   "default_PLAY_format_owner": "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
   "next_prospective_feature": {
     "episode_span": [
-      50
+      57,
+      58
     ],
-    "episode_count": 1,
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
-    "episode51_authorized": false
+    "status": "AUTHOR_SELECTED_NOT_WRITTEN_OR_PLAYED",
+    "latest_author_addendum": "continuity/author/S7NS_E57_E58_Daniel_Return_Author_20261023.md"
   },
-  "next_episode_authorized": 55,
-  "last_reconciliation_id": "continuity/features/E53_E54/CHAT_DELIVERY_RECONCILIATION_20261022.json",
+  "next_episode_authorized": null,
+  "last_reconciliation_id": "continuity/features/E55_E56/CHAT_DELIVERY_RECONCILIATION_20261023_R3.json",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
   "episode_count_unchanged": true,
@@ -981,7 +1008,7 @@
     "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid.",
     "delivery_reconciliation": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
-  "latest_chat_delivered_episode": 54,
+  "latest_chat_delivered_episode": 56,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -1185,7 +1212,7 @@
   },
   "episode52_authorized": true,
   "preparation_rule": "55–56 are not delivered until complete current final exists. Repeated identical PLAY remains one pair.",
-  "last_delivered_episode": 54,
+  "last_delivered_episode": 56,
   "prepared_E51_Fetch_R2_20261022": {
     "change_id": "S7NS_E51_FETCH_JESUS_RECOGNITION_R2_20261022",
     "episode_span": [
@@ -1355,5 +1382,6 @@
     "next_action": "Renderexactfrozen55–56feature; reconciletwounitsonlyaftercompletefinalexists; no57."
   },
   "episode56_authorized": true,
-  "episode57_authorized": false
+  "episode57_authorized": false,
+  "episode58_authorized": false
 }
