@@ -656,10 +656,15 @@
       "chat_byte_identity": "NOT_MACHINE_VERIFIED"
     }
   ],
-  "prepared_episode": null,
+  "prepared_episode": 59,
   "playback_control": {
     "hold": true,
-    "scope": "WORK_ONLY; explicit author request required before PLAY59–60"
+    "scope": "WORK_ONLY; explicit author request required before PLAY59–60",
+    "current_request": "play episode 59.",
+    "authorized_episodes": [
+      59
+    ],
+    "status": "PREPARED_PENDING_ACTUAL_FINAL_RESPONSE"
   },
   "latest_scoped_author": "continuity/author/S7NS_S3_Humor_Outline_After_E58_20261023.md",
   "current_author_configuration": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
@@ -1232,7 +1237,7 @@
     "delivery_reconciliation": "continuity/episodes/E51/R1_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
   "episode52_authorized": true,
-  "preparation_rule": "55–56 are not delivered until complete current final exists. Repeated identical PLAY remains one pair.",
+  "preparation_rule": "Episode59 prepared only; render exact reviewed text, reconcile actual delivery next interaction; no author acceptance inferred.",
   "last_delivered_episode": 58,
   "prepared_E51_Fetch_R2_20261022": {
     "change_id": "S7NS_E51_FETCH_JESUS_RECOGNITION_R2_20261022",
@@ -1405,7 +1410,22 @@
   "episode56_authorized": true,
   "episode57_authorized": false,
   "episode58_authorized": false,
-  "episode59_authorized": false,
+  "episode59_authorized": true,
   "episode60_authorized": false,
-  "historical_preparation_policy": "Dated prepared_* keys record past preparation; current delivered cursor and latest receipt govern."
+  "historical_preparation_policy": "Dated prepared_* keys record past preparation; current delivered cursor and latest receipt govern.",
+  "prepared_E59_Family_Business_20261023": {
+    "episode": 59,
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "manuscript": "continuity/episodes/E59/S3_E59_Family_Business_FINAL_20261023.txt",
+    "checkpoint": "continuity/episodes/E59/S3_E59_Family_Business_Checkpoint_20261023.json",
+    "manuscript_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
+    "checkpoint_sha256": "39a58532eecea4c20df432c12bfdc6f2858a6166bee3722b4969f3515631a52d",
+    "drive_manuscript_id": "1rqxEn8UYi0INi1j-BvfYTr4lOYKT9V2h",
+    "drive_checkpoint_id": "1NTKKqr9haneAVLXKPVkC07F6A0ySBdoQ",
+    "airtable_record_id": "recOldYFvq0l3zmJf",
+    "notion_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "author_acceptance": "NOT_ASSERTED",
+    "word_count": 3833,
+    "scope": "Single59 authorized by current direct PLAY; reconcile completed final next interaction."
+  }
 }
