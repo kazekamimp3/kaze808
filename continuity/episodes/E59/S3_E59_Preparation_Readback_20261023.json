@@ -1,0 +1,25 @@
+{
+  "schema": "S7NS_E59_PREPARATION_READBACK_RECEIPT",
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "episode": 59,
+  "manuscript": "continuity/episodes/E59/S3_E59_Family_Business_FINAL_20261023.txt",
+  "checkpoint": "continuity/episodes/E59/S3_E59_Family_Business_Checkpoint_20261023.json",
+  "manuscript_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
+  "checkpoint_sha256": "39a58532eecea4c20df432c12bfdc6f2858a6166bee3722b4969f3515631a52d",
+  "drive_manuscript_id": "1rqxEn8UYi0INi1j-BvfYTr4lOYKT9V2h",
+  "drive_checkpoint_id": "1NTKKqr9haneAVLXKPVkC07F6A0ySBdoQ",
+  "airtable_record_id": "recOldYFvq0l3zmJf",
+  "notion_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+  "author_acceptance": "NOT_ASSERTED",
+  "word_count": 3833,
+  "scope": "Single59 authorized by current direct PLAY; reconcile completed final next interaction.",
+  "verification": {
+    "github": "Exact UTF-8 manuscript and checkpoint equal final local files",
+    "drive": "Raw base64 downloads decoded and exact bytes equal both local files; SHA256 verified",
+    "airtable": "Read back expected record, status and manuscript SHA256",
+    "notion": "Read back prepended current section with exact manuscript SHA256"
+  },
+  "review": "Complete final manuscript reread before save; no manuscript edits since",
+  "delivery_note": "Actual58 until final chat response exists. At next interaction reconcile actual59; retain prepared checkpoint immutable.",
+  "source_coverage": "Full actual57–58 manuscript and relevant original owners read for episode; current R6 checked across four apps. Not an exhaustive all-season review."
+}
