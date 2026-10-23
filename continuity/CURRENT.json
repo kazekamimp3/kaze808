@@ -4,15 +4,15 @@
   "as_of": "2026-10-23",
   "last_delivered_episode": 59,
   "next_episode": 60,
-  "delivery_status": "DELIVERED_PROVISIONAL",
+  "delivery_status": "DELIVERED_PROVISIONAL_THROUGH_59_FAMILY_BUSINESS; R7_PLANNING_NO_PLAY",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
   "delivery_reconciliation": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
   "manuscript": "continuity/episodes/E59/S3_E59_Family_Business_FINAL_20261023.txt",
-  "manuscript_git_blob_sha1": "35f8f2feee130e705d6f3e961fa8db24d277bc8f",
+  "manuscript_git_blob_sha1": "ec74c187b13bd3103b061f2b6abb1bba58cdd611",
   "manuscript_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
   "checkpoint": "continuity/episodes/E59/S3_E59_Family_Business_Checkpoint_20261023.json",
-  "state_owner": "continuity/features/E57_E58/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+  "state_owner": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
   "state_rule": "Actual58 endpoint remains in delivery receipt. E59 candidate state is in its paired prepared checkpoint; reconcile only after actual final chat exists.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -59,14 +59,16 @@
       ]
     ],
     "play_authorized": false,
-    "basis": "User: generate episode pairs; once fully generated save to draft; user will say when to send. Later extends sequence through69."
+    "basis": "User: generate episode pairs; once fully generated save to draft; user will say when to send. Later extends sequence through69.",
+    "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
+    "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
-  "prepared_episode": 59,
+  "prepared_episode": null,
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
-  "next_outline": "continuity/SEASON3_NEXT.md",
+  "next_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
-  "outline_rule": "Use continuity/SEASON3_ACTIVE_OUTLINE.json selected_chronology_R6 and continuity/author/S7NS_Locked_Batch_R6_20261023.md. Old outlines/proposed schedules historical. No fixed finale94/99.",
-  "latest_direct_author_scope": "continuity/author/S7NS_Locked_Batch_R6_20261023.md",
+  "outline_rule": "Use selected_chronology_R7 and continuity/author/S7NS_Condensed_Weave_R7_20261023.md. R6 substance/lyrics retained; R6 episode numbers historical. No fixed later blocks/finale.",
+  "latest_direct_author_scope": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
   "Chris_full_original_owners": [
@@ -104,9 +106,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "60–63 complete reviewed drafts saved;64–69 generation next; noPLAY",
-  "work_resume_checkpoint_latest": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023_Checkpoint.json",
-  "work_change_id": "S7NS_LOCKED_BATCH_R6_20261023",
+  "work_status": "CONDENSED_R7_OUTLINE_APPLIED; R6_DRAFTS_REVISION_REQUIRED; NO_PLAY",
+  "work_resume_checkpoint_latest": "continuity/work/S7NS_Condensed_Weave_R7_Readback_20261023.json",
+  "work_change_id": "S7NS_CONDENSED_WEAVE_R7_20261023",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": "continuity/work/S7NS_Cumulative_Replacement_Patch_Resume_20261022.json",
@@ -295,7 +297,7 @@
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-  "current_prepared_episode_count": 1,
+  "current_prepared_episode_count": 0,
   "current_prepared_drive_id": "1rqxEn8UYi0INi1j-BvfYTr4lOYKT9V2h",
   "current_prepared_full_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
   "authorial_fidelity_v1_1": {
@@ -555,7 +557,7 @@
     },
     "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "checkpoint_git_blob_sha1": "e57564e10109c2fd332a6bb2d9a98e207358c308",
+  "checkpoint_git_blob_sha1": "e310e073e3013f610489dae6cfcc05b87402851c",
   "prepared_E39_E40_A_Place_To_Wait_R2_20261021": {
     "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
     "episode_span": [
@@ -1388,7 +1390,7 @@
     "detailed_construction": "PROPOSED"
   },
   "work_receipt": "continuity/work/S7NS_Cumulative_Replacement_Patch_Resume_20261022.json",
-  "current_prepared_episode_count_note": "Only Episode59 prepared and authorized; actual cursor58 until chat delivery reconciliation.",
+  "current_prepared_episode_count_note": "No R7-compatible ready-to-deliver manuscript verified; R6 drafts preserved with revision guard.",
   "latest_relationship_TTS_application": {
     "change_id": "S7NS_POST_E50_TTS_FACTION_BEEF_BRIAN_REBALANCE_20261021",
     "owner": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md",
@@ -1793,7 +1795,7 @@
     "meeting_status": "E52_DELIVERED_PROVISIONAL",
     "actual_checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json"
   },
-  "playback_hold": "All generated60–69 drafts held until user requests sending.",
+  "playback_hold": true,
   "latest_Brian_petty_comedy_approval": {
     "change_id": "S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022",
     "owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
@@ -2139,7 +2141,7 @@
     "terrain": "Transfer yard gallery/wagon damaged. Bridge middle destroyed by defensive mage, gatehouse/three-arch aqueduct demolished by Kaze. Water spill alters road; remains impassable to ordinary traffic without repair.",
     "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists."
   },
-  "checkpoint_sha256": "7ff7b9083a322bb40f56206f00ecca4c3abaf38cee9ba70b9d7935afc4cb8f40",
+  "checkpoint_sha256": "39a58532eecea4c20df432c12bfdc6f2858a6166bee3722b4969f3515631a52d",
   "current_actual_after_E58": {
     "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
     "Sins": "Kaze, Chris exterior/Billy inside, Arthur, Daynah baseline, Mahnah baseline, Daniel at dry shelf on inland route late Day22. No capital arrival. Charles/Meatwad/Shake inside Billy; Frylock alive separate with whereabouts unknown. Keke not returned.",
@@ -2164,11 +2166,13 @@
     "knowledge_correction_from_delivered51": "Kaze, Chris and Billy heard Wade identify Tai Lung as Daniel's killer in51; Kaze relayed it to Arthur/Daynah. Current location remains unknown. Daniel's returned knowledge not automatically identical. This corrects an initial outline error, not a new revelation."
   },
   "latest_Daniel_farewell": {
-    "status": "AUTHOR_SELECTED_FUTURE",
+    "status": "DELIVERED_IN_FAMILY_BUSINESS59",
     "placement": 59,
     "authority": "continuity/author/S7NS_Locked_Batch_R6_20261023.md",
     "alive_at_actual58": true,
-    "Wade_meta": "AFTER departure: expose real author Kaze half-assed spirit-realm excuse instead of second killing; no general omniscience."
+    "Wade_meta": "AFTER departure: expose real author Kaze half-assed spirit-realm excuse instead of second killing; no general omniscience.",
+    "delivery_receipt": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
+    "author_pacing_feedback": "Too long; no replay authorized"
   },
   "latest_Brian_green_hair": {
     "status": "DISCOVERED_IN_DELIVERED_R3_E56",
@@ -2242,7 +2246,7 @@
     "drive_id": "1wC7Qd429OQiGEqLGyMMJORGBRuvYj0s3"
   },
   "latest_all_season_review": "continuity/author/S7NS_All_Season_Review_Brian_Departure_R4_20261023.md",
-  "latest_handoff_drive_id": "1NODXX3V-erpFzaO3fRT9YskRAkC3RYj9",
+  "latest_handoff_drive_id": "11RTvAf4w7mSkWVlp1f6AWV4NQx4M1qoF",
   "latest_development_R5": {
     "owner": "continuity/author/S7NS_Brian_Departure_Chronology_Review_R5_20261023.md",
     "status": "HISTORICAL_PROPOSAL_SUPERSEDED_WHERE_CONFLICTING_BY_R6",
@@ -2272,13 +2276,14 @@
     "egg_identity": "JESUS",
     "Daniel_farewell_episode": 59,
     "next_action": "Separate future WORK/PLAY authorization; all-season audit remains open.",
-    "drive_owner_id": "1NODXX3V-erpFzaO3fRT9YskRAkC3RYj9"
+    "drive_owner_id": "1NODXX3V-erpFzaO3fRT9YskRAkC3RYj9",
+    "placement_status": "SUPERSEDED_BY_R7_SUBSTANCE_RETAINED"
   },
   "episode59_authorized": true,
   "episode60_authorized": true,
   "prepared_E59_Family_Business_20261023": {
     "episode": 59,
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "status": "DELIVERED_PROVISIONAL",
     "manuscript": "continuity/episodes/E59/S3_E59_Family_Business_FINAL_20261023.txt",
     "checkpoint": "continuity/episodes/E59/S3_E59_Family_Business_Checkpoint_20261023.json",
     "manuscript_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
@@ -2289,7 +2294,8 @@
     "notion_index_page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
     "author_acceptance": "NOT_ASSERTED",
     "word_count": 3833,
-    "scope": "Single59 authorized by current direct PLAY; reconcile completed final next interaction."
+    "scope": "Single59 authorized by current direct PLAY; reconcile completed final next interaction.",
+    "delivery_reconciliation": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json"
   },
   "current_playback_request": null,
   "prepared_E59_Still_Family_20261023": {
@@ -2300,7 +2306,7 @@
     ],
     "episode_count": 1,
     "title": "Still Family",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+    "status": "PRESERVED_ALTERNATE_PREPARATION_NOT_CONTINUATION_ANCHOR",
     "manuscript": "continuity/episodes/E59/S3_Episode_59_Still_Family_FINAL_20261023.txt",
     "manuscript_sha256": "7928514cad8c8b209b81a66e47f4701cb03abd950d9f26099a80cd66ad1b56e6",
     "manuscript_git_blob_sha1": "b86a39c75a74b7d1b2433ce2e78960ec753fb694",
@@ -2335,7 +2341,7 @@
         61
       ],
       "title": "Customer Service",
-      "status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED",
+      "status": "PRESERVED_R6_DRAFT_R7_REVISION_REQUIRED_BEFORE_DELIVERY",
       "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023.txt",
       "manuscript_sha256": "530dd2c24a7da5f26566f049ddabcdc0ef50674897f75a68cfdef357d5a79d04",
       "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023_Checkpoint.json",
@@ -2346,7 +2352,9 @@
         "recATksnDNbPYkMZz"
       ],
       "author_acceptance": "NOT_ASSERTED",
-      "played": false
+      "played": false,
+      "pre_R7_status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED",
+      "revision_owner": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md"
     },
     {
       "episode_span": [
@@ -2354,7 +2362,7 @@
         63
       ],
       "title": "A Better Picture",
-      "status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED",
+      "status": "PRESERVED_R6_DRAFT_R7_REVISION_REQUIRED_BEFORE_DELIVERY",
       "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023.txt",
       "manuscript_sha256": "364b836e2e3773acd41c369db7c9dcdd6684a62945ea25c2a2e85bc4c2ed5fa7",
       "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023_Checkpoint.json",
@@ -2365,7 +2373,9 @@
         "recAByyTrxrLjeGyU"
       ],
       "author_acceptance": "NOT_ASSERTED",
-      "played": false
+      "played": false,
+      "pre_R7_status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED",
+      "revision_owner": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md"
     }
   ],
   "pending_draft_pairs": [
@@ -2417,5 +2427,140 @@
     "target": "temporary coastward pooled freight convoy; notice lists spirits/perfume/silk/coin; guard count and actual dawn contents not yet known"
   },
   "prepared_E59_Family_Business_current_status": "DELIVERED_PROVISIONAL — actual chat version; immutable preparation checkpoint preserved",
-  "alternate_E59_preparation_note": "Still Family preserved as alternate prepared artifact; Family Business delivered/reposted in this conversation is continuation anchor."
+  "alternate_E59_preparation_note": "Still Family preserved as alternate prepared artifact; Family Business delivered/reposted in this conversation is continuation anchor.",
+  "current_control_repair_R7": {
+    "prior": {
+      "last_delivered_episode": 58,
+      "next_episode": 59,
+      "delivery_status": "DELIVERED_PROVISIONAL_THROUGH_58; E59_STILL_FAMILY_PREPARED_REVIEWED_SAVED_NOT_CHAT_PLAYED",
+      "selected_prepared_response": "S7NS_E59_STILL_FAMILY_20261023",
+      "manuscript": "continuity/features/E57_E58/S3_E57_E58_Carry_On_FINAL_20261023.txt",
+      "checkpoint": "continuity/features/E57_E58/S3_E57_E58_Carry_On_Checkpoint_20261023.json",
+      "delivery_reconciliation": "continuity/features/E57_E58/CHAT_DELIVERY_RECONCILIATION_20261023.json"
+    },
+    "evidence": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
+    "basis": "Existing delivery receipt, newer production index, R6draftanchors and direct author report agree; restoring pointers, not newPLAY.",
+    "author_feedback": "Farewell too long; onion/dinner detour disliked; compress future outline without losing substance."
+  },
+  "undelivered_draft_compatibility_R7": [
+    {
+      "episode_span": [
+        60,
+        61
+      ],
+      "title": "Customer Service",
+      "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023.txt",
+      "sha256": "530dd2c24a7da5f26566f049ddabcdc0ef50674897f75a68cfdef357d5a79d04",
+      "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023_Checkpoint.json",
+      "status": "PRESERVED_R6_DRAFT_R7_REVISION_REQUIRED_BEFORE_DELIVERY",
+      "reason": "Old crash62/chart63; Shake alive and saber retained through63; incompatible with selected murder62 and rap/Easter63. No manuscript rewrite in this update."
+    },
+    {
+      "episode_span": [
+        62,
+        63
+      ],
+      "title": "A Better Picture",
+      "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023.txt",
+      "sha256": "364b836e2e3773acd41c369db7c9dcdd6684a62945ea25c2a2e85bc4c2ed5fa7",
+      "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023_Checkpoint.json",
+      "status": "PRESERVED_R6_DRAFT_R7_REVISION_REQUIRED_BEFORE_DELIVERY",
+      "reason": "Old crash62/chart63; Shake alive and saber retained through63; incompatible with selected murder62 and rap/Easter63. No manuscript rewrite in this update."
+    }
+  ],
+  "latest_condensed_weave_R7": {
+    "change_id": "S7NS_CONDENSED_WEAVE_R7_20261023",
+    "owner": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
+    "authorization": "Then do it, after condensed interweaving TLDR",
+    "rap_episode": 63,
+    "easter_episode": 63,
+    "desert_JarJar_poster_episode": 64,
+    "all_R6_substance_retained": true,
+    "episode61_repair": "Operation setup in60; fight/presentation/escape/crash one sequence61; chart consequences62",
+    "drafts_to_revise": [
+      {
+        "episode_span": [
+          60,
+          61
+        ],
+        "title": "Customer Service",
+        "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023.txt",
+        "sha256": "530dd2c24a7da5f26566f049ddabcdc0ef50674897f75a68cfdef357d5a79d04",
+        "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_DRAFT_20261023_Checkpoint.json",
+        "status": "PRESERVED_R6_DRAFT_R7_REVISION_REQUIRED_BEFORE_DELIVERY",
+        "reason": "Old crash62/chart63; Shake alive and saber retained through63; incompatible with selected murder62 and rap/Easter63. No manuscript rewrite in this update."
+      },
+      {
+        "episode_span": [
+          62,
+          63
+        ],
+        "title": "A Better Picture",
+        "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023.txt",
+        "sha256": "364b836e2e3773acd41c369db7c9dcdd6684a62945ea25c2a2e85bc4c2ed5fa7",
+        "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023_Checkpoint.json",
+        "status": "PRESERVED_R6_DRAFT_R7_REVISION_REQUIRED_BEFORE_DELIVERY",
+        "reason": "Old crash62/chart63; Shake alive and saber retained through63; incompatible with selected murder62 and rap/Easter63. No manuscript rewrite in this update."
+      }
+    ],
+    "status": "APPLIED_OUTLINE_NO_PLAY",
+    "drive_owner_id": "11RTvAf4w7mSkWVlp1f6AWV4NQx4M1qoF"
+  },
+  "pre_R7_play_request_history": {
+    "continuation_authorization": {
+      "status": "SINGLE_E59_PLAY_AUTHORIZED_PREPARED_PENDING_RESPONSE",
+      "authorized_episode_span": [
+        59
+      ],
+      "episode59_authorized": true,
+      "episode60_authorized": false,
+      "basis": "Latest direct request: play episode 59. This supersedes earlier holds for E59 only."
+    },
+    "current_playback_request": "play episode 59."
+  },
+  "pre_R7_concurrent_work_preserved": {
+    "commit": "6cbffc78cd90d33999774f588bb776f21f545e1f",
+    "work_status": "60–63 complete reviewed drafts saved;64–69 generation next; noPLAY",
+    "resume": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_DRAFT_20261023_Checkpoint.json",
+    "continuation_authorization": {
+      "status": "DRAFT_GENERATION_AUTHORIZED_PLAY_HELD",
+      "authorized_episode_span": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "requested_pairs": [
+        [
+          60,
+          61
+        ],
+        [
+          62,
+          63
+        ],
+        [
+          64,
+          65
+        ],
+        [
+          66,
+          67
+        ],
+        [
+          68,
+          69
+        ]
+      ],
+      "play_authorized": false,
+      "basis": "User: generate episode pairs; once fully generated save to draft; user will say when to send. Later extends sequence through69."
+    }
+  },
+  "next_draft_work_order_R7": "Revise existing60–61 and62–63 for R7 before continuing64–69; preserve original drafts. This turn updates outline/indexes only."
 }
