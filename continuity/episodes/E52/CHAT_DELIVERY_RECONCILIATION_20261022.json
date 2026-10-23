@@ -1,0 +1,18 @@
+{
+  "schema": "S7NS_CHAT_DELIVERY_RECONCILIATION_V1",
+  "episode": 52,
+  "title": "Eye Contact",
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "continuity/episodes/E52/S3_E52_Eye_Contact_FINAL_20261022.txt",
+  "sha256": "211bb6fe49b63ee9a16467c1f4e244ca481d58671e1a86d53f740ff951d82f78",
+  "checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json",
+  "basis": "The complete preceding assistant final is visible, from the Eye Contact title through Brian preparing a cleaner copy to show somebody else. Local frozen manuscript, fresh GitHub file and Drive raw text agree exactly. Latest user explicitly requests53. No exported-chat machine byte comparison claimed.",
+  "chat_byte_identity": "NOT_MACHINE_VERIFIED",
+  "original_pair_preserved": true,
+  "next_authorization": {
+    "direct": "play episode 53.",
+    "episode53_only": true,
+    "episode54": false
+  }
+}
