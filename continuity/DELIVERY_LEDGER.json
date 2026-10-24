@@ -2019,7 +2019,7 @@
     "delivery_reconciliation": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json"
   },
   "next_after_prepared_feature": 66,
-  "work_status": "Same-span64–65 editorial review complete; revision pending, NO PLAY",
+  "work_status": "E63-first creative brief and test lyrics saved; original delivered65 preserved, replacement pending, NO PLAY",
   "current_actual_after_E65": {
     "candidate_only": false,
     "elapsed": "Brian collapse/recovery day64, then three mornings through65. Coastal events distinct strand, no exact synchronized day-number invention.",
@@ -2071,6 +2071,60 @@
     "source": "Kaze raw writing strongest reference; failures attributed to AI execution"
   },
   "active_revision_request": {
+    "episode_span": [
+      63
+    ],
+    "dependent_departure_episode": 62,
+    "original": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+    "brief": "continuity/editorial/E63_First_Revision_Comedy_Action_And_Rap_Ideas_20261023.md",
+    "status": "AUTHOR_SELECTED_E63_FIRST; CREATIVE_BRIEF_AND_TEST_LYRICS_SAVED; REPLACEMENT_NOT_WRITTEN",
+    "change_id": "S7NS_E63_FIRST_AUTHOR_VOICE_ACTION_R10_20261023",
+    "play_authorized": false,
+    "author_scope": "Brian departure/audition revision first; original rap exact; restore action/source comedy; new Chris/title/lyric details proposed",
+    "deferred_revision": {
+      "episode_span": [
+        64,
+        65
+      ],
+      "original": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+      "review": "continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md",
+      "status": "SOURCE_COMPARISON_AND_FOUR_CHARACTER_RESEARCH_COMPLETE_REPLACEMENT_NOT_WRITTEN",
+      "play_authorized": false,
+      "author_scope": "R9 applies to revised64–65; nextnew66 separate",
+      "research": "research/StarWars_E64_E65_Speech_Behavior_Fidelity_20261023.md",
+      "review_change_id": "S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023",
+      "research_status": "FOCUSED_PRIMARY_TEXT_SPEECH_AND_BEHAVIOR_PASS_COMPLETE; REPLACEMENT_APPLICATION_PENDING",
+      "source_review_service_readback": {
+        "change_id": "S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023",
+        "github": {
+          "status": "READBACK_EXACT",
+          "research_blob_sha1": "76482f885810f8029ca921d11599c6191e769eee",
+          "review_blob_sha1": "78100319a0faf268be0293fd7a2d233cdc9b4d85",
+          "author_blob_sha1": "eb4e9a0a2320cc504fac462b4ec1e21f8fb870e1"
+        },
+        "airtable": {
+          "status": "READBACK_EXACT_AFFECTED_SCOPE",
+          "base_id": "appKCCr9zg0rsfbOI",
+          "table_id": "tbl5dFC7den6PyDSw",
+          "record_id": "reccW8tbgjVA9SBfb"
+        },
+        "notion": {
+          "status": "READBACK_CONTENT_VERIFIED_MARKDOWN_ESCAPES_NORMALIZED",
+          "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a"
+        },
+        "drive": {
+          "status": "READBACK_EXACT_TEXT",
+          "file_id": "1NFGd9tfbl7TTGHGvbl5e3qGTnp9P1Bk7"
+        },
+        "original_manuscript_sha256": "8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20",
+        "story_time_advanced": 0,
+        "replacement_written": false,
+        "play_authorized": false
+      }
+    },
+    "downstream_reconciliation": "Check actual63 Jesus/custody/funds and64–65 dependencies only when replacement exists; original history unchanged by brainstorm"
+  },
+  "prior_active_revision_before_R10": {
     "episode_span": [
       64,
       65
