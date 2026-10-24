@@ -87,3 +87,23 @@ AUTHOR_SELECTED: In THIS PROJECT, reply with Kaze's directness, creative aggress
 
 Full development: continuity/editorial/E63_First_Revision_Comedy_Action_And_Rap_Ideas_20261023.md.
 PROPOSED AI MATERIAL: FORCE-FED title for original rap; MEESA, MYSELF & I new252-word test; Brian-focused63 reconstruction with repeated Jesus debate removed; a later Chris routine-maintenance/Starkiller vehicle confrontation using the already selected return lead. New words, detailed staging, exact cargo replacements and battle outcomes have NOT been author-accepted or played. Vehicle recall, earned abilities, source speech, body/access and actual travel remain; no arbitrary disabling to sustain action. The new Chris premise is not inserted as filler during the full63 performance.
+
+## R11 — seven-point confirmation, actual Force lesson, revised Chris/Billy conflict
+
+Change ID: S7NS_REVISION_CONFIRMATION_FORCE_LOYALTY_R11_20261023.
+Kaze: “all numbers on revised episode list is confirmed, the following numbers mentioned are just things i want to add on to it.”
+
+AUTHOR_SELECTED: All seven numbered proposals in the immediately preceding full reply are approved for development: FORCE-FED title, Brian-focused63 revision, meaningful action/TPP-payoff theft, Chris maintenance encounter, MEESA MYSELF & I draft (author will make lyric edits), continuity recommendations and project-wide communication/creative fidelity. Former R10 PROPOSED labels are historical on those selections; previously open outcomes stay open. Approval is not delivery or acceptance of unwritten prose.
+
+AUTHOR_SELECTED addition2: Brian intensely doubts Starkiller's training commitment. Starkiller reluctantly provides a genuine small Force lesson. Brian finally makes initial progress; Starkiller is uneasily surprised by latent unusual potential. This overrides flat refusal/no-training construction. Exact exceptional ability OPEN. No automatic powers from saber theft or killing Shake.
+
+AUTHOR_SELECTED addition3: Scrap Jesus/Easter-hunt material in the replacement; use another random stupid scenario. Preserve original manuscript and earlier Jesus history; reconcile affected downstream facts only with actual replacement.
+
+AUTHOR_SELECTED addition4: Chris knows Starkiller is beyond his combat level even with serum and can negotiate. No automatic fight. Explore a mutually worthwhile deal. If real conflict/fighting develops, Billy comes exterior with real inversion/access. Billy watching a stronger opponent bully/pick on Chris through the monitor triggers fierce protective loyalty despite their mutual nagging. He takes the danger seriously; no automatic attack over ordinary disagreement or guaranteed victory. Existing source abilities remain.
+
+AUTHOR_SELECTED addition5: New Jar Jar rap liked as written and retained pending Kaze's own adjustments. Addition7: implement project reply/brainstorm/fiction fidelity now, preserving individual voices. Existing S7NS voice-and-creative-fidelity skill read and applied this turn; no global settings/retraining/Project UI installation claim.
+
+FULL research/development: continuity/editorial/S7NS_R11_Force_Training_Billy_Loyalty_20261023.md.
+PROPOSED NEW: psychometry (innate object-echo sensing) with an initial auditory emphasis Brian calls Force sampling; basic training reveals rather than creates this rare gift. A Sins group portrait replaces Easter, with Chris/Billy's one-exterior constraint and grotesque timed-switch image. Exact fair transport terms and lesson/object details remain proposals. Lore versus creative additions and primary links are in the brief.
+
+Revision63 first (necessary62 repair),64–65 queued; actual65/nextNEW66 preserved. Replacement not written, NO PLAY, zero fictional time.
