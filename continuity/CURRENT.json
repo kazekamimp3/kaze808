@@ -3052,5 +3052,30 @@
     "drive": "READBACK_EXACT_HANDOFF",
     "play_authorized": false,
     "story_time_advanced": 0
+  },
+  "latest_StarWars_roster_R16": {
+    "authority": "continuity/author/S7NS_Hondo_Removal_Hunter_Direction_R16_20261023.md",
+    "Hondo_Ohnaka": "REMOVED_FROM_SELECTED_FUTURE_CAST",
+    "retained": [
+      "Cad Bane",
+      "Count Dooku",
+      "Boba Fett",
+      "Yoda"
+    ],
+    "recommended_not_added": [
+      "Bossk",
+      "Embo",
+      "Aurra Sing",
+      "IG-88"
+    ],
+    "play_authorized": false
+  },
+  "latest_work_readback_R16": {
+    "github": "AUTHOR_NOTE_OUTLINE_READBACK_EXACT",
+    "airtable": "READBACK_EXACT",
+    "notion": "CONTENT_VERIFIED",
+    "drive": "READBACK_EXACT_HANDOFF",
+    "play_authorized": false,
+    "story_time_advanced": 0
   }
 }
