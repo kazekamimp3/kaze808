@@ -1,0 +1,76 @@
+{
+  "change_id": "S7NS_E64_A_LITTLE_FEELING_R21_PLAY_20261024",
+  "status": "PREPARED_REVIEWED_PAIRED_SAVE_VERIFIED",
+  "authorization": "Kaze explicit play ep64; only revised64",
+  "delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED; reconcile actual complete final on next interaction",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "continuity/episodes/E64/S3_E64_A_Little_Feeling_R21_20261024.txt",
+  "checkpoint": "continuity/episodes/E64/S3_E64_A_Little_Feeling_R21_20261024_Checkpoint.json",
+  "manuscript_sha256": "a4da9c7f1858cda7cf0e1bf42bbe255d313d3ca6343733a34676edb9fbb195a6",
+  "content_commit": "e618810bf93af603edffa562956382dcd922fc92",
+  "prior_revised63_delivery": "DELIVERED_PROVISIONAL; not author accepted; scoped skills/funds/Jesus reconciliation applied with original snapshots preserved",
+  "actual_latest_chronological_episode": 65,
+  "next_new_episode": 66,
+  "destinations": {
+    "GitHub": {
+      "status": "FIVE_FILES_EXACT_READBACK",
+      "files": [
+        {
+          "path": "continuity/episodes/E64/S3_E64_A_Little_Feeling_R21_20261024.txt",
+          "sha": "bff2bf663acbf86c538f6b50f9ea1ccbaa99d2e8",
+          "exact": true
+        },
+        {
+          "path": "continuity/episodes/E64/S3_E64_A_Little_Feeling_R21_20261024_Checkpoint.json",
+          "sha": "9257debd2362f795975ffa3b2740a383451f5d01",
+          "exact": true
+        },
+        {
+          "path": "continuity/episodes/E63/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
+          "sha": "2533f3fcbe361322faf2c6faf9911bf55e373883",
+          "exact": true
+        },
+        {
+          "path": "continuity/CURRENT.json",
+          "sha": "8bd643300ac769f676f7e21bac27d1b586700e2f",
+          "exact": true
+        },
+        {
+          "path": "continuity/DELIVERY_LEDGER.json",
+          "sha": "01720475486a8f6ec243ecb4f9c72495a7cb0577",
+          "exact": true
+        }
+      ]
+    },
+    "Airtable": {
+      "status": "BOTH_AFFECTED_ROWS_READBACK_EXACT",
+      "records": [
+        "recAByyTrxrLjeGyU",
+        "recr1Yea4CZmh1Tbu"
+      ]
+    },
+    "Notion": {
+      "status": "CONTENT_READBACK_VERIFIED",
+      "page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a"
+    },
+    "Drive": {
+      "status": "MANUSCRIPT_TEXT_AND_CHECKPOINT_BYTES_EXACT_READBACK",
+      "manuscript": "1c5SRqai3YQlyowU2QDYcA7Q1sYxe5Bwa",
+      "checkpoint": "13fDWkUqEgH5vXMVWnXdhQUWkX-h-2dOr"
+    },
+    "Library": {
+      "status": "SAVED_XATTRS_APPLIED",
+      "library_file_id": "libfile_a465447a6c8081919a0c7c9ba950b82c",
+      "file_name": "S3_E64_A_Little_Feeling_R21_20261024_Paired.zip"
+    }
+  },
+  "originals_preserved": true,
+  "revised65_written": false,
+  "new66_written": false,
+  "audio_generated": false,
+  "spoken_words": 3738,
+  "estimated_minutes_at150wpm": 24.92,
+  "story_time_advanced_by_preparation": 0,
+  "legacy_repo_CI": "Previously documented347 mapping failures not repaired or retested for episode save; no all-repo CI pass claimed",
+  "next_step": "Render exact saved64 manuscript unchanged; no automatic65/66. Next interaction reconcile actual64 delivery."
+}
