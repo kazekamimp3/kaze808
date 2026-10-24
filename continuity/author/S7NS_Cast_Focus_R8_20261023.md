@@ -107,3 +107,81 @@ FULL research/development: continuity/editorial/S7NS_R11_Force_Training_Billy_Lo
 PROPOSED NEW: psychometry (innate object-echo sensing) with an initial auditory emphasis Brian calls Force sampling; basic training reveals rather than creates this rare gift. A Sins group portrait replaces Easter, with Chris/Billy's one-exterior constraint and grotesque timed-switch image. Exact fair transport terms and lesson/object details remain proposals. Lore versus creative additions and primary links are in the brief.
 
 Revision63 first (necessary62 repair),64–65 queued; actual65/nextNEW66 preserved. Replacement not written, NO PLAY, zero fictional time.
+
+## R12 — concise psychometry lesson, new author rap and reunion bargain
+
+Change ID: S7NS_BRIAN_FORCE_RAP_REUNION_R12_20261023.
+Latest Kaze: “brians training should not be dragged out, highlight the important parts, no extra bullshit” and “lets go with your strongest recommendations for brian’s training”.
+AUTHOR_SELECTED FOR REVISION: latent psychometry with initial sound/emotion echo emphasis (Brian's Force-sampling interpretation). Keep essential adjustment, small real success, surprising echo and Starkiller uneasy verification/reaction compact. No training arc, repetition, errand or powers acquired from murder/saber. This is selected revision development, not already-enacted Force acquisition in unchanged original63–65.
+
+AUTHOR_SELECTED FUTURE: Brian withholds an actionable Baldur destination/meeting/departure lead from Kratos and Mimir for one COMPLETE performance, specific honest constructive feedback from EACH and BOTH autographs on the actual lyrics. Jar Jar also present with independent personality/knowledge/reactions. Kratos/Mimir already know Brian; retrieve past before assigning specific memories. No first-meeting reset, compulsory praise, supernatural hostage control, invented emergency or sale of mistletoe knowledge Kratos already possesses. Exact acquisition/destination/outcomes OPEN; Brian currently has no on-page lead and no report has reached Kratos/Mimir.
+
+Latest full development: continuity/editorial/S7NS_R12_Brian_Kratos_Mimir_Reunion_Development_20261023.md.
+PROPOSED ONLY: brief Baldur/art encounter during earned travel; his specific next-morning landing/departure learned directly; Jar Jar knows enough to corroborate sighting but not the private onward arrangement (must remain honest and free to reveal known information); feedback/performance/signature staging; optional ending mechanism. No complete second Baldur concert, new named intermediary or curse-breaking music. Prior quoted Chris/Starkiller fair-deal/Billy-loyalty interpretation retained without fixed battle outcome.
+
+NEW KAZE RAW RAP: continuity/author/S7NS_Brian_Meesa_Thyself_And_Boy_RAW_R12_20261023.txt, title exactly “meesa, thyself & boy.” Preserve all wording and unfinished “scientific fact that um..” ending; no restored Baghdad. Earlier edition and its TTS adaptation preserved; this edition has no completed/approved TTS adaptation. Boto=bow-toe/penis; boo-too deliberate; batu=meth; tools=meth pipes; B.Moo/tay-boo recurring rhyme; taste samp-poo=taste sample, NOT a separate fecal meaning. Head/hip/shoulder/Head&Shoulders chain and feet/defeats/feat/two intentional. Latest Eminem question resolves after shampoo, then attacks listener's music appreciation. Exact lyric two foot two does not silently set measured height. Shake line may elicit questions but reactions/outcomes remain OPEN. Personal ambiguities not assigned invented meanings. Original author text below is preserved as this change's immutable handoff snapshot; the dedicated raw owner controls later author edits.
+
+SHARED HISTORY: Full original Kratos section records earlier squad/campaign tenure and unfriendly Brian relationship. Same former narrator Mimir physically on Kratos's hip retains personal memory, not omniscience.26 exact inquiry passage confirms Baldur search; its first-meeting Kaze/Kratos wording conflicts with older retained history/latest author correction and is flagged, not silently rewritten. No invented Season1 verbatim callback or assumed knowledge of all Brian transformations/murder.
+
+WORK ONLY, no episode draft/PLAY. Actual65/nextNEW66 preserved; revision63 first/needed62,64–65 queued. Current selected training/encounter directions override older refusal/proposed labels only in their actual scope.
+
+### Raw author lyric snapshot R12
+```text
+meesa, thyself & boy.
+
+starkiller said, “i loved the wordplay.”
+now im rapping to the god of war, damn kratos, no homo but you looking kinda sexy, more like god of porn
+ive said before that i only fuck with smarty smarts with all head, shoutout mimir, not tryna be weird but i need a fleshlight, can i use your head?
+wait! i meant flashlight, or did i?
+yeah kratos got the hip, mimir got the hop
+b.moo knows that struggle too,
+living head-less on a hip, had no body only head, get it? bitches never gave me head
+kaze killed me, cause he was hacking
+next thing i know im getting shitted out by stephen hawking
+came back right hand man, on right shoulder, bitches still never gave me head
+head is always right on shoulders,
+bust a nut to busta bust
+said no homo though! yeah no diddy
+it ain’t gay to touch your homies,
+just chalk it up to group activity
+
+i believe finding a rhyme for my next phase will never hit as hard versus interlude, but i sucked tracy morgan up for a new body
+standing tall and proud at two foot two
+look at my feet bitch! i got two
+how many defeats? survived bout two!
+master shake wanna feat? cut him in two.. and now? bitches still never give me fucken head!
+
+han solo, flaccid boto—that’s a double, nailed him twice, wait!
+i meant to say nailed it twice
+or did i?
+i dont know cause i’m riding boto solo, hand alone mode like a zombie
+go go gadget, pull and tug combo Konami code
+oh shit, wait, she just text me
+um- fuck.. unrelated bar but every time ladies leave me im like “NO! NOO!! NOOOO!!”
+
+im masturbating, right?
+like master baiting my b.moo boo-too into thinking that my hand is a ladies mouth
+like her body is calling for me via bluetooth
+knees weak, sweaty PALMS
+shout out eminem but you know whose cooler than eminem?
+
+i spray gravy out my penis when i bust one!
+then i nod out and bust tools that Christopher blew
+air thrust sober in his subaru
+only bust nuts on batu, chris looked at me like “what the fuck brian! im playing RDR two!”
+
+had a dream like martin lu, not one, but two!
+of busta bussing on my turn tay-boo’s
+hundred percent comfirmed busta’s goo
+slurped a taste sample
+nah.. taste samp-poo
+then i fan made me
+busta rhymes head and shoulders shampoo.. boom! thats whos cooler than eminem, if you dont get it then you dont appreciate actual music
+
+meesa knows how to serve that body properly-
+moomau ain’t into raping, only rapping
+but i can kinda see why some would call me a predator, cause even chris hansen can feel a sexual disturbance in my force
+
+quick serious interlude ladies and gentlemen, thats just a rap bar, i am not forcing my genitals onto women’s orifices,
+i believe in respecting and worshipping women, chilvary is not dead, because of the scientific fact that um..
+```
