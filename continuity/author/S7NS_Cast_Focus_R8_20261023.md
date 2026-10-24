@@ -279,3 +279,13 @@ Change ID: S7NS_STAGED_CRITIQUE_BRAINSTORM_R18_20261023.
 Kaze asks what staged work needs addressing and what brainstorming can improve it.
 Full critique: continuity/editorial/S7NS_Staged_Critique_Brainstorm_R18_20261023.md.
 New AI proposals include Starkiller consciously reassessing then declining Brian's ongoing demands; stolen-saber crime echo with unresolved verification; short Trakata establishment; distinct art reactions and meaningful JarJar agency; ability-aware heist; paid CadBane recovery of Clifford's saber/Brian alive for Evil's unfinished reversal; Billy checking Chris's need for intervention; keeping photo optional rather than filling vacated63 space. All remain PROPOSED. They do not alter Kaze's approvals, raw lyrics, future outcomes, existing source powers or closed cast selection. Actual65/next66 and63-first revision remain. NO PLAY or episode draft.
+
+## R19 — new-cast fidelity research and author-selected work priority
+Change ID: S7NS_STAR_WARS_FIDELITY_PRIORITY_R19_20261023.
+Kaze requests fidelity research now for Yoda/BobaFett/CadBane/CountDooku; Hondo remains removed and cast additions remain closed.
+Latest author priority, AUTHOR_SELECTED: “finish the compact causal structure of 63; develop the TPP job and theft into an actual action sequence; then connect Brian’s consequences to a purposeful hunter encounter. Preserve the full performances while cutting the material that merely delays them.”
+This selects the order/purpose; it does not approve all ten R18 options, a particular bounty contract, job, theft outcome or hunter encounter result.
+
+Research report: research/StarWars_New_Roster_Fidelity_R19_20261023.md. Focused official primary-text speech, psychology, relationships, combat/gear and version-boundary research completed. Official clip landing pages are routes only; no full audiovisual study or TTS testing claimed.
+Recovered older Yoda pin in attached reference/imported_snapshot_fidelity.md C3F: Revenge of the Sith immediately before Sidious Senate confrontation. Recent R14–R17 exact-version OPEN status remains; preserve the inherited evidence and reconcile before choosing an earlier Yoda. No silently installed replacement snapshot or composite. Proposed OT Boba/CloneWars Bane/living Sith Dooku pins remain proposed.
+Research applications remain PROPOSED, not authored dialogue or new Kaze-voice references. Existing raw lyrics, original manuscripts, actual65 DELIVERED_PROVISIONAL/nextNEW66, revision63/needed62 then queued64–65 and NO DRAFT/NO PLAY remain. Story time advanced0.
