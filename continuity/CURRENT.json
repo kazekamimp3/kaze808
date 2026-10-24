@@ -2729,5 +2729,11 @@
     "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
     "status": "AUTHOR_SELECTED_WORK_ONLY",
     "future_drafts": "64–69 pending; apply R8 before use"
+  },
+  "latest_comic_intensity_R8": {
+    "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+    "author_direction": "Max out my humor; cut your filler; added material must reflect my energy.",
+    "application": "Harder character-specific absurdity and escalation; no generic banter, profanity-only substitution, errands or explanatory filler. Preserve full authored setups/payoffs and contrast.",
+    "playback_hold": true
   }
 }
