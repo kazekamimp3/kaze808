@@ -1,0 +1,48 @@
+{
+  "change_id": "S7NS_E64_R21_CHAT_DELIVERY_RECONCILIATION_20261024",
+  "episode": 64,
+  "title": "A Little Feeling",
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "continuity/episodes/E64/S3_E64_A_Little_Feeling_R21_20261024.txt",
+  "manuscript_sha256": "a4da9c7f1858cda7cf0e1bf42bbe255d313d3ca6343733a34676edb9fbb195a6",
+  "frozen_preparation_checkpoint": "continuity/episodes/E64/S3_E64_A_Little_Feeling_R21_20261024_Checkpoint.json",
+  "evidence": "Complete preceding assistant final visible from Episode64 title through The fire bent in the wind, and the last corner burned. Current user requests play ep65. Frozen local manuscript matches fresh Drive text exactly. Chat visibility is not a machine-exported byte comparison or author acceptance.",
+  "actual_latest_chronological_episode_preserved": 65,
+  "next_new_episode": 66,
+  "reconciled_end_state": {
+    "candidate_only": false,
+    "episode": 64,
+    "location": "Northern Shurima water stop, same recovery night; Brian by poster fire, Jar Jar and Jabba remain at stop",
+    "Brian": "Conscious, recovering; sore wrist/shoulder inherited63 and sore but moving fingers from cart wheel; no fracture depicted or instant cure",
+    "Jar_Jar": "Scraped palms and shoulder impact from stopping cart; independently negotiating supplies and northbound route",
+    "custody": {
+      "saber": "Single Clifford saber retained Brian; two controlled iron cuts, no transfer or combat upgrade",
+      "journal": "Starkiller signature and Shake note retained; original Jar Jar insult and attempted replacement crossed out physically; raw source lyrics unchanged",
+      "poster": "Kissed, dropped into fire, completely burned; no replacement",
+      "Brian_coins": "Three silver paid by Jabba, retained; no assertion of earlier total",
+      "supplies": "Food/water/lodging bargained by Brian; Jar Jar has conditional work-for-supplies agreement, no departure completed"
+    },
+    "knowledge": {
+      "Jabba": "Useful old coastal Dr Evil/submarine/depot lead; heard opening of actual rap; no Shake murder knowledge or compulsory future contract",
+      "Jar_Jar": "Brian claims old northern route and unusual prior head history in rap; sees authentic compliment, not covered insult; no murder knowledge",
+      "Brian": "Recognizes Jabba/Jar Jar, not fluent Huttese/Jawa/Tusken; accepts Jar Jar route invitation",
+      "Wade": "Only legitimately narrated/observed information; Brian cannot hear him"
+    },
+    "physical_consequences": [
+      "Iron strap cut and cart fitting repaired",
+      "Gate stone corner chipped",
+      "Cart/load saved without destroyed water jars",
+      "Jar Jar palms sore, Brian fingers sore"
+    ],
+    "skills_inherited": {
+      "psychometry": "First involuntary object sound/emotion echo, locally seeded handle event; limited repeat emotional impression, not reliable playback, mind reading, combat download or telekinesis mastery",
+      "Trakata": "One controlled static-target success after correction; novice timing, distance and loss-of-guard lesson; no mastery or guaranteed bypass"
+    },
+    "imitation": "Initial adult discoverer copying/retelling only; later multi-day spread/strip/ass-flash/fandom remains65",
+    "offstage": "Revised63 Sins2491/no newJesus/no egg-hunt switch carry; original65 actual Shang death and all other outcomes retained as later timeline; no new synchronization",
+    "next_revision": 65,
+    "next_new_episode": 66
+  },
+  "originals_preserved": true
+}
