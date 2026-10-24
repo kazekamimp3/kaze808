@@ -273,3 +273,9 @@ Kaze: “im done with adding new people. display all the shit that is for stage�
 AUTHOR_SELECTED: Close this round of new cast additions. Retain Yoda/Boba/CadBane/Dooku selections, Hondo removal; Embo/Bossk/AurraSing/IG88 remain unselected. This does not cancel existing selected cast or require adding recommendations.
 Full review of this conversation's saved batch, with approved/open/removed distinctions and retained-thread routing: continuity/editorial/S7NS_Staged_Review_R17_20261023.md. Exact new author lyrics remain under their R12 owner. No episode drafted/played and no story time advance.
 R13 approval overrides R12's earlier PROPOSED acquisition labels. Psychometry/Tràkata are selected FOR REVISION, not yet enacted. Group-photo Easter replacement remains proposed; exact source versions, ending and outcomes remain open. Actual65/nextNEW66 preserved;63/needed62 revision first,64–65 queued. Review is not exhaustive all-season audit or verified Project UI installation.
+
+## R18 — staged critique and fresh brainstorming, PROPOSALS ONLY
+Change ID: S7NS_STAGED_CRITIQUE_BRAINSTORM_R18_20261023.
+Kaze asks what staged work needs addressing and what brainstorming can improve it.
+Full critique: continuity/editorial/S7NS_Staged_Critique_Brainstorm_R18_20261023.md.
+New AI proposals include Starkiller consciously reassessing then declining Brian's ongoing demands; stolen-saber crime echo with unresolved verification; short Trakata establishment; distinct art reactions and meaningful JarJar agency; ability-aware heist; paid CadBane recovery of Clifford's saber/Brian alive for Evil's unfinished reversal; Billy checking Chris's need for intervention; keeping photo optional rather than filling vacated63 space. All remain PROPOSED. They do not alter Kaze's approvals, raw lyrics, future outcomes, existing source powers or closed cast selection. Actual65/next66 and63-first revision remain. NO PLAY or episode draft.
