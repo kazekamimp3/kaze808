@@ -106,7 +106,7 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "Actual65 reconciled; R9 author direction saved; next66 work pending, PLAY held",
+  "work_status": "Same-span64–65 editorial review complete; revision pending, NO PLAY",
   "work_resume_checkpoint_latest": "continuity/work/S7NS_Condensed_Weave_R7_Readback_20261023.json",
   "work_change_id": "S7NS_CONDENSED_WEAVE_R7_20261023",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
@@ -2811,5 +2811,16 @@
     "status": "AUTHOR_SELECTED_STANDARD_AND_RECURRING_RAP",
     "scene_ideas": "PROPOSED_ONLY; four options in owner",
     "source": "Kaze raw writing strongest reference; failures attributed to AI execution"
+  },
+  "active_revision_request": {
+    "episode_span": [
+      64,
+      65
+    ],
+    "original": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+    "review": "continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md",
+    "status": "FULL_ORIGINAL_REVIEWED_REPLACEMENT_NOT_WRITTEN",
+    "play_authorized": false,
+    "author_scope": "R9 applies to revised64–65; nextnew66 separate"
   }
 }
