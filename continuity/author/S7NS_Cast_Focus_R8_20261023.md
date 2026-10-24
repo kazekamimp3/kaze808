@@ -57,3 +57,17 @@ These are options to assess within the existing Scene Decision Doctrine, not a n
 ## Latest scope correction — REVISED64–65, not next66–67
 Kaze: “and im talking about the revised 64–65. dont play those episodes until i say so ... read the 64–65 that was sent. pick out the problems you see with it”.
 Current task is full-text editorial review of exact delivered A Little Feeling, then the same-span revision target64–65 under R9. Review: continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md. Proposed R9 scenes remain conditional; Jabba/JarJar are available listeners, no forced absent-cast reunion. Original65 is last delivered, next NEW66 remains distinct. No replacement prose produced by this review; noPLAY until explicit new request.
+
+## Original-source comedy across the ensemble and four-character speech research
+
+Change ID: S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023.
+Latest direct Kaze: “create all types of scenes and shit with that comedy of the sources as very strong influence. within TPP, brian and his new partners, the sins.”
+Then: “speech fidelity of all characters ... full fidelity research for jar jar, jabba, jawas, and sandpeople? if not do it now for this revised episode”.
+
+AUTHOR_SELECTED: Apply the original-source comic intensity across action, criminal schemes, ordinary dialogue, travel, household conflict, horror, performance and quieter aftermath in all three requested cast groups. The AI must generate substantial new material from specific character wants and actions. No generic banter filler, profanity-only substitution, flattened shared cadence, incidental-cast takeover, mandatory Sins cutaway or uniformly cruel register. Humor remains central; tonal contrast and existing character-specific instructions remain. No new episode or selected outcome is created by this direction.
+
+Original-source comparative review appended to continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md. It identifies complete/partial coverage and separates Kaze's actual raw chef monologue and rap from older AI adaptations of his premises. All five duel sources/manuscripts, aftermath and five Billy Specials were read; the entire archive/IDC container was not. Old AI prose includes filler and is not the definition of Kaze's writing.
+
+COMPLETED FOCUSED TEXT RESEARCH: research/StarWars_E64_E65_Speech_Behavior_Fidelity_20261023.md. Primary Lucasfilm evidence, canonical published quotes and creator/performer first-person accounts support distinct Jar Jar speech/emotional/physical range; Jabba's Huttese preference, selected Basic and leverage; fast Jawa trader communication; and Tusken vocal/sign behavior. R6 version/assets/language selections and authored adult imitation exception remain. No universal translation, invented precise alien vocabulary, new audio screening/TTS test or all-appearance research claim. Existing Dr. Evil/Brian/Wade/Baldur/Shang owners remain controlling for their own voices. The replacement's complete manuscript voice pass is still required.
+
+Current target remains REVISED64–65. No replacement prose produced by this review/research; noPLAY until explicit request. Actual delivered65 and next NEW66 remain recorded. Original manuscripts/checkpoints/raw lyrics unchanged.
