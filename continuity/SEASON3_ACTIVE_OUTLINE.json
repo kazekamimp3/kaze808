@@ -2018,5 +2018,18 @@
     "author_selected": "Original Kaze humor central to every episode; Brian repeats signed lyrics to established characters through actual access; AI filler/voice failure ownership explicit.",
     "ideas": "PROPOSED only, not scheduled/occurred; source owner contains four options.",
     "next_construction": "Existing66 Starkiller vehicle and separate Brian route remain; no automatic reunion or audience parade."
-  }
+  },
+  "active_revision_request": {
+    "episode_span": [
+      64,
+      65
+    ],
+    "original": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+    "review": "continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md",
+    "status": "FULL_ORIGINAL_REVIEWED_REPLACEMENT_NOT_WRITTEN",
+    "play_authorized": false,
+    "author_scope": "R9 applies to revised64–65; nextnew66 separate"
+  },
+  "playback_hold": true,
+  "work_status": "Same-span64–65 editorial review complete; revision pending, NO PLAY"
 }
