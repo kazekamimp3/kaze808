@@ -2026,10 +2026,10 @@
     "dependent_departure_episode": 62,
     "original": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
     "brief": "continuity/editorial/E63_First_Revision_Comedy_Action_And_Rap_Ideas_20261023.md",
-    "status": "AUTHOR_SELECTED_E63_FIRST; CREATIVE_BRIEF_AND_TEST_LYRICS_SAVED; REPLACEMENT_NOT_WRITTEN",
-    "change_id": "S7NS_E63_FIRST_AUTHOR_VOICE_ACTION_R10_20261023",
+    "status": "SEVEN_POINT_DIRECTION_AUTHOR_SELECTED_WITH_R11_ADDITIONS; RESEARCH_AND_NEW_OPTIONS_SAVED; REPLACEMENT_NOT_WRITTEN",
+    "change_id": "S7NS_REVISION_CONFIRMATION_FORCE_LOYALTY_R11_20261023",
     "play_authorized": false,
-    "author_scope": "Brian departure/audition revision first; original rap exact; restore action/source comedy; new Chris/title/lyric details proposed",
+    "author_scope": "Seven items confirmed; real Brian Force lesson reveals rare potential (exact power open); remove Jesus/Easter; Chris negotiates and Billy protects him if bullied; approved new rap awaits author lyric edits; apply project voice now",
     "deferred_revision": {
       "episode_span": [
         64,
@@ -2071,7 +2071,13 @@
         "play_authorized": false
       }
     },
-    "downstream_reconciliation": "Check actual63 Jesus/custody/funds and64–65 dependencies only when replacement exists; original history unchanged by brainstorm"
+    "downstream_reconciliation": "Check actual63 Jesus/custody/funds and64–65 dependencies only when replacement exists; original history unchanged by brainstorm",
+    "latest_additions": "continuity/editorial/S7NS_R11_Force_Training_Billy_Loyalty_20261023.md",
+    "new_proposals": [
+      "Psychometry / auditory Force-sampling manifestation",
+      "Group portrait replacement for Easter",
+      "Specific limited transport deal and lesson details"
+    ]
   },
   "playback_hold": true,
   "work_status": "E63 revision prioritized;64–65 queued; R10 brief/test lyrics saved, replacement not written, NO PLAY",
@@ -2092,5 +2098,13 @@
     "selected": "E63 first; restore action/fighting, source comedy, meaningful crimes and project-facing voice; original rap exact",
     "proposed": "New titles/test lyrics, later Subaru maintenance scene, precise replacement cargo and removal/replacement Jesus staging; no acceptance of unseen prose",
     "play_authorized": false
+  },
+  "latest_R11_author_confirmation": {
+    "change_id": "S7NS_REVISION_CONFIRMATION_FORCE_LOYALTY_R11_20261023",
+    "brief": "continuity/editorial/S7NS_R11_Force_Training_Billy_Loyalty_20261023.md",
+    "status": "AUTHOR_SELECTED_DIRECTION; NEW_OPTIONS_PROPOSED",
+    "play_authorized": false,
+    "story_time_advanced": 0,
+    "replacement_written": false
   }
 }
