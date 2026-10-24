@@ -1,0 +1,59 @@
+{
+  "change_id": "S7NS_E64_E65_CHAT_DELIVERY_20261023",
+  "episode_span": [
+    64,
+    65
+  ],
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "evidence": "Complete preceding visible chat A Little Feeling ends with Brian claiming Shake cadence: All me.",
+  "chat_byte_identity": "No machine-export byte comparison claimed",
+  "manuscript": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+  "manuscript_sha256": "8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20",
+  "checkpoint": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024_Checkpoint.json",
+  "actual_end_state": {
+    "candidate_only": false,
+    "elapsed": "Brian collapse/recovery day64, then three mornings through65. Coastal events distinct strand, no exact synchronized day-number invention.",
+    "locations": {
+      "Brian": "Walking north from northern Shurima water stop toward landing with Jar Jar and northbound travelers; not at landing or Kratos/Mimir yet",
+      "Jar_Jar": "Same route, independent objective to seek homeward information",
+      "Jabba": "Water stop; no palace, fleet or newly acquired saber",
+      "Dr_Evil": "Damaged demonstration shelter at coastal export-depot berth",
+      "Baldur": "Left shelter on foot by nearby road; destination unresolved",
+      "Shang_Tsung": "Dead, body at shelter's stone foundation",
+      "others": "Last observed63 positions retained as last observed, no assertion time freezes offstage"
+    },
+    "custody": {
+      "saber": "Same stolen Clifford laser saber, retained Brian; controlled iron-cutting demonstration only",
+      "journal": "Brian; Starkiller signature intact; Jar Jar insult crossed out, replacement crossed out; new fame notes; Shake encouraging note retained",
+      "poster": "Original Busta poster kissed and burned64, no replacement",
+      "Brian_coins": "Three silver received from Jabba, retained; previous loose cash unspecified",
+      "supplies": "Brian and Jar Jar carry actual provisions for next walk; no unlimited replenishment",
+      "Baldur_purse": "Paid to Shang, then Evil took from corpse and returned it to Baldur; amount uncounted",
+      "TPP_funds": "Prior166+separate5 baseline. New service receipts, venue arrangement and damage unquantified; do not assert exact new total",
+      "other_funds": "Sins2489,Daniel110 separate,Kaze0 unchanged by narrated events"
+    },
+    "life": {
+      "Shake": "Remains dead",
+      "Shang_Tsung": "Killed65 by Baldur skull impacts; compact fatal selection resolved",
+      "Baldur": "Alive; intact enchantment, no sensation restored",
+      "Brian": "Alive, gradual recovery with food/water/rest; no new powers or talent theft"
+    },
+    "knowledge": {
+      "Jabba": "Brian directly identifies Dr Evil, submarine and old coastal depot; no murder knowledge",
+      "Jar_Jar": "Knows Brian musical/status claims, old landing route, former collaborator; no murder knowledge, no demonstrated reading of covered insult",
+      "Baldur": "Saw minor treatment success; experienced failed trial; heard sales reframing; no new mistletoe/future lore",
+      "Dr_Evil": "Witnesses trial, failure and killing; no omniscient Brian whereabouts",
+      "others": "No report to Sins/Kratos/Mimir yet"
+    },
+    "developments": [
+      "Adult local imitation spreads across actual days; Brian calls it fandom and disrupts activity attempting credit/control",
+      "Brian briefly collaborates rhythmically then derails it for personal billing",
+      "Brian learns small piece of Shake's cadence through practice and falsely claims original credit",
+      "Shang's independent treatment business ends in fatal confrontation; any future ordinary live Shang conflict displaced"
+    ],
+    "pending": "Starkiller actual return/Chris vehicle; actual Brian route toward Kratos/Mimir; any report of Baldur requires carrier; remaining66–69 unwritten."
+  },
+  "next_episode": 66,
+  "playback_hold": true
+}
