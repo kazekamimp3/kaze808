@@ -1,0 +1,109 @@
+{
+  "schema": "S7NS_PAIRED_PREPARED_CHECKPOINT_V2",
+  "change_id": "S7NS_E64_E65_A_LITTLE_FEELING_R8_20261024",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "title": "A Little Feeling",
+  "episode_span": [
+    64,
+    65
+  ],
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "played": false,
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "User explicitly requests next two episodes, repeated while same work remained active. Authorizes64–65 only; later pairs held.",
+  "actual_delivered_cursor": 63,
+  "manuscript": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+  "manuscript_sha256": "8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20",
+  "pair_boundary_character_offset": 18794,
+  "units": [
+    {
+      "episode": 64,
+      "words": 3182,
+      "estimated_minutes_at_150wpm": 21.21
+    },
+    {
+      "episode": 65,
+      "words": 3560,
+      "estimated_minutes_at_150wpm": 23.73
+    }
+  ],
+  "runtime_note": "6742 words,44.95 minutes at assumed150wpm. Below standing25–30-minute per-unit target; no measured audio. Latest explicit no-filler correction prioritized; duration not claimed satisfied.",
+  "source_owners": [
+    "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+    "continuity/author/S7NS_Locked_Batch_R6_20261023.md",
+    "continuity/author/S7NS_Brian_Rap_Raw_TTS_Notes_R6_20261023.md",
+    "canon/presentation/S7NS_Authorial_Intent_Raw_Note_Fidelity_Active_Comedy_v1_1_20261020.md",
+    "character_sources/crossover_extended/Brian_Fictional_Conjoined_Character_Source.txt",
+    "character_sources/season3/Shang_Tsung_Character_Source.txt",
+    "research/GOW_Baldur_Kratos_Fidelity_20261018.md",
+    "character_sources/season3/Deadpool_Character_Source.txt",
+    "canon/characters/Dr_Evil_Fidelity_and_TPP_Leadership_20261021.md"
+  ],
+  "attribution": "Kaze originated selected premises and protected poster-breakup words. AI wrote expansion, connective dialogue, new comedy and enacted fight resolution. No author acceptance of unseen prose asserted.",
+  "candidate_end_state_if_later_delivered": {
+    "candidate_only": true,
+    "elapsed": "Brian collapse/recovery day64, then three mornings through65. Coastal events distinct strand, no exact synchronized day-number invention.",
+    "locations": {
+      "Brian": "Walking north from northern Shurima water stop toward landing with Jar Jar and northbound travelers; not at landing or Kratos/Mimir yet",
+      "Jar_Jar": "Same route, independent objective to seek homeward information",
+      "Jabba": "Water stop; no palace, fleet or newly acquired saber",
+      "Dr_Evil": "Damaged demonstration shelter at coastal export-depot berth",
+      "Baldur": "Left shelter on foot by nearby road; destination unresolved",
+      "Shang_Tsung": "Dead, body at shelter's stone foundation",
+      "others": "Last observed63 positions retained as last observed, no assertion time freezes offstage"
+    },
+    "custody": {
+      "saber": "Same stolen Clifford laser saber, retained Brian; controlled iron-cutting demonstration only",
+      "journal": "Brian; Starkiller signature intact; Jar Jar insult crossed out, replacement crossed out; new fame notes; Shake encouraging note retained",
+      "poster": "Original Busta poster kissed and burned64, no replacement",
+      "Brian_coins": "Three silver received from Jabba, retained; previous loose cash unspecified",
+      "supplies": "Brian and Jar Jar carry actual provisions for next walk; no unlimited replenishment",
+      "Baldur_purse": "Paid to Shang, then Evil took from corpse and returned it to Baldur; amount uncounted",
+      "TPP_funds": "Prior166+separate5 baseline. New service receipts, venue arrangement and damage unquantified; do not assert exact new total",
+      "other_funds": "Sins2489,Daniel110 separate,Kaze0 unchanged by narrated events"
+    },
+    "life": {
+      "Shake": "Remains dead",
+      "Shang_Tsung": "Killed65 by Baldur skull impacts; compact fatal selection resolved",
+      "Baldur": "Alive; intact enchantment, no sensation restored",
+      "Brian": "Alive, gradual recovery with food/water/rest; no new powers or talent theft"
+    },
+    "knowledge": {
+      "Jabba": "Brian directly identifies Dr Evil, submarine and old coastal depot; no murder knowledge",
+      "Jar_Jar": "Knows Brian musical/status claims, old landing route, former collaborator; no murder knowledge, no demonstrated reading of covered insult",
+      "Baldur": "Saw minor treatment success; experienced failed trial; heard sales reframing; no new mistletoe/future lore",
+      "Dr_Evil": "Witnesses trial, failure and killing; no omniscient Brian whereabouts",
+      "others": "No report to Sins/Kratos/Mimir yet"
+    },
+    "developments": [
+      "Adult local imitation spreads across actual days; Brian calls it fandom and disrupts activity attempting credit/control",
+      "Brian briefly collaborates rhythmically then derails it for personal billing",
+      "Brian learns small piece of Shake's cadence through practice and falsely claims original credit",
+      "Shang's independent treatment business ends in fatal confrontation; any future ordinary live Shang conflict displaced"
+    ],
+    "pending": "Starkiller actual return/Chris vehicle; actual Brian route toward Kratos/Mimir; any report of Baldur requires carrier; remaining66–69 unwritten."
+  },
+  "episode_record_contract": {
+    "coverage": "Complete draft separately read from local file in contiguous0–22000/end chunks; repairs; COMPLETE final reread contiguous0–20000/end to final All me.",
+    "repairs": [
+      "Removed narrator overlabeling successful demonstration and Baldur motive",
+      "Baldur sees first customer's real relief before entering",
+      "Unified cloth-fronted board placement/fire/backside",
+      "Showed Evil physically taking purse before refund; removed phantom collection-box handoff",
+      "Removed unsupported singed-beard damage under enchantment"
+    ],
+    "weakest_span": "Kept cup dispute because voluntary help becomes Brian's status struggle, then breakfast callback and actual route choice. No named incidental arcs, extra logistics jobs or mandatory Sins cutaways.",
+    "regressions": {
+      "authored_poster": "PASS: protected words retained with punctuation/case for TTS; silence, kiss, fire, knees, sky scream, tears",
+      "order": "PASS: actual63 walk -> collapse -> adult discovery -> mid-thrust waking -> small success -> poster64 -> days/imitators65",
+      "mechanics": "PASS scoped: cursedBaldur feels no pain, takes displacement; NewEraShang alchemy/claws/form/fire only, no Well/universal soul bypass; fatal grapple source-compatible",
+      "languages": "PASS: Brian does not understand Huttese, JarJar no translator; Jabba limited Basic; gestures and music for Jawas/Tuskens",
+      "voices": "Editorial judgment only: Brian self-branding and panic, JarJar concise care/refusal, Jabba leverage, Shang adaptable sale, Evil ceremony/self-protection, Baldur hope/rage, boundedWade",
+      "all_season_audit": "NOT_RUN",
+      "runtime": "BELOW_TARGET; no filler added to pad"
+    }
+  },
+  "actual_state_advanced_by_save": false,
+  "audio_generated": false,
+  "delivery_rule": "Render saved manuscript unchanged; reconcile actual delivery only after response exists."
+}
