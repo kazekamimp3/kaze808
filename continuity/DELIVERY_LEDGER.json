@@ -2019,7 +2019,7 @@
     "delivery_reconciliation": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json"
   },
   "next_after_prepared_feature": 66,
-  "work_status": "Actual65 reconciled; R9 author direction saved; next66 work pending, PLAY held",
+  "work_status": "Same-span64–65 editorial review complete; revision pending, NO PLAY",
   "current_actual_after_E65": {
     "candidate_only": false,
     "elapsed": "Brian collapse/recovery day64, then three mornings through65. Coastal events distinct strand, no exact synchronized day-number invention.",
@@ -2069,5 +2069,16 @@
     "status": "AUTHOR_SELECTED_STANDARD_AND_RECURRING_RAP",
     "scene_ideas": "PROPOSED_ONLY; four options in owner",
     "source": "Kaze raw writing strongest reference; failures attributed to AI execution"
+  },
+  "active_revision_request": {
+    "episode_span": [
+      64,
+      65
+    ],
+    "original": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+    "review": "continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md",
+    "status": "FULL_ORIGINAL_REVIEWED_REPLACEMENT_NOT_WRITTEN",
+    "play_authorized": false,
+    "author_scope": "R9 applies to revised64–65; nextnew66 separate"
   }
 }
