@@ -106,7 +106,7 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "Same-span64–65 editorial review complete; revision pending, NO PLAY",
+  "work_status": "Original-source comparison and focused Star Wars speech research saved; revised64–65 pending, NO PLAY",
   "work_resume_checkpoint_latest": "continuity/work/S7NS_Condensed_Weave_R7_Readback_20261023.json",
   "work_change_id": "S7NS_CONDENSED_WEAVE_R7_20261023",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
@@ -1205,7 +1205,7 @@
     "next_action": "Complete previous49chat observed; frozenpreparationCP unchanged.",
     "delivery_reconciliation": "continuity/episodes/E49/CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "latest_direct_author_scope_git_blob_sha1": null,
+  "latest_direct_author_scope_git_blob_sha1": "eb4e9a0a2320cc504fac462b4ec1e21f8fb870e1",
   "latest_E49_character_application": {
     "owner": "continuity/author/S7NS_E49_Dana_Brian_BELLY_Public_Chaos_20261021.md",
     "status": "AUTHOR_SELECTED_PORTRAYAL",
@@ -2819,8 +2819,11 @@
     ],
     "original": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
     "review": "continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md",
-    "status": "FULL_ORIGINAL_REVIEWED_REPLACEMENT_NOT_WRITTEN",
+    "status": "SOURCE_COMPARISON_AND_FOUR_CHARACTER_RESEARCH_COMPLETE_REPLACEMENT_NOT_WRITTEN",
     "play_authorized": false,
-    "author_scope": "R9 applies to revised64–65; nextnew66 separate"
+    "author_scope": "R9 applies to revised64–65; nextnew66 separate",
+    "research": "research/StarWars_E64_E65_Speech_Behavior_Fidelity_20261023.md",
+    "review_change_id": "S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023",
+    "research_status": "FOCUSED_PRIMARY_TEXT_SPEECH_AND_BEHAVIOR_PASS_COMPLETE; REPLACEMENT_APPLICATION_PENDING"
   }
 }
