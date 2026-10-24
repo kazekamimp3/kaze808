@@ -3094,5 +3094,21 @@
     "story_time_advanced": 0,
     "play_authorized": false,
     "episode_draft_written": false
+  },
+  "editorial_brainstorm_R18": {
+    "path": "continuity/editorial/S7NS_Staged_Critique_Brainstorm_R18_20261023.md",
+    "status": "PROPOSED_ONLY_NOT_AUTHOR_SELECTED",
+    "cast_additions": false,
+    "episode_draft_written": false,
+    "play_authorized": false
+  },
+  "latest_work_readback_R18": {
+    "github": "AUTHOR_REPORT_OUTLINE_READBACK_EXACT",
+    "airtable": "READBACK_EXACT_SCOPE",
+    "notion": "CONTENT_VERIFIED",
+    "drive": "READBACK_EXACT_HANDOFF",
+    "story_time_advanced": 0,
+    "episode_draft_written": false,
+    "play_authorized": false
   }
 }
