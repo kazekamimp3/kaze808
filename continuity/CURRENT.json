@@ -2819,10 +2819,10 @@
     "dependent_departure_episode": 62,
     "original": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
     "brief": "continuity/editorial/E63_First_Revision_Comedy_Action_And_Rap_Ideas_20261023.md",
-    "status": "AUTHOR_SELECTED_E63_FIRST; CREATIVE_BRIEF_AND_TEST_LYRICS_SAVED; REPLACEMENT_NOT_WRITTEN",
-    "change_id": "S7NS_E63_FIRST_AUTHOR_VOICE_ACTION_R10_20261023",
+    "status": "SEVEN_POINT_DIRECTION_AUTHOR_SELECTED_WITH_R11_ADDITIONS; RESEARCH_AND_NEW_OPTIONS_SAVED; REPLACEMENT_NOT_WRITTEN",
+    "change_id": "S7NS_REVISION_CONFIRMATION_FORCE_LOYALTY_R11_20261023",
     "play_authorized": false,
-    "author_scope": "Brian departure/audition revision first; original rap exact; restore action/source comedy; new Chris/title/lyric details proposed",
+    "author_scope": "Seven items confirmed; real Brian Force lesson reveals rare potential (exact power open); remove Jesus/Easter; Chris negotiates and Billy protects him if bullied; approved new rap awaits author lyric edits; apply project voice now",
     "deferred_revision": {
       "episode_span": [
         64,
@@ -2864,7 +2864,13 @@
         "play_authorized": false
       }
     },
-    "downstream_reconciliation": "Check actual63 Jesus/custody/funds and64–65 dependencies only when replacement exists; original history unchanged by brainstorm"
+    "downstream_reconciliation": "Check actual63 Jesus/custody/funds and64–65 dependencies only when replacement exists; original history unchanged by brainstorm",
+    "latest_additions": "continuity/editorial/S7NS_R11_Force_Training_Billy_Loyalty_20261023.md",
+    "new_proposals": [
+      "Psychometry / auditory Force-sampling manifestation",
+      "Group portrait replacement for Easter",
+      "Specific limited transport deal and lesson details"
+    ]
   },
   "latest_work_readback_R10": {
     "change_id": "S7NS_E63_FIRST_AUTHOR_VOICE_ACTION_R10_20261023",
@@ -2889,6 +2895,36 @@
     "replacement_written": false,
     "original_rap_changed": false,
     "original_manuscripts_changed": false,
+    "story_time_advanced": 0,
+    "play_authorized": false
+  },
+  "latest_work_readback_R11": {
+    "change_id": "S7NS_REVISION_CONFIRMATION_FORCE_LOYALTY_R11_20261023",
+    "github": {
+      "status": "AUTHOR_BRIEF_OUTLINE_LEDGER_READBACK_EXACT",
+      "author_sha": "a4c9af232014eb5afc2d480621a26b203ad940ad",
+      "brief_sha": "2bf079def16673901e00dfd5bf22e6d8144e4d9e"
+    },
+    "airtable": {
+      "status": "READBACK_EXACT",
+      "record_id": "reccW8tbgjVA9SBfb"
+    },
+    "notion": {
+      "status": "CONTENT_READBACK_VERIFIED",
+      "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a"
+    },
+    "drive": {
+      "status": "READBACK_EXACT_TEXT",
+      "file_id": "1NFGd9tfbl7TTGHGvbl5e3qGTnp9P1Bk7"
+    },
+    "skill": {
+      "status": "READ_AND_APPLIED_THIS_TURN",
+      "name": "s7ns-kaze-voice-creative-fidelity",
+      "global_installation_claimed": false
+    },
+    "original_manuscripts_changed": false,
+    "original_rap_changed": false,
+    "replacement_written": false,
     "story_time_advanced": 0,
     "play_authorized": false
   }
