@@ -3149,5 +3149,33 @@
     "story_time_advanced": 0,
     "episode_draft_written": false,
     "play_authorized": false
+  },
+  "overlooked_requirements_R20": {
+    "change_id": "S7NS_OVERLOOKED_REQUIREMENTS_APPROVAL_R20_20261024",
+    "status": "AUTHOR_SELECTED_DEVELOPMENT_REQUIREMENTS",
+    "numbering": "immediately preceding eight-point overlooked review",
+    "approved_items": [
+      3,
+      4,
+      6,
+      7,
+      8
+    ],
+    "requirements": [
+      "credible voluntary information bargains and listener agency",
+      "Kratos purpose in finding Baldur; Mimir independent judgment",
+      "personal earned TPP job/theft stakes",
+      "conditional hunter contract terms and agency; specific Bane contract remains proposed",
+      "earned Brian successes without mandatory humiliation"
+    ],
+    "not_selected_by_this_message": [
+      1,
+      2,
+      5
+    ],
+    "specific_outcomes_open": true,
+    "story_time_advanced": 0,
+    "play_authorized": false,
+    "episode_draft_written": false
   }
 }
