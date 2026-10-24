@@ -2204,5 +2204,12 @@
     "cast_addition_round": "CLOSED",
     "replacement_written": false,
     "play_authorized": false
+  },
+  "editorial_brainstorm_R18": {
+    "path": "continuity/editorial/S7NS_Staged_Critique_Brainstorm_R18_20261023.md",
+    "status": "PROPOSED_ONLY_NOT_AUTHOR_SELECTED",
+    "cast_additions": false,
+    "episode_draft_written": false,
+    "play_authorized": false
   }
 }
