@@ -2180,5 +2180,22 @@
     ],
     "source_times": "OPEN; suggested Boba/Yoda versions not newly locked by question",
     "play_authorized": false
+  },
+  "latest_StarWars_roster_R16": {
+    "authority": "continuity/author/S7NS_Hondo_Removal_Hunter_Direction_R16_20261023.md",
+    "Hondo_Ohnaka": "REMOVED_FROM_SELECTED_FUTURE_CAST",
+    "retained": [
+      "Cad Bane",
+      "Count Dooku",
+      "Boba Fett",
+      "Yoda"
+    ],
+    "recommended_not_added": [
+      "Bossk",
+      "Embo",
+      "Aurra Sing",
+      "IG-88"
+    ],
+    "play_authorized": false
   }
 }
