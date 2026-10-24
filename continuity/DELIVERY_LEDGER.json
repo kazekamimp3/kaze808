@@ -713,16 +713,15 @@
     },
     {
       "episode": 63,
-      "title": "A Better Picture",
+      "title": "Force-Fed",
       "feature_span": [
-        62,
         63
       ],
-      "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
-      "manuscript_sha256": "f6b0a1b4d5234c1d15f260eca7be622fcebb7f962b1de5a74cd888a9bc304ea7",
-      "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
+      "manuscript": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024.txt",
+      "manuscript_sha256": "33a8f5bff8ae51d8d215e5d172a536ba8816b1e8090b8abfaa148a19f9623444",
+      "checkpoint": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024_Checkpoint.json",
       "delivery_status": "DELIVERED_PROVISIONAL",
-      "delivery_reconciliation": "continuity/features/E62_E63/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+      "delivery_reconciliation": "continuity/episodes/E63/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
       "author_acceptance": "NOT_ASSERTED"
     },
     {
@@ -774,7 +773,7 @@
     "played": false,
     "pre_R7_status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED"
   },
-  "playback_control": "HELD until explicit new PLAY",
+  "playback_control": "LIFTED_ONLY_FOR_EXPLICIT_SINGLE_REVISED64; no65 or NEW66 authorization",
   "latest_scoped_author": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
   "current_author_configuration": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
   "original_manuscripts_or_checkpoints_rewritten": false,
@@ -1149,7 +1148,7 @@
     "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid.",
     "delivery_reconciliation": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
-  "latest_chat_delivered_episode": 65,
+  "latest_chat_delivered_episode": 63,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -1622,11 +1621,11 @@
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
-  "playback_hold": "LIFTED_ONLY_FOR_EXPLICIT_SINGLE_REVISED63; no64–65 or NEW66 authorization",
+  "playback_hold": "LIFTED_ONLY_FOR_EXPLICIT_SINGLE_REVISED64; no65 or NEW66 authorization",
   "current_playback_request": {
-    "author_text": "play ep63",
+    "author_text": "play ep64",
     "episode_span": [
-      63
+      64
     ],
     "revision": true,
     "status": "AUTHORIZED_PREPARED_DELIVERY_PENDING",
@@ -1965,9 +1964,9 @@
     "candidate_only": false,
     "elapsed_time": "Several days of Brian crossing/caravan travel; exact day number not fabricated. Sins coastal strand need not share identical clock time.",
     "locations": {
-      "Brian": "Nearby dunes outside northern Shurima salvage yard, conscious and beginning walk after shove; NOT collapsed/found/woken yet",
-      "Starkiller": "Leaving yard toward northern landing with old contact lead, no return trip completed",
-      "Sins": "Coastal camp; Chris exterior/Billy interior; Meatwad outside for hunt, Charles inside",
+      "Brian": "Conscious, walking on caravan ruts around the dune near the northern Shurima salvage yard; no collapse or Jabba/Jar Jar meeting yet",
+      "Starkiller": "Walking north toward the landing; has actual old coastal lead and Brian's vehicle sketch/map; no arrival at Chris or vehicle transfer",
+      "Sins": "Last verified pre-Easter coastal positions; revised63 depicts no household switch or Meatwad exterior egg hunt; no replacement domestic scene",
       "TPP": "Submarine at export depot; Jack saber missing, Shake remains aboard pending handling"
     },
     "life": {
@@ -1975,10 +1974,10 @@
       "Shake": "deliberately murdered by Brian62; no resurrection",
       "Frylock": "alive, France per current author",
       "Keke": "dead; regrowth still gated",
-      "Jesus": "new resurrection63, alive at camp at close; no gang membership"
+      "Jesus": "No new63 resurrection/camp appearance in revised63; earlier Jesus history retained"
     },
     "funds": {
-      "Sins_common": 2489,
+      "Sins_common": 2491,
       "Daniel_separate": 110,
       "Kaze_personal": 0,
       "TPP_common": 166,
@@ -1997,9 +1996,14 @@
       "cargo": "same as61 excluding no further sales; no chests opened"
     },
     "operation": "Fourth instrument stolen, all delivered Sella. Launch deduction30 and spirit balance30 settled; signal tower down; patrol obstructed. Merrit released alive with knowledge.",
-    "injuries": "Dutch head wound/headache ongoing, chart obsession escalates; no diagnostic certainty. Brian rough dune landing, no invented catastrophic injury or instant healing.",
-    "knowledge": "Jack links observed death damage, missing saber and departure evidence; tells Sins actual observations, no omniscient eyewitness. Starkiller knows Chris vehicle configuration/old depot contact/intended inland direction only. Jesus learns priest inspection from Chris's spoken remark; Wade has no mystery answers.",
-    "pending": "Desert collapse/discovery/mid-thrust wake/Jabba/Jar Jar64; imitation and Busta breakup not yet occurred; Kratos/Mimir and later strands unchanged"
+    "injuries": "Brian sore wrist from disarm and shoulder/body from dune landing; no fracture depicted, no instant healing; original downstream dehydration remains reachable Dutch prior head injury unchanged.",
+    "knowledge": "Jack links observed death damage, missing saber and departure evidence; tells Sins actual observations, no omniscient eyewitness. Starkiller knows Chris vehicle configuration/old depot contact/intended inland direction only. Wade has no mystery answers.",
+    "pending": "Desert collapse/discovery/mid-thrust wake/Jabba/Jar Jar64; imitation and Busta breakup not yet occurred; Kratos/Mimir and later strands unchanged",
+    "skills": {
+      "psychometry": "First involuntary object sound/emotion echo, locally seeded handle event; limited repeat emotional impression, not reliable playback, mind reading, combat download or telekinesis mastery",
+      "Trakata": "One controlled static-target success after correction; novice timing, distance and loss-of-guard lesson; no mastery or guaranteed bypass"
+    },
+    "revision_reconciliation": "continuity/episodes/E63/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json"
   },
   "play_authorized": true,
   "latest_cast_focus_R8": {
@@ -2027,7 +2031,7 @@
     "delivery_reconciliation": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json"
   },
   "next_after_prepared_feature": 66,
-  "work_status": "E63-first creative brief and test lyrics saved; original delivered65 preserved, replacement pending, NO PLAY",
+  "work_status": "Revised63 delivered provisionally; revised64 reviewed/prepared for explicit PLAY; revised65 unwritten. Original chronological65/nextNEW66 retained.",
   "current_actual_after_E65": {
     "candidate_only": false,
     "elapsed": "Brian collapse/recovery day64, then three mornings through65. Coastal events distinct strand, no exact synchronized day-number invention.",
@@ -2048,13 +2052,13 @@
       "supplies": "Brian and Jar Jar carry actual provisions for next walk; no unlimited replenishment",
       "Baldur_purse": "Paid to Shang, then Evil took from corpse and returned it to Baldur; amount uncounted",
       "TPP_funds": "Prior166+separate5 baseline. New service receipts, venue arrangement and damage unquantified; do not assert exact new total",
-      "other_funds": "Sins2489,Daniel110 separate,Kaze0 unchanged by narrated events"
+      "other_funds": "Sins2491 from revised63 (no two-silver Easter purchase); Daniel110 separate; Kaze0. Original65 makes no new change to these funds."
     },
     "life": {
       "Shake": "Remains dead",
       "Shang_Tsung": "Killed65 by Baldur skull impacts; compact fatal selection resolved",
       "Baldur": "Alive; intact enchantment, no sensation restored",
-      "Brian": "Alive, gradual recovery with food/water/rest; no new powers or talent theft"
+      "Brian": "Alive; gradual recovery with food/water/rest. Limited psychometry and novice Trakata inherited from delivered revised63; no additional power or talent theft in original64–65."
     },
     "knowledge": {
       "Jabba": "Brian directly identifies Dr Evil, submarine and old coastal depot; no murder knowledge",
@@ -2069,7 +2073,17 @@
       "Brian learns small piece of Shake's cadence through practice and falsely claims original credit",
       "Shang's independent treatment business ends in fatal confrontation; any future ordinary live Shang conflict displaced"
     ],
-    "pending": "Starkiller actual return/Chris vehicle; actual Brian route toward Kratos/Mimir; any report of Baldur requires carrier; remaining66–69 unwritten."
+    "pending": "Starkiller actual return/Chris vehicle; actual Brian route toward Kratos/Mimir; any report of Baldur requires carrier; remaining66–69 unwritten.",
+    "inherited_revised63_state": {
+      "skills": {
+        "psychometry": "First involuntary object sound/emotion echo, locally seeded handle event; limited repeat emotional impression, not reliable playback, mind reading, combat download or telekinesis mastery",
+        "Trakata": "One controlled static-target success after correction; novice timing, distance and loss-of-guard lesson; no mastery or guaranteed bypass"
+      },
+      "Jesus": "No new63 resurrection/camp appearance inherited; earlier history retained",
+      "coastal_positions": "No63 egg-hunt switch/release inherited; other offstage positions not fabricated",
+      "reconciliation": "continuity/episodes/E63/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
+      "original65_outcomes_preserved": true
+    }
   },
   "latest_comedy_core_R9": {
     "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
@@ -2080,64 +2094,35 @@
   },
   "active_revision_request": {
     "episode_span": [
-      63
+      64,
+      65
     ],
-    "dependent_departure_episode": 62,
-    "original": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
-    "brief": "continuity/editorial/E63_First_Revision_Comedy_Action_And_Rap_Ideas_20261023.md",
-    "status": "SEVEN_POINT_DIRECTION_AUTHOR_SELECTED_WITH_R11_ADDITIONS; RESEARCH_AND_NEW_OPTIONS_SAVED; REPLACEMENT_NOT_WRITTEN",
-    "change_id": "S7NS_REVISION_CONFIRMATION_FORCE_LOYALTY_R11_20261023",
-    "play_authorized": false,
-    "author_scope": "Seven items confirmed; real Brian Force lesson reveals rare potential (exact power open); remove Jesus/Easter; Chris negotiates and Billy protects him if bullied; approved new rap awaits author lyric edits; apply project voice now",
-    "deferred_revision": {
+    "original": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+    "brief": "continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md",
+    "status": "REVISED64_PREPARED_PENDING_DELIVERY; REVISED65_UNWRITTEN",
+    "play_authorized_episode_span": [
+      64
+    ],
+    "play_authorized": true,
+    "prepared_replacement": {
+      "change_id": "S7NS_E64_A_LITTLE_FEELING_R21_PLAY_20261024",
       "episode_span": [
-        64,
-        65
+        64
       ],
-      "original": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
-      "review": "continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md",
-      "status": "SOURCE_COMPARISON_AND_FOUR_CHARACTER_RESEARCH_COMPLETE_REPLACEMENT_NOT_WRITTEN",
-      "play_authorized": false,
-      "author_scope": "R9 applies to revised64–65; nextnew66 separate",
-      "research": "research/StarWars_E64_E65_Speech_Behavior_Fidelity_20261023.md",
-      "review_change_id": "S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023",
-      "research_status": "FOCUSED_PRIMARY_TEXT_SPEECH_AND_BEHAVIOR_PASS_COMPLETE; REPLACEMENT_APPLICATION_PENDING",
-      "source_review_service_readback": {
-        "change_id": "S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023",
-        "github": {
-          "status": "READBACK_EXACT",
-          "research_blob_sha1": "76482f885810f8029ca921d11599c6191e769eee",
-          "review_blob_sha1": "78100319a0faf268be0293fd7a2d233cdc9b4d85",
-          "author_blob_sha1": "eb4e9a0a2320cc504fac462b4ec1e21f8fb870e1"
-        },
-        "airtable": {
-          "status": "READBACK_EXACT_AFFECTED_SCOPE",
-          "base_id": "appKCCr9zg0rsfbOI",
-          "table_id": "tbl5dFC7den6PyDSw",
-          "record_id": "reccW8tbgjVA9SBfb"
-        },
-        "notion": {
-          "status": "READBACK_CONTENT_VERIFIED_MARKDOWN_ESCAPES_NORMALIZED",
-          "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a"
-        },
-        "drive": {
-          "status": "READBACK_EXACT_TEXT",
-          "file_id": "1NFGd9tfbl7TTGHGvbl5e3qGTnp9P1Bk7"
-        },
-        "original_manuscript_sha256": "8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20",
-        "story_time_advanced": 0,
-        "replacement_written": false,
-        "play_authorized": false
-      }
+      "title": "A Little Feeling",
+      "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "manuscript": "continuity/episodes/E64/S3_E64_A_Little_Feeling_R21_20261024.txt",
+      "checkpoint": "continuity/episodes/E64/S3_E64_A_Little_Feeling_R21_20261024_Checkpoint.json",
+      "receipt": "continuity/episodes/E64/S3_E64_A_Little_Feeling_R21_20261024_Receipt.json",
+      "manuscript_sha256": "a4da9c7f1858cda7cf0e1bf42bbe255d313d3ca6343733a34676edb9fbb195a6",
+      "author_acceptance": "NOT_ASSERTED",
+      "original_preserved": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+      "next_new_episode": 66
     },
-    "downstream_reconciliation": "Check actual63 Jesus/custody/funds and64–65 dependencies only when replacement exists; original history unchanged by brainstorm",
-    "latest_additions": "continuity/editorial/S7NS_R11_Force_Training_Billy_Loyalty_20261023.md",
-    "new_proposals": [
-      "Group portrait replacement for Easter",
-      "Specific limited transport deal and lesson details"
-    ],
-    "latest_author_addition": "continuity/author/S7NS_Reunion_Approval_Trakata_TTS_R13_20261023.md",
-    "training_selection": "AUTHOR_SELECTED_COMPACT_PSYCHOMETRY_FOR_REVISION; NOT_YET_ENACTED"
+    "completed_revision63": "continuity/episodes/E63/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
+    "dependent62": "Original preserved; no replacement62 authorized or needed for delivered63",
+    "training_selection": "Limited psychometry/novice Trakata actually acquired in revised63; no new use in64",
+    "author_scope": "Single64 request; preserve all actual65 outcomes; no66 construction/PLAY"
   },
   "prior_active_revision_before_R10": {
     "episode_span": [
@@ -2214,13 +2199,249 @@
       63
     ],
     "title": "Force-Fed",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "status": "DELIVERED_PROVISIONAL",
     "manuscript": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024.txt",
     "checkpoint": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024_Checkpoint.json",
     "manuscript_sha256": "33a8f5bff8ae51d8d215e5d172a536ba8816b1e8090b8abfaa148a19f9623444",
     "receipt": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024_Receipt.json",
     "author_acceptance": "NOT_ASSERTED",
     "original_preserved": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+    "next_new_episode": 66,
+    "delivery_reconciliation": "continuity/episodes/E63/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json"
+  },
+  "historical_original_actual_after_E63_before_R21": {
+    "candidate_only": false,
+    "elapsed_time": "Several days of Brian crossing/caravan travel; exact day number not fabricated. Sins coastal strand need not share identical clock time.",
+    "locations": {
+      "Brian": "Nearby dunes outside northern Shurima salvage yard, conscious and beginning walk after shove; NOT collapsed/found/woken yet",
+      "Starkiller": "Leaving yard toward northern landing with old contact lead, no return trip completed",
+      "Sins": "Coastal camp; Chris exterior/Billy interior; Meatwad outside for hunt, Charles inside",
+      "TPP": "Submarine at export depot; Jack saber missing, Shake remains aboard pending handling"
+    },
+    "life": {
+      "Daniel": "departed59",
+      "Shake": "deliberately murdered by Brian62; no resurrection",
+      "Frylock": "alive, France per current author",
+      "Keke": "dead; regrowth still gated",
+      "Jesus": "new resurrection63, alive at camp at close; no gang membership"
+    },
+    "funds": {
+      "Sins_common": 2489,
+      "Daniel_separate": 110,
+      "Kaze_personal": 0,
+      "TPP_common": 166,
+      "TPP_separate_receipt": 5,
+      "Brian_cash": "No new fixed balance; passage/provisions earned through shown work"
+    },
+    "custody": {
+      "Clifford_saber": "Brian; same single theft used for murder, carried through travel/audition/shove",
+      "journal": "Brian; complete authored rap, signed positive endorsement by Starkiller, Shake encouraging note with torn corner",
+      "research": "Brian surviving sheets; torn Dutch page provenance exposed",
+      "Busta_poster": "Brian, folded; breakup remains64 future",
+      "headset_console": "both original equipment inside Billy; safe fishing completed; Chris campaign untouched, no whole-game completion",
+      "Daniel_spear": "Kaze custody stored inside Billy; no transfer",
+      "cross_and_crown": "Chris keeps originals inside Billy; not returned. Nails uninspected; church replica separate",
+      "water": "Brian container ruptured on landing; remaining supplies not magically replenished",
+      "cargo": "same as61 excluding no further sales; no chests opened"
+    },
+    "operation": "Fourth instrument stolen, all delivered Sella. Launch deduction30 and spirit balance30 settled; signal tower down; patrol obstructed. Merrit released alive with knowledge.",
+    "injuries": "Dutch head wound/headache ongoing, chart obsession escalates; no diagnostic certainty. Brian rough dune landing, no invented catastrophic injury or instant healing.",
+    "knowledge": "Jack links observed death damage, missing saber and departure evidence; tells Sins actual observations, no omniscient eyewitness. Starkiller knows Chris vehicle configuration/old depot contact/intended inland direction only. Jesus learns priest inspection from Chris's spoken remark; Wade has no mystery answers.",
+    "pending": "Desert collapse/discovery/mid-thrust wake/Jabba/Jar Jar64; imitation and Busta breakup not yet occurred; Kratos/Mimir and later strands unchanged"
+  },
+  "historical_original_actual_after_E65_before_R21": {
+    "candidate_only": false,
+    "elapsed": "Brian collapse/recovery day64, then three mornings through65. Coastal events distinct strand, no exact synchronized day-number invention.",
+    "locations": {
+      "Brian": "Walking north from northern Shurima water stop toward landing with Jar Jar and northbound travelers; not at landing or Kratos/Mimir yet",
+      "Jar_Jar": "Same route, independent objective to seek homeward information",
+      "Jabba": "Water stop; no palace, fleet or newly acquired saber",
+      "Dr_Evil": "Damaged demonstration shelter at coastal export-depot berth",
+      "Baldur": "Left shelter on foot by nearby road; destination unresolved",
+      "Shang_Tsung": "Dead, body at shelter's stone foundation",
+      "others": "Last observed63 positions retained as last observed, no assertion time freezes offstage"
+    },
+    "custody": {
+      "saber": "Same stolen Clifford laser saber, retained Brian; controlled iron-cutting demonstration only",
+      "journal": "Brian; Starkiller signature intact; Jar Jar insult crossed out, replacement crossed out; new fame notes; Shake encouraging note retained",
+      "poster": "Original Busta poster kissed and burned64, no replacement",
+      "Brian_coins": "Three silver received from Jabba, retained; previous loose cash unspecified",
+      "supplies": "Brian and Jar Jar carry actual provisions for next walk; no unlimited replenishment",
+      "Baldur_purse": "Paid to Shang, then Evil took from corpse and returned it to Baldur; amount uncounted",
+      "TPP_funds": "Prior166+separate5 baseline. New service receipts, venue arrangement and damage unquantified; do not assert exact new total",
+      "other_funds": "Sins2489,Daniel110 separate,Kaze0 unchanged by narrated events"
+    },
+    "life": {
+      "Shake": "Remains dead",
+      "Shang_Tsung": "Killed65 by Baldur skull impacts; compact fatal selection resolved",
+      "Baldur": "Alive; intact enchantment, no sensation restored",
+      "Brian": "Alive, gradual recovery with food/water/rest; no new powers or talent theft"
+    },
+    "knowledge": {
+      "Jabba": "Brian directly identifies Dr Evil, submarine and old coastal depot; no murder knowledge",
+      "Jar_Jar": "Knows Brian musical/status claims, old landing route, former collaborator; no murder knowledge, no demonstrated reading of covered insult",
+      "Baldur": "Saw minor treatment success; experienced failed trial; heard sales reframing; no new mistletoe/future lore",
+      "Dr_Evil": "Witnesses trial, failure and killing; no omniscient Brian whereabouts",
+      "others": "No report to Sins/Kratos/Mimir yet"
+    },
+    "developments": [
+      "Adult local imitation spreads across actual days; Brian calls it fandom and disrupts activity attempting credit/control",
+      "Brian briefly collaborates rhythmically then derails it for personal billing",
+      "Brian learns small piece of Shake's cadence through practice and falsely claims original credit",
+      "Shang's independent treatment business ends in fatal confrontation; any future ordinary live Shang conflict displaced"
+    ],
+    "pending": "Starkiller actual return/Chris vehicle; actual Brian route toward Kratos/Mimir; any report of Baldur requires carrier; remaining66–69 unwritten."
+  },
+  "revised_E63_R21_delivery": {
+    "change_id": "S7NS_E63_R21_CHAT_DELIVERY_RECONCILIATION_20261024",
+    "episode": 63,
+    "title": "Force-Fed",
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024.txt",
+    "manuscript_sha256": "33a8f5bff8ae51d8d215e5d172a536ba8816b1e8090b8abfaa148a19f9623444",
+    "frozen_preparation_checkpoint": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024_Checkpoint.json",
+    "evidence": "Immediately preceding assistant final visibly delivered complete revised63 from its title to the caravan-rut departure; user now requests play ep64. This is delivery evidence, not author acceptance or a machine-exported chat byte comparison. Saved manuscript/Drive copy verified.",
+    "actual_latest_chronological_episode_preserved": 65,
+    "next_new_episode": 66,
+    "reconciled_delta": {
+      "candidate_only": false,
+      "effective_only_after": "Complete actual63 delivery observed in preceding turn",
+      "episode": 63,
+      "Brian": "Conscious, walking on caravan ruts around the dune near the northern Shurima salvage yard; no collapse or Jabba/Jar Jar meeting yet",
+      "Starkiller": "Walking north toward the landing; has actual old coastal lead and Brian's vehicle sketch/map; no arrival at Chris or vehicle transfer",
+      "skills": {
+        "psychometry": "First involuntary object sound/emotion echo, locally seeded handle event; limited repeat emotional impression, not reliable playback, mind reading, combat download or telekinesis mastery",
+        "Trakata": "One controlled static-target success after correction; novice timing, distance and loss-of-guard lesson; no mastery or guaranteed bypass"
+      },
+      "injuries": "Brian sore wrist from disarm and shoulder/body from dune landing; no fracture depicted, no instant healing; original downstream dehydration remains reachable",
+      "custody": {
+        "Clifford_actual_saber": "Brian; one theft in62 retained; hilt intact",
+        "journal": "Brian; full original FORCE-FED, signed To B. Moo / I loved the wordplay, audience note, Shake note retained",
+        "poster": "Brian, unburned;64 breakup remains subsequent",
+        "water": "Container ruptured against stone during shove; contents lost; no replenishment",
+        "map_and_sketch": "Starkiller; supplied voluntarily after the agreed performance, feedback, actual lesson and requested signature"
+      },
+      "knowledge": "Brian hears narrow echo Not back there, cannot infer its destination/hidden history. Starkiller knows Brian has a rare limited object-echo response and novice saber instruction; no automatic Shake-murder knowledge. Wade narrates seeded current action and known history only; Brian cannot hear him.",
+      "preserved62": "Original deliberate Shake murder, collaboration motive, single saber theft, departure, safe Jack fishing and actual report remain; no62 manuscript rewritten",
+      "easter_removal": {
+        "status": "APPLIED_IN_THIS_REVISION_CANDIDATE",
+        "Jesus": "No new63 resurrection or camp entrance; earlier Jesus history preserved. Original63 remains immutable history of prior delivered cut.",
+        "relics": "Existing cross/crown custody unchanged; no new request, transfer or inspection",
+        "Sins_common_purse": 2491,
+        "reason": "Original62 balance2491; original63 two-silver Easter purchase omitted. No new expenditure in this63 revision."
+      },
+      "unchanged_other_funds": {
+        "Daniel_separate": 110,
+        "Kaze_personal": 0,
+        "TPP_common": 166,
+        "TPP_separate_receipt": 5
+      },
+      "coastal_staging": "No new household switch or Meatwad exterior egg-hunt release; preserve last actual pre-Easter positions. Brief Kaze gossip quote retained; no fabricated domestic replacement.",
+      "post65_dependency_projection": {
+        "original65_manuscript_unchanged": true,
+        "Shang_Tsung": "Remains killed by Baldur65; no living restoration",
+        "Brian_JarJar_Jabba_poster_outcomes": "Preserved",
+        "required_future_reconciliation": [
+          "Carry limited psychometry/novice Trakata acquisition into revised64–65 checkpoints without adding unperformed use",
+          "Carry revised Sins purse2491 rather than old2489",
+          "Remove original63 resurrection/camp-presence inheritance; preserve earlier Jesus history",
+          "Preserve Brian original65 present location and nextNEW66; do not rewind current delivery cursor to63"
+        ]
+      }
+    },
+    "originals_preserved": true
+  },
+  "preserved_prior_episode_records": [
+    {
+      "episode": 63,
+      "title": "A Better Picture",
+      "feature_span": [
+        62,
+        63
+      ],
+      "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+      "manuscript_sha256": "f6b0a1b4d5234c1d15f260eca7be622fcebb7f962b1de5a74cd888a9bc304ea7",
+      "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "delivery_reconciliation": "continuity/features/E62_E63/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+      "author_acceptance": "NOT_ASSERTED"
+    }
+  ],
+  "prepared_E64_A_Little_Feeling_R21_20261024": {
+    "change_id": "S7NS_E64_A_LITTLE_FEELING_R21_PLAY_20261024",
+    "episode_span": [
+      64
+    ],
+    "title": "A Little Feeling",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "manuscript": "continuity/episodes/E64/S3_E64_A_Little_Feeling_R21_20261024.txt",
+    "checkpoint": "continuity/episodes/E64/S3_E64_A_Little_Feeling_R21_20261024_Checkpoint.json",
+    "receipt": "continuity/episodes/E64/S3_E64_A_Little_Feeling_R21_20261024_Receipt.json",
+    "manuscript_sha256": "a4da9c7f1858cda7cf0e1bf42bbe255d313d3ca6343733a34676edb9fbb195a6",
+    "author_acceptance": "NOT_ASSERTED",
+    "original_preserved": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
     "next_new_episode": 66
+  },
+  "prior_active_revision_request_before_E64_R21": {
+    "episode_span": [
+      63
+    ],
+    "dependent_departure_episode": 62,
+    "original": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+    "brief": "continuity/editorial/E63_First_Revision_Comedy_Action_And_Rap_Ideas_20261023.md",
+    "status": "SEVEN_POINT_DIRECTION_AUTHOR_SELECTED_WITH_R11_ADDITIONS; RESEARCH_AND_NEW_OPTIONS_SAVED; REPLACEMENT_NOT_WRITTEN",
+    "change_id": "S7NS_REVISION_CONFIRMATION_FORCE_LOYALTY_R11_20261023",
+    "play_authorized": false,
+    "author_scope": "Seven items confirmed; real Brian Force lesson reveals rare potential (exact power open); remove Jesus/Easter; Chris negotiates and Billy protects him if bullied; approved new rap awaits author lyric edits; apply project voice now",
+    "deferred_revision": {
+      "episode_span": [
+        64,
+        65
+      ],
+      "original": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+      "review": "continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md",
+      "status": "SOURCE_COMPARISON_AND_FOUR_CHARACTER_RESEARCH_COMPLETE_REPLACEMENT_NOT_WRITTEN",
+      "play_authorized": false,
+      "author_scope": "R9 applies to revised64–65; nextnew66 separate",
+      "research": "research/StarWars_E64_E65_Speech_Behavior_Fidelity_20261023.md",
+      "review_change_id": "S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023",
+      "research_status": "FOCUSED_PRIMARY_TEXT_SPEECH_AND_BEHAVIOR_PASS_COMPLETE; REPLACEMENT_APPLICATION_PENDING",
+      "source_review_service_readback": {
+        "change_id": "S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023",
+        "github": {
+          "status": "READBACK_EXACT",
+          "research_blob_sha1": "76482f885810f8029ca921d11599c6191e769eee",
+          "review_blob_sha1": "78100319a0faf268be0293fd7a2d233cdc9b4d85",
+          "author_blob_sha1": "eb4e9a0a2320cc504fac462b4ec1e21f8fb870e1"
+        },
+        "airtable": {
+          "status": "READBACK_EXACT_AFFECTED_SCOPE",
+          "base_id": "appKCCr9zg0rsfbOI",
+          "table_id": "tbl5dFC7den6PyDSw",
+          "record_id": "reccW8tbgjVA9SBfb"
+        },
+        "notion": {
+          "status": "READBACK_CONTENT_VERIFIED_MARKDOWN_ESCAPES_NORMALIZED",
+          "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a"
+        },
+        "drive": {
+          "status": "READBACK_EXACT_TEXT",
+          "file_id": "1NFGd9tfbl7TTGHGvbl5e3qGTnp9P1Bk7"
+        },
+        "original_manuscript_sha256": "8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20",
+        "story_time_advanced": 0,
+        "replacement_written": false,
+        "play_authorized": false
+      }
+    },
+    "downstream_reconciliation": "Check actual63 Jesus/custody/funds and64–65 dependencies only when replacement exists; original history unchanged by brainstorm",
+    "latest_additions": "continuity/editorial/S7NS_R11_Force_Training_Billy_Loyalty_20261023.md",
+    "new_proposals": [
+      "Group portrait replacement for Easter",
+      "Specific limited transport deal and lesson details"
+    ],
+    "latest_author_addition": "continuity/author/S7NS_Reunion_Approval_Trakata_TTS_R13_20261023.md",
+    "training_selection": "AUTHOR_SELECTED_COMPACT_PSYCHOMETRY_FOR_REVISION; NOT_YET_ENACTED"
   }
 }
