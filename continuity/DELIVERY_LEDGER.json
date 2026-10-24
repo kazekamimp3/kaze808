@@ -1552,7 +1552,22 @@
     "concurrent_preparation_note": "Fresh control files also contain an undelivered Family Business candidate from another preparation. Preserve that record and its artifacts. This chat selects Still Family; no claim is made that another candidate was played or accepted."
   },
   "current_prepared_episode_count": 2,
-  "selected_prepared_response": null,
+  "selected_prepared_response": {
+    "episode_span": [
+      64,
+      65
+    ],
+    "title": "A Little Feeling",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "manuscript": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+    "manuscript_sha256": "8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20",
+    "checkpoint": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024_Checkpoint.json",
+    "drive_manuscript_id": "1tq994IA13fdwaMuwvsyBpuqL_qZZI8-y",
+    "drive_checkpoint_id": "1uIPWwajYZzlgRZRPoZR_FLgx9AEieSac",
+    "played": false,
+    "author_acceptance": "NOT_ASSERTED",
+    "revision_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+  },
   "continuation_authorization": {
     "status": "DRAFT_GENERATION_AUTHORIZED_PLAY_HELD",
     "authorized_episode_span": [
@@ -1594,12 +1609,19 @@
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY.",
     "current_play_exception": [
-      62,
-      63
+      64,
+      65
     ]
   },
   "playback_hold": true,
-  "current_playback_request": null,
+  "current_playback_request": {
+    "episode_span": [
+      64,
+      65
+    ],
+    "status": "AUTHORIZED_PREPARED_PENDING_CHAT",
+    "repeat_requests": "Same pending pair, not new additional spans"
+  },
   "prepared_draft_features_60_69": [
     {
       "episode_span": [
@@ -1634,13 +1656,25 @@
       "author_acceptance": "NOT_ASSERTED",
       "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md",
       "delivery_reconciliation": "continuity/features/E62_E63/CHAT_DELIVERY_RECONCILIATION_20261023.json"
+    },
+    {
+      "episode_span": [
+        64,
+        65
+      ],
+      "title": "A Little Feeling",
+      "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "manuscript": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+      "manuscript_sha256": "8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20",
+      "checkpoint": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024_Checkpoint.json",
+      "drive_manuscript_id": "1tq994IA13fdwaMuwvsyBpuqL_qZZI8-y",
+      "drive_checkpoint_id": "1uIPWwajYZzlgRZRPoZR_FLgx9AEieSac",
+      "played": false,
+      "author_acceptance": "NOT_ASSERTED",
+      "revision_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
     }
   ],
   "pending_draft_pairs": [
-    [
-      64,
-      65
-    ],
     [
       66,
       67
@@ -1963,5 +1997,23 @@
     "future_drafts": "64–69 pending; apply R8 before use"
   },
   "latest_direct_author_scope": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
-  "story_days_advanced_by_work": 0
+  "story_days_advanced_by_work": 0,
+  "prepared_E64_E65_A_Little_Feeling_R8": {
+    "episode_span": [
+      64,
+      65
+    ],
+    "title": "A Little Feeling",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "manuscript": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+    "manuscript_sha256": "8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20",
+    "checkpoint": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024_Checkpoint.json",
+    "drive_manuscript_id": "1tq994IA13fdwaMuwvsyBpuqL_qZZI8-y",
+    "drive_checkpoint_id": "1uIPWwajYZzlgRZRPoZR_FLgx9AEieSac",
+    "played": false,
+    "author_acceptance": "NOT_ASSERTED",
+    "revision_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+  },
+  "next_after_prepared_feature": 66,
+  "work_status": "E64_E65_SAVED_REVIEWED_AUTHORIZED_FOR_CHAT; actual63 retained until delivery reconciliation"
 }
