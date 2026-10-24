@@ -2,8 +2,8 @@
   "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
-  "current_delivered_episode": 61,
-  "next_episode": 62,
+  "current_delivered_episode": 63,
+  "next_episode": 64,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -696,6 +696,34 @@
       "delivery_reconciliation": "continuity/features/E60_E61/CHAT_DELIVERY_RECONCILIATION_20261023.json",
       "author_acceptance": "NOT_ASSERTED",
       "chat_byte_identity": "Full response available in conversation; no machine-export byte comparison claimed"
+    },
+    {
+      "episode": 62,
+      "title": "A Better Picture",
+      "feature_span": [
+        62,
+        63
+      ],
+      "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+      "manuscript_sha256": "f6b0a1b4d5234c1d15f260eca7be622fcebb7f962b1de5a74cd888a9bc304ea7",
+      "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "delivery_reconciliation": "continuity/features/E62_E63/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+      "author_acceptance": "NOT_ASSERTED"
+    },
+    {
+      "episode": 63,
+      "title": "A Better Picture",
+      "feature_span": [
+        62,
+        63
+      ],
+      "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+      "manuscript_sha256": "f6b0a1b4d5234c1d15f260eca7be622fcebb7f962b1de5a74cd888a9bc304ea7",
+      "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "delivery_reconciliation": "continuity/features/E62_E63/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+      "author_acceptance": "NOT_ASSERTED"
     }
   ],
   "prepared_episode": {
@@ -718,10 +746,7 @@
     "played": false,
     "pre_R7_status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED"
   },
-  "playback_control": {
-    "hold": true,
-    "scope": "No newPLAY; R7 outline only. Preserve prior draft-only generation scope; do not send incompatible R6 drafts."
-  },
+  "playback_control": "HELD: no PLAY until new explicit author request",
   "latest_scoped_author": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
   "current_author_configuration": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
   "original_manuscripts_or_checkpoints_rewritten": false,
@@ -770,7 +795,7 @@
     "original_r8_source_unchanged": true
   },
   "latest_Arthur_weapon_policy_author": "continuity/author/S7NS_R6_Arthur_HIGH_NOON_SawedOff_THE_COUNT_Marksman_20261019.md",
-  "delivery_status": "DELIVERED_PROVISIONAL_THROUGH_61; E62_E63_AUTHORIZED_PREPARED_PENDING_CHAT",
+  "delivery_status": "DELIVERED_PROVISIONAL",
   "default_PLAY_episode_count": 2,
   "default_PLAY_format": "TWO_CONSECUTIVE_EPISODES_ONE_SEAMLESS_FEATURE_UNLESS_OVERRIDDEN",
   "default_PLAY_format_owner": "canon/presentation/S7NS_Two_Episode_Seamless_Feature_PLAY_Default_20261020.md",
@@ -781,9 +806,9 @@
     ],
     "status": "R7_OUTLINED; OLD_R6_DRAFT_REVISION_REQUIRED_BEFORE_DELIVERY"
   },
-  "next_episode_authorized": "DRAFT ONLY; noPLAY",
+  "next_episode_authorized": false,
   "last_reconciliation_id": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
-  "latest_post_delivery_editorial_owner": "continuity/author/S7NS_E36_E38_Two_Threads_Billy_Oneup_R2_20261021.md",
+  "latest_post_delivery_editorial_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
   "episode_count_unchanged": true,
   "prepared_same_span_revision_20261021": {
@@ -1096,7 +1121,7 @@
     "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid.",
     "delivery_reconciliation": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
-  "latest_chat_delivered_episode": 61,
+  "latest_chat_delivered_episode": 63,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -1301,7 +1326,7 @@
   },
   "episode52_authorized": true,
   "preparation_rule": "Episode59 prepared only; render exact reviewed text, reconcile actual delivery next interaction; no author acceptance inferred.",
-  "last_delivered_episode": 61,
+  "last_delivered_episode": 63,
   "prepared_E51_Fetch_R2_20261022": {
     "change_id": "S7NS_E51_FETCH_JESUS_RECOGNITION_R2_20261022",
     "episode_span": [
@@ -1527,22 +1552,7 @@
     "concurrent_preparation_note": "Fresh control files also contain an undelivered Family Business candidate from another preparation. Preserve that record and its artifacts. This chat selects Still Family; no claim is made that another candidate was played or accepted."
   },
   "current_prepared_episode_count": 2,
-  "selected_prepared_response": {
-    "episode_span": [
-      62,
-      63
-    ],
-    "title": "A Better Picture",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
-    "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
-    "manuscript_sha256": "f6b0a1b4d5234c1d15f260eca7be622fcebb7f962b1de5a74cd888a9bc304ea7",
-    "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
-    "drive_manuscript_id": "1LYxv6-kjaDo4FYQAWhDKdRTE7Qp8rKjS",
-    "drive_checkpoint_id": "1Sk7FUeovMzPnCCqoNUpigZKOpY1ykiaF",
-    "played": false,
-    "author_acceptance": "NOT_ASSERTED",
-    "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md"
-  },
+  "selected_prepared_response": null,
   "continuation_authorization": {
     "status": "DRAFT_GENERATION_AUTHORIZED_PLAY_HELD",
     "authorized_episode_span": [
@@ -1588,16 +1598,8 @@
       63
     ]
   },
-  "playback_hold": "Lifted for Episodes62–63 by current request; later episodes remain held.",
-  "current_playback_request": {
-    "episode_span": [
-      62,
-      63
-    ],
-    "authorization": "Latest direct user: play Episodes 62-63.",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
-    "author_acceptance": "NOT_ASSERTED"
-  },
+  "playback_hold": true,
+  "current_playback_request": null,
   "prepared_draft_features_60_69": [
     {
       "episode_span": [
@@ -1622,15 +1624,16 @@
         63
       ],
       "title": "A Better Picture",
-      "status": "REVISED_DRAFT_REVIEWED_NOT_PLAYED",
+      "status": "DELIVERED_PROVISIONAL",
       "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
       "manuscript_sha256": "f6b0a1b4d5234c1d15f260eca7be622fcebb7f962b1de5a74cd888a9bc304ea7",
       "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
       "drive_manuscript_id": "1LYxv6-kjaDo4FYQAWhDKdRTE7Qp8rKjS",
       "drive_checkpoint_id": "1Sk7FUeovMzPnCCqoNUpigZKOpY1ykiaF",
-      "played": false,
+      "played": true,
       "author_acceptance": "NOT_ASSERTED",
-      "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md"
+      "revision_owner": "continuity/work/S7NS_E60_E63_Draft_Rebuild_R7_20261023.md",
+      "delivery_reconciliation": "continuity/features/E62_E63/CHAT_DELIVERY_RECONCILIATION_20261023.json"
     }
   ],
   "pending_draft_pairs": [
@@ -1647,10 +1650,10 @@
       69
     ]
   ],
-  "delivery_reconciliation": "continuity/features/E60_E61/CHAT_DELIVERY_RECONCILIATION_20261023.json",
-  "manuscript": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023.txt",
-  "manuscript_sha256": "d417bd2d56b4ccbc52ecab49df4d8c6453b47cdebc27912a2c35e4724d98d1f2",
-  "checkpoint": "continuity/features/E60_E61/S3_E60_E61_Customer_Service_R7_DRAFT_20261023_Checkpoint.json",
+  "delivery_reconciliation": "continuity/features/E62_E63/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+  "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+  "manuscript_sha256": "f6b0a1b4d5234c1d15f260eca7be622fcebb7f962b1de5a74cd888a9bc304ea7",
+  "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
   "current_actual_after_E59": {
     "day": 22,
     "time": "evening, no overnight elapsed",
@@ -1875,11 +1878,11 @@
     "runtime": "Approx23–25 minutes/unit at150wpm; estimates only, below25 target in several units; no measured audio or runtime lock",
     "all_season_audit": "unfinished"
   },
-  "manuscript_git_blob_sha1": "093f6c856cb9a700b12ce5d54ddfb57d190ea577",
+  "manuscript_git_blob_sha1": "d303db347c5ed1d30fc58ff913ebbaf376a321e2",
   "checkpoint_sha256": null,
-  "checkpoint_git_blob_sha1": "f925784f1ab9795acb7f5674d3a6dd9a657ae6e2",
-  "state_owner": "continuity/features/E60_E61/CHAT_DELIVERY_RECONCILIATION_20261023.json",
-  "state_rule": "Actual61 endpoint is in current_actual_after_E61 and delivery receipt. E62–63 candidate checkpoint is not actual until completed chat is reconciled.",
+  "checkpoint_git_blob_sha1": "da8e96ecb994385ab8f41ac12af64f0f0608cc32",
+  "state_owner": "continuity/features/E62_E63/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+  "state_rule": "Actual delivered state through63; original candidate checkpoint preserved. R8 controls future execution. No PLAY until explicit request.",
   "current_actual_after_E61": {
     "candidate_only": false,
     "day": 24,
@@ -1912,5 +1915,53 @@
     "shots": "Arthur3 in60; Dutch1 and Jack1 in61; no exact reserve invented",
     "pressure": "Money wagon escaped; recognition and closure deny freight/cargo options. Exhibition fire, theft and broken pier; witnesses retain faces/ship.",
     "knowledge": "Sins recognize Tai Lung as Daniel killer from actual51; no new confession. Brian hears Arthur intended inland route; no current remote coordinates."
-  }
+  },
+  "current_actual_after_E63": {
+    "candidate_only": false,
+    "elapsed_time": "Several days of Brian crossing/caravan travel; exact day number not fabricated. Sins coastal strand need not share identical clock time.",
+    "locations": {
+      "Brian": "Nearby dunes outside northern Shurima salvage yard, conscious and beginning walk after shove; NOT collapsed/found/woken yet",
+      "Starkiller": "Leaving yard toward northern landing with old contact lead, no return trip completed",
+      "Sins": "Coastal camp; Chris exterior/Billy interior; Meatwad outside for hunt, Charles inside",
+      "TPP": "Submarine at export depot; Jack saber missing, Shake remains aboard pending handling"
+    },
+    "life": {
+      "Daniel": "departed59",
+      "Shake": "deliberately murdered by Brian62; no resurrection",
+      "Frylock": "alive, France per current author",
+      "Keke": "dead; regrowth still gated",
+      "Jesus": "new resurrection63, alive at camp at close; no gang membership"
+    },
+    "funds": {
+      "Sins_common": 2489,
+      "Daniel_separate": 110,
+      "Kaze_personal": 0,
+      "TPP_common": 166,
+      "TPP_separate_receipt": 5,
+      "Brian_cash": "No new fixed balance; passage/provisions earned through shown work"
+    },
+    "custody": {
+      "Clifford_saber": "Brian; same single theft used for murder, carried through travel/audition/shove",
+      "journal": "Brian; complete authored rap, signed positive endorsement by Starkiller, Shake encouraging note with torn corner",
+      "research": "Brian surviving sheets; torn Dutch page provenance exposed",
+      "Busta_poster": "Brian, folded; breakup remains64 future",
+      "headset_console": "both original equipment inside Billy; safe fishing completed; Chris campaign untouched, no whole-game completion",
+      "Daniel_spear": "Kaze custody stored inside Billy; no transfer",
+      "cross_and_crown": "Chris keeps originals inside Billy; not returned. Nails uninspected; church replica separate",
+      "water": "Brian container ruptured on landing; remaining supplies not magically replenished",
+      "cargo": "same as61 excluding no further sales; no chests opened"
+    },
+    "operation": "Fourth instrument stolen, all delivered Sella. Launch deduction30 and spirit balance30 settled; signal tower down; patrol obstructed. Merrit released alive with knowledge.",
+    "injuries": "Dutch head wound/headache ongoing, chart obsession escalates; no diagnostic certainty. Brian rough dune landing, no invented catastrophic injury or instant healing.",
+    "knowledge": "Jack links observed death damage, missing saber and departure evidence; tells Sins actual observations, no omniscient eyewitness. Starkiller knows Chris vehicle configuration/old depot contact/intended inland direction only. Jesus learns priest inspection from Chris's spoken remark; Wade has no mystery answers.",
+    "pending": "Desert collapse/discovery/mid-thrust wake/Jabba/Jar Jar64; imitation and Busta breakup not yet occurred; Kratos/Mimir and later strands unchanged"
+  },
+  "play_authorized": false,
+  "latest_cast_focus_R8": {
+    "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+    "status": "AUTHOR_SELECTED_WORK_ONLY",
+    "future_drafts": "64–69 pending; apply R8 before use"
+  },
+  "latest_direct_author_scope": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+  "story_days_advanced_by_work": 0
 }
