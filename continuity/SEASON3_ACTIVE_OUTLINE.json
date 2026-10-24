@@ -4,10 +4,10 @@
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "status": "AUTHOR_SELECTED_CONDENSED_R7; E59_FAMILY_BUSINESS_DELIVERED_PROVISIONAL; NO_PLAY_FROM_THIS_UPDATE",
   "current_control": {
-    "last_delivered_episode": 63,
+    "last_delivered_episode": 65,
     "delivery_status": "DELIVERED_PROVISIONAL",
     "author_acceptance": "NOT_ASSERTED",
-    "next_episode": 64,
+    "next_episode": 66,
     "prepared_episode": null,
     "playback_hold": true,
     "next_episode_authorized": false,
@@ -17,7 +17,7 @@
     "ensemble_paused": false,
     "final_episode_quota": null
   },
-  "state_owner": "continuity/features/E62_E63/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+  "state_owner": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json",
   "current_actual_after_E58": {
     "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
     "Sins": "Kaze, Chris exterior/Billy inside, Arthur, Daynah baseline, Mahnah baseline, Daniel at dry shelf on inland route late Day22. No capital arrival. Charles/Meatwad/Shake inside Billy; Frylock alive separate with whereabouts unknown. Keke not returned.",
@@ -54,8 +54,8 @@
   "humor_application": "| Source influence | Use in this season | Avoid |\n|---|---|---|\n| Kaze's original Chris duels, Billy stories and Brian premises | Committed absurdity, disgusting specific reveals, genre betrayal, tiny grievances with enormous consequences; the impossible event leaves real history | Replaying Hawking, Bob, Jesus, conjoining, the mirror or the chair as new first-time reveals |\n| Rick and Morty | Impressive competence weaponized for embarrassing personal reasons; an attempted correction makes the problem change; costly demonstrations of being technically right | Mandatory disaster, generic nihilism, Rick gadgets granted to other people |\n| Trover Saves the Universe | People argue from bizarre but internally understandable priorities; objections and interruptions redirect the situation; hideous surroundings treated casually | Endless improvisation, interchangeable profanity, random nouns posing as jokes |\n| Aqua Teen Hunger Force | Domestic grudges, selfish ownership claims, literal misunderstandings, inventive sabotage, sudden grotesque anticlimax | Harmless household sketches, a perpetually responsible Chris, treating Meatwad as incapable of counterplay |\n| Step Brothers / Prestige Worldwide | TPP treats its self-created prestige as already real; extravagant presentation threatens a viable criminal scheme | Turning every TPP scene into an incompetent pitch meeting |\n| Anchorman | Crew identity, territorial vanity and disproportionate rivalry become physical events; they can fight competently while arguing about ridiculous stakes | A compulsory roll call, copied alley fight or new gang cameo parade |\n| Austin Powers / Dr. Evil | Elaborate villainous self-presentation meets a precise practical objection; petty authority and real menace coexist | Generic sarcastic boss, automatic immediate punchline after every meaningful exchange |\n| Spaceballs | An impressive threat is punctured by an ordinary physical or social fact, fairly staged | Repeating Clifford's surgery/Vader discovery or granting him Force powers |\n| South Park: Coon & Friends and Stick of Truth | Selfish brand politics and enormous sincere investment in shabby symbols; vile actions defended as organizational duty | Reintroducing dead children or treating the influence as imported powers |\n| Surf's Up, The Office US, Trailer Park Boys | Inside Job's observed behavior, defensive interviews, credit disputes, awkward silences, genuine shared enjoyment | Assigning Trailer Park Boys as TPP's primary voice or using interviews to explain every joke |\n| Jackass, selected directly in this conversation | Deliberate group participation, anticipation, physical consequence, camera complicity and victims' retaliation | Repeating the same prank, harmless resets, or treating all accidents as secretly intentional |\n| Chris's Theo Von and Filthy Frank influences | Sincere sideways associations, bodily disgust, grotesque specificity, culinary expertise and intrusive recollection | Theo biography or a copied performer impression; making Chris the patient dad |\n| Daniel's Pete Davidson, Dan Cummins and Jo Koy influences | Self-implication, elaborate absurd reasoning, embodied family observations, jokes in terrible circumstances | Only ice puns, automatic amnesia, or making him the gang's moral supervisor |\n| Billy's Tahm Kench / Primus / Uncle Rico strands | Predatory hospitality, tactile grotesquerie, committed personal history and glory-days interruption | A generic ancient lore terminal or silent transport container |\n| Brian's supplied public-post language | One small task becomes an imaginary broadcast event: ellipses, adjacent puns, old-school music vocabulary, invented audience, self-review | Only short jokes about height, copying private messages, or losing his actual audio competence |\n| Deadpool with the selected Rick rhetorical influence | Wade conspires with listeners, produces revoltingly precise comparisons, argues, self-corrects and exposes his own vanity | Narrating the continuity checklist, omniscient answers, giving every speaker Wade's rhythm |\n\nThese are working mechanisms, not quotas, copied routines or demands for constant comedy. Horror, restraint, genuine affection, ordinary success and a decisive unfunny death can make the surrounding humor more effective.",
   "next_pair": {
     "episodes": [
-      64,
-      65
+      66,
+      67
     ],
     "status": "DRAFT_PENDING_PLAYBACK_HELD",
     "execution_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
@@ -1896,16 +1896,19 @@
     {
       "episode": 64,
       "development": "Continue Brian's actual walk from the63 dune ending. Briefly establish dehydration/collapse, then the selected Jawa/Tusken discovery and waking mid-thrust before Jabba and Jar Jar. Keep the discoverers unnamed; no camp-leader subplot, caravan job, travel interview or extended barter. Brian's survival need, knowledge of the established characters, saber and inflated status claims carry the encounter. A small real benefit stays small; no invented shipping scheme. Jar Jar devotion and concealed lyric insult build to the complete Busta poster breakup. Local imitation begins; wider spread still needs elapsed time. No compulsory Sins cutaway just to check attendance.",
-      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "status": "DELIVERED_PROVISIONAL",
       "placement": "ACTIVE_WORKING_OUTLINE_FULL_DRAFT_PACING_NOT_YET_VALIDATED",
-      "execution_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+      "execution_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+      "delivery_reconciliation": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json"
     },
     {
       "episode": 65,
       "development": "Shang and Baldur's incompatible wants drive the offer, attempted treatment and disastrous response directly. No named broker, paying committee, warehouse job or third-party contract to manufacture access. Preserve real access and character capabilities; no offscreen meeting asserted in WORK. Briefly convey any report toward Kratos/Mimir through an unnamed carrier only when it exists. Brian's adult-camp imitation payoff follows genuine elapsed time and his own attempt to claim influence, not a newly named fan-club organizer. Shang's selected fatal development remains unresolved in method, not a quota death.",
-      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "status": "DELIVERED_PROVISIONAL",
       "placement": "ACTIVE_WORKING_OUTLINE_FULL_DRAFT_PACING_NOT_YET_VALIDATED",
-      "execution_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+      "execution_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+      "delivery_reconciliation": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+      "actual_resolution": "Baldur killed Shang by skull impacts at coast; enchantment remains. Brian/JarJar depart water stop northbound after imitation payoff. Future liveShang actions displaced."
     },
     {
       "episode": 66,
@@ -1966,5 +1969,54 @@
     "author_direction": "Max out my humor; cut your filler; added material must reflect my energy.",
     "application": "Harder character-specific absurdity and escalation; no generic banter, profanity-only substitution, errands or explanatory filler. Preserve full authored setups/payoffs and contrast.",
     "playback_hold": true
+  },
+  "current_actual_after_E65": {
+    "candidate_only": false,
+    "elapsed": "Brian collapse/recovery day64, then three mornings through65. Coastal events distinct strand, no exact synchronized day-number invention.",
+    "locations": {
+      "Brian": "Walking north from northern Shurima water stop toward landing with Jar Jar and northbound travelers; not at landing or Kratos/Mimir yet",
+      "Jar_Jar": "Same route, independent objective to seek homeward information",
+      "Jabba": "Water stop; no palace, fleet or newly acquired saber",
+      "Dr_Evil": "Damaged demonstration shelter at coastal export-depot berth",
+      "Baldur": "Left shelter on foot by nearby road; destination unresolved",
+      "Shang_Tsung": "Dead, body at shelter's stone foundation",
+      "others": "Last observed63 positions retained as last observed, no assertion time freezes offstage"
+    },
+    "custody": {
+      "saber": "Same stolen Clifford laser saber, retained Brian; controlled iron-cutting demonstration only",
+      "journal": "Brian; Starkiller signature intact; Jar Jar insult crossed out, replacement crossed out; new fame notes; Shake encouraging note retained",
+      "poster": "Original Busta poster kissed and burned64, no replacement",
+      "Brian_coins": "Three silver received from Jabba, retained; previous loose cash unspecified",
+      "supplies": "Brian and Jar Jar carry actual provisions for next walk; no unlimited replenishment",
+      "Baldur_purse": "Paid to Shang, then Evil took from corpse and returned it to Baldur; amount uncounted",
+      "TPP_funds": "Prior166+separate5 baseline. New service receipts, venue arrangement and damage unquantified; do not assert exact new total",
+      "other_funds": "Sins2489,Daniel110 separate,Kaze0 unchanged by narrated events"
+    },
+    "life": {
+      "Shake": "Remains dead",
+      "Shang_Tsung": "Killed65 by Baldur skull impacts; compact fatal selection resolved",
+      "Baldur": "Alive; intact enchantment, no sensation restored",
+      "Brian": "Alive, gradual recovery with food/water/rest; no new powers or talent theft"
+    },
+    "knowledge": {
+      "Jabba": "Brian directly identifies Dr Evil, submarine and old coastal depot; no murder knowledge",
+      "Jar_Jar": "Knows Brian musical/status claims, old landing route, former collaborator; no murder knowledge, no demonstrated reading of covered insult",
+      "Baldur": "Saw minor treatment success; experienced failed trial; heard sales reframing; no new mistletoe/future lore",
+      "Dr_Evil": "Witnesses trial, failure and killing; no omniscient Brian whereabouts",
+      "others": "No report to Sins/Kratos/Mimir yet"
+    },
+    "developments": [
+      "Adult local imitation spreads across actual days; Brian calls it fandom and disrupts activity attempting credit/control",
+      "Brian briefly collaborates rhythmically then derails it for personal billing",
+      "Brian learns small piece of Shake's cadence through practice and falsely claims original credit",
+      "Shang's independent treatment business ends in fatal confrontation; any future ordinary live Shang conflict displaced"
+    ],
+    "pending": "Starkiller actual return/Chris vehicle; actual Brian route toward Kratos/Mimir; any report of Baldur requires carrier; remaining66–69 unwritten."
+  },
+  "latest_comedy_core_R9": {
+    "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+    "author_selected": "Original Kaze humor central to every episode; Brian repeats signed lyrics to established characters through actual access; AI filler/voice failure ownership explicit.",
+    "ideas": "PROPOSED only, not scheduled/occurred; source owner contains four options.",
+    "next_construction": "Existing66 Starkiller vehicle and separate Brian route remain; no automatic reunion or audience parade."
   }
 }
