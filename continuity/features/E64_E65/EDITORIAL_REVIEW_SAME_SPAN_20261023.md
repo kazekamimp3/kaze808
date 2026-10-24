@@ -1,0 +1,35 @@
+# A Little Feeling64–65 — full-text editorial review
+Change ID: S7NS_E64_E65_SAME_SPAN_REVIEW_20261023.
+Scope: review the exact64–65 sent, not66–67. NO PLAY. Original manuscript preserved.
+Manuscript: continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt
+SHA256: 8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20
+Evidence: full40587-character manuscript reread in contiguous0–20500/end chunks this review; Drive text matches Git. Earlier full chat also present. No machine-export chat byte comparison claimed.
+Authority: latest direct Kaze correction, R9 standard, R6 raw/TTS lyrics and protected premises, sole Scene Decision Doctrine.
+Status: actual original delivered through65 remains DELIVERED_PROVISIONAL, author acceptance NOT_ASSERTED. Replacement64–65 NOT_WRITTEN by this review. Playback held. Next new episode66 is separate from current revision target64–65.
+
+## Editorial findings — AI execution, not defects in Kaze's raw material
+1. Filler changed costume. Multiple bowl/water exchanges, cup-carrying status dispute, mat placement and reassurance repeat Brian wanting respect and JarJar being kind. Necessary recovery and one meaningful kindness are useful; the accumulation delays the selected encounters and poster payoff. Replace weaker repeated business with comic action from established participants; do not pad elapsed recovery.
+2. The signed rap is largely an inert prop. Its compliment appears at the opening and the JarJar insult is hidden, but Brian never meaningfully performs it for Jabba/JarJar. Latest instruction now explicitly requires recurrence to established characters in the64–65 revision. This was a later author addition, not falsely described as an earlier breached instruction. Original text/meaning stays; listener reaction should change something.
+3. JarJar is too narrowly a patient caregiver. Cups, meals, reassurance and restrained advice dominate. Compassion is appropriate but does not exhaust his distinct personality, clumsiness, resourcefulness, diplomacy, independent homeward purpose or potential comic friction. Do not make him cruel merely to increase intensity.
+4. Jabba is thinly used. His short commands, laughter, modest bargain and cup order often function like a generic intimidating trader. Existing source limits do not require a palace or extra henchmen; sharper leverage, appetite, self-interest and independent choices must make this Jabba encounter worth its cast.
+5. Brian repeatedly uses the same respectable managerial register: “Controlled conditions,” “Going forward,” “establish the basis,” “Sustainability,” “Strong route.” Expertise/status language belongs in his source, but the concentration flattens his DJ associations, compulsive rhyme/explanation, grandiose self-review, ugly reactions and abrupt plain sincerity. Protect deliberate awkwardness in Kaze's authored bars.
+6. The imitation payoff risks changing the original mechanism. Initial delight is right, but loss of color and instant “character work” reframing read as embarrassment management. Kaze selected delusional belief in a real fanbase. Keep the distinction between genuine self-belief and knowing pretense clear. The collective rhythmic collaboration is viable contrast, but the long branding correction sequence makes the gag administrative and returns attention to unnamed performers.
+7. Wade's voice is intermittent; much of the prose is neutral close-third narration with clipped reaction fragments. The poster line explaining “a two-foot man mediating a breakup...” describes the joke just before Kaze's payoff. Other lines explain implications already visible. More purposeful, personally invested Wade narration and fewer explanations are needed; no compulsory interruption of protected performances or emotional scenes.
+8. Formulaic sentence/turn rhythm persists. Claim, mild correction, pause, look, short defensive reply, narrator gloss repeats across food, cup, crowd and sales dialogue. Numerous isolated reaction fragments manufacture pauses without adding escalating meaning. Vary interruption, sustained voice, physical consequence and silence; do not remove all pauses.
+9. Shang/Baldur has a strong actual collision but repetitive middle. Warming liquid, smoking instrument, first skull, larger skull repeatedly deliver “nothing.” Physical escalation is real, but the bargain/exploitation does not change enough between attempts. Condense duplicate testing and strengthen distinct choices. Baldur's honest hope, offered risk and subsequent cruelty can stand. The eventual death was author-selected in principle; superior power winning decisively is not itself a defect, and no invented spell must prolong it.
+10. Evil often supplies mild sitcom buttons—“Usually staffing,” “loading shed with aspirations,” “WE FEEL TERRIBLE”—and repeatedly ducks. A few lines can work, but they cannot carry his full specific vanity, ceremony, opportunism and menace or the desired comic intensity. Preserve the useful refund/body-purse action while rebuilding weaker interjections.
+11. Some action/object staging needs tightening. After the remaining table slab shatters, Shang places the “broken table” between them and Baldur hits “the table” aside; identify actual remaining chunks rather than a visually re-formed table. The cloth-fronted sign's burns, fall and later reversal need a single legible physical state. These are clarity problems, not proof of a new canon power.
+12. Runtime remains below the standing target:3182 and3560 words, about21.2/23.7 minutes at assumed150wpm, not measured audio. There is still removable slack. Replace weak material with developed consequential comedy; do not add procedure to reach duration.
+
+## Preserve while repairing
+- Actual mid-thrust awakening before Jabba/JarJar; brief discoverers remain unnamed adults.
+- Small real saber success and Brian retaining the single stolen hilt, without Force/training.
+- The incompatible JarJar insult and desired signature; preserve original raw lyrics and the authored awkward explanation mechanisms.
+- Kaze's complete poster-breakup words and intended silence/kiss/fire/knees/scream/tears; cut competing explanatory scaffolding, not the authored payoff.
+- Baldur's sensation deprivation and no magical cure; “I could get fucking angry before I paid you” is a useful selected reversal; his realization that Shang can feel the injury is a strong dark turn.
+- Ending where Brian claims Shake's practiced cadence as “All me” preserves his ugly self-justification without a moral lecture.
+These strengths are editorial judgments, not blanket author acceptance.
+
+## Scope correction for next work
+Apply R9 to REVISED64–65 first. Existing Jabba/JarJar are available listeners; do not import Mimir, Evil or Sins to the water stop without actual travel/access. Earlier R9 four scene options remain PROPOSED and conditional, not an approved audience parade.
+No replacement manuscript drafted or sent by this review. Preserve original delivered events/version until a specific same-span replacement is actually written and authorized for release.
