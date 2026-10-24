@@ -63,7 +63,21 @@
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
-  "prepared_episode": null,
+  "prepared_episode": {
+    "change_id": "S7NS_E66_E67_PROFESSIONAL_COURTESY_R21_PLAY_20261024",
+    "episode_span": [
+      66,
+      67
+    ],
+    "title": "Professional Courtesy",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "manuscript": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024.txt",
+    "manuscript_sha256": "4bcb86f3b376f782878edbf80e9a229e8baec0f0f04f1adbf7eb1754a5ec0f02",
+    "checkpoint": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Checkpoint.json",
+    "receipt": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Receipt.json",
+    "author_acceptance": "NOT_ASSERTED",
+    "candidate_next_after_delivery": 68
+  },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
@@ -106,8 +120,8 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "Revised63 and64 delivered provisionally; revised65 reviewed/prepared for explicit PLAY. NextNEW66 unwritten.",
-  "work_resume_checkpoint_latest": "continuity/episodes/E65/S3_E65_A_Little_Feeling_R21_20261024_Checkpoint.json",
+  "work_status": "Revised63–65 DELIVERED_PROVISIONAL; NEW66–67 reviewed/saved for explicit PLAY, delivery pending.",
+  "work_resume_checkpoint_latest": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Checkpoint.json",
   "work_change_id": "S7NS_CINEMATIC_COMBAT_FIDELITY_OUTLINE_R21_20261024",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
@@ -297,7 +311,7 @@
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-  "current_prepared_episode_count": 0,
+  "current_prepared_episode_count": 2,
   "current_prepared_drive_id": "1rqxEn8UYi0INi1j-BvfYTr4lOYKT9V2h",
   "current_prepared_full_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
   "authorial_fidelity_v1_1": {
@@ -982,7 +996,7 @@
     "haircut_evidence": "continuity/episodes/E48/CHAT_DELIVERY_RECONCILIATION_20261021.json",
     "latest_relationship_refinement": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md"
   },
-  "latest_chat_delivered_episode": 64,
+  "latest_chat_delivered_episode": 65,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -1795,7 +1809,7 @@
     "meeting_status": "E52_DELIVERED_PROVISIONAL",
     "actual_checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json"
   },
-  "playback_hold": "LIFTED_ONLY_FOR_EXPLICIT_SINGLE_REVISED65; no NEW66 authorization",
+  "playback_hold": "LIFTED_ONLY_FOR_EXPLICIT_NEW66_67; no68 authorization",
   "latest_Brian_petty_comedy_approval": {
     "change_id": "S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022",
     "owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
@@ -2298,11 +2312,12 @@
     "delivery_reconciliation": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json"
   },
   "current_playback_request": {
-    "author_text": "play ep65",
+    "author_text": "play ep66-67",
     "episode_span": [
-      65
+      66,
+      67
     ],
-    "revision": true,
+    "revision": false,
     "status": "AUTHORIZED_PREPARED_DELIVERY_PENDING",
     "extends_to_other_episodes": false
   },
@@ -2777,7 +2792,7 @@
   },
   "current_actual_after_E65": {
     "candidate_only": false,
-    "elapsed": "Brian collapse/recovery day64, then three mornings through65. Coastal events distinct strand, no exact synchronized day-number invention.",
+    "elapsed": "Brian strand: three mornings since64 poster burning; leaves water stop with Jar Jar/northbound travelers at noon. Coastal strand separate; no exact synchronization/day number invented.",
     "locations": {
       "Brian": "Walking north from northern Shurima water stop toward landing with Jar Jar and northbound travelers; not at landing or Kratos/Mimir yet",
       "Jar_Jar": "Same route, independent objective to seek homeward information",
@@ -2788,9 +2803,9 @@
       "others": "Last observed63 positions retained as last observed, no assertion time freezes offstage"
     },
     "custody": {
-      "saber": "Same stolen Clifford laser saber, retained Brian; controlled iron-cutting demonstration only",
+      "saber": "Same stolen Clifford saber wrapped with Brian; no new65 combat use or upgrade",
       "journal": "Brian; Starkiller signature intact; Jar Jar insult crossed out, replacement crossed out; new fame notes; Shake encouraging note retained",
-      "poster": "Original Busta poster kissed and burned64, no replacement",
+      "poster": "Burned64; empty place in bag acknowledged; no replacement",
       "Brian_coins": "Three silver received from Jabba, retained; previous loose cash unspecified",
       "supplies": "Brian and Jar Jar carry actual provisions for next walk; no unlimited replenishment",
       "Baldur_purse": "Paid to Shang, then Evil took from corpse and returned it to Baldur; amount uncounted",
@@ -2805,18 +2820,21 @@
     },
     "knowledge": {
       "Jabba": "Brian directly identifies Dr Evil, submarine and old coastal depot; no murder knowledge",
-      "Jar_Jar": "Knows Brian musical/status claims, old landing route, former collaborator; no murder knowledge, no demonstrated reading of covered insult",
+      "Jar_Jar": "Heard actual TPP lyric excerpt and Brian founding/departure claim, sees successful musical collaboration; sees Shake note, hears evasive creative differences and false All me credit; no murder knowledge or new reading of covered insult",
       "Baldur": "Saw minor treatment success; experienced failed trial; heard sales reframing; no new mistletoe/future lore",
-      "Dr_Evil": "Witnesses trial, failure and killing; no omniscient Brian whereabouts",
+      "Dr_Evil": "Witnesses Baldur sensation complaint, failed treatment and killing, direction of road departure and appearance; no spoken name acquired, no omniscient next destination/Brian location",
       "others": "No report to Sins/Kratos/Mimir yet"
     },
     "developments": [
-      "Adult local imitation spreads across actual days; Brian calls it fandom and disrupts activity attempting credit/control",
-      "Brian briefly collaborates rhythmically then derails it for personal billing",
-      "Brian learns small piece of Shake's cadence through practice and falsely claims original credit",
-      "Shang's independent treatment business ends in fatal confrontation; any future ordinary live Shang conflict displaced"
+      "Shang effective minor treatment and exploitative relief pitch preserved; actual65 death remains decisive",
+      "Broken slab halves, posts, roof, rear wall, platform and sign have continuous physical damage; no rebuilt props",
+      "Evil saves box, attempts corpse-purse theft then returns it to Baldur; orders immediate salvage, shelter closed; body remains at foundation",
+      "Adult local imitation spreads over actual days; hip/knee movements, cloth routine, ass-cheek flashes retained; some keep working",
+      "Brian genuinely interprets imitation as fandom, succeeds at live rhythm collaboration then disrupts it for credit",
+      "Jabba gets blocked trade entrance cleared; Jar Jar chooses departure; Brian knowingly chooses to join",
+      "Brian writes fame claims, preserves Shake note and falsely claims practiced cadence as his own"
     ],
-    "pending": "Starkiller actual return/Chris vehicle; actual Brian route toward Kratos/Mimir; any report of Baldur requires carrier; remaining66–69 unwritten.",
+    "pending": "Revised63–65 delivered provisionally. Next NEW66 authorized with67 by current request; this reconciliation does not enact them. Baldur lead/reunion and all other unperformed threads remain pending.",
     "inherited_revised63_state": {
       "skills": {
         "psychometry": "First involuntary object sound/emotion echo, locally seeded handle event; limited repeat emotional impression, not reliable playback, mind reading, combat download or telekinesis mastery",
@@ -2834,6 +2852,12 @@
       "physical_consequences": "Cart fitting repaired; gate corner chipped; Brian sore fingers/wrist/shoulder and Jar Jar scraped palms follow normal recovery through three mornings",
       "knowledge": "Jar Jar saw limited rap excerpt and authentic signature, not insult; Jabba has real old coastal lead, no murder knowledge",
       "original65_outcomes_preserved": true
+    },
+    "injuries": {
+      "Brian": "Prior wrist/shoulder and64 fingers still tender but functional after rest; no miraculous healing",
+      "Jar_Jar": "64 scraped palms healing, functional; no new injury",
+      "Shang": "Hand crushed, fatal skull impacts; dead",
+      "Baldur": "Enchantment intact, no sensation restored; displaced by actual force; no new elemental charge or universal soul immunity asserted"
     }
   },
   "latest_comedy_core_R9": {
@@ -2844,34 +2868,11 @@
     "source": "Kaze raw writing strongest reference; failures attributed to AI execution"
   },
   "active_revision_request": {
-    "episode_span": [
-      65
-    ],
-    "original": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
-    "brief": "continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md",
-    "status": "REVISED65_PREPARED_PENDING_DELIVERY; REVISED63_64_DELIVERED_PROVISIONAL",
-    "play_authorized_episode_span": [
-      65
-    ],
-    "play_authorized": true,
-    "prepared_replacement": {
-      "change_id": "S7NS_E65_A_LITTLE_FEELING_R21_PLAY_20261024",
-      "episode_span": [
-        65
-      ],
-      "title": "A Little Feeling",
-      "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
-      "manuscript": "continuity/episodes/E65/S3_E65_A_Little_Feeling_R21_20261024.txt",
-      "checkpoint": "continuity/episodes/E65/S3_E65_A_Little_Feeling_R21_20261024_Checkpoint.json",
-      "receipt": "continuity/episodes/E65/S3_E65_A_Little_Feeling_R21_20261024_Receipt.json",
-      "manuscript_sha256": "494a70e0aeb9e00296184453499ad610a6b26950610f016375a7b11ff3464437",
-      "author_acceptance": "NOT_ASSERTED",
-      "original_preserved": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
-      "next_new_episode": 66
-    },
+    "status": "REVISED63_64_65_DELIVERED_PROVISIONAL; AUTHOR_ACCEPTANCE_NOT_ASSERTED",
     "completed_revision63": "continuity/episodes/E63/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
     "completed_revision64": "continuity/episodes/E64/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
-    "author_scope": "Single65 request; preserve actual65 outcomes; noNEW66 construction/PLAY"
+    "completed_revision65": "continuity/episodes/E65/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
+    "no_replacement_authorization_implied_by_new_play": true
   },
   "latest_work_readback_R10": {
     "change_id": "S7NS_E63_FIRST_AUTHOR_VOICE_ACTION_R10_20261023",
@@ -3604,14 +3605,15 @@
       65
     ],
     "title": "A Little Feeling",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "status": "DELIVERED_PROVISIONAL",
     "manuscript": "continuity/episodes/E65/S3_E65_A_Little_Feeling_R21_20261024.txt",
     "checkpoint": "continuity/episodes/E65/S3_E65_A_Little_Feeling_R21_20261024_Checkpoint.json",
     "receipt": "continuity/episodes/E65/S3_E65_A_Little_Feeling_R21_20261024_Receipt.json",
     "manuscript_sha256": "494a70e0aeb9e00296184453499ad610a6b26950610f016375a7b11ff3464437",
     "author_acceptance": "NOT_ASSERTED",
     "original_preserved": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
-    "next_new_episode": 66
+    "next_new_episode": 66,
+    "delivery_reconciliation": "continuity/episodes/E65/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json"
   },
   "prior_active_revision_request_before_E65_R21": {
     "episode_span": [
@@ -3644,5 +3646,180 @@
     "dependent62": "Original preserved; no replacement62 authorized or needed for delivered63",
     "training_selection": "Limited psychometry/novice Trakata actually acquired in revised63; no new use in64",
     "author_scope": "Single64 request; preserve all actual65 outcomes; no66 construction/PLAY"
+  },
+  "revised_E65_R21_delivery": {
+    "change_id": "S7NS_E65_R21_CHAT_DELIVERY_RECONCILIATION_20261024",
+    "episode": 65,
+    "title": "A Little Feeling",
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E65/S3_E65_A_Little_Feeling_R21_20261024.txt",
+    "manuscript_sha256": "494a70e0aeb9e00296184453499ad610a6b26950610f016375a7b11ff3464437",
+    "frozen_preparation_checkpoint": "continuity/episodes/E65/S3_E65_A_Little_Feeling_R21_20261024_Checkpoint.json",
+    "evidence": "Complete preceding Episode65 assistant final observed, ending with Brian claiming All me; current request play ep66-67. Fresh Drive65 text retrieved; saved final is unchanged. This is conversational delivery evidence, not a machine-exported chat byte comparison or author acceptance.",
+    "reconciled_end_state": {
+      "candidate_only": false,
+      "elapsed": "Brian strand: three mornings since64 poster burning; leaves water stop with Jar Jar/northbound travelers at noon. Coastal strand separate; no exact synchronization/day number invented.",
+      "locations": {
+        "Brian": "Walking north from northern Shurima water stop toward landing with Jar Jar and northbound travelers; not at landing or Kratos/Mimir yet",
+        "Jar_Jar": "Same route, independent objective to seek homeward information",
+        "Jabba": "Water stop; no palace, fleet or newly acquired saber",
+        "Dr_Evil": "Damaged demonstration shelter at coastal export-depot berth",
+        "Baldur": "Left shelter on foot by nearby road; destination unresolved",
+        "Shang_Tsung": "Dead, body at shelter's stone foundation",
+        "others": "Last observed63 positions retained as last observed, no assertion time freezes offstage"
+      },
+      "custody": {
+        "saber": "Same stolen Clifford saber wrapped with Brian; no new65 combat use or upgrade",
+        "journal": "Brian; Starkiller signature intact; Jar Jar insult crossed out, replacement crossed out; new fame notes; Shake encouraging note retained",
+        "poster": "Burned64; empty place in bag acknowledged; no replacement",
+        "Brian_coins": "Three silver received from Jabba, retained; previous loose cash unspecified",
+        "supplies": "Brian and Jar Jar carry actual provisions for next walk; no unlimited replenishment",
+        "Baldur_purse": "Paid to Shang, then Evil took from corpse and returned it to Baldur; amount uncounted",
+        "TPP_funds": "Prior166+separate5 baseline. New service receipts, venue arrangement and damage unquantified; do not assert exact new total",
+        "other_funds": "Sins2491 from revised63 (no two-silver Easter purchase); Daniel110 separate; Kaze0. Original65 makes no new change to these funds."
+      },
+      "life": {
+        "Shake": "Remains dead",
+        "Shang_Tsung": "Killed65 by Baldur skull impacts; compact fatal selection resolved",
+        "Baldur": "Alive; intact enchantment, no sensation restored",
+        "Brian": "Alive; gradual recovery with food/water/rest. Limited psychometry and novice Trakata inherited from delivered revised63; no additional power or talent theft in original64–65."
+      },
+      "knowledge": {
+        "Jabba": "Brian directly identifies Dr Evil, submarine and old coastal depot; no murder knowledge",
+        "Jar_Jar": "Heard actual TPP lyric excerpt and Brian founding/departure claim, sees successful musical collaboration; sees Shake note, hears evasive creative differences and false All me credit; no murder knowledge or new reading of covered insult",
+        "Baldur": "Saw minor treatment success; experienced failed trial; heard sales reframing; no new mistletoe/future lore",
+        "Dr_Evil": "Witnesses Baldur sensation complaint, failed treatment and killing, direction of road departure and appearance; no spoken name acquired, no omniscient next destination/Brian location",
+        "others": "No report to Sins/Kratos/Mimir yet"
+      },
+      "developments": [
+        "Shang effective minor treatment and exploitative relief pitch preserved; actual65 death remains decisive",
+        "Broken slab halves, posts, roof, rear wall, platform and sign have continuous physical damage; no rebuilt props",
+        "Evil saves box, attempts corpse-purse theft then returns it to Baldur; orders immediate salvage, shelter closed; body remains at foundation",
+        "Adult local imitation spreads over actual days; hip/knee movements, cloth routine, ass-cheek flashes retained; some keep working",
+        "Brian genuinely interprets imitation as fandom, succeeds at live rhythm collaboration then disrupts it for credit",
+        "Jabba gets blocked trade entrance cleared; Jar Jar chooses departure; Brian knowingly chooses to join",
+        "Brian writes fame claims, preserves Shake note and falsely claims practiced cadence as his own"
+      ],
+      "pending": "Revised63–65 delivered provisionally. Next NEW66 authorized with67 by current request; this reconciliation does not enact them. Baldur lead/reunion and all other unperformed threads remain pending.",
+      "inherited_revised63_state": {
+        "skills": {
+          "psychometry": "First involuntary object sound/emotion echo, locally seeded handle event; limited repeat emotional impression, not reliable playback, mind reading, combat download or telekinesis mastery",
+          "Trakata": "One controlled static-target success after correction; novice timing, distance and loss-of-guard lesson; no mastery or guaranteed bypass"
+        },
+        "Jesus": "No new63 resurrection/camp appearance inherited; earlier history retained",
+        "coastal_positions": "No63 egg-hunt switch/release inherited; other offstage positions not fabricated",
+        "reconciliation": "continuity/episodes/E63/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
+        "original65_outcomes_preserved": true
+      },
+      "inherited_revised64_state": {
+        "reconciliation": "continuity/episodes/E64/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
+        "poster": "Burned64, not replaced",
+        "journal": "Insult and replacement crossed out; original lyrics source/signature preserved",
+        "physical_consequences": "Cart fitting repaired; gate corner chipped; Brian sore fingers/wrist/shoulder and Jar Jar scraped palms follow normal recovery through three mornings",
+        "knowledge": "Jar Jar saw limited rap excerpt and authentic signature, not insult; Jabba has real old coastal lead, no murder knowledge",
+        "original65_outcomes_preserved": true
+      },
+      "injuries": {
+        "Brian": "Prior wrist/shoulder and64 fingers still tender but functional after rest; no miraculous healing",
+        "Jar_Jar": "64 scraped palms healing, functional; no new injury",
+        "Shang": "Hand crushed, fatal skull impacts; dead",
+        "Baldur": "Enchantment intact, no sensation restored; displaced by actual force; no new elemental charge or universal soul immunity asserted"
+      }
+    },
+    "originals_preserved": true
+  },
+  "prepared_E66_E67_Professional_Courtesy_R21_20261024": {
+    "change_id": "S7NS_E66_E67_PROFESSIONAL_COURTESY_R21_PLAY_20261024",
+    "episode_span": [
+      66,
+      67
+    ],
+    "title": "Professional Courtesy",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "manuscript": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024.txt",
+    "manuscript_sha256": "4bcb86f3b376f782878edbf80e9a229e8baec0f0f04f1adbf7eb1754a5ec0f02",
+    "checkpoint": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Checkpoint.json",
+    "receipt": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Receipt.json",
+    "author_acceptance": "NOT_ASSERTED",
+    "candidate_next_after_delivery": 68
+  },
+  "prepared_E66_E67_candidate_next_state": {
+    "candidate_only": true,
+    "after_episode": 67,
+    "elapsed": "One coastal afternoon; several days have elapsed since62. Starkiller real landing/crossing/depot travel completed before encounter. No exact synchronized Brian/coastal day-number invented.",
+    "locations": {
+      "Sins": "Coastal export-depot ropewalk apron; Kaze/Arthur/Daynah/Mahnah exterior, Chris exterior beside deployed Subaru, Billy interior",
+      "R2_D2": "Physically at ropewalk, chose to assist maintenance and decline road trips; outside vehicle",
+      "Starkiller": "Left car at upper-road fork above harbor; continuing on foot, next destination not established",
+      "TPP": "Dr Evil/Dutch/Clifford and one surviving participating crewman at damaged pavilion/service boat; submarine remains outer berth",
+      "Brian_Jar_Jar_Baldur": "Last observed revised65 positions/knowledge retained; no new scene relocates them"
+    },
+    "funds": {
+      "Sins_common": 2851,
+      "Sins_delta": 360,
+      "Daniel_separate": 110,
+      "Kaze_personal": 0,
+      "TPP_job_fee_earned_and_received": 360,
+      "TPP_job_fee_stolen": 360,
+      "TPP_prior_balance": "Prior166 plus separate5, subsequent65 receipts/damage unquantified; no invented exact new total or contract payment"
+    },
+    "custody": {
+      "vehicle": "Same Chris blue/gold Subaru, deployed road form; functional after shot driver mirror, starred ballistic driver glazing, torn front wing and barrier collision. Protected glass held; run-flat tires not defeated. Mount secured/wire isolated with R2; replacement mirror/glazing still needed. Fuel consumed, no numeric reserve invented; no flight/laser/overdrive/nitrous discharge. Ball retained Chris.",
+      "chart": "Starkiller original coastal chart traded to Chris for completed road trip; glove compartment. Brian vehicle sketch retained Starkiller.",
+      "cash": "All three120-silver bags taken, physically swallowed/released by Billy then counted into common purse by Arthur; no duplicated money.",
+      "guard_gun": "Daynah picked up Vessa guard short gun; no firing or later disposal shown; retained unless later evidence changes it.",
+      "TPP_new_weapons": "Dr Evil took captured occupier pistol, fired once, retained. Clifford handed gallery dead man rifle to crew; exact post-raid holder/location not newly certified.",
+      "receipt": "Vessa signed360 fee receipt, retained Dr Evil.",
+      "unchanged": "Single stolen Clifford saber remains Brian with journal/signature/Shake note and3silver; Busta poster burned. Existing Maul hilt Arthur and Daniel spear Kaze custody insideBilly, separatepurse110, other protected inventories preserved."
+    },
+    "injuries": {
+      "Kaze": "Clifford shoulder shot closed by ending under existing recovery; thick black blood and stone dust remain on skin/clothes; no new armor, flight or power",
+      "Arthur": "Dutch punched/split lip, almost closed at end; no gunshot injury",
+      "Dutch": "Upper-arm graze66, bandaged/bleeding, reknotted67; gun-hand impact against desk, no invented fracture; earlier head injury not reset",
+      "Clifford": "Small cheek splinter cut66, crooked neck unchanged, walking; no new Force powers or lost saber replacement",
+      "Dr_Evil": "Punched ribs66 remain sore; no specified fracture",
+      "others": "No new injury asserted"
+    },
+    "shots": {
+      "Clifford": {
+        "66": 4,
+        "67": 4,
+        "reloads": "Four spent replaced after66 operation and four after67; real carried supplies reduced; no numeric reserve invented"
+      },
+      "Dutch": {
+        "66": 4,
+        "67": 1,
+        "reload": "After66 shown; no invented reserve"
+      },
+      "Dr_Evil": 1,
+      "Chris": 0,
+      "Arthur": 0,
+      "opponents": "Finite shots portrayed, no global total certified"
+    },
+    "outcomes": [
+      "TPP genuinely clears occupied pavilion while preserving cashroom/building usability; fee earned and received before Sins take it during collection",
+      "Arthur initiates robbery for money and Dutch grievance; refuses killing Dutch while forcibly disarming him; permits exit, no reconciliation",
+      "Daynah chooses upper-room strike, tears wall/frame, braces sagging lintel on desk; Mahnah independently tackles/drags/pins armed guard, releases on Daynah cue",
+      "Chris taunt draws Clifford mirror/glass shots; attempts vehicular interception, damages barrier and blocks passage; loses mirror/panel integrity, protection remains useful",
+      "Kaze takes water-route bag, kills crewman, deliberately destroys separate outboard pier to deny bypass, kills guard after knife reach; no righteous victim retrofit",
+      "Billy independently shields Chris by legitimate exterior takeover; Clifford challenges incompatibility of sincere fishing refuge and robbery; no retroactive joke/cure/forgiveness",
+      "TPP chooses withdrawal against disparity; Dutch names own enemies, Dr Evil keeps receipt and orders recovery of dead crewman; no new revenge contract enacted"
+    ],
+    "casualties_custody": {
+      "operation66": "Six occupiers killed; one captured/bound and handed to Vessa guard; two flee by skiff; no pursuit closure fabricated",
+      "robbery67": "Kaze kills one existing unnamed TPP crewman and one Vessa guard; dead crewman caught under broken pier, retrieval ordered but not completed. Vessa, Dutch, Clifford, Dr Evil survive. No aggregate collateral casualty total asserted.",
+      "held_occupier": "Still Vessa custody, not automatically the same guard killed later; no Billy prisoner intake",
+      "prior_deaths": "Shang65, Shake62 and all established deaths preserved; Daniel departure59 retained"
+    },
+    "damage": "Pavilion gallery/table/bullet damage66 remained usable. Daynah tears office wall and terrace railing67; desk braces lintel. Kaze destroys adjacent three-span outer pier/arches/capstan/railings; rubble changes access and harbor obstruction. Service boat capsized, righted by Dutch/survivingcrew; not certified repaired. Road barrier shattered; no instant repair.",
+    "knowledge": {
+      "Starkiller": "Met Chris/Arthur/Billy voice, recognized existing Kaze acquaintance; sees authentic vehicle transform and R2, no personal R2 memory/translation or offworld specification. Chart trade and trip completed; no membership, theft or fight.",
+      "Arthur": "First automobile encounter and ride now occurred; horsepower explanation retained; no repeated first discovery later.",
+      "TPP_Vessa_witnesses": "Actual Sins attack/identities seen, cash theft and pier destruction known locally; no automatic global broadcast",
+      "R2": "No literal English dialogue/Chris translation; choices independent",
+      "Wade": "Sole ordinary narrator; only authorized Kaze/Chris address him; Brian absent and still cannot hear him"
+    },
+    "pending": "Next68 only after complete66–67 delivery reconciliation and a new PLAY authorization. Brian/Baldur art lead/Kratos song, R21 future Bane contract, newer roster and later outline units remain unperformed; no money from stolen360 available to TPP contract."
   }
 }
