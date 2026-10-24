@@ -2819,10 +2819,10 @@
     "dependent_departure_episode": 62,
     "original": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
     "brief": "continuity/editorial/E63_First_Revision_Comedy_Action_And_Rap_Ideas_20261023.md",
-    "status": "SEVEN_POINT_DIRECTION_AUTHOR_SELECTED_WITH_R11_ADDITIONS; RESEARCH_AND_NEW_OPTIONS_SAVED; REPLACEMENT_NOT_WRITTEN",
+    "status": "APPROVED_STAGED_DIRECTIONS_CONSOLIDATED; REPLACEMENT_NOT_WRITTEN",
     "change_id": "S7NS_REVISION_CONFIRMATION_FORCE_LOYALTY_R11_20261023",
     "play_authorized": false,
-    "author_scope": "Seven items confirmed; real Brian Force lesson reveals rare potential (exact power open); remove Jesus/Easter; Chris negotiates and Billy protects him if bullied; approved new rap awaits author lyric edits; apply project voice now",
+    "author_scope": "R11–R17: revise63 first with needed62; compact psychometry and Trakata selected; Easter cut, replacement open; Baldur/reunion selectedR13;64–65 queued; cast-addition round closed",
     "deferred_revision": {
       "episode_span": [
         64,
@@ -2963,7 +2963,8 @@
     },
     "play_authorized": false,
     "episode_draft_written": false,
-    "story_time_advanced": 0
+    "story_time_advanced": 0,
+    "superseded_proposal_labels": "R13 selects brief Baldur acquisition and numbered reunion construction; consult staged_review_R17"
   },
   "latest_work_readback_R12": {
     "change_id": "S7NS_BRIAN_FORCE_RAP_REUNION_R12_20261023",
@@ -3077,5 +3078,21 @@
     "drive": "READBACK_EXACT_HANDOFF",
     "play_authorized": false,
     "story_time_advanced": 0
+  },
+  "staged_review_R17": {
+    "path": "continuity/editorial/S7NS_Staged_Review_R17_20261023.md",
+    "cast_addition_round": "CLOSED",
+    "replacement_written": false,
+    "play_authorized": false,
+    "scope": "Current conversation revision/development batch, not exhaustive all-season audit"
+  },
+  "latest_work_readback_R17": {
+    "github": "AUTHOR_REVIEW_OUTLINE_STARTUP_READBACK_EXACT",
+    "airtable": "READBACK_EXACT_SCOPE",
+    "notion": "CONTENT_VERIFIED",
+    "drive": "READBACK_EXACT_HANDOFF",
+    "story_time_advanced": 0,
+    "play_authorized": false,
+    "episode_draft_written": false
   }
 }
