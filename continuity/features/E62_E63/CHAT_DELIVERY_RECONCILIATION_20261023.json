@@ -1,0 +1,57 @@
+{
+  "change_id": "S7NS_E62_E63_CHAT_DELIVERY_20261023",
+  "episode_span": [
+    62,
+    63
+  ],
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "evidence": "Visible chat delivery of A Better Picture, ending with Brian beginning his walk after Starkiller's shove and checking the signed journal.",
+  "chat_byte_identity": "No machine-export byte comparison claimed.",
+  "manuscript": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+  "manuscript_sha256": "f6b0a1b4d5234c1d15f260eca7be622fcebb7f962b1de5a74cd888a9bc304ea7",
+  "checkpoint": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023_Checkpoint.json",
+  "actual_end_state": {
+    "candidate_only": false,
+    "elapsed_time": "Several days of Brian crossing/caravan travel; exact day number not fabricated. Sins coastal strand need not share identical clock time.",
+    "locations": {
+      "Brian": "Nearby dunes outside northern Shurima salvage yard, conscious and beginning walk after shove; NOT collapsed/found/woken yet",
+      "Starkiller": "Leaving yard toward northern landing with old contact lead, no return trip completed",
+      "Sins": "Coastal camp; Chris exterior/Billy interior; Meatwad outside for hunt, Charles inside",
+      "TPP": "Submarine at export depot; Jack saber missing, Shake remains aboard pending handling"
+    },
+    "life": {
+      "Daniel": "departed59",
+      "Shake": "deliberately murdered by Brian62; no resurrection",
+      "Frylock": "alive, France per current author",
+      "Keke": "dead; regrowth still gated",
+      "Jesus": "new resurrection63, alive at camp at close; no gang membership"
+    },
+    "funds": {
+      "Sins_common": 2489,
+      "Daniel_separate": 110,
+      "Kaze_personal": 0,
+      "TPP_common": 166,
+      "TPP_separate_receipt": 5,
+      "Brian_cash": "No new fixed balance; passage/provisions earned through shown work"
+    },
+    "custody": {
+      "Clifford_saber": "Brian; same single theft used for murder, carried through travel/audition/shove",
+      "journal": "Brian; complete authored rap, signed positive endorsement by Starkiller, Shake encouraging note with torn corner",
+      "research": "Brian surviving sheets; torn Dutch page provenance exposed",
+      "Busta_poster": "Brian, folded; breakup remains64 future",
+      "headset_console": "both original equipment inside Billy; safe fishing completed; Chris campaign untouched, no whole-game completion",
+      "Daniel_spear": "Kaze custody stored inside Billy; no transfer",
+      "cross_and_crown": "Chris keeps originals inside Billy; not returned. Nails uninspected; church replica separate",
+      "water": "Brian container ruptured on landing; remaining supplies not magically replenished",
+      "cargo": "same as61 excluding no further sales; no chests opened"
+    },
+    "operation": "Fourth instrument stolen, all delivered Sella. Launch deduction30 and spirit balance30 settled; signal tower down; patrol obstructed. Merrit released alive with knowledge.",
+    "injuries": "Dutch head wound/headache ongoing, chart obsession escalates; no diagnostic certainty. Brian rough dune landing, no invented catastrophic injury or instant healing.",
+    "knowledge": "Jack links observed death damage, missing saber and departure evidence; tells Sins actual observations, no omniscient eyewitness. Starkiller knows Chris vehicle configuration/old depot contact/intended inland direction only. Jesus learns priest inspection from Chris's spoken remark; Wade has no mystery answers.",
+    "pending": "Desert collapse/discovery/mid-thrust wake/Jabba/Jar Jar64; imitation and Busta breakup not yet occurred; Kratos/Mimir and later strands unchanged"
+  },
+  "editorial_correction": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+  "playback_hold": true,
+  "story_days_advanced_by_work": 0
+}
