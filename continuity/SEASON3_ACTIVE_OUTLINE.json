@@ -2211,5 +2211,34 @@
     "cast_additions": false,
     "episode_draft_written": false,
     "play_authorized": false
+  },
+  "author_work_priority_R19": {
+    "status": "AUTHOR_SELECTED",
+    "order": [
+      "compact causal structure of revision63",
+      "TPP paying job and theft as actual action sequence",
+      "Brian consequences into purposeful hunter encounter"
+    ],
+    "preserve_complete_performances": true,
+    "cut_delays": true,
+    "R18_specific_options_not_blanket_approved": true,
+    "story_time_advanced": 0,
+    "episode_draft_written": false,
+    "play_authorized": false
+  },
+  "new_cast_fidelity_R19": {
+    "change_id": "S7NS_STAR_WARS_FIDELITY_PRIORITY_R19_20261023",
+    "path": "research/StarWars_New_Roster_Fidelity_R19_20261023.md",
+    "status": "FOCUSED_PRIMARY_TEXT_RESEARCH_SAVED",
+    "characters": [
+      "Yoda",
+      "Boba Fett",
+      "Cad Bane",
+      "Count Dooku"
+    ],
+    "snapshot_status": "RECOVERED_INHERITED_YODA_ROTS_PRE_SIDIOUS_PIN;NEWER_OPEN_SELECTION_REQUIRES_RECONCILIATION;OTHERS_PROPOSED",
+    "full_audiovisual_study": false,
+    "tts_tested": false,
+    "drive_report_id": "1fAKZXkMajmJmTW-6wNU9e6eq_cdfGtc4"
   }
 }
