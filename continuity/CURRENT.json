@@ -2824,6 +2824,33 @@
     "author_scope": "R9 applies to revised64–65; nextnew66 separate",
     "research": "research/StarWars_E64_E65_Speech_Behavior_Fidelity_20261023.md",
     "review_change_id": "S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023",
-    "research_status": "FOCUSED_PRIMARY_TEXT_SPEECH_AND_BEHAVIOR_PASS_COMPLETE; REPLACEMENT_APPLICATION_PENDING"
+    "research_status": "FOCUSED_PRIMARY_TEXT_SPEECH_AND_BEHAVIOR_PASS_COMPLETE; REPLACEMENT_APPLICATION_PENDING",
+    "source_review_service_readback": {
+      "change_id": "S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023",
+      "github": {
+        "status": "READBACK_EXACT",
+        "research_blob_sha1": "76482f885810f8029ca921d11599c6191e769eee",
+        "review_blob_sha1": "78100319a0faf268be0293fd7a2d233cdc9b4d85",
+        "author_blob_sha1": "eb4e9a0a2320cc504fac462b4ec1e21f8fb870e1"
+      },
+      "airtable": {
+        "status": "READBACK_EXACT_AFFECTED_SCOPE",
+        "base_id": "appKCCr9zg0rsfbOI",
+        "table_id": "tbl5dFC7den6PyDSw",
+        "record_id": "reccW8tbgjVA9SBfb"
+      },
+      "notion": {
+        "status": "READBACK_CONTENT_VERIFIED_MARKDOWN_ESCAPES_NORMALIZED",
+        "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a"
+      },
+      "drive": {
+        "status": "READBACK_EXACT_TEXT",
+        "file_id": "1NFGd9tfbl7TTGHGvbl5e3qGTnp9P1Bk7"
+      },
+      "original_manuscript_sha256": "8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20",
+      "story_time_advanced": 0,
+      "replacement_written": false,
+      "play_authorized": false
+    }
   }
 }
