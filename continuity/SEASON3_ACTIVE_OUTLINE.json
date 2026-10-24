@@ -2169,5 +2169,16 @@
       "Count Dooku"
     ],
     "play_authorized": false
+  },
+  "latest_StarWars_roster_R15": {
+    "authority": "continuity/author/S7NS_StarWars_Additions_R15_20261023.md",
+    "status": "AUTHOR_SELECTED_FUTURE_NOT_ONSTAGE",
+    "characters": [
+      "Hondo Ohnaka",
+      "Cad Bane",
+      "Count Dooku"
+    ],
+    "source_times": "OPEN; suggested Boba/Yoda versions not newly locked by question",
+    "play_authorized": false
   }
 }
