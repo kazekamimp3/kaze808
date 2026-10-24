@@ -2157,5 +2157,17 @@
     "raw_ending_preserved": true,
     "play_authorized": false,
     "episode_draft_written": false
+  },
+  "latest_StarWars_roster_R14": {
+    "authority": "continuity/author/S7NS_StarWars_Roster_R14_20261023.md",
+    "status": "AUTHOR_SELECTED_FUTURE_NOT_ONSTAGE",
+    "Yoda": "Reaffirm existing broad roster identity; exact version OPEN",
+    "Boba_Fett": "New selected future admission; adult OT baseline recommended not locked; gear/arrival OPEN",
+    "recommendations_not_added": [
+      "Hondo Ohnaka",
+      "Cad Bane",
+      "Count Dooku"
+    ],
+    "play_authorized": false
   }
 }
