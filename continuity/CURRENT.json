@@ -1,19 +1,19 @@
 {
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "as_of": "2026-10-23",
-  "last_delivered_episode": 65,
-  "next_episode": 66,
+  "as_of": "2026-10-24",
+  "last_delivered_episode": 67,
+  "next_episode": 68,
   "delivery_status": "DELIVERED_PROVISIONAL",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json",
-  "manuscript": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
-  "manuscript_git_blob_sha1": null,
-  "manuscript_sha256": "8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20",
-  "checkpoint": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024_Checkpoint.json",
-  "state_owner": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json",
-  "state_rule": "Actual delivered through65; R9 comedy-core/signed-rap direction in current scoped owner controls forward work. Playback held.",
+  "delivery_reconciliation": "continuity/features/E66_E67/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
+  "manuscript": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024.txt",
+  "manuscript_git_blob_sha1": "a1140aaddba4332c1c496407cbd3603a406b8804",
+  "manuscript_sha256": "4bcb86f3b376f782878edbf80e9a229e8baec0f0f04f1adbf7eb1754a5ec0f02",
+  "checkpoint": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Checkpoint.json",
+  "state_owner": "continuity/features/E66_E67/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
+  "state_rule": "Actual complete66–67 delivered provisionally. Current request replays exact saved66–67 without further time advance. Next NEW68; acceptance NOT_ASSERTED.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -63,21 +63,7 @@
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
-  "prepared_episode": {
-    "change_id": "S7NS_E66_E67_PROFESSIONAL_COURTESY_R21_PLAY_20261024",
-    "episode_span": [
-      66,
-      67
-    ],
-    "title": "Professional Courtesy",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
-    "manuscript": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024.txt",
-    "manuscript_sha256": "4bcb86f3b376f782878edbf80e9a229e8baec0f0f04f1adbf7eb1754a5ec0f02",
-    "checkpoint": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Checkpoint.json",
-    "receipt": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Receipt.json",
-    "author_acceptance": "NOT_ASSERTED",
-    "candidate_next_after_delivery": 68
-  },
+  "prepared_episode": null,
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
@@ -305,13 +291,12 @@
   },
   "default_PLAY_episode_count": 2,
   "next_prospective_episode_batch": [
-    60,
-    61
+    68
   ],
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-  "current_prepared_episode_count": 2,
+  "current_prepared_episode_count": 0,
   "current_prepared_drive_id": "1rqxEn8UYi0INi1j-BvfYTr4lOYKT9V2h",
   "current_prepared_full_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
   "authorial_fidelity_v1_1": {
@@ -571,7 +556,7 @@
     },
     "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "checkpoint_git_blob_sha1": "154b04da22fea6f2fc44a2eb4e5427f94a6e64f2",
+  "checkpoint_git_blob_sha1": "c719f39bd220075bdafd637c66fd32271679be34",
   "prepared_E39_E40_A_Place_To_Wait_R2_20261021": {
     "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
     "episode_span": [
@@ -996,7 +981,7 @@
     "haircut_evidence": "continuity/episodes/E48/CHAT_DELIVERY_RECONCILIATION_20261021.json",
     "latest_relationship_refinement": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md"
   },
-  "latest_chat_delivered_episode": 65,
+  "latest_chat_delivered_episode": 67,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -1404,7 +1389,7 @@
     "detailed_construction": "PROPOSED"
   },
   "work_receipt": "continuity/work/S7NS_Cumulative_Replacement_Patch_Resume_20261022.json",
-  "current_prepared_episode_count_note": "Four R7 revised draft units60–63, two pairs; not sent/played, not author accepted. No change to actual59.",
+  "current_prepared_episode_count_note": "66–67 already delivered; replay uses existing saved pair. No new68 prepared by this request.",
   "latest_relationship_TTS_application": {
     "change_id": "S7NS_POST_E50_TTS_FACTION_BEEF_BRIAN_REBALANCE_20261021",
     "owner": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md",
@@ -1809,7 +1794,7 @@
     "meeting_status": "E52_DELIVERED_PROVISIONAL",
     "actual_checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json"
   },
-  "playback_hold": "LIFTED_ONLY_FOR_EXPLICIT_NEW66_67; no68 authorization",
+  "playback_hold": "EXPLICIT_REPLAY66_67_ONLY; no NEW68 authorization",
   "latest_Brian_petty_comedy_approval": {
     "change_id": "S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022",
     "owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
@@ -2155,7 +2140,7 @@
     "terrain": "Transfer yard gallery/wagon damaged. Bridge middle destroyed by defensive mage, gatehouse/three-arch aqueduct demolished by Kaze. Water spill alters road; remains impassable to ordinary traffic without repair.",
     "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists."
   },
-  "checkpoint_sha256": null,
+  "checkpoint_sha256": "bdbc447ac05d662d8581f5bbaf9e388dba732ae6e533db03d7623bda2d3a66fa",
   "current_actual_after_E58": {
     "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
     "Sins": "Kaze, Chris exterior/Billy inside, Arthur, Daynah baseline, Mahnah baseline, Daniel at dry shelf on inland route late Day22. No capital arrival. Charles/Meatwad/Shake inside Billy; Frylock alive separate with whereabouts unknown. Keke not returned.",
@@ -2318,7 +2303,8 @@
       67
     ],
     "revision": false,
-    "status": "AUTHORIZED_PREPARED_DELIVERY_PENDING",
+    "mode": "REPLAY_SAVED_FEATURE",
+    "status": "AUTHORIZED_REPLAY",
     "extends_to_other_episodes": false
   },
   "prepared_E59_Still_Family_20261023": {
@@ -3736,13 +3722,15 @@
       67
     ],
     "title": "Professional Courtesy",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "status": "DELIVERED_PROVISIONAL",
     "manuscript": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024.txt",
     "manuscript_sha256": "4bcb86f3b376f782878edbf80e9a229e8baec0f0f04f1adbf7eb1754a5ec0f02",
     "checkpoint": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Checkpoint.json",
     "receipt": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Receipt.json",
     "author_acceptance": "NOT_ASSERTED",
-    "candidate_next_after_delivery": 68
+    "candidate_next_after_delivery": 68,
+    "pre_delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "reconciliation": "continuity/features/E66_E67/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json"
   },
   "prepared_E66_E67_candidate_next_state": {
     "candidate_only": true,
@@ -3821,5 +3809,138 @@
       "Wade": "Sole ordinary narrator; only authorized Kaze/Chris address him; Brian absent and still cannot hear him"
     },
     "pending": "Next68 only after complete66–67 delivery reconciliation and a new PLAY authorization. Brian/Baldur art lead/Kratos song, R21 future Bane contract, newer roster and later outline units remain unperformed; no money from stolen360 available to TPP contract."
+  },
+  "preserved_pre_E66_E67_delivery_router": {
+    "last_delivered_episode": 65,
+    "latest_chat_delivered_episode": 65,
+    "next_episode": 66,
+    "manuscript": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+    "manuscript_sha256": "8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20",
+    "checkpoint": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024_Checkpoint.json",
+    "delivery_reconciliation": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+    "state_owner": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+    "state_rule": "Actual delivered through65; R9 comedy-core/signed-rap direction in current scoped owner controls forward work. Playback held.",
+    "prepared_episode": {
+      "change_id": "S7NS_E66_E67_PROFESSIONAL_COURTESY_R21_PLAY_20261024",
+      "episode_span": [
+        66,
+        67
+      ],
+      "title": "Professional Courtesy",
+      "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "manuscript": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024.txt",
+      "manuscript_sha256": "4bcb86f3b376f782878edbf80e9a229e8baec0f0f04f1adbf7eb1754a5ec0f02",
+      "checkpoint": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Checkpoint.json",
+      "receipt": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Receipt.json",
+      "author_acceptance": "NOT_ASSERTED",
+      "candidate_next_after_delivery": 68
+    },
+    "current_playback_request": {
+      "author_text": "play ep66-67",
+      "episode_span": [
+        66,
+        67
+      ],
+      "revision": false,
+      "status": "AUTHORIZED_PREPARED_DELIVERY_PENDING",
+      "extends_to_other_episodes": false
+    },
+    "next_prospective_episode_batch": [
+      60,
+      61
+    ],
+    "current_prepared_episode_count": 2
+  },
+  "current_actual_after_E67": {
+    "candidate_only": false,
+    "after_episode": 67,
+    "elapsed": "One coastal afternoon; several days have elapsed since62. Starkiller real landing/crossing/depot travel completed before encounter. No exact synchronized Brian/coastal day-number invented.",
+    "locations": {
+      "Sins": "Coastal export-depot ropewalk apron; Kaze/Arthur/Daynah/Mahnah exterior, Chris exterior beside deployed Subaru, Billy interior",
+      "R2_D2": "Physically at ropewalk, chose to assist maintenance and decline road trips; outside vehicle",
+      "Starkiller": "Left car at upper-road fork above harbor; continuing on foot, next destination not established",
+      "TPP": "Dr Evil/Dutch/Clifford and one surviving participating crewman at damaged pavilion/service boat; submarine remains outer berth",
+      "Brian_Jar_Jar_Baldur": "Last observed revised65 positions/knowledge retained; no new scene relocates them"
+    },
+    "funds": {
+      "Sins_common": 2851,
+      "Sins_delta": 360,
+      "Daniel_separate": 110,
+      "Kaze_personal": 0,
+      "TPP_job_fee_earned_and_received": 360,
+      "TPP_job_fee_stolen": 360,
+      "TPP_prior_balance": "Prior166 plus separate5, subsequent65 receipts/damage unquantified; no invented exact new total or contract payment"
+    },
+    "custody": {
+      "vehicle": "Same Chris blue/gold Subaru, deployed road form; functional after shot driver mirror, starred ballistic driver glazing, torn front wing and barrier collision. Protected glass held; run-flat tires not defeated. Mount secured/wire isolated with R2; replacement mirror/glazing still needed. Fuel consumed, no numeric reserve invented; no flight/laser/overdrive/nitrous discharge. Ball retained Chris.",
+      "chart": "Starkiller original coastal chart traded to Chris for completed road trip; glove compartment. Brian vehicle sketch retained Starkiller.",
+      "cash": "All three120-silver bags taken, physically swallowed/released by Billy then counted into common purse by Arthur; no duplicated money.",
+      "guard_gun": "Daynah picked up Vessa guard short gun; no firing or later disposal shown; retained unless later evidence changes it.",
+      "TPP_new_weapons": "Dr Evil took captured occupier pistol, fired once, retained. Clifford handed gallery dead man rifle to crew; exact post-raid holder/location not newly certified.",
+      "receipt": "Vessa signed360 fee receipt, retained Dr Evil.",
+      "unchanged": "Single stolen Clifford saber remains Brian with journal/signature/Shake note and3silver; Busta poster burned. Existing Maul hilt Arthur and Daniel spear Kaze custody insideBilly, separatepurse110, other protected inventories preserved."
+    },
+    "injuries": {
+      "Kaze": "Clifford shoulder shot closed by ending under existing recovery; thick black blood and stone dust remain on skin/clothes; no new armor, flight or power",
+      "Arthur": "Dutch punched/split lip, almost closed at end; no gunshot injury",
+      "Dutch": "Upper-arm graze66, bandaged/bleeding, reknotted67; gun-hand impact against desk, no invented fracture; earlier head injury not reset",
+      "Clifford": "Small cheek splinter cut66, crooked neck unchanged, walking; no new Force powers or lost saber replacement",
+      "Dr_Evil": "Punched ribs66 remain sore; no specified fracture",
+      "others": "No new injury asserted"
+    },
+    "shots": {
+      "Clifford": {
+        "66": 4,
+        "67": 4,
+        "reloads": "Four spent replaced after66 operation and four after67; real carried supplies reduced; no numeric reserve invented"
+      },
+      "Dutch": {
+        "66": 4,
+        "67": 1,
+        "reload": "After66 shown; no invented reserve"
+      },
+      "Dr_Evil": 1,
+      "Chris": 0,
+      "Arthur": 0,
+      "opponents": "Finite shots portrayed, no global total certified"
+    },
+    "outcomes": [
+      "TPP genuinely clears occupied pavilion while preserving cashroom/building usability; fee earned and received before Sins take it during collection",
+      "Arthur initiates robbery for money and Dutch grievance; refuses killing Dutch while forcibly disarming him; permits exit, no reconciliation",
+      "Daynah chooses upper-room strike, tears wall/frame, braces sagging lintel on desk; Mahnah independently tackles/drags/pins armed guard, releases on Daynah cue",
+      "Chris taunt draws Clifford mirror/glass shots; attempts vehicular interception, damages barrier and blocks passage; loses mirror/panel integrity, protection remains useful",
+      "Kaze takes water-route bag, kills crewman, deliberately destroys separate outboard pier to deny bypass, kills guard after knife reach; no righteous victim retrofit",
+      "Billy independently shields Chris by legitimate exterior takeover; Clifford challenges incompatibility of sincere fishing refuge and robbery; no retroactive joke/cure/forgiveness",
+      "TPP chooses withdrawal against disparity; Dutch names own enemies, Dr Evil keeps receipt and orders recovery of dead crewman; no new revenge contract enacted"
+    ],
+    "casualties_custody": {
+      "operation66": "Six occupiers killed; one captured/bound and handed to Vessa guard; two flee by skiff; no pursuit closure fabricated",
+      "robbery67": "Kaze kills one existing unnamed TPP crewman and one Vessa guard; dead crewman caught under broken pier, retrieval ordered but not completed. Vessa, Dutch, Clifford, Dr Evil survive. No aggregate collateral casualty total asserted.",
+      "held_occupier": "Still Vessa custody, not automatically the same guard killed later; no Billy prisoner intake",
+      "prior_deaths": "Shang65, Shake62 and all established deaths preserved; Daniel departure59 retained"
+    },
+    "damage": "Pavilion gallery/table/bullet damage66 remained usable. Daynah tears office wall and terrace railing67; desk braces lintel. Kaze destroys adjacent three-span outer pier/arches/capstan/railings; rubble changes access and harbor obstruction. Service boat capsized, righted by Dutch/survivingcrew; not certified repaired. Road barrier shattered; no instant repair.",
+    "knowledge": {
+      "Starkiller": "Met Chris/Arthur/Billy voice, recognized existing Kaze acquaintance; sees authentic vehicle transform and R2, no personal R2 memory/translation or offworld specification. Chart trade and trip completed; no membership, theft or fight.",
+      "Arthur": "First automobile encounter and ride now occurred; horsepower explanation retained; no repeated first discovery later.",
+      "TPP_Vessa_witnesses": "Actual Sins attack/identities seen, cash theft and pier destruction known locally; no automatic global broadcast",
+      "R2": "No literal English dialogue/Chris translation; choices independent",
+      "Wade": "Sole ordinary narrator; only authorized Kaze/Chris address him; Brian absent and still cannot hear him"
+    },
+    "pending": "Next NEW68 requires explicit PLAY authorization. Current request repeats66–67 as replay, zero additional fictional time. Brian/Baldur lead/Kratos song and other unperformed outline developments remain pending; TPP cannot fund a contract from the stolen360.",
+    "delivery_status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED"
+  },
+  "delivered_E66_E67_R21": {
+    "episode_span": [
+      66,
+      67
+    ],
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "reconciliation": "continuity/features/E66_E67/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
+    "manuscript": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024.txt",
+    "manuscript_sha256": "4bcb86f3b376f782878edbf80e9a229e8baec0f0f04f1adbf7eb1754a5ec0f02",
+    "checkpoint": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Checkpoint.json"
   }
 }
