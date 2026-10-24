@@ -1,13 +1,13 @@
 {
   "schema": "s7ns.forward-outline.v2",
-  "change_id": "S7NS_CONDENSED_WEAVE_R7_20261023",
+  "change_id": "S7NS_CAST_FOCUS_R8_20261023",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "status": "AUTHOR_SELECTED_CONDENSED_R7; E59_FAMILY_BUSINESS_DELIVERED_PROVISIONAL; NO_PLAY_FROM_THIS_UPDATE",
   "current_control": {
-    "last_delivered_episode": 58,
+    "last_delivered_episode": 63,
     "delivery_status": "DELIVERED_PROVISIONAL",
     "author_acceptance": "NOT_ASSERTED",
-    "next_episode": 59,
+    "next_episode": 64,
     "prepared_episode": null,
     "playback_hold": true,
     "next_episode_authorized": false,
@@ -17,7 +17,7 @@
     "ensemble_paused": false,
     "final_episode_quota": null
   },
-  "state_owner": "continuity/features/E57_E58/CHAT_DELIVERY_RECONCILIATION_20261023.json",
+  "state_owner": "continuity/features/E62_E63/CHAT_DELIVERY_RECONCILIATION_20261023.json",
   "current_actual_after_E58": {
     "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
     "Sins": "Kaze, Chris exterior/Billy inside, Arthur, Daynah baseline, Mahnah baseline, Daniel at dry shelf on inland route late Day22. No capital arrival. Charles/Meatwad/Shake inside Billy; Frylock alive separate with whereabouts unknown. Keke not returned.",
@@ -41,7 +41,7 @@
     "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists.",
     "knowledge_correction_from_delivered51": "Kaze, Chris and Billy heard Wade identify Tai Lung as Daniel's killer in51; Kaze relayed it to Arthur/Daynah. Current location remains unknown. Daniel's returned knowledge not automatically identical. This corrects an initial outline error, not a new revelation."
   },
-  "latest_direct_author_scope": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
   "reader_outline": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
   "archive": {
     "path": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json",
@@ -54,13 +54,12 @@
   "humor_application": "| Source influence | Use in this season | Avoid |\n|---|---|---|\n| Kaze's original Chris duels, Billy stories and Brian premises | Committed absurdity, disgusting specific reveals, genre betrayal, tiny grievances with enormous consequences; the impossible event leaves real history | Replaying Hawking, Bob, Jesus, conjoining, the mirror or the chair as new first-time reveals |\n| Rick and Morty | Impressive competence weaponized for embarrassing personal reasons; an attempted correction makes the problem change; costly demonstrations of being technically right | Mandatory disaster, generic nihilism, Rick gadgets granted to other people |\n| Trover Saves the Universe | People argue from bizarre but internally understandable priorities; objections and interruptions redirect the situation; hideous surroundings treated casually | Endless improvisation, interchangeable profanity, random nouns posing as jokes |\n| Aqua Teen Hunger Force | Domestic grudges, selfish ownership claims, literal misunderstandings, inventive sabotage, sudden grotesque anticlimax | Harmless household sketches, a perpetually responsible Chris, treating Meatwad as incapable of counterplay |\n| Step Brothers / Prestige Worldwide | TPP treats its self-created prestige as already real; extravagant presentation threatens a viable criminal scheme | Turning every TPP scene into an incompetent pitch meeting |\n| Anchorman | Crew identity, territorial vanity and disproportionate rivalry become physical events; they can fight competently while arguing about ridiculous stakes | A compulsory roll call, copied alley fight or new gang cameo parade |\n| Austin Powers / Dr. Evil | Elaborate villainous self-presentation meets a precise practical objection; petty authority and real menace coexist | Generic sarcastic boss, automatic immediate punchline after every meaningful exchange |\n| Spaceballs | An impressive threat is punctured by an ordinary physical or social fact, fairly staged | Repeating Clifford's surgery/Vader discovery or granting him Force powers |\n| South Park: Coon & Friends and Stick of Truth | Selfish brand politics and enormous sincere investment in shabby symbols; vile actions defended as organizational duty | Reintroducing dead children or treating the influence as imported powers |\n| Surf's Up, The Office US, Trailer Park Boys | Inside Job's observed behavior, defensive interviews, credit disputes, awkward silences, genuine shared enjoyment | Assigning Trailer Park Boys as TPP's primary voice or using interviews to explain every joke |\n| Jackass, selected directly in this conversation | Deliberate group participation, anticipation, physical consequence, camera complicity and victims' retaliation | Repeating the same prank, harmless resets, or treating all accidents as secretly intentional |\n| Chris's Theo Von and Filthy Frank influences | Sincere sideways associations, bodily disgust, grotesque specificity, culinary expertise and intrusive recollection | Theo biography or a copied performer impression; making Chris the patient dad |\n| Daniel's Pete Davidson, Dan Cummins and Jo Koy influences | Self-implication, elaborate absurd reasoning, embodied family observations, jokes in terrible circumstances | Only ice puns, automatic amnesia, or making him the gang's moral supervisor |\n| Billy's Tahm Kench / Primus / Uncle Rico strands | Predatory hospitality, tactile grotesquerie, committed personal history and glory-days interruption | A generic ancient lore terminal or silent transport container |\n| Brian's supplied public-post language | One small task becomes an imaginary broadcast event: ellipses, adjacent puns, old-school music vocabulary, invented audience, self-review | Only short jokes about height, copying private messages, or losing his actual audio competence |\n| Deadpool with the selected Rick rhetorical influence | Wade conspires with listeners, produces revoltingly precise comparisons, argues, self-corrects and exposes his own vanity | Narrating the continuity checklist, omniscient answers, giving every speaker Wade's rhythm |\n\nThese are working mechanisms, not quotas, copied routines or demands for constant comedy. Horror, restraint, genuine affection, ordinary success and a decisive unfunny death can make the surrounding humor more effective.",
   "next_pair": {
     "episodes": [
-      60,
-      61
+      64,
+      65
     ],
-    "status": "R7_OUTLINE_SELECTED; EXISTING_R6_DRAFTS_REQUIRE_REVISION; NO_PLAY",
-    "construction": "60: The Sins' robbery/GGA interferes with goods T.P.P needs. Establish T.P.P's related operation and Tai Lung presentation stakes here, before61. Brian's paid-to-stop performance and discarded research start the recognition thread. The outsider's counterplay changes the robbery; Chris uses Moose Knuckle Menace Man on that SAME outsider at the VERY END of their scenario. No onion/dinner replacement detour or extended destination selection.\n\n61: The operation collides with the Sins' stolen-goods interests; show brief actual convergence, Shake return and Jack's access. Brian contributes usefully and Evil cultivates him during the work. Main sustained sequence: Tai Lung really wins, presentation humiliation changes the situation, T.P.P escapes, Dutch crashes, Clifford rescues him and Brian fusses over the LEFT-cheek portrait. No new introductory briefing; no separate full negotiation, VR tutorial or farewell.",
-    "continuation_anchor": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
-    "preserved_prior_next_pair": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_condensed_R7_20261023.json#/next_pair"
+    "status": "DRAFT_PENDING_PLAYBACK_HELD",
+    "execution_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+    "play_authorized": false
   },
   "movements": [
     {
@@ -1655,7 +1654,7 @@
     "note": "Candidate selects Madam Vey's display wagon and quarry-road bend for the next criminal objective; no robbery or proceeds yet. Preserve selected R6 future beats.",
     "current_disposition": "HISTORICAL_ALTERNATE_PREPARATION_NOT_CURRENT_CONTINUATION; FamilyBusiness59 confirmed by existing delivery receipt"
   },
-  "active_chronology_key": "selected_chronology_R7",
+  "active_chronology_key": "selected_chronology_R8",
   "selected_chronology_R7": [
     {
       "episode": 60,
@@ -1868,5 +1867,98 @@
     "future_guard": "All candidate events future until actual PLAY.64 opens Brian walking; collapse/discovery/mid-thrust wake/Jabba/JarJar/poster remain future.",
     "props": "Same saber Brian; journal signed; cross/crown Chris; original console/headset insideBilly; no reincarnated Shake",
     "later_movements": "Retained unchanged; no fixed season length"
+  },
+  "selected_chronology_R8": [
+    {
+      "episode": 60,
+      "development": "The Sins' robbery/GGA interferes with goods T.P.P needs. Establish T.P.P's related operation and Tai Lung presentation stakes here, before61. Brian's paid-to-stop performance and discarded research start the recognition thread. The outsider's counterplay changes the robbery; Chris uses Moose Knuckle Menace Man on that SAME outsider at the VERY END of their scenario. No onion/dinner replacement detour or extended destination selection.",
+      "status": "DELIVERED_PROVISIONAL",
+      "placement": "ACTIVE_WORKING_OUTLINE_FULL_DRAFT_PACING_NOT_YET_VALIDATED"
+    },
+    {
+      "episode": 61,
+      "development": "The operation collides with the Sins' stolen-goods interests; show brief actual convergence, Shake return and Jack's access. Brian contributes usefully and Evil cultivates him during the work. Main sustained sequence: Tai Lung really wins, presentation humiliation changes the situation, T.P.P escapes, Dutch crashes, Clifford rescues him and Brian fusses over the LEFT-cheek portrait. No new introductory briefing; no separate full negotiation, VR tutorial or farewell.",
+      "status": "DELIVERED_PROVISIONAL",
+      "placement": "ACTIVE_WORKING_OUTLINE_FULL_DRAFT_PACING_NOT_YET_VALIDATED"
+    },
+    {
+      "episode": 62,
+      "development": "Dutch's chart painting damages the continuing operation; Brian's predictions fail. Shake's excellent freestyle, Brian's involuntary enjoyment, jealousy, genuine offer and rejection receive uninterrupted dramatic space. During Jack's voluntary safe fishing insideBilly, Brian steals the actual saber from the submarine berth, finds Shake alone, deliberately murders him and leaves. Retain encouraging note and cringeworthy empowerment rationalization. Clifford's discovery/Evil's unused kindness may follow as concise consequences, without buying another episode.",
+      "status": "DELIVERED_PROVISIONAL",
+      "placement": "ACTIVE_WORKING_OUTLINE_FULL_DRAFT_PACING_NOT_YET_VALIDATED"
+    },
+    {
+      "episode": 63,
+      "development": "Establish Brian's real travel to northernShurima briefly, then FULL corrected rap, X-wing bait before refusal, specific-feedback trap, threatened encore, claimed unintended interpretation, journal autograph and explicit compliment. Starkiller extracts actionable known information and immediately Force-pushes him extra hard. Interweave the complete EasterJesus situation in substantial scenes: four-second egg, Billy's conscious denial, Chris initially helpful then hoard-threat reversal, hostile questions, full source-backed grievance list, Easter blame and Meatwad hunt. Separate Sins gossip includes Kaze's simp-lame line without Brian hearing remotely. Preserve complete rap and escalating exchanges; cut at turns, not every few lines.",
+      "status": "DELIVERED_PROVISIONAL",
+      "placement": "ACTIVE_WORKING_OUTLINE_FULL_DRAFT_PACING_NOT_YET_VALIDATED"
+    },
+    {
+      "episode": 64,
+      "development": "Continue Brian's actual walk from the63 dune ending. Briefly establish dehydration/collapse, then the selected Jawa/Tusken discovery and waking mid-thrust before Jabba and Jar Jar. Keep the discoverers unnamed; no camp-leader subplot, caravan job, travel interview or extended barter. Brian's survival need, knowledge of the established characters, saber and inflated status claims carry the encounter. A small real benefit stays small; no invented shipping scheme. Jar Jar devotion and concealed lyric insult build to the complete Busta poster breakup. Local imitation begins; wider spread still needs elapsed time. No compulsory Sins cutaway just to check attendance.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "ACTIVE_WORKING_OUTLINE_FULL_DRAFT_PACING_NOT_YET_VALIDATED",
+      "execution_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+    },
+    {
+      "episode": 65,
+      "development": "Shang and Baldur's incompatible wants drive the offer, attempted treatment and disastrous response directly. No named broker, paying committee, warehouse job or third-party contract to manufacture access. Preserve real access and character capabilities; no offscreen meeting asserted in WORK. Briefly convey any report toward Kratos/Mimir through an unnamed carrier only when it exists. Brian's adult-camp imitation payoff follows genuine elapsed time and his own attempt to claim influence, not a newly named fan-club organizer. Shang's selected fatal development remains unresolved in method, not a quota death.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "ACTIVE_WORKING_OUTLINE_FULL_DRAFT_PACING_NOT_YET_VALIDATED",
+      "execution_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+    },
+    {
+      "episode": 66,
+      "development": "Starkiller follows the actual old lead, with concise shown travel and uncertainty. Chris's ownership, Kaze's and Arthur's interests, and Starkiller's need for transport drive the vehicle encounter. No repeated blue-awning merchant interview, fresh middleman or sale circuit. Outcome remains open. Brian's separate route may encounter Kratos/Mimir only with actual access; preserve the head-with-a-better-career scene without a job-recruiter subplot.",
+      "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+      "placement": "ACTIVE_WORKING_OUTLINE_FULL_DRAFT_PACING_NOT_YET_VALIDATED",
+      "execution_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+    }
+  ],
+  "current_actual_after_E63": {
+    "candidate_only": false,
+    "elapsed_time": "Several days of Brian crossing/caravan travel; exact day number not fabricated. Sins coastal strand need not share identical clock time.",
+    "locations": {
+      "Brian": "Nearby dunes outside northern Shurima salvage yard, conscious and beginning walk after shove; NOT collapsed/found/woken yet",
+      "Starkiller": "Leaving yard toward northern landing with old contact lead, no return trip completed",
+      "Sins": "Coastal camp; Chris exterior/Billy interior; Meatwad outside for hunt, Charles inside",
+      "TPP": "Submarine at export depot; Jack saber missing, Shake remains aboard pending handling"
+    },
+    "life": {
+      "Daniel": "departed59",
+      "Shake": "deliberately murdered by Brian62; no resurrection",
+      "Frylock": "alive, France per current author",
+      "Keke": "dead; regrowth still gated",
+      "Jesus": "new resurrection63, alive at camp at close; no gang membership"
+    },
+    "funds": {
+      "Sins_common": 2489,
+      "Daniel_separate": 110,
+      "Kaze_personal": 0,
+      "TPP_common": 166,
+      "TPP_separate_receipt": 5,
+      "Brian_cash": "No new fixed balance; passage/provisions earned through shown work"
+    },
+    "custody": {
+      "Clifford_saber": "Brian; same single theft used for murder, carried through travel/audition/shove",
+      "journal": "Brian; complete authored rap, signed positive endorsement by Starkiller, Shake encouraging note with torn corner",
+      "research": "Brian surviving sheets; torn Dutch page provenance exposed",
+      "Busta_poster": "Brian, folded; breakup remains64 future",
+      "headset_console": "both original equipment inside Billy; safe fishing completed; Chris campaign untouched, no whole-game completion",
+      "Daniel_spear": "Kaze custody stored inside Billy; no transfer",
+      "cross_and_crown": "Chris keeps originals inside Billy; not returned. Nails uninspected; church replica separate",
+      "water": "Brian container ruptured on landing; remaining supplies not magically replenished",
+      "cargo": "same as61 excluding no further sales; no chests opened"
+    },
+    "operation": "Fourth instrument stolen, all delivered Sella. Launch deduction30 and spirit balance30 settled; signal tower down; patrol obstructed. Merrit released alive with knowledge.",
+    "injuries": "Dutch head wound/headache ongoing, chart obsession escalates; no diagnostic certainty. Brian rough dune landing, no invented catastrophic injury or instant healing.",
+    "knowledge": "Jack links observed death damage, missing saber and departure evidence; tells Sins actual observations, no omniscient eyewitness. Starkiller knows Chris vehicle configuration/old depot contact/intended inland direction only. Jesus learns priest inspection from Chris's spoken remark; Wade has no mystery answers.",
+    "pending": "Desert collapse/discovery/mid-thrust wake/Jabba/Jar Jar64; imitation and Busta breakup not yet occurred; Kratos/Mimir and later strands unchanged"
+  },
+  "latest_cast_focus_R8": {
+    "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+    "scope": "Forward execution; supplements R6/R7 selected substance. Original delivered manuscripts unchanged.",
+    "rules": "1. Established cast and author-selected crossover characters drive the scenes. Do not create more named incidental merchants, mechanics, guards, guides, buyers or tournament opponents. Necessary outsiders stay unnamed, brief and functional. Removing their names while retaining their lengthy scenes fails this correction. Existing minor names remain in historical evidence but gain no return arc, feud or new point-of-view sequence by default.\n2. Track inventory, ammunition, cash, travel and physical access privately in matching checkpoints. Narrate the minimum needed to understand a consequential choice. No itemized purse recital, recurring repair-for-passage routine, replacement-goods negotiation or new cargo operation used as a runway to the selected scene. Necessary causal clarity remains.\n3. Preserve each full character owner and current abilities. Chris retains original associative Theo-informed speech, culinary/technical competence and literal surreal history; he is not merely an irritated practical adult. Arthur's restraint is not everyone's voice. Brian's self-branding, explanations and status panic differ from Evil's calculated theatrical cruelty and Dutch's grandiose conviction. Billy is an independent personality, not a storage service. No fixed quip rotation or compulsory three-person punchline.\n4. Wade remains the sole main narrator with his established abrasive, associative perspective and bounded knowledge. Make the telling recognizably his without adding a joke after every line, explaining jokes or interrupting an authored performance. Restore personality, not omniscience or new character hearing permissions.\n5. Let depicted conduct establish meaning. Cut labels such as “a real win” after a shown victory and repeated assertions that a freely chosen killing was deliberate. Preserve clarity at the actual decision. Do not soften villainy or manufacture victim justification.\n6. A future encounter must follow what participants want and can do. Do not keep an opponent alive through a weak withdrawal solely for the schedule. The delivered61 Kaze/Tai Lung interruption is preserved as a criticized passage; do not invent a hidden plan or forced rematch to explain it. At any real later encounter, resolve Kaze's choices using his full source and present stakes, not plot protection.\n7. Keep the selected strong scenes spacious: recognition turning into envy, coerced specific praise, ownership-driven religious denial, sincere fishing refuge. Do not compress protected performances or meaningful silences to accommodate errands. No artificial crime/transport bureaucracy linking every scene.\n8. Apply these corrections within the existing Scene Decision Doctrine whole-manuscript read/repair/final-reread. No new review engine, numerical joke quota or guarantee of entertainment. A clean hash is not a quality judgment.\n",
+    "later_movements_rule": "Retain Zaun/Piltover, Riddick, exterior Vecna, Bilgewater/sea, Ionia/Darkin and Noxian movements and their gates. Build from the existing cast's goals. Do not invent one umbrella cargo contract or a named local handler to connect them. No automatic two-episode reservations, forced shared conspiracy or cameo attendance list. Author-selected named crossovers are not prohibited incidental inventions."
   }
 }
