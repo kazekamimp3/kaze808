@@ -106,7 +106,7 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "R21 selected development and presentation committed; revision63/needed62 first,64–65 queued; replacements NOT WRITTEN; nextNEW66; WORK NO DRAFT/PLAY.",
+  "work_status": "R21 installed and read back across scoped four-app records and Project instructions/sources. Revision63/needed62 first,64–65 queued; replacements NOT WRITTEN; nextNEW66; NO DRAFT/PLAY/time advance. Legacy repository CI remains a separate pre-existing issue.",
   "work_resume_checkpoint_latest": "continuity/work/S7NS_R21_Installation_20261024.json",
   "work_change_id": "S7NS_CINEMATIC_COMBAT_FIDELITY_OUTLINE_R21_20261024",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
@@ -3196,7 +3196,7 @@
   "latest_author_selected_R21": {
     "change_id": "S7NS_CINEMATIC_COMBAT_FIDELITY_OUTLINE_R21_20261024",
     "authorization": "Kaze explicit esketit, 2026-10-24",
-    "status": "AUTHOR_SELECTED_WORK_COMMIT",
+    "status": "AUTHOR_SELECTED_INSTALLED_READBACK_WORK_ONLY",
     "author_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
     "reader_outline": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
@@ -3250,7 +3250,19 @@
     "tts_adaptation": "NOT_AUTHORIZED_NOT_PERFORMED"
   },
   "Project_R21_installation": {
-    "status": "PENDING_DESTINATION_READBACK",
-    "receipt": "continuity/work/S7NS_R21_Installation_20261024.json"
+    "status": "INSTALLED_READBACK",
+    "receipt": "continuity/work/S7NS_R21_Installation_20261024.json",
+    "content_commit": "d26ce37ab379eb73175b4caed63bf3a05cb27cde",
+    "package_drive_id": "1TOoJVF8uWYzdVWW-zVsdPifC5iIQU5UE",
+    "package_library_id": "libfile_e77fc00d019c8191bde9377d3e0651da",
+    "project_sources": 6,
+    "instructions_exact": true,
+    "all_reply_fidelity_scope": true,
+    "four_apps": "READBACK_VERIFIED_AFFECTED_SCOPE",
+    "originals_preserved": true,
+    "episode_draft_written": false,
+    "play_authorized": false,
+    "story_time_advanced": 0,
+    "legacy_CI": "347_PREEXISTING_IDENTICAL_ERRORS_NOT_REPAIRED_BY_THIS_BATCH"
   }
 }
