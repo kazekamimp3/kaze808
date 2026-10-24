@@ -2867,10 +2867,11 @@
     "downstream_reconciliation": "Check actual63 Jesus/custody/funds and64–65 dependencies only when replacement exists; original history unchanged by brainstorm",
     "latest_additions": "continuity/editorial/S7NS_R11_Force_Training_Billy_Loyalty_20261023.md",
     "new_proposals": [
-      "Psychometry / auditory Force-sampling manifestation",
       "Group portrait replacement for Easter",
       "Specific limited transport deal and lesson details"
-    ]
+    ],
+    "latest_author_addition": "continuity/editorial/S7NS_R12_Brian_Kratos_Mimir_Reunion_Development_20261023.md",
+    "training_selection": "AUTHOR_SELECTED_COMPACT_PSYCHOMETRY_FOR_REVISION; NOT_YET_ENACTED"
   },
   "latest_work_readback_R10": {
     "change_id": "S7NS_E63_FIRST_AUTHOR_VOICE_ACTION_R10_20261023",
@@ -2926,6 +2927,67 @@
     "original_rap_changed": false,
     "replacement_written": false,
     "story_time_advanced": 0,
+    "play_authorized": false
+  },
+  "latest_Brian_Force_Rap_Reunion_R12": {
+    "change_id": "S7NS_BRIAN_FORCE_RAP_REUNION_R12_20261023",
+    "brief": "continuity/editorial/S7NS_R12_Brian_Kratos_Mimir_Reunion_Development_20261023.md",
+    "raw_lyrics": "continuity/author/S7NS_Brian_Meesa_Thyself_And_Boy_RAW_R12_20261023.txt",
+    "status": "AUTHOR_SELECTED_TRAINING_AND_ENCOUNTER_REQUIREMENTS; NEW_CONSTRUCTION_PROPOSED; NO_EPISODE_DRAFT",
+    "training": {
+      "status": "AUTHOR_SELECTED_FOR_REVISION",
+      "ability": "Latent psychometry; initial sound/emotion echo emphasis",
+      "scope": "Compact genuine lesson and surprising discovery, not full mastery or new training arc",
+      "occurred": false
+    },
+    "performance": {
+      "status": "AUTHOR_SELECTED_FUTURE",
+      "participants": [
+        "Brian",
+        "Kratos",
+        "same physical Mimir",
+        "Jar Jar"
+      ],
+      "bargain": "Actionable Baldur lead for complete song, honest constructive feedback from each Kratos/Mimir, both autographs",
+      "reunion": true,
+      "exact_destination": "OPEN",
+      "acquisition": "PROPOSED brief Baldur/art meeting; not occurred or selected",
+      "outcome": "OPEN"
+    },
+    "lyrics": {
+      "author": "Kaze",
+      "title": "meesa, thyself & boy.",
+      "sha256": "08a072db04f2d8e050f36f50f22684bbc464c99ae390f8f53ca4079a28b130cf",
+      "ending": "scientific fact that um..",
+      "tts_adaptation": "NOT_PERFORMED_NOT_APPROVED_FOR_THIS_EDITION"
+    },
+    "play_authorized": false,
+    "episode_draft_written": false,
+    "story_time_advanced": 0
+  },
+  "latest_work_readback_R12": {
+    "change_id": "S7NS_BRIAN_FORCE_RAP_REUNION_R12_20261023",
+    "github": {
+      "status": "AUTHOR_RAW_BRIEF_OUTLINE_LEDGER_STARTUP_READBACK_EXACT",
+      "author_blob": "74342e93e50972ba0e6dca5a06dec69be368f375",
+      "raw_blob": "22fee42014b2f40e07d015eb0bda0ac5f6874e0a",
+      "brief_blob": "fe703e5c352922f3507beceb9d04c241cbf328f9"
+    },
+    "airtable": {
+      "status": "READBACK_EXACT_SCOPE",
+      "record_id": "reccW8tbgjVA9SBfb"
+    },
+    "notion": {
+      "status": "READBACK_CONTENT_VERIFIED",
+      "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a"
+    },
+    "drive": {
+      "status": "READBACK_EXACT_AUTHOR_HANDOFF_AND_RAW_LYRIC_SNAPSHOT",
+      "file_id": "1NFGd9tfbl7TTGHGvbl5e3qGTnp9P1Bk7"
+    },
+    "original_manuscripts_changed": false,
+    "story_time_advanced": 0,
+    "episode_draft_written": false,
     "play_authorized": false
   }
 }
