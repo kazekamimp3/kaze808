@@ -266,3 +266,10 @@ PROPOSED ONLY: Bossk, Embo, Aurra Sing and IG-88. Bossk brings predatory trackin
 Official focused references consulted: https://www.starwars.com/databank/bossk ; https://www.starwars.com/databank/embo ; https://www.starwars.com/databank/aurra-sing ; https://www.starwars.com/databank/ig-88 . This is a candidate comparison, not a full four-character speech/mechanics audit. Do not merge IG-88 with IG-11, grant Legends abilities to an unspecified canon version, or invent automatic language comprehension for Embo.
 
 Actual65/nextNEW66 preserved; revision63/needed62 first,64–65 queued. No episode draft or PLAY; zero fictional time.
+
+## R17 — consolidated staged review; cast-addition round closed
+Change ID: S7NS_STAGED_REVIEW_CAST_CLOSED_R17_20261023.
+Kaze: “im done with adding new people. display all the shit that is for stage”.
+AUTHOR_SELECTED: Close this round of new cast additions. Retain Yoda/Boba/CadBane/Dooku selections, Hondo removal; Embo/Bossk/AurraSing/IG88 remain unselected. This does not cancel existing selected cast or require adding recommendations.
+Full review of this conversation's saved batch, with approved/open/removed distinctions and retained-thread routing: continuity/editorial/S7NS_Staged_Review_R17_20261023.md. Exact new author lyrics remain under their R12 owner. No episode drafted/played and no story time advance.
+R13 approval overrides R12's earlier PROPOSED acquisition labels. Psychometry/Tràkata are selected FOR REVISION, not yet enacted. Group-photo Easter replacement remains proposed; exact source versions, ending and outcomes remain open. Actual65/nextNEW66 preserved;63/needed62 revision first,64–65 queued. Review is not exhaustive all-season audit or verified Project UI installation.
