@@ -2077,7 +2077,7 @@
       "Group portrait replacement for Easter",
       "Specific limited transport deal and lesson details"
     ],
-    "latest_author_addition": "continuity/editorial/S7NS_R12_Brian_Kratos_Mimir_Reunion_Development_20261023.md",
+    "latest_author_addition": "continuity/author/S7NS_Reunion_Approval_Trakata_TTS_R13_20261023.md",
     "training_selection": "AUTHOR_SELECTED_COMPACT_PSYCHOMETRY_FOR_REVISION; NOT_YET_ENACTED"
   },
   "playback_hold": true,
@@ -2143,5 +2143,19 @@
     "play_authorized": false,
     "episode_draft_written": false,
     "story_time_advanced": 0
+  },
+  "latest_reunion_Trakata_R13": {
+    "change_id": "S7NS_REUNION_APPROVAL_TRAKATA_TTS_R13_20261023",
+    "authority": "continuity/author/S7NS_Reunion_Approval_Trakata_TTS_R13_20261023.md",
+    "reunion_items_1_to_7": "AUTHOR_SELECTED_FUTURE",
+    "Trakata": {
+      "status": "AUTHOR_SELECTED_FOR_LEARNING_NOT_ENACTED",
+      "spoken_spelling": "Trah-kah-tah",
+      "pronunciation_cue": "trah-KAH-tah",
+      "audio_tested": false
+    },
+    "raw_ending_preserved": true,
+    "play_authorized": false,
+    "episode_draft_written": false
   }
 }
