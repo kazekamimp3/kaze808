@@ -1,0 +1,66 @@
+{
+  "change_id": "S7NS_E63_FORCE_FED_R21_PLAY_20261024",
+  "status": "PREPARED_REVIEWED_PAIRED_SAVE_VERIFIED",
+  "authorization": "Kaze explicit play ep63; only revised63",
+  "manuscript": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024.txt",
+  "checkpoint": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024_Checkpoint.json",
+  "manuscript_sha256": "33a8f5bff8ae51d8d215e5d172a536ba8816b1e8090b8abfaa148a19f9623444",
+  "delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED; reconcile after actual complete chat response at next interaction",
+  "author_acceptance": "NOT_ASSERTED",
+  "actual_latest_episode": 65,
+  "next_new_episode": 66,
+  "content_commit": "d823e35fca12bce34314f7833273d4c252ef6e39",
+  "destinations": {
+    "GitHub": {
+      "status": "FOUR_FILES_EXACT_READBACK",
+      "files": [
+        {
+          "path": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024.txt",
+          "sha": "9180b27bbad7253d572e931aeba0e9279cf81114",
+          "exact": true
+        },
+        {
+          "path": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024_Checkpoint.json",
+          "sha": "d035f6859c0c38bd99cf3000d6911b538c3febbe",
+          "exact": true
+        },
+        {
+          "path": "continuity/CURRENT.json",
+          "sha": "76fc9e857fea1a79206895527cc0987a01033560",
+          "exact": true
+        },
+        {
+          "path": "continuity/DELIVERY_LEDGER.json",
+          "sha": "cff1fb0792620f2f0bf170169f6897be36eee5e7",
+          "exact": true
+        }
+      ]
+    },
+    "Airtable": {
+      "status": "AFFECTED_EPISODE_ROW_EXACT_READBACK",
+      "base": "appKCCr9zg0rsfbOI",
+      "table": "tblWgCrRZlvAFxcnH",
+      "record": "recAByyTrxrLjeGyU"
+    },
+    "Notion": {
+      "status": "CONTENT_READBACK_VERIFIED",
+      "page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a"
+    },
+    "Drive": {
+      "status": "MANUSCRIPT_TEXT_AND_CHECKPOINT_BYTES_EXACT_READBACK",
+      "manuscript": "1rvPb3vbUc1l_P6S2YxTi7Qdfz0jDSs4k",
+      "checkpoint": "1C2qACaf62tVHvKHLnV9-YWVKGP5T5HQx"
+    },
+    "Library": {
+      "status": "SAVED",
+      "library_file_id": "libfile_af9c23d2f4608191a40a6053836bf5ee",
+      "file_name": "S3_E63_Force_Fed_R21_20261024_Paired.zip"
+    }
+  },
+  "originals_preserved": true,
+  "episodes_62_64_65_rewritten": false,
+  "story_time_advanced_by_preparation": 0,
+  "projection_note": "Conditional revised63 endpoint and downstream funds/Jesus/limited-skill reconciliation live in frozen paired checkpoint; original actual65 state not overwritten before delivery.",
+  "legacy_repo_CI": "347 prior package mapping failures are a separately known issue; no all-repo CI pass claimed or repair attempted",
+  "next_step": "Render this exact saved manuscript for requestedPLAY; next interaction verify actual full delivery before reconciliation. No automatic64–65 or NEW66."
+}
