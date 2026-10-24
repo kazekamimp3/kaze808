@@ -1,3 +1,170 @@
+# Season 3 — current R21 outline
+
+Author-selected development installed after Kaze's **esketit**, 2026-10-24. WORK ONLY. Actual65 remains DELIVERED_PROVISIONAL, acceptance NOT_ASSERTED, next NEW66. These are prospective sequence units, NOT nineteen episode assignments, drafted scenes or newly occurred canon. Units1–2 describe eligible revision work; units3 onward require actual revised continuity before construction. Protected performances remain complete. All participants use their full existing owners.
+
+## 1. Repair62–63: the murder, departure and useful bargain
+
+Shake is genuinely good at music and offers collaboration. Brian's jealousy drives his own deliberate murder, using the one theft of Clifford's actual lightsaber; Clifford's refuge is not retrospectively blamed for Brian's choice. Brian leaves TPP. Preserve the crime and consequences, not a softened misunderstanding.
+
+Get Brian physically to Starkiller through credible travel. Starkiller wants actionable transport information. Brian has something useful and bargains for a real audience, feedback and endorsement. Compact psychometry discovery/training and selected Trah-kah-tah instruction establish limited progress, not mastery or a training season. Preserve the COMPLETE original FORCE-FED, useful specific reaction, signed endorsement and selected information extraction/push. Starkiller can reassess, refuse further demands and pursue his own objective; earlier meeting/submarine failure is not replayed. Cut repeated refusal, persuasion and waiting loops.
+
+Easter's removal remains a revision direction. Reconcile Jesus/custody/funds and downstream dependencies only when the replacement exists; this outline does not erase delivered history. Do not automatically fill the space with a group photo or domestic replacement scene.
+
+## 2. Repair64–65: desert comedy with consequences
+
+Retain the selected desert, wake, Jabba, Jar Jar and Busta-poster material with full protected comic performances. Give the imitation/collaboration and credit conflict real elapsed cause and response. Preserve Jar Jar's choices and competence. Cut meal/cup/caregiving/logistical repetition that keeps postponing the actual developments.
+
+Shang offers bounded treatment; Baldur's failure to obtain the result he wants leads to the ACTUAL Episode65 killing. Shang is dead afterward. Do not schedule a living Shang/Heisenberg rivalry or another ordinary service from him. Carry the resulting witnesses, access, fear and practical information into the next development.
+
+## 3. NEW66: Chris's vehicle becomes the contested opportunity
+
+Starkiller acts on a useful lead to Chris's actual Subaru/X-wing and assesses what it can really do. Chris owns it, knows it and makes his own decision. Billy independently chooses how to support Chris within his one-exterior/body rules. Resolve a meaningful access decision, bargain, refusal or attempt in the encounter; do not create another chain of ship-inquiry errands. No guaranteed offworld flight, stolen ownership, permanent Starkiller membership or forced fight. No NEW66 manuscript is authorized by this installation.
+
+## 4. TPP earns its money
+
+Working job: recover an occupied waterfront gambling pavilion for its operator while leaving the cashroom and building usable. TPP must physically dislodge credible opposition, not merely arrive and get paid. The occupiers control entrances, an elevated gallery and water escape; they can relocate cash, counter entry and threaten the recoverable property.
+
+Dutch combines persuasion and armed action, with his judgment actually affecting the job. Clifford performs a dangerous marksman contribution without his stolen lightsaber; earning this money matters to his independence/property. Dr. Evil controls timing and access while his grand presentation risks exposure; this is his plan's real success and his status is invested in it. TPP genuinely completes the paying operation and earns the payoff. Exact local names, amount and choreography can be resolved from available geography/resources. The operator need not be secretly evil to justify the Sins stealing from them.
+
+## 5. The Sins rob the collection
+
+Strike WHILE TPP is collecting the earned payoff. Arthur chooses the profitable target with his Dutch history affecting choices rather than replacing the objective. Dana initiates consequential action. Chris controls extraction while a petty personal priority can alter tactics. Billy chooses his contribution and exposure. Kaze applies active pressure with his actual kit. Mana makes an independent physical choice rather than replaying the fetch gag.
+
+TPP counterplays intelligently: route/cash control, cover, divided attention and use of known grudges. Do not inflate them into equal opponents for stronger Sins. The overlapping operation gives insults and absurd priorities physical consequences while enemies keep moving. Theft result remains OPEN: preserve whatever gains, losses, damage and changed grievances the actual construction earns. TPP's job success is not erased merely to make their loss funny.
+
+## 6. Brian's Baldur information buys a real reunion
+
+Working access: Brian and Jar Jar reach a northern Shurima landing and an actual crossing toward the coastal export-depot region connected to Jar Jar's home-information search. Baldur's post65 road departure leads toward onward passage to Zaun because of its medical/alchemical activity. Before departure, the selected art encounter lets Brian acquire the specific lower landing and departure time. He does not magically know future movements.
+
+Kratos and Mimir obtain firsthand information from Shang's death aftermath. Kratos wants to understand this displaced living Baldur and prevent a renewed conflict involving people he knows; Mimir independently evaluates whether the lead is credible and useful. Brian's precise departure information saves a real search, and the schedule permits the full song and actual travel. Jar Jar answers truthfully from his knowledge; no contrived deafness or arbitrary withholding.
+
+Shared history and recognition precede Brian monetizing the inquiry. Negotiate when the detail is supplied; the listeners may question, refuse or seek alternatives. Perform the complete FINAL meesa, thyself & boy. Both give specific honest constructive feedback: useful head/hip/shoulder links and wordplay, places explanation overruns effect, and the difference between surviving something and controlling it. Their voices and opinions remain distinct. Both requested signatures need consent, support for the book and a physically credible Mimir method. Retain the Shake-related question; the response is OPEN. No automatic additional ending, confession, forgiveness or repeat full Baldur performance.
+
+## 7. Noxian spectacle: Johnny Cage and reputation
+
+A public exhibition/performance tied to Draven's reputation puts the Sins' behavior in an audience with actual consequences. Johnny has his own artistic/paid/audience objective and negotiates any use of Chris's camera; he is not an automatic unpaid crew member. Vanity, ownership, credit and control can escalate into physical action in the same scene. His competence can surprise people without making him an equal for everyone.
+
+Do not replay Tai Lung's existing Episode61 victory. Credible publicity can change the unresolved whereabouts thread without granting everyone private knowledge or forcing another first meeting. The public event changes access, reputation or a future opponent's informed choices.
+
+## 8. Zaun: take a stake, not another errand
+
+The Sins choose to coerce a profitable stake or concession from Heisenberg's existing business. Their goal is concrete profit/control; no secretly righteous rescue mission is necessary. Use actual leverage, workforce, geography and resources. The real cure remains real, and Heisenberg's independent character is not retconned into a convenient justification.
+
+Jesse makes his own choices about people and work. Matt follows actual people/evidence.47 operates through a bounded contract. Do not make all three members of one convenient umbrella conspiracy or summon every franchise associate together. The Sins must materially change the negotiation or operation.
+
+## 9. Delsin controls a useful industrial route
+
+Delsin demands payment or obedience for industrial access the Sins actually need. His full-Infamous behavior drives coercion and status; he is not a generic friendly rebel. Vertical routes, vents, smoke, neon/video sources and vulnerable structures make movement and replenishment matter. One power family is active at a time; sources are not infinite.
+
+Each Sin chooses a distinct way through or against this problem using existing abilities. Surprising angles, destructive impacts and resource denial can produce spectacular action without making Delsin Kaze's artificial equal. Let a decisive victory end the fight. The control of the route and actual structural damage persist.
+
+## 10. The Zaun outcome changes the region
+
+Settle control, profit, resources and losses from the operation. Magneto acts from his existing specific protection concern and is not automatically the Sins' ally. Regional natives make consequential independent decisions rather than delivering a council recap. Living/dead/restored source statuses remain individual.
+
+Rick/Morty/Billy engineering can occur only with actual presence, consent, available body and prerequisites. Do not duplicate a completed injection/upgrade or delay the season for an artificial research arc. Meaningful interactions can continue amid the operation's result.
+
+## 11. Brian's consequences: a bounded recovery contract
+
+R21 selects development of the previously proposed Bane recovery contract as a FUTURE plan, not a signed/paid contract or completed encounter. Employer: Dr. Evil; Clifford insists the stolen actual lightsaber is an independently valuable objective. Working terms:25 silver advance,75 for intact saber,100 for Brian alive. Verify available reserves or earned job funds before any payment. Money stolen from TPP cannot simultaneously fund the contract. No ledger deduction occurs in outline work.
+
+No requirement to attack the Sins, Billy or unrelated property. Bane can refuse/renegotiate concealed or expanded danger, recover one objective, withdraw or change tactics. Brian's death forfeits the live-capture fee. Evil's wish for later cruelty is not control over Bane's choices. Bane follows actual departure witnesses, saber use and Brian's self-promotion, not private-journal omniscience.
+
+Brian's limited psychometry or learned timing can secure a real immediate advantage against a dangerous opponent, without instant mastery or a guaranteed final result. Capture, recovery and escape remain OPEN. Preserve Brian's earned successes instead of forcing every win into humiliation.
+
+## 12. Riddick's escape and selected fatal consequence
+
+Boba takes bounded paid defense of particular Heisenberg facilities/equipment during the Zaun conflict, not lifelong allegiance. Riddick escapes a hazardous worksite through the route/pursuit opened by the Sins' operation, observes conditions, retrieves accessible gear and kills a pursuer through actual competence. Billy's exterior commentary mistakes Riddick's silence for listening; preserve that selected joke mechanism without erasing the escape's danger. Their routes divide for a credible reason.
+
+Boba tracks the compromised exit and intercepts. Riddick refuses surrender; darkness, machinery and ambush give him a real advantage, and Boba counters with his actual selected armor/kit. Planned future fatal resolution: Boba kills Riddick during the escape fight, while Riddick damages the operation. This is a selected OUTLINE outcome, not an occurred death. Choreography must support it without forgotten skills, unlimited armor or making nearby Sins disappear. If actual continuity makes that impossible, flag the conflict rather than manufacture incompetence.
+
+## 13. Exterior horror: Vecna and Courage
+
+An actual exterior obstruction/threat interrupts something the Sins are trying to do. Courage independently investigates or attempts rescue, with fear and resourcefulness both active. His observations, experiments and physical decisions change what can be understood or attempted. Vecna's exact limits, information access and actual threat remain source-bound.
+
+The Sins actively test and respond; no repeated dream-only teasing or passive witness tour. Billy's protected body/interior is not compromised by invented access. Resolve the local objective and retain its consequences. Courage may leave; admission is not permanent passenger status or permission to bring his household along.
+
+## 14. Bilgewater: Arthur chooses the operation
+
+Arthur initiates a profitable criminal or territorial operation with a concrete target and personal choice. Graves/TF, Miss Fortune and Gangplank have separate interests; do not assemble every regional antagonist into one coalition. Other Sins affect the scheme, response and outcome through their own methods. Success changes resources, leverage, territory or a relationship, rather than ending with another invitation to the next job.
+
+## 15. Billy's sea conflicts have distinct triggers
+
+Nautilus and Pyke arise through their separate source triggers, not interchangeable sea-monster appearances. Nami and Illaoi retain their own objectives and refusals. Tahm's hospitality offers something actually wanted with a dangerous intelligible price. Billy's choices and relationships drive the scenes. No arrival episode for every listed name, generic exposition tour or compulsory defeat of all sea actors.
+
+## 16. The world-serpent changes an actual route
+
+One older world-encircling Yormungander affects a real operation, route or geography. Billy's hatred collides with his practical objective; Thor wants homeward progress; Mimir contributes only knowledge he actually has. The serpent is independent. No duplicated serpent, free portal, automatic global catastrophe or forced fight. Scale is visible in physical geography and action rather than an adjective announcing greatness.
+
+## 17. Ionia: Kaze interferes with Kayn's seizure
+
+Working trigger: Kayn attempts to seize Xolaani's bloodletters, borrowing that conflict premise without importing all of a Legends of Runeterra alternate sequence as already happened history. Kaze follows real information and deliberately interferes from his own curiosity, interest in danger/mastery and chosen objective, not a compulsory heroic duty.
+
+Kayn wants possession/control; Rhaast pursues his own agenda. Access, weapon custody, terrain and source-specific Darkin conditions shape the fight. The environment can be torn apart only at supported scale. No automatic Jun death, temple massacre, Xolaani apocalypse, Shadow Assassin outcome or Rhaast possession victory. No artificially prolonged parity. Yone needs an independent reason to be present and is not a mandatory preliminary boss.
+
+## 18. Darkin gates remain individual
+
+Styraatu's recovered keeper-handoff reference is PROSPECTIVE_UNPLAYED; actual custody remains UNVERIFIED. Do not rediscover or assign the harp to Billy from that proposal. Zaahen's source release through Xin Zhao's sacrifice is EXPANDED_SCOPE_NOT_SELECTED; this batch does not authorize that native fate change or a substitute body/duplicate Xin. Develop only what does not depend on it.
+
+Ibaaros: a physical harpoon contest can be developed, but host species is not yet established and cannot be certified by invention. Taarosh needs a real bearer/release attempt; manifestation is not guaranteed and no free ghost army is added. Praa needs an actual spirit-boundary event, not an arbitrary BELLY portal. Naafiri is the existing pack. Preserve Aatrox's identity-erasure hold, the seven ancient dead as history, unknown Cebotaru/Valeeva roles, Varus exclusion and Naganeka's removal. No generic seven-boss itinerary.
+
+## 19. Later Noxus: cash in the season's consequences
+
+Chosen operation: take a major arena event's gate and wagering money under informed opposition. Prior reputation, methods, access and personal consequences now affect the attempt. TPP may pursue a competing bargain; Johnny has his own interest. Each Sin makes a consequential choice; the result settles an operation rather than merely advertising another one.
+
+Dooku offers useful access/protection with terms designed to create dependence. Yoda independently investigates an actual report, recognizes his former student and acts from concern about coercion/power. The Sins exploit, reject or bargain for their own objective. Neither is another compulsory judge for Brian's music. Mordekaiser enters only with legitimate source access; do not invent a convenient portal. No all-villain cameo assembly or forced equal boss battle.
+
+## Continuing threads and boundaries
+
+Dr. Evil's sole calculated-cruelty long con needs renewed legitimate access to Brian and a credible specifically valued reliance before betrayal; Brian is not automatically back in TPP. Clifford's RDR2→RDR1 progression occurs over real time through meaningful changes, not routine gaming reports. Dutch's paint/tattoos matter when they change an interaction, with grief and competence preserved. Keke requires an actual regrowth event and elapsed development. Orra/hidden plate/chests stay unknown until legitimately discovered; repeated teasers are not progress.
+
+There is no reserved final episode count.66 is next NEW, and later episode construction depends on revised continuity. No completed introduction, victory, death, murder, theft or discovery is repeated. No episode manuscript, replacement checkpoint or fictional time is created by this outline.
+
+
+## R21 — selected cast applications and research boundaries
+
+The Knockturnal source screening covered295 actual registry rows; the source's header says297. Catalog admission alone never proves a current location, carried equipment, onstage appearance or alliance. The selected additions for future Season3 development are Johnny Cage, Delsin Rowe and Courage. Other catalog reserves are not automatically selected. Hondo remains removed; proposed Bossk/Embo/Aurra/IG88 are not added.
+
+### Johnny Cage — MK1 New Era
+
+Use the New Era Johnny after his ending begins his public media project. Self-mythologizing celebrity/showmanship, reputation and money coexist with growing responsibility, friendship and courage. His humor comes from sincere theatrical priorities, status mistakes, modern references and how other people answer him; he is not an endless quotation dispenser. Skilled close-range martial arts, mobility, feints and the selected Hype performance mechanic remain bounded by the actual kit. No older-timeline green ancestry powers or composite feats. No transported studio, crew, money or global media network merely from admitting him. At the Noxian performance he pursues his own audience/work and negotiates camera access with Chris.
+
+Sources used in the focused text research: Mortal Kombat Warehouse MK1 biography/ending https://www.mortalkombatwarehouse.com/mk12/characters/johnnycage/ and dialogue https://www.mortalkombatwarehouse.com/mk12/dialogue/ . Treat versus intros as hypothetical exchanges, and later DLC knowledge as outside the chosen snapshot. Official Kombat Kast gameplay was routed through contemporary coverage https://www.playstationlifestyle.net/2023/07/06/mortal-kombat-1-johnny-cage-scorpion-gameplay/ ; this is secondary reporting, not a claim that the video was fully watched.
+
+### Delsin Rowe — full Infamous evil ending
+
+Use full-Infamous rank after the post-Augustine evil ending. Resentment, swagger, coercive self-interest, provocation and the demand to be recognized drive him; do not blend in the good-ending reformer. Preserve his relationship history and information cutoff. His modern playful speech can turn vindictive when refused; no compulsory banter in every exchange or new allies imported from the game.
+
+Smoke, neon, video and concrete have their own mobility, attack, resource and replenishment conditions. One family is active at a time. Actual source access matters. No unlimited charge, simultaneous all-family composite or copying arbitrary Runeterra magic. His industrial access demand creates a real choice for the Sins; he is not artificially upgraded to balance Kaze.
+
+Primary sources consulted: PlayStation's official Delsin introduction https://blog.playstation.com/?p=120956 , neon reveal https://blog.playstation.com/?p=120615 and karma discussion https://blog.playstation.com/?p=124781 . Game text was accessed in mirrored, partially indexed script extracts https://infamous.fandom.com/wiki/Infamous%3A_Second_Son/Script ; supporting Power_Absorption, Evil_Karma, Video and Concrete wiki pages are secondary mechanics references. This does not certify a complete audiovisual playthrough or every source detail.
+
+### Courage — late original series
+
+Use the later original Cartoon Network series before the series ending closes; preserve the established broad snapshot rather than invent a precise unseen extraction scene. He is frightened, loyal, inventive and persistent. Physical reactions, expressive babble and selective clear speech carry much of his behavior. Terror does not erase problem-solving or independent choices. Do not convert him into a generic chatty human dog or a quiet prop.
+
+Cartoon expressiveness remains available under the source mechanics, but not universal invulnerability, a portable inventory of every one-off artifact, or automatic solutions. Muriel, Eustace and the computer are not imported by selecting Courage. He cannot hear Wade without an established permission. The exterior Vecna situation gives him his own investigation/rescue purpose and a possible departure.
+
+Creator and writer sources: https://www.stretchfilms.com/about and https://dstevencohen.com/about . Full first-draft scripts read: Freaky Fred https://dstevencohen.com/wp-content/uploads/2013/10/freaky-fred-sample.pdf ; Wrath of the Librarian https://davidstevencohen.files.wordpress.com/2013/10/wrath-of-the-librarian-sample.pdf ; The Uncommon Cold https://dstevencohen.com/wp-content/uploads/2013/10/uncommon-cold-sample-1.pdf . Draft-specific details are not automatically aired canon. No complete-series viewing or TTS test is claimed.
+
+### Star Wars source-time choices for future use
+
+Read the existing research/StarWars_New_Roster_Fidelity_R19_20261023.md and complete individual owners for speech, psychology, kit and relationships. R21 resolves the former OPEN snapshot selections:
+
+- Yoda: Revenge of the Sith immediately BEFORE the Senate confrontation with Sidious. Order66 and Anakin's betrayal are known; this duel and later Luke training are not memories yet. This reconciles the recovered C3F source pin; no invented younger-prime multiplier.
+- Boba Fett: after delivering Han to Jabba, BEFORE the rescue/sail-barge battle. No remembered Sarlacc survival, Tusken years or later ruler history.
+- Cad Bane: immediately AFTER the successful Senate Hostage Crisis operation. No invented release from a later prison, future career memory or guaranteed employer obedience.
+- Count Dooku: immediately AFTER escaping the confrontation in The Lost One. The Jedi have discovered Tyranus's identity; no future execution knowledge.
+
+Only compatible personal carried equipment is eligible. Selecting an actor does not transport a ship, army, assistants, Todo, crew, money or base. No new Star Wars character is added by this source-time selection. Distinct syntax, social behavior, priorities and tactics remain individual, not shared Kaze/Wade speech.
+
+These are researched application notes and selected future source boundaries, not replacements for complete canon owners, new approved Kaze-voice samples, proof of a performed scene or exhaustive audiovisual certification. Future material claims still need their relevant full source passage.
+
+
+---
+
+# Preserved prior R7 outline — historical where superseded by R21
+
 # S7NS — condensed, interwoven Season 3 outline R7
 
 Change ID: S7NS_CONDENSED_WEAVE_R7_20261023

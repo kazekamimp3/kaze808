@@ -106,9 +106,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "E63-first revision brief and test rap saved; original-source humor/action/project-voice direction active; replacement not written, NO PLAY",
-  "work_resume_checkpoint_latest": "continuity/work/S7NS_Condensed_Weave_R7_Readback_20261023.json",
-  "work_change_id": "S7NS_CONDENSED_WEAVE_R7_20261023",
+  "work_status": "R21 selected development and presentation committed; revision63/needed62 first,64–65 queued; replacements NOT WRITTEN; nextNEW66; WORK NO DRAFT/PLAY.",
+  "work_resume_checkpoint_latest": "continuity/work/S7NS_R21_Installation_20261024.json",
+  "work_change_id": "S7NS_CINEMATIC_COMBAT_FIDELITY_OUTLINE_R21_20261024",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": "continuity/work/S7NS_Cumulative_Replacement_Patch_Resume_20261022.json",
@@ -2819,10 +2819,10 @@
     "dependent_departure_episode": 62,
     "original": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
     "brief": "continuity/editorial/E63_First_Revision_Comedy_Action_And_Rap_Ideas_20261023.md",
-    "status": "APPROVED_STAGED_DIRECTIONS_CONSOLIDATED; REPLACEMENT_NOT_WRITTEN",
+    "status": "R21_DIRECTIONS_INSTALLED_REPLACEMENT_NOT_WRITTEN",
     "change_id": "S7NS_REVISION_CONFIRMATION_FORCE_LOYALTY_R11_20261023",
     "play_authorized": false,
-    "author_scope": "R11–R17: revise63 first with needed62; compact psychometry and Trakata selected; Easter cut, replacement open; Baldur/reunion selectedR13;64–65 queued; cast-addition round closed",
+    "author_scope": "R21 current batch; revision63/needed62 first;64–65 queued; preserve originals and actual65; compact training remains for revision, not occurred.",
     "deferred_revision": {
       "episode_span": [
         64,
@@ -2870,7 +2870,7 @@
       "Group portrait replacement for Easter",
       "Specific limited transport deal and lesson details"
     ],
-    "latest_author_addition": "continuity/author/S7NS_Reunion_Approval_Trakata_TTS_R13_20261023.md",
+    "latest_author_addition": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
     "training_selection": "AUTHOR_SELECTED_COMPACT_PSYCHOMETRY_FOR_REVISION; NOT_YET_ENACTED"
   },
   "latest_work_readback_R10": {
@@ -3192,5 +3192,65 @@
     "story_time_advanced": 0,
     "episode_draft_written": false,
     "play_authorized": false
+  },
+  "latest_author_selected_R21": {
+    "change_id": "S7NS_CINEMATIC_COMBAT_FIDELITY_OUTLINE_R21_20261024",
+    "authorization": "Kaze explicit esketit, 2026-10-24",
+    "status": "AUTHOR_SELECTED_WORK_COMMIT",
+    "author_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+    "reader_outline": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
+    "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+    "lyrics_owner": "continuity/author/S7NS_Brian_Meesa_Thyself_And_Boy_FINAL_20261024.txt",
+    "lyrics_sha256": "4d749962325593595677cb3cd04a839cd215f123a28df9365f43216e75a28825",
+    "installation_receipt": "continuity/work/S7NS_R21_Installation_20261024.json",
+    "last_delivered_episode": 65,
+    "next_new_episode": 66,
+    "author_acceptance": "NOT_ASSERTED",
+    "episode_draft_written": false,
+    "play_authorized": false,
+    "story_time_advanced": 0,
+    "dependencies": [
+      {
+        "subject": "Styraatu",
+        "status": "ACTUAL_CUSTODY_UNVERIFIED",
+        "boundary": "Recovered keeper handoff is PROSPECTIVE_UNPLAYED; no new discovery/custody assignment."
+      },
+      {
+        "subject": "Zaahen",
+        "status": "EXPANDED_SCOPE_NOT_SELECTED",
+        "boundary": "Xin Zhao sacrifice/native fate change is not authorized; no substitute vessel or duplicate."
+      },
+      {
+        "subject": "Ibaaros",
+        "status": "HOST_SPECIES_UNRESOLVED",
+        "boundary": "Do not invent host certification."
+      },
+      {
+        "subject": "Brian_Shake_question",
+        "status": "RESPONSE_OPEN",
+        "boundary": "No automatic confession, forgiveness or answer."
+      },
+      {
+        "subject": "TPP_theft_and_Bane_pursuit",
+        "status": "RESULTS_OPEN",
+        "boundary": "No guaranteed theft result, capture, recovery or escape."
+      }
+    ]
+  },
+  "current_lyrics": "continuity/author/S7NS_Brian_Meesa_Thyself_And_Boy_FINAL_20261024.txt",
+  "historical_revision_fields_rule": "R8–R20 named fields retain their historical evidence and receipts. Use latest_author_selected_R21 for current scoped decisions; older unfinished song, source-time OPEN, Bane PROPOSED and prior chronology labels are superseded only as stated in R21. Actual delivered records are not rewritten.",
+  "current_draft_work_order": "Revision63 and necessary62 dependencies, TPP job/theft development,64–65 revision, Brian reunion, hunter consequences, then construction of NEW66 from revised continuity. No manuscript authorized by R21 commit.",
+  "current_final_lyrics": {
+    "path": "continuity/author/S7NS_Brian_Meesa_Thyself_And_Boy_FINAL_20261024.txt",
+    "author": "Kaze",
+    "sha256": "4d749962325593595677cb3cd04a839cd215f123a28df9365f43216e75a28825",
+    "status": "FINAL_AUTHOR_TEXT_FUTURE_PERFORMANCE_NOT_OCCURRED",
+    "prior_raw_preserved": "continuity/author/S7NS_Brian_Meesa_Thyself_And_Boy_RAW_R12_20261023.txt",
+    "unfinished_ending_hold": "SUPERSEDED_BY_LATEST_FINAL_AUTHOR_TEXT",
+    "tts_adaptation": "NOT_AUTHORIZED_NOT_PERFORMED"
+  },
+  "Project_R21_installation": {
+    "status": "PENDING_DESTINATION_READBACK",
+    "receipt": "continuity/work/S7NS_R21_Installation_20261024.json"
   }
 }

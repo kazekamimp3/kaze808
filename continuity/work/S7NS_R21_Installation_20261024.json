@@ -1,0 +1,48 @@
+{
+  "change_id": "S7NS_CINEMATIC_COMBAT_FIDELITY_OUTLINE_R21_20261024",
+  "authorization": "Kaze explicit esketit",
+  "status": "COMMIT_PREPARED_DESTINATION_READBACK_PENDING",
+  "base_commit": "daa49233196f8a84c48fe027b69537d529414052",
+  "project_url": "https://chatgpt.com/g/g-p-6a9c53a105e48191bd3b152c60e5232f/project",
+  "actual65": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "next_new_episode": 66,
+  "episode_draft_written": false,
+  "play_authorized": false,
+  "story_time_advanced": 0,
+  "protected_originals": "Original manuscript/checkpoint paths and DELIVERY_LEDGER unchanged; RAW_R12 lyric remains unchanged. R21 final is a separate Kaze-authored version.",
+  "destinations": {
+    "github": {
+      "status": "PENDING"
+    },
+    "airtable": {
+      "status": "PENDING"
+    },
+    "notion": {
+      "status": "PENDING"
+    },
+    "drive": {
+      "status": "PENDING"
+    },
+    "project_instructions": {
+      "status": "PENDING"
+    },
+    "project_sources": {
+      "status": "PENDING"
+    }
+  },
+  "validation": {
+    "json_syntax": "PASS",
+    "actual_state_unchanged": "PASS",
+    "sequences": 19,
+    "final_lyrics_sha256": "4d749962325593595677cb3cd04a839cd215f123a28df9365f43216e75a28825"
+  },
+  "unresolved": [
+    "Styraatu actual custody unverified",
+    "Zaahen release through Xin Zhao sacrifice not selected/expanded scope",
+    "Ibaaros host species unestablished",
+    "Brian response to Shake question open",
+    "Theft and Bane pursuit outcomes open"
+  ],
+  "rollback": "Revert only this batch through scoped file restoration after reconciling newer changes; preserve original sources and history. Prior Project instructions archived in project_install/20261024_R21/PROJECT_INSTRUCTIONS_BEFORE.txt. Prior R20 ZIP remains on Drive13EtV-GZkc6PY8t5kbGZgeORn40FLX8La."
+}

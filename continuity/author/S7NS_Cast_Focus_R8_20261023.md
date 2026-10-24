@@ -1,3 +1,124 @@
+R21 CURRENT AUTHORITY — 2026-10-24. Read the R21 section first; older sections below are preserved scoped history. The explicit esketit installs development/presentation directions only. Actual65 DELIVERED_PROVISIONAL; acceptance NOT_ASSERTED; next NEW66; WORK ONLY, no episode draft/PLAY/time advance.
+
+# R21 — cinematic action, active comedy, author fidelity and outline development
+
+Commit authorization: Kaze's explicit **esketit**, 2026-10-24. This installs the scoped staged decisions as WORK directions. It does not deliver, accept, draft or play an episode or advance fictional time. Older sections remain dated evidence; R21 supersedes conflicting earlier directions only within this batch's actual scope.
+
+## Story position and work order
+
+Actual latest delivery remains Season 3 Episode 65, **A Little Feeling**, DELIVERED_PROVISIONAL. Author acceptance NOT_ASSERTED. Next NEW episode 66. No replacement manuscript exists from this work. Preserve every actual event, knowledge boundary, injury, resource, custody, location, relationship and consequence until an authorized replacement has been constructed and reconciled.
+
+The approved work priority remains: (1) Episode63 and strictly necessary62 dependencies; (2) TPP's real paying operation and the Sins' theft during collection; (3) revisions64–65; (4) Brian/Kratos/Mimir/Jar Jar reunion; (5) purposeful consequences/hunter development; (6) later construction of NEW66 from the actual revised continuity. This development order is separate from the outline's prospective story order. Installation authorizes no episode manuscript or automatic PLAY.
+
+Preserve Shake's genuine talent and collaboration offer, Brian's jealousy and deliberate murder, ONE theft of Clifford's actual lightsaber, departure from TPP, full original FORCE-FED, useful transport information, Brian's leverage/feedback demand/signed endorsement, compact psychometry discovery and selected Tràkata development (spoken **Trah-kah-tah**), and Starkiller's independent intelligence and actual kit. Remove delay and repetition around the performance, never abbreviate the performance itself. Training selected for revision is not an already occurred acquisition.
+
+Preserve the desert, Jabba, Jar Jar, Busta-poster and Baldur developments and complete protected comedy performances. Preserve Episode65's actual outcomes, including Baldur killing Shang. Reduce repeated meal/cup/caregiving/logistics passages that no longer change a decision, relationship or situation. Quiet scenes can still earn their space.
+
+## Meaningful Sins screen time; no filler or sterilization
+
+Kaze, Chris, Billy, Arthur, Dana and their actual companions must substantially initiate, choose, act, adapt and affect consequences. A main character being mentioned, standing nearby, receiving an errand or supplying an interchangeable quip is not meaningful screen time. No equal-time quota; build the selected ensemble's sustained participation into the actual operations. Do not let crossover introductions or Brian's extended approach scenes displace the Sins' story.
+
+Cut scenes whose only function is postponement: repeated refusals, re-explained information, council recaps without a new decision, walking to another permission desk, repeated caregiving, recurring inventory discussions, setup for setup, or another promise of later action. Merge necessary travel and logistics into the consequential scene. Do not label full author performances, genuine relationship development, dread, meaningful quiet or an earned ordinary success as filler merely because they are not plot acceleration.
+
+Kaze's speech and humor fidelity governs **all S7NS collaboration**, including analysis, research, outlines, work updates and short replies. Use the existing S7NS — Kaze's Voice & Creative Fidelity skill and approved samples; do not make Kaze restate it for each response. Be direct, specific, candid and naturally responsive to his register. Do not replace his motives with therapeutic explanations, preemptively sanitize permitted material, or substitute bureaucratic language and generic profanity for invention. Do not mimic every typo or add forced swearing. Do not spread Kaze's speech over characters: each retains the complete individual voice owner.
+
+Arcane, Rick and Morty, Trover and High on Life remain relevant influences alongside the existing approved influences. Apply their useful qualities through S7NS's own people, causality, dramatic weight and specific humor; no copied scenes, blended universal voice or compulsory reference jokes.
+
+The existing **A01–A20 and T001–T120** catalog provides 140 available narrative techniques. Consult and use relevant techniques proactively without waiting for Kaze to name one. They serve clarity, tension, surprise, emotion, action or humor, not visible technique demonstrations. No quota, rotation, forced twist or second storytelling procedure. The existing Season3_Scene_Decision_Doctrine remains the ONE construction and revision procedure.
+
+## Legendary combat
+
+Restore genuinely spectacular, memorable, high-impact fighting appropriate to established characters. Make speed, force, technique and scale observable through movement, resistance, impacts, structural failure, altered terrain and what participants can actually do next. Tremendous geographic effects are available only when supported by the complete existing mechanics and circumstances.
+
+Retain each actor's fighting intelligence, equipment, powers, knowledge, reactions, limits and independent choices. No artificial incompetence, automatic counterpower, forced evenly matched exchange or inflated opponent. Kaze, Chris, Billy, Arthur, Dana, Clifford, Brian and crossover fighters must not fight interchangeably; their actual personalities and techniques determine initiation, adaptation, counters, finishes and withdrawals.
+
+Real damage, injuries, resources spent, environmental change, death, victory, humiliation and changed relationships persist. A brilliant short fight, one-sided execution, extraordinary defense or humiliating reversal can be legendary. Do not prolong an earned victory to satisfy spectacle or episode length. This requirement grants NO new power, transformation, resistance, speed, output or equipment.
+
+## Action and humor together
+
+Comedy and fighting may develop in the same unfolding physical situation. Specific insults, absurd consequential tactics, petty disagreements, dangerous misunderstandings, surprising competence, real humiliation and intelligent opposition to bizarre behavior can change position, create an opening, provoke a counter, or contribute to victory or defeat. Characters take ridiculous priorities seriously for their own reasons.
+
+Keep combat physics and time moving while characters talk. Enemies do not freeze for punchlines. Humor is not compulsory during every dangerous moment; horror, focused action, sincerity, silence and devastating outcomes retain their full effect. Profanity alone is not a joke.
+
+## Cinematic audio-first presentation
+
+A listener with closed eyes must understand and visualize the experience. Naturally establish consequential terrain, geography, architecture, obstacles, elevation, lighting, visibility, positions, relative distances, movement and orientation. Track changes after damage and relocation. Avoid unnecessary measurements and decorative inventories.
+
+For major action, make clear where an attack originates, its route/contact when relevant, what it hits, what resists it and what physically follows. Select motion, sound, impact, texture, dust, debris, pressure and changing silhouettes to make the event vivid. Respect actual mechanics, viewpoint and knowledge.
+
+Write for spoken comprehension: natural rhythm, clear transitions, recognizable speakers and deliberate pace variation. Longer descriptions can build immersion or anticipation; short direct sentences can carry sudden violence and decisive impacts. Avoid repetitive adjectives, excessive metaphors, purple prose and technical lectures that obscure what happened.
+
+Apply this beyond fighting: physical uncertainty and reactions for horror; readable physical timing for comedy; meaningful gestures, surroundings and silence for quiet relationships; important location changes for travel; distinct sincere responses for emotional moments. No automatic joke or therapeutic reinterpretation at an emotional beat.
+
+## Wade and the individual voices
+
+Deadpool/Wade is the sole ordinary Season3 main-story narrator from Episode33. Billy retains separate authority for established Specials. Follow Wade's selected film characterization and complete current owner: inventive specific outrageous associations, irreverence, vulgarity, fourth-wall commentary, hostile logic, improvisation, interruption, tonal turns and genuine emotional reaction. He is not an impersonal commentator with swear words pasted on.
+
+Let spectacle register. Wade may be amazed, horrified, delighted, disgusted, confused, quiet or late with a joke. Do not erase the magnitude of every impact with an immediate gag. His interpretation remains bounded by actual observed or narrated information: no automatic hidden motives, private conversations, future events, unresolved author choices, secret identities or source-file knowledge. He may speculate, misunderstand, exaggerate or be wrong. Existing fourth-wall hearers keep only their established permissions. Brian cannot hear Wade.
+
+## Latest final lyrics and reunion
+
+The new protected raw owner is **continuity/author/S7NS_Brian_Meesa_Thyself_And_Boy_FINAL_20261024.txt**. Kaze supplied the full final song in this conversation. Preserve every supplied word, spelling, line and joke; the new ending supersedes the older unfinished-ending hold. Do not invent further lyrics, replace passages, normalize a TTS edition or silently fix spelling. Preserve the older RAW_R12 file unchanged as a prior version. This is author text, not a newly occurred performance. Lyric claims do not independently establish height, past encounters, knowledge or physical events.
+
+The future reunion retains legitimate access/shared history, useful Baldur information, Brian's voluntary bargain, Kratos and Mimir's independent judgments, genuine specific constructive feedback from BOTH, both physically credible autographs, and Jar Jar's independent presence/knowledge/choices. The existing Shake-related question remains; Brian's response is OPEN. No forced confession, forgiveness or conveniently helpless powerful audience. Kratos needs a credible emotional/practical Baldur purpose.
+
+## Scope and authorship
+
+Five R20 substance approvals remain: independent powerful listeners; credible Kratos/Mimir Baldur motivation; personal TPP stakes; credible selected hunter terms/agency; real Brian successes. Their older numbering belongs to that older review, not a blanket approval of every brainstorming list.
+
+Fight illustrations are not automatic encounter outcomes: Kaze/Kayn/Rhaast, the Sins/TPP theft and Brian's effective new technique preserve their source gates. The developed R21 future selections below close only their explicitly stated gaps. No automatic deaths, survival, rewards, mastery, recovery, capture or escape beyond a separately selected future outcome. No new abilities to make a fight bigger.
+
+Preserve original manuscripts, protected lyrics, history and rollback. Do not restore Hondo or other removed actors/powers; add no unapproved Star Wars character; repeat no completed first meeting/discovery; reset no murder/theft; restore no living Shang or ongoing material-world Daniel; change no romance/membership configuration; convert no proposal example into a mandatory scene; or rewrite unrelated owners. Styraatu custody and Zaahen's expanded-scope source release remain explicit dependencies.
+
+Original premises, fictional concepts, character directions, raw lyrics, humor sensibility and creative selections belong to Kaze. AI consolidation, technical phrasing, researched application and developed outline construction remain distinguishable. Neither source research nor an AI-written episode automatically becomes an approved Kaze-voice sample.
+
+
+## R21 — selected cast applications and research boundaries
+
+The Knockturnal source screening covered295 actual registry rows; the source's header says297. Catalog admission alone never proves a current location, carried equipment, onstage appearance or alliance. The selected additions for future Season3 development are Johnny Cage, Delsin Rowe and Courage. Other catalog reserves are not automatically selected. Hondo remains removed; proposed Bossk/Embo/Aurra/IG88 are not added.
+
+### Johnny Cage — MK1 New Era
+
+Use the New Era Johnny after his ending begins his public media project. Self-mythologizing celebrity/showmanship, reputation and money coexist with growing responsibility, friendship and courage. His humor comes from sincere theatrical priorities, status mistakes, modern references and how other people answer him; he is not an endless quotation dispenser. Skilled close-range martial arts, mobility, feints and the selected Hype performance mechanic remain bounded by the actual kit. No older-timeline green ancestry powers or composite feats. No transported studio, crew, money or global media network merely from admitting him. At the Noxian performance he pursues his own audience/work and negotiates camera access with Chris.
+
+Sources used in the focused text research: Mortal Kombat Warehouse MK1 biography/ending https://www.mortalkombatwarehouse.com/mk12/characters/johnnycage/ and dialogue https://www.mortalkombatwarehouse.com/mk12/dialogue/ . Treat versus intros as hypothetical exchanges, and later DLC knowledge as outside the chosen snapshot. Official Kombat Kast gameplay was routed through contemporary coverage https://www.playstationlifestyle.net/2023/07/06/mortal-kombat-1-johnny-cage-scorpion-gameplay/ ; this is secondary reporting, not a claim that the video was fully watched.
+
+### Delsin Rowe — full Infamous evil ending
+
+Use full-Infamous rank after the post-Augustine evil ending. Resentment, swagger, coercive self-interest, provocation and the demand to be recognized drive him; do not blend in the good-ending reformer. Preserve his relationship history and information cutoff. His modern playful speech can turn vindictive when refused; no compulsory banter in every exchange or new allies imported from the game.
+
+Smoke, neon, video and concrete have their own mobility, attack, resource and replenishment conditions. One family is active at a time. Actual source access matters. No unlimited charge, simultaneous all-family composite or copying arbitrary Runeterra magic. His industrial access demand creates a real choice for the Sins; he is not artificially upgraded to balance Kaze.
+
+Primary sources consulted: PlayStation's official Delsin introduction https://blog.playstation.com/?p=120956 , neon reveal https://blog.playstation.com/?p=120615 and karma discussion https://blog.playstation.com/?p=124781 . Game text was accessed in mirrored, partially indexed script extracts https://infamous.fandom.com/wiki/Infamous%3A_Second_Son/Script ; supporting Power_Absorption, Evil_Karma, Video and Concrete wiki pages are secondary mechanics references. This does not certify a complete audiovisual playthrough or every source detail.
+
+### Courage — late original series
+
+Use the later original Cartoon Network series before the series ending closes; preserve the established broad snapshot rather than invent a precise unseen extraction scene. He is frightened, loyal, inventive and persistent. Physical reactions, expressive babble and selective clear speech carry much of his behavior. Terror does not erase problem-solving or independent choices. Do not convert him into a generic chatty human dog or a quiet prop.
+
+Cartoon expressiveness remains available under the source mechanics, but not universal invulnerability, a portable inventory of every one-off artifact, or automatic solutions. Muriel, Eustace and the computer are not imported by selecting Courage. He cannot hear Wade without an established permission. The exterior Vecna situation gives him his own investigation/rescue purpose and a possible departure.
+
+Creator and writer sources: https://www.stretchfilms.com/about and https://dstevencohen.com/about . Full first-draft scripts read: Freaky Fred https://dstevencohen.com/wp-content/uploads/2013/10/freaky-fred-sample.pdf ; Wrath of the Librarian https://davidstevencohen.files.wordpress.com/2013/10/wrath-of-the-librarian-sample.pdf ; The Uncommon Cold https://dstevencohen.com/wp-content/uploads/2013/10/uncommon-cold-sample-1.pdf . Draft-specific details are not automatically aired canon. No complete-series viewing or TTS test is claimed.
+
+### Star Wars source-time choices for future use
+
+Read the existing research/StarWars_New_Roster_Fidelity_R19_20261023.md and complete individual owners for speech, psychology, kit and relationships. R21 resolves the former OPEN snapshot selections:
+
+- Yoda: Revenge of the Sith immediately BEFORE the Senate confrontation with Sidious. Order66 and Anakin's betrayal are known; this duel and later Luke training are not memories yet. This reconciles the recovered C3F source pin; no invented younger-prime multiplier.
+- Boba Fett: after delivering Han to Jabba, BEFORE the rescue/sail-barge battle. No remembered Sarlacc survival, Tusken years or later ruler history.
+- Cad Bane: immediately AFTER the successful Senate Hostage Crisis operation. No invented release from a later prison, future career memory or guaranteed employer obedience.
+- Count Dooku: immediately AFTER escaping the confrontation in The Lost One. The Jedi have discovered Tyranus's identity; no future execution knowledge.
+
+Only compatible personal carried equipment is eligible. Selecting an actor does not transport a ship, army, assistants, Todo, crew, money or base. No new Star Wars character is added by this source-time selection. Distinct syntax, social behavior, priorities and tactics remain individual, not shared Kaze/Wade speech.
+
+These are researched application notes and selected future source boundaries, not replacements for complete canon owners, new approved Kaze-voice samples, proof of a performed scene or exhaustive audiovisual certification. Future material claims still need their relevant full source passage.
+
+
+Full current sequence: continuity/author/S7NS_Condensed_Weave_R7_20261023.md. Current machine outline: continuity/SEASON3_ACTIVE_OUTLINE.json.
+
+---
+
+# Preserved R8–R20 author history
+
 # S7NS — cast focus and execution correction R8
 Change ID: S7NS_CAST_FOCUS_R8_20261023
 Status: AUTHOR_SELECTED, WORK ONLY, PLAYBACK HELD.

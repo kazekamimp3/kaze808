@@ -3354,7 +3354,12 @@
     "KAZE_READ_FIRST.txt",
     "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
     "canon/presentation/S7NS_Plain_Language_Work_Communication_20261021.md",
-    "canon/presentation/S7NS_Authorial_Intent_Raw_Note_Fidelity_Active_Comedy_v1_1_20261020.md"
+    "canon/presentation/S7NS_Authorial_Intent_Raw_Note_Fidelity_Active_Comedy_v1_1_20261020.md",
+    "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+    "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
+    "continuity/author/S7NS_Brian_Meesa_Thyself_And_Boy_FINAL_20261024.txt",
+    "continuity/CURRENT.json",
+    "continuity/SEASON3_ACTIVE_OUTLINE.json"
   ],
   "mana_shoplifting_integration": {
     "change_id": "S7NS_MANA_SHOPLIFTING_SEASON3_OUTLINE_20261021",
@@ -3362,5 +3367,12 @@
     "plan": "continuity/SEASON3_ACTIVE_OUTLINE.json",
     "status": "OUTLINE_ONLY_NO_NEW_EVENTS",
     "replacement_bundle_installation": "PENDING_ACTUAL_PROJECT_UI_READBACK"
+  },
+  "R21_current_scope": {
+    "author": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+    "outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+    "reader": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
+    "final_lyrics": "continuity/author/S7NS_Brian_Meesa_Thyself_And_Boy_FINAL_20261024.txt",
+    "rule": "Read latest standalone scoped owners before dated bundle copies. Existing full source routes remain intact; no new construction procedure."
   }
 }
