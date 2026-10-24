@@ -1,0 +1,182 @@
+{
+  "schema": "S7NS_PAIRED_EPISODE_REVISION_CHECKPOINT",
+  "change_id": "S7NS_E63_FORCE_FED_R21_PLAY_20261024",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "title": "Force-Fed",
+  "episode_span": [
+    63
+  ],
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "played": false,
+  "authorization": "Kaze: play ep63; single63 overrides normal two-episode PLAY default; authorizes requested revision under installedR21",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024.txt",
+  "manuscript_sha256": "33a8f5bff8ae51d8d215e5d172a536ba8816b1e8090b8abfaa148a19f9623444",
+  "actual_delivered_cursor_preserved": 65,
+  "next_new_episode_preserved": 66,
+  "original_preserved": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+  "source_baseline_commit": "b07eeb26684240a93ea8f0bd50d394161b670685",
+  "sources": [
+    {
+      "path": "character_sources/season3/Lord_Starkiller_Character_Source.txt",
+      "sha256": "cd08b2cf748a305270d111edaf2f6d5de907ec1a59fd1ad6226d237b9517633a"
+    },
+    {
+      "path": "character_sources/season3/Deadpool_Character_Source.txt",
+      "sha256": "170633b739bdd3d0ae324843c69add26d0102dd604cd8c1b6c1e92cb35f5f818"
+    },
+    {
+      "path": "character_sources/crossover_extended/Brian_Fictional_Conjoined_Character_Source.txt",
+      "sha256": "59d18910f42668740d978aa8695bf9bacb3bf273e29bf04df35e0d9bfb7328cf"
+    },
+    {
+      "path": "research_sources/Brian_Busta_Conjoined_Fidelity_20261007.md",
+      "sha256": "412b6ea955f15a5204c97937214b5c0b061260ad14d3f3478724ff20cb439bfb"
+    },
+    {
+      "path": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+      "sha256": "9676b56f7da1bba6ea11451f976dc17c55931757893f13ef6e6379eeddc1e31f"
+    },
+    {
+      "path": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
+      "sha256": "61553a45660d1ec9bf0d84fc6298d9dcffdf509d3757e5103ee9931f1bcc9d35"
+    },
+    {
+      "path": "continuity/author/S7NS_Brian_Rap_Raw_TTS_Notes_R6_20261023.md",
+      "sha256": "0558ce2de7e38b1d2383d48e7bded7423111e7cd094c936769c2019ff9b2d109"
+    },
+    {
+      "path": "continuity/editorial/E63_First_Revision_Comedy_Action_And_Rap_Ideas_20261023.md",
+      "sha256": "cfa3daf1bfb6bceefd7d3060c95ec01aa51a793677e78251bbe157363128c2d0"
+    },
+    {
+      "path": "continuity/editorial/S7NS_R11_Force_Training_Billy_Loyalty_20261023.md",
+      "sha256": "df4dd04003b9f06df12f9604810829e00d5e4529eb607521498558c439fec984"
+    },
+    {
+      "path": "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+      "sha256": "f2820fc93d08034ae4238b947741fa5da27db8db8a6d6ed2ae28e2682fa7ffec"
+    },
+    {
+      "path": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
+      "sha256": "b5e32e9b3076d87b69e4cf1bfc8382f1f9259b79c416c80a84830851e0f5a473"
+    },
+    {
+      "path": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+      "sha256": "97be04d15488168ac7f29ecf5b773f645f81eb9e7db665b2268834e07a9ce424"
+    }
+  ],
+  "scope_of_reading": "Full current Brian/Starkiller/Wade individual owners and substantive relevant author/lyrics/procedure material read; original62–63 read in contiguous relevant manuscript chunks. Complete final new manuscript read twice around repairs. Original65 manuscript searched for affected dependencies and full paired65 candidate state read. Kaze retained quote checked against original63 and individual source; no new Kaze scene, fight or claim of complete40k-word psychology/archive audit.",
+  "candidate_end_state_if_later_delivered": {
+    "candidate_only": true,
+    "effective_only_after": "Actual complete delivery of this exact reviewed revision; reconcile at next interaction",
+    "episode": 63,
+    "Brian": "Conscious, walking on caravan ruts around the dune near the northern Shurima salvage yard; no collapse or Jabba/Jar Jar meeting yet",
+    "Starkiller": "Walking north toward the landing; has actual old coastal lead and Brian's vehicle sketch/map; no arrival at Chris or vehicle transfer",
+    "skills": {
+      "psychometry": "First involuntary object sound/emotion echo, locally seeded handle event; limited repeat emotional impression, not reliable playback, mind reading, combat download or telekinesis mastery",
+      "Trakata": "One controlled static-target success after correction; novice timing, distance and loss-of-guard lesson; no mastery or guaranteed bypass"
+    },
+    "injuries": "Brian sore wrist from disarm and shoulder/body from dune landing; no fracture depicted, no instant healing; original downstream dehydration remains reachable",
+    "custody": {
+      "Clifford_actual_saber": "Brian; one theft in62 retained; hilt intact",
+      "journal": "Brian; full original FORCE-FED, signed To B. Moo / I loved the wordplay, audience note, Shake note retained",
+      "poster": "Brian, unburned;64 breakup remains subsequent",
+      "water": "Container ruptured against stone during shove; contents lost; no replenishment",
+      "map_and_sketch": "Starkiller; supplied voluntarily after the agreed performance, feedback, actual lesson and requested signature"
+    },
+    "knowledge": "Brian hears narrow echo Not back there, cannot infer its destination/hidden history. Starkiller knows Brian has a rare limited object-echo response and novice saber instruction; no automatic Shake-murder knowledge. Wade narrates seeded current action and known history only; Brian cannot hear him.",
+    "preserved62": "Original deliberate Shake murder, collaboration motive, single saber theft, departure, safe Jack fishing and actual report remain; no62 manuscript rewritten",
+    "easter_removal": {
+      "status": "APPLIED_IN_THIS_REVISION_CANDIDATE",
+      "Jesus": "No new63 resurrection or camp entrance; earlier Jesus history preserved. Original63 remains immutable history of prior delivered cut.",
+      "relics": "Existing cross/crown custody unchanged; no new request, transfer or inspection",
+      "Sins_common_purse": 2491,
+      "reason": "Original62 balance2491; original63 two-silver Easter purchase omitted. No new expenditure in this63 revision."
+    },
+    "unchanged_other_funds": {
+      "Daniel_separate": 110,
+      "Kaze_personal": 0,
+      "TPP_common": 166,
+      "TPP_separate_receipt": 5
+    },
+    "coastal_staging": "No new household switch or Meatwad exterior egg-hunt release; preserve last actual pre-Easter positions. Brief Kaze gossip quote retained; no fabricated domestic replacement.",
+    "post65_dependency_projection": {
+      "original65_manuscript_unchanged": true,
+      "Shang_Tsung": "Remains killed by Baldur65; no living restoration",
+      "Brian_JarJar_Jabba_poster_outcomes": "Preserved",
+      "required_future_reconciliation": [
+        "Carry limited psychometry/novice Trakata acquisition into revised64–65 checkpoints without adding unperformed use",
+        "Carry revised Sins purse2491 rather than old2489",
+        "Remove original63 resurrection/camp-presence inheritance; preserve earlier Jesus history",
+        "Preserve Brian original65 present location and nextNEW66; do not rewind current delivery cursor to63"
+      ]
+    }
+  },
+  "episode_record_contract": {
+    "whole_first_read": "Draft3402 words reopened sequentially lines1–280 and281–end; complete coverage",
+    "repairs": [
+      "Strengthened voluntary information bargain, drawing and ownership limits; no guaranteed offworld route",
+      "Restored teacher/Vader interpretive feedback and boundary, without repeated refusal loops",
+      "Clarified east-gate/dune geometry",
+      "Moved journal-first check before futile water salvage to match stated priority",
+      "Removed meta-compliance bloodline/cape commentary; kept spontaneous pleasure in successful cut",
+      "Gave Brian a visible route choice after the shove; no arbitrary collapse at63 ending"
+    ],
+    "whole_final_reread": "Complete final artifact reopened in one untruncated read after all repairs; no later prose edits",
+    "mechanical_evidence": [
+      {
+        "result": "PASS",
+        "source": "Starkiller complete owner / COMBAT; R13 selected Trah-kah-tah",
+        "passage": "Black blade deactivation, sidestep and reactivation bypass Brian's guard; Brian later succeeds against static scrap, is immediately disarmed by mobile teacher; no parity or new power"
+      },
+      {
+        "result": "PASS",
+        "source": "R12 selected limited sound/emotion psychometry",
+        "passage": "Handle touch reproduces currently seeded Not back there plus pressure; subsequent contact not a controllable recording; washer never moves"
+      },
+      {
+        "result": "PASS",
+        "source": "Original62–63 and R21 scope",
+        "passage": "One stolen saber and murder remain; signed journal protected, water lost in actual impact, Brian walking not collapsed"
+      },
+      {
+        "result": "PASS",
+        "source": "R6 current authorized TTS copy",
+        "passage": "Complete lyric block occurs exactly once, byte-identical as a substring"
+      },
+      {
+        "result": "PASS",
+        "source": "R20/R21 independent powerful listener",
+        "passage": "Starkiller questions utility/limits, agrees to bounded transaction, critiques, demonstrates real superiority, rejects apprenticeship and leaves with useful map"
+      },
+      {
+        "result": "NOT_RUN",
+        "source": "Audio engine",
+        "passage": "No audio rendered or measured; written TTS-oriented playback only"
+      }
+    ],
+    "editorial_judgment": "Focused Brian audition with skeptical negotiated access, layered status/interpretation comedy, distinct bounded Wade telling and brief physical instruction. Training yields an actual discovery/success without a training arc. Lesson loss and shove do not erase acquired skills or useful information. No claim of guaranteed entertainment or author approval.",
+    "weakest_span_decision": "Repeated refusal/compliment-correction and Easter logistics from original removed. One finite feedback progression retained because it changes Brian's confidence, produces a usable note, defines obligation and earns the written endorsement.",
+    "techniques_applied": [
+      "T002 spectator knows seeded object event before Brian",
+      "T013 prop becomes evidence: handle and signature",
+      "T034 status reversal through information bargain ending",
+      "T041 subtext in bounded praise and mentorship",
+      "T051 clear objective geometry for blade demonstration and shove"
+    ],
+    "spoken_word_count_whitespace": 3756,
+    "assumed_wpm": 150,
+    "estimated_minutes": 25.04,
+    "unresolved": [
+      "Author acceptance not asserted",
+      "Delivery reconciliation waits for complete actual chat response",
+      "Revised64–65 still unwritten; explicit conditional state reconciliation above",
+      "No actual audio timing/listening test"
+    ]
+  },
+  "attribution": "Original premises, lyrics, protected directions and creative selections: Kaze. New scene expansion, dialogue, narration, staging and review: AI under Kaze's direction; not a new approved voice reference.",
+  "audio_generated": false,
+  "actual_state_advanced_by_save": 0,
+  "delivery_rule": "Render saved text unchanged. At next interaction verify actual delivery, mark DELIVERED_PROVISIONAL separately, retain65 latest chronologic endpoint and nextNEW66."
+}

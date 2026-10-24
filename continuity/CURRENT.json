@@ -106,8 +106,8 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "R21 installed and read back across scoped four-app records and Project instructions/sources. Revision63/needed62 first,64–65 queued; replacements NOT WRITTEN; nextNEW66; NO DRAFT/PLAY/time advance. Legacy repository CI remains a separate pre-existing issue.",
-  "work_resume_checkpoint_latest": "continuity/work/S7NS_R21_Installation_20261024.json",
+  "work_status": "REVISED63_PREPARED_FOR_EXPLICIT_PLAY; actual65/nextNEW66 retained;64–65 revisions queued",
+  "work_resume_checkpoint_latest": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024_Checkpoint.json",
   "work_change_id": "S7NS_CINEMATIC_COMBAT_FIDELITY_OUTLINE_R21_20261024",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
@@ -1795,7 +1795,7 @@
     "meeting_status": "E52_DELIVERED_PROVISIONAL",
     "actual_checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json"
   },
-  "playback_hold": true,
+  "playback_hold": "LIFTED_ONLY_FOR_EXPLICIT_SINGLE_REVISED63; no64–65 or NEW66 authorization",
   "latest_Brian_petty_comedy_approval": {
     "change_id": "S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022",
     "owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
@@ -2297,7 +2297,15 @@
     "scope": "Single59 authorized by current direct PLAY; reconcile completed final next interaction.",
     "delivery_reconciliation": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json"
   },
-  "current_playback_request": null,
+  "current_playback_request": {
+    "author_text": "play ep63",
+    "episode_span": [
+      63
+    ],
+    "revision": true,
+    "status": "AUTHORIZED_PREPARED_DELIVERY_PENDING",
+    "extends_to_other_episodes": false
+  },
   "prepared_E59_Still_Family_20261023": {
     "change_id": "S7NS_E59_STILL_FAMILY_20261023",
     "episode": 59,
@@ -2732,7 +2740,7 @@
     "knowledge": "Jack links observed death damage, missing saber and departure evidence; tells Sins actual observations, no omniscient eyewitness. Starkiller knows Chris vehicle configuration/old depot contact/intended inland direction only. Jesus learns priest inspection from Chris's spoken remark; Wade has no mystery answers.",
     "pending": "Desert collapse/discovery/mid-thrust wake/Jabba/Jar Jar64; imitation and Busta breakup not yet occurred; Kratos/Mimir and later strands unchanged"
   },
-  "play_authorized": false,
+  "play_authorized": true,
   "next_episode_authorized": false,
   "latest_cast_focus_R8": {
     "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
@@ -2819,9 +2827,9 @@
     "dependent_departure_episode": 62,
     "original": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
     "brief": "continuity/editorial/E63_First_Revision_Comedy_Action_And_Rap_Ideas_20261023.md",
-    "status": "R21_DIRECTIONS_INSTALLED_REPLACEMENT_NOT_WRITTEN",
+    "status": "R21_REPLACEMENT63_PREPARED_REVIEWED_SAVED_PENDING_CHAT_DELIVERY",
     "change_id": "S7NS_REVISION_CONFIRMATION_FORCE_LOYALTY_R11_20261023",
-    "play_authorized": false,
+    "play_authorized": true,
     "author_scope": "R21 current batch; revision63/needed62 first;64–65 queued; preserve originals and actual65; compact training remains for revision, not occurred.",
     "deferred_revision": {
       "episode_span": [
@@ -2871,7 +2879,22 @@
       "Specific limited transport deal and lesson details"
     ],
     "latest_author_addition": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
-    "training_selection": "AUTHOR_SELECTED_COMPACT_PSYCHOMETRY_FOR_REVISION; NOT_YET_ENACTED"
+    "training_selection": "AUTHOR_SELECTED_COMPACT_PSYCHOMETRY_FOR_REVISION; NOT_YET_ENACTED",
+    "prepared_replacement": {
+      "change_id": "S7NS_E63_FORCE_FED_R21_PLAY_20261024",
+      "episode_span": [
+        63
+      ],
+      "title": "Force-Fed",
+      "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "manuscript": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024.txt",
+      "checkpoint": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024_Checkpoint.json",
+      "manuscript_sha256": "33a8f5bff8ae51d8d215e5d172a536ba8816b1e8090b8abfaa148a19f9623444",
+      "receipt": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024_Receipt.json",
+      "author_acceptance": "NOT_ASSERTED",
+      "original_preserved": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+      "next_new_episode": 66
+    }
   },
   "latest_work_readback_R10": {
     "change_id": "S7NS_E63_FIRST_AUTHOR_VOICE_ACTION_R10_20261023",
@@ -3264,5 +3287,20 @@
     "play_authorized": false,
     "story_time_advanced": 0,
     "legacy_CI": "347_PREEXISTING_IDENTICAL_ERRORS_NOT_REPAIRED_BY_THIS_BATCH"
+  },
+  "prepared_E63_Force_Fed_R21_20261024": {
+    "change_id": "S7NS_E63_FORCE_FED_R21_PLAY_20261024",
+    "episode_span": [
+      63
+    ],
+    "title": "Force-Fed",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "manuscript": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024.txt",
+    "checkpoint": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024_Checkpoint.json",
+    "manuscript_sha256": "33a8f5bff8ae51d8d215e5d172a536ba8816b1e8090b8abfaa148a19f9623444",
+    "receipt": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024_Receipt.json",
+    "author_acceptance": "NOT_ASSERTED",
+    "original_preserved": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+    "next_new_episode": 66
   }
 }

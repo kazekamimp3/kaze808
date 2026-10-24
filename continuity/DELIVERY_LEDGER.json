@@ -1622,8 +1622,16 @@
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
-  "playback_hold": true,
-  "current_playback_request": null,
+  "playback_hold": "LIFTED_ONLY_FOR_EXPLICIT_SINGLE_REVISED63; no64–65 or NEW66 authorization",
+  "current_playback_request": {
+    "author_text": "play ep63",
+    "episode_span": [
+      63
+    ],
+    "revision": true,
+    "status": "AUTHORIZED_PREPARED_DELIVERY_PENDING",
+    "extends_to_other_episodes": false
+  },
   "prepared_draft_features_60_69": [
     {
       "episode_span": [
@@ -1993,7 +2001,7 @@
     "knowledge": "Jack links observed death damage, missing saber and departure evidence; tells Sins actual observations, no omniscient eyewitness. Starkiller knows Chris vehicle configuration/old depot contact/intended inland direction only. Jesus learns priest inspection from Chris's spoken remark; Wade has no mystery answers.",
     "pending": "Desert collapse/discovery/mid-thrust wake/Jabba/Jar Jar64; imitation and Busta breakup not yet occurred; Kratos/Mimir and later strands unchanged"
   },
-  "play_authorized": false,
+  "play_authorized": true,
   "latest_cast_focus_R8": {
     "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
     "status": "AUTHOR_SELECTED_WORK_ONLY",
@@ -2199,5 +2207,20 @@
     "raw_ending_preserved": true,
     "play_authorized": false,
     "episode_draft_written": false
+  },
+  "prepared_E63_Force_Fed_R21_20261024": {
+    "change_id": "S7NS_E63_FORCE_FED_R21_PLAY_20261024",
+    "episode_span": [
+      63
+    ],
+    "title": "Force-Fed",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "manuscript": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024.txt",
+    "checkpoint": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024_Checkpoint.json",
+    "manuscript_sha256": "33a8f5bff8ae51d8d215e5d172a536ba8816b1e8090b8abfaa148a19f9623444",
+    "receipt": "continuity/episodes/E63/S3_E63_Force_Fed_R21_20261024_Receipt.json",
+    "author_acceptance": "NOT_ASSERTED",
+    "original_preserved": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+    "next_new_episode": 66
   }
 }
