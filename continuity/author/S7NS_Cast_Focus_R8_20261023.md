@@ -53,3 +53,7 @@ PROPOSED AI IDEAS — not author-selected scene outcomes:
 4. On an actually earned TPP encounter, Evil asks Brian to repeat precisely the “Doctor Evil? More like Doctor Smeagol” section, with patient apparent appreciation. Brian's desired applause becomes an uncomfortable request to repeat an insult directly to its subject; others keep their own reactions. This can build Evil's unresolved long con without automatically spending the ultimate reversal.
 
 These are options to assess within the existing Scene Decision Doctrine, not a new engine, mandatory four-scene quota or advance quality certification. This work writes no66–67 manuscript and authorizes no PLAY. Actual64–65 delivery reconciled separately; next66.
+
+## Latest scope correction — REVISED64–65, not next66–67
+Kaze: “and im talking about the revised 64–65. dont play those episodes until i say so ... read the 64–65 that was sent. pick out the problems you see with it”.
+Current task is full-text editorial review of exact delivered A Little Feeling, then the same-span revision target64–65 under R9. Review: continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md. Proposed R9 scenes remain conditional; Jabba/JarJar are available listeners, no forced absent-cast reunion. Original65 is last delivered, next NEW66 remains distinct. No replacement prose produced by this review; noPLAY until explicit new request.
