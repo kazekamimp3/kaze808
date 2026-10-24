@@ -106,7 +106,7 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "Original-source comparison and focused Star Wars speech research saved; revised64–65 pending, NO PLAY",
+  "work_status": "E63-first revision brief and test rap saved; original-source humor/action/project-voice direction active; replacement not written, NO PLAY",
   "work_resume_checkpoint_latest": "continuity/work/S7NS_Condensed_Weave_R7_Readback_20261023.json",
   "work_change_id": "S7NS_CONDENSED_WEAVE_R7_20261023",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
@@ -1205,7 +1205,7 @@
     "next_action": "Complete previous49chat observed; frozenpreparationCP unchanged.",
     "delivery_reconciliation": "continuity/episodes/E49/CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "latest_direct_author_scope_git_blob_sha1": "eb4e9a0a2320cc504fac462b4ec1e21f8fb870e1",
+  "latest_direct_author_scope_git_blob_sha1": "471e423023cccd99b41d7d1f7b70f46b7b9f26b5",
   "latest_E49_character_application": {
     "owner": "continuity/author/S7NS_E49_Dana_Brian_BELLY_Public_Chaos_20261021.md",
     "status": "AUTHOR_SELECTED_PORTRAYAL",
@@ -2814,43 +2814,56 @@
   },
   "active_revision_request": {
     "episode_span": [
-      64,
-      65
+      63
     ],
-    "original": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
-    "review": "continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md",
-    "status": "SOURCE_COMPARISON_AND_FOUR_CHARACTER_RESEARCH_COMPLETE_REPLACEMENT_NOT_WRITTEN",
+    "dependent_departure_episode": 62,
+    "original": "continuity/features/E62_E63/S3_E62_E63_A_Better_Picture_R7_DRAFT_20261023.txt",
+    "brief": "continuity/editorial/E63_First_Revision_Comedy_Action_And_Rap_Ideas_20261023.md",
+    "status": "AUTHOR_SELECTED_E63_FIRST; CREATIVE_BRIEF_AND_TEST_LYRICS_SAVED; REPLACEMENT_NOT_WRITTEN",
+    "change_id": "S7NS_E63_FIRST_AUTHOR_VOICE_ACTION_R10_20261023",
     "play_authorized": false,
-    "author_scope": "R9 applies to revised64–65; nextnew66 separate",
-    "research": "research/StarWars_E64_E65_Speech_Behavior_Fidelity_20261023.md",
-    "review_change_id": "S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023",
-    "research_status": "FOCUSED_PRIMARY_TEXT_SPEECH_AND_BEHAVIOR_PASS_COMPLETE; REPLACEMENT_APPLICATION_PENDING",
-    "source_review_service_readback": {
-      "change_id": "S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023",
-      "github": {
-        "status": "READBACK_EXACT",
-        "research_blob_sha1": "76482f885810f8029ca921d11599c6191e769eee",
-        "review_blob_sha1": "78100319a0faf268be0293fd7a2d233cdc9b4d85",
-        "author_blob_sha1": "eb4e9a0a2320cc504fac462b4ec1e21f8fb870e1"
-      },
-      "airtable": {
-        "status": "READBACK_EXACT_AFFECTED_SCOPE",
-        "base_id": "appKCCr9zg0rsfbOI",
-        "table_id": "tbl5dFC7den6PyDSw",
-        "record_id": "reccW8tbgjVA9SBfb"
-      },
-      "notion": {
-        "status": "READBACK_CONTENT_VERIFIED_MARKDOWN_ESCAPES_NORMALIZED",
-        "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a"
-      },
-      "drive": {
-        "status": "READBACK_EXACT_TEXT",
-        "file_id": "1NFGd9tfbl7TTGHGvbl5e3qGTnp9P1Bk7"
-      },
-      "original_manuscript_sha256": "8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20",
-      "story_time_advanced": 0,
-      "replacement_written": false,
-      "play_authorized": false
-    }
+    "author_scope": "Brian departure/audition revision first; original rap exact; restore action/source comedy; new Chris/title/lyric details proposed",
+    "deferred_revision": {
+      "episode_span": [
+        64,
+        65
+      ],
+      "original": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+      "review": "continuity/features/E64_E65/EDITORIAL_REVIEW_SAME_SPAN_20261023.md",
+      "status": "SOURCE_COMPARISON_AND_FOUR_CHARACTER_RESEARCH_COMPLETE_REPLACEMENT_NOT_WRITTEN",
+      "play_authorized": false,
+      "author_scope": "R9 applies to revised64–65; nextnew66 separate",
+      "research": "research/StarWars_E64_E65_Speech_Behavior_Fidelity_20261023.md",
+      "review_change_id": "S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023",
+      "research_status": "FOCUSED_PRIMARY_TEXT_SPEECH_AND_BEHAVIOR_PASS_COMPLETE; REPLACEMENT_APPLICATION_PENDING",
+      "source_review_service_readback": {
+        "change_id": "S7NS_E64_E65_SOURCE_COMEDY_FIDELITY_20261023",
+        "github": {
+          "status": "READBACK_EXACT",
+          "research_blob_sha1": "76482f885810f8029ca921d11599c6191e769eee",
+          "review_blob_sha1": "78100319a0faf268be0293fd7a2d233cdc9b4d85",
+          "author_blob_sha1": "eb4e9a0a2320cc504fac462b4ec1e21f8fb870e1"
+        },
+        "airtable": {
+          "status": "READBACK_EXACT_AFFECTED_SCOPE",
+          "base_id": "appKCCr9zg0rsfbOI",
+          "table_id": "tbl5dFC7den6PyDSw",
+          "record_id": "reccW8tbgjVA9SBfb"
+        },
+        "notion": {
+          "status": "READBACK_CONTENT_VERIFIED_MARKDOWN_ESCAPES_NORMALIZED",
+          "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a"
+        },
+        "drive": {
+          "status": "READBACK_EXACT_TEXT",
+          "file_id": "1NFGd9tfbl7TTGHGvbl5e3qGTnp9P1Bk7"
+        },
+        "original_manuscript_sha256": "8f84e290c0f6911c11fa0f780ca12b71f26afc42be228ad8684b57e799d09c20",
+        "story_time_advanced": 0,
+        "replacement_written": false,
+        "play_authorized": false
+      }
+    },
+    "downstream_reconciliation": "Check actual63 Jesus/custody/funds and64–65 dependencies only when replacement exists; original history unchanged by brainstorm"
   }
 }
