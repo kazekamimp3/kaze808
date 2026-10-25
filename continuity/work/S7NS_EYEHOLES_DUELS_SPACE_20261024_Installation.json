@@ -1,7 +1,7 @@
 {
   "change_id": "S7NS_EYEHOLES_DUELS_SPACE_20261024",
   "authorization": "Kaze explicit esketit",
-  "status": "CONNECTED_INSTALLATION_READBACK",
+  "status": "CONNECTED_AND_PROJECT_INSTALLATION_READBACK",
   "actual_delivered_episode": 67,
   "next_new_episode": 68,
   "author_acceptance": "NOT_ASSERTED",
@@ -60,8 +60,130 @@
       "final_newline_note": "Uploaded local file has one final newline added by file writer; fetched text equals that complete uploaded content."
     },
     "project_attachments_and_settings": {
-      "status": "NOT_UPDATED",
-      "limit": "Existing uploaded R21 snapshots unchanged. Connected startup/current owners updated; no Project UI installation claim."
+      "status": "UPLOADED_UI_VERIFIED_WITH_PARTIAL_DOWNLOAD_READBACK",
+      "method": "User-authorized Cloud Browser",
+      "date": "2026-10-25",
+      "project_url": "https://chatgpt.com/g/g-p-6a9c53a105e48191bd3b152c60e5232f/project?tab=sources",
+      "files": [
+        {
+          "name": "02_CURRENT_STATE_SPACE_20261024.md",
+          "sha256": "f8877526acfd122f66e0025d5e23f61ea2eb3fb537c6bf7feffcb57200b0d9a1",
+          "bytes": 2058342
+        },
+        {
+          "name": "15_SEASON3_PLOTS_SPACE_20261024.md",
+          "sha256": "a3ad4eba9c7c74d4160ab82b16f627d2325fd683357b9e45592eb64576b8a7c6",
+          "bytes": 2673388
+        },
+        {
+          "name": "ACTIVE_AUTHOR_UPDATE_20261017_BRIAR_KAZE_RICK_MORTY.md",
+          "sha256": "334aa56408c9a151fba01d602addcadcd37dcc455b7984db090ade0914921e26",
+          "bytes": 7904
+        },
+        {
+          "name": "03_INDEX_ROUTING_SPACE_20261024.md",
+          "sha256": "c4dbf24318e8db9b519c1489522c237f19a5a38ea042ab55a9da2e960e0ce033",
+          "bytes": 3614995
+        },
+        {
+          "name": "MANIFEST_SPACE_20261024.yaml",
+          "sha256": "49acfad805f76d73bc56957b16797c85c06f43342956c55abe80973825263228",
+          "bytes": 231335
+        },
+        {
+          "name": "Dana_Character_Source_2.md",
+          "sha256": "e3d7b5e377192c276c2e1ecce01440451392147360b72b84965d4c338968cc96",
+          "bytes": 8078
+        },
+        {
+          "name": "Mana_Character_Source_2.md",
+          "sha256": "0ba41abaf0c3d571a63a694b353184eb02584df03a8327f3044785d3cf5ddfbc",
+          "bytes": 8092
+        },
+        {
+          "name": "01_BOOT_AUTHORITY_SPACE_20261024.md",
+          "sha256": "9a92bb8e4d32ca4b208b4912ee316966df2f4c2b44132e6e19a688703b12b98e",
+          "bytes": 524545
+        }
+      ],
+      "content_preservation": [
+        {
+          "file": "01_BOOT_AUTHORITY_SPACE_20261024.md",
+          "prior_bytes_preserved": true
+        },
+        {
+          "file": "02_CURRENT_STATE_SPACE_20261024.md",
+          "prior_bytes_preserved": true
+        },
+        {
+          "file": "15_SEASON3_PLOTS_SPACE_20261024.md",
+          "prior_bytes_preserved": true
+        },
+        {
+          "file": "Dana_Character_Source_2.md",
+          "content_byte_identical": true
+        },
+        {
+          "file": "Mana_Character_Source_2.md",
+          "content_byte_identical": true
+        },
+        {
+          "file": "ACTIVE_AUTHOR_UPDATE_20261017_BRIAR_KAZE_RICK_MORTY.md",
+          "content_byte_identical": true
+        }
+      ],
+      "download_readback": [
+        {
+          "name": "Dana_Character_Source_2.md",
+          "bytes": 8078,
+          "exact_match": true
+        },
+        {
+          "name": "Mana_Character_Source_2.md",
+          "bytes": 8092,
+          "exact_match": true
+        },
+        {
+          "name": "ACTIVE_AUTHOR_UPDATE_20261017_BRIAR_KAZE_RICK_MORTY.md",
+          "bytes": 7904,
+          "exact_match": true
+        },
+        {
+          "name": "MANIFEST_SPACE_20261024.yaml",
+          "bytes": 231335,
+          "exact_match": true
+        },
+        {
+          "name": "03_INDEX_ROUTING_SPACE_20261024.md",
+          "download_available": false
+        },
+        {
+          "name": "15_SEASON3_PLOTS_SPACE_20261024.md",
+          "bytes": 2673388,
+          "exact_match": true
+        },
+        {
+          "name": "01_BOOT_AUTHORITY_SPACE_20261024.md",
+          "bytes": 524545,
+          "exact_match": true
+        },
+        {
+          "name": "02_CURRENT_STATE_SPACE_20261024.md",
+          "bytes": 2058342,
+          "exact_match": true
+        }
+      ],
+      "instructions": {
+        "exact_saved_text_readback": true,
+        "characters": 7862,
+        "sha256": "37b1ebc68f49c710e3eb5603d70bd299f1a4bd8bb2df3f23ab197b1e05fd931d",
+        "scope": "Only trailing current-authority section replaced; preceding instructions preserved."
+      },
+      "file_count": 39,
+      "unaffected_files": 31,
+      "saved_response_preserved": true,
+      "verification_limit": "03_INDEX_ROUTING_SPACE_20261024.md appears uploaded with preview/action controls. Two download attempts returned paths without files; preview then stalled browser. No byte readback claim for this routing file. Other seven downloads exactly matched uploads.",
+      "history": "Project source replacements preserve original source contents, old bundle bytes and aliases. Manifest preparation status is historical; this readback supersedes it."
     }
   },
   "development_review": {
@@ -79,5 +201,5 @@
     "Brapples legacy value reconciliation"
   ],
   "preservation": "Git prior owner bytes retained as dated history; Drive's additional prior receipt retained. No manuscript, lyric, checkpoint or delivery ledger edits.",
-  "resume": "Future authorized work follows latest author section and selected_chronology_Eyeholes_Space_20261024. Resolve only dependent open mechanics before using them. Refresh Project snapshots separately without claiming it already happened."
+  "resume": "Future authorized work follows latest author section and selected_chronology_Eyeholes_Space_20261024. Resolve only dependent open mechanics before using them. Project snapshots and settings replaced; routing-bundle byte readback remains unverified as detailed above."
 }
