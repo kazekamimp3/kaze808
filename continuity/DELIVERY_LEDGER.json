@@ -825,10 +825,52 @@
       "next_episode": 72,
       "next_authorized": true,
       "episode73_authorized": false
+    },
+    {
+      "episode": 72,
+      "change_id": "S7NS_E72_TAKE_CARE_OF_HIM_20261025",
+      "episode_span": [
+        72
+      ],
+      "title": "Take Care of Him",
+      "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "author_acceptance": "NOT_ASSERTED",
+      "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
+      "manuscript_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
+      "checkpoint": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
+      "checkpoint_sha256": "34efa6cb26d96881e57e512b216fa317847e1fd9a183f664946664aa2a9d0aff",
+      "outline_coverage": "continuity/episodes/E72/S3_E72_Outline_Coverage_20261025.json",
+      "receipt": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Receipt.json",
+      "drive_manuscript": "1hkieUcekT5pgS5nIIES1C2dlFHag-8XA",
+      "drive_checkpoint": "11XR1CynKg9mIB5Fwm5xE71nCiuxmcx4_",
+      "airtable": "recQEVLVQCnfojV6e",
+      "words": 3870,
+      "estimated_minutes": 25.8,
+      "episode73_authorized": false
     }
   ],
-  "prepared_episode": null,
-  "playback_control": "LIFTED_FOR_EXACT70_R2_REPLAY_ONLY; no71",
+  "prepared_episode": {
+    "change_id": "S7NS_E72_TAKE_CARE_OF_HIM_20261025",
+    "episode_span": [
+      72
+    ],
+    "title": "Take Care of Him",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
+    "manuscript_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
+    "checkpoint": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
+    "checkpoint_sha256": "34efa6cb26d96881e57e512b216fa317847e1fd9a183f664946664aa2a9d0aff",
+    "outline_coverage": "continuity/episodes/E72/S3_E72_Outline_Coverage_20261025.json",
+    "receipt": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Receipt.json",
+    "drive_manuscript": "1hkieUcekT5pgS5nIIES1C2dlFHag-8XA",
+    "drive_checkpoint": "11XR1CynKg9mIB5Fwm5xE71nCiuxmcx4_",
+    "airtable": "recQEVLVQCnfojV6e",
+    "words": 3870,
+    "estimated_minutes": 25.8,
+    "episode73_authorized": false
+  },
+  "playback_control": "EPISODE72_ONLY_PREPARED_READY_AFTER_FOUR_APP_READBACK",
   "latest_scoped_author": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
   "current_author_configuration": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
   "original_manuscripts_or_checkpoints_rewritten": false,
@@ -888,7 +930,7 @@
     ],
     "status": "R7_OUTLINED; OLD_R6_DRAFT_REVISION_REQUIRED_BEFORE_DELIVERY"
   },
-  "next_episode_authorized": false,
+  "next_episode_authorized": true,
   "last_reconciliation_id": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
@@ -1633,8 +1675,8 @@
     },
     "concurrent_preparation_note": "Fresh control files also contain an undelivered Family Business candidate from another preparation. Preserve that record and its artifacts. This chat selects Still Family; no claim is made that another candidate was played or accepted."
   },
-  "current_prepared_episode_count": 0,
-  "selected_prepared_response": null,
+  "current_prepared_episode_count": 1,
+  "selected_prepared_response": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
   "continuation_authorization": {
     "status": "DRAFT_GENERATION_AUTHORIZED_PLAY_HELD",
     "authorized_episode_span": [
@@ -1683,7 +1725,8 @@
       72
     ],
     "author_text": "play ep72.",
-    "status": "AUTHORIZED_IN_PREPARATION"
+    "latest_quality_direction": "make sure you’re actually following all the outline plans.  dont leave out a single detail",
+    "status": "PREPARED_REVIEWED_SAVED_PENDING_PLAY"
   },
   "prepared_draft_features_60_69": [
     {
@@ -2085,7 +2128,7 @@
     "delivery_reconciliation": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json"
   },
   "next_after_prepared_feature": 71,
-  "work_status": "70R2 complete chat delivery reconciled provisional; current full70replay unchanged; no71. Frozen reviewed manuscript/checkpoint and original unplayed draft preserved.",
+  "work_status": "Reviewed Episode72 prepared and saved for explicit single-episode PLAY; actual endpoint71 until full delivery; acceptance NOT_ASSERTED.",
   "current_actual_after_E65": {
     "candidate_only": false,
     "elapsed": "Brian strand: three mornings since64 poster burning; leaves water stop with Jar Jar/northbound travelers at noon. Coastal strand separate; no exact synchronization/day number invented.",
@@ -3142,8 +3185,8 @@
     "drive_checkpoint": "1NDL5wJh4WojTMpsDONNSZBaOrLzMqPY8",
     "episode70_authorized": false
   },
-  "current_prepared_drive_id": "1ONhAgAvpxLM2NJpI9AcGCQk0jLkFL--n",
-  "current_prepared_full_sha256": "d916fa3f0fe700800716d33dfa977e8aba2719a5b369fc3404aac437968d9be9",
+  "current_prepared_drive_id": "1hkieUcekT5pgS5nIIES1C2dlFHag-8XA",
+  "current_prepared_full_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
   "latest_direct_author_scope_git_blob_sha1": "afa742b2d5b74cd914e29b713d0b236cb74de874",
   "current_prepared_episode_count_note": "70R2 already fully delivered; replay exact saved text, no new episode.",
   "preserved_pre_E70_controls": {
@@ -3266,5 +3309,27 @@
     "remaining": "Continue Dana/Chris retreat; later diagnosis/horse collision/lag, real Brian travel/earshot, exact BeeMoo package OPEN, portrait/firstEyeholes assault and space development pending. No72authorization."
   },
   "episode72_authorized": true,
-  "episode73_authorized": false
+  "episode73_authorized": false,
+  "prepared_E72_Take_Care_of_Him_20261025": {
+    "change_id": "S7NS_E72_TAKE_CARE_OF_HIM_20261025",
+    "episode_span": [
+      72
+    ],
+    "title": "Take Care of Him",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
+    "manuscript_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
+    "checkpoint": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
+    "checkpoint_sha256": "34efa6cb26d96881e57e512b216fa317847e1fd9a183f664946664aa2a9d0aff",
+    "outline_coverage": "continuity/episodes/E72/S3_E72_Outline_Coverage_20261025.json",
+    "receipt": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Receipt.json",
+    "drive_manuscript": "1hkieUcekT5pgS5nIIES1C2dlFHag-8XA",
+    "drive_checkpoint": "11XR1CynKg9mIB5Fwm5xE71nCiuxmcx4_",
+    "airtable": "recQEVLVQCnfojV6e",
+    "words": 3870,
+    "estimated_minutes": 25.8,
+    "episode73_authorized": false
+  },
+  "work_resume_checkpoint_latest": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json"
 }
