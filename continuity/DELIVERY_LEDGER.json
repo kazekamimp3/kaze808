@@ -874,10 +874,34 @@
       "episode74_authorized": false,
       "delivery_status": "DELIVERED_PROVISIONAL",
       "reconciliation": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json"
+    },
+    {
+      "episode": 74,
+      "change_id": "S7NS_E74_CARRY_ON_20261025",
+      "episode_span": [
+        74
+      ],
+      "title": "Carry-On",
+      "status": "PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED",
+      "author_acceptance": "NOT_ASSERTED",
+      "manuscript": "continuity/episodes/E74/S3_E74_Carry_On_20261025.txt",
+      "manuscript_sha256": "5b030934581391052229b42efc0b5765c8bf427f6d6f875943463674ddffba10",
+      "manuscript_git_blob_sha1": "a89155c3d967a44e314c41e5bd5ad85677e5eff5",
+      "checkpoint": "continuity/episodes/E74/S3_E74_Carry_On_20261025_Checkpoint.json",
+      "checkpoint_sha256": "2dece65725150bad5d2a66127c3ea07f6e484d4638dfc96a3ba945b96a3c0eeb",
+      "checkpoint_git_blob_sha1": "7a192d20a5086f59f23325b3797c5d8b56b0efff",
+      "receipt": "continuity/episodes/E74/S3_E74_Carry_On_20261025_Receipt.json",
+      "drive_manuscript": "1U3k7sVFRqEgifRg0z9E_d-MB--8AYNoc",
+      "drive_checkpoint": "1-2Em4UL1NwVf2F0QH3kofyL3BFhDJH5q",
+      "airtable": "recIlkE5EbfiEAEqp",
+      "words": 3903,
+      "estimated_minutes": 26.02,
+      "episode75_authorized": false,
+      "review": "continuity/episodes/E74/S3_E74_Review_20261025.md"
     }
   ],
-  "prepared_episode": null,
-  "playback_control": "AUTHORIZED_EXACT_REPLAY73_ONLY_NO74",
+  "prepared_episode": 74,
+  "playback_control": "AUTHORIZED_NEW74_ONLY_AFTER_VERIFICATION_NO75",
   "latest_scoped_author": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
   "current_author_configuration": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
   "original_manuscripts_or_checkpoints_rewritten": false,
@@ -937,7 +961,7 @@
     ],
     "status": "R7_OUTLINED; OLD_R6_DRAFT_REVISION_REQUIRED_BEFORE_DELIVERY"
   },
-  "next_episode_authorized": false,
+  "next_episode_authorized": true,
   "last_reconciliation_id": "S7NS_E73_CHAT_DELIVERY_RECONCILIATION_20261025",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
@@ -1682,7 +1706,7 @@
     },
     "concurrent_preparation_note": "Fresh control files also contain an undelivered Family Business candidate from another preparation. Preserve that record and its artifacts. This chat selects Still Family; no claim is made that another candidate was played or accepted."
   },
-  "current_prepared_episode_count": 0,
+  "current_prepared_episode_count": 1,
   "selected_prepared_response": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
   "continuation_authorization": {
     "status": "DRAFT_GENERATION_AUTHORIZED_PLAY_HELD",
@@ -1725,15 +1749,15 @@
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
-  "playback_hold": "LIFTED_FOR_EXACT70_R2_REPLAY_ONLY; no71",
+  "playback_hold": false,
   "current_playback_request": {
-    "mode": "EXACT_REPLAY",
+    "mode": "NEW_SINGLE_EPISODE_PLAY",
     "episode_span": [
-      72
+      74
     ],
-    "author_text": "play ep72. send whole thing",
-    "new_fictional_time": 0,
-    "episode73_authorized": false
+    "author_text": "check outline and play ep74.",
+    "status": "AUTHORIZED_PREPARED_REVIEWED_SAVED_DELIVERY_PENDING",
+    "episode75_authorized": false
   },
   "prepared_draft_features_60_69": [
     {
@@ -2135,7 +2159,7 @@
     "delivery_reconciliation": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json"
   },
   "next_after_prepared_feature": 71,
-  "work_status": "Full72 prior delivery reconciled; replay same saved3870word text unchanged.",
+  "work_status": "74 full draft/read/repairs/final reread completed; paired files saved, release verification underway. Actual73 remains last delivered until exact full74 chat response. No75.",
   "current_actual_after_E65": {
     "candidate_only": false,
     "elapsed": "Brian strand: three mornings since64 poster burning; leaves water stop with Jar Jar/northbound travelers at noon. Coastal strand separate; no exact synchronization/day number invented.",
@@ -2920,7 +2944,7 @@
     },
     "current_prepared_episode_count": 2
   },
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "current_actual_after_E67": {
     "candidate_only": false,
     "after_episode": 67,
@@ -3340,7 +3364,7 @@
     "current_delivery_status": "DELIVERED_PROVISIONAL",
     "reconciliation": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json"
   },
-  "work_resume_checkpoint_latest": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
+  "work_resume_checkpoint_latest": "continuity/episodes/E74/S3_E74_Carry_On_20261025_Checkpoint.json",
   "current_actual_after_E72": {
     "Dana": "Baseline inside BELLY, recovering split lip/side/ribs/back; no healing reset. Kahuhu explicitly taken off and placed within reach by feet; shortgun unchanged from actual71 carried interior, not fired/moved in72. Holds game controller at end, pauses voluntarily. No new real combat.",
     "Hulk": "Alive, selected amplified state under encounter-specific exception; regenerating observed injuries, last holding baby at ruined pavilion. Not conclusively defeated/killed, no forgiveness or permanent equal-stats conclusion. No indefinite future amplification duration invented.",
@@ -3383,7 +3407,7 @@
     "estimated_minutes": 25.89,
     "episode74_authorized": false
   },
-  "episode74_authorized": false,
+  "episode74_authorized": true,
   "delivered_E73": {
     "episode": 73,
     "change_id": "S7NS_E73_FACE_VALUE_20261025",
@@ -3408,5 +3432,51 @@
     "episode74_authorized": false,
     "delivery_status": "DELIVERED_PROVISIONAL",
     "reconciliation": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json"
+  },
+  "episode75_authorized": false,
+  "prepared_E74_Carry_On_20261025": {
+    "episode": 74,
+    "change_id": "S7NS_E74_CARRY_ON_20261025",
+    "episode_span": [
+      74
+    ],
+    "title": "Carry-On",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E74/S3_E74_Carry_On_20261025.txt",
+    "manuscript_sha256": "5b030934581391052229b42efc0b5765c8bf427f6d6f875943463674ddffba10",
+    "manuscript_git_blob_sha1": "a89155c3d967a44e314c41e5bd5ad85677e5eff5",
+    "checkpoint": "continuity/episodes/E74/S3_E74_Carry_On_20261025_Checkpoint.json",
+    "checkpoint_sha256": "2dece65725150bad5d2a66127c3ea07f6e484d4638dfc96a3ba945b96a3c0eeb",
+    "checkpoint_git_blob_sha1": "7a192d20a5086f59f23325b3797c5d8b56b0efff",
+    "receipt": "continuity/episodes/E74/S3_E74_Carry_On_20261025_Receipt.json",
+    "drive_manuscript": "1U3k7sVFRqEgifRg0z9E_d-MB--8AYNoc",
+    "drive_checkpoint": "1-2Em4UL1NwVf2F0QH3kofyL3BFhDJH5q",
+    "airtable": "recIlkE5EbfiEAEqp",
+    "words": 3903,
+    "estimated_minutes": 26.02,
+    "episode75_authorized": false,
+    "review": "continuity/episodes/E74/S3_E74_Review_20261025.md"
+  },
+  "prepared_E74_end_state": {
+    "Dana": "Baseline inside; sleeps overnight, wakes, recovering back loosens during walk to Falcon ramp. Does not board narrow passage, returns couch. Kahuhu/shortgun remain where actual73 left them. No transform/fight/shot. No obligation to repeat daynah SMASH outside transformed form.",
+    "Hulk": "Alive, selected amplified state under encounter-specific exception; regenerating observed injuries, last holding baby at ruined pavilion. Not conclusively defeated/killed, no forgiveness or permanent equal-stats conclusion. No indefinite future amplification duration invented.",
+    "baby": "Single green baby from torn shoulder flesh, Dada claim to Dana; stands, cracks ledge, bites gauntlet rim, tears rail. No name, objective paternity proof, adoption agreement or universal reproduction power. Last held by Hulk.",
+    "venue": "Pavilion footing cratered; roof off supports now fallen; two stoneweights, one rolled into steps. Quarry shed/blocks/wall destroyed; headland collapse/coastal cleft flooded. Harbor broken windows/roof, one visibly breathing injured person carried out; no death total invented. Original70corpses/remains stay within altered site, no revival/burial claimed. Reinforced coffin base survives leveled as cradle; newly installed rail broken; baby repeatedly strikes base without breaking bottom.",
+    "Chris_Billy_Arthur": "Billy exterior through theft, own banjo routes Chris inside. Kaze then Arthur then willing R2 physically swallowed into dry BOYS CLUB after unoccupied Falcon intake. Chris repairs/inspects while inside. Final real inversion: Chris sole exterior walking inland with vehicle Pokeball; Billy full-size inside with own banjo, speaking through worn mask assembly. Arthur inside Falcon lounge area; left UNSHAKEN drawn/holstered without firing.",
+    "Eyeholes": "NewChrisportraitdiscoveredonsealedcartonsbeneatholdtoplayerfinite70delivery; nofreshendlessshipment/magicreprintingclaimed. Mahnah-damagedopenedcartoninsideexempt; pristineChrisdisplayfront-facingbesidemonitoratend. Separate sealedcarton Kaze→Arthurinspection→Kaze→Brian. Brianopensoutsideaftermutation; localdevicealertpointsnearbyoffice. Chrisfirstactualon-jobbeatingBrian, recoversdamagedbox/partbag; wetfloorcerealleft. No other on-job victim, noobjectivelawvalidation; brandimageprovenanceunexplained.",
+    "game": "Dana returnsstolenpurseinRDR2, Chrisarguesreward; beepinterruptscompanionship. Dana keepscontrollerwhileChrisleaves. VirtualArthur not actualArthur; norealcashflow.",
+    "carried": "All unmentioned actual73 states retained by prior checkpoint and fields. Common2851, Daniel110separate, Kaze0, Brian2silver unchanged. No fee/flight payment/bounty/new coin/stock/infinite ammunition. No lyrics edited or re-performed. Actual67R21 only, never unplayedR23.",
+    "remaining": "Falcon acquisition staged74; driving lesson/GTA line/alternate Hawking/insurance/FUCK NO later, not occurred. All R21 units7–19,duelregister,Darkin gates,sourceversion/departure access retained; no completed old arc by ship theft. No75PLAY or generated75. Cooling repair/familiarization/body fit prospective work, not excuse for days of repair padding.",
+    "Brian_JarJar": "Room above landingoffice nearharbor; one silver ofBrian's three paidforroom, two remain. JarJar independently seeking boatcrew/home-routeinfo, no successfulpassageclaim. Brian takesKaze's sealedbox, is bitten behindoffice byradioactivecow/bee whileliftingit awayfromflower. JarJar recapturesanimal/bracescrate, informsclerk. Twohoursobservedonset; Brian becomesBeeMoo appearance and demonstratesbriefnoisyflight, self-claimsSithnotrecognizedmember. OpensEyeholesbeforealert; Chrisassault. JarJarreturnswithwater, extinguishessmolderingframe, hitsChriswithjug, protectsBrianfrombedframeimpact, returnsboxandforcesexit, throwsjug. Lastbothinwreckedroom; Brianconscioussplitlip/swelling/bruises/rightwingpairpain/shakinghands; noautoregeneration.",
+    "Kaze_Mana": "Kaze initiates theft, disarms/overpowers Han without damage to himself, chooses releasing Han toward injured Chewie. Inside after actual swallow; seated cockpit but no control activation, no learned driving. Mahnah remains inside by Daynah, independent couch displacement; no trip outside or size change.",
+    "BeeMoo": "Same2ft2adult, humanlikehands/feetandface; smallhorns, black/whitepatches, yellowfuzz, fourmembranouswings. Shortflightacrossroomgenuinesuccess, fatigue and uncertaincontrolpreventlongescape, latertraumaticwinginjuryunresolved. Noextraunselectedpowers/globalnumericflightcap. Sithidentityclaimalone.",
+    "Brian_Force_saber_journal": "SameCliffordredlaser-saber; noviceTrakataoff/onunderobstructionlandsChrisforearmgraze. One selectedlimitedForceshoveactuallythrowsChrisintowashstand; firstsuccessfulshovehere, not63washermovement or mutationboost. NoForcepull/mastery/download. Chrisdisarms, deactivatesandthrowsintactsabertobed; leftBrian. JournalsavedbyJarJarfrombehindbed, coveredgewet/noestablishedtextloss; fulllyrics/signatures/Shake-notecontentunchanged. No newrap or lyricrevision.",
+    "Chris_injuries": "Actual73 cut closed during overnight serum/BELLY recovery, tender stripe persists. Bruising faded enough for unguarded motion; not instantaneous switching cure. No new74 injury.",
+    "vehicle": "Same damaged blue/gold Subaru remains parked until final Chris exterior recalls into existing Pokeball and carries it. Missing mirror/starredglass/tornwing remain. R2 is inside with Falcon, not inside vehicle ball. No74vehicle flight/fuel/fire/replenishment/repair.",
+    "time_place": "Morning following actual73; coastal export/repair depot, Runeterra. No definitive Bilgewater-city identification. Final Chris walks inland locally; no offworld departure.",
+    "Billy": "Current10ft6/1700lb. Chewie stock/punches/kicks produce green bleeding mouth and swollen eye; no explicit broken bone/new regeneration/unconsciousness. Tail/shoulder/clinch and real banjo interception used. One completed Kancho with scoped author-selected Chewie survival/paralysis; no global technique nerf. Final inside at Falcon entrance, hat removed, shoulders cannot pass.",
+    "Han_Chewie": "New physically landed Falcon crew. Han ordinary adult Imperial-environment smuggler without silently pinned exact film date. Chewie repairs while fully clothed in grease-marked maintenance coveralls and bandolier. Han fires one bolt, disarmed; ramp controls used; knowingly breaks power-coupling collar/mount, attempts escape and resists. Chewie bowcaster fires3; first physically intercepted and returned by banjo, second misses Billy, third diverted into stone. Competent close defense shifts positions but Billy wins. Scoped Kancho leaves Chewie barely alive and permanently paralyzed below waist. Han freed, prioritizes Chewie, Arthur helps actual cart transfer, Han/depot worker take Chewie toward harbor surgeon two streets inland; arrival/treatment/recovery NOT established. Han sees whole Falcon swallowed, no BELLY layout/security knowledge. Han's blaster left apron; Chewie bowcaster entrusted to remaining dockworker for return, actual return not claimed.",
+    "Falcon": "Stolen whole and retained, unoccupied physical intake by Billy into oversized secure storage, landing gear supports ship, ramp down. No automatic legal title/registration change; Han remains registered owner for future selected consequences. No flight by Sins. Prior cooling-line fitting scorched and support housing destroyed by returned bowcaster shot; system off and correct flight component replacement not yet identified. Han's separate intentional power mount/collar damage repaired on Chris workbench using actual existing salvage, original intact electrical parts retained; stable corridor lights checked. No full drive/navigation/core expertise/new capability. R2 connects physically to compatible accessible socket/display, no English translation/omniscience/flight mastery. Cockpit small crew fit only after ordinary single-file movement and existing toolbox removed from copilot seat rail; Arthur carries box out, no untracked disposal. Daynah/Billy do not fit freely; no enlarged cockpit/structural modification. Larger-body accommodations pending. Broken power collar kept in Chris pocket. Entire ship inside persists with Chris exterior."
   }
 }
