@@ -2,8 +2,8 @@
   "schema": "s7ns.forward-outline.v2",
   "change_id": "S7NS_CINEMATIC_COMBAT_FIDELITY_OUTLINE_R21_20261024",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "status": "AUTHOR_SELECTED_OUTLINE_ACTUAL72_PREPARED73_SINGLE_PLAY_AUTHORIZED_NO74",
-  "current_control": "S7NS_E73_FACE_VALUE_20261025",
+  "status": "ACTUAL73_DELIVERED_PROVISIONAL_EXACT_REPLAY73_AUTHORIZED_NO74",
+  "current_control": "S7NS_E73_CHAT_DELIVERY_RECONCILIATION_20261025",
   "state_owner": "continuity/episodes/E71/CHAT_DELIVERY_RECONCILIATION_E71_20261025.json",
   "current_actual_after_E58": {
     "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
@@ -2522,7 +2522,7 @@
       "boundary": "No guaranteed theft result, capture, recovery or escape."
     }
   ],
-  "next_new_main_episode": 73,
+  "next_new_main_episode": 74,
   "focus_mode": "ENSEMBLE",
   "selected_chronology_Eyeholes_Space_20261024": [
     {
@@ -2539,7 +2539,7 @@
       "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
       "construction": "Bob→Richard→KoolAid→adultPinocchio→WorldBreakerHulk, with full concrete combat development in latest author owner. Eyeholes letter/device, BELLY exception and mascot progression. No mandatory intercut quota. Latest direct E70 override: stop defaulting to nonfatal finishes; follow continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md. Preserve full kit and literal smash line, retire later living callbacks made impossible by70R2. No new occurred event from this outline.",
       "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
-      "execution_status": "COMBAT_DELIVERED_E68_TO_E71; EYEHOLES_DELIVERY_E70; PORTRAIT_AND_REACTIONS_PREPARED_E73"
+      "execution_status": "COMBAT_DELIVERED_E68_TO_E71; EYEHOLES_DELIVERY_E70; PORTRAIT_AND_REACTIONS_DELIVERED_E73"
     },
     {
       "sequence": 3,
@@ -2547,7 +2547,7 @@
       "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
       "construction": "Actual72 high-honor/chaos contrast, diagnosis, horse collision, screen lag and physical banjo overhearing preserved. Latest E73 all selects bite/illness then cow-bee appearance then brief noisy flight; see scoped author. No extra power package; precise global flight limits unestablished.",
       "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
-      "execution_status": "RETREAT_ACTUALLY_DELIVERED_E72; BITE_ONSET_BODY_BRIEF_FLIGHT_PREPARED_E73_LATEST_ALL_SCOPE",
+      "execution_status": "RETREAT_DELIVERED_E72; BITE_ONSET_BODY_BRIEF_FLIGHT_DELIVERED_E73",
       "latest_detail_owner": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md"
     },
     {
@@ -2556,7 +2556,7 @@
       "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
       "construction": "Postmutation Brian opens box outside BELLY; device interrupts couch scene; Chris exits, X-wing break-in and actual beating with counterplay. Dana keeps playing.",
       "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
-      "execution_status": "PREPARED_E73_FIRST_BRIAN_JOB_NOT_ACTUAL_UNTIL_FULL_DELIVERY"
+      "execution_status": "DELIVERED_E73_FIRST_BRIAN_EYEHOLES_JOB"
     },
     {
       "sequence": 5,
@@ -2878,6 +2878,27 @@
       "sequences5_to8": "All later space acquisition/departures/JabbaMarcelina/spice/conflicts remain pending.",
       "older_R21_units7_to19": "All retained, access must resolve before departure; no characters/arcs removed or retrospectively completed.",
       "other_dependencies": "Zaahen expanded scope, Styraatu custody, Ibaaros host, CadBane actualcapture etc remainOPEN. TPPtheft already67 actual, notopenagain. BrianShakequestionresponseOPEN; no confession/redemption."
-    }
-  }
+    },
+    "actual_delivery_reconciliation": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json",
+    "delivery_status": "DELIVERED_PROVISIONAL",
+    "current_execution": "Prepared execution details above now delivered in full73; historical prepared snapshots retained. No later arcs advanced."
+  },
+  "current_actual_after_E73": {
+    "Dana": "Baseline insideBELLY throughout73, continuesRDR2/highhonor recovering after71; no healing reset/injury novelty. Kahuhu by feet as72, shortgun unchanged inside. Mahnah joins him by actual Billy intake. Remains gaming at end.",
+    "Hulk": "Alive, selected amplified state under encounter-specific exception; regenerating observed injuries, last holding baby at ruined pavilion. Not conclusively defeated/killed, no forgiveness or permanent equal-stats conclusion. No indefinite future amplification duration invented.",
+    "baby": "Single green baby from torn shoulder flesh, Dada claim to Dana; stands, cracks ledge, bites gauntlet rim, tears rail. No name, objective paternity proof, adoption agreement or universal reproduction power. Last held by Hulk.",
+    "venue": "Pavilion footing cratered; roof off supports now fallen; two stoneweights, one rolled into steps. Quarry shed/blocks/wall destroyed; headland collapse/coastal cleft flooded. Harbor broken windows/roof, one visibly breathing injured person carried out; no death total invented. Original70corpses/remains stay within altered site, no revival/burial claimed. Reinforced coffin base survives leveled as cradle; newly installed rail broken; baby repeatedly strikes base without breaking bottom.",
+    "Chris_Billy_Arthur": "Billy initially sole exterior ropewalk, admits Kaze+Mahnah and later releasesKaze holding cereal. Chris inside voice throughbanjo; actual controlled inversion gives Chris exterior for local sortie, Billy inside withownbanjo, Dana staysgaming. Final Chris returnsinterior withcut/bruises/box; Billysoleexterior atloadingapron. Arthur lastoutside ropewalk, examines actual carton and asks cereal-only pay, not drawn into fight.",
+    "Eyeholes": "NewChrisportraitdiscoveredonsealedcartonsbeneatholdtoplayerfinite70delivery; nofreshendlessshipment/magicreprintingclaimed. Mahnah-damagedopenedcartoninsideexempt; pristineChrisdisplayfront-facingbesidemonitoratend. Separate sealedcarton Kaze→Arthurinspection→Kaze→Brian. Brianopensoutsideaftermutation; localdevicealertpointsnearbyoffice. Chrisfirstactualon-jobbeatingBrian, recoversdamagedbox/partbag; wetfloorcerealleft. No other on-job victim, noobjectivelawvalidation; brandimageprovenanceunexplained.",
+    "game": "Dana returnsstolenpurseinRDR2, Chrisarguesreward; beepinterruptscompanionship. Dana keepscontrollerwhileChrisleaves. VirtualArthur not actualArthur; norealcashflow.",
+    "carried": "Common2851, Daniel110separate, Kaze0 unchanged. Brian3minus1room=2silver. Richard/Bob/Pinocchio/KoolAid remain dead70; Hulk/baby/reinforcedbase offstage as71. Actual67R21 governs, neverunplayedR23. No new shipping/dayturn or oldarccompletion.",
+    "remaining": "All retained R21units7–19 and individualduel/Darkin/sourceaccessgates remain pending; no automaticoffworlddeparture. LaterFalcon/lesson/alternateHawking/JabbaMarcelina/spice/spacecast retained. Exactglobalflightlimitsandwinghealing unknown, notfreeupgrades. Episode74 not authorized.",
+    "Brian_JarJar": "Room above landingoffice nearharbor; one silver ofBrian's three paidforroom, two remain. JarJar independently seeking boatcrew/home-routeinfo, no successfulpassageclaim. Brian takesKaze's sealedbox, is bitten behindoffice byradioactivecow/bee whileliftingit awayfromflower. JarJar recapturesanimal/bracescrate, informsclerk. Twohoursobservedonset; Brian becomesBeeMoo appearance and demonstratesbriefnoisyflight, self-claimsSithnotrecognizedmember. OpensEyeholesbeforealert; Chrisassault. JarJarreturnswithwater, extinguishessmolderingframe, hitsChriswithjug, protectsBrianfrombedframeimpact, returnsboxandforcesexit, throwsjug. Lastbothinwreckedroom; Brianconscioussplitlip/swelling/bruises/rightwingpairpain/shakinghands; noautoregeneration.",
+    "Kaze_Mana": "Kaze visitsDana viaactualintake, testsChrisportraitpride, exitscarryingone sealedcarton, handsittoBrian whileknowing device/jobterms. Lastoutside nearSubaru/apron, no travel/hiddenoffscreenaction. Mahnah insidebyDana, tearsportraitcartoncorner, eats offeredEyeholes underBELLYexemption; nonverbal.",
+    "BeeMoo": "Same2ft2adult, humanlikehands/feetandface; smallhorns, black/whitepatches, yellowfuzz, fourmembranouswings. Shortflightacrossroomgenuinesuccess, fatigue and uncertaincontrolpreventlongescape, latertraumaticwinginjuryunresolved. Noextraunselectedpowers/globalnumericflightcap. Sithidentityclaimalone.",
+    "Brian_Force_saber_journal": "SameCliffordredlaser-saber; noviceTrakataoff/onunderobstructionlandsChrisforearmgraze. One selectedlimitedForceshoveactuallythrowsChrisintowashstand; firstsuccessfulshovehere, not63washermovement or mutationboost. NoForcepull/mastery/download. Chrisdisarms, deactivatesandthrowsintactsabertobed; leftBrian. JournalsavedbyJarJarfrombehindbed, coveredgewet/noestablishedtextloss; fulllyrics/signatures/Shake-notecontentunchanged. No newrap or lyricrevision.",
+    "Chris_injuries": "Burnedforearmcutfromrealblade; hip/ribbruiseagainstbrokenwashstand, shoulderhitbyjug. Maskblockedbasin/fistphysically; nosaberproofarmor, Forceimmunityorinstanthealing. Endinsideusingcloth, healingmayprogressnormally. Guns/riflecarriedbutnofire, noammunitionexpended.",
+    "vehicle": "SamebluegoldSubaru transforms onclearapron, shortlocalX-wingout/backoverbrokenlane toofficeapron. R2physicallybesidecar, willinglyjoins; Chrisguidespassengercradle, continuousaftsockettransferandback, helpsR2outafterreturn. R2independentbeeps/disapproval, noEnglishtranslation/autopilotnewpower. No weapons/overdrive/hyperspace. Missingmirror/starredglass/tornwingprior damagepersists, norepair/refill/recall. Fuelusedunquantified. LastSubaruparkedclearloadingapron,R2outside."
+  },
+  "latest_delivery_reconciliation": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json"
 }
