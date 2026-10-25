@@ -1,0 +1,26 @@
+{
+  "change_id": "S7NS_E69_CHAT_DELIVERY_RECONCILIATION_20261024",
+  "episode": 69,
+  "title": "One More",
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "continuity/episodes/E69/S3_E69_One_More_20261024.txt",
+  "manuscript_sha256": "5e5e40d8127293cfc7fe83bcfbef84c2720a045df9e650186c3df96ce58b943e",
+  "checkpoint": "continuity/episodes/E69/S3_E69_One_More_20261024_Checkpoint.json",
+  "evidence": "Complete previous final response delivered in this chat; conversation continuity retains full delivery through terminal Not everybody. Exact saved text freshly reread. No independent machine hash of rendered chat claimed.",
+  "actual_end_state": {
+    "chronology": "Resumes Dana strand immediately after his last E68R2 pavilion scene, still afternoon. Parallel Brian strand already reached dusk in68; no second reunion, no new synchronized day count, no rewind of those events. Later unobserved actions not invented.",
+    "location": "Ruined exercise pavilion above coastal export-depot harbor lane; fighting spans platform, footing, slope and work area. No travel to a new venue.",
+    "Dana": "Big Kahuna ACTIVE at end, approximately13ft1 with green skin/dark coils and expanded Kahuhu. Not returned to baseline. Normal speech before transformation; compact third-person Daynah register afterward with intelligence/skills intact. Prior forearm/hip/jaw/mouth injuries carried; further ribs/shoulder/back impacts, thigh/rib cuts and glass wounds calf/right foot. Calf shard removed; bleeding/recovery ongoing, no instant total healing or precise fracture diagnosis. Damaged clothing remains. Guard shortgun from67 has no new use/disposal. Red compressed block in hand at final line.",
+    "Richard": "Alive, defeated, side wound held with his own towel, painful body impacts and unreliable knee. Seated on intact reinforced coffin base; sincere belief he encouraged Daynah remains. Bag has remaining mat/supplies; his small water bottle capped and placed far along footing. Arranged drinks delivery fulfilled disastrously. No further fight after defeat.",
+    "Bob": "Alive with68R2 broken nose/scalp/hand injuries and body impacts, seated at stone support. Richard provided separate towel for hand. No healing/reset or renewed duel.",
+    "Kool_Aid_Man": "Pitcher shattered; liquid visibly survived and animated open lower coffin shell. Container walls/end joint torn under charge; base remains. Gathering red material caught in canvas mat, water expressed under pressure, resulting dense inert red block and powdered mix. Block does not move; death/permanent incapacity and future rehydration outcome NOT established. This scoped survival does not grant universal vessel possession or immunity.",
+    "venue": "Further destroyed platform/rail/steps, breached last timber wall, rubble, glass and red residue, damaged footing surface. Earlier roof still supported on timber stack; no roof repair. Coffin sidewalls gone, reinforced base survives and now supports Richard; future cradle material remains accessible. One canvas mat wet/ruined; other remains.",
+    "unchanged_offstage": "Use E68R2 end state for Brian/JarJar/Baldur/Kratos/Mimir and E67 carried state for other Sins, Mana, R2, TPP and vehicles. No new offstage event, Eyeholes letter, mutation, new lyric performance, boat departure, earned money or payment. Common2851; Daniel110 separate; Kaze0; Brian3silver last known.",
+    "remaining_selected": "Adult Pinocchio then World Breaker Hulk remain pending with actual mechanics/identity dependencies. Eyeholes delivery/role, refuge, mutation specifics, space acquisition remain pending. No early first-job assault. No70 authorization."
+  },
+  "latest_authorization": "play ep70",
+  "episode70_authorized": true,
+  "episode71_authorized": false,
+  "original_checkpoint_preserved": true
+}
