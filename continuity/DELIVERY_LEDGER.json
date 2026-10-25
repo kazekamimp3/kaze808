@@ -801,7 +801,7 @@
     "played": false,
     "pre_R7_status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED"
   },
-  "playback_control": "LIFTED_ONLY_FOR_EXPLICIT_NEW66_67; no68 authorization",
+  "playback_control": "LIFTED_FOR_EXPLICIT_NEW68_ONLY; no69 authorization",
   "latest_scoped_author": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
   "current_author_configuration": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
   "original_manuscripts_or_checkpoints_rewritten": false,
@@ -861,7 +861,7 @@
     ],
     "status": "R7_OUTLINED; OLD_R6_DRAFT_REVISION_REQUIRED_BEFORE_DELIVERY"
   },
-  "next_episode_authorized": false,
+  "next_episode_authorized": true,
   "last_reconciliation_id": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
@@ -1381,7 +1381,7 @@
   },
   "episode52_authorized": true,
   "preparation_rule": "Episode59 prepared only; render exact reviewed text, reconcile actual delivery next interaction; no author acceptance inferred.",
-  "last_delivered_episode": 65,
+  "last_delivered_episode": 67,
   "prepared_E51_Fetch_R2_20261022": {
     "change_id": "S7NS_E51_FETCH_JESUS_RECOGNITION_R2_20261022",
     "episode_span": [
@@ -1649,17 +1649,16 @@
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
-  "playback_hold": "EXPLICIT_REPLAY66_67_ONLY; no NEW68 authorization",
+  "playback_hold": "LIFTED_FOR_EXPLICIT_NEW68_ONLY; no69 authorization",
   "current_playback_request": {
-    "author_text": "play ep66-67",
+    "author_text": "PLAY EPISODE 68 ONLY. Use “S7NS — Kaze’s Voice & Creative Fidelity.” Recover the newest verified checkpoint and follow the installed outline and author decisions. Continue from the actual delivered Episode 67; do not substitute the unplayed R23 revision. Complete the existing whole-episode review before presenting the TTS-ready episode. No Episode 69.",
     "episode_span": [
-      66,
-      67
+      68
     ],
-    "revision": false,
-    "mode": "REPLAY_SAVED_FEATURE",
-    "status": "AUTHORIZED_REPLAY",
-    "extends_to_other_episodes": false
+    "mode": "NEW_EPISODE",
+    "status": "AUTHORIZED_REVIEWED_PREPARED_SAVED_PENDING_RESPONSE",
+    "extends_to_other_episodes": false,
+    "episode69_authorized": false
   },
   "prepared_draft_features_60_69": [
     {
@@ -2061,7 +2060,7 @@
     "delivery_reconciliation": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json"
   },
   "next_after_prepared_feature": 66,
-  "work_status": "Revised63–65 DELIVERED_PROVISIONAL; NEW66–67 reviewed/saved for explicit PLAY, delivery pending.",
+  "work_status": "E68 Constructive Criticism whole-reviewed and saved for current explicit PLAY68ONLY. Four-app exact/version readbacks complete. Actual delivery cursor remains67 until response exists; acceptance NOT_ASSERTED. Newest installed author outline retained; unplayed R23 excluded.",
   "current_actual_after_E65": {
     "candidate_only": false,
     "elapsed": "Brian strand: three mornings since64 poster burning; leaves water stop with Jar Jar/northbound travelers at noon. Coastal strand separate; no exact synchronization/day number invented.",
@@ -2937,5 +2936,55 @@
     "manuscript": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024.txt",
     "manuscript_sha256": "4bcb86f3b376f782878edbf80e9a229e8baec0f0f04f1adbf7eb1754a5ec0f02",
     "checkpoint": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Checkpoint.json"
+  },
+  "preserved_pre_E68_preparation_controls": {
+    "work_status": "Revised63–65 DELIVERED_PROVISIONAL; NEW66–67 reviewed/saved for explicit PLAY, delivery pending.",
+    "playback_hold": "EXPLICIT_REPLAY66_67_ONLY; no NEW68 authorization",
+    "playback_control": "LIFTED_ONLY_FOR_EXPLICIT_NEW66_67; no68 authorization",
+    "current_playback_request": {
+      "author_text": "play ep66-67",
+      "episode_span": [
+        66,
+        67
+      ],
+      "revision": false,
+      "mode": "REPLAY_SAVED_FEATURE",
+      "status": "AUTHORIZED_REPLAY",
+      "extends_to_other_episodes": false
+    },
+    "last_delivered_episode": 65,
+    "next_episode_authorized": false
+  },
+  "prepared_E68_Constructive_Criticism_20261024": {
+    "change_id": "S7NS_E68_CONSTRUCTIVE_CRITICISM_PLAY_20261024",
+    "episode_span": [
+      68
+    ],
+    "title": "Constructive Criticism",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E68/S3_E68_Constructive_Criticism_20261024.txt",
+    "manuscript_sha256": "6555ff2311556061427bdf60f998760662f0fda52ce2be7913529a57dbbb63b5",
+    "manuscript_git_blob_sha1": "bbb63e37984a7fb933ebb1c11ef1dafab186a530",
+    "checkpoint": "continuity/episodes/E68/S3_E68_Constructive_Criticism_20261024_Checkpoint.json",
+    "checkpoint_sha256": "c9fa767ee1be2ce18e5a02bfb6384b50e18f82850527c0de6ff5b02f9fd8f8f7",
+    "receipt": "continuity/episodes/E68/S3_E68_Constructive_Criticism_20261024_Receipt.json",
+    "continuation_basis": "Actual delivered67 R21; unplayed R23 excluded",
+    "author_outline_key": "selected_chronology_Eyeholes_Space_20261024",
+    "full_review_complete": true,
+    "word_count": 3927,
+    "assumed_wpm": 150,
+    "estimated_minutes": 26.18,
+    "drive_manuscript_id": "1XVG3OTe4p_U2KbUxjmrvyKbOdgbpx5Hn",
+    "drive_checkpoint_id": "1wXiUcrNDr-7bzDixp9yTnBnSqzsukO5y",
+    "airtable_episode_record_id": "recG4oJhuUQn27Yyq",
+    "notion_episode_index": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "readbacks": {
+      "github": "exact_text_equal",
+      "drive": "raw_bytes_sha256_equal",
+      "airtable": "exact_record_fields_equal",
+      "notion": "prepended_version_hash_status_verified"
+    },
+    "reconciliation": "Only after complete response exists reconcile68 as DELIVERED_PROVISIONAL; no69 authorized."
   }
 }
