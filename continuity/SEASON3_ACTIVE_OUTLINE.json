@@ -2,8 +2,8 @@
   "schema": "s7ns.forward-outline.v2",
   "change_id": "S7NS_CINEMATIC_COMBAT_FIDELITY_OUTLINE_R21_20261024",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
-  "status": "R21_AUTHOR_SELECTED_OUTLINE_WORK_ONLY_ACTUAL65_NEXT_NEW66",
-  "current_control": "S7NS_E72_TAKE_CARE_OF_HIM_20261025",
+  "status": "AUTHOR_SELECTED_OUTLINE_ACTUAL72_PREPARED73_SINGLE_PLAY_AUTHORIZED_NO74",
+  "current_control": "S7NS_E73_FACE_VALUE_20261025",
   "state_owner": "continuity/episodes/E71/CHAT_DELIVERY_RECONCILIATION_E71_20261025.json",
   "current_actual_after_E58": {
     "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
@@ -28,7 +28,7 @@
     "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists.",
     "knowledge_correction_from_delivered51": "Kaze, Chris and Billy heard Wade identify Tai Lung as Daniel's killer in51; Kaze relayed it to Arthur/Daynah. Current location remains unknown. Daniel's returned knowledge not automatically identical. This corrects an initial outline error, not a new revelation."
   },
-  "latest_direct_author_scope": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+  "latest_direct_author_scope": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
   "reader_outline": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
   "archive": {
     "path": "continuity/archive/SEASON3_ACTIVE_OUTLINE_before_humor_20261023.json",
@@ -2522,7 +2522,7 @@
       "boundary": "No guaranteed theft result, capture, recovery or escape."
     }
   ],
-  "next_new_main_episode": 72,
+  "next_new_main_episode": 73,
   "focus_mode": "ENSEMBLE",
   "selected_chronology_Eyeholes_Space_20261024": [
     {
@@ -2539,15 +2539,16 @@
       "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
       "construction": "Bob→Richard→KoolAid→adultPinocchio→WorldBreakerHulk, with full concrete combat development in latest author owner. Eyeholes letter/device, BELLY exception and mascot progression. No mandatory intercut quota. Latest direct E70 override: stop defaulting to nonfatal finishes; follow continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md. Preserve full kit and literal smash line, retire later living callbacks made impossible by70R2. No new occurred event from this outline.",
       "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
-      "execution_status": "COMBAT_DELIVERED_E68_TO_E71; EYEHOLES_DELIVERY_E70; PORTRAIT_PENDING"
+      "execution_status": "COMBAT_DELIVERED_E68_TO_E71; EYEHOLES_DELIVERY_E70; PORTRAIT_AND_REACTIONS_PREPARED_E73"
     },
     {
       "sequence": 3,
       "title": "Dana and Chris refuge; Brian hybrid development",
       "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
-      "construction": "Genuine competent high-honor/chaos contrast, familiar diagnosis emotion, later horse collision, actual screen lag and physically staged banjo overhearing. Mutation package remains candidate until selected.",
+      "construction": "Actual72 high-honor/chaos contrast, diagnosis, horse collision, screen lag and physical banjo overhearing preserved. Latest E73 all selects bite/illness then cow-bee appearance then brief noisy flight; see scoped author. No extra power package; precise global flight limits unestablished.",
       "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
-      "execution_status": "RETREAT_PREPARED_E72; MUTATION_PENDING_OPEN_PACKAGE"
+      "execution_status": "RETREAT_ACTUALLY_DELIVERED_E72; BITE_ONSET_BODY_BRIEF_FLIGHT_PREPARED_E73_LATEST_ALL_SCOPE",
+      "latest_detail_owner": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md"
     },
     {
       "sequence": 4,
@@ -2555,7 +2556,7 @@
       "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
       "construction": "Postmutation Brian opens box outside BELLY; device interrupts couch scene; Chris exits, X-wing break-in and actual beating with counterplay. Dana keeps playing.",
       "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
-      "execution_status": "PENDING"
+      "execution_status": "PREPARED_E73_FIRST_BRIAN_JOB_NOT_ACTUAL_UNTIL_FULL_DELIVERY"
     },
     {
       "sequence": 5,
@@ -2820,5 +2821,63 @@
       }
     ],
     "retained_other": "All original movement, selection, duel and Darkin registers copied without deletion in Source_Snapshot_Outline.json. Daniel's five duels displaced by farewell, not reassigned; Frank five retired; Chris five complete; ArthurSamira14 complete and four pending; Kaze/Billy pending gates remain. Evil long con requires real renewed access, no new alliance; Brian Shake question response OPEN. Clifford allRDR2 then allRDR1 in elapsed time. Dutch TahitiBobRoss/left-cheek portrait/tattoos, Keke conditional regrowth, Orra plate/chest unknown, GGA optional, romanceOFF, Briar offplot, Naganeka/Teemo exclusions, Frylock aliveFrance. No space departure clears these requirements."
+  },
+  "prior_control_before_E73": {
+    "outline_blob": "11bc59ae43d511b95e388cadc9403180eb7d88c0",
+    "current_control": "S7NS_E72_TAKE_CARE_OF_HIM_20261025",
+    "next_new_main_episode": 72,
+    "status": "R21_AUTHOR_SELECTED_OUTLINE_WORK_ONLY_ACTUAL65_NEXT_NEW66"
+  },
+  "current_actual_after_E72": {
+    "Dana": "Baseline inside BELLY, recovering split lip/side/ribs/back; no healing reset. Kahuhu explicitly taken off and placed within reach by feet; shortgun unchanged from actual71 carried interior, not fired/moved in72. Holds game controller at end, pauses voluntarily. No new real combat.",
+    "Hulk": "Alive, selected amplified state under encounter-specific exception; regenerating observed injuries, last holding baby at ruined pavilion. Not conclusively defeated/killed, no forgiveness or permanent equal-stats conclusion. No indefinite future amplification duration invented.",
+    "baby": "Single green baby from torn shoulder flesh, Dada claim to Dana; stands, cracks ledge, bites gauntlet rim, tears rail. No name, objective paternity proof, adoption agreement or universal reproduction power. Last held by Hulk.",
+    "venue": "Pavilion footing cratered; roof off supports now fallen; two stoneweights, one rolled into steps. Quarry shed/blocks/wall destroyed; headland collapse/coastal cleft flooded. Harbor broken windows/roof, one visibly breathing injured person carried out; no death total invented. Original70corpses/remains stay within altered site, no revival/burial claimed. Reinforced coffin base survives leveled as cradle; newly installed rail broken; baby repeatedly strikes base without breaking bottom.",
+    "Chris_Billy_Arthur": "Chris stays inside, Billy sole exterior at ropewalk broad stone with own banjo, Arthur beside him. Exterior monitor volume restored. Chris learns baby came from Hulk shoulder and claims Dana's paternity; no full fight knowledge. Chris relays Dana's lag insult explicitly through banjo and later transmits only own replies; route closed at end. Brian heard actual Chris, not Dana/Wade. Subaru untouched/no repair.",
+    "Eyeholes": "Meatwad already-open box, broken cereal shared with Chris without assault under BELLY exemption. Device still silent carried; no new remote signal, company portrait or job yet. Finite stock unquantified.",
+    "game": "Virtual stagecoach passengers rescued/four attackers killed, bodies unlooted. Current replay save reaches familiar SaintDenis TB diagnosis; Chris preserves older save in separate slot by consent. Meal/camp/ride, accidental horse/tree ragdoll, Arthur recovers. Later visible frame freeze causes death; restart and successful tactical retry. Ends idle in grass. Living cured/cybernetic Arthur outside unchanged; game events not real casualties/cash.",
+    "carried": "70end governs offstage cast; no new day synchronization or Brian dusk rewind. Common2851, Daniel110 separate, Kaze0, Brian3silver lastknown. No actual game money transfer. Richard/Bob/Pinocchio/KoolAid remain dead.",
+    "remaining": "Mutation exact package OPEN, portrait promotion and first Brian Eyeholes assault pending before space sequence; all older Runeterra units7–19 retained and access must reconcile before departure. Episode73 not authorized.",
+    "Brian_JarJar": "At actual dusk both leave68 drinking stand, walk detour around damaged lane to ropewalk. JarJar catches stumbling Brian, continues independently to inquire at landing office. Brian argues with Chris via Billy banjo, proves basic rhythm, shows authentic folded journal; then walks after JarJar. No paid room, mutation, new power, saber use, expenditure or actual Eyeholes assault."
+  },
+  "prepared_E73": {
+    "episode": 73,
+    "change_id": "S7NS_E73_FACE_VALUE_20261025",
+    "episode_span": [
+      73
+    ],
+    "title": "Face Value",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
+    "manuscript_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
+    "checkpoint": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
+    "checkpoint_sha256": "7770b177b75bace87d35a0f5072e36d864bced8bdfce8f246b2e57a467ff1904",
+    "author_scope": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+    "receipt": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Receipt.json",
+    "drive_manuscript": "1HqG1078LY9tyVFKBA7aVlBHpwCfQI46u",
+    "drive_checkpoint": "1EbHyvHicJ4vPyX9aaahcdLiqM16ArnfX",
+    "airtable": "recAGgjRXx8dvE7jt",
+    "author_decision_airtable": "rec4VBjOL4GVOKhLx",
+    "words": 3883,
+    "estimated_minutes": 25.89,
+    "episode74_authorized": false
+  },
+  "latest_E73_outline_application": {
+    "scope": "Author all resolves bite/onset, hybrid body and first brief noisy flight as sequential development. Same2ft2, usablehands, saber/limitedForce. Global numeric flight limits and additional powers not selected.",
+    "source": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+    "full_prior_outline_audit": "continuity/episodes/E72/S3_E72_Outline_Coverage_20261025.json",
+    "retention": "All earlier Runeterra R21 units7–19, individual duel register and later space sequences retained; access windows reconciled before offworlddeparture. No arc auto-completed by mutation or73.",
+    "prepared_execution": {
+      "prior_full_audit": "continuity/episodes/E72/S3_E72_Outline_Coverage_20261025.json",
+      "retained_full_source": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+      "sequence1": "Actual68R2 retainedfullsongandreunion, noreplay.",
+      "sequence2": "Actualduels68–71/70fatalitiesunchanged; portraitpromotionandreactionsPREPARED73.",
+      "sequence3": "Actual72retreat; bite/onset/body/mirror/briefflightPREPARED73 underlatestall.",
+      "sequence4": "FirstBrianEyeholesassaultPREPARED73 withmandatorycouchinterrupt/exit/Xwing/saberForcecounterplay/beating/intactsaber.",
+      "sequences5_to8": "All later space acquisition/departures/JabbaMarcelina/spice/conflicts remain pending.",
+      "older_R21_units7_to19": "All retained, access must resolve before departure; no characters/arcs removed or retrospectively completed.",
+      "other_dependencies": "Zaahen expanded scope, Styraatu custody, Ibaaros host, CadBane actualcapture etc remainOPEN. TPPtheft already67 actual, notopenagain. BrianShakequestionresponseOPEN; no confession/redemption."
+    }
   }
 }
