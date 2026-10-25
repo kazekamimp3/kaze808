@@ -1,0 +1,35 @@
+{
+  "change_id": "S7NS_E70_R2_CHAT_DELIVERY_RECONCILIATION_20261024",
+  "episode": 70,
+  "title": "Replacement Parts",
+  "revision": "R2",
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "continuity/episodes/E70/S3_E70_Replacement_Parts_R2_20261024.txt",
+  "manuscript_sha256": "d916fa3f0fe700800716d33dfa977e8aba2719a5b369fc3404aac437968d9be9",
+  "checkpoint": "continuity/episodes/E70/S3_E70_Replacement_Parts_R2_20261024_Checkpoint.json",
+  "evidence": "Complete preceding final response observed in this conversation through Meatwad's terminal That's better. Latest user asks resend full episode; exact saved R2 replay only. No independent machine hash of chat rendering claimed.",
+  "actual_end_state": {
+    "chronology": "Dana resumes immediately after69's afternoon pavilion ending. Ropewalk scene in same forward coastal stretch; no new day count or reset of Brian's already delivered dusk68strand.",
+    "Dana": "Big Kahuna ACTIVE throughout/end; full earned kit, green skin/dark coils/expanded Kahuhu. Exact line daynah SMASH! accompanies fatal Pinocchio smash. Deliberately kills four encountered opponents. Prior injuries plus new splinter/forearm/shoulder/mouth damage; removes fragments and presses bleeding cuts, ongoing healing/no reset. Sits stone beyond Bob's corpse at final observation. Red block destroyed, not carried. Existing Ki used only for concentrated destruction of crushed block; no new named power/ultimate form. Guard shortgun unchanged/no use.",
+    "Pinocchio": "DEAD in70R2 after wooden-body fight and two-fist smash pulverizes head/torso/loose leg. No conscious arguing aftermath after fatal impact; remaining ordinary wood parts/sack in wreckage, no repair/resurrection.",
+    "Bob_Richard": "Both DEAD in70R2, previously alive after69. Bob attempts hammer resistance while caught; back/head crushed against footing. Richard attempts escape and actual defensive kick/pull before ankle capture, ground impact and fatal crushed chest. Bodies remain pavilion. No healing, future reaction or invented offscreen removal.",
+    "venue": "New smash crater and broken exercise-frame/panels. Dead Pinocchio wood, Bob corpse on footing, Richard corpse work area; hammer thrown rubble, tape dropped. Reinforced coffin base remains intact/unoccupied for later selected cradle. Previous supported roof still on timber stack; no property restoration.",
+    "Chris_Billy": "Real inversion from Chris exterior/Billy interior to Billy sole exterior/Chris full-size interior at ropewalk. Billy swallows huge finite cereal carton into dry living domain. Chris keeps letter/device through switch. Billy stays outside with Arthur, own banjo; hat feed provides exterior image/audio only. Chris outward dialogue deliberately routed through banjo. No Billy face in his own hat feed.",
+    "Eyeholes": "Delivery to literal BELLY physical address, origin unexplained. Enormous outer carton holds finite smaller boxes; letter alleges succession obligation, sponsorship on opening, minimum assault/death optional, claimed lifetime cereal pay, full Christopher Grey Graham name. Company knowledge mechanism unknown, no storage breach/omniscience established. Exact selected fine print discovered on Chris's existing old box: Killing the current representative constitutes notice of availability. Chris begins treating role seriously and enjoys possession. No objective legal validity asserted.",
+    "inventory": "New finite cereal supply inside, exact box count unassigned; one unopened new small box on desk, Meatwad opens/retains one and shares handful with Chris; old opened box returned to existing stash. Letter on desk, torn envelope/straps retained as ordinary waste. Device at Chris's belt, audible alert silenced by button, arrow still displayed at last inspection. Local alert correlated with Meatwad opening; range/tracking/remote communication not extrapolated. Knife returned beyond Meatwad reach. No money payment.",
+    "household": "Meatwad inside with actual longstanding access, no assault. Chris establishes nobody inside BELLY beaten for opening/eating Eyeholes; Billy agrees. Charles remains carried inside but not featured; no camera usage/footage invented. Frylock last unobserved state unchanged; dead Shake not restored.",
+    "other_threads": "69/68R2/67 actual state unchanged for offstage Sins/Mahnah/R2/TPP/Brian/JarJar/Baldur/Kratos/Mimir. No forced ensemble appearance, boat departure, mutation, new lyric performance, car repair, vehicle move or money earned. Common2851, Daniel110 separate, Kaze0, Brian3silver last known.",
+    "pending": "WorldBreakerHulk next connected duel; full source-context/location/capability dependencies. No default mercy/no invented vulnerability; actual outcome still must be staged. Selected babyHulk/paternity/coffin-base cradle and retreat retained; Richard reaction superseded because70kills him. No living Bob/Pinocchio/KoolAid callbacks or resurrection. Eyeholes portrait/mutation/firstBrianjob remain pending. No71PLAY.",
+    "Kool_Aid_Man": "DEAD in70R2. Existing inert block physically crushed, gathered and completely destroyed by concentrated existing Ki; no surviving animated essence assumed in inert stains/glass, no future rehydration gag. Original pitcher remnants/red stains remain."
+  },
+  "replay": {
+    "request": "send the full episode",
+    "episode_span": [
+      70
+    ],
+    "new_fictional_time": 0,
+    "episode71_authorized": false
+  },
+  "frozen_preparation_checkpoint_unchanged": true
+}
