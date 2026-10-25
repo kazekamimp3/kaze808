@@ -2536,7 +2536,7 @@
       "sequence": 2,
       "title": "Dana connected five-duel chain and Eyeholes delivery",
       "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
-      "construction": "Bob→Richard→KoolAid→adultPinocchio→WorldBreakerHulk, with full concrete combat development in latest author owner. Eyeholes letter/device, BELLY exception and mascot progression. No mandatory intercut quota.",
+      "construction": "Bob→Richard→KoolAid→adultPinocchio→WorldBreakerHulk, with full concrete combat development in latest author owner. Eyeholes letter/device, BELLY exception and mascot progression. No mandatory intercut quota. Latest direct E70 override: stop defaulting to nonfatal finishes; follow continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md. Preserve full kit and literal smash line, retire later living callbacks made impossible by70R2. No new occurred event from this outline.",
       "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
     },
     {
@@ -2590,5 +2590,11 @@
     "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
     "older_pending_arcs": "R21 units7 onward retained, not canceled or automatically delivered; reconcile their access before space departure.",
     "open_dependencies": "See latest owner; candidate mutation and source-time conflicts remain OPEN."
+  },
+  "latest_scoped_Dana_fatality_override_20261024": {
+    "status": "AUTHOR_SELECTED_NOT_DELIVERED",
+    "owner": "continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md",
+    "request": "play ep70 plus explicit lethal smash correction",
+    "scope": "Fatal finishes for encountered Dana opponents in70R2; no retrospective68/69 rewrite. Richard future reaction removed, no living Pinocchio/Bob/KoolAid carryover. Hulk mechanics and baby/paternity prerequisites pending. No71PLAY."
   }
 }
