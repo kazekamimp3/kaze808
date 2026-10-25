@@ -851,9 +851,31 @@
       "reconciliation": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json"
     }
   ],
-  "prepared_episode": null,
-  "playback_control": "AUTHORIZED_EXACT_REPLAY72_ONLY_NO73",
-  "latest_scoped_author": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
+  "prepared_episode": {
+    "episode": 73,
+    "change_id": "S7NS_E73_FACE_VALUE_20261025",
+    "episode_span": [
+      73
+    ],
+    "title": "Face Value",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
+    "manuscript_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
+    "checkpoint": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
+    "checkpoint_sha256": "7770b177b75bace87d35a0f5072e36d864bced8bdfce8f246b2e57a467ff1904",
+    "author_scope": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+    "receipt": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Receipt.json",
+    "drive_manuscript": "1HqG1078LY9tyVFKBA7aVlBHpwCfQI46u",
+    "drive_checkpoint": "1EbHyvHicJ4vPyX9aaahcdLiqM16ArnfX",
+    "airtable": "recAGgjRXx8dvE7jt",
+    "author_decision_airtable": "rec4VBjOL4GVOKhLx",
+    "words": 3883,
+    "estimated_minutes": 25.89,
+    "episode74_authorized": false
+  },
+  "playback_control": "AUTHORIZED_SINGLE73_ONLY_AFTER_REVIEW_SAVE_AND_FOUR_APP_READBACK_NO74",
+  "latest_scoped_author": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
   "current_author_configuration": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
   "original_manuscripts_or_checkpoints_rewritten": false,
   "project_ui_installation_performed": false,
@@ -912,7 +934,7 @@
     ],
     "status": "R7_OUTLINED; OLD_R6_DRAFT_REVISION_REQUIRED_BEFORE_DELIVERY"
   },
-  "next_episode_authorized": false,
+  "next_episode_authorized": true,
   "last_reconciliation_id": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
@@ -3291,7 +3313,7 @@
     "remaining": "Continue Dana/Chris retreat; later diagnosis/horse collision/lag, real Brian travel/earshot, exact BeeMoo package OPEN, portrait/firstEyeholes assault and space development pending. No72authorization."
   },
   "episode72_authorized": true,
-  "episode73_authorized": false,
+  "episode73_authorized": true,
   "prepared_E72_Take_Care_of_Him_20261025": {
     "change_id": "S7NS_E72_TAKE_CARE_OF_HIM_20261025",
     "episode_span": [
@@ -3334,5 +3356,29 @@
     "reconciliation": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json",
     "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
     "sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b"
-  }
+  },
+  "prepared_E73_Face_Value_20261025": {
+    "episode": 73,
+    "change_id": "S7NS_E73_FACE_VALUE_20261025",
+    "episode_span": [
+      73
+    ],
+    "title": "Face Value",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
+    "manuscript_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
+    "checkpoint": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
+    "checkpoint_sha256": "7770b177b75bace87d35a0f5072e36d864bced8bdfce8f246b2e57a467ff1904",
+    "author_scope": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+    "receipt": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Receipt.json",
+    "drive_manuscript": "1HqG1078LY9tyVFKBA7aVlBHpwCfQI46u",
+    "drive_checkpoint": "1EbHyvHicJ4vPyX9aaahcdLiqM16ArnfX",
+    "airtable": "recAGgjRXx8dvE7jt",
+    "author_decision_airtable": "rec4VBjOL4GVOKhLx",
+    "words": 3883,
+    "estimated_minutes": 25.89,
+    "episode74_authorized": false
+  },
+  "episode74_authorized": false
 }
