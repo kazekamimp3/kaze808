@@ -801,7 +801,7 @@
     "played": false,
     "pre_R7_status": "DRAFT_COMPLETE_REVIEWED_NOT_PLAYED"
   },
-  "playback_control": "LIFTED_FOR_REVISED68_R2_ONLY; no69 authorization",
+  "playback_control": "LIFTED_FOR_EXPLICIT_NEW69_ONLY; no70",
   "latest_scoped_author": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
   "current_author_configuration": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
   "original_manuscripts_or_checkpoints_rewritten": false,
@@ -861,7 +861,7 @@
     ],
     "status": "R7_OUTLINED; OLD_R6_DRAFT_REVISION_REQUIRED_BEFORE_DELIVERY"
   },
-  "next_episode_authorized": false,
+  "next_episode_authorized": true,
   "last_reconciliation_id": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
@@ -1649,16 +1649,16 @@
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
-  "playback_hold": "LIFTED_FOR_REVISED68_R2_ONLY; no69 authorization",
+  "playback_hold": "LIFTED_FOR_EXPLICIT_NEW69_ONLY; no70",
   "current_playback_request": {
-    "mode": "REVISE_AND_PLAY",
+    "author_text": "play ep69",
     "episode_span": [
-      68
+      69
     ],
-    "revision": "R2",
     "status": "AUTHORIZED_PREPARED_SAVED_PENDING_RESPONSE",
-    "episode69_authorized": false,
-    "basis": "Latest explicit user requests three repairs, verbatim complete lyric, preserved original/coffin/JarJar/folding payoff, full review/four-app verification before revised68only playback."
+    "mode": "NEW_EPISODE",
+    "extends_to_other_episodes": false,
+    "episode70_authorized": false
   },
   "prepared_draft_features_60_69": [
     {
@@ -2060,7 +2060,7 @@
     "delivery_reconciliation": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json"
   },
   "next_after_prepared_feature": 66,
-  "work_status": "Original68 reconciled DELIVERED_PROVISIONAL, acceptance NOT_ASSERTED. R2 revised68 whole-reviewed/saved and four-app readbacks complete; render exact saved R2 next. No69. R21 actual67 base retained; R23 unplayed excluded.",
+  "work_status": "Effective68R2 reconciled delivered provisional; Episode69 One More whole-reviewed, saved, four-app readbacks verified, pending actual final response. No70; acceptance NOT_ASSERTED.",
   "current_actual_after_E65": {
     "candidate_only": false,
     "elapsed": "Brian strand: three mornings since64 poster burning; leaves water stop with Jar Jar/northbound travelers at noon. Coastal strand separate; no exact synchronization/day number invented.",
@@ -2139,14 +2139,12 @@
     "source": "Kaze raw writing strongest reference; failures attributed to AI execution"
   },
   "active_revision_request": {
-    "mode": "REVISE_AND_PLAY",
     "episode_span": [
       68
     ],
     "revision": "R2",
-    "status": "AUTHORIZED_PREPARED_SAVED_PENDING_RESPONSE",
-    "episode69_authorized": false,
-    "basis": "Latest explicit user requests three repairs, verbatim complete lyric, preserved original/coffin/JarJar/folding payoff, full review/four-app verification before revised68only playback."
+    "status": "DELIVERED_PROVISIONAL",
+    "acceptance": "NOT_ASSERTED"
   },
   "prior_active_revision_before_R10": {
     "episode_span": [
@@ -3028,15 +3026,15 @@
   },
   "current_actual_after_E68": {
     "candidate_only": false,
-    "version": "original delivered68",
+    "version": "R2 delivered",
     "state": {
       "chronology": "Opening afternoon follows actual67 at coastal export depot/ropewalk. Dana scene last observed at exercise pavilion. Brian/Jar Jar arrive by trading vessel at dusk after north Shurima road and actual crossing. No claim that all offstage actors remained frozen until dusk.",
-      "Dana": "Baseline Daynah, Kahuhu fastened by final confrontation; forearm and hip wounds, bleeding slows but skin remains open, cloth damaged. No new power, transformation, quantified healing rate, or instant reset. Guard shortgun retained from67, no new discharge/disposal. Last observed standing at wrecked exercise pavilion; no return to ropewalk enacted.",
-      "Bob": "Alive after assault, scalp wound, body impacts and hammer hand at abnormal angle. Hammer kicked out of reach. Exercise pavilion damaged; road-facing roof section secured on timber stack. Reinforced coffin base intact; lid and upper side torn away. Never confuse this pavilion with Vessa's gambling venue.",
-      "Brian": "Dusk harbor stand; separate 2ft2 body. Journal contains full final performance, biased review notes and real Kratos/Mimir signatures beneath I heard the performance. Starkiller endorsement and older material retained. Single stolen Clifford saber wrapped at side. No new Force upgrade, no acquired cash, no renamed Bee Moo identity.",
-      "Jar_Jar": "Dusk harbor stand with Brian, independent search for route home continues. Inspected offered room upstairs; final room rental/payment not established. Knows Baldur from hot-cup encounter, did NOT witness departure or hear sailor itinerary while upstairs. Hears Brian supply it to Kratos. Hears murder lyric and Brian's evasion; suspicion is not factual confirmation.",
+      "Dana": "Baseline Daynah, Kahuhu fastened by final confrontation; forearm and hip wounds, bleeding slows but skin remains open, cloth damaged. No new power, transformation, quantified healing rate, or instant reset. Guard shortgun retained from67, no new discharge/disposal. Last observed standing at wrecked exercise pavilion; no return to ropewalk enacted. R2 adds a strike to jaw, mouth blood and tabletop chest impact; no diagnosed fracture or erased wounds.",
+      "Bob": "Alive after assault, scalp wound, body impacts and hammer hand at abnormal angle. Hammer kicked out of reach. Exercise pavilion damaged; road-facing roof section secured on timber stack. Reinforced coffin base intact; lid and upper side torn away. Never confuse this pavilion with Vessa's gambling venue. R2 adds broken nose from trapped hammer handle, blood from face and specific broken railing/spindles/uprights/bench apron. Hammer goes into belt before two-handed ram, drawn during bench attack, later knocked out of reach.",
+      "Brian": "Dusk harbor stand; separate 2ft2 body. Journal contains full final performance, biased review notes including Mimir praised construction and real Kratos/Mimir signatures beneath I heard the performance. Starkiller endorsement and older material retained. Single stolen Clifford saber wrapped at side. No new Force upgrade, no acquired cash, no renamed Bee Moo identity.",
+      "Jar_Jar": "Dusk harbor stand with Brian, independent search for route home continues. Inspected offered room upstairs; final room rental/payment not established. Knows Baldur from hot-cup encounter, did NOT witness departure or hear sailor itinerary while upstairs. Hears Brian supply it to Kratos only after both signatures. Hears murder lyric and Brian's evasion; suspicion is not factual confirmation.",
       "Baldur": "Still cursed, no bodily sensation; emotions and agency intact. Already killed Shang in65. Rejects Brian's music offer before any full performance. Agrees to sailor's first-bell next-morning Zaun boat at lower landing below lime shed, then leaves stand. Intended itinerary is not completed sailing or guaranteed future whereabouts.",
-      "Kratos_Mimir": "Investigated Shang shelter via crew eyewitness. Post-Valhalla Kratos and physical Mimir remember prior companionship with Brian; Mimir safely supported on bench during song, uses pen in mouth with Jar Jar stabilizing book, returned to belt. Hear entire final song, give individual constructive feedback. Hear evasive answer about Shake, no confirmation or forgiveness. Leave along harbor road with conditional useful lead; no reunion/confrontation with Baldur completed.",
+      "Kratos_Mimir": "Investigated Shang shelter via crew eyewitness. Post-Valhalla Kratos and physical Mimir remember prior companionship with Brian; Mimir safely supported on bench during song, uses pen in mouth with Jar Jar stabilizing book, returned to belt. Hear entire final song, give individual constructive feedback. Hear evasive answer about Shake, no confirmation or forgiveness. Receive landing/time/Zaun only AFTER performance, honest individual criticism and both signatures. Leave along harbor road with supplied lead; no reunion/confrontation with Baldur completed.",
       "money": "No new quantified transaction. Preserve common2851, Daniel110 separate, Kaze0, Brian3silver last verified; no invented fare, room charge or reward.",
       "offstage_preservation": "Chris exterior/Billy interior last verified67; other Sins, Mana and R2 receive no new unobserved actions. Subaru remains functional with missing driver mirror, starred glazing, torn frontwing and secured/isolated wiring; no repair enacted. TPP retrieval/contract aftermath pending. Starkiller chart-for-trip exchange complete67 and foot departure preserved. Shang and Shake remain dead. Daniel departed59. Kaze romanceOFF and retired kit removals persist.",
       "open_threads": "Selected Bob duel enacted. Richard Simmons, Kool-Aid Man, adult Pinocchio and World Breaker Hulk chain remains pending in that order, no offscreen completions. Eyeholes and space departure have not begun. Protected full Brian reunion performance enacted only upon this delivery; Bee Moo rename and other future locks remain pending. No69 content or authorization."
@@ -3048,7 +3046,7 @@
       68
     ],
     "revision": "R2",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "status": "DELIVERED_PROVISIONAL",
     "author_acceptance": "NOT_ASSERTED",
     "manuscript": "continuity/episodes/E68/S3_E68_Constructive_Criticism_R2_20261024.txt",
     "manuscript_sha256": "f2e71a9d5a79c2604a9ddf329600f74cc9ef456dbffb4cb24efc5f247ca8cfdb",
@@ -3060,6 +3058,63 @@
     "drive_manuscript_id": "1gp9jjjReyuP5nsKbM2C34v5QoDKyY1UC",
     "drive_checkpoint_id": "1TgR9QozkndskHMY7qPMyJGH6n4DKTBpi",
     "airtable_record_id": "recmsFebbnTYcoKWg",
-    "episode69_authorized": false
+    "episode69_authorized": false,
+    "reconciliation": "continuity/episodes/E68/CHAT_DELIVERY_RECONCILIATION_E68_R2_20261024.json"
+  },
+  "preserved_pre_E69_controls": {
+    "current_playback_request": {
+      "mode": "REVISE_AND_PLAY",
+      "episode_span": [
+        68
+      ],
+      "revision": "R2",
+      "status": "AUTHORIZED_PREPARED_SAVED_PENDING_RESPONSE",
+      "episode69_authorized": false,
+      "basis": "Latest explicit user requests three repairs, verbatim complete lyric, preserved original/coffin/JarJar/folding payoff, full review/four-app verification before revised68only playback."
+    },
+    "work_status": "Original68 reconciled DELIVERED_PROVISIONAL, acceptance NOT_ASSERTED. R2 revised68 whole-reviewed/saved and four-app readbacks complete; render exact saved R2 next. No69. R21 actual67 base retained; R23 unplayed excluded.",
+    "state_rule": "Actual delivered through65; R9 comedy-core/signed-rap direction in current scoped owner controls forward work. Playback held.",
+    "active_revision_request": {
+      "mode": "REVISE_AND_PLAY",
+      "episode_span": [
+        68
+      ],
+      "revision": "R2",
+      "status": "AUTHORIZED_PREPARED_SAVED_PENDING_RESPONSE",
+      "episode69_authorized": false,
+      "basis": "Latest explicit user requests three repairs, verbatim complete lyric, preserved original/coffin/JarJar/folding payoff, full review/four-app verification before revised68only playback."
+    },
+    "next_episode_authorized": false,
+    "manuscript": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024.txt",
+    "checkpoint": "continuity/features/E64_E65/S3_E64_E65_A_Little_Feeling_R8_20261024_Checkpoint.json",
+    "state_owner": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json"
+  },
+  "delivered_E68_R2": {
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E68/S3_E68_Constructive_Criticism_R2_20261024.txt",
+    "manuscript_sha256": "f2e71a9d5a79c2604a9ddf329600f74cc9ef456dbffb4cb24efc5f247ca8cfdb",
+    "reconciliation": "continuity/episodes/E68/CHAT_DELIVERY_RECONCILIATION_E68_R2_20261024.json"
+  },
+  "prepared_E69_One_More_20261024": {
+    "change_id": "S7NS_E69_ONE_MORE_PLAY_20261024",
+    "episode_span": [
+      69
+    ],
+    "title": "One More",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E69/S3_E69_One_More_20261024.txt",
+    "manuscript_sha256": "5e5e40d8127293cfc7fe83bcfbef84c2720a045df9e650186c3df96ce58b943e",
+    "checkpoint": "continuity/episodes/E69/S3_E69_One_More_20261024_Checkpoint.json",
+    "receipt": "continuity/episodes/E69/S3_E69_One_More_20261024_Receipt.json",
+    "review": "Whole first read, repair, complete final reread",
+    "word_count": 3753,
+    "assumed_wpm": 150,
+    "estimated_minutes": 25.02,
+    "airtable_record": "rec3brXZtkIxv63A2",
+    "drive_manuscript": "1SuxfTNaHF_jE90CSPWMEaUE4WLq4-l1n",
+    "drive_checkpoint": "1NDL5wJh4WojTMpsDONNSZBaOrLzMqPY8",
+    "episode70_authorized": false
   }
 }
