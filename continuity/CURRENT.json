@@ -63,7 +63,27 @@
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
-  "prepared_episode": null,
+  "prepared_episode": {
+    "change_id": "S7NS_E72_TAKE_CARE_OF_HIM_20261025",
+    "episode_span": [
+      72
+    ],
+    "title": "Take Care of Him",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
+    "manuscript_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
+    "checkpoint": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
+    "checkpoint_sha256": "34efa6cb26d96881e57e512b216fa317847e1fd9a183f664946664aa2a9d0aff",
+    "outline_coverage": "continuity/episodes/E72/S3_E72_Outline_Coverage_20261025.json",
+    "receipt": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Receipt.json",
+    "drive_manuscript": "1hkieUcekT5pgS5nIIES1C2dlFHag-8XA",
+    "drive_checkpoint": "11XR1CynKg9mIB5Fwm5xE71nCiuxmcx4_",
+    "airtable": "recQEVLVQCnfojV6e",
+    "words": 3870,
+    "estimated_minutes": 25.8,
+    "episode73_authorized": false
+  },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
@@ -106,8 +126,8 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "71delivery reconciled;72source preparation/review underway.",
-  "work_resume_checkpoint_latest": "continuity/work/S7NS_EYEHOLES_DUELS_SPACE_20261024_Installation.json",
+  "work_status": "Reviewed Episode72 prepared and saved for explicit single-episode PLAY; actual endpoint71 until full delivery; acceptance NOT_ASSERTED.",
+  "work_resume_checkpoint_latest": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
   "work_change_id": "S7NS_EYEHOLES_DUELS_SPACE_20261024",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
@@ -296,9 +316,9 @@
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-  "current_prepared_episode_count": 0,
-  "current_prepared_drive_id": "1ONhAgAvpxLM2NJpI9AcGCQk0jLkFL--n",
-  "current_prepared_full_sha256": "d916fa3f0fe700800716d33dfa977e8aba2719a5b369fc3404aac437968d9be9",
+  "current_prepared_episode_count": 1,
+  "current_prepared_drive_id": "1hkieUcekT5pgS5nIIES1C2dlFHag-8XA",
+  "current_prepared_full_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
   "authorial_fidelity_v1_1": {
     "change_id": "S7NS_AUTHORIAL_FIDELITY_ACTIVE_COMEDY_V11_20261020",
     "selection": "AUTHOR_SELECTED_BY_EXPLICIT_ESKETIT",
@@ -2302,7 +2322,8 @@
       72
     ],
     "author_text": "play ep72.",
-    "status": "AUTHORIZED_IN_PREPARATION"
+    "latest_quality_direction": "make sure you’re actually following all the outline plans.  dont leave out a single detail",
+    "status": "PREPARED_REVIEWED_SAVED_PENDING_PLAY"
   },
   "prepared_E59_Still_Family_20261023": {
     "change_id": "S7NS_E59_STILL_FAMILY_20261023",
@@ -2339,7 +2360,7 @@
     },
     "concurrent_preparation_note": "Fresh control files also contain an undelivered Family Business candidate from another preparation. Preserve that record and its artifacts. This chat selects Still Family; no claim is made that another candidate was played or accepted."
   },
-  "selected_prepared_response": null,
+  "selected_prepared_response": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
   "prepared_draft_features_60_69": [
     {
       "episode_span": [
@@ -2744,7 +2765,7 @@
     "revision_reconciliation": "continuity/episodes/E63/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json"
   },
   "play_authorized": true,
-  "next_episode_authorized": false,
+  "next_episode_authorized": true,
   "latest_cast_focus_R8": {
     "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
     "status": "AUTHOR_SELECTED_WORK_ONLY",
@@ -4199,7 +4220,7 @@
   "latest_Dana_fatality_author": "continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md",
   "episode70_authorized": true,
   "episode71_authorized": true,
-  "playback_control": "LIFTED_FOR_EXPLICIT_EPISODE72_ONLY",
+  "playback_control": "EPISODE72_ONLY_PREPARED_READY_AFTER_FOUR_APP_READBACK",
   "current_actual_after_E70": {
     "chronology": "Dana resumes immediately after69's afternoon pavilion ending. Ropewalk scene in same forward coastal stretch; no new day count or reset of Brian's already delivered dusk68strand.",
     "Dana": "Big Kahuna ACTIVE throughout/end; full earned kit, green skin/dark coils/expanded Kahuhu. Exact line daynah SMASH! accompanies fatal Pinocchio smash. Deliberately kills four encountered opponents. Prior injuries plus new splinter/forearm/shoulder/mouth damage; removes fragments and presses bleeding cuts, ongoing healing/no reset. Sits stone beyond Bob's corpse at final observation. Red block destroyed, not carried. Existing Ki used only for concentrated destruction of crushed block; no new named power/ultimate form. Guard shortgun unchanged/no use.",
@@ -4269,5 +4290,26 @@
     "carried": "70end governs offstage cast; no new day synchronization or Brian dusk rewind. Common2851, Daniel110 separate, Kaze0, Brian3silver lastknown. No actual game money transfer. Richard/Bob/Pinocchio/KoolAid remain dead.",
     "remaining": "Continue Dana/Chris retreat; later diagnosis/horse collision/lag, real Brian travel/earshot, exact BeeMoo package OPEN, portrait/firstEyeholes assault and space development pending. No72authorization."
   },
-  "episode73_authorized": false
+  "episode73_authorized": false,
+  "prepared_E72_Take_Care_of_Him_20261025": {
+    "change_id": "S7NS_E72_TAKE_CARE_OF_HIM_20261025",
+    "episode_span": [
+      72
+    ],
+    "title": "Take Care of Him",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
+    "manuscript_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
+    "checkpoint": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
+    "checkpoint_sha256": "34efa6cb26d96881e57e512b216fa317847e1fd9a183f664946664aa2a9d0aff",
+    "outline_coverage": "continuity/episodes/E72/S3_E72_Outline_Coverage_20261025.json",
+    "receipt": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Receipt.json",
+    "drive_manuscript": "1hkieUcekT5pgS5nIIES1C2dlFHag-8XA",
+    "drive_checkpoint": "11XR1CynKg9mIB5Fwm5xE71nCiuxmcx4_",
+    "airtable": "recQEVLVQCnfojV6e",
+    "words": 3870,
+    "estimated_minutes": 25.8,
+    "episode73_authorized": false
+  }
 }
