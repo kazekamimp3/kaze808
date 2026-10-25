@@ -13,7 +13,7 @@
   "manuscript_sha256": "4bcb86f3b376f782878edbf80e9a229e8baec0f0f04f1adbf7eb1754a5ec0f02",
   "checkpoint": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Checkpoint.json",
   "state_owner": "continuity/features/E66_E67/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
-  "state_rule": "Actual complete66–67 delivered provisionally. Current request replays exact saved66–67 without further time advance. Next NEW68; acceptance NOT_ASSERTED.",
+  "state_rule": "Actual complete66–67 R21 delivered provisionally. Current request authorizes NEW68ONLY from actual67, not unplayed R23. Prepared68 must be rendered exactly; reconcile only after actual full response. No69 authorization; acceptance NOT_ASSERTED.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -106,7 +106,7 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "WORK ONLY: S7NS_EYEHOLES_DUELS_SPACE_20261024 future development installed in connected owners; four-app readbacks recorded in installation receipt. Project attachments/settings replaced via Cloud Browser; seven of eight attachment byte readbacks and exact instruction readback verified. Routing attachment upload visible; byte readback unavailable. No PLAY or episode draft.",
+  "work_status": "E68 Constructive Criticism whole-reviewed and saved for current explicit PLAY68ONLY. Four-app exact/version readbacks complete. Actual delivery cursor remains67 until response exists; acceptance NOT_ASSERTED. Newest installed author outline retained; unplayed R23 excluded.",
   "work_resume_checkpoint_latest": "continuity/work/S7NS_EYEHOLES_DUELS_SPACE_20261024_Installation.json",
   "work_change_id": "S7NS_EYEHOLES_DUELS_SPACE_20261024",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
@@ -1794,7 +1794,7 @@
     "meeting_status": "E52_DELIVERED_PROVISIONAL",
     "actual_checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json"
   },
-  "playback_hold": "EXPLICIT_REPLAY66_67_ONLY; no NEW68 authorization",
+  "playback_hold": "LIFTED_FOR_EXPLICIT_NEW68_ONLY; no69 authorization",
   "latest_Brian_petty_comedy_approval": {
     "change_id": "S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022",
     "owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
@@ -2297,15 +2297,14 @@
     "delivery_reconciliation": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json"
   },
   "current_playback_request": {
-    "author_text": "play ep66-67",
+    "author_text": "PLAY EPISODE 68 ONLY. Use “S7NS — Kaze’s Voice & Creative Fidelity.” Recover the newest verified checkpoint and follow the installed outline and author decisions. Continue from the actual delivered Episode 67; do not substitute the unplayed R23 revision. Complete the existing whole-episode review before presenting the TTS-ready episode. No Episode 69.",
     "episode_span": [
-      66,
-      67
+      68
     ],
-    "revision": false,
-    "mode": "REPLAY_SAVED_FEATURE",
-    "status": "AUTHORIZED_REPLAY",
-    "extends_to_other_episodes": false
+    "mode": "NEW_EPISODE",
+    "status": "AUTHORIZED_REVIEWED_PREPARED_SAVED_PENDING_RESPONSE",
+    "extends_to_other_episodes": false,
+    "episode69_authorized": false
   },
   "prepared_E59_Still_Family_20261023": {
     "change_id": "S7NS_E59_STILL_FAMILY_20261023",
@@ -3957,5 +3956,53 @@
     "txt_to_md_content_unchanged": 3,
     "instructions_saved_readback": true,
     "episode_advanced": false
+  },
+  "preserved_pre_E68_preparation_controls": {
+    "work_status": "WORK ONLY: S7NS_EYEHOLES_DUELS_SPACE_20261024 future development installed in connected owners; four-app readbacks recorded in installation receipt. Project attachments/settings replaced via Cloud Browser; seven of eight attachment byte readbacks and exact instruction readback verified. Routing attachment upload visible; byte readback unavailable. No PLAY or episode draft.",
+    "playback_hold": "EXPLICIT_REPLAY66_67_ONLY; no NEW68 authorization",
+    "current_playback_request": {
+      "author_text": "play ep66-67",
+      "episode_span": [
+        66,
+        67
+      ],
+      "revision": false,
+      "mode": "REPLAY_SAVED_FEATURE",
+      "status": "AUTHORIZED_REPLAY",
+      "extends_to_other_episodes": false
+    },
+    "state_rule": "Actual complete66–67 delivered provisionally. Current request replays exact saved66–67 without further time advance. Next NEW68; acceptance NOT_ASSERTED."
+  },
+  "prepared_E68_Constructive_Criticism_20261024": {
+    "change_id": "S7NS_E68_CONSTRUCTIVE_CRITICISM_PLAY_20261024",
+    "episode_span": [
+      68
+    ],
+    "title": "Constructive Criticism",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E68/S3_E68_Constructive_Criticism_20261024.txt",
+    "manuscript_sha256": "6555ff2311556061427bdf60f998760662f0fda52ce2be7913529a57dbbb63b5",
+    "manuscript_git_blob_sha1": "bbb63e37984a7fb933ebb1c11ef1dafab186a530",
+    "checkpoint": "continuity/episodes/E68/S3_E68_Constructive_Criticism_20261024_Checkpoint.json",
+    "checkpoint_sha256": "c9fa767ee1be2ce18e5a02bfb6384b50e18f82850527c0de6ff5b02f9fd8f8f7",
+    "receipt": "continuity/episodes/E68/S3_E68_Constructive_Criticism_20261024_Receipt.json",
+    "continuation_basis": "Actual delivered67 R21; unplayed R23 excluded",
+    "author_outline_key": "selected_chronology_Eyeholes_Space_20261024",
+    "full_review_complete": true,
+    "word_count": 3927,
+    "assumed_wpm": 150,
+    "estimated_minutes": 26.18,
+    "drive_manuscript_id": "1XVG3OTe4p_U2KbUxjmrvyKbOdgbpx5Hn",
+    "drive_checkpoint_id": "1wXiUcrNDr-7bzDixp9yTnBnSqzsukO5y",
+    "airtable_episode_record_id": "recG4oJhuUQn27Yyq",
+    "notion_episode_index": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "readbacks": {
+      "github": "exact_text_equal",
+      "drive": "raw_bytes_sha256_equal",
+      "airtable": "exact_record_fields_equal",
+      "notion": "prepended_version_hash_status_verified"
+    },
+    "reconciliation": "Only after complete response exists reconcile68 as DELIVERED_PROVISIONAL; no69 authorized."
   }
 }
