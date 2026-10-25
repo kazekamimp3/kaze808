@@ -1,0 +1,44 @@
+{
+  "change_id": "S7NS_E70_REPLACEMENT_PARTS_R2_PLAY_20261024",
+  "status": "FOUR_APP_WRITES_AND_READBACKS_VERIFIED_PREPARED_NOT_YET_DELIVERED",
+  "author_acceptance": "NOT_ASSERTED",
+  "episode": 70,
+  "manuscript_sha256": "d916fa3f0fe700800716d33dfa977e8aba2719a5b369fc3404aac437968d9be9",
+  "checkpoint_sha256": "26e7583f8f92445e8feef083a1c08b4f894092b9de38efbbabe5fdc45179cff5",
+  "word_count": 4223,
+  "estimated_minutes_at_assumed_150wpm": 28.15,
+  "audio_generated": false,
+  "github": {
+    "manuscript_commit": "f9e2aadc9ce79d492c6c4c99067592dc29beedf1",
+    "checkpoint_commit": "119be440b7bd298ac164081b36be7b30e6a530d2",
+    "reconciliation69_commit": "a3e85105348e8bb89c99cffa222687127ae94dff",
+    "author_override_commit": "54c6910e783296a3d57ba2e97ecda844f29a8742",
+    "manuscript_blob": "9d3deaec98256627c160c80080eca4fe568fe871",
+    "checkpoint_blob": "1d313744533cacf208837151db6722759ec38a1e",
+    "author_router_blob": "afa742b2d5b74cd914e29b713d0b236cb74de874",
+    "outline_blob": "8d4ad5eea6058d6cba8dba40529037c2f4418781",
+    "current_blob": "b70badb3801268efc59d729a0cfc476c52298e4c",
+    "ledger_blob": "bf9b5a81efef9ac1a5840b5659e8d7ff6075086d",
+    "verification": "All full returned text exactly equals intended saved content; current/ledger preserve prior historical fields."
+  },
+  "drive": {
+    "folder_id": "1RrEZtbm3JO1ZvIF-ZJvsno79ZGVZQPaz",
+    "manuscript_id": "1ONhAgAvpxLM2NJpI9AcGCQk0jLkFL--n",
+    "checkpoint_id": "1uY3KSvuDiQGeVvHoTIeBd_Q8F3_DfM0T",
+    "verification": "Both complete raw base64 responses decoded and byte-compared local; SHA256 matches above. Not metadata-only."
+  },
+  "airtable": {
+    "base_id": "appKCCr9zg0rsfbOI",
+    "episodes_table": "tblWgCrRZlvAFxcnH",
+    "episode69": "rec3brXZtkIxv63A2",
+    "episode70": "recG8mpjPeWktdLNy",
+    "author_decision": "recVmeynnbxi37zMM",
+    "verification": "Fresh record-id readbacks show exact intended fields.69deliveredprovisional;70prepared; decisionAUTHOR_SELECTED; no prematurely occurred death rows."
+  },
+  "notion": {
+    "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "verification": "Existing Episode and Checkpoint Index prepend fetched;70R2 status, hash, author correction, source links and69reconciliation visible; historical entries retained."
+  },
+  "preservation": "Previous70nonfatal draft and checkpoint preserved in package/preserved_unplayed_draft; never delivered/accepted.68R2/69andactual67R21 unchanged. Latest direct correction recorded verbatim. No71.",
+  "next": "Present exact saved R2 prose unchanged. At next interaction reconcile complete70response as DELIVERED_PROVISIONAL, separately from author acceptance."
+}
