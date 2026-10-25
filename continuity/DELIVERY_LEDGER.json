@@ -2,8 +2,8 @@
   "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
-  "current_delivered_episode": 70,
-  "next_episode": 71,
+  "current_delivered_episode": 71,
+  "next_episode": 72,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -810,6 +810,21 @@
       "delivery_status": "DELIVERED_PROVISIONAL",
       "author_acceptance": "NOT_ASSERTED",
       "reconciliation": "continuity/episodes/E70/CHAT_DELIVERY_RECONCILIATION_E70_R2_20261024.json"
+    },
+    {
+      "change_id": "S7NS_E71_CHAT_DELIVERY_RECONCILIATION_20261025",
+      "episode": 71,
+      "title": "Joint Custody",
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "manuscript": "continuity/episodes/E71/S3_E71_Joint_Custody_20261025.txt",
+      "manuscript_sha256": "f3b2455934a533bf80d4e611091a1824c3890604e6b5513a65dcfa6b01500d3a",
+      "checkpoint": "continuity/episodes/E71/S3_E71_Joint_Custody_20261025_Checkpoint.json",
+      "basis": "Complete preceding assistant final visible from title/opening splinter to final Chris let him. Author next requests72; continuation does not imply acceptance.",
+      "chat_byte_identity": "NOT_MACHINE_VERIFIED",
+      "next_episode": 72,
+      "next_authorized": true,
+      "episode73_authorized": false
     }
   ],
   "prepared_episode": null,
@@ -1188,7 +1203,7 @@
     "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid.",
     "delivery_reconciliation": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
-  "latest_chat_delivered_episode": 70,
+  "latest_chat_delivered_episode": 71,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -1393,7 +1408,7 @@
   },
   "episode52_authorized": true,
   "preparation_rule": "Episode59 prepared only; render exact reviewed text, reconcile actual delivery next interaction; no author acceptance inferred.",
-  "last_delivered_episode": 70,
+  "last_delivered_episode": 71,
   "prepared_E51_Fetch_R2_20261022": {
     "change_id": "S7NS_E51_FETCH_JESUS_RECOGNITION_R2_20261022",
     "episode_span": [
@@ -1663,14 +1678,12 @@
   },
   "playback_hold": "LIFTED_FOR_EXACT70_R2_REPLAY_ONLY; no71",
   "current_playback_request": {
-    "author_text": "send the full episode",
+    "mode": "NEW_EPISODE",
     "episode_span": [
-      70
+      72
     ],
-    "mode": "EXACT_REPLAY",
-    "status": "AUTHORIZED",
-    "new_fictional_time": 0,
-    "episode71_authorized": false
+    "author_text": "play ep72.",
+    "status": "AUTHORIZED_IN_PREPARATION"
   },
   "prepared_draft_features_60_69": [
     {
@@ -3237,6 +3250,21 @@
     "airtable": "recaudewN9VOg3bVT",
     "words": 3831,
     "estimated_minutes": 25.54,
-    "episode72_authorized": false
-  }
+    "episode72_authorized": false,
+    "current_delivery_status": "DELIVERED_PROVISIONAL",
+    "reconciliation": "continuity/episodes/E71/CHAT_DELIVERY_RECONCILIATION_E71_20261025.json"
+  },
+  "current_actual_after_E71": {
+    "Dana": "Baseline at end after Sovereign recedes; raw back, recovering abdomen, swollen mouth/chest/shoulder pain, healing ongoing/torn clothes. Shortgun set behind stone precombat and retrieved, carried inside; no discharge. Kahuhu worn/contracted. Inside BELLY seated beside Chris controlling RDR2; lowered exterior monitor volume.",
+    "Hulk": "Alive, selected amplified state under encounter-specific exception; regenerating observed injuries, last holding baby at ruined pavilion. Not conclusively defeated/killed, no forgiveness or permanent equal-stats conclusion. No indefinite future amplification duration invented.",
+    "baby": "Single green baby from torn shoulder flesh, Dada claim to Dana; stands, cracks ledge, bites gauntlet rim, tears rail. No name, objective paternity proof, adoption agreement or universal reproduction power. Last held by Hulk.",
+    "venue": "Pavilion footing cratered; roof off supports now fallen; two stoneweights, one rolled into steps. Quarry shed/blocks/wall destroyed; headland collapse/coastal cleft flooded. Harbor broken windows/roof, one visibly breathing injured person carried out; no death total invented. Original70corpses/remains stay within altered site, no revival/burial claimed. Reinforced coffin base survives leveled as cradle; newly installed rail broken; baby repeatedly strikes base without breaking bottom.",
+    "Chris_Billy_Arthur": "Billy sole exterior beside Arthur at ropewalk, own banjo carries Chris's exterior question. Dana willingly swallowed to dry interior, Chris full-size inside entire71. Chris learns Hulk injured Dana and Dana says got a kid; no complete battle knowledge transferred. Arthur only exterior exchange. Subaru dusted, prior damage unchanged; no move/repair.",
+    "Eyeholes": "Meatwad's already open box shared with Dana inside; exemption maintained. Device silent on Chris belt. Finite supply and letter as70, no new portrait, remote tracking or on-job assault.",
+    "game": "Dana gives snakebite victim medicine and refuses extortion, Chris objects but cannot seize controller. No mandatory high-honor identity beyond selected scene. Later diagnosis/horse-crash/lag beats pending.",
+    "carried": "70end governs offstage cast; no new day synchronization or Brian dusk rewind. Common2851, Daniel110 separate, Kaze0, Brian3silver lastknown. No actual game money transfer. Richard/Bob/Pinocchio/KoolAid remain dead.",
+    "remaining": "Continue Dana/Chris retreat; later diagnosis/horse collision/lag, real Brian travel/earshot, exact BeeMoo package OPEN, portrait/firstEyeholes assault and space development pending. No72authorization."
+  },
+  "episode72_authorized": true,
+  "episode73_authorized": false
 }
