@@ -1,3 +1,8 @@
+CURRENT SCOPED AUTHOR OVERRIDE — S7NS_E73_BEE_MOO_SCOPE_20261025
+Read continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md before preserved history. User “check outline and play ep73.” then “all” selects bite/onset → cow-bee body → first brief noisy flight. Same2ft2, usable hands, red saber, existing limitedForce; no extra power bundle or global numeric limits. Prepared73 portrait/mutation/firstEyeholes beating follows actual72. Actual67R21 governs, never unplayedR23. Actual70R2 fatalities and actual71 Hulk/baby survive older unplayed wording below. Full older Runeterra plans and later space gates retained. Single73 authorized; no74. Prose PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED, author acceptance NOT_ASSERTED. Prior historical PLAY holds/episode cursors below do not override this current request.
+
+--- PRESERVED FULL PRIOR OWNER ---
+
 CURRENT SCOPED AUTHOR OVERRIDE — 2026-10-24 / S7NS_E70_DANA_FATAL_FINISHES_20261024
 Read continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md before the preserved sections below. Direct user rejects repeated nonfatal Dana 1v1 finishes and requires “daynah SMASH!” in his transformed form in70. Prior68R2/69 delivered unchanged; unplayed70R2 enacts four fatalities, not yet occurred until actual PLAY. Richard's later baby-Hulk reaction and living Pinocchio/Kool-Aid/Bob aftermath superseded. Reinforced base/Hulk/baby/retreat/Eyeholes remain under scoped dependencies. No71PLAY. Author acceptance NOT_ASSERTED.
 
