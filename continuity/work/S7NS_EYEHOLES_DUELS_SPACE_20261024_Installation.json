@@ -1,0 +1,82 @@
+{
+  "change_id": "S7NS_EYEHOLES_DUELS_SPACE_20261024",
+  "authorization": "Kaze explicit esketit",
+  "status": "CONNECTED_INSTALLATION_READBACK",
+  "actual_delivered_episode": 67,
+  "next_new_episode": 68,
+  "author_acceptance": "NOT_ASSERTED",
+  "play": false,
+  "episode_manuscript_written": false,
+  "story_time_advanced": 0,
+  "scope": "Current staged batch through intense-action-and-humor correction; scoped append to existing author and outline owners, startup/current routing; originals preserved.",
+  "destinations": {
+    "github": {
+      "status": "EXACT_CONTENT_READBACK",
+      "files": [
+        {
+          "path": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+          "match": true,
+          "sha": "aeb1502bb73e0829a457bfc115988108ae5c9dce"
+        },
+        {
+          "path": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+          "match": true,
+          "sha": "bcd6f53ee078628529cc79c85709c6d560ae2af2"
+        },
+        {
+          "path": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
+          "match": true,
+          "sha": "cf3c2eb8fc55d85a2992b91963b309e507d9eca5"
+        },
+        {
+          "path": "continuity/CURRENT.json",
+          "match": true,
+          "sha": "f045ca05f1694b175ec2d5655dda3489749dac50"
+        },
+        {
+          "path": "KAZE_READ_FIRST.txt",
+          "match": true,
+          "sha": "d6937b5002e22f02139d8c6cd352215ee80143de"
+        }
+      ],
+      "delivery_ledger_unchanged": true
+    },
+    "airtable": {
+      "status": "EXACT_AFFECTED_FIELD_READBACK",
+      "base": "appKCCr9zg0rsfbOI",
+      "table": "tbl5dFC7den6PyDSw",
+      "record": "reccW8tbgjVA9SBfb"
+    },
+    "notion": {
+      "status": "CONTENT_READBACK",
+      "page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+      "historical_R23_preserved": true
+    },
+    "drive": {
+      "status": "PENDING",
+      "file": "1NFGd9tfbl7TTGHGvbl5e3qGTnp9P1Bk7",
+      "original_destination_history_preserved": true,
+      "raw_byte_hash_claimed": false
+    },
+    "project_attachments_and_settings": {
+      "status": "NOT_UPDATED",
+      "limit": "Existing uploaded R21 snapshots unchanged. Connected startup/current owners updated; no Project UI installation claim."
+    }
+  },
+  "development_review": {
+    "concrete_revisions": "Five linked encounters and first Eyeholes assault now contain physical exchanges, opponent choices and persistent consequences; prepared expansion not separately accepted final prose.",
+    "checks": "JSON/cursor/acceptance/8 forward movements/critical decision guards passed. No episode or audiovisual review claimed.",
+    "research_gaps": "ORIGINALS_BUNDLE, Sergio and original3% battery remain unrecovered. No exhaustive audiovisual/all-episode audit."
+  },
+  "open": [
+    "Exact Bee Moo body/flight package",
+    "Hulk contextual peak access/location and capability matchup",
+    "Pinocchio/Lobo/BattleBeast exact snapshots",
+    "Desaad source-time arrival",
+    "Falcon local fit and X-wing offworld specs",
+    "Pending Runeterra arcs before departure",
+    "Brapples legacy value reconciliation"
+  ],
+  "preservation": "Git prior owner bytes retained as dated history; Drive's additional prior receipt retained. No manuscript, lyric, checkpoint or delivery ledger edits.",
+  "resume": "Future authorized work follows latest author section and selected_chronology_Eyeholes_Space_20261024. Resolve only dependent open mechanics before using them. Refresh Project snapshots separately without claiming it already happened."
+}
