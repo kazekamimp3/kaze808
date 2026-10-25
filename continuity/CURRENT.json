@@ -2746,7 +2746,7 @@
     "revision_reconciliation": "continuity/episodes/E63/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json"
   },
   "play_authorized": true,
-  "next_episode_authorized": false,
+  "next_episode_authorized": true,
   "latest_cast_focus_R8": {
     "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
     "status": "AUTHOR_SELECTED_WORK_ONLY",
@@ -3971,7 +3971,8 @@
       "status": "AUTHORIZED_REPLAY",
       "extends_to_other_episodes": false
     },
-    "state_rule": "Actual complete66–67 delivered provisionally. Current request replays exact saved66–67 without further time advance. Next NEW68; acceptance NOT_ASSERTED."
+    "state_rule": "Actual complete66–67 delivered provisionally. Current request replays exact saved66–67 without further time advance. Next NEW68; acceptance NOT_ASSERTED.",
+    "next_episode_authorized": false
   },
   "prepared_E68_Constructive_Criticism_20261024": {
     "change_id": "S7NS_E68_CONSTRUCTIVE_CRITICISM_PLAY_20261024",
