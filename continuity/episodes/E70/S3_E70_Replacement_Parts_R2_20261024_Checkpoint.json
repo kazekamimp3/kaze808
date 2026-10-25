@@ -1,0 +1,117 @@
+{
+  "schema": "S7NS_EPISODE_CHECKPOINT_V1",
+  "change_id": "S7NS_E70_REPLACEMENT_PARTS_R2_PLAY_20261024",
+  "episode_span": [
+    70
+  ],
+  "title": "Replacement Parts",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "as_of_Honolulu": "2026-10-24",
+  "delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "User: play ep70; then explicit correction: why isnt dana killing these 1v1 opponents wtf. change that shit in ep70, have him smash. and say “daynah SMASH!” in his hulk form. Episode70 only; no71.",
+  "manuscript": "continuity/episodes/E70/S3_E70_Replacement_Parts_R2_20261024.txt",
+  "manuscript_sha256": "d916fa3f0fe700800716d33dfa977e8aba2719a5b369fc3404aac437968d9be9",
+  "actual_delivery_cursor_at_save": 69,
+  "source_basis": {
+    "previous": "continuity/episodes/E69/S3_E69_One_More_20261024.txt",
+    "previous_sha256": "5e5e40d8127293cfc7fe83bcfbef84c2720a045df9e650186c3df96ce58b943e",
+    "evidence": "Complete69 response was delivered in preceding conversation, as retained in conversation continuity. Exact saved69 fully reread locally (1-145,146-410,411-699); freshly fetched Drive production and GitHub checkpoint matched. Delivery provisional, acceptance not asserted. Earlier68R2 and actual67R21 preserved; unplayed67R23 never substituted.",
+    "outline": "continuity/SEASON3_ACTIVE_OUTLINE.json#selected_chronology_Eyeholes_Space_20261024",
+    "author": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+    "author_observed_blob": "aeb1502bb73e0829a457bfc115988108ae5c9dce",
+    "relevant_scope": "Current full Eyeholes/duels/space scoped section read. Pinocchio wooden-body encounter and Eyeholes succession are explicit S7NS development. No Disney/Shrek costume, source biography, extra powers or franchise snapshot selected. Broader franchise pin remains OPEN. Hulk contextual amplification/location/matchup remains unresolved and pending, not weakened or silently completed.",
+    "actor_owners": [
+      "character_sources/Dana_Character_Source.txt",
+      "canon/characters/dana_mana.md",
+      "character_sources/Chris_Character_Source.txt",
+      "character_sources/Billy_Character_Source.txt",
+      "character_sources/Chris_Billy_BELLY_Source.txt",
+      "canon/characters/chris_catfish_billy_current.md",
+      "character_sources/crossover_extended/Meatwad_ATHF_Fidelity_Source.txt",
+      "character_sources/season3/Deadpool_Character_Source.txt",
+      "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
+      "canon/presentation/Deadpool_Rick_E34_Speech_Fidelity_20261019.md"
+    ],
+    "reading_scope": "Reused prior session full Dana/earned-kit/Arthur and completed speech research; reopened current portrayal owners and exact relevant form, limb/craft, inversion, intake, audio/hat-view and household provisions. Current routing explicitly confirms Meatwad+Charles inside after61; Shake elsewhere then killed62. No claim whole archive reread. Truncated historical source output not treated as complete new whole-owner evidence.",
+    "four_app_initial_pass": "GitHub current/ledger/outline/author/69checkpoint; existing Airtable69 row; Notion Episode and Checkpoint Index; Drive exact69 production manuscript.",
+    "latest_author_override": "continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md"
+  },
+  "brief": {
+    "wants": "Pinocchio wants old body timber back and resents Daynah's interference; Daynah cannot leave bad workmanship alone and protects a load currently supporting Richard. Chris wants unexpected free cereal, fears correctly addressed knowledge of his killing, checks the asserted terms, then begins liking the ownership role. Meatwad wants breakfast; Billy supports his friend while maintaining sanctuary; Arthur examines pay.",
+    "strongest_options": "Daynah could use higher earned forms/Ki or disengage. Existing BigKahuna strength, grappling, loose parts and structure removal suffice. No compulsory equal match or withheld available power. Chris could reject the company's assertion; his own reading of old fine print, concern about sender knowledge and genuine appetite/status make adoption credible without declaring objective law.",
+    "ending": "Daynah explicitly kills Pinocchio with the requested two-fist smash, then Bob and Richard on-page, then destroys the KoolAid block through physical crushing/existing Ki. No deaths backdated to68/69. Eyeholes ending unchanged: Chris sets BELLY exemption, equips device, shares cereal."
+  },
+  "candidate_end_state_ONLY_after_complete_delivery": {
+    "chronology": "Dana resumes immediately after69's afternoon pavilion ending. Ropewalk scene in same forward coastal stretch; no new day count or reset of Brian's already delivered dusk68strand.",
+    "Dana": "Big Kahuna ACTIVE throughout/end; full earned kit, green skin/dark coils/expanded Kahuhu. Exact line daynah SMASH! accompanies fatal Pinocchio smash. Deliberately kills four encountered opponents. Prior injuries plus new splinter/forearm/shoulder/mouth damage; removes fragments and presses bleeding cuts, ongoing healing/no reset. Sits stone beyond Bob's corpse at final observation. Red block destroyed, not carried. Existing Ki used only for concentrated destruction of crushed block; no new named power/ultimate form. Guard shortgun unchanged/no use.",
+    "Pinocchio": "DEAD in70R2 after wooden-body fight and two-fist smash pulverizes head/torso/loose leg. No conscious arguing aftermath after fatal impact; remaining ordinary wood parts/sack in wreckage, no repair/resurrection.",
+    "Bob_Richard": "Both DEAD in70R2, previously alive after69. Bob attempts hammer resistance while caught; back/head crushed against footing. Richard attempts escape and actual defensive kick/pull before ankle capture, ground impact and fatal crushed chest. Bodies remain pavilion. No healing, future reaction or invented offscreen removal.",
+    "venue": "New smash crater and broken exercise-frame/panels. Dead Pinocchio wood, Bob corpse on footing, Richard corpse work area; hammer thrown rubble, tape dropped. Reinforced coffin base remains intact/unoccupied for later selected cradle. Previous supported roof still on timber stack; no property restoration.",
+    "Chris_Billy": "Real inversion from Chris exterior/Billy interior to Billy sole exterior/Chris full-size interior at ropewalk. Billy swallows huge finite cereal carton into dry living domain. Chris keeps letter/device through switch. Billy stays outside with Arthur, own banjo; hat feed provides exterior image/audio only. Chris outward dialogue deliberately routed through banjo. No Billy face in his own hat feed.",
+    "Eyeholes": "Delivery to literal BELLY physical address, origin unexplained. Enormous outer carton holds finite smaller boxes; letter alleges succession obligation, sponsorship on opening, minimum assault/death optional, claimed lifetime cereal pay, full Christopher Grey Graham name. Company knowledge mechanism unknown, no storage breach/omniscience established. Exact selected fine print discovered on Chris's existing old box: Killing the current representative constitutes notice of availability. Chris begins treating role seriously and enjoys possession. No objective legal validity asserted.",
+    "inventory": "New finite cereal supply inside, exact box count unassigned; one unopened new small box on desk, Meatwad opens/retains one and shares handful with Chris; old opened box returned to existing stash. Letter on desk, torn envelope/straps retained as ordinary waste. Device at Chris's belt, audible alert silenced by button, arrow still displayed at last inspection. Local alert correlated with Meatwad opening; range/tracking/remote communication not extrapolated. Knife returned beyond Meatwad reach. No money payment.",
+    "household": "Meatwad inside with actual longstanding access, no assault. Chris establishes nobody inside BELLY beaten for opening/eating Eyeholes; Billy agrees. Charles remains carried inside but not featured; no camera usage/footage invented. Frylock last unobserved state unchanged; dead Shake not restored.",
+    "other_threads": "69/68R2/67 actual state unchanged for offstage Sins/Mahnah/R2/TPP/Brian/JarJar/Baldur/Kratos/Mimir. No forced ensemble appearance, boat departure, mutation, new lyric performance, car repair, vehicle move or money earned. Common2851, Daniel110 separate, Kaze0, Brian3silver last known.",
+    "pending": "WorldBreakerHulk next connected duel; full source-context/location/capability dependencies. No default mercy/no invented vulnerability; actual outcome still must be staged. Selected babyHulk/paternity/coffin-base cradle and retreat retained; Richard reaction superseded because70kills him. No living Bob/Pinocchio/KoolAid callbacks or resurrection. Eyeholes portrait/mutation/firstBrianjob remain pending. No71PLAY.",
+    "Kool_Aid_Man": "DEAD in70R2. Existing inert block physically crushed, gathered and completely destroyed by concentrated existing Ki; no surviving animated essence assumed in inert stains/glass, no future rehydration gag. Original pitcher remnants/red stains remain."
+  },
+  "whole_episode_review": {
+    "procedure": "Single existing Scene Decision Doctrine: whole first read, source-specific repair, complete final reread.",
+    "coverage": "3223-word679-line complete draft reopened/read1-340 and341-679. Repairs and development to3776words/777lines then complete read1-390,391-777. Further red-block custody/audio/adult-clarity repairs followed by complete final3796words/779lines reread1-390 and391-779. No prose edits after final read. Latest author fatality correction then produced R2: complete4223-word819-line first read1-410,411-819; existing Ki/current form/physical finishing/absence of later living reactions rechecked; complete final R2 reread1-410,411-819. No prose edit after this read.",
+    "repairs": [
+      "Clarified distinct foot/offcut/arse plank opening.",
+      "Expanded actual timber dispute and concrete grievance; retained Pinocchio initiating kick immediately after repaired knee.",
+      "Developed panel leverage/foot injury and changing weapon condition instead of repeating punches; kept decisive support-breaking end.",
+      "Corrected damaged hand's rail control to intact elbow and embedded fragment rather than impossible whole-forearm custody.",
+      "Corrected Billy seeing own face in hat feed; outside reaction and steadied image now respect actual camera.",
+      "Gave Billy the fine-print information through Chris's actual report before followup.",
+      "Tracked red block on dry stone during two-handed wound care and explicit outward final admission.",
+      "Added brief useful Richard interaction without repeating compulsory coaching humiliation.",
+      "Latest direct author overrides prior nonfatal plan: full four fatal finishes enacted in70, exact smash line, original unplayed70draft preserved. Removed Richard useful-care aftermath and red-block continued custody; future Richard baby reaction canceled. No forced self-defense or accidental-death excuse."
+    ],
+    "capabilities_combat": {
+      "result": "PASS",
+      "evidence": "Source BigKahuna retains learned technique/structural judgment and third-person register; current active form not reacquired. Repaired knee then caught kick/socket tear; panels shift footing, bodily splinters remain; nose positioned before growth, crosspiece destroyed to defeat leverage. No Disney/Shrek extra kit or unearned transformation. Fatal version uses overwhelming existing form/gauntlets and ordinary existing Ki destruction of compressed block; no new generic disintegration power or survival loophole. Explicit latest author fatal outcomes supersede nonfatal selected passages."
+    },
+    "narration_presentation": {
+      "result": "PASS",
+      "evidence": "Wade sole narrator, bounded observations, varied direct commentary; opening adult status, single scene transition and explicit shared-body/audio orientation. Full final text clean story-only."
+    },
+    "lore_living_world": {
+      "result": "PASS",
+      "evidence": "Actual69 body/venue/material state carried. Old coffin base survives; no new lid. Actual61 household evidence prevents dead Shake return. Printed address literal, no explanation or storage bypass."
+    },
+    "behavior_group": {
+      "result": "PASS",
+      "evidence": "Latest direct author controls lethal intent. Daynah repairs knee then chooses fatal retaliation, retains skill/anger and concrete transformed speech. Bob resists, Richard flees/defends; deaths not falsely justified as unavoidable. Chris/Billy/Arthur/Meatwad independent choices and voices remain as previously reviewed."
+    },
+    "story_causality": {
+      "result": "PASS",
+      "evidence": "Old timber explains arrival/grievance; repaired knee enables kick, severed leg becomes weapon, nose support creates and loses advantage. Real package intake, letter, old fine print, alert and deliberate exemption produce changed ownership/role. Fatality belongs to70, after actual69survival. All four remain dead in candidate checkpoint; no old Richard/Pinocchio/KoolAid living carryover."
+    },
+    "weakest_span_decision": "Original fight middle strengthened through actual panel/footing/grip changes. Latest author rejected default nonfatal finishes; R2 gives explicit concise lethal conclusions without restarting four full duels. Eyeholes letter creates distinct changed role, not filler; Hulk preserved for developed own encounter. No condolence or redemption framing imposed.",
+    "regressions": {
+      "R01": "PASS: no earned-kit relock or invented franchise composite.",
+      "R02": "PASS: new fatality correction followed through bodies, destroyed block, canceled living callbacks; Daynah injuries/property persist.",
+      "R03": "PASS: actual inversion/intake/one exterior/headgear/hat/banjo limits.",
+      "R04": "PASS: selected future separated from performed state, no invisible Brian travel.",
+      "R05": "PASS: purposeful distinct agency, no redemption requirement.",
+      "R06": "PASS:4223words/28.15minutes assumed150wpm; no measured audio."
+    },
+    "failure_categories_observed": "DRAFTING: camera knowledge/custody/hand use repaired. Editorial weak motivation/development repaired. No claim structural checks guarantee humor. INTERPRETATION/AUTHOR_CORRECTION: user rejected repeated nonfatal outcomes; scoped override followed.",
+    "unresolved_material_defects": [],
+    "limitations": "Specific Pinocchio franchise remains OPEN; this episode uses only explicitly selected S7NS wooden-body action. Hulk dependencies remain for next encounter. Review is assistant judgment, not author acceptance.",
+    "word_count": 4223,
+    "assumed_words_per_minute": 150,
+    "estimated_minutes": 28.15,
+    "audio_generated": false
+  },
+  "authorship": "Kaze's original selected duels, timber/body-parts logic, coffin continuation, Eyeholes address/succession/letter/exception/pay premises; AI expanded prose, dialogue, choreography and comedy. Rough letter polished preserving complete obligations; exact approved fine-print line retained. No prose promoted to voice-reference approval. Latest fatality direction and exact daynah SMASH! quote are Kaze's; R2 finishing choreography AI implementation.",
+  "recovery": "After this complete final response exists, next interaction reconcile70DELIVERED_PROVISIONAL. Acceptance remains separate. No71 until authorized.",
+  "preserved_prior_unplayed_draft": {
+    "path": "S3_E70_Replacement_Parts_20261024.txt",
+    "sha256": "7abcc27a941a8316e6101e6055e0ebcfbae200a143df0f5c019623f05145c5de",
+    "status": "SUPERSEDED_UNPLAYED_DRAFT_NOT_DELIVERED_NOT_ACCEPTED"
+  }
+}
