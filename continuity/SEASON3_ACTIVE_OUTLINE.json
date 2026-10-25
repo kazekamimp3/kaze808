@@ -3,20 +3,7 @@
   "change_id": "S7NS_CINEMATIC_COMBAT_FIDELITY_OUTLINE_R21_20261024",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "status": "R21_AUTHOR_SELECTED_OUTLINE_WORK_ONLY_ACTUAL65_NEXT_NEW66",
-  "current_control": {
-    "last_delivered_episode": 65,
-    "delivery_status": "DELIVERED_PROVISIONAL",
-    "author_acceptance": "NOT_ASSERTED",
-    "next_episode": 66,
-    "prepared_episode": null,
-    "playback_hold": true,
-    "next_episode_authorized": false,
-    "story_days_advanced_by_work": 0,
-    "KAZE_ROMANCE_ENABLED": false,
-    "Briar_active_plot": false,
-    "ensemble_paused": false,
-    "final_episode_quota": null
-  },
+  "current_control": "S7NS_EYEHOLES_DUELS_SPACE_20261024",
   "state_owner": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json",
   "current_actual_after_E58": {
     "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
@@ -1731,7 +1718,7 @@
     "note": "Candidate selects Madam Vey's display wagon and quarry-road bend for the next criminal objective; no robbery or proceeds yet. Preserve selected R6 future beats.",
     "current_disposition": "HISTORICAL_ALTERNATE_PREPARATION_NOT_CURRENT_CONTINUATION; FamilyBusiness59 confirmed by existing delivery receipt"
   },
-  "active_chronology_key": "selected_chronology_R21",
+  "active_chronology_key": "selected_chronology_Eyeholes_Space_20261024",
   "selected_chronology_R7": [
     {
       "episode": 60,
@@ -2158,7 +2145,7 @@
     "training_selection": "AUTHOR_SELECTED_COMPACT_PSYCHOMETRY_FOR_REVISION; NOT_YET_ENACTED"
   },
   "playback_hold": true,
-  "work_status": "R21 selected development and presentation committed; revision63/needed62 first,64–65 queued; replacements NOT WRITTEN; nextNEW66; WORK NO DRAFT/PLAY.",
+  "work_status": "WORK ONLY: scoped esketit future development; no episode drafting/PLAY. Actual67 preserved.",
   "prior_active_revision_before_R10": {
     "episode_span": [
       64,
@@ -2535,6 +2522,73 @@
       "boundary": "No guaranteed theft result, capture, recovery or escape."
     }
   ],
-  "next_new_main_episode": 66,
-  "focus_mode": "ENSEMBLE"
+  "next_new_main_episode": 68,
+  "focus_mode": "ENSEMBLE",
+  "selected_chronology_Eyeholes_Space_20261024": [
+    {
+      "sequence": 1,
+      "title": "Protected reunion and early forward branch",
+      "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+      "construction": "Preserve unperformed Brian/Baldur lead and complete Kratos/Mimir song with JarJar before Bee Moo rename. Begin Dana/Eyeholes from actual post67, not rewrite67.",
+      "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+    },
+    {
+      "sequence": 2,
+      "title": "Dana connected five-duel chain and Eyeholes delivery",
+      "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+      "construction": "Bob→Richard→KoolAid→adultPinocchio→WorldBreakerHulk, with full concrete combat development in latest author owner. Eyeholes letter/device, BELLY exception and mascot progression. No mandatory intercut quota.",
+      "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+    },
+    {
+      "sequence": 3,
+      "title": "Dana and Chris refuge; Brian hybrid development",
+      "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+      "construction": "Genuine competent high-honor/chaos contrast, familiar diagnosis emotion, later horse collision, actual screen lag and physically staged banjo overhearing. Mutation package remains candidate until selected.",
+      "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+    },
+    {
+      "sequence": 4,
+      "title": "First Eyeholes job",
+      "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+      "construction": "Postmutation Brian opens box outside BELLY; device interrupts couch scene; Chris exits, X-wing break-in and actual beating with counterplay. Dana keeps playing.",
+      "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+    },
+    {
+      "sequence": 5,
+      "title": "Falcon theft and driving lesson",
+      "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+      "construction": "Han outplayed, Chewie present and permanently injured by Billy as selected; fit accommodation enacted. Kaze GTA lesson, alternate Hawking collision/death, selected insurance-chair twist, later FUCK NO callback.",
+      "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+    },
+    {
+      "sequence": 6,
+      "title": "Separate departures and Jabba reversal",
+      "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+      "construction": "Jabba/JarJar return to Tatooine with Brian; ownership reveal/collars. Sins offworld access through Falcon. Existing Runeterra pending arcs retained and departure dependencies explicit.",
+      "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+    },
+    {
+      "sequence": 7,
+      "title": "Marcelina yacht/ransom entry to Jabba business",
+      "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+      "construction": "Selected yacht robbery, captor/ransom reversal and negotiated delivery; modest first spice job then earned growth. No instant criminal empire.",
+      "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+    },
+    {
+      "sequence": 8,
+      "title": "Space conflicts spaced by consequences",
+      "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+      "construction": "Hondo/Pykes/Quark or other business contacts enter when useful; theft/drug consequences attract Guardians/Carol/John/Nova/Boba through actual evidence. Comic cast and separate dangerous Frieza/BattleBeast/Darkseid encounters spaced, no mass introductions. Palpatine rainbow saber aftermath/preemptive argument retained.",
+      "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md"
+    }
+  ],
+  "latest_selected_batch": {
+    "change_id": "S7NS_EYEHOLES_DUELS_SPACE_20261024",
+    "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+    "actual_delivered": 67,
+    "next_new": 68,
+    "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+    "older_pending_arcs": "R21 units7 onward retained, not canceled or automatically delivered; reconcile their access before space departure.",
+    "open_dependencies": "See latest owner; candidate mutation and source-time conflicts remain OPEN."
+  }
 }
