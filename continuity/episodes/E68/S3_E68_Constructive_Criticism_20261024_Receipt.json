@@ -1,0 +1,61 @@
+{
+  "schema": "S7NS_FOUR_APP_RECEIPT_V1",
+  "change_id": "S7NS_E68_CONSTRUCTIVE_CRITICISM_PLAY_20261024",
+  "episode_span": [
+    68
+  ],
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "continuity/episodes/E68/S3_E68_Constructive_Criticism_20261024.txt",
+  "manuscript_sha256": "6555ff2311556061427bdf60f998760662f0fda52ce2be7913529a57dbbb63b5",
+  "checkpoint": "continuity/episodes/E68/S3_E68_Constructive_Criticism_20261024_Checkpoint.json",
+  "checkpoint_sha256": "c9fa767ee1be2ce18e5a02bfb6384b50e18f82850527c0de6ff5b02f9fd8f8f7",
+  "github": {
+    "manuscript_commit": "bdce2156d652a691e2a4d20b6fd0f2ac72f94024",
+    "checkpoint_commit": "ba9b8324d1fca28a5c736553fbde72a653c1629d",
+    "manuscript_blob": "bbb63e37984a7fb933ebb1c11ef1dafab186a530",
+    "checkpoint_blob": "7d6a0e31095dbb4740ee7058dbc914c0a43206b6",
+    "readback": "Complete UTF-8 content equals local saved files",
+    "current_commit": "0c94c2520961587971d12c35d51ccd6687739f5d",
+    "ledger_commit": "222035eb6b70377fe07df28a9ce75d5e9a798a62",
+    "pointer_readback": "Complete updated CURRENT and LEDGER text equal; cursor67 retained; next68 authorized only",
+    "maintenance": "Historical ledger last_delivered_episode65 alias reconciled to separately verified current_delivered_episode67/latest_chat_delivered_episode67. Historical value preserved in pre-E68 controls."
+  },
+  "drive": {
+    "manuscript_id": "1XVG3OTe4p_U2KbUxjmrvyKbOdgbpx5Hn",
+    "manuscript_url": "https://drive.google.com/file/d/1XVG3OTe4p_U2KbUxjmrvyKbOdgbpx5Hn/view?usp=drivesdk",
+    "checkpoint_id": "1wXiUcrNDr-7bzDixp9yTnBnSqzsukO5y",
+    "checkpoint_url": "https://drive.google.com/file/d/1wXiUcrNDr-7bzDixp9yTnBnSqzsukO5y/view?usp=drivesdk",
+    "readback": "Raw base64 decoded bytes exactly equal local bytes; SHA256 verified for both",
+    "raw_hash_results": [
+      {
+        "file": "manuscript",
+        "equal": true,
+        "remote_sha256": "6555ff2311556061427bdf60f998760662f0fda52ce2be7913529a57dbbb63b5",
+        "bytes": 23726
+      },
+      {
+        "file": "checkpoint",
+        "equal": true,
+        "remote_sha256": "c9fa767ee1be2ce18e5a02bfb6384b50e18f82850527c0de6ff5b02f9fd8f8f7",
+        "bytes": 13946
+      }
+    ]
+  },
+  "airtable": {
+    "base_id": "appKCCr9zg0rsfbOI",
+    "table_id": "tblWgCrRZlvAFxcnH",
+    "record_id": "recG4oJhuUQn27Yyq",
+    "readback": "All five written fields fetched by actual record ID and match prepared version, status, branch, hash and checkpoint path"
+  },
+  "notion": {
+    "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "url": "https://app.notion.com/p/3fd4e1b729b3817ca530d91a167c9f1a?pvs=204",
+    "operation": "Small prepared68 heading/paragraph/links prepended; old source and episode history retained",
+    "readback": "Heading, exact manuscript hash and prepared status fetched and verified"
+  },
+  "pending_destinations": [],
+  "delivery_reconciliation_pending": true,
+  "no_episode69": true,
+  "recovery": "Render saved68 unchanged. On next interaction reconcile exact complete final response before advancing to68. No claim of author acceptance. Nothing from unplayed R23 substituted."
+}
