@@ -1,0 +1,29 @@
+{
+  "change_id": "S7NS_E71_JOINT_CUSTODY_20261025",
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript_sha256": "f3b2455934a533bf80d4e611091a1824c3890604e6b5513a65dcfa6b01500d3a",
+  "checkpoint_sha256": "b5f58807ba0d664e145f7ea4d5c82d77dc0f5cdb26ff109b5a5c8bb3079448f6",
+  "github": {
+    "manuscript_blob": "b19f97e86d7d639dc07aa02cd71238d1f985a8c6",
+    "checkpoint_blob": "bef25c24b6b897881f75434c309bee74189bcfeb",
+    "pair_exact_readback": true,
+    "CURRENT_LEDGER_outline_author_exact_readbacks": true
+  },
+  "drive": {
+    "manuscript": "1riZ-V_9pR9xyBZF2ECzf91hWduJAuFdi",
+    "checkpoint": "1kjE-eg77jswo6Vj55UtavYemmAWy30-g",
+    "both_raw_byte_equality": true
+  },
+  "airtable": {
+    "episode": "recaudewN9VOg3bVT",
+    "decision": "recuTqtsmgNaJEZBZ",
+    "readback": true
+  },
+  "notion": {
+    "page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "hash_status_readback": true
+  },
+  "review": "Complete draft705lines, repair, final739lines reread; manuscript unchanged since.",
+  "resume": "Deliver exact saved71 now. Next interaction reconcile actual full delivery separately from acceptance. No72."
+}
