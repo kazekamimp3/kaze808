@@ -63,7 +63,29 @@
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
-  "prepared_episode": null,
+  "prepared_episode": {
+    "episode": 73,
+    "change_id": "S7NS_E73_FACE_VALUE_20261025",
+    "episode_span": [
+      73
+    ],
+    "title": "Face Value",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
+    "manuscript_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
+    "checkpoint": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
+    "checkpoint_sha256": "7770b177b75bace87d35a0f5072e36d864bced8bdfce8f246b2e57a467ff1904",
+    "author_scope": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+    "receipt": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Receipt.json",
+    "drive_manuscript": "1HqG1078LY9tyVFKBA7aVlBHpwCfQI46u",
+    "drive_checkpoint": "1EbHyvHicJ4vPyX9aaahcdLiqM16ArnfX",
+    "airtable": "recAGgjRXx8dvE7jt",
+    "author_decision_airtable": "rec4VBjOL4GVOKhLx",
+    "words": 3883,
+    "estimated_minutes": 25.89,
+    "episode74_authorized": false
+  },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
@@ -106,8 +128,8 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "Full72 prior delivery reconciled; replay same saved3870word text unchanged.",
-  "work_resume_checkpoint_latest": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
+  "work_status": "73 whole draft and complete final reread done; exact saved pair prepared for single PLAY. Actual72 remains until full73 chat delivery.",
+  "work_resume_checkpoint_latest": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
   "work_change_id": "S7NS_EYEHOLES_DUELS_SPACE_20261024",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
@@ -296,9 +318,9 @@
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-  "current_prepared_episode_count": 0,
-  "current_prepared_drive_id": "1hkieUcekT5pgS5nIIES1C2dlFHag-8XA",
-  "current_prepared_full_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
+  "current_prepared_episode_count": 1,
+  "current_prepared_drive_id": "1HqG1078LY9tyVFKBA7aVlBHpwCfQI46u",
+  "current_prepared_full_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
   "authorial_fidelity_v1_1": {
     "change_id": "S7NS_AUTHORIAL_FIDELITY_ACTIVE_COMEDY_V11_20261020",
     "selection": "AUTHOR_SELECTED_BY_EXPLICIT_ESKETIT",
@@ -1794,7 +1816,7 @@
     "meeting_status": "E52_DELIVERED_PROVISIONAL",
     "actual_checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json"
   },
-  "playback_hold": "LIFTED_FOR_EXPLICIT_EPISODE72_ONLY",
+  "playback_hold": false,
   "latest_Brian_petty_comedy_approval": {
     "change_id": "S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022",
     "owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
@@ -2297,13 +2319,14 @@
     "delivery_reconciliation": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json"
   },
   "current_playback_request": {
-    "mode": "EXACT_REPLAY",
+    "mode": "SINGLE_EPISODE_PLAY",
     "episode_span": [
-      72
+      73
     ],
-    "author_text": "play ep72. send whole thing",
-    "new_fictional_time": 0,
-    "episode73_authorized": false
+    "author_text": "check outline and play ep73.",
+    "scoped_followup": "all",
+    "scope_owner": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+    "episode74_authorized": false
   },
   "prepared_E59_Still_Family_20261023": {
     "change_id": "S7NS_E59_STILL_FAMILY_20261023",
@@ -2340,7 +2363,7 @@
     },
     "concurrent_preparation_note": "Fresh control files also contain an undelivered Family Business candidate from another preparation. Preserve that record and its artifacts. This chat selects Still Family; no claim is made that another candidate was played or accepted."
   },
-  "selected_prepared_response": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
+  "selected_prepared_response": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
   "prepared_draft_features_60_69": [
     {
       "episode_span": [
@@ -2745,7 +2768,7 @@
     "revision_reconciliation": "continuity/episodes/E63/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json"
   },
   "play_authorized": true,
-  "next_episode_authorized": false,
+  "next_episode_authorized": true,
   "latest_cast_focus_R8": {
     "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
     "status": "AUTHOR_SELECTED_WORK_ONLY",
@@ -3947,7 +3970,9 @@
     "author_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
     "outline_key": "selected_chronology_Eyeholes_Space_20261024",
     "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
-    "installation_receipt": "continuity/work/S7NS_EYEHOLES_DUELS_SPACE_20261024_Installation.json"
+    "installation_receipt": "continuity/work/S7NS_EYEHOLES_DUELS_SPACE_20261024_Installation.json",
+    "latest_scoped_author": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+    "current_execution": "Actual68R2 through72; portrait/mutation/firstjob PREPARED73; later arcs pending."
   },
   "Project_SPACE_20261024_installation": {
     "receipt": "continuity/work/S7NS_EYEHOLES_DUELS_SPACE_20261024_Installation.json",
@@ -4200,7 +4225,7 @@
   "latest_Dana_fatality_author": "continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md",
   "episode70_authorized": true,
   "episode71_authorized": true,
-  "playback_control": "AUTHORIZED_EXACT_REPLAY72_ONLY_NO73",
+  "playback_control": "AUTHORIZED_SINGLE73_ONLY_AFTER_REVIEW_SAVE_AND_FOUR_APP_READBACK_NO74",
   "current_actual_after_E70": {
     "chronology": "Dana resumes immediately after69's afternoon pavilion ending. Ropewalk scene in same forward coastal stretch; no new day count or reset of Brian's already delivered dusk68strand.",
     "Dana": "Big Kahuna ACTIVE throughout/end; full earned kit, green skin/dark coils/expanded Kahuhu. Exact line daynah SMASH! accompanies fatal Pinocchio smash. Deliberately kills four encountered opponents. Prior injuries plus new splinter/forearm/shoulder/mouth damage; removes fragments and presses bleeding cuts, ongoing healing/no reset. Sits stone beyond Bob's corpse at final observation. Red block destroyed, not carried. Existing Ki used only for concentrated destruction of crushed block; no new named power/ultimate form. Guard shortgun unchanged/no use.",
@@ -4270,7 +4295,7 @@
     "carried": "70end governs offstage cast; no new day synchronization or Brian dusk rewind. Common2851, Daniel110 separate, Kaze0, Brian3silver lastknown. No actual game money transfer. Richard/Bob/Pinocchio/KoolAid remain dead.",
     "remaining": "Continue Dana/Chris retreat; later diagnosis/horse collision/lag, real Brian travel/earshot, exact BeeMoo package OPEN, portrait/firstEyeholes assault and space development pending. No72authorization."
   },
-  "episode73_authorized": false,
+  "episode73_authorized": true,
   "prepared_E72_Take_Care_of_Him_20261025": {
     "change_id": "S7NS_E72_TAKE_CARE_OF_HIM_20261025",
     "episode_span": [
@@ -4312,5 +4337,44 @@
     "reconciliation": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json",
     "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
     "sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b"
-  }
+  },
+  "preserved_pre_E73_controls": {
+    "CURRENT_blob": "2f37b8ffba556a021e675c431a635d9fb59ba615",
+    "playback_control": "AUTHORIZED_EXACT_REPLAY72_ONLY_NO73",
+    "current_playback_request": {
+      "mode": "EXACT_REPLAY",
+      "episode_span": [
+        72
+      ],
+      "author_text": "play ep72. send whole thing",
+      "new_fictional_time": 0,
+      "episode73_authorized": false
+    },
+    "prepared_episode": null
+  },
+  "prepared_E73_Face_Value_20261025": {
+    "episode": 73,
+    "change_id": "S7NS_E73_FACE_VALUE_20261025",
+    "episode_span": [
+      73
+    ],
+    "title": "Face Value",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
+    "manuscript_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
+    "checkpoint": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
+    "checkpoint_sha256": "7770b177b75bace87d35a0f5072e36d864bced8bdfce8f246b2e57a467ff1904",
+    "author_scope": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+    "receipt": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Receipt.json",
+    "drive_manuscript": "1HqG1078LY9tyVFKBA7aVlBHpwCfQI46u",
+    "drive_checkpoint": "1EbHyvHicJ4vPyX9aaahcdLiqM16ArnfX",
+    "airtable": "recAGgjRXx8dvE7jt",
+    "author_decision_airtable": "rec4VBjOL4GVOKhLx",
+    "words": 3883,
+    "estimated_minutes": 25.89,
+    "episode74_authorized": false
+  },
+  "episode74_authorized": false,
+  "latest_E73_author": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md"
 }
