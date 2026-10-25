@@ -67,7 +67,7 @@
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
-  "outline_rule": "Use selected_chronology_R7 and continuity/author/S7NS_Condensed_Weave_R7_20261023.md. R6 substance/lyrics retained; R6 episode numbers historical. No fixed later blocks/finale.",
+  "outline_rule": "Read selected_chronology_Eyeholes_Space_20261024 and latest scoped author section; retain nonconflicting R21 pending arcs. Earlier cursor/outline work notes are historical.",
   "latest_direct_author_scope": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
   "latest_R3_author_observed_blob_sha1": "fcbe7c0b015fbb5a6447ea3bac9be1d76ac2b883",
   "Chris_full_CORE_speech_owner": "canon/presentation/Chris_CORE_TheoVon_Surreal_Speech_Fidelity_20261019.md",
@@ -106,9 +106,9 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "Revised63–65 DELIVERED_PROVISIONAL; NEW66–67 reviewed/saved for explicit PLAY, delivery pending.",
-  "work_resume_checkpoint_latest": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Checkpoint.json",
-  "work_change_id": "S7NS_CINEMATIC_COMBAT_FIDELITY_OUTLINE_R21_20261024",
+  "work_status": "WORK ONLY: S7NS_EYEHOLES_DUELS_SPACE_20261024 installation in progress; no PLAY or episode draft.",
+  "work_resume_checkpoint_latest": "continuity/work/S7NS_EYEHOLES_DUELS_SPACE_20261024_Installation.json",
+  "work_change_id": "S7NS_EYEHOLES_DUELS_SPACE_20261024",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
   "superseded_candidates": "Earlier R2 five-bundle and eight-bundle milk story packages must not overwrite newer R3 work. Final package is workflow-only: one BOOT bundle plus manifest/settings, 27 others unchanged.",
   "current_workflow_package": "continuity/work/S7NS_Cumulative_Replacement_Patch_Resume_20261022.json",
@@ -3942,5 +3942,12 @@
     "manuscript": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024.txt",
     "manuscript_sha256": "4bcb86f3b376f782878edbf80e9a229e8baec0f0f04f1adbf7eb1754a5ec0f02",
     "checkpoint": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024_Checkpoint.json"
+  },
+  "latest_selected_development": {
+    "change_id": "S7NS_EYEHOLES_DUELS_SPACE_20261024",
+    "author_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+    "outline_key": "selected_chronology_Eyeholes_Space_20261024",
+    "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
+    "installation_receipt": "continuity/work/S7NS_EYEHOLES_DUELS_SPACE_20261024_Installation.json"
   }
 }
