@@ -1,0 +1,46 @@
+{
+  "change_id": "S7NS_E68_CONSTRUCTIVE_CRITICISM_R2_PLAY_20261024",
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript_sha256": "f2e71a9d5a79c2604a9ddf329600f74cc9ef456dbffb4cb24efc5f247ca8cfdb",
+  "checkpoint_sha256": "5fc4edcdb4a9829bb8f831a617b7b3fb8c4974215e729349e8294766d8675f66",
+  "github": {
+    "manuscript_commit": "187e3ff8fae795554db484b58e6706c9e65ddb0f",
+    "checkpoint_commit": "2a9ea7f0f361c6d9bb613f319b1e4d6e64f6cb20",
+    "original_reconciliation_commit": "599c9967ddeb4745e1a21c60e72896bd9bb876c7",
+    "readback": "All three complete text files equal local exact text; CURRENT and LEDGER entire updated texts also equal fresh fetches.",
+    "current_commit": "bdddcad9b574b238f53b8cf1bc13500531d92249",
+    "ledger_commit": "2294b0a69c091831e5fd81473111ada91c1f91f2"
+  },
+  "drive": {
+    "manuscript": "https://drive.google.com/file/d/1gp9jjjReyuP5nsKbM2C34v5QoDKyY1UC/view?usp=drivesdk",
+    "checkpoint": "https://drive.google.com/file/d/1TgR9QozkndskHMY7qPMyJGH6n4DKTBpi/view?usp=drivesdk",
+    "readback": [
+      {
+        "file": "M",
+        "raw_bytes_equal": true,
+        "sha256": "f2e71a9d5a79c2604a9ddf329600f74cc9ef456dbffb4cb24efc5f247ca8cfdb"
+      },
+      {
+        "file": "C",
+        "raw_bytes_equal": true,
+        "sha256": "5fc4edcdb4a9829bb8f831a617b7b3fb8c4974215e729349e8294766d8675f66"
+      }
+    ]
+  },
+  "airtable": {
+    "original_record_id": "recG4oJhuUQn27Yyq",
+    "revision_record_id": "recmsFebbnTYcoKWg",
+    "readback": "Both fetched by record ID; original delivered provisional, R2 prepared; paths and hashes match."
+  },
+  "notion": {
+    "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "readback": "Fetched new leading R2 paragraph with exact hash and status; prior original history retained."
+  },
+  "pending_destinations": [],
+  "pending_delivery_reconciliation": "R2 only; original68 reconciled from visible complete response. Do not mark R2 delivered until full response exists.",
+  "no_episode69": true,
+  "authorship": "Kaze original premises and complete protected lyrics; AI revision/connecting prose. No new voice-reference approval inferred.",
+  "changes": "Restored withheld lead through performance/reviews/both signatures; bar-specific personal feedback; joinery-driven violent action. Original68 preserved unchanged.",
+  "review": "4552-word initial full read, staging/custody/pacing repairs, complete4473-word final reread in848lines. Estimated29.82minutes at150wpm; not measured audio."
+}
