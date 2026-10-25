@@ -2,18 +2,18 @@
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "as_of": "2026-10-24",
-  "last_delivered_episode": 72,
-  "next_episode": 73,
+  "last_delivered_episode": 73,
+  "next_episode": 74,
   "delivery_status": "DELIVERED_PROVISIONAL",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json",
-  "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
-  "manuscript_git_blob_sha1": "8bba5fe8ba7bc5c4a028787415cd37edcf2fba51",
-  "manuscript_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
-  "checkpoint": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
-  "state_owner": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json",
-  "state_rule": "Actual delivered72 governed by separate reconciliation; frozen prepared checkpoint preserved. Replaying72 advances zero fictional time. Author acceptance NOT_ASSERTED.",
+  "delivery_reconciliation": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json",
+  "manuscript": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
+  "manuscript_git_blob_sha1": "e78a0a9eb7259c2156a80f7bc1db786d2e284864",
+  "manuscript_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
+  "checkpoint": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
+  "state_owner": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json",
+  "state_rule": "Actual delivered73 governed by separate reconciliation; frozen prepared checkpoint preserved. Replaying73 advances zero fictional time. Author acceptance NOT_ASSERTED.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -63,29 +63,7 @@
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
-  "prepared_episode": {
-    "episode": 73,
-    "change_id": "S7NS_E73_FACE_VALUE_20261025",
-    "episode_span": [
-      73
-    ],
-    "title": "Face Value",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED",
-    "author_acceptance": "NOT_ASSERTED",
-    "manuscript": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
-    "manuscript_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
-    "checkpoint": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
-    "checkpoint_sha256": "7770b177b75bace87d35a0f5072e36d864bced8bdfce8f246b2e57a467ff1904",
-    "author_scope": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
-    "receipt": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Receipt.json",
-    "drive_manuscript": "1HqG1078LY9tyVFKBA7aVlBHpwCfQI46u",
-    "drive_checkpoint": "1EbHyvHicJ4vPyX9aaahcdLiqM16ArnfX",
-    "airtable": "recAGgjRXx8dvE7jt",
-    "author_decision_airtable": "rec4VBjOL4GVOKhLx",
-    "words": 3883,
-    "estimated_minutes": 25.89,
-    "episode74_authorized": false
-  },
+  "prepared_episode": null,
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
@@ -128,7 +106,7 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "73 whole draft and complete final reread done; exact saved pair prepared for single PLAY. Actual72 remains until full73 chat delivery.",
+  "work_status": "Complete73 chat delivery reconciled; exact3883word replay unchanged after live outline/four-app checks.",
   "work_resume_checkpoint_latest": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
   "work_change_id": "S7NS_EYEHOLES_DUELS_SPACE_20261024",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
@@ -318,9 +296,9 @@
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-  "current_prepared_episode_count": 1,
-  "current_prepared_drive_id": "1HqG1078LY9tyVFKBA7aVlBHpwCfQI46u",
-  "current_prepared_full_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
+  "current_prepared_episode_count": 0,
+  "current_prepared_drive_id": null,
+  "current_prepared_full_sha256": null,
   "authorial_fidelity_v1_1": {
     "change_id": "S7NS_AUTHORIAL_FIDELITY_ACTIVE_COMEDY_V11_20261020",
     "selection": "AUTHOR_SELECTED_BY_EXPLICIT_ESKETIT",
@@ -578,7 +556,7 @@
     },
     "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "checkpoint_git_blob_sha1": "bbe907f0cc83f5a1ac2c05e9634ade99e3d6df29",
+  "checkpoint_git_blob_sha1": "a8fdd5fca359de720385177548607cece620ee70",
   "prepared_E39_E40_A_Place_To_Wait_R2_20261021": {
     "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
     "episode_span": [
@@ -1003,7 +981,7 @@
     "haircut_evidence": "continuity/episodes/E48/CHAT_DELIVERY_RECONCILIATION_20261021.json",
     "latest_relationship_refinement": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md"
   },
-  "latest_chat_delivered_episode": 72,
+  "latest_chat_delivered_episode": 73,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -2162,7 +2140,7 @@
     "terrain": "Transfer yard gallery/wagon damaged. Bridge middle destroyed by defensive mage, gatehouse/three-arch aqueduct demolished by Kaze. Water spill alters road; remains impassable to ordinary traffic without repair.",
     "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists."
   },
-  "checkpoint_sha256": "34efa6cb26d96881e57e512b216fa317847e1fd9a183f664946664aa2a9d0aff",
+  "checkpoint_sha256": "7770b177b75bace87d35a0f5072e36d864bced8bdfce8f246b2e57a467ff1904",
   "current_actual_after_E58": {
     "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
     "Sins": "Kaze, Chris exterior/Billy inside, Arthur, Daynah baseline, Mahnah baseline, Daniel at dry shelf on inland route late Day22. No capital arrival. Charles/Meatwad/Shake inside Billy; Frylock alive separate with whereabouts unknown. Keke not returned.",
@@ -2319,13 +2297,12 @@
     "delivery_reconciliation": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json"
   },
   "current_playback_request": {
-    "mode": "SINGLE_EPISODE_PLAY",
+    "author_text": "check outline and play ep73.",
+    "mode": "EXACT_REPLAY",
     "episode_span": [
       73
     ],
-    "author_text": "check outline and play ep73.",
-    "scoped_followup": "all",
-    "scope_owner": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+    "new_fictional_time": 0,
     "episode74_authorized": false
   },
   "prepared_E59_Still_Family_20261023": {
@@ -2768,7 +2745,7 @@
     "revision_reconciliation": "continuity/episodes/E63/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json"
   },
   "play_authorized": true,
-  "next_episode_authorized": true,
+  "next_episode_authorized": false,
   "latest_cast_focus_R8": {
     "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
     "status": "AUTHOR_SELECTED_WORK_ONLY",
@@ -4225,7 +4202,7 @@
   "latest_Dana_fatality_author": "continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md",
   "episode70_authorized": true,
   "episode71_authorized": true,
-  "playback_control": "AUTHORIZED_SINGLE73_ONLY_AFTER_REVIEW_SAVE_AND_FOUR_APP_READBACK_NO74",
+  "playback_control": "AUTHORIZED_EXACT_REPLAY73_ONLY_NO74",
   "current_actual_after_E70": {
     "chronology": "Dana resumes immediately after69's afternoon pavilion ending. Ropewalk scene in same forward coastal stretch; no new day count or reset of Brian's already delivered dusk68strand.",
     "Dana": "Big Kahuna ACTIVE throughout/end; full earned kit, green skin/dark coils/expanded Kahuhu. Exact line daynah SMASH! accompanies fatal Pinocchio smash. Deliberately kills four encountered opponents. Prior injuries plus new splinter/forearm/shoulder/mouth damage; removes fragments and presses bleeding cuts, ongoing healing/no reset. Sits stone beyond Bob's corpse at final observation. Red block destroyed, not carried. Existing Ki used only for concentrated destruction of crushed block; no new named power/ultimate form. Guard shortgun unchanged/no use.",
@@ -4376,5 +4353,47 @@
     "episode74_authorized": false
   },
   "episode74_authorized": false,
-  "latest_E73_author": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md"
+  "latest_E73_author": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+  "current_actual_after_E73": {
+    "Dana": "Baseline insideBELLY throughout73, continuesRDR2/highhonor recovering after71; no healing reset/injury novelty. Kahuhu by feet as72, shortgun unchanged inside. Mahnah joins him by actual Billy intake. Remains gaming at end.",
+    "Hulk": "Alive, selected amplified state under encounter-specific exception; regenerating observed injuries, last holding baby at ruined pavilion. Not conclusively defeated/killed, no forgiveness or permanent equal-stats conclusion. No indefinite future amplification duration invented.",
+    "baby": "Single green baby from torn shoulder flesh, Dada claim to Dana; stands, cracks ledge, bites gauntlet rim, tears rail. No name, objective paternity proof, adoption agreement or universal reproduction power. Last held by Hulk.",
+    "venue": "Pavilion footing cratered; roof off supports now fallen; two stoneweights, one rolled into steps. Quarry shed/blocks/wall destroyed; headland collapse/coastal cleft flooded. Harbor broken windows/roof, one visibly breathing injured person carried out; no death total invented. Original70corpses/remains stay within altered site, no revival/burial claimed. Reinforced coffin base survives leveled as cradle; newly installed rail broken; baby repeatedly strikes base without breaking bottom.",
+    "Chris_Billy_Arthur": "Billy initially sole exterior ropewalk, admits Kaze+Mahnah and later releasesKaze holding cereal. Chris inside voice throughbanjo; actual controlled inversion gives Chris exterior for local sortie, Billy inside withownbanjo, Dana staysgaming. Final Chris returnsinterior withcut/bruises/box; Billysoleexterior atloadingapron. Arthur lastoutside ropewalk, examines actual carton and asks cereal-only pay, not drawn into fight.",
+    "Eyeholes": "NewChrisportraitdiscoveredonsealedcartonsbeneatholdtoplayerfinite70delivery; nofreshendlessshipment/magicreprintingclaimed. Mahnah-damagedopenedcartoninsideexempt; pristineChrisdisplayfront-facingbesidemonitoratend. Separate sealedcarton Kaze→Arthurinspection→Kaze→Brian. Brianopensoutsideaftermutation; localdevicealertpointsnearbyoffice. Chrisfirstactualon-jobbeatingBrian, recoversdamagedbox/partbag; wetfloorcerealleft. No other on-job victim, noobjectivelawvalidation; brandimageprovenanceunexplained.",
+    "game": "Dana returnsstolenpurseinRDR2, Chrisarguesreward; beepinterruptscompanionship. Dana keepscontrollerwhileChrisleaves. VirtualArthur not actualArthur; norealcashflow.",
+    "carried": "Common2851, Daniel110separate, Kaze0 unchanged. Brian3minus1room=2silver. Richard/Bob/Pinocchio/KoolAid remain dead70; Hulk/baby/reinforcedbase offstage as71. Actual67R21 governs, neverunplayedR23. No new shipping/dayturn or oldarccompletion.",
+    "remaining": "All retained R21units7–19 and individualduel/Darkin/sourceaccessgates remain pending; no automaticoffworlddeparture. LaterFalcon/lesson/alternateHawking/JabbaMarcelina/spice/spacecast retained. Exactglobalflightlimitsandwinghealing unknown, notfreeupgrades. Episode74 not authorized.",
+    "Brian_JarJar": "Room above landingoffice nearharbor; one silver ofBrian's three paidforroom, two remain. JarJar independently seeking boatcrew/home-routeinfo, no successfulpassageclaim. Brian takesKaze's sealedbox, is bitten behindoffice byradioactivecow/bee whileliftingit awayfromflower. JarJar recapturesanimal/bracescrate, informsclerk. Twohoursobservedonset; Brian becomesBeeMoo appearance and demonstratesbriefnoisyflight, self-claimsSithnotrecognizedmember. OpensEyeholesbeforealert; Chrisassault. JarJarreturnswithwater, extinguishessmolderingframe, hitsChriswithjug, protectsBrianfrombedframeimpact, returnsboxandforcesexit, throwsjug. Lastbothinwreckedroom; Brianconscioussplitlip/swelling/bruises/rightwingpairpain/shakinghands; noautoregeneration.",
+    "Kaze_Mana": "Kaze visitsDana viaactualintake, testsChrisportraitpride, exitscarryingone sealedcarton, handsittoBrian whileknowing device/jobterms. Lastoutside nearSubaru/apron, no travel/hiddenoffscreenaction. Mahnah insidebyDana, tearsportraitcartoncorner, eats offeredEyeholes underBELLYexemption; nonverbal.",
+    "BeeMoo": "Same2ft2adult, humanlikehands/feetandface; smallhorns, black/whitepatches, yellowfuzz, fourmembranouswings. Shortflightacrossroomgenuinesuccess, fatigue and uncertaincontrolpreventlongescape, latertraumaticwinginjuryunresolved. Noextraunselectedpowers/globalnumericflightcap. Sithidentityclaimalone.",
+    "Brian_Force_saber_journal": "SameCliffordredlaser-saber; noviceTrakataoff/onunderobstructionlandsChrisforearmgraze. One selectedlimitedForceshoveactuallythrowsChrisintowashstand; firstsuccessfulshovehere, not63washermovement or mutationboost. NoForcepull/mastery/download. Chrisdisarms, deactivatesandthrowsintactsabertobed; leftBrian. JournalsavedbyJarJarfrombehindbed, coveredgewet/noestablishedtextloss; fulllyrics/signatures/Shake-notecontentunchanged. No newrap or lyricrevision.",
+    "Chris_injuries": "Burnedforearmcutfromrealblade; hip/ribbruiseagainstbrokenwashstand, shoulderhitbyjug. Maskblockedbasin/fistphysically; nosaberproofarmor, Forceimmunityorinstanthealing. Endinsideusingcloth, healingmayprogressnormally. Guns/riflecarriedbutnofire, noammunitionexpended.",
+    "vehicle": "SamebluegoldSubaru transforms onclearapron, shortlocalX-wingout/backoverbrokenlane toofficeapron. R2physicallybesidecar, willinglyjoins; Chrisguidespassengercradle, continuousaftsockettransferandback, helpsR2outafterreturn. R2independentbeeps/disapproval, noEnglishtranslation/autopilotnewpower. No weapons/overdrive/hyperspace. Missingmirror/starredglass/tornwingprior damagepersists, norepair/refill/recall. Fuelusedunquantified. LastSubaruparkedclearloadingapron,R2outside."
+  },
+  "delivered_E73": {
+    "episode": 73,
+    "change_id": "S7NS_E73_FACE_VALUE_20261025",
+    "episode_span": [
+      73
+    ],
+    "title": "Face Value",
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
+    "manuscript_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
+    "checkpoint": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
+    "checkpoint_sha256": "7770b177b75bace87d35a0f5072e36d864bced8bdfce8f246b2e57a467ff1904",
+    "author_scope": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+    "receipt": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Receipt.json",
+    "drive_manuscript": "1HqG1078LY9tyVFKBA7aVlBHpwCfQI46u",
+    "drive_checkpoint": "1EbHyvHicJ4vPyX9aaahcdLiqM16ArnfX",
+    "airtable": "recAGgjRXx8dvE7jt",
+    "author_decision_airtable": "rec4VBjOL4GVOKhLx",
+    "words": 3883,
+    "estimated_minutes": 25.89,
+    "episode74_authorized": false,
+    "delivery_status": "DELIVERED_PROVISIONAL",
+    "reconciliation": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json"
+  }
 }
