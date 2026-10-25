@@ -1,0 +1,125 @@
+{
+  "schema": "S7NS_EPISODE_CHECKPOINT_V1",
+  "change_id": "S7NS_E68_CONSTRUCTIVE_CRITICISM_PLAY_20261024",
+  "as_of_Honolulu": "2026-10-24",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode_span": [
+    68
+  ],
+  "title": "Constructive Criticism",
+  "delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "Direct current user: PLAY EPISODE 68 ONLY. Follow newest verified checkpoint and installed outline/author decisions; continue actual delivered67, never unplayed R23; whole-episode review first. No69.",
+  "actual_delivery_cursor_at_save": 67,
+  "next_actual_delivery_pending": 68,
+  "manuscript": "continuity/episodes/E68/S3_E68_Constructive_Criticism_20261024.txt",
+  "manuscript_sha256": "6555ff2311556061427bdf60f998760662f0fda52ce2be7913529a57dbbb63b5",
+  "source_basis": {
+    "actual_delivered": "continuity/features/E66_E67/S3_E66_E67_Professional_Courtesy_R21_20261024.txt",
+    "actual_delivered_sha256": "4bcb86f3b376f782878edbf80e9a229e8baec0f0f04f1adbf7eb1754a5ec0f02",
+    "actual_delivery_reconciliation": "continuity/features/E66_E67/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json",
+    "excluded_substitution": "Unplayed R23 revision; no events imported from it.",
+    "latest_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json#selected_chronology_Eyeholes_Space_20261024",
+    "latest_author": "continuity/author/S7NS_Cast_Focus_R8_20261023.md; latest Eyeholes/duels/space section plus nonconflicting R21/R13 selections",
+    "installation": "continuity/work/S7NS_EYEHOLES_DUELS_SPACE_20261024_Installation.json",
+    "song": "continuity/author/S7NS_Brian_Meesa_Thyself_And_Boy_FINAL_20261024.txt",
+    "song_git_blob_sha1": "048008224069a22116aa7b3099f2a694ba38c6cc",
+    "song_complete_verbatim": true,
+    "provenance": "Kaze supplied protected song and selected premises; new connecting prose assistant-drafted. No new approved voice sample or author acceptance inferred."
+  },
+  "short_working_brief": {
+    "listener_question": "Can Daynah stop correcting a builder who is trying to kill him, and can Brian turn honest criticism into the endorsement he wants?",
+    "choices": "Daynah initiates help, corrects unsafe construction, responds physically to assault, protects the lane, cannot resist improving/testing his own coffin, then decisively disarms Bob. Brian approaches Baldur, retreats from the cure implication, and trades a reliable destination for a full performance and honest reviews. Kratos and Mimir inspect timing/length, receive the lead first and voluntarily honor the finite bargain. Jar Jar pursues lodging/home and refuses ownership of Brian's lyrics.",
+    "strongest_options": "Daynah has earned higher forms and full kit, not relocked; he chooses baseline craft/boxing/grappling to stop this immediate assault and succeeds. No outside need for escalation, invented transformation cost, automatic opponent parity, or gamma immunities. Kratos could refuse and pursue independently; he instead judges there is time before the stated morning sailing, obtains the information first, and honors his agreement. Brian has learned psychometry/novice Trakata but neither is relevantly used or upgraded.",
+    "ending": "Bob is alive and injured; the reinforced coffin base survives because Daynah helped. Brian obtains authentic signatures with a neutral attendance statement, then tries to hide its qualification; Jar Jar keeps unfolding it."
+  },
+  "candidate_end_state_ONLY_after_complete_delivery": {
+    "chronology": "Opening afternoon follows actual67 at coastal export depot/ropewalk. Dana scene last observed at exercise pavilion. Brian/Jar Jar arrive by trading vessel at dusk after north Shurima road and actual crossing. No claim that all offstage actors remained frozen until dusk.",
+    "Dana": "Baseline Daynah, Kahuhu fastened by final confrontation; forearm and hip wounds, bleeding slows but skin remains open, cloth damaged. No new power, transformation, quantified healing rate, or instant reset. Guard shortgun retained from67, no new discharge/disposal. Last observed standing at wrecked exercise pavilion; no return to ropewalk enacted.",
+    "Bob": "Alive after assault, scalp wound, body impacts and hammer hand at abnormal angle. Hammer kicked out of reach. Exercise pavilion damaged; road-facing roof section secured on timber stack. Reinforced coffin base intact; lid and upper side torn away. Never confuse this pavilion with Vessa's gambling venue.",
+    "Brian": "Dusk harbor stand; separate 2ft2 body. Journal contains full final performance, biased review notes and real Kratos/Mimir signatures beneath I heard the performance. Starkiller endorsement and older material retained. Single stolen Clifford saber wrapped at side. No new Force upgrade, no acquired cash, no renamed Bee Moo identity.",
+    "Jar_Jar": "Dusk harbor stand with Brian, independent search for route home continues. Inspected offered room upstairs; final room rental/payment not established. Knows Baldur from hot-cup encounter, did NOT witness departure or hear sailor itinerary while upstairs. Hears Brian supply it to Kratos. Hears murder lyric and Brian's evasion; suspicion is not factual confirmation.",
+    "Baldur": "Still cursed, no bodily sensation; emotions and agency intact. Already killed Shang in65. Rejects Brian's music offer before any full performance. Agrees to sailor's first-bell next-morning Zaun boat at lower landing below lime shed, then leaves stand. Intended itinerary is not completed sailing or guaranteed future whereabouts.",
+    "Kratos_Mimir": "Investigated Shang shelter via crew eyewitness. Post-Valhalla Kratos and physical Mimir remember prior companionship with Brian; Mimir safely supported on bench during song, uses pen in mouth with Jar Jar stabilizing book, returned to belt. Hear entire final song, give individual constructive feedback. Hear evasive answer about Shake, no confirmation or forgiveness. Leave along harbor road with conditional useful lead; no reunion/confrontation with Baldur completed.",
+    "money": "No new quantified transaction. Preserve common2851, Daniel110 separate, Kaze0, Brian3silver last verified; no invented fare, room charge or reward.",
+    "offstage_preservation": "Chris exterior/Billy interior last verified67; other Sins, Mana and R2 receive no new unobserved actions. Subaru remains functional with missing driver mirror, starred glazing, torn frontwing and secured/isolated wiring; no repair enacted. TPP retrieval/contract aftermath pending. Starkiller chart-for-trip exchange complete67 and foot departure preserved. Shang and Shake remain dead. Daniel departed59. Kaze romanceOFF and retired kit removals persist.",
+    "open_threads": "Selected Bob duel enacted. Richard Simmons, Kool-Aid Man, adult Pinocchio and World Breaker Hulk chain remains pending in that order, no offscreen completions. Eyeholes and space departure have not begun. Protected full Brian reunion performance enacted only upon this delivery; Bee Moo rename and other future locks remain pending. No69 content or authorization."
+  },
+  "whole_episode_review": {
+    "procedure": "Existing Season3_Scene_Decision_Doctrine whole-first-read / source-specific repair / complete-final-reread; no substitute procedure.",
+    "coverage": "Initial full 3932-word artifact reopened and read. Repaired version reopened in complete sequential chunks lines1-190,191-390,391-640,641-736 after final folding geometry correction. All final736 lines read; earlier truncated read was not counted as complete.",
+    "mechanical_source_comparison": [
+      {
+        "source": "character_sources/Dana_Character_Source.txt; canon/characters/dana_mana.md current earned baseline/gauntlet/physical and recovery provisions; latest author-selected Bob/coffin premise",
+        "passage": "Daynah sets Kahuhu aside, then fastens it, redirects roof load away from lane, punches out of coffin, controls hammer arm and ends fight. Skin still open; cloth/property not healed.",
+        "resolution": "PASS within selected absurd Bob premise; no franchise scaling assertion or exact rate. Full earned forms remain available, not needed for the achieved baseline resolution."
+      },
+      {
+        "source": "canon/characters/Kratos_Mimir_Post_Valhalla_Companions_20261019.md; other_originals Kratos owner; GOW_Baldur_Kratos_Fidelity_20261018.md; actual65 shelter scene",
+        "passage": "Crewman at wrecked coastal shelter; Kratos queries evidence, Mimir distinguishes earlier Baldur from their remembered history. Cup does not provoke bodily sensation.",
+        "resolution": "PASS: location/curse/history distinctions retained; no invented cure or felt pain."
+      },
+      {
+        "source": "StarWars_E64_E65_Speech_Behavior_Fidelity_20261023.md; latest Jar Jar source override; R12 reunion development with R13 selection",
+        "passage": "Mesa upstairs when him left; Jar Jar checks lodging and home routes, asks Brian not to use his voice without asking.",
+        "resolution": "PASS: independently motivated, no eyewitness teleportation, no audience knowledge imported."
+      },
+      {
+        "source": "Brian original/full current body/acquisition owners, actual62-65; final lyric owner; physical Mimir owner",
+        "passage": "One finite full song; Brian gives landing first. Neutral attendance autograph. Mouth-held pen and supported book. Murder question remains unanswered.",
+        "resolution": "PASS: exact full lyric, authentic limited signatures, no hands or mindwriting for Mimir, no cure/redemption/mastery; suspicion stays distinct from knowledge."
+      }
+    ],
+    "repairs": [
+      "Introduced Bob by full recognizable name without biography.",
+      "Removed false Jar Jar departure-direction eyewitness claim; he was upstairs.",
+      "Replaced explanatory narrator captions and convenient bucket noise with original situational humor and mooring-rope pause.",
+      "Made book/pen/block/bench staging physical and legible; Mimir eyes follow moving pen.",
+      "Replaced tidy growth ending with Brian misrepresenting signatures and Jar Jar exposing qualification.",
+      "Corrected fold direction to top backward, hiding attendance words while exposing names."
+    ],
+    "five_responsibilities": {
+      "capabilities_combat": "PASS mechanical source comparison above; baseline strength/skill and protected absurd antagonist premise remain distinct.",
+      "narration_presentation": "Editorial judgment: Wade comments grow from observed construction/open-mic action; no narrator heard by Brian. Clear time/place and physical anchors. Full protected rap spelling retained for fidelity.",
+      "lore_living_world": "PASS bounded: coastal shelter/road/vessel transitions trace actual65-67. No assumed completed next-morning trip or future duel.",
+      "behavior_group": "Editorial judgment: Daynah craft pride drives choices; Bob insists competence; Brian seeks endorsement; Kratos gives restrained clear criticism; Mimir surgical wit; Jar Jar autonomous. No forced ensemble quota.",
+      "story_causality": "Editorial judgment: two distinct chosen actions change state. Coffin improvement causes durable base; finite bargain causes performance and limited autograph. No redemption or moral lesson imposed."
+    },
+    "weakest_span_decision": "Travel/setup was the least distinctive stretch. Kept compact because the ship crossing and Jar Jar's upstairs interval establish indispensable travel and knowledge boundaries. The full song is protected author text, not a candidate for shortening; feedback/signatures pay it off.",
+    "regressions": {
+      "R01": {
+        "result": "PASS",
+        "evidence": "Earned Dana forms remain available; baseline choice succeeds. No removed kits restored. No new Brian mastery."
+      },
+      "R02": {
+        "result": "PASS",
+        "evidence": "Forearm/hip wounds, ripped cloth, wrecked pavilion and broken coffin upper sections persist; limited observed bleeding reduction only."
+      },
+      "R03": {
+        "result": "NOT_APPLICABLE",
+        "evidence": "Chris/Billy have no new onscreen switch/interior action. Last verified exterior state preserved in checkpoint."
+      },
+      "R04": {
+        "result": "PASS",
+        "evidence": "Explicit vessel transit; crew testimony and sailor message carriers; upstairs Jar Jar cannot witness departure; planned boat/duels not treated as occurred."
+      },
+      "R05": {
+        "result": "PASS",
+        "evidence": "Distinct source-informed choices and refusal rights in full reviewed text. No job earnings/distribution event."
+      },
+      "R06": {
+        "result": "PASS",
+        "evidence": "3927 words, compact travel, developed builder conflict and full song/review bargain; ending follows Brian's folding attempt. Timing uses superseding25-30minute direction."
+      }
+    },
+    "failure_categories_observed": "DRAFTING: initial eyewitness and physical folding weaknesses, repaired. No claim about earlier authors or unseen history.",
+    "unresolved_material_defects": [],
+    "limitations": "Editorial assessment is not author acceptance or guarantee of humor. Protected lyrics may sound unconventional in TTS; no pronunciation rewrite. No generated or measured audio. Whole archive not audited; full relevant actor owners and latest scoped sources were reviewed.",
+    "word_count": 3927,
+    "assumed_words_per_minute": 150,
+    "estimated_minutes": 26.18,
+    "audio_generated": false
+  },
+  "recovery": "Before any new continuation, compare this exact saved manuscript to actual complete final response. Only then reconcile68 as DELIVERED_PROVISIONAL; acceptance remains NOT_ASSERTED unless author says otherwise. Do not PLAY69 without new authorization.",
+  "destination_receipts": "Paired *_Receipt.json records writes and actual readbacks separately; this checkpoint itself is immutable prepared evidence."
+}
