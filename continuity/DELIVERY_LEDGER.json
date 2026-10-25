@@ -3219,5 +3219,24 @@
     "manuscript": "continuity/episodes/E70/S3_E70_Replacement_Parts_R2_20261024.txt",
     "manuscript_sha256": "d916fa3f0fe700800716d33dfa977e8aba2719a5b369fc3404aac437968d9be9",
     "reconciliation": "continuity/episodes/E70/CHAT_DELIVERY_RECONCILIATION_E70_R2_20261024.json"
+  },
+  "prepared_E71_Joint_Custody_20261025": {
+    "change_id": "S7NS_E71_JOINT_CUSTODY_20261025",
+    "episode_span": [
+      71
+    ],
+    "title": "Joint Custody",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E71/S3_E71_Joint_Custody_20261025.txt",
+    "manuscript_sha256": "f3b2455934a533bf80d4e611091a1824c3890604e6b5513a65dcfa6b01500d3a",
+    "checkpoint": "continuity/episodes/E71/S3_E71_Joint_Custody_20261025_Checkpoint.json",
+    "receipt": "continuity/episodes/E71/S3_E71_Joint_Custody_20261025_Receipt.json",
+    "drive_manuscript": "1riZ-V_9pR9xyBZF2ECzf91hWduJAuFdi",
+    "drive_checkpoint": "1kjE-eg77jswo6Vj55UtavYemmAWy30-g",
+    "airtable": "recaudewN9VOg3bVT",
+    "words": 3831,
+    "estimated_minutes": 25.54,
+    "episode72_authorized": false
   }
 }
