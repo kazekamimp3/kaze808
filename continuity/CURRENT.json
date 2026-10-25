@@ -106,7 +106,7 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "WORK ONLY: S7NS_EYEHOLES_DUELS_SPACE_20261024 future development installed in connected owners; four-app readbacks recorded in installation receipt. No PLAY or episode draft. Project attachment/settings refresh not performed.",
+  "work_status": "WORK ONLY: S7NS_EYEHOLES_DUELS_SPACE_20261024 future development installed in connected owners; four-app readbacks recorded in installation receipt. Project attachments/settings replaced via Cloud Browser; seven of eight attachment byte readbacks and exact instruction readback verified. Routing attachment upload visible; byte readback unavailable. No PLAY or episode draft.",
   "work_resume_checkpoint_latest": "continuity/work/S7NS_EYEHOLES_DUELS_SPACE_20261024_Installation.json",
   "work_change_id": "S7NS_EYEHOLES_DUELS_SPACE_20261024",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
@@ -3949,5 +3949,13 @@
     "outline_key": "selected_chronology_Eyeholes_Space_20261024",
     "status": "AUTHOR_SELECTED_FUTURE_NOT_OCCURRED",
     "installation_receipt": "continuity/work/S7NS_EYEHOLES_DUELS_SPACE_20261024_Installation.json"
+  },
+  "Project_SPACE_20261024_installation": {
+    "receipt": "continuity/work/S7NS_EYEHOLES_DUELS_SPACE_20261024_Installation.json",
+    "status": "UPLOADED_UI_VERIFIED_WITH_PARTIAL_DOWNLOAD_READBACK",
+    "attachments_replaced": 8,
+    "txt_to_md_content_unchanged": 3,
+    "instructions_saved_readback": true,
+    "episode_advanced": false
   }
 }
