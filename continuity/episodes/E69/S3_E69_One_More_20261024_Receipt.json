@@ -1,0 +1,47 @@
+{
+  "change_id": "S7NS_E69_ONE_MORE_PLAY_20261024",
+  "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "author_acceptance": "NOT_ASSERTED",
+  "episode_span": [
+    69
+  ],
+  "manuscript_sha256": "5e5e40d8127293cfc7fe83bcfbef84c2720a045df9e650186c3df96ce58b943e",
+  "checkpoint_sha256": "1b5cabe388fc84f96759a811da8d6d3560f33032b86dfe119989254e6ee443c3",
+  "github": {
+    "manuscript_commit": "408b32984c010f1c15b1766e695935606f6b88cb",
+    "checkpoint_commit": "e959894e9107e5987b94f0320c9f9906f23f1f63",
+    "reconciliation68R2_commit": "9959af877ab8098980e4a314527288ad685b8977",
+    "current_commit": "933550f163014854121c965da6467b3eb05cdde7",
+    "ledger_commit": "f655d335258f6784e47eb7687965e4d8fdb7e51f",
+    "readback": "All three saved files and both full updated pointers freshly fetched and exact-text equal."
+  },
+  "drive": {
+    "manuscript": "https://drive.google.com/file/d/1SuxfTNaHF_jE90CSPWMEaUE4WLq4-l1n/view?usp=drivesdk",
+    "checkpoint": "https://drive.google.com/file/d/1NDL5wJh4WojTMpsDONNSZBaOrLzMqPY8/view?usp=drivesdk",
+    "readback": [
+      {
+        "file": "M",
+        "bytes_equal": true,
+        "sha256": "5e5e40d8127293cfc7fe83bcfbef84c2720a045df9e650186c3df96ce58b943e"
+      },
+      {
+        "file": "C",
+        "bytes_equal": true,
+        "sha256": "1b5cabe388fc84f96759a811da8d6d3560f33032b86dfe119989254e6ee443c3"
+      }
+    ]
+  },
+  "airtable": {
+    "record68R2": "recmsFebbnTYcoKWg",
+    "record69": "rec3brXZtkIxv63A2",
+    "readback": "Both actual IDs fetched;68R2 delivered provisional and69prepared fields, hash and paths verified."
+  },
+  "notion": {
+    "page_id": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "readback": "Freshly fetched leading69 prepared entry and68R2 reconciliation; exact69hash present; original history retained."
+  },
+  "review": "Full3742word first read, physical/prop/causal/pacing repairs, complete3753word699line final reread. Assumed150wpm25.02min; no generated audio.",
+  "pending_destinations": [],
+  "pending": "Actual69 complete delivery reconciliation at next interaction; no70 authorization.",
+  "authorship": "Kaze premises and selected outcomes; AI-written prose and choreography. No author acceptance or new voice-sample approval inferred."
+}
