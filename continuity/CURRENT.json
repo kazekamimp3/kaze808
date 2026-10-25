@@ -2,18 +2,18 @@
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "as_of": "2026-10-24",
-  "last_delivered_episode": 71,
-  "next_episode": 72,
+  "last_delivered_episode": 72,
+  "next_episode": 73,
   "delivery_status": "DELIVERED_PROVISIONAL",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "continuity/episodes/E71/CHAT_DELIVERY_RECONCILIATION_E71_20261025.json",
-  "manuscript": "continuity/episodes/E71/S3_E71_Joint_Custody_20261025.txt",
-  "manuscript_git_blob_sha1": "9d3deaec98256627c160c80080eca4fe568fe871",
-  "manuscript_sha256": "f3b2455934a533bf80d4e611091a1824c3890604e6b5513a65dcfa6b01500d3a",
-  "checkpoint": "continuity/episodes/E71/S3_E71_Joint_Custody_20261025_Checkpoint.json",
-  "state_owner": "continuity/episodes/E71/CHAT_DELIVERY_RECONCILIATION_E71_20261025.json",
-  "state_rule": "Actual71delivered provisional;72authorized in preparation, no73; acceptanceNOT_ASSERTED.",
+  "delivery_reconciliation": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json",
+  "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
+  "manuscript_git_blob_sha1": "8bba5fe8ba7bc5c4a028787415cd37edcf2fba51",
+  "manuscript_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
+  "checkpoint": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
+  "state_owner": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json",
+  "state_rule": "Actual delivered72 governed by separate reconciliation; frozen prepared checkpoint preserved. Replaying72 advances zero fictional time. Author acceptance NOT_ASSERTED.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -63,27 +63,7 @@
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
-  "prepared_episode": {
-    "change_id": "S7NS_E72_TAKE_CARE_OF_HIM_20261025",
-    "episode_span": [
-      72
-    ],
-    "title": "Take Care of Him",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
-    "author_acceptance": "NOT_ASSERTED",
-    "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
-    "manuscript_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
-    "checkpoint": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
-    "checkpoint_sha256": "34efa6cb26d96881e57e512b216fa317847e1fd9a183f664946664aa2a9d0aff",
-    "outline_coverage": "continuity/episodes/E72/S3_E72_Outline_Coverage_20261025.json",
-    "receipt": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Receipt.json",
-    "drive_manuscript": "1hkieUcekT5pgS5nIIES1C2dlFHag-8XA",
-    "drive_checkpoint": "11XR1CynKg9mIB5Fwm5xE71nCiuxmcx4_",
-    "airtable": "recQEVLVQCnfojV6e",
-    "words": 3870,
-    "estimated_minutes": 25.8,
-    "episode73_authorized": false
-  },
+  "prepared_episode": null,
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
@@ -126,7 +106,7 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "Reviewed Episode72 prepared and saved for explicit single-episode PLAY; actual endpoint71 until full delivery; acceptance NOT_ASSERTED.",
+  "work_status": "Full72 prior delivery reconciled; replay same saved3870word text unchanged.",
   "work_resume_checkpoint_latest": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
   "work_change_id": "S7NS_EYEHOLES_DUELS_SPACE_20261024",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
@@ -316,7 +296,7 @@
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-  "current_prepared_episode_count": 1,
+  "current_prepared_episode_count": 0,
   "current_prepared_drive_id": "1hkieUcekT5pgS5nIIES1C2dlFHag-8XA",
   "current_prepared_full_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
   "authorial_fidelity_v1_1": {
@@ -576,7 +556,7 @@
     },
     "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "checkpoint_git_blob_sha1": "1d313744533cacf208837151db6722759ec38a1e",
+  "checkpoint_git_blob_sha1": "bbe907f0cc83f5a1ac2c05e9634ade99e3d6df29",
   "prepared_E39_E40_A_Place_To_Wait_R2_20261021": {
     "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
     "episode_span": [
@@ -1001,7 +981,7 @@
     "haircut_evidence": "continuity/episodes/E48/CHAT_DELIVERY_RECONCILIATION_20261021.json",
     "latest_relationship_refinement": "continuity/author/S7NS_Restaurant_Consequences_Daynah_Anger_Brian_Reversal_20261022.md"
   },
-  "latest_chat_delivered_episode": 68,
+  "latest_chat_delivered_episode": 72,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -2160,7 +2140,7 @@
     "terrain": "Transfer yard gallery/wagon damaged. Bridge middle destroyed by defensive mage, gatehouse/three-arch aqueduct demolished by Kaze. Water spill alters road; remains impassable to ordinary traffic without repair.",
     "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists."
   },
-  "checkpoint_sha256": "26e7583f8f92445e8feef083a1c08b4f894092b9de38efbbabe5fdc45179cff5",
+  "checkpoint_sha256": "34efa6cb26d96881e57e512b216fa317847e1fd9a183f664946664aa2a9d0aff",
   "current_actual_after_E58": {
     "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
     "Sins": "Kaze, Chris exterior/Billy inside, Arthur, Daynah baseline, Mahnah baseline, Daniel at dry shelf on inland route late Day22. No capital arrival. Charles/Meatwad/Shake inside Billy; Frylock alive separate with whereabouts unknown. Keke not returned.",
@@ -2317,13 +2297,13 @@
     "delivery_reconciliation": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json"
   },
   "current_playback_request": {
-    "mode": "NEW_EPISODE",
+    "mode": "EXACT_REPLAY",
     "episode_span": [
       72
     ],
-    "author_text": "play ep72.",
-    "latest_quality_direction": "make sure you’re actually following all the outline plans.  dont leave out a single detail",
-    "status": "PREPARED_REVIEWED_SAVED_PENDING_PLAY"
+    "author_text": "play ep72. send whole thing",
+    "new_fictional_time": 0,
+    "episode73_authorized": false
   },
   "prepared_E59_Still_Family_20261023": {
     "change_id": "S7NS_E59_STILL_FAMILY_20261023",
@@ -2765,7 +2745,7 @@
     "revision_reconciliation": "continuity/episodes/E63/CHAT_DELIVERY_RECONCILIATION_R21_20261024.json"
   },
   "play_authorized": true,
-  "next_episode_authorized": true,
+  "next_episode_authorized": false,
   "latest_cast_focus_R8": {
     "owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
     "status": "AUTHOR_SELECTED_WORK_ONLY",
@@ -4220,7 +4200,7 @@
   "latest_Dana_fatality_author": "continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md",
   "episode70_authorized": true,
   "episode71_authorized": true,
-  "playback_control": "EPISODE72_ONLY_PREPARED_READY_AFTER_FOUR_APP_READBACK",
+  "playback_control": "AUTHORIZED_EXACT_REPLAY72_ONLY_NO73",
   "current_actual_after_E70": {
     "chronology": "Dana resumes immediately after69's afternoon pavilion ending. Ropewalk scene in same forward coastal stretch; no new day count or reset of Brian's already delivered dusk68strand.",
     "Dana": "Big Kahuna ACTIVE throughout/end; full earned kit, green skin/dark coils/expanded Kahuhu. Exact line daynah SMASH! accompanies fatal Pinocchio smash. Deliberately kills four encountered opponents. Prior injuries plus new splinter/forearm/shoulder/mouth damage; removes fragments and presses bleeding cuts, ongoing healing/no reset. Sits stone beyond Bob's corpse at final observation. Red block destroyed, not carried. Existing Ki used only for concentrated destruction of crushed block; no new named power/ultimate form. Guard shortgun unchanged/no use.",
@@ -4310,6 +4290,27 @@
     "airtable": "recQEVLVQCnfojV6e",
     "words": 3870,
     "estimated_minutes": 25.8,
-    "episode73_authorized": false
+    "episode73_authorized": false,
+    "current_delivery_status": "DELIVERED_PROVISIONAL",
+    "reconciliation": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json"
+  },
+  "current_actual_after_E72": {
+    "Dana": "Baseline inside BELLY, recovering split lip/side/ribs/back; no healing reset. Kahuhu explicitly taken off and placed within reach by feet; shortgun unchanged from actual71 carried interior, not fired/moved in72. Holds game controller at end, pauses voluntarily. No new real combat.",
+    "Hulk": "Alive, selected amplified state under encounter-specific exception; regenerating observed injuries, last holding baby at ruined pavilion. Not conclusively defeated/killed, no forgiveness or permanent equal-stats conclusion. No indefinite future amplification duration invented.",
+    "baby": "Single green baby from torn shoulder flesh, Dada claim to Dana; stands, cracks ledge, bites gauntlet rim, tears rail. No name, objective paternity proof, adoption agreement or universal reproduction power. Last held by Hulk.",
+    "venue": "Pavilion footing cratered; roof off supports now fallen; two stoneweights, one rolled into steps. Quarry shed/blocks/wall destroyed; headland collapse/coastal cleft flooded. Harbor broken windows/roof, one visibly breathing injured person carried out; no death total invented. Original70corpses/remains stay within altered site, no revival/burial claimed. Reinforced coffin base survives leveled as cradle; newly installed rail broken; baby repeatedly strikes base without breaking bottom.",
+    "Chris_Billy_Arthur": "Chris stays inside, Billy sole exterior at ropewalk broad stone with own banjo, Arthur beside him. Exterior monitor volume restored. Chris learns baby came from Hulk shoulder and claims Dana's paternity; no full fight knowledge. Chris relays Dana's lag insult explicitly through banjo and later transmits only own replies; route closed at end. Brian heard actual Chris, not Dana/Wade. Subaru untouched/no repair.",
+    "Eyeholes": "Meatwad already-open box, broken cereal shared with Chris without assault under BELLY exemption. Device still silent carried; no new remote signal, company portrait or job yet. Finite stock unquantified.",
+    "game": "Virtual stagecoach passengers rescued/four attackers killed, bodies unlooted. Current replay save reaches familiar SaintDenis TB diagnosis; Chris preserves older save in separate slot by consent. Meal/camp/ride, accidental horse/tree ragdoll, Arthur recovers. Later visible frame freeze causes death; restart and successful tactical retry. Ends idle in grass. Living cured/cybernetic Arthur outside unchanged; game events not real casualties/cash.",
+    "carried": "70end governs offstage cast; no new day synchronization or Brian dusk rewind. Common2851, Daniel110 separate, Kaze0, Brian3silver lastknown. No actual game money transfer. Richard/Bob/Pinocchio/KoolAid remain dead.",
+    "remaining": "Mutation exact package OPEN, portrait promotion and first Brian Eyeholes assault pending before space sequence; all older Runeterra units7–19 retained and access must reconcile before departure. Episode73 not authorized.",
+    "Brian_JarJar": "At actual dusk both leave68 drinking stand, walk detour around damaged lane to ropewalk. JarJar catches stumbling Brian, continues independently to inquire at landing office. Brian argues with Chris via Billy banjo, proves basic rhythm, shows authentic folded journal; then walks after JarJar. No paid room, mutation, new power, saber use, expenditure or actual Eyeholes assault."
+  },
+  "delivered_E72": {
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "reconciliation": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json",
+    "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
+    "sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b"
   }
 }
