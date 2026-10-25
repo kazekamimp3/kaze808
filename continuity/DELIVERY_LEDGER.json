@@ -2,8 +2,8 @@
   "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
-  "current_delivered_episode": 71,
-  "next_episode": 72,
+  "current_delivered_episode": 72,
+  "next_episode": 73,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -833,7 +833,7 @@
         72
       ],
       "title": "Take Care of Him",
-      "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "status": "DELIVERED_PROVISIONAL",
       "author_acceptance": "NOT_ASSERTED",
       "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
       "manuscript_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
@@ -846,31 +846,13 @@
       "airtable": "recQEVLVQCnfojV6e",
       "words": 3870,
       "estimated_minutes": 25.8,
-      "episode73_authorized": false
+      "episode73_authorized": false,
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "reconciliation": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json"
     }
   ],
-  "prepared_episode": {
-    "change_id": "S7NS_E72_TAKE_CARE_OF_HIM_20261025",
-    "episode_span": [
-      72
-    ],
-    "title": "Take Care of Him",
-    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
-    "author_acceptance": "NOT_ASSERTED",
-    "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
-    "manuscript_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
-    "checkpoint": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
-    "checkpoint_sha256": "34efa6cb26d96881e57e512b216fa317847e1fd9a183f664946664aa2a9d0aff",
-    "outline_coverage": "continuity/episodes/E72/S3_E72_Outline_Coverage_20261025.json",
-    "receipt": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Receipt.json",
-    "drive_manuscript": "1hkieUcekT5pgS5nIIES1C2dlFHag-8XA",
-    "drive_checkpoint": "11XR1CynKg9mIB5Fwm5xE71nCiuxmcx4_",
-    "airtable": "recQEVLVQCnfojV6e",
-    "words": 3870,
-    "estimated_minutes": 25.8,
-    "episode73_authorized": false
-  },
-  "playback_control": "EPISODE72_ONLY_PREPARED_READY_AFTER_FOUR_APP_READBACK",
+  "prepared_episode": null,
+  "playback_control": "AUTHORIZED_EXACT_REPLAY72_ONLY_NO73",
   "latest_scoped_author": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
   "current_author_configuration": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
   "original_manuscripts_or_checkpoints_rewritten": false,
@@ -930,7 +912,7 @@
     ],
     "status": "R7_OUTLINED; OLD_R6_DRAFT_REVISION_REQUIRED_BEFORE_DELIVERY"
   },
-  "next_episode_authorized": true,
+  "next_episode_authorized": false,
   "last_reconciliation_id": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
@@ -1245,7 +1227,7 @@
     "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid.",
     "delivery_reconciliation": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
-  "latest_chat_delivered_episode": 71,
+  "latest_chat_delivered_episode": 72,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -1450,7 +1432,7 @@
   },
   "episode52_authorized": true,
   "preparation_rule": "Episode59 prepared only; render exact reviewed text, reconcile actual delivery next interaction; no author acceptance inferred.",
-  "last_delivered_episode": 71,
+  "last_delivered_episode": 72,
   "prepared_E51_Fetch_R2_20261022": {
     "change_id": "S7NS_E51_FETCH_JESUS_RECOGNITION_R2_20261022",
     "episode_span": [
@@ -1675,7 +1657,7 @@
     },
     "concurrent_preparation_note": "Fresh control files also contain an undelivered Family Business candidate from another preparation. Preserve that record and its artifacts. This chat selects Still Family; no claim is made that another candidate was played or accepted."
   },
-  "current_prepared_episode_count": 1,
+  "current_prepared_episode_count": 0,
   "selected_prepared_response": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
   "continuation_authorization": {
     "status": "DRAFT_GENERATION_AUTHORIZED_PLAY_HELD",
@@ -1720,13 +1702,13 @@
   },
   "playback_hold": "LIFTED_FOR_EXACT70_R2_REPLAY_ONLY; no71",
   "current_playback_request": {
-    "mode": "NEW_EPISODE",
+    "mode": "EXACT_REPLAY",
     "episode_span": [
       72
     ],
-    "author_text": "play ep72.",
-    "latest_quality_direction": "make sure you’re actually following all the outline plans.  dont leave out a single detail",
-    "status": "PREPARED_REVIEWED_SAVED_PENDING_PLAY"
+    "author_text": "play ep72. send whole thing",
+    "new_fictional_time": 0,
+    "episode73_authorized": false
   },
   "prepared_draft_features_60_69": [
     {
@@ -1791,10 +1773,10 @@
       69
     ]
   ],
-  "delivery_reconciliation": "continuity/episodes/E70/CHAT_DELIVERY_RECONCILIATION_E70_R2_20261024.json",
-  "manuscript": "continuity/episodes/E70/S3_E70_Replacement_Parts_R2_20261024.txt",
-  "manuscript_sha256": "d916fa3f0fe700800716d33dfa977e8aba2719a5b369fc3404aac437968d9be9",
-  "checkpoint": "continuity/episodes/E70/S3_E70_Replacement_Parts_R2_20261024_Checkpoint.json",
+  "delivery_reconciliation": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json",
+  "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
+  "manuscript_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
+  "checkpoint": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
   "current_actual_after_E59": {
     "day": 22,
     "time": "evening, no overnight elapsed",
@@ -2019,11 +2001,11 @@
     "runtime": "Approx23–25 minutes/unit at150wpm; estimates only, below25 target in several units; no measured audio or runtime lock",
     "all_season_audit": "unfinished"
   },
-  "manuscript_git_blob_sha1": "9d3deaec98256627c160c80080eca4fe568fe871",
-  "checkpoint_sha256": "26e7583f8f92445e8feef083a1c08b4f894092b9de38efbbabe5fdc45179cff5",
-  "checkpoint_git_blob_sha1": "1d313744533cacf208837151db6722759ec38a1e",
-  "state_owner": "continuity/episodes/E70/CHAT_DELIVERY_RECONCILIATION_E70_R2_20261024.json",
-  "state_rule": "Actual70R2 delivered provisional. Four Dana opponents died on-page in70, no68/69backdating. Current request resends exact saved70R2; zero new time. NextNEW71 not authorized. Acceptance NOT_ASSERTED.",
+  "manuscript_git_blob_sha1": "8bba5fe8ba7bc5c4a028787415cd37edcf2fba51",
+  "checkpoint_sha256": "34efa6cb26d96881e57e512b216fa317847e1fd9a183f664946664aa2a9d0aff",
+  "checkpoint_git_blob_sha1": "bbe907f0cc83f5a1ac2c05e9634ade99e3d6df29",
+  "state_owner": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json",
+  "state_rule": "Actual delivered72 governed by separate reconciliation; frozen prepared checkpoint preserved. Replaying72 advances zero fictional time. Author acceptance NOT_ASSERTED.",
   "current_actual_after_E61": {
     "candidate_only": false,
     "day": 24,
@@ -2128,7 +2110,7 @@
     "delivery_reconciliation": "continuity/features/E64_E65/CHAT_DELIVERY_RECONCILIATION_20261023.json"
   },
   "next_after_prepared_feature": 71,
-  "work_status": "Reviewed Episode72 prepared and saved for explicit single-episode PLAY; actual endpoint71 until full delivery; acceptance NOT_ASSERTED.",
+  "work_status": "Full72 prior delivery reconciled; replay same saved3870word text unchanged.",
   "current_actual_after_E65": {
     "candidate_only": false,
     "elapsed": "Brian strand: three mornings since64 poster burning; leaves water stop with Jar Jar/northbound travelers at noon. Coastal strand separate; no exact synchronization/day number invented.",
@@ -3329,7 +3311,28 @@
     "airtable": "recQEVLVQCnfojV6e",
     "words": 3870,
     "estimated_minutes": 25.8,
-    "episode73_authorized": false
+    "episode73_authorized": false,
+    "current_delivery_status": "DELIVERED_PROVISIONAL",
+    "reconciliation": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json"
   },
-  "work_resume_checkpoint_latest": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json"
+  "work_resume_checkpoint_latest": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
+  "current_actual_after_E72": {
+    "Dana": "Baseline inside BELLY, recovering split lip/side/ribs/back; no healing reset. Kahuhu explicitly taken off and placed within reach by feet; shortgun unchanged from actual71 carried interior, not fired/moved in72. Holds game controller at end, pauses voluntarily. No new real combat.",
+    "Hulk": "Alive, selected amplified state under encounter-specific exception; regenerating observed injuries, last holding baby at ruined pavilion. Not conclusively defeated/killed, no forgiveness or permanent equal-stats conclusion. No indefinite future amplification duration invented.",
+    "baby": "Single green baby from torn shoulder flesh, Dada claim to Dana; stands, cracks ledge, bites gauntlet rim, tears rail. No name, objective paternity proof, adoption agreement or universal reproduction power. Last held by Hulk.",
+    "venue": "Pavilion footing cratered; roof off supports now fallen; two stoneweights, one rolled into steps. Quarry shed/blocks/wall destroyed; headland collapse/coastal cleft flooded. Harbor broken windows/roof, one visibly breathing injured person carried out; no death total invented. Original70corpses/remains stay within altered site, no revival/burial claimed. Reinforced coffin base survives leveled as cradle; newly installed rail broken; baby repeatedly strikes base without breaking bottom.",
+    "Chris_Billy_Arthur": "Chris stays inside, Billy sole exterior at ropewalk broad stone with own banjo, Arthur beside him. Exterior monitor volume restored. Chris learns baby came from Hulk shoulder and claims Dana's paternity; no full fight knowledge. Chris relays Dana's lag insult explicitly through banjo and later transmits only own replies; route closed at end. Brian heard actual Chris, not Dana/Wade. Subaru untouched/no repair.",
+    "Eyeholes": "Meatwad already-open box, broken cereal shared with Chris without assault under BELLY exemption. Device still silent carried; no new remote signal, company portrait or job yet. Finite stock unquantified.",
+    "game": "Virtual stagecoach passengers rescued/four attackers killed, bodies unlooted. Current replay save reaches familiar SaintDenis TB diagnosis; Chris preserves older save in separate slot by consent. Meal/camp/ride, accidental horse/tree ragdoll, Arthur recovers. Later visible frame freeze causes death; restart and successful tactical retry. Ends idle in grass. Living cured/cybernetic Arthur outside unchanged; game events not real casualties/cash.",
+    "carried": "70end governs offstage cast; no new day synchronization or Brian dusk rewind. Common2851, Daniel110 separate, Kaze0, Brian3silver lastknown. No actual game money transfer. Richard/Bob/Pinocchio/KoolAid remain dead.",
+    "remaining": "Mutation exact package OPEN, portrait promotion and first Brian Eyeholes assault pending before space sequence; all older Runeterra units7–19 retained and access must reconcile before departure. Episode73 not authorized.",
+    "Brian_JarJar": "At actual dusk both leave68 drinking stand, walk detour around damaged lane to ropewalk. JarJar catches stumbling Brian, continues independently to inquire at landing office. Brian argues with Chris via Billy banjo, proves basic rhythm, shows authentic folded journal; then walks after JarJar. No paid room, mutation, new power, saber use, expenditure or actual Eyeholes assault."
+  },
+  "delivered_E72": {
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "reconciliation": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json",
+    "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
+    "sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b"
+  }
 }
