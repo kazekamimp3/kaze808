@@ -1,0 +1,54 @@
+{
+  "schema": "S7NS_EXACT_REPLAY_READBACK_V1",
+  "episode": 73,
+  "title": "Face Value",
+  "reconciliation": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json",
+  "manuscript_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
+  "checkpoint_sha256": "7770b177b75bace87d35a0f5072e36d864bced8bdfce8f246b2e57a467ff1904",
+  "delivery_status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "new_fictional_time": 0,
+  "episode74_authorized": false,
+  "review": "Existing full whole-draft read/source repairs/final reread reused; exact manuscript unchanged. Live outline unchanged since reviewed preparation before this delivery-label reconciliation.",
+  "GitHub": {
+    "exact_readbacks": [
+      {
+        "path": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json",
+        "sha": "25169ade4e701961747bd8b19e77f26d0c94eb7f",
+        "exact": true
+      },
+      {
+        "path": "continuity/CURRENT.json",
+        "sha": "b96f8142609efd966fd69a3511c4e92aaf196836",
+        "exact": true
+      },
+      {
+        "path": "continuity/DELIVERY_LEDGER.json",
+        "sha": "f81166b5b43b744d0c395efb5f8b536ebc59f6d6",
+        "exact": true
+      },
+      {
+        "path": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+        "sha": "45f2faa82bd4e6c8e1f6abd7f6a9456aa2ee2299",
+        "exact": true
+      }
+    ],
+    "original_frozen_pair_unchanged": true
+  },
+  "Drive": {
+    "manuscript": "1HqG1078LY9tyVFKBA7aVlBHpwCfQI46u",
+    "checkpoint": "1EbHyvHicJ4vPyX9aaahcdLiqM16ArnfX",
+    "both_exact_with_local_and_GitHub": true
+  },
+  "Airtable": {
+    "record": "recAGgjRXx8dvE7jt",
+    "delivery_status_readback": true,
+    "hash_unchanged": true
+  },
+  "Notion": {
+    "page": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "reconciled_delivery_and_prior_history_readback": true
+  },
+  "chat_identity": "Visible full prior deliveries observed; no machine byte comparison with rendered chat claimed.",
+  "library_original_reviewed_package": "libfile_2d819f480d748191984e79bc859534ba"
+}
