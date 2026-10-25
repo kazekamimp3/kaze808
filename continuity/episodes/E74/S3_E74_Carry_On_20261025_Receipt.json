@@ -1,0 +1,74 @@
+{
+  "schema": "S7NS_FOUR_APP_RELEASE_RECEIPT_V1",
+  "change_id": "S7NS_E74_CARRY_ON_20261025",
+  "episode": 74,
+  "title": "Carry-On",
+  "status": "REVIEWED_READY_FOR_EXACT_FULL_CHAT_RELEASE",
+  "author_acceptance": "NOT_ASSERTED",
+  "actual_delivery_at_receipt": "NOT_YET_OCCURRED; actual73 remains current until full74 response",
+  "episode75_authorized": false,
+  "record": {
+    "episode": 74,
+    "change_id": "S7NS_E74_CARRY_ON_20261025",
+    "episode_span": [
+      74
+    ],
+    "title": "Carry-On",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E74/S3_E74_Carry_On_20261025.txt",
+    "manuscript_sha256": "5b030934581391052229b42efc0b5765c8bf427f6d6f875943463674ddffba10",
+    "manuscript_git_blob_sha1": "a89155c3d967a44e314c41e5bd5ad85677e5eff5",
+    "checkpoint": "continuity/episodes/E74/S3_E74_Carry_On_20261025_Checkpoint.json",
+    "checkpoint_sha256": "2dece65725150bad5d2a66127c3ea07f6e484d4638dfc96a3ba945b96a3c0eeb",
+    "checkpoint_git_blob_sha1": "7a192d20a5086f59f23325b3797c5d8b56b0efff",
+    "receipt": "continuity/episodes/E74/S3_E74_Carry_On_20261025_Receipt.json",
+    "drive_manuscript": "1U3k7sVFRqEgifRg0z9E_d-MB--8AYNoc",
+    "drive_checkpoint": "1-2Em4UL1NwVf2F0QH3kofyL3BFhDJH5q",
+    "airtable": "recIlkE5EbfiEAEqp",
+    "words": 3903,
+    "estimated_minutes": 26.02,
+    "episode75_authorized": false,
+    "review": "continuity/episodes/E74/S3_E74_Review_20261025.md"
+  },
+  "github": {
+    "pair": "full fetch matches local final strings exactly; SHA256 validated local",
+    "manuscript_blob": "a89155c3d967a44e314c41e5bd5ad85677e5eff5",
+    "checkpoint_blob": "7a192d20a5086f59f23325b3797c5d8b56b0efff",
+    "current_blob": "77d8bb56a08bd3ec773813dbcb6f9b8370d00803",
+    "ledger_blob": "20db1f0e0d408b73add22e884cde2990f89f0f86",
+    "outline_blob": "fd82a9cb68feb2df1d292d5bf5bcc87e61ef6498",
+    "router_full_readbacks_match": true,
+    "R21_duels_Darkin_preserved": true
+  },
+  "drive": {
+    "manuscript": "1U3k7sVFRqEgifRg0z9E_d-MB--8AYNoc",
+    "checkpoint": "1-2Em4UL1NwVf2F0QH3kofyL3BFhDJH5q",
+    "raw_base64_decoded": true,
+    "both_byte_identical_to_local": true
+  },
+  "airtable": {
+    "base": "appKCCr9zg0rsfbOI",
+    "table": "tblWgCrRZlvAFxcnH",
+    "record": "recIlkE5EbfiEAEqp",
+    "fresh_readback_verified": true,
+    "status": "PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED"
+  },
+  "notion": {
+    "index": "3fd4e1b7-29b3-817c-a530-d91a167c9f1a",
+    "prep_entry_fresh_readback_verified": true,
+    "manuscript_hash_visible": true,
+    "prior73andhistory_preserved": true
+  },
+  "review": {
+    "whole_original_read": true,
+    "source_specific_repairs_applied": true,
+    "whole_final_reread": true,
+    "prose_edits_after_final_reread": false,
+    "words": 3903,
+    "estimated_minutes_150wpm": 26.02,
+    "audio_generated_or_timed": false
+  },
+  "delivery_reconciliation_policy": "Do not call preparation actual delivery. Next recovery may reconcile this exact full response only after it exists; no author acceptance implied.",
+  "retained_pending": "All pre-existing R21units7–19/source gates retained, sequence5partial acquisition only. No75."
+}
