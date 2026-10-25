@@ -3,7 +3,15 @@
   "change_id": "S7NS_CINEMATIC_COMBAT_FIDELITY_OUTLINE_R21_20261024",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "status": "ACTUAL73_DELIVERED_PROVISIONAL_EXACT_REPLAY73_AUTHORIZED_NO74",
-  "current_control": "S7NS_E73_CHAT_DELIVERY_RECONCILIATION_20261025",
+  "current_control": {
+    "latest_actual_episode": 73,
+    "next_new_episode": 74,
+    "prepared_episode": 74,
+    "episode74_authorized": true,
+    "episode75_authorized": false,
+    "author_acceptance": "NOT_ASSERTED",
+    "scope": "Latest user check outline and play ep74. Existing current73 reconciliation unchanged;74prepared only until full delivery."
+  },
   "state_owner": "continuity/episodes/E71/CHAT_DELIVERY_RECONCILIATION_E71_20261025.json",
   "current_actual_after_E58": {
     "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
@@ -2144,8 +2152,8 @@
     "latest_author_addition": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
     "training_selection": "AUTHOR_SELECTED_COMPACT_PSYCHOMETRY_FOR_REVISION; NOT_YET_ENACTED"
   },
-  "playback_hold": true,
-  "work_status": "Actual71 DELIVERED_PROVISIONAL;72 reviewed/prepared for explicit PLAY only. No73. Acceptance NOT_ASSERTED.",
+  "playback_hold": false,
+  "work_status": "74 full draft/read/repairs/final reread completed; paired files saved, release verification underway. Actual73 remains last delivered until exact full74 chat response. No75.",
   "prior_active_revision_before_R10": {
     "episode_span": [
       64,
@@ -2564,7 +2572,8 @@
       "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
       "construction": "Han outplayed, Chewie present and permanently injured by Billy as selected; fit accommodation enacted. Kaze GTA lesson, alternate Hawking collision/death, selected insurance-chair twist, later FUCK NO callback.",
       "detail_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
-      "execution_status": "PENDING_WITH_OLDER_RUNETERRA_ACCESS_GATES"
+      "execution_status": "FALCON_ACQUISITION_PREPARED_E74_NOT_YET_DELIVERED; LESSON_ALTERNATE_HAWKING_AND_DEPARTURE_PENDING",
+      "prepared_acquisition_record": "continuity/episodes/E74/S3_E74_Carry_On_20261025_Checkpoint.json"
     },
     {
       "sequence": 6,
@@ -2900,5 +2909,67 @@
     "Chris_injuries": "Burnedforearmcutfromrealblade; hip/ribbruiseagainstbrokenwashstand, shoulderhitbyjug. Maskblockedbasin/fistphysically; nosaberproofarmor, Forceimmunityorinstanthealing. Endinsideusingcloth, healingmayprogressnormally. Guns/riflecarriedbutnofire, noammunitionexpended.",
     "vehicle": "SamebluegoldSubaru transforms onclearapron, shortlocalX-wingout/backoverbrokenlane toofficeapron. R2physicallybesidecar, willinglyjoins; Chrisguidespassengercradle, continuousaftsockettransferandback, helpsR2outafterreturn. R2independentbeeps/disapproval, noEnglishtranslation/autopilotnewpower. No weapons/overdrive/hyperspace. Missingmirror/starredglass/tornwingprior damagepersists, norepair/refill/recall. Fuelusedunquantified. LastSubaruparkedclearloadingapron,R2outside."
   },
-  "latest_delivery_reconciliation": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json"
+  "latest_delivery_reconciliation": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json",
+  "as_of": "2026-10-25",
+  "episode74_authorized": true,
+  "episode75_authorized": false,
+  "current_playback_request": {
+    "mode": "NEW_SINGLE_EPISODE_PLAY",
+    "episode_span": [
+      74
+    ],
+    "author_text": "check outline and play ep74.",
+    "status": "AUTHORIZED_PREPARED_REVIEWED_SAVED_DELIVERY_PENDING",
+    "episode75_authorized": false
+  },
+  "prepared_E74_Carry_On_20261025": {
+    "episode": 74,
+    "change_id": "S7NS_E74_CARRY_ON_20261025",
+    "episode_span": [
+      74
+    ],
+    "title": "Carry-On",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E74/S3_E74_Carry_On_20261025.txt",
+    "manuscript_sha256": "5b030934581391052229b42efc0b5765c8bf427f6d6f875943463674ddffba10",
+    "manuscript_git_blob_sha1": "a89155c3d967a44e314c41e5bd5ad85677e5eff5",
+    "checkpoint": "continuity/episodes/E74/S3_E74_Carry_On_20261025_Checkpoint.json",
+    "checkpoint_sha256": "2dece65725150bad5d2a66127c3ea07f6e484d4638dfc96a3ba945b96a3c0eeb",
+    "checkpoint_git_blob_sha1": "7a192d20a5086f59f23325b3797c5d8b56b0efff",
+    "receipt": "continuity/episodes/E74/S3_E74_Carry_On_20261025_Receipt.json",
+    "drive_manuscript": "1U3k7sVFRqEgifRg0z9E_d-MB--8AYNoc",
+    "drive_checkpoint": "1-2Em4UL1NwVf2F0QH3kofyL3BFhDJH5q",
+    "airtable": "recIlkE5EbfiEAEqp",
+    "words": 3903,
+    "estimated_minutes": 26.02,
+    "episode75_authorized": false,
+    "review": "continuity/episodes/E74/S3_E74_Review_20261025.md"
+  },
+  "prior_control_before_E74": "S7NS_E73_CHAT_DELIVERY_RECONCILIATION_20261025",
+  "prepared_E74": {
+    "episode": 74,
+    "change_id": "S7NS_E74_CARRY_ON_20261025",
+    "episode_span": [
+      74
+    ],
+    "title": "Carry-On",
+    "status": "PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E74/S3_E74_Carry_On_20261025.txt",
+    "manuscript_sha256": "5b030934581391052229b42efc0b5765c8bf427f6d6f875943463674ddffba10",
+    "manuscript_git_blob_sha1": "a89155c3d967a44e314c41e5bd5ad85677e5eff5",
+    "checkpoint": "continuity/episodes/E74/S3_E74_Carry_On_20261025_Checkpoint.json",
+    "checkpoint_sha256": "2dece65725150bad5d2a66127c3ea07f6e484d4638dfc96a3ba945b96a3c0eeb",
+    "checkpoint_git_blob_sha1": "7a192d20a5086f59f23325b3797c5d8b56b0efff",
+    "receipt": "continuity/episodes/E74/S3_E74_Carry_On_20261025_Receipt.json",
+    "drive_manuscript": "1U3k7sVFRqEgifRg0z9E_d-MB--8AYNoc",
+    "drive_checkpoint": "1-2Em4UL1NwVf2F0QH3kofyL3BFhDJH5q",
+    "airtable": "recIlkE5EbfiEAEqp",
+    "words": 3903,
+    "estimated_minutes": 26.02,
+    "episode75_authorized": false,
+    "review": "continuity/episodes/E74/S3_E74_Review_20261025.md"
+  },
+  "latest_E74_outline_application": "Sequence5 acquisition prepared74: real theft, scopedChewieinjury,Hanresistance,wholeFalconintake/crampedfit; no flight/lesson/space departure. Older R21units7–19,duels/Darkin/access gates retained unmodified."
 }
