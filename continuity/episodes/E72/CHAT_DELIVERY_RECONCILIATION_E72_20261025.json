@@ -1,0 +1,40 @@
+{
+  "change_id": "S7NS_E72_DELIVERY_RECONCILIATION_REPLAY_20261025",
+  "episode": 72,
+  "title": "Take Care of Him",
+  "status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "basis": "The preceding complete visible assistant final runs from the single Episode72 title through terminal They let it. Latest request explicitly asks replay72 whole thing. This records the already completed prior delivery, not a promise about the forthcoming replay.",
+  "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
+  "manuscript_sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
+  "checkpoint": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025_Checkpoint.json",
+  "checkpoint_sha256": "34efa6cb26d96881e57e512b216fa317847e1fd9a183f664946664aa2a9d0aff",
+  "original_checkpoint_policy": "Frozen PREPARED checkpoint retained unchanged; this separate reconciliation establishes delivered status.",
+  "actual_end_state": {
+    "Dana": "Baseline inside BELLY, recovering split lip/side/ribs/back; no healing reset. Kahuhu explicitly taken off and placed within reach by feet; shortgun unchanged from actual71 carried interior, not fired/moved in72. Holds game controller at end, pauses voluntarily. No new real combat.",
+    "Hulk": "Alive, selected amplified state under encounter-specific exception; regenerating observed injuries, last holding baby at ruined pavilion. Not conclusively defeated/killed, no forgiveness or permanent equal-stats conclusion. No indefinite future amplification duration invented.",
+    "baby": "Single green baby from torn shoulder flesh, Dada claim to Dana; stands, cracks ledge, bites gauntlet rim, tears rail. No name, objective paternity proof, adoption agreement or universal reproduction power. Last held by Hulk.",
+    "venue": "Pavilion footing cratered; roof off supports now fallen; two stoneweights, one rolled into steps. Quarry shed/blocks/wall destroyed; headland collapse/coastal cleft flooded. Harbor broken windows/roof, one visibly breathing injured person carried out; no death total invented. Original70corpses/remains stay within altered site, no revival/burial claimed. Reinforced coffin base survives leveled as cradle; newly installed rail broken; baby repeatedly strikes base without breaking bottom.",
+    "Chris_Billy_Arthur": "Chris stays inside, Billy sole exterior at ropewalk broad stone with own banjo, Arthur beside him. Exterior monitor volume restored. Chris learns baby came from Hulk shoulder and claims Dana's paternity; no full fight knowledge. Chris relays Dana's lag insult explicitly through banjo and later transmits only own replies; route closed at end. Brian heard actual Chris, not Dana/Wade. Subaru untouched/no repair.",
+    "Eyeholes": "Meatwad already-open box, broken cereal shared with Chris without assault under BELLY exemption. Device still silent carried; no new remote signal, company portrait or job yet. Finite stock unquantified.",
+    "game": "Virtual stagecoach passengers rescued/four attackers killed, bodies unlooted. Current replay save reaches familiar SaintDenis TB diagnosis; Chris preserves older save in separate slot by consent. Meal/camp/ride, accidental horse/tree ragdoll, Arthur recovers. Later visible frame freeze causes death; restart and successful tactical retry. Ends idle in grass. Living cured/cybernetic Arthur outside unchanged; game events not real casualties/cash.",
+    "carried": "70end governs offstage cast; no new day synchronization or Brian dusk rewind. Common2851, Daniel110 separate, Kaze0, Brian3silver lastknown. No actual game money transfer. Richard/Bob/Pinocchio/KoolAid remain dead.",
+    "remaining": "Mutation exact package OPEN, portrait promotion and first Brian Eyeholes assault pending before space sequence; all older Runeterra units7–19 retained and access must reconcile before departure. Episode73 not authorized.",
+    "Brian_JarJar": "At actual dusk both leave68 drinking stand, walk detour around damaged lane to ropewalk. JarJar catches stumbling Brian, continues independently to inquire at landing office. Brian argues with Chris via Billy banjo, proves basic rhythm, shows authentic folded journal; then walks after JarJar. No paid room, mutation, new power, saber use, expenditure or actual Eyeholes assault."
+  },
+  "replay": {
+    "episode_span": [
+      72
+    ],
+    "exact_saved_text": true,
+    "new_fictional_time": 0,
+    "episode73_authorized": false
+  },
+  "verification": {
+    "github": "Fresh reviewed manuscript fetched; exact equality with local full read and matching sha256. Full943line text reread unchanged.",
+    "drive": "Fresh complete original manuscript raw bytes decoded and equal to local text; frozen original pair retained, no duplicate upload.",
+    "airtable": "Affected episode72 row fetched; will reconcile prior full delivery then read back.",
+    "notion": "Existing production index fetched; prepend prior-delivery/replay entry then read back."
+  },
+  "chat_byte_identity": "Visible complete response inspected; no machine-readable chat byte extraction claimed."
+}
