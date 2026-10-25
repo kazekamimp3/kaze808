@@ -2,8 +2,8 @@
   "schema": "S7NS_CONNECTED_DELIVERY_LEDGER_V1",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "manifest_sha256": "6bd2e87d866cdf2c19b0db38ee45ebaef8a708a83919a2b141d733",
-  "current_delivered_episode": 72,
-  "next_episode": 73,
+  "current_delivered_episode": 73,
+  "next_episode": 74,
   "acceptance_policy": "Delivery and continuation authorization do not imply author acceptance. Original prepared checkpoints remain unchanged. E33 chat rendering has a flagged repeated-text defect, not repeated story action.",
   "preserved_complete_prior_ledger": {
     "repository_full_name": "kazekamimp3/kaze808",
@@ -849,32 +849,35 @@
       "episode73_authorized": false,
       "delivery_status": "DELIVERED_PROVISIONAL",
       "reconciliation": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json"
+    },
+    {
+      "episode": 73,
+      "change_id": "S7NS_E73_FACE_VALUE_20261025",
+      "episode_span": [
+        73
+      ],
+      "title": "Face Value",
+      "status": "DELIVERED_PROVISIONAL",
+      "author_acceptance": "NOT_ASSERTED",
+      "manuscript": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
+      "manuscript_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
+      "checkpoint": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
+      "checkpoint_sha256": "7770b177b75bace87d35a0f5072e36d864bced8bdfce8f246b2e57a467ff1904",
+      "author_scope": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+      "receipt": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Receipt.json",
+      "drive_manuscript": "1HqG1078LY9tyVFKBA7aVlBHpwCfQI46u",
+      "drive_checkpoint": "1EbHyvHicJ4vPyX9aaahcdLiqM16ArnfX",
+      "airtable": "recAGgjRXx8dvE7jt",
+      "author_decision_airtable": "rec4VBjOL4GVOKhLx",
+      "words": 3883,
+      "estimated_minutes": 25.89,
+      "episode74_authorized": false,
+      "delivery_status": "DELIVERED_PROVISIONAL",
+      "reconciliation": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json"
     }
   ],
-  "prepared_episode": {
-    "episode": 73,
-    "change_id": "S7NS_E73_FACE_VALUE_20261025",
-    "episode_span": [
-      73
-    ],
-    "title": "Face Value",
-    "status": "PREPARED_REVIEWED_SAVED_NOT_YET_DELIVERED",
-    "author_acceptance": "NOT_ASSERTED",
-    "manuscript": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
-    "manuscript_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
-    "checkpoint": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
-    "checkpoint_sha256": "7770b177b75bace87d35a0f5072e36d864bced8bdfce8f246b2e57a467ff1904",
-    "author_scope": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
-    "receipt": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Receipt.json",
-    "drive_manuscript": "1HqG1078LY9tyVFKBA7aVlBHpwCfQI46u",
-    "drive_checkpoint": "1EbHyvHicJ4vPyX9aaahcdLiqM16ArnfX",
-    "airtable": "recAGgjRXx8dvE7jt",
-    "author_decision_airtable": "rec4VBjOL4GVOKhLx",
-    "words": 3883,
-    "estimated_minutes": 25.89,
-    "episode74_authorized": false
-  },
-  "playback_control": "AUTHORIZED_SINGLE73_ONLY_AFTER_REVIEW_SAVE_AND_FOUR_APP_READBACK_NO74",
+  "prepared_episode": null,
+  "playback_control": "AUTHORIZED_EXACT_REPLAY73_ONLY_NO74",
   "latest_scoped_author": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
   "current_author_configuration": "continuity/author/S7NS_E55_Deadpool_Bounded_Knowledge_No_Mystery_Spoilers_20261022.md",
   "original_manuscripts_or_checkpoints_rewritten": false,
@@ -934,8 +937,8 @@
     ],
     "status": "R7_OUTLINED; OLD_R6_DRAFT_REVISION_REQUIRED_BEFORE_DELIVERY"
   },
-  "next_episode_authorized": true,
-  "last_reconciliation_id": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json",
+  "next_episode_authorized": false,
+  "last_reconciliation_id": "S7NS_E73_CHAT_DELIVERY_RECONCILIATION_20261025",
   "latest_post_delivery_editorial_owner": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
   "latest_editorial_review": "continuity/editorial/S7NS_R10_KK_Billy_Clifford_Speech_Biology_Application_20261020.md",
   "episode_count_unchanged": true,
@@ -1249,7 +1252,7 @@
     "scope": "Explicit PLAYepisode45 overrides2-unitdefault. Focused revision of cartreturn/DrEvil/Brian portion of alreadydelivered45–46, not new47 and not repeated delivery/income. Other45–46 events remain valid.",
     "delivery_reconciliation": "continuity/episodes/E45/R2_CHAT_DELIVERY_RECONCILIATION_20261022.json"
   },
-  "latest_chat_delivered_episode": 72,
+  "latest_chat_delivered_episode": 73,
   "prepared_E46_The_Upper_Road_R2_20261022": {
     "change_id": "S7NS_E46_THE_UPPER_ROAD_R2_20261022",
     "episode_span": [
@@ -3380,5 +3383,30 @@
     "estimated_minutes": 25.89,
     "episode74_authorized": false
   },
-  "episode74_authorized": false
+  "episode74_authorized": false,
+  "delivered_E73": {
+    "episode": 73,
+    "change_id": "S7NS_E73_FACE_VALUE_20261025",
+    "episode_span": [
+      73
+    ],
+    "title": "Face Value",
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
+    "manuscript_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
+    "checkpoint": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
+    "checkpoint_sha256": "7770b177b75bace87d35a0f5072e36d864bced8bdfce8f246b2e57a467ff1904",
+    "author_scope": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+    "receipt": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Receipt.json",
+    "drive_manuscript": "1HqG1078LY9tyVFKBA7aVlBHpwCfQI46u",
+    "drive_checkpoint": "1EbHyvHicJ4vPyX9aaahcdLiqM16ArnfX",
+    "airtable": "recAGgjRXx8dvE7jt",
+    "author_decision_airtable": "rec4VBjOL4GVOKhLx",
+    "words": 3883,
+    "estimated_minutes": 25.89,
+    "episode74_authorized": false,
+    "delivery_status": "DELIVERED_PROVISIONAL",
+    "reconciliation": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json"
+  }
 }
