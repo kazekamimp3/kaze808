@@ -2,18 +2,18 @@
   "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
   "as_of": "2026-10-24",
-  "last_delivered_episode": 68,
-  "next_episode": 69,
+  "last_delivered_episode": 69,
+  "next_episode": 70,
   "delivery_status": "DELIVERED_PROVISIONAL",
   "author_acceptance": "NOT_ASSERTED",
   "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
-  "delivery_reconciliation": "continuity/episodes/E68/CHAT_DELIVERY_RECONCILIATION_E68_R2_20261024.json",
-  "manuscript": "continuity/episodes/E68/S3_E68_Constructive_Criticism_R2_20261024.txt",
-  "manuscript_git_blob_sha1": "73d953450b30d72ceb7aa98167c8efc67d733d59",
-  "manuscript_sha256": "f2e71a9d5a79c2604a9ddf329600f74cc9ef456dbffb4cb24efc5f247ca8cfdb",
-  "checkpoint": "continuity/episodes/E68/S3_E68_Constructive_Criticism_R2_20261024_Checkpoint.json",
-  "state_owner": "continuity/episodes/E68/CHAT_DELIVERY_RECONCILIATION_E68_R2_20261024.json",
-  "state_rule": "Actual68R2 delivered provisional. Exact69 prepared for current explicit PLAY69ONLY; do not mark delivered until complete response exists. Parallel Dana strand resumes last pavilion observation. Original68 and unplayed67R23 preserved separately. No70 authorization.",
+  "delivery_reconciliation": "continuity/episodes/E69/CHAT_DELIVERY_RECONCILIATION_E69_20261024.json",
+  "manuscript": "continuity/episodes/E69/S3_E69_One_More_20261024.txt",
+  "manuscript_git_blob_sha1": "9cfffca1ea3ea5ae9a939fd27951f58d72d2dd05",
+  "manuscript_sha256": "5e5e40d8127293cfc7fe83bcfbef84c2720a045df9e650186c3df96ce58b943e",
+  "checkpoint": "continuity/episodes/E69/S3_E69_One_More_20261024_Checkpoint.json",
+  "state_owner": "continuity/episodes/E69/CHAT_DELIVERY_RECONCILIATION_E69_20261024.json",
+  "state_rule": "Actual69 delivered provisional from complete preceding chat; author acceptance NOT_ASSERTED.70R2 fatal revision prepared and verified for explicit PLAY70ONLY; candidate deaths happen only in70complete response, never backdated68/69. No71PLAY. Prior unplayed70draft superseded/preserved; actual67R21 and68R2 unchanged.",
   "complete_previous_current_record": {
     "repository_full_name": "kazekamimp3/kaze808",
     "path": "continuity/CURRENT.json",
@@ -63,7 +63,27 @@
     "outline_authority": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
-  "prepared_episode": null,
+  "prepared_episode": {
+    "change_id": "S7NS_E70_REPLACEMENT_PARTS_R2_PLAY_20261024",
+    "episode_span": [
+      70
+    ],
+    "title": "Replacement Parts",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E70/S3_E70_Replacement_Parts_R2_20261024.txt",
+    "manuscript_sha256": "d916fa3f0fe700800716d33dfa977e8aba2719a5b369fc3404aac437968d9be9",
+    "checkpoint": "continuity/episodes/E70/S3_E70_Replacement_Parts_R2_20261024_Checkpoint.json",
+    "receipt": "continuity/episodes/E70/S3_E70_Replacement_Parts_R2_20261024_Receipt.json",
+    "review": "Complete draft read, scoped author fatality repair, complete R2 first read and full final reread",
+    "word_count": 4223,
+    "assumed_wpm": 150,
+    "estimated_minutes": 28.15,
+    "airtable_record": "recG8mpjPeWktdLNy",
+    "drive_manuscript": "1ONhAgAvpxLM2NJpI9AcGCQk0jLkFL--n",
+    "drive_checkpoint": "1uY3KSvuDiQGeVvHoTIeBd_Q8F3_DfM0T",
+    "episode71_authorized": false
+  },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
@@ -106,7 +126,7 @@
   "feature_E33_E35_directors_cut_audit": "continuity/editorial/E33_E35_Under_New_Management_Feature_Directors_Cut_Audit_20261019.md",
   "current_four_app_substantive_brainstorm_PLAY_workflow": "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
   "workflow_contract_observed_blob_sha1": "0d06c7e6c0cde5bccbccd283f1da43176d044b3e",
-  "work_status": "Effective68R2 reconciled delivered provisional; Episode69 One More whole-reviewed, saved, four-app readbacks verified, pending actual final response. No70; acceptance NOT_ASSERTED.",
+  "work_status": "69actual delivery reconciled;70R2 whole-reviewed after direct lethal finish correction, exact paired save/four-app readbacks, pending final response. No71; acceptance NOT_ASSERTED.",
   "work_resume_checkpoint_latest": "continuity/work/S7NS_EYEHOLES_DUELS_SPACE_20261024_Installation.json",
   "work_change_id": "S7NS_EYEHOLES_DUELS_SPACE_20261024",
   "historical_prior_milk_checkpoint": "continuity/work/RESUME_CHECKPOINT_E35_CHRIS_MILK_FOUR_APP_QAPX_20261019.json",
@@ -296,9 +316,9 @@
   "latest_R9_author_owner": "continuity/author/S7NS_R9_Two_Episode_Play_Default_After_R8_20261020.md",
   "completed_revised_feature": "E36_E38_TWO_THREADS_BILLY_R2_FULL_CHAT_DELIVERED_PROVISIONAL",
   "latest_prepared_feature_E39_E40": "continuity/features/E39_E40/S3_E39_E40_A_Place_To_Wait_R2_Checkpoint_20261021.json",
-  "current_prepared_episode_count": 0,
-  "current_prepared_drive_id": "1rqxEn8UYi0INi1j-BvfYTr4lOYKT9V2h",
-  "current_prepared_full_sha256": "a615f876363b1c69ae02f2fe26d23a7b6c445ee0c0fde7df8d778c9f09257993",
+  "current_prepared_episode_count": 1,
+  "current_prepared_drive_id": "1ONhAgAvpxLM2NJpI9AcGCQk0jLkFL--n",
+  "current_prepared_full_sha256": "d916fa3f0fe700800716d33dfa977e8aba2719a5b369fc3404aac437968d9be9",
   "authorial_fidelity_v1_1": {
     "change_id": "S7NS_AUTHORIAL_FIDELITY_ACTIVE_COMEDY_V11_20261020",
     "selection": "AUTHOR_SELECTED_BY_EXPLICIT_ESKETIT",
@@ -556,7 +576,7 @@
     },
     "delivery_reconciliation": "continuity/features/E36_E38/R2_CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "checkpoint_git_blob_sha1": "c719f39bd220075bdafd637c66fd32271679be34",
+  "checkpoint_git_blob_sha1": "6f173bb09fe98e97f4d1c60596d6e1ac4425e31d",
   "prepared_E39_E40_A_Place_To_Wait_R2_20261021": {
     "change_id": "S7NS_E39_E40_PREPARED_AFTER_SHITTY_WALL_R2_20261021",
     "episode_span": [
@@ -1204,7 +1224,7 @@
     "next_action": "Complete previous49chat observed; frozenpreparationCP unchanged.",
     "delivery_reconciliation": "continuity/episodes/E49/CHAT_DELIVERY_RECONCILIATION_20261021.json"
   },
-  "latest_direct_author_scope_git_blob_sha1": "471e423023cccd99b41d7d1f7b70f46b7b9f26b5",
+  "latest_direct_author_scope_git_blob_sha1": "afa742b2d5b74cd914e29b713d0b236cb74de874",
   "latest_E49_character_application": {
     "owner": "continuity/author/S7NS_E49_Dana_Brian_BELLY_Public_Chaos_20261021.md",
     "status": "AUTHOR_SELECTED_PORTRAYAL",
@@ -1389,7 +1409,7 @@
     "detailed_construction": "PROPOSED"
   },
   "work_receipt": "continuity/work/S7NS_Cumulative_Replacement_Patch_Resume_20261022.json",
-  "current_prepared_episode_count_note": "66–67 already delivered; replay uses existing saved pair. No new68 prepared by this request.",
+  "current_prepared_episode_count_note": "70R2 only prepared;69actualdelivered. No71 authorized.",
   "latest_relationship_TTS_application": {
     "change_id": "S7NS_POST_E50_TTS_FACTION_BEEF_BRIAN_REBALANCE_20261021",
     "owner": "continuity/author/S7NS_Post_E50_TTS_Faction_Beef_Brian_Rebalance_20261021.md",
@@ -1794,7 +1814,7 @@
     "meeting_status": "E52_DELIVERED_PROVISIONAL",
     "actual_checkpoint": "continuity/episodes/E52/S3_E52_Eye_Contact_Checkpoint_20261022.json"
   },
-  "playback_hold": "LIFTED_FOR_EXPLICIT_NEW69_ONLY; no70",
+  "playback_hold": "LIFTED_FOR_EXPLICIT_NEW70_R2_ONLY; no71",
   "latest_Brian_petty_comedy_approval": {
     "change_id": "S7NS_BRIAN_PETTY_COMEDY_LOCK_R2_20261022",
     "owner": "continuity/author/S7NS_Brian_Height_Journal_Chair_20261022.md",
@@ -1999,7 +2019,7 @@
       "other_threads": "53foremanrefuge/helpwithdrawalandSwainpublic-information/paymasterorderspersist. Capitalordersnotinstantlyreachharbororquarry. Orrahiddenplateunresolved. Frylock/Shake/Meatwad/Charlesremainaliveinside; theirfuturefatality/exitsnotrushed. KekeDanielandotherdeadremain; romanceOFF/Briaroff/Teemoerased/ZidnotSin."
     }
   },
-  "next_after_prepared_feature": 66,
+  "next_after_prepared_feature": 71,
   "preserved_single53_preparation": {
     "manuscript": "continuity/episodes/E53/S3_E53_Off_the_Record_FINAL_20261022.txt",
     "checkpoint": "continuity/episodes/E53/S3_E53_Off_the_Record_Checkpoint_20261022.json",
@@ -2140,7 +2160,7 @@
     "terrain": "Transfer yard gallery/wagon damaged. Bridge middle destroyed by defensive mage, gatehouse/three-arch aqueduct demolished by Kaze. Water spill alters road; remains impassable to ordinary traffic without repair.",
     "consequences": "GoldenHeron evidence now produces named arrest/refusal, organized defense, bridge denial and loss of roadside trade access; courier escaped before force wins. Kaze/Chris no forced redemption. Daniel disapproval of final helpless-target killing, attachment persists."
   },
-  "checkpoint_sha256": "bdbc447ac05d662d8581f5bbaf9e388dba732ae6e533db03d7623bda2d3a66fa",
+  "checkpoint_sha256": "1b5cabe388fc84f96759a811da8d6d3560f33032b86dfe119989254e6ee443c3",
   "current_actual_after_E58": {
     "Daniel": "Same adult Daniel alive by explicit author-directed lazy return, not repeatable resurrection power. Genuinely drunk, permanent Byakugan, barefoot simian, baseline. Own spear returned from Kaze, bottle from Chris, 110-silver purse from Arthur. Historical death/burial not denied; precise body-return mechanism unelaborated. No killer identity newly disclosed. Prior fourth-wall awareness retained. No new acquired ability.",
     "Sins": "Kaze, Chris exterior/Billy inside, Arthur, Daynah baseline, Mahnah baseline, Daniel at dry shelf on inland route late Day22. No capital arrival. Charles/Meatwad/Shake inside Billy; Frylock alive separate with whereabouts unknown. Keke not returned.",
@@ -2297,14 +2317,14 @@
     "delivery_reconciliation": "continuity/episodes/E59/S3_E59_Family_Business_Delivery_Reconciliation_20261023.json"
   },
   "current_playback_request": {
-    "author_text": "play ep69",
+    "author_text": "play ep70; subsequent explicit Dana fatal-finish correction with daynah SMASH!",
     "episode_span": [
-      69
+      70
     ],
     "status": "AUTHORIZED_PREPARED_SAVED_PENDING_RESPONSE",
-    "mode": "NEW_EPISODE",
+    "mode": "NEW_EPISODE_WITH_SCOPED_REVISION",
     "extends_to_other_episodes": false,
-    "episode70_authorized": false
+    "episode71_authorized": false
   },
   "prepared_E59_Still_Family_20261023": {
     "change_id": "S7NS_E59_STILL_FAMILY_20261023",
@@ -2854,11 +2874,12 @@
   },
   "active_revision_request": {
     "episode_span": [
-      68
+      70
     ],
     "revision": "R2",
-    "status": "DELIVERED_PROVISIONAL",
-    "acceptance": "NOT_ASSERTED"
+    "status": "PREPARED_NOT_YET_DELIVERED",
+    "acceptance": "NOT_ASSERTED",
+    "author_override": "continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md"
   },
   "latest_work_readback_R10": {
     "change_id": "S7NS_E63_FIRST_AUTHOR_VOICE_ACTION_R10_20261023",
@@ -4134,5 +4155,70 @@
     "drive_manuscript": "1SuxfTNaHF_jE90CSPWMEaUE4WLq4-l1n",
     "drive_checkpoint": "1NDL5wJh4WojTMpsDONNSZBaOrLzMqPY8",
     "episode70_authorized": false
-  }
+  },
+  "preserved_pre_E70_controls": {
+    "current_playback_request": {
+      "author_text": "play ep69",
+      "episode_span": [
+        69
+      ],
+      "status": "AUTHORIZED_PREPARED_SAVED_PENDING_RESPONSE",
+      "mode": "NEW_EPISODE",
+      "extends_to_other_episodes": false,
+      "episode70_authorized": false
+    },
+    "playback_hold": "LIFTED_FOR_EXPLICIT_NEW69_ONLY; no70",
+    "active_revision_request": {
+      "episode_span": [
+        68
+      ],
+      "revision": "R2",
+      "status": "DELIVERED_PROVISIONAL",
+      "acceptance": "NOT_ASSERTED"
+    },
+    "work_status": "Effective68R2 reconciled delivered provisional; Episode69 One More whole-reviewed, saved, four-app readbacks verified, pending actual final response. No70; acceptance NOT_ASSERTED."
+  },
+  "current_actual_after_E69": {
+    "chronology": "Resumes Dana strand immediately after his last E68R2 pavilion scene, still afternoon. Parallel Brian strand already reached dusk in68; no second reunion, no new synchronized day count, no rewind of those events. Later unobserved actions not invented.",
+    "location": "Ruined exercise pavilion above coastal export-depot harbor lane; fighting spans platform, footing, slope and work area. No travel to a new venue.",
+    "Dana": "Big Kahuna ACTIVE at end, approximately13ft1 with green skin/dark coils and expanded Kahuhu. Not returned to baseline. Normal speech before transformation; compact third-person Daynah register afterward with intelligence/skills intact. Prior forearm/hip/jaw/mouth injuries carried; further ribs/shoulder/back impacts, thigh/rib cuts and glass wounds calf/right foot. Calf shard removed; bleeding/recovery ongoing, no instant total healing or precise fracture diagnosis. Damaged clothing remains. Guard shortgun from67 has no new use/disposal. Red compressed block in hand at final line.",
+    "Richard": "Alive, defeated, side wound held with his own towel, painful body impacts and unreliable knee. Seated on intact reinforced coffin base; sincere belief he encouraged Daynah remains. Bag has remaining mat/supplies; his small water bottle capped and placed far along footing. Arranged drinks delivery fulfilled disastrously. No further fight after defeat.",
+    "Bob": "Alive with68R2 broken nose/scalp/hand injuries and body impacts, seated at stone support. Richard provided separate towel for hand. No healing/reset or renewed duel.",
+    "Kool_Aid_Man": "Pitcher shattered; liquid visibly survived and animated open lower coffin shell. Container walls/end joint torn under charge; base remains. Gathering red material caught in canvas mat, water expressed under pressure, resulting dense inert red block and powdered mix. Block does not move; death/permanent incapacity and future rehydration outcome NOT established. This scoped survival does not grant universal vessel possession or immunity.",
+    "venue": "Further destroyed platform/rail/steps, breached last timber wall, rubble, glass and red residue, damaged footing surface. Earlier roof still supported on timber stack; no roof repair. Coffin sidewalls gone, reinforced base survives and now supports Richard; future cradle material remains accessible. One canvas mat wet/ruined; other remains.",
+    "unchanged_offstage": "Use E68R2 end state for Brian/JarJar/Baldur/Kratos/Mimir and E67 carried state for other Sins, Mana, R2, TPP and vehicles. No new offstage event, Eyeholes letter, mutation, new lyric performance, boat departure, earned money or payment. Common2851; Daniel110 separate; Kaze0; Brian3silver last known.",
+    "remaining_selected": "WorldBreakerHulk/adultPinocchio and Eyeholes still pending at actual69 endpoint; latest author70fatality override and current70PLAY authorize forward development, not backdating."
+  },
+  "delivered_E69": {
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E69/S3_E69_One_More_20261024.txt",
+    "manuscript_sha256": "5e5e40d8127293cfc7fe83bcfbef84c2720a045df9e650186c3df96ce58b943e",
+    "reconciliation": "continuity/episodes/E69/CHAT_DELIVERY_RECONCILIATION_E69_20261024.json"
+  },
+  "prepared_E70_Replacement_Parts_R2_20261024": {
+    "change_id": "S7NS_E70_REPLACEMENT_PARTS_R2_PLAY_20261024",
+    "episode_span": [
+      70
+    ],
+    "title": "Replacement Parts",
+    "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+    "author_acceptance": "NOT_ASSERTED",
+    "manuscript": "continuity/episodes/E70/S3_E70_Replacement_Parts_R2_20261024.txt",
+    "manuscript_sha256": "d916fa3f0fe700800716d33dfa977e8aba2719a5b369fc3404aac437968d9be9",
+    "checkpoint": "continuity/episodes/E70/S3_E70_Replacement_Parts_R2_20261024_Checkpoint.json",
+    "receipt": "continuity/episodes/E70/S3_E70_Replacement_Parts_R2_20261024_Receipt.json",
+    "review": "Complete draft read, scoped author fatality repair, complete R2 first read and full final reread",
+    "word_count": 4223,
+    "assumed_wpm": 150,
+    "estimated_minutes": 28.15,
+    "airtable_record": "recG8mpjPeWktdLNy",
+    "drive_manuscript": "1ONhAgAvpxLM2NJpI9AcGCQk0jLkFL--n",
+    "drive_checkpoint": "1uY3KSvuDiQGeVvHoTIeBd_Q8F3_DfM0T",
+    "episode71_authorized": false
+  },
+  "latest_Dana_fatality_author": "continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md",
+  "episode70_authorized": true,
+  "episode71_authorized": false,
+  "playback_control": "LIFTED_FOR_EXPLICIT_NEW70_R2_ONLY; no71"
 }
