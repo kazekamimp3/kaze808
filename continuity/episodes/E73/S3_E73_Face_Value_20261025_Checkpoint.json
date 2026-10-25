@@ -1,0 +1,98 @@
+{
+  "schema": "S7NS_EPISODE_CHECKPOINT_V1",
+  "change_id": "S7NS_E73_FACE_VALUE_20261025",
+  "episode_span": [
+    73
+  ],
+  "title": "Face Value",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "delivery_status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+  "author_acceptance": "NOT_ASSERTED",
+  "authorization": "check outline and play ep73; follow-up all resolves BeeMoo progression under scoped author record. Single73 only, no74.",
+  "continuation": {
+    "episode": 72,
+    "status": "DELIVERED_PROVISIONAL",
+    "manuscript": "continuity/episodes/E72/S3_E72_Take_Care_of_Him_20261025.txt",
+    "sha256": "6cdd99cf30e82e1835bcd1837be139b7eeef48d7f377548f776ce72877d5429b",
+    "state_owner": "continuity/episodes/E72/CHAT_DELIVERY_RECONCILIATION_E72_20261025.json",
+    "guard": "Actual67R21 notunplayedR23; actual68R2/69/70R2/71/72 preserved."
+  },
+  "manuscript": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
+  "manuscript_sha256": "e0d00b0a5da0fa21c39fe8051cc4681c6ea0d43bff143720cf5728a6cc107324",
+  "author_scope": "continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md",
+  "sources": {
+    "CURRENT_blob": "2f37b8ffba556a021e675c431a635d9fb59ba615",
+    "ledger_blob": "e4db33d357bbad93f41152a91dc14d252d3d31dd",
+    "outline_blob": "11bc59ae43d511b95e388cadc9403180eb7d88c0",
+    "R8_blob": "afa742b2d5b74cd914e29b713d0b236cb74de874",
+    "Chris_full_mechanics_blob": "a92564b2b32d45393358e5735cb7e3d2cba4f3c8",
+    "Chris_CORE_blob": "389ac960e3ddd08494a8ea7fe0cc03bbe72f5a45",
+    "actual63_blade_training": "9180b27bbad7253d572e931aeba0e9279cf81114"
+  },
+  "source_reuse": "Completed individual/source research from prior episode preparation reused. Complete soleDoctrine, ChrisCORE and R2owner refreshed; full source-specific JarJar research sections reread; current Chris combined mechanics fetched and consequential identity/inversion/availability passages inspected. Actual63 training/attack scene and fullCP rechecked for redblade/noviceTrakata and washer failure. Repeated truncated redundant combined outputs not claimed complete new owner reads. No new internet research needed or claimed.",
+  "brief": {
+    "wants": "Chris enjoys literalportrait/legaljobstatus; Kaze testsitthroughactualgift, Mahnahfood, Danaownsrelaxation, Arthurquestionscompensation, Billyprideandsanctuary. Brianrecognition/bodydestiny/journal, JarJarhomewardinformationandprotection.",
+    "combat_options": "Chrisactualhuman5ft7/170lb, mask/tools/revolvers/Critic/ordinarymovement; no Ki or Teemo; no unearned future upgrades. Gunsavailable butchoosesselectedbeating/recoveryofcereal, not kill. Brianredblade, noviceTrakata, selectedonebasicForceshove, newlychosenbriefflight; nomastery. Bladehasrealreach/cuts, noinvulnerablegrip; clothobscurationandwristcontrolafterbladecommitmentpermitdisarm.",
+    "ending": "JarJaractivelyprotectsBrian/returnsbox/forcesexitafterbeating; Chrisreturnsproudwithinjuryandpartialcereal, Dana haskeptplaying. Noemptyprepcliffhanger orautomaticremorse."
+  },
+  "candidate_end_state_ONLY_after_complete_delivery": {
+    "Dana": "Baseline insideBELLY throughout73, continuesRDR2/highhonor recovering after71; no healing reset/injury novelty. Kahuhu by feet as72, shortgun unchanged inside. Mahnah joins him by actual Billy intake. Remains gaming at end.",
+    "Hulk": "Alive, selected amplified state under encounter-specific exception; regenerating observed injuries, last holding baby at ruined pavilion. Not conclusively defeated/killed, no forgiveness or permanent equal-stats conclusion. No indefinite future amplification duration invented.",
+    "baby": "Single green baby from torn shoulder flesh, Dada claim to Dana; stands, cracks ledge, bites gauntlet rim, tears rail. No name, objective paternity proof, adoption agreement or universal reproduction power. Last held by Hulk.",
+    "venue": "Pavilion footing cratered; roof off supports now fallen; two stoneweights, one rolled into steps. Quarry shed/blocks/wall destroyed; headland collapse/coastal cleft flooded. Harbor broken windows/roof, one visibly breathing injured person carried out; no death total invented. Original70corpses/remains stay within altered site, no revival/burial claimed. Reinforced coffin base survives leveled as cradle; newly installed rail broken; baby repeatedly strikes base without breaking bottom.",
+    "Chris_Billy_Arthur": "Billy initially sole exterior ropewalk, admits Kaze+Mahnah and later releasesKaze holding cereal. Chris inside voice throughbanjo; actual controlled inversion gives Chris exterior for local sortie, Billy inside withownbanjo, Dana staysgaming. Final Chris returnsinterior withcut/bruises/box; Billysoleexterior atloadingapron. Arthur lastoutside ropewalk, examines actual carton and asks cereal-only pay, not drawn into fight.",
+    "Eyeholes": "NewChrisportraitdiscoveredonsealedcartonsbeneatholdtoplayerfinite70delivery; nofreshendlessshipment/magicreprintingclaimed. Mahnah-damagedopenedcartoninsideexempt; pristineChrisdisplayfront-facingbesidemonitoratend. Separate sealedcarton Kaze→Arthurinspection→Kaze→Brian. Brianopensoutsideaftermutation; localdevicealertpointsnearbyoffice. Chrisfirstactualon-jobbeatingBrian, recoversdamagedbox/partbag; wetfloorcerealleft. No other on-job victim, noobjectivelawvalidation; brandimageprovenanceunexplained.",
+    "game": "Dana returnsstolenpurseinRDR2, Chrisarguesreward; beepinterruptscompanionship. Dana keepscontrollerwhileChrisleaves. VirtualArthur not actualArthur; norealcashflow.",
+    "carried": "Common2851, Daniel110separate, Kaze0 unchanged. Brian3minus1room=2silver. Richard/Bob/Pinocchio/KoolAid remain dead70; Hulk/baby/reinforcedbase offstage as71. Actual67R21 governs, neverunplayedR23. No new shipping/dayturn or oldarccompletion.",
+    "remaining": "All retained R21units7–19 and individualduel/Darkin/sourceaccessgates remain pending; no automaticoffworlddeparture. LaterFalcon/lesson/alternateHawking/JabbaMarcelina/spice/spacecast retained. Exactglobalflightlimitsandwinghealing unknown, notfreeupgrades. Episode74 not authorized.",
+    "Brian_JarJar": "Room above landingoffice nearharbor; one silver ofBrian's three paidforroom, two remain. JarJar independently seeking boatcrew/home-routeinfo, no successfulpassageclaim. Brian takesKaze's sealedbox, is bitten behindoffice byradioactivecow/bee whileliftingit awayfromflower. JarJar recapturesanimal/bracescrate, informsclerk. Twohoursobservedonset; Brian becomesBeeMoo appearance and demonstratesbriefnoisyflight, self-claimsSithnotrecognizedmember. OpensEyeholesbeforealert; Chrisassault. JarJarreturnswithwater, extinguishessmolderingframe, hitsChriswithjug, protectsBrianfrombedframeimpact, returnsboxandforcesexit, throwsjug. Lastbothinwreckedroom; Brianconscioussplitlip/swelling/bruises/rightwingpairpain/shakinghands; noautoregeneration.",
+    "Kaze_Mana": "Kaze visitsDana viaactualintake, testsChrisportraitpride, exitscarryingone sealedcarton, handsittoBrian whileknowing device/jobterms. Lastoutside nearSubaru/apron, no travel/hiddenoffscreenaction. Mahnah insidebyDana, tearsportraitcartoncorner, eats offeredEyeholes underBELLYexemption; nonverbal.",
+    "BeeMoo": "Same2ft2adult, humanlikehands/feetandface; smallhorns, black/whitepatches, yellowfuzz, fourmembranouswings. Shortflightacrossroomgenuinesuccess, fatigue and uncertaincontrolpreventlongescape, latertraumaticwinginjuryunresolved. Noextraunselectedpowers/globalnumericflightcap. Sithidentityclaimalone.",
+    "Brian_Force_saber_journal": "SameCliffordredlaser-saber; noviceTrakataoff/onunderobstructionlandsChrisforearmgraze. One selectedlimitedForceshoveactuallythrowsChrisintowashstand; firstsuccessfulshovehere, not63washermovement or mutationboost. NoForcepull/mastery/download. Chrisdisarms, deactivatesandthrowsintactsabertobed; leftBrian. JournalsavedbyJarJarfrombehindbed, coveredgewet/noestablishedtextloss; fulllyrics/signatures/Shake-notecontentunchanged. No newrap or lyricrevision.",
+    "Chris_injuries": "Burnedforearmcutfromrealblade; hip/ribbruiseagainstbrokenwashstand, shoulderhitbyjug. Maskblockedbasin/fistphysically; nosaberproofarmor, Forceimmunityorinstanthealing. Endinsideusingcloth, healingmayprogressnormally. Guns/riflecarriedbutnofire, noammunitionexpended.",
+    "vehicle": "SamebluegoldSubaru transforms onclearapron, shortlocalX-wingout/backoverbrokenlane toofficeapron. R2physicallybesidecar, willinglyjoins; Chrisguidespassengercradle, continuousaftsockettransferandback, helpsR2outafterreturn. R2independentbeeps/disapproval, noEnglishtranslation/autopilotnewpower. No weapons/overdrive/hyperspace. Missingmirror/starredglass/tornwingprior damagepersists, norepair/refill/recall. Fuelusedunquantified. LastSubaruparkedclearloadingapron,R2outside."
+  },
+  "outline_coverage": {
+    "prior_full_audit": "continuity/episodes/E72/S3_E72_Outline_Coverage_20261025.json",
+    "retained_full_source": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+    "sequence1": "Actual68R2 retainedfullsongandreunion, noreplay.",
+    "sequence2": "Actualduels68–71/70fatalitiesunchanged; portraitpromotionandreactionsPREPARED73.",
+    "sequence3": "Actual72retreat; bite/onset/body/mirror/briefflightPREPARED73 underlatestall.",
+    "sequence4": "FirstBrianEyeholesassaultPREPARED73 withmandatorycouchinterrupt/exit/Xwing/saberForcecounterplay/beating/intactsaber.",
+    "sequences5_to8": "All later space acquisition/departures/JabbaMarcelina/spice/conflicts remain pending.",
+    "older_R21_units7_to19": "All retained, access must resolve before departure; no characters/arcs removed or retrospectively completed.",
+    "other_dependencies": "Zaahen expanded scope, Styraatu custody, Ibaaros host, CadBane actualcapture etc remainOPEN. TPPtheft already67 actual, notopenagain. BrianShakequestionresponseOPEN; no confession/redemption."
+  },
+  "review": {
+    "procedure": "Existing singleSceneDecisionDoctrine; whole draft, whole first read, source-specific repair, complete final reread.",
+    "coverage": "Draft1 3601words readcomplete inoneuntruncated output afterwriting; originalpreserved. Repairedfinal3883words/859lines readcomplete inoneuntruncated output. No proseedits afterfinalreread.",
+    "repairs": [
+      "ExplicitBrianopeninginnerbag beforedevicebeep; noimplicittriggers.",
+      "Added brief postflight mirror/prop handling, hungryopening, no newplotpadding.",
+      "Actual63-supported noviceTrakata underobstructioncreatesforearmcut, carriedthroughrecovery; redblade verified.",
+      "Limitedflight/visibleharbordrop/journalmotivejustifyBrianretainingposition; noforcedstupidnesstofight.",
+      "Removedsecondtelekineticobjectattack infavorofphysicalfootkick; no impliedForce mastery.",
+      "Correctedremoveddoor beingmagicallyrehung; JarJardragsfallenpanelacrossopening.",
+      "Removedcontradictorysealedbagdescription afteropening.",
+      "Ending retainsChrisfront-facingportraitpride, ratherthanimplyingunselectedremorse."
+    ],
+    "checks": {
+      "mechanics": "PASS: oneexterior/realintake-egress, continuousR2cradle, localfiniteflight, noantiForce/saberimmunity, gunsavailablebutchoicebounded.",
+      "causality": "PASS: Kaze physicallydeliverssealedcereal, onsetthenmutationthenopeningthenalertthenactualsortie; firstonjobBrian.",
+      "voices": "PASS editorial: Chrisconcreteportrait/foodassociations, Kazeintentionalprovocation, Dana gameagency, Billyhostsupport/boundary, Arthurpracticalpayquestion, Brianstatusplusgenuinesuccess, JarJaractiveprotective/independent, R2nonEnglish.",
+      "consequences": "PASS: furniture/door/windowfire/waterbrokenjug, Brianbloodwinginjury, Chriscutbruises, equipmentleftintact, roommoney1silver, noautomaticrepair.",
+      "lyrics": "PASS: no protected lyric quoted/revised, journal/signatures preserved with no textlossestablished.",
+      "absurdity": "PASS editorial: literal cow-bee bite/body, bureaucraticallyunexplainedportrait andcoercivecerealjob, realphysicaldamage; no realismcorrection."
+    },
+    "weakest_span": "Initialtransitionfromflighttoalertomitted openingandfightdidnotuselearnedtiming. AddedcausalopeningandrealnoviceTrakatacounter; quietsuccessretainedratherthanforcedhumiliation. Allstretcheschangeownership, status, body, choiceorcombat.",
+    "words": 3883,
+    "assumed_wpm": 150,
+    "estimated_minutes": 25.89,
+    "audio_generated": false,
+    "unresolved_material_defects": [],
+    "limitations": "Editorial judgment not authoracceptance; no freshwholeproject/full199kcombinedmechanicsreread or measuredTTSclaimed. Globalflightparameters/winghealing not set."
+  },
+  "authorship": "Kaze selectedpremisesandallresponse; AI visualconstruction/dialogue/staging. No newapprovedvoicesample or authoracceptanceoffinalprose inferred.",
+  "recovery": "Savefrozenreviewedpair/readbackreceipt beforePLAY. Reconcileactualdeliveryonlyaftercompletefinalresponse; authoracceptance separate."
+}
+
