@@ -31,7 +31,7 @@
         {
           "path": "continuity/CURRENT.json",
           "match": true,
-          "sha": "f045ca05f1694b175ec2d5655dda3489749dac50"
+          "sha": "7257db50a71057bf2f6e3fd28918ce51182b6ed7"
         },
         {
           "path": "KAZE_READ_FIRST.txt",
@@ -53,10 +53,11 @@
       "historical_R23_preserved": true
     },
     "drive": {
-      "status": "PENDING",
+      "status": "EXACT_UPLOADED_TEXT_READBACK",
       "file": "1NFGd9tfbl7TTGHGvbl5e3qGTnp9P1Bk7",
       "original_destination_history_preserved": true,
-      "raw_byte_hash_claimed": false
+      "raw_byte_hash_claimed": false,
+      "final_newline_note": "Uploaded local file has one final newline added by file writer; fetched text equals that complete uploaded content."
     },
     "project_attachments_and_settings": {
       "status": "NOT_UPDATED",
