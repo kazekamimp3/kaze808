@@ -1,3 +1,8 @@
+CURRENT SCOPED AUTHOR OVERRIDE — 2026-10-24 / S7NS_E70_DANA_FATAL_FINISHES_20261024
+Read continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md before the preserved sections below. Direct user rejects repeated nonfatal Dana 1v1 finishes and requires “daynah SMASH!” in his transformed form in70. Prior68R2/69 delivered unchanged; unplayed70R2 enacts four fatalities, not yet occurred until actual PLAY. Richard's later baby-Hulk reaction and living Pinocchio/Kool-Aid/Bob aftermath superseded. Reinforced base/Hulk/baby/retreat/Eyeholes remain under scoped dependencies. No71PLAY. Author acceptance NOT_ASSERTED.
+
+--- PRESERVED FULL PRIOR OWNER ---
+
 CURRENT SCOPED AUTHORITY — S7NS_EYEHOLES_DUELS_SPACE_20261024
 Kaze explicit esketit installs the following future development only. Actual67 provisional / nextNEW68. Read this section before historical R21/R20 sections. No PLAY, new episode manuscript, acceptance or time advance.
 
