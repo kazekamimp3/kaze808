@@ -1,3 +1,34 @@
+# Current forward outline — S7NS_EYEHOLES_DUELS_SPACE_20261024
+Actual67 provisional / nextNEW68; WORK ONLY. Full development in continuity/author/S7NS_Cast_Focus_R8_20261023.md, latest section. No episode number assignments, no automatic replacement or PLAY.
+
+## 1. Protected reunion and early forward branch
+Preserve unperformed Brian/Baldur lead and complete Kratos/Mimir song with JarJar before Bee Moo rename. Begin Dana/Eyeholes from actual post67, not rewrite67.
+
+## 2. Dana connected five-duel chain and Eyeholes delivery
+Bob→Richard→KoolAid→adultPinocchio→WorldBreakerHulk, with full concrete combat development in latest author owner. Eyeholes letter/device, BELLY exception and mascot progression. No mandatory intercut quota.
+
+## 3. Dana and Chris refuge; Brian hybrid development
+Genuine competent high-honor/chaos contrast, familiar diagnosis emotion, later horse collision, actual screen lag and physically staged banjo overhearing. Mutation package remains candidate until selected.
+
+## 4. First Eyeholes job
+Postmutation Brian opens box outside BELLY; device interrupts couch scene; Chris exits, X-wing break-in and actual beating with counterplay. Dana keeps playing.
+
+## 5. Falcon theft and driving lesson
+Han outplayed, Chewie present and permanently injured by Billy as selected; fit accommodation enacted. Kaze GTA lesson, alternate Hawking collision/death, selected insurance-chair twist, later FUCK NO callback.
+
+## 6. Separate departures and Jabba reversal
+Jabba/JarJar return to Tatooine with Brian; ownership reveal/collars. Sins offworld access through Falcon. Existing Runeterra pending arcs retained and departure dependencies explicit.
+
+## 7. Marcelina yacht/ransom entry to Jabba business
+Selected yacht robbery, captor/ransom reversal and negotiated delivery; modest first spice job then earned growth. No instant criminal empire.
+
+## 8. Space conflicts spaced by consequences
+Hondo/Pykes/Quark or other business contacts enter when useful; theft/drug consequences attract Guardians/Carol/John/Nova/Boba through actual evidence. Comic cast and separate dangerous Frieza/BattleBeast/Darkseid encounters spaced, no mass introductions. Palpatine rainbow saber aftermath/preemptive argument retained.
+
+Earlier selected Runeterra developments remain pending, not canceled. Their timing/access must be reconciled before departure. Historical R21 units3–5 have now occurred in66–67 and must not replay. Older revision work is not automatically performed by this batch.
+
+--- PRESERVED EARLIER OUTLINE ---
+
 # Season 3 — current R21 outline
 
 Author-selected development installed after Kaze's **esketit**, 2026-10-24. WORK ONLY. Actual65 remains DELIVERED_PROVISIONAL, acceptance NOT_ASSERTED, next NEW66. These are prospective sequence units, NOT nineteen episode assignments, drafted scenes or newly occurred canon. Units1–2 describe eligible revision work; units3 onward require actual revised continuity before construction. Protected performances remain complete. All participants use their full existing owners.
