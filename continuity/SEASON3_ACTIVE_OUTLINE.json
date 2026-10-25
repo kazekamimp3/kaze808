@@ -2596,5 +2596,31 @@
     "owner": "continuity/author/S7NS_E70_Dana_Fatal_Finishes_20261024.md",
     "request": "play ep70 plus explicit lethal smash correction",
     "scope": "Fatal finishes for encountered Dana opponents in70R2; no retrospective68/69 rewrite. Richard future reaction removed, no living Pinocchio/Bob/KoolAid carryover. Hulk mechanics and baby/paternity prerequisites pending. No71PLAY."
+  },
+  "E71_scoped_resolution_20261025": {
+    "author": "continuity/author/S7NS_E71_Hulk_Context_Absurdity_20261025.md",
+    "status": "AUTHOR_SELECTED_EXECUTION",
+    "scope": "Encounter-specific amplified Hulk state retained in Runeterra; no general baseline rewrite, new Dana powers or forced numeric parity. Literal baby/paternity/coffin/retreat preserved. Richard remains dead.",
+    "prepared": {
+      "change_id": "S7NS_E71_JOINT_CUSTODY_20261025",
+      "episode_span": [
+        71
+      ],
+      "title": "Joint Custody",
+      "status": "PREPARED_SAVED_NOT_YET_DELIVERED",
+      "author_acceptance": "NOT_ASSERTED",
+      "manuscript": "continuity/episodes/E71/S3_E71_Joint_Custody_20261025.txt",
+      "manuscript_sha256": "f3b2455934a533bf80d4e611091a1824c3890604e6b5513a65dcfa6b01500d3a",
+      "checkpoint": "continuity/episodes/E71/S3_E71_Joint_Custody_20261025_Checkpoint.json",
+      "receipt": "continuity/episodes/E71/S3_E71_Joint_Custody_20261025_Receipt.json",
+      "drive_manuscript": "1riZ-V_9pR9xyBZF2ECzf91hWduJAuFdi",
+      "drive_checkpoint": "1kjE-eg77jswo6Vj55UtavYemmAWy30-g",
+      "airtable": "recaudewN9VOg3bVT",
+      "words": 3831,
+      "estimated_minutes": 25.54,
+      "episode72_authorized": false
+    },
+    "occurred": false,
+    "remaining": "Later gaming diagnosis/horse/lag, Brian travel and BeeMoo exact package, portrait/firstEyeholes assault and space developments pending. Do not count prepared71 as occurred before delivery."
   }
 }
