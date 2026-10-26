@@ -1,0 +1,14 @@
+{
+  "schema": "S7NS_EPISODE_CHECKPOINT_V1",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 80,
+  "title": "The Four-Billion-Brapple Visitor",
+  "delivery_status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "continuity/episodes/E80/S3_E80_The_Four_Billion_Brapple_Visitor_20261026.txt",
+  "manuscript_git_blob_sha": "2585bbab7947381667d31a3f87c706a5b28a144d",
+  "checkpoint_scope": "Backup and chat delivery of the full user-supplied Episode 80 text. Does not claim author acceptance or installation into the official season cursor.",
+  "end_state": "Homelander is battered, stripped to star-spangled boxers, and ejected through the Falcon airlock into space; Kaze keeps the gold eagle belt buckle. The Falcon crew remains aboard. Preserve Kaze's Boba Fett beskar chestplate and blaster, Chris's ruined Eyeholes breakfast, Oogway's stolen flask, and the ongoing 4.2-billion-Brapple Han Solo bounty at episode start.",
+  "continuity_warning": "Live CURRENT.json and DELIVERY_LEDGER.json still show Episode 73 / next 74. Episodes 74–79 have not been reconciled into the live GitHub cursor in this operation; do not advance the cursor past the gap.",
+  "checkpoint_created": "2026-10-26"
+}
