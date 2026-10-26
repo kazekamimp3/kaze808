@@ -29,7 +29,29 @@
     "starts_and_ending_text_checked": true,
     "checkpoints_read_back": true,
     "official_cursor_updated": false,
-    "reason": "CURRENT.json and DELIVERY_LEDGER.json still report Episode 73 as latest and Episode 74 as next. Episodes 74–79 require continuity reconciliation before advancing the official cursor. These backups do not claim those intervening episodes were reconciled or accepted."
+    "reason": "CURRENT.json and DELIVERY_LEDGER.json still report Episode 73 as latest and Episode 74 as next. Episodes 74–79 require continuity reconciliation before advancing the official cursor. These backups do not claim those intervening episodes were reconciled or accepted.",
+    "notion_full_manuscripts_read_back": true,
+    "airtable_episode_rows_read_back": true
   },
-  "notes": "Exact user-supplied story content was backed up as individual UTF-8 manuscripts. Author acceptance remains NOT_ASSERTED."
+  "notes": "Exact user-supplied story content was backed up as individual UTF-8 manuscripts. Author acceptance remains NOT_ASSERTED.",
+  "connected_destinations": {
+    "notion": {
+      "status": "INSTALLED_READBACK",
+      "episode_80_page": "https://app.notion.com/p/4054e1b729b381cb915ecd580095ab99",
+      "episode_81_page": "https://app.notion.com/p/4054e1b729b381a28cdcf690f4e3ede6",
+      "full_manuscripts_read_back": true
+    },
+    "airtable": {
+      "status": "INSTALLED_READBACK",
+      "base": "S7NS Continuity Control (Reference)",
+      "table": "Episodes",
+      "episode_80_record": "recsbWcXZsh6lZqKn",
+      "episode_81_record": "recr1OMHYLntDKxPH",
+      "fields_read_back": true
+    },
+    "google_drive": {
+      "status": "NOT_UPDATED",
+      "reason": "No Google Drive write tool is available in this session."
+    }
+  }
 }
