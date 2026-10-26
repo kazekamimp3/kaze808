@@ -1,0 +1,14 @@
+{
+  "schema": "S7NS_EPISODE_CHECKPOINT_V1",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "episode": 81,
+  "title": "High Fructose Homicide",
+  "delivery_status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "manuscript": "continuity/episodes/E81/S3_E81_High_Fructose_Homicide_20261026.txt",
+  "manuscript_git_blob_sha": "5d93c7a68566c66ef30e68e8952963db23b3ba7d",
+  "checkpoint_scope": "Backup and chat delivery of the full user-supplied Episode 81 text. Does not claim author acceptance or installation into the official season cursor.",
+  "end_state": "The Kool-Aid Man is shattered after the crew coagulates its cherry syrup with industrial hull-breach foam. The Falcon corridor is buried in sticky red gel; Kaze's slides are stuck in it, Chris is covered in cherry flavoring, and the Sector Nine report raises Han Solo's bounty to 4.8 billion Brapples.",
+  "continuity_warning": "Episode 81 follows the user-supplied Episode 80. Live CURRENT.json and DELIVERY_LEDGER.json still show Episode 73 / next 74. Episodes 74–79 have not been reconciled into the live GitHub cursor in this operation; do not advance the cursor past the gap.",
+  "checkpoint_created": "2026-10-26"
+}
