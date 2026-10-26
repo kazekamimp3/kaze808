@@ -1,0 +1,64 @@
+{
+  "schema": "S7NS_EPISODE_RECORD_REFRESH_V1",
+  "created": "2026-10-26",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "scope": "Episode record reconciliation and connector metadata only; no story time advanced and no author acceptance inferred.",
+  "live_cursor": {
+    "CURRENT": "continuity/CURRENT.json",
+    "DELIVERY_LEDGER": "continuity/DELIVERY_LEDGER.json",
+    "recorded_last_delivered_episode": 73,
+    "recorded_next_episode": 74,
+    "changed": false,
+    "reason": "Episodes 76–79 still lack reconciled exact saved manuscript/checkpoint pairs; Episode 77 title/version lineage remains unresolved."
+  },
+  "records_updated": [
+    {
+      "episode": 74,
+      "title": "Carry-On",
+      "airtable_record": "recIlkE5EbfiEAEqp",
+      "change": "Aligned older duplicate row with verified DELIVERED_PROVISIONAL receipt at continuity/episodes/E74/CHAT_DELIVERY_RECONCILIATION_E74_20261025.json",
+      "author_acceptance": "NOT_ASSERTED"
+    },
+    {
+      "episode": 75,
+      "title": "Dual Control",
+      "airtable_record": "rec2Ez6UkIO6tL5WP",
+      "change": "Status records explicit PLAY75 and later sequence as evidence of chat delivery; exact saved/chat identity and dedicated receipt remain unresolved because GitHub checkpoint still says prepared-only.",
+      "author_acceptance": "NOT_ASSERTED"
+    },
+    {
+      "episode": 80,
+      "title": "The Four-Billion-Brapple Visitor",
+      "airtable_record": "recsbWcXZsh6lZqKn",
+      "manuscript": "continuity/episodes/E80/S3_E80_The_Four_Billion_Brapple_Visitor_20261026.txt",
+      "manuscript_git_blob_sha1": "2585bbab7947381667d31a3f87c706a5b28a144d",
+      "checkpoint": "continuity/episodes/E80/S3_E80_The_Four_Billion_Brapple_Visitor_20261026_Checkpoint.json",
+      "checkpoint_git_blob_sha1": "083764d987c660faf922a89f99b636162dc90150",
+      "full_manuscript_and_checkpoint_readback": true,
+      "author_acceptance": "NOT_ASSERTED"
+    },
+    {
+      "episode": 81,
+      "title": "High Fructose Homicide",
+      "airtable_record": "recr1OMHYLntDKxPH",
+      "manuscript": "continuity/episodes/E81/S3_E81_High_Fructose_Homicide_20261026.txt",
+      "manuscript_git_blob_sha1": "5d93c7a68566c66ef30e68e8952963db23b3ba7d",
+      "checkpoint": "continuity/episodes/E81/S3_E81_High_Fructose_Homicide_20261026_Checkpoint.json",
+      "checkpoint_git_blob_sha1": "ad3842acf7c44a6408c5a181e6c1f2fddf3d3630",
+      "full_manuscript_and_checkpoint_readback": true,
+      "author_acceptance": "NOT_ASSERTED"
+    }
+  ],
+  "unchanged_gaps": [
+    "Episode 76 title conflict: 'The Chain of Custody' versus 'Out of the Atmosphere'; exact saved pair not verified.",
+    "Episode 77 title/version conflict: 'Pre-Existing Conditions' versus 'Recognized Property'; exact saved pair not verified.",
+    "Episodes 78–79 chat delivery reported, but exact saved manuscripts/checkpoints not verified.",
+    "No SHA-256 was independently calculated during this refresh; recorded GitHub identifiers are blob SHA-1 values."
+  ],
+  "connectors": {
+    "GitHub": "INSTALLED_READBACK for E80/E81 manuscripts and checkpoints; cursor files intentionally unchanged.",
+    "Airtable": "UPDATED_READBACK for E74 duplicate, E75 delivery evidence, E80/E81 source and blob identifiers.",
+    "Notion": "UPDATED_READBACK in Episode and Checkpoint Index page 3fd4e1b7-29b3-817c-a530-d91a167c9f1a.",
+    "Google_Drive": "UNAVAILABLE_IN_SESSION; no write/readback claimed."
+  }
+}
