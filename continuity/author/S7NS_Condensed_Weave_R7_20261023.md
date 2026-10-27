@@ -1,3 +1,8 @@
+# Current forward outline — S7NS_SPACE_ARC_E82_E100_AI_STUDIO_HANDOFF_20261027
+AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED; no episode draft/PLAY/time advance. The compact E82–E100 handoff is the scoped planning owner: continuity/author/S7NS_SPACE_ARC_E82_E100_AI_STUDIO_HANDOFF_20261027.md. Preserve all existing current character/mechanics owners and the official cursor gate (CURRENT/DELIVERY_LEDGER remain E73 / next E74 pending E74–80 reconciliation). E82 keeps working title “Maximum Surcharge” and the existing readiness requirements. Hondo is restored only for E92/E95 within this arc. E82 contains the protected Dana Tatooine wake-up; E84 is the Mos Eisley/Jawas continuation, not another arrival cold open. No PLAY or fictional time advance.
+
+--- PRESERVED PRIOR CONDENSED WEAVE BELOW ---
+
 # Current forward outline — S7NS_EYEHOLES_DUELS_SPACE_20261024
 Actual67 provisional / nextNEW68; WORK ONLY. Full development in continuity/author/S7NS_Cast_Focus_R8_20261023.md, latest section. No episode number assignments, no automatic replacement or PLAY.
 
