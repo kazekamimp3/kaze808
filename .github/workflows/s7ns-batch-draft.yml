@@ -1,0 +1,108 @@
+name: S7NS batch episode drafting
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_episode:
+        description: "First proposed episode (E82-E100 only; not the official cursor)"
+        required: true
+        default: "82"
+        type: string
+      count:
+        description: "Number of complete drafts in this batch"
+        required: true
+        default: "2"
+        type: choice
+        options: ["1", "2", "3", "4", "5"]
+      model:
+        description: "Gemini model"
+        required: true
+        default: "gemini-3.8-flash"
+        type: choice
+        options: ["gemini-3.8-flash", "gemini-3.7-flash", "gemini-3.1-pro-preview"]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: s7ns-batch-drafting-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch remote branches for duplicate protection
+        run: git fetch origin '+refs/heads/*:refs/remotes/origin/*'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate proposed drafts
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/s7ns_batch_draft.py \
+            --start-episode "${{ inputs.start_episode }}" \
+            --count "${{ inputs.count }}" \
+            --model "${{ inputs.model }}" \
+            --max-output-tokens 24576
+
+      - name: Save drafts on a separate branch
+        id: save
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          BRANCH="drafts/s7ns-batch-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add "continuity/drafts/ai_studio_run_${GITHUB_RUN_ID}"
+          git commit -m "Add proposed S7NS draft batch ${GITHUB_RUN_ID}"
+          git push --set-upstream origin "$BRANCH"
+          echo "branch=$BRANCH" >> "$GITHUB_OUTPUT"
+          echo "branch_url=https://github.com/${{ github.repository }}/tree/$BRANCH" >> "$GITHUB_OUTPUT"
+
+      - name: Open a draft review pull request when permitted
+        id: pr
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: ${{ steps.save.outputs.branch }}
+        run: |
+          set -euo pipefail
+          URL=$(gh pr create --draft --base main --head "$BRANCH" \
+            --title "S7NS proposed episode drafts — run ${GITHUB_RUN_ID}" \
+            --body "Proposed drafts only. This PR does not update CURRENT.json, DELIVERY_LEDGER.json, checkpoints, or author acceptance. E74-E80 reconciliation remains an explicit gate. Review every manuscript before delivery.")
+          echo "url=$URL" >> "$GITHUB_OUTPUT"
+
+      - name: Show results
+        if: always()
+        env:
+          BRANCH_URL: ${{ steps.save.outputs.branch_url }}
+          PR_URL: ${{ steps.pr.outputs.url }}
+        run: |
+          {
+            echo "## S7NS batch drafting result"
+            echo ""
+            echo "- Requested: E${{ inputs.start_episode }} for ${{ inputs.count }} episode(s)"
+            echo "- Official continuity files were not changed."
+            if [ -n "${PR_URL:-}" ]; then
+              echo "- Draft review PR: ${PR_URL}"
+            elif [ -n "${BRANCH_URL:-}" ]; then
+              echo "- Draft branch: ${BRANCH_URL}"
+              echo "- If no PR was opened automatically, open the branch and create a draft pull request manually."
+            fi
+            echo ""
+            echo "The official cursor remains E73 / next E74 until E74-E80 are reconciled."
+          } >> "$GITHUB_STEP_SUMMARY"
