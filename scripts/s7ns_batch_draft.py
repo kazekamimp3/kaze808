@@ -85,7 +85,7 @@ def main():
  existing=remote_paths(); OUT.mkdir(parents=True,exist_ok=False); records=[]
  for n in range(a.start_episode,a.start_episode+a.count):
   title,card=card_for(handoff,n)
-  dup=[p for p in existing if re.search(rf"(?i)(?:^|/)(?:E{n:02,3}|Episode[_ -]?{n:02,3})\b",p) and any(x in p.lower() for x in ("draft","batch","ai_studio"))]
+  dup=[p for p in existing if re.search(rf"(?i)(?:^|/)(?:E0*{n}(?:\D|$)|Episode[_ -]?0*{n}(?:\D|$))",p) and any(x in p.lower() for x in ("draft","batch","ai_studio"))]
   if dup: raise SystemExit(f"Possible existing draft for E{n}; inspect before rerunning: "+", ".join(dup[:5]))
   owner_text,missing=owners(n)
   special=("\n\nPROTECTED E82 OPENING:\n"+protected+"\n\nE82 READINESS OWNER:\n"+readiness) if n==82 else ""
