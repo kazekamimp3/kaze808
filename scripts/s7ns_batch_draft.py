@@ -25,6 +25,27 @@ CANDIDATES={
 "Narration":["complete_sources/topics/Narration_and_Episode_Presentation_Source_COMPLETE.txt","topic_sources/Narration_and_Episode_Presentation_Source.txt"]}
 MAP={
 82:["Kaze","Chris","Billy","Wade/Deadpool","Dana/Mana","Narration","Combat","BELLY"],83:["Kaze","Chris","Daniel","Billy","Arthur","Narration","Combat","Factions"],84:["Billy","Kaze","Chris","Daniel","Wade/Deadpool","Narration","Combat"],85:["Kaze","Chris","Daniel","Billy","Wade/Deadpool","Factions","Narration"],86:["Kaze","Chris","Daniel","Billy","Wade/Deadpool","BELLY","Combat"],87:["Kaze","Arthur","Chris","Daniel","Combat","Factions"],88:["Kaze","Chris","Arthur","Factions","Narration"],89:["Kaze","Chris","Billy","Arthur","BELLY","Combat"],90:["Kaze","Arthur","Chris","Combat","Factions"],91:["Kaze","Chris","Wade/Deadpool","Factions","Narration"],92:["Kaze","Billy","Chris","Wade/Deadpool","Factions","Combat"],93:["Kaze","Arthur","Factions","Combat"],94:["Kaze","Chris","Daniel","Billy","Combat","Factions"],95:["Kaze","Arthur","Chris","Billy","Factions","Combat"],96:["Kaze","Arthur","Combat","Factions"],97:["Kaze","Chris","Daniel","Billy","Combat"],98:["Kaze","Chris","Daniel","Billy","Combat","BELLY"],99:["Kaze","Daniel","Billy","Combat","BELLY","Travel"],100:["Kaze","Billy","Wade/Deadpool","Factions","Travel","BELLY"]}
+SOURCE_GAPS={
+82:["Venlee and Edward Kenway character owners are not in the mapped owner list."],
+83:["Depot layout, target components, and opposition need source verification."],
+84:["Jawas-specific character owner is not in the mapped owner list."],
+85:["Jabba and Pyke-specific character owners are not in the mapped owner list."],
+86:["Jabba and Rancor-specific source owners are not in the mapped owner list."],
+87:["Boba Fett and Cad Bane-specific character owners are not in the mapped owner list."],
+88:["Marcelina and yacht-specific source owners are not in the mapped owner list."],
+89:["Marcelina and yacht-crew source owners are not in the mapped owner list."],
+90:["Bearer-warrant ledger rules are present in the readiness owner; verify the full authentication chain and exact custody."],
+91:["Marcelina and Exchange yacht ownership/lien evidence need verification."],
+92:["Hondo's scoped E92 selection is in the handoff; no dedicated Hondo owner is mapped."],
+93:["Star-Forge, Black Sun, and Black Rose source/custody links need verification."],
+94:["Station layout and defense-system source details need verification."],
+95:["Hondo's scoped E95 double-agent beat is in the handoff; no dedicated Hondo owner is mapped."],
+96:["Star-Forge control-key source and evidence trail need verification."],
+97:["Star-Forge assault layout and defense-system source details need verification."],
+98:["Star-Forge reactor and specialist-ammunition mechanics need verification."],
+99:["Black Marrow and permanent dimensional-bridge mechanics need verification."],
+100:["The exact Noxian landfall location and route need verification."]
+}
 def read(p,required=False):
  if not p.is_file():
   if required: raise RuntimeError("Required source missing: "+str(p.relative_to(ROOT)))
@@ -88,7 +109,8 @@ def main():
   dup=[p for p in existing if re.search(rf"(?i)(?:^|/)(?:E0*{n}(?:\D|$)|Episode[_ -]?0*{n}(?:\D|$))",p) and any(x in p.lower() for x in ("draft","batch","ai_studio"))]
   if dup: raise SystemExit(f"Possible existing draft for E{n}; inspect before rerunning: "+", ".join(dup[:5]))
   owner_text,missing=owners(n)
-  special=("\n\nPROTECTED E82 OPENING:\n"+protected+"\n\nE82 READINESS OWNER:\n"+readiness) if n==82 else ""
+  special="\n\nSHIP / AUTHENTICATION READINESS OWNER:\n"+readiness
+  if n==82: special+="\n\nPROTECTED E82 OPENING:\n"+protected
   prompt=f"""Write one complete, polished S7NS episode manuscript, not an outline or synopsis.
 EPISODE: E{n} — {title}
 STATUS: proposed draft only; no PLAY, official delivery, author acceptance, or fictional-time/cursor advance.
@@ -117,6 +139,7 @@ AVAILABLE RELEVANT SOURCE OWNERS:
 {owner_text}
 
 Mapped owner groups unavailable: {", ".join(missing) if missing else "none"}.
+Episode-specific source gaps requiring caution: {", ".join(SOURCE_GAPS.get(n, [])) if SOURCE_GAPS.get(n) else "none listed"}.
 Do not invent major canon, biography, powers, relationships, or fixes to fill missing sources. Keep unknowns unknown.
 
 Write actual scenes with dialogue, physical staging, causal escalation, distinct voices, character-specific comedy, and legible action where appropriate. Preserve protected lines, locked outcomes, and ending state. Wade/Deadpool narrates ordinary main-story episodes within established knowledge; characters cannot hear him without permission. Track consequential ship damage/reserves, injuries, cargo, ammunition, artifacts/keys, BELLY residents, information, travel/time, and faction motives. No free repairs, fuel, healing, ammunition, authentication, or new powers. No generic filler, interchangeable enemy waves, forced joke quotas, arbitrary cameos, or exposition-only scenes. Preserve permitted profanity and absurdity; do not soften author intent. Aim for 2,500–4,000 words when the card supports it. Silently check all card requirements and repair misses. Return only the finished manuscript beginning “Episode {n}: {title}”.
@@ -127,7 +150,7 @@ Write actual scenes with dialogue, physical staging, causal escalation, distinct
   if words<1800: warnings.append(f"Short output ({words} words); review completeness.")
   if usage.get("total_output_tokens",0)>=int(a.max_output_tokens*.94): warnings.append("Output near token ceiling; check for truncation.")
   target=OUT/f"E{n:03d}_DRAFT.md"; target.write_text(manuscript.rstrip()+"\n",encoding="utf-8")
-  records.append({"episode":n,"title":title,"path":str(target.relative_to(ROOT)),"words":words,"model":a.model,"usage":usage,"missing_owner_groups":missing,"warnings":warnings,"status":"PROPOSED_DRAFT_NOT_DELIVERED"})
+  records.append({"episode":n,"title":title,"path":str(target.relative_to(ROOT)),"words":words,"model":a.model,"usage":usage,"missing_owner_groups":missing,"source_scope_gaps":SOURCE_GAPS.get(n,[]),"warnings":warnings,"status":"PROPOSED_DRAFT_NOT_DELIVERED"})
   print(f"Saved E{n}: {words} words",flush=True); time.sleep(1)
  c=json.loads(read(CURRENT,True)); l=json.loads(read(LEDGER,True))
  report={"schema":"S7NS_AI_STUDIO_DRAFT_BATCH_REPORT_V1","created_utc":dt.datetime.now(dt.timezone.utc).isoformat(),"run_id":RUN_ID,"model":a.model,"batch":{"start_episode":a.start_episode,"count":a.count,"end_episode":a.start_episode+a.count-1},"status":"PROPOSED_DRAFTS_ONLY","official_cursor":{"CURRENT_last_delivered":c.get("last_delivered_episode"),"CURRENT_next":c.get("next_episode"),"LEDGER_last_delivered":l.get("current_delivered_episode"),"LEDGER_next":l.get("next_episode")},"continuity_warning":"E74-E80 source/delivery/title gaps remain unresolved. Official cursor files were not changed.","episodes":records}
@@ -136,6 +159,7 @@ Write actual scenes with dialogue, physical staging, causal escalation, distinct
  for r in records:
   lines.append(f"- **E{r['episode']} — {r['title']}**: {r['path']} ({r['words']} words)")
   for gap in r["missing_owner_groups"]: lines.append(f"  - Mapped owner unavailable: {gap}")
+  for gap in r["source_scope_gaps"]: lines.append(f"  - Source-scope check: {gap}")
   for warning in r["warnings"]: lines.append(f"  - Review warning: {warning}")
  lines += ["","Read each complete manuscript and repair it against current source owners before any delivery."]
  (OUT/"BATCH_REPORT.md").write_text("\n".join(lines)+"\n",encoding="utf-8")
