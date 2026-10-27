@@ -4441,5 +4441,60 @@
     "Billy": "Current10ft6/1700lb. Chewie stock/punches/kicks produce green bleeding mouth and swollen eye; no explicit broken bone/new regeneration/unconsciousness. Tail/shoulder/clinch and real banjo interception used. One completed Kancho with scoped author-selected Chewie survival/paralysis; no global technique nerf. Final inside at Falcon entrance, hat removed, shoulders cannot pass.",
     "Han_Chewie": "New physically landed Falcon crew. Han ordinary adult Imperial-environment smuggler without silently pinned exact film date. Chewie repairs while fully clothed in grease-marked maintenance coveralls and bandolier. Han fires one bolt, disarmed; ramp controls used; knowingly breaks power-coupling collar/mount, attempts escape and resists. Chewie bowcaster fires3; first physically intercepted and returned by banjo, second misses Billy, third diverted into stone. Competent close defense shifts positions but Billy wins. Scoped Kancho leaves Chewie barely alive and permanently paralyzed below waist. Han freed, prioritizes Chewie, Arthur helps actual cart transfer, Han/depot worker take Chewie toward harbor surgeon two streets inland; arrival/treatment/recovery NOT established. Han sees whole Falcon swallowed, no BELLY layout/security knowledge. Han's blaster left apron; Chewie bowcaster entrusted to remaining dockworker for return, actual return not claimed.",
     "Falcon": "Stolen whole and retained, unoccupied physical intake by Billy into oversized secure storage, landing gear supports ship, ramp down. No automatic legal title/registration change; Han remains registered owner for future selected consequences. No flight by Sins. Prior cooling-line fitting scorched and support housing destroyed by returned bowcaster shot; system off and correct flight component replacement not yet identified. Han's separate intentional power mount/collar damage repaired on Chris workbench using actual existing salvage, original intact electrical parts retained; stable corridor lights checked. No full drive/navigation/core expertise/new capability. R2 connects physically to compatible accessible socket/display, no English translation/omniscience/flight mastery. Cockpit small crew fit only after ordinary single-file movement and existing toolbox removed from copilot seat rail; Arthur carries box out, no untracked disposal. Daynah/Billy do not fit freely; no enlarged cockpit/structural modification. Larger-body accommodations pending. Broken power collar kept in Chris pocket. Entire ship inside persists with Chris exterior."
+  },
+  "latest_space_arc_E82_readiness_20261026": {
+    "change_id": "S7NS_SPACE_ARC_E82_READINESS_20261026",
+    "as_of": "2026-10-26",
+    "authority": "Kaze direct instruction in current conversation",
+    "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+    "artifact": "continuity/work/S7NS_SPACE_ARC_E82_READINESS_20261026.md",
+    "episode_82_working_title": "Maximum Surcharge",
+    "episode_82_status": "BLUEPRINT_ONLY_NOT_DRAFTED",
+    "rules": [
+      "Falcon normalized reserve accounting, strict propulsion/auxiliary/life-support burn rates, reserve thresholds, and mandatory inspection/repair gates; no invented starting quantities or free replenishment.",
+      "Bearer-warrant cipher ledger requires physical original + live biometric/liveness match of currently designated bearer + locally paired hardware key + original's embedded signing core.",
+      "Hondo's partial copy is metadata-only: intelligence/leverage/exposure, no signing secret, no biometric template, no account unlocking or transfer authority.",
+      "Marcelina yacht raid uses autonomous intelligent opposition and a causally prepared captor/ransom reversal.",
+      "Matt Murdock's R82 physical return follows ordinary-voyage timing and actual location; R82 is not assumed to equal Episode 82.",
+      "Bee Moo's addiction arc continues across shared elapsed time without cure, reset, or offscreen shortcut."
+    ],
+    "forward_outcome_target": "Sins secure physical original; Hondo escapes with metadata-only partial copy; exact tactical cost and method remain for on-page construction.",
+    "drive_status": "PENDING_CONNECTOR_UNAVAILABLE",
+    "play_authorized": false,
+    "manuscript_created": false,
+    "story_days_advanced": 0,
+    "cursor_unchanged_reason": "CURRENT/DELIVERY_LEDGER remain Episode 73 / next 74 until E74–80 source and locator discrepancies are reconciled.",
+    "author_acceptance": "NOT_ASSERTED",
+    "active_outline": "https://github.com/kazekamimp3/kaze808/blob/main/continuity/SEASON3_ACTIVE_OUTLINE.json",
+    "causal_staging": [
+      {
+        "stage": "E82 readiness",
+        "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+        "focus": "Falcon damage control, reserve ledger, bounty decision, no free repairs, synchronize real elapsed time."
+      },
+      {
+        "stage": "Marcelina yacht",
+        "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+        "focus": "Specific objective; autonomous security/crew; captor-ransom reversal through visible preparation."
+      },
+      {
+        "stage": "Cipher ledger",
+        "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+        "focus": "Physical original and live bearer authentication versus Hondo metadata-only copy."
+      },
+      {
+        "stage": "Extraction outcome",
+        "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+        "focus": "Sins retain physical original; Hondo escapes with metadata-only partial copy; costs constructed on page."
+      }
+    ]
+  },
+  "latest_work_update": {
+    "change_id": "S7NS_SPACE_ARC_E82_READINESS_20261026",
+    "status": "PREPARED",
+    "artifact": "continuity/work/S7NS_SPACE_ARC_E82_READINESS_20261026.md",
+    "play_authorized": false,
+    "manuscript_created": false,
+    "story_days_advanced": 0
   }
 }
