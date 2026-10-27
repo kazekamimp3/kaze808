@@ -1,6 +1,14 @@
 name: S7NS batch episode drafting
 
 on:
+  push:
+    paths:
+      - 'scripts/s7ns_batch_draft.py'
+      - '.github/workflows/s7ns-batch-draft.yml'
+  pull_request:
+    paths:
+      - 'scripts/s7ns_batch_draft.py'
+      - '.github/workflows/s7ns-batch-draft.yml'
   workflow_dispatch:
     inputs:
       start_episode:
@@ -30,7 +38,21 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  validate:
+    if: github.event_name != 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check generator syntax
+        run: python -m py_compile scripts/s7ns_batch_draft.py
+
   draft:
+    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     timeout-minutes: 360
     steps:
