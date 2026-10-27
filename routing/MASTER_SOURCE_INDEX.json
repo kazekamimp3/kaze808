@@ -2,6 +2,14 @@
   "schema": "S7NS_COMPLETE_SOURCE_LOCATORS_20261021",
   "change_id": "S7NS_SOURCE_DIRECTIONS_PLAIN_LANGUAGE_20261021",
   "policy": "Transport map only; latest scoped evidence controls. Existing standalone repository owners may be newer than bundled owners. Use full relevant owners; no semantic completeness claim. Bundled aliases supplied by ChatGPT do not change source identity.",
+  "standalone_author_routes": [
+    {
+      "path": "continuity/author/S7NS_SPACE_ARC_E82_E100_AI_STUDIO_HANDOFF_20261027.md",
+      "role": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+      "git_blob_sha1": "VERIFY_AFTER_INSTALL",
+      "scope": "Compact AI Studio handoff for E82-E100; protected Dana Tatooine opening; scoped Hondo E92/E95 selection; does not advance CURRENT/DELIVERY_LEDGER or authorize PLAY."
+    }
+  ],
   "start": "KAZE_READ_FIRST.txt",
   "live_state": [
     "continuity/CURRENT.json",
