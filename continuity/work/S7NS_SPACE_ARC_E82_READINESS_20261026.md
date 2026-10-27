@@ -63,3 +63,8 @@ Opening continuity: begin directly from Episode 81’s immediate consequences. T
 
 ## Status
 AUTHOR_SELECTED structural rules and forward staging. PREPARED outline artifact. No Episode 82 manuscript created. No PLAY. No fictional time advanced. Episode delivery cursor and acceptance statuses unchanged. Google Drive connector unavailable in this session; Drive destination remains PENDING.
+
+
+## Current scoped author addendum — 2026-10-27
+
+Kaze explicitly selected the compact AI Studio handoff and Dana's Tatooine wake-up with “esketit”. See `continuity/author/S7NS_SPACE_ARC_E82_E100_AI_STUDIO_HANDOFF_20261027.md`. Keep this blueprint's existing *Maximum Surcharge* title and all reserve/maintenance gates, physical-original + live liveness + paired hardware key + embedded signing-core authentication, Marcelina captor/ransom reversal, Matt Murdock's physical return, and continuous Bee Moo addiction arc. Integrate Dana's protected Tatooine scene as the opening set piece; it does not replace the maintenance story. The handoff's Hondo bargain and double-agent beats supersede the earlier Hondo-removal decision only for E92/E95 within this arc. E82–E100 remain future development, not occurred episodes; no cursor, manuscript, PLAY, delivery or acceptance changes.
