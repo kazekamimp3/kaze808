@@ -64,6 +64,12 @@
     "draft_guard": "Preserve authorized draft-only spans; revise R6-dependent60–63 before building onward; new67–69 planning follows retained movements, not old R6 numbers. NoPLAY."
   },
   "prepared_episode": 74,
+  "scoped_future_handoff": {
+    "path": "continuity/author/S7NS_SPACE_ARC_E82_E100_AI_STUDIO_HANDOFF_20261027.md",
+    "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+    "scope": "Proposed E82-E100 space/underworld arc and protected Dana Tatooine opening. Routing only; does not change actual episode cursor, delivery status, author acceptance, or PLAY authorization.",
+    "readiness_owner": "continuity/work/S7NS_SPACE_ARC_E82_READINESS_20261026.md"
+  },
   "active_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "next_outline": "continuity/SEASON3_ACTIVE_OUTLINE.json",
   "current_E36_E38_restaurant_backstory_outline": "continuity/editorial/E36_E38_Chinese_Restaurant_Skim_Milk_Three_Part_Story_Brief_20261019.md",
