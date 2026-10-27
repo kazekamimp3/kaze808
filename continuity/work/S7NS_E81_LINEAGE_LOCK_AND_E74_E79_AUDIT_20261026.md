@@ -22,11 +22,11 @@ Lineage A, **The Velvet Extraction**, remains unverified and unindexed. Searches
 
 Fetched from the live default branch on 2026-10-26:
 - `continuity/CURRENT.json` Git blob SHA-1: `77d8bb56a08bd3ec773813dbcb6f9b8370d00803`
-- `continuity/DELIVERY_LEDGER.json` Git blob SHA-1: `20db1f0e0d408b73add22e884cde2990f89f0f86`
+- `continuity/DELIVERY_LEDGER.json` Git blob SHA-1 at initial audit: `20db1f0e0d408b73add22e884cde2990f89f0f86`; after metadata-only alias correction on 2026-10-26: `78350d2411b9cd01abc1d0de91562a4f927ba400`.
 - `routing/MASTER_SOURCE_INDEX.json` Git blob SHA-1: `8ca3959b0030b8a523c36c634d4328ad56c0b56c`
 - `MANIFEST.yaml` Git blob SHA-1: `938edce6d7c0ec594725006a3bbccc5f46c0263e`
 
-Both live cursor owners still report Episode 73 delivered provisionally and Episode 74 as next. CURRENT reports `last_delivered_episode: 73`, `next_episode: 74`, and Episode 74 prepared. DELIVERY_LEDGER reports `current_delivered_episode: 73`, `next_episode: 74`, `latest_chat_delivered_episode: 73`, and `last_delivered_episode: 72` in an older nested field while its newer E73 reconciliation fields exist. That internal historical/nested inconsistency is preserved, not silently repaired.
+Both live cursor owners still hold the official cursor at Episode 73 delivered provisionally / Episode 74 next. CURRENT reports `last_delivered_episode: 73`, `next_episode: 74`, and Episode 74 prepared. DELIVERY_LEDGER reports `current_delivered_episode: 73`, `next_episode: 74`, and `latest_chat_delivered_episode: 73`. A targeted metadata-only correction changed the ledger's stale top-level `last_delivered_episode` alias from 72 to 73; readback verified `current_delivered_episode: 73`, `last_delivered_episode: 73`, and `next_episode: 74`. No cursor advancement occurred. This alias correction does not reconcile the Episode 74–79 delivery/source gap and does not authorize Episode 82.
 
 These are live Git blob identifiers read from GitHub, not SHA-256 claims. The master index identifies CURRENT and DELIVERY_LEDGER as live-state owners but does not contain direct per-file SHA-256 entries for them. No manifest offset/length or raw SHA-256 equality is claimed in this audit. Do not advance either file until a dedicated byte/hash reconciliation validates the required locators.
 
