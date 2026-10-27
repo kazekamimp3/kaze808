@@ -2,6 +2,11 @@
   "schema": "s7ns.forward-outline.v2",
   "change_id": "S7NS_CINEMATIC_COMBAT_FIDELITY_OUTLINE_R21_20261024",
   "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "scoped_future_handoff": {
+    "path": "continuity/author/S7NS_SPACE_ARC_E82_E100_AI_STUDIO_HANDOFF_20261027.md",
+    "status": "AUTHOR_SELECTED_FUTURE_DEVELOPMENT_NOT_OCCURRED",
+    "scope": "E82-E100 proposed space/underworld arc. This pointer does not alter selected chronology keys, actual events, episode cursor, or PLAY authorization."
+  },
   "status": "ACTUAL73_DELIVERED_PROVISIONAL_EXACT_REPLAY73_AUTHORIZED_NO74",
   "current_control": {
     "latest_actual_episode": 73,
