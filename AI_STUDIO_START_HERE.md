@@ -6,6 +6,8 @@ This is the single front door for S7NS. The method is **Capability-Routed Functi
 
 ## Startup chain (mandatory for substantial work)
 
+For a copy-and-paste system prompt, use [`AI_STUDIO_SYSTEM_PROMPT.txt`](AI_STUDIO_SYSTEM_PROMPT.txt). This file is a short launcher; it does not replace the full startup chain below.
+
 1. Read `KAZE_READ_FIRST.txt` for the newest scoped author directions. Historical headers inside it remain historical when superseded by newer sections.
 2. Read the complete `continuity/CURRENT.json` and `continuity/DELIVERY_LEDGER.json`.
 3. Follow their matching manuscript, checkpoint, state-owner and delivery-reconciliation paths. Do not infer status from a dated summary, handoff, or prepared file.
