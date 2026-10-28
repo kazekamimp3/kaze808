@@ -53,3 +53,23 @@ Small-source checks confirmed exact matches for `17_BELLY_COMBAT.md`, `Dana_Char
 
 ## Current pending list is authoritative only as of this checkpoint
 Always re-read the live index first on resume; newer verified repository evidence supersedes this snapshot.
+
+
+## Resume addendum — verified local originals (2026-10-28)
+After the checkpoint was saved, the mounted originals in /mnt/data were hashed as raw bytes using Git's blob hash formula. All 11 files currently marked pending in the live index match their indexed original Git blob SHA-1 exactly. Their bytes are available locally and verified; they have not yet been archived in the repository because this runtime cannot resolve github.com from the local shell, and the connected GitHub blob action accepts content text rather than a local filesystem path. Do not confuse local source verification with remote archival.
+
+Verified pending source names and SHA-1 values:
+- 02_CURRENT_STATE_SPACE_20261024.md — 9f4d325da65515036cdd64ca8d458303120c8a72 — 2058342 bytes
+- 03_INDEX_ROUTING.md — 9c9339892b55188f1115fb4cbdab220782102003 — 3015276 bytes
+- 03_INDEX_ROUTING_SPACE_20261024.md — c25ebf0a64ff23a7740f8211f836a33f324e3ba9 — 3614995 bytes
+- 13_SEASON3_CURRENT.md — eab18eacc05216b3b186e55a7c6e170601da4ec7 — 1089992 bytes
+- 15_SEASON3_PLOTS.md — 82e770312fb12b734331f81d793ac57d9ec39e43 — 1233572 bytes
+- 15_SEASON3_PLOTS_SPACE_20261024.md — 6436749166edc07cc0229d55a02e42f3b445e24e — 2673388 bytes
+- 16_ROSTER_DUELS_TRAVEL.md — 81991d7dc1c7b9e5290c69dacebe105744c73fb4 — 1007570 bytes
+- 18_WORLD_PRESENTATION(1)_R21_20261024.md — f9861f69fc80310bdbaaf466382d5b922356432c — 687264 bytes
+- 19_RESEARCH(1).md — 2fc02ec826edef0b08111082d94fdf5755ae76c5 — 311336 bytes
+- 19_RESEARCH(1)_R20_20261024.md — e03781f3ccba8cb8a6a74199a24c7f2e20e4f4c1 — 344823 bytes
+- MANIFEST_SPACE_20261024.yaml — 467e35ff2594724af054eed5429db24524a30b71 — 231335 bytes
+
+### Newest unfinished step (updated)
+Transfer the already hash-verified local originals into the repository backup paths without text normalization, then read back each Git blob and compare its SHA-1. The previous Files-reader reconstruction for 18_WORLD_PRESENTATION(1).md is obsolete as the primary route; raw local files now provide the byte-exact source. Keep the live index at 27 exact + 2 text-extracted + 11 pending until those remote destination blobs exist and readback verifies. Do not redo already archived files or change continuity/ledger.

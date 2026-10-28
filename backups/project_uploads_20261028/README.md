@@ -9,3 +9,7 @@ This index inventories the 40 project/conversation attachments visible in the se
 - Do not overwrite active source owners with old or alternative bundles. This backup is provenance; current scoped author decisions and complete-owner routes remain authoritative.
 
 The old starter README from `kazekamimp3/kazekamimp3` is preserved under `backups/repository_snapshots_20261028/kazekamimp3/README.md`. The old repository now points to `kazekamimp3/kaze808`.
+
+
+## Latest verification note — 2026-10-28
+All 11 remaining source files are available as raw mounted originals and their Git blob SHA-1 values match the original hashes in the index. They are not yet archived remotely. The remaining step is byte-preserving transfer to the indexed GitHub backup paths followed by GitHub readback/hash verification. See the resume checkpoint at ../../continuity/work/S7NS_Project_Attachment_Backup_Checkpoint_20261028.md.
