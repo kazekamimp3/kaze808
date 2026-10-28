@@ -1,0 +1,573 @@
+{
+  "schema": "S7NS_PROJECT_ATTACHMENT_BACKUP_INDEX_V1",
+  "as_of": "2026-10-28",
+  "canonical_repository": "kazekamimp3/kaze808",
+  "purpose": "Inventory of all 40 project/conversation attachments visible in the session. The active source owners already in kaze808 remain authoritative; this index distinguishes exact raw copies from files whose attachment-specific snapshot is not yet copied.",
+  "completion_status": "PARTIAL_BACKUP_15_OF_40_SNAPSHOT_PATHS_ARCHIVED",
+  "note": "For 13 attachments the same Git blob already exists in the canonical repository and is reused under the dated backup path. For the other 27 attachments the original source hashes are inventoried and current canonical routes are listed, but their distinct attachment contents have not yet been archived byte-for-byte. Do not represent this as a complete raw-attachment backup.",
+  "attachments": [
+    {
+      "original_filename": "01_BOOT_AUTHORITY.md",
+      "original_bytes": 474268,
+      "original_git_blob_sha1": "33bd00237829a0d15b6ea8a47ffa260b6bf5dc10",
+      "original_sha256": "4841a244fc829e949c2b8f816eb345b4558dae195618cb48456f2d901c8e8c12",
+      "backup_path": "backups/project_uploads_20261028/attachments/01_BOOT_AUTHORITY.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "KAZE_READ_FIRST.txt",
+        "AGENTS.md",
+        "authority/Resolution_Register.json"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "01_BOOT_AUTHORITY_SPACE_20261024.md",
+      "original_bytes": 524545,
+      "original_git_blob_sha1": "53a476c38ad86324de1154cf7a8d3c854048ebb9",
+      "original_sha256": "9a92bb8e4d32ca4b208b4912ee316966df2f4c2b44132e6e19a688703b12b98e",
+      "backup_path": "backups/project_uploads_20261028/attachments/01_BOOT_AUTHORITY_SPACE_20261024.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "KAZE_READ_FIRST.txt",
+        "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+        "continuity/author/S7NS_Condensed_Weave_R7_20261023.md"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "02_CURRENT_STATE(1).md",
+      "original_bytes": 1035651,
+      "original_git_blob_sha1": "43820ade9806da14956d1ef552e40f54c91378f3",
+      "original_sha256": "6da42e7579fb40edac3f49565ccd0c9f3ec079139c8e5839556aa884c8dd6eca",
+      "backup_path": "backups/project_uploads_20261028/attachments/02_CURRENT_STATE(1).md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "continuity/CURRENT.json",
+        "continuity/DELIVERY_LEDGER.json"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "02_CURRENT_STATE_SPACE_20261024.md",
+      "original_bytes": 2058342,
+      "original_git_blob_sha1": "9f4d325da65515036cdd64ca8d458303120c8a72",
+      "original_sha256": "f8877526acfd122f66e0025d5e23f61ea2eb3fb537c6bf7feffcb57200b0d9a1",
+      "backup_path": "backups/project_uploads_20261028/attachments/02_CURRENT_STATE_SPACE_20261024.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "continuity/CURRENT.json",
+        "continuity/DELIVERY_LEDGER.json",
+        "continuity/SEASON3_ACTIVE_OUTLINE.json",
+        "scoped space author handoff"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "03_INDEX_ROUTING.md",
+      "original_bytes": 3015276,
+      "original_git_blob_sha1": "9c9339892b55188f1115fb4cbdab220782102003",
+      "original_sha256": "6e629d7a35c6f74367918a6c36b57d83666dfabee57d901a2fe32993e958b7d1",
+      "backup_path": "backups/project_uploads_20261028/attachments/03_INDEX_ROUTING.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "routing/MASTER_SOURCE_INDEX.json",
+        "complete_sources/ACCESS_INDEX.json",
+        "MANIFEST.yaml"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "03_INDEX_ROUTING_SPACE_20261024.md",
+      "original_bytes": 3614995,
+      "original_git_blob_sha1": "c25ebf0a64ff23a7740f8211f836a33f324e3ba9",
+      "original_sha256": "c4dbf24318e8db9b519c1489522c237f19a5a38ea042ab55a9da2e960e0ce033",
+      "backup_path": "backups/project_uploads_20261028/attachments/03_INDEX_ROUTING_SPACE_20261024.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "routing/MASTER_SOURCE_INDEX.json",
+        "complete_sources/ACCESS_INDEX.json",
+        "MANIFEST.yaml",
+        "project_install/20261024_R21/MANIFEST_R21_20261024.yaml"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "04_KAZE_SINS.md",
+      "original_bytes": 390851,
+      "original_git_blob_sha1": "580acaf3b59701f7b8ed0457d0d90af7568bc5a2",
+      "original_sha256": "85f7312f574af2a1950aa4f80ed1a6bc9ebfab0c071e75700c0fdb7e04869db8",
+      "backup_path": "backups/project_uploads_20261028/attachments/04_KAZE_SINS.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "canon/characters/kaze_current.md",
+        "related scoped author sources"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "05_CHRIS_BILLY(1).md",
+      "original_bytes": 606164,
+      "original_git_blob_sha1": "2618f95fb101a3dbf11c9cb13a1464ef2098b680",
+      "original_sha256": "4ce1d1f2945b15b8ee1b47fadc6568511f80fa95081a09025148e04e15f85800",
+      "backup_path": "backups/project_uploads_20261028/attachments/05_CHRIS_BILLY(1).md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "canon/characters/chris_catfish_billy_current.md",
+        "character_sources/Chris_Character_Source.txt",
+        "character_sources/Billy_Character_Source.txt",
+        "character_sources/Chris_Billy_BELLY_Source.txt"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "06_OTHER_MAIN_CAST(1).md",
+      "original_bytes": 377983,
+      "original_git_blob_sha1": "47ef0dc4c648075ce5c8d36016189279e201473c",
+      "original_sha256": "7208666d9f886c6554fbb7435cdaee56e873c87f0f6178011963ba2bfcdbd2ce",
+      "backup_path": "backups/project_uploads_20261028/attachments/06_OTHER_MAIN_CAST(1).md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "routing/Current_Roster_Kit_Overrides_20261019.json",
+        "canon/characters/",
+        "character_sources/",
+        "complete owner index"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "07_CROSSOVER_CAST(3).md",
+      "original_bytes": 92997,
+      "original_git_blob_sha1": "4aaeffcd166dcb3d58ef313d1d7aa8038312c8fa",
+      "original_sha256": "b7a8d9eeb70a551d043a937c5988f8a9d39b539bca61b9e2026c5abc4607cd59",
+      "backup_path": "backups/project_uploads_20261028/attachments/07_CROSSOVER_CAST(3).md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "routing/MASTER_SOURCE_INDEX.json",
+        "complete_sources/ACCESS_INDEX.json",
+        "cross-over character sources"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "08_CROSSOVER_EXTENDED(4)(1).md",
+      "original_bytes": 206809,
+      "original_git_blob_sha1": "b7989c9f346bd0c6f33bdaec7f127a403a7eea1a",
+      "original_sha256": "20bb53a3e30ceb72f1fab924ded78cf0ad06b61fdf5467b76809f619c0242538",
+      "backup_path": "backups/project_uploads_20261028/attachments/08_CROSSOVER_EXTENDED(4)(1).md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "routing/MASTER_SOURCE_INDEX.json",
+        "complete_sources/ACCESS_INDEX.json",
+        "character_sources/"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "09_RUNETERRA_APPENDIX.md",
+      "original_bytes": 2354712,
+      "original_git_blob_sha1": "cf83e501b0218ab70579fd77aaba13355403361f",
+      "original_sha256": "3a1f521feff8c62421b80bc6ee4e2ea16264747edb3476ea7af09eb9a053bd37",
+      "backup_path": "backups/project_uploads_20261028/attachments/09_RUNETERRA_APPENDIX.md",
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "cf83e501b0218ab70579fd77aaba13355403361f",
+      "existing_canonical_route": [
+        "09_RUNETERRA_APPENDIX.md"
+      ],
+      "byte_identity": "EXACT_BYTE_IDENTITY_CONFIRMED_BY_LOCAL_GIT_BLOB_SHA"
+    },
+    {
+      "original_filename": "10_RUNETERRA_CORE.md",
+      "original_bytes": 1038839,
+      "original_git_blob_sha1": "38d5c7a0f0c9b31600d363389bfd9ed4f2c1dd46",
+      "original_sha256": "58559fb3571364fcea85d9388a69d2bc770e91921377499fe24fae4d2a4efb04",
+      "backup_path": "backups/project_uploads_20261028/attachments/10_RUNETERRA_CORE.md",
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "38d5c7a0f0c9b31600d363389bfd9ed4f2c1dd46",
+      "existing_canonical_route": [
+        "10_RUNETERRA_CORE.md"
+      ],
+      "byte_identity": "EXACT_BYTE_IDENTITY_CONFIRMED_BY_LOCAL_GIT_BLOB_SHA"
+    },
+    {
+      "original_filename": "11_RUNETERRA_A_M.md",
+      "original_bytes": 74307,
+      "original_git_blob_sha1": "ac68ff49a95dd09654106d05154222b4d48ce6aa",
+      "original_sha256": "e344e9baf81065f25198aac35c3cb563f218a1b01aac24597a8f294968ee14b9",
+      "backup_path": "backups/project_uploads_20261028/attachments/11_RUNETERRA_A_M.md",
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "ac68ff49a95dd09654106d05154222b4d48ce6aa",
+      "existing_canonical_route": [
+        "11_RUNETERRA_A_M.md"
+      ],
+      "byte_identity": "EXACT_BYTE_IDENTITY_CONFIRMED_BY_LOCAL_GIT_BLOB_SHA"
+    },
+    {
+      "original_filename": "12_RUNETERRA_N_Z.md",
+      "original_bytes": 80084,
+      "original_git_blob_sha1": "9d25a11bd7a742b20cfd168b6086126eba157711",
+      "original_sha256": "c86a95b278811724448fa5a35e1900eeae38faeecbdbfa3d0e1b76f729db4ada",
+      "backup_path": "backups/project_uploads_20261028/attachments/12_RUNETERRA_N_Z.md",
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "9d25a11bd7a742b20cfd168b6086126eba157711",
+      "existing_canonical_route": [
+        "12_RUNETERRA_N_Z.md"
+      ],
+      "byte_identity": "EXACT_BYTE_IDENTITY_CONFIRMED_BY_LOCAL_GIT_BLOB_SHA"
+    },
+    {
+      "original_filename": "13_SEASON3_CURRENT.md",
+      "original_bytes": 1089992,
+      "original_git_blob_sha1": "eab18eacc05216b3b186e55a7c6e170601da4ec7",
+      "original_sha256": "63ecf60e2b686facdde9a526898c93d58786ab744f6c8320a3d4e03c95485422",
+      "backup_path": "backups/project_uploads_20261028/attachments/13_SEASON3_CURRENT.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "continuity/CURRENT.json",
+        "continuity/DELIVERY_LEDGER.json",
+        "continuity/SEASON3_ACTIVE_OUTLINE.json"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "14_BILLY_SPECIALS(3).md",
+      "original_bytes": 308529,
+      "original_git_blob_sha1": "048b00ba911c0f071e109085787d44269c9475fa",
+      "original_sha256": "d4bd7dead6c89bfcb8b6b8cf48eed7e0c58439b2f307e06258e30d34108732fb",
+      "backup_path": "backups/project_uploads_20261028/attachments/14_BILLY_SPECIALS(3).md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "canon/characters/chris_catfish_billy_current.md",
+        "continuity/author/"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "15_SEASON3_PLOTS.md",
+      "original_bytes": 1233572,
+      "original_git_blob_sha1": "82e770312fb12b734331f81d793ac57d9ec39e43",
+      "original_sha256": "b1bb68395c2f92a6b34192c8d29abc6fcdede31bbbc66e6b51dfe63d363b4c5d",
+      "backup_path": "backups/project_uploads_20261028/attachments/15_SEASON3_PLOTS.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "continuity/SEASON3_ACTIVE_OUTLINE.json",
+        "continuity/author/"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "15_SEASON3_PLOTS_SPACE_20261024.md",
+      "original_bytes": 2673388,
+      "original_git_blob_sha1": "6436749166edc07cc0229d55a02e42f3b445e24e",
+      "original_sha256": "a3ad4eba9c7c74d4160ab82b16f627d2325fd683357b9e45592eb64576b8a7c6",
+      "backup_path": "backups/project_uploads_20261028/attachments/15_SEASON3_PLOTS_SPACE_20261024.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "continuity/SEASON3_ACTIVE_OUTLINE.json",
+        "continuity/author/S7NS_SPACE_ARC_E82_E100_AI_STUDIO_HANDOFF_20261027.md"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "16_ROSTER_DUELS_TRAVEL.md",
+      "original_bytes": 1007570,
+      "original_git_blob_sha1": "81991d7dc1c7b9e5290c69dacebe105744c73fb4",
+      "original_sha256": "4d211b1e8eedcf6d580224a308ae1e9db10127d72ae18957af7c71afb51e3d9a",
+      "backup_path": "backups/project_uploads_20261028/attachments/16_ROSTER_DUELS_TRAVEL.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "routing/Current_Roster_Kit_Overrides_20261019.json",
+        "matching episode checkpoint"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "17_BELLY_COMBAT.md",
+      "original_bytes": 22703,
+      "original_git_blob_sha1": "c24dc69041a5de47466d08ef19a9d991cfd4bd1c",
+      "original_sha256": "02e08b8555bb8a9527819c14ee490f699e52c832bf2e0eccccd1746020c8f1bc",
+      "backup_path": "backups/project_uploads_20261028/attachments/17_BELLY_COMBAT.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "canon/characters/chris_catfish_billy_current.md",
+        "canon/characters/s37_kit_application.md",
+        "canon/characters/dana_mana.md"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "18_WORLD_PRESENTATION(1).md",
+      "original_bytes": 578436,
+      "original_git_blob_sha1": "bf79c794715e4477444d44bae3abb90aa41af4c5",
+      "original_sha256": "b41b291990c44c0be9a0a2c35225edd9e1cea79bbb865eb82ed86bdea12dabc9",
+      "backup_path": "backups/project_uploads_20261028/attachments/18_WORLD_PRESENTATION(1).md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "canon/presentation/",
+        "current world presentation owner"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "18_WORLD_PRESENTATION(1)_R21_20261024.md",
+      "original_bytes": 687264,
+      "original_git_blob_sha1": "f9861f69fc80310bdbaaf466382d5b922356432c",
+      "original_sha256": "f6b8553af56dcb5d0cd3aa4384741c9d36597e393bff811708fedd4a864acb7a",
+      "backup_path": "backups/project_uploads_20261028/attachments/18_WORLD_PRESENTATION(1)_R21_20261024.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "KAZE_READ_FIRST.txt",
+        "current presentation/canon owners",
+        "R21 scoped directions"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "19_RESEARCH(1).md",
+      "original_bytes": 311336,
+      "original_git_blob_sha1": "2fc02ec826edef0b08111082d94fdf5755ae76c5",
+      "original_sha256": "8b2a459ba2d6a21adcc4cdec0b0c213d0e4e29f6ba79a3f4570db7b61e680b18",
+      "backup_path": "backups/project_uploads_20261028/attachments/19_RESEARCH(1).md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "research/",
+        "research_sources/"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "19_RESEARCH(1)_R20_20261024.md",
+      "original_bytes": 344823,
+      "original_git_blob_sha1": "e03781f3ccba8cb8a6a74199a24c7f2e20e4f4c1",
+      "original_sha256": "2601ffdaff592b4919d5fa272b4d8930060625964ab52fd46bbeed4d8aeb3cac",
+      "backup_path": "backups/project_uploads_20261028/attachments/19_RESEARCH(1)_R20_20261024.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "research/",
+        "research_sources/",
+        "20_RESEARCH_SUPPORT.md"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "20_RESEARCH_SUPPORT.md",
+      "original_bytes": 201818,
+      "original_git_blob_sha1": "d6e31258029a2db118f262bf271a0c84206b360b",
+      "original_sha256": "a93e28e3a036da0cea8ba357b9b2d6c89b88ea5a30e2397495d3f1c9f71a93a9",
+      "backup_path": "backups/project_uploads_20261028/attachments/20_RESEARCH_SUPPORT.md",
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "d6e31258029a2db118f262bf271a0c84206b360b",
+      "existing_canonical_route": [
+        "20_RESEARCH_SUPPORT.md"
+      ],
+      "byte_identity": "EXACT_BYTE_IDENTITY_CONFIRMED_BY_LOCAL_GIT_BLOB_SHA"
+    },
+    {
+      "original_filename": "21_HISTORICAL_STATE.md",
+      "original_bytes": 1176940,
+      "original_git_blob_sha1": "95e7b9bfe086791360ba2f5c933c52f38ccf2b69",
+      "original_sha256": "140f1aa336f1a577f4d4248d7f2e277a7d7962777ebd4ad1bf0f8f12efc48ee",
+      "backup_path": "backups/project_uploads_20261028/attachments/21_HISTORICAL_STATE.md",
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "95e7b9bfe086791360ba2f5c933c52f38ccf2b69",
+      "existing_canonical_route": [
+        "21_HISTORICAL_STATE.md"
+      ],
+      "byte_identity": "EXACT_BYTE_IDENTITY_CONFIRMED_BY_LOCAL_GIT_BLOB_SHA"
+    },
+    {
+      "original_filename": "22_HISTORY_ARCHIVE_PART_01.md",
+      "original_bytes": 1474897,
+      "original_git_blob_sha1": "105f775542ed637f8a7c48ed9293d8fbfccea45e",
+      "original_sha256": "13d4c498bd37def3f2dcecb749a3929c8a3841dd2830d50def4642df703d6790",
+      "backup_path": "backups/project_uploads_20261028/attachments/22_HISTORY_ARCHIVE_PART_01.md",
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "105f775542ed637f8a7c48ed9293d8fbfccea45e",
+      "existing_canonical_route": [
+        "22_HISTORY_ARCHIVE_PART_01.md"
+      ],
+      "byte_identity": "EXACT_BYTE_IDENTITY_CONFIRMED_BY_LOCAL_GIT_BLOB_SHA"
+    },
+    {
+      "original_filename": "23_HISTORY_ARCHIVE_PART_02.md",
+      "original_bytes": 1798617,
+      "original_git_blob_sha1": "c15cbc9608c600ea7e7491c9c8797d6d3ac57e20",
+      "original_sha256": "60cd1cb622239a725601d20932816d737596d707636c7ac6ac21e96a4379dfb7",
+      "backup_path": "backups/project_uploads_20261028/attachments/23_HISTORY_ARCHIVE_PART_02.md",
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "c15cbc9608c600ea7e7491c9c8797d6d3ac57e20",
+      "existing_canonical_route": [
+        "23_HISTORY_ARCHIVE_PART_02.md"
+      ],
+      "byte_identity": "EXACT_BYTE_IDENTITY_CONFIRMED_BY_LOCAL_GIT_BLOB_SHA"
+    },
+    {
+      "original_filename": "24_HISTORY_ARCHIVE_PART_03.md",
+      "original_bytes": 1478327,
+      "original_git_blob_sha1": "dc89b786054261555bb2f423e4e13e91790ff9c2",
+      "original_sha256": "2fbd86926ed8f41d02ba3f11b3a60afbc25f4e60cf1424d7a0b6ae73ab996620",
+      "backup_path": "backups/project_uploads_20261028/attachments/24_HISTORY_ARCHIVE_PART_03.md",
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "dc89b786054261555bb2f423e4e13e91790ff9c2",
+      "existing_canonical_route": [
+        "24_HISTORY_ARCHIVE_PART_03.md"
+      ],
+      "byte_identity": "EXACT_BYTE_IDENTITY_CONFIRMED_BY_LOCAL_GIT_BLOB_SHA"
+    },
+    {
+      "original_filename": "25_HISTORY_ARCHIVE_PART_04.md",
+      "original_bytes": 1471780,
+      "original_git_blob_sha1": "735a8d69405817656e16074a2dd952d2b3619514",
+      "original_sha256": "96f43d656becb4b8a64d336ba6108d908ccbad2bdaa7d883c1cfcb32adf5ae2b",
+      "backup_path": "backups/project_uploads_20261028/attachments/25_HISTORY_ARCHIVE_PART_04.md",
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "735a8d69405817656e16074a2dd952d2b3619514",
+      "existing_canonical_route": [
+        "25_HISTORY_ARCHIVE_PART_04.md"
+      ],
+      "byte_identity": "EXACT_BYTE_IDENTITY_CONFIRMED_BY_LOCAL_GIT_BLOB_SHA"
+    },
+    {
+      "original_filename": "26_HISTORY_ARCHIVE_PART_05.md",
+      "original_bytes": 1470359,
+      "original_git_blob_sha1": "a45aec080fcb6b8a9ae53413c0028eb2e4a1fcc9",
+      "original_sha256": "c172b13162af3dbb8f3fd7836a4f3d7587d214d7f94e646bfb90e1cb0dba9367",
+      "backup_path": "backups/project_uploads_20261028/attachments/26_HISTORY_ARCHIVE_PART_05.md",
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "a45aec080fcb6b8a9ae53413c0028eb2e4a1fcc9",
+      "existing_canonical_route": [
+        "26_HISTORY_ARCHIVE_PART_05.md"
+      ],
+      "byte_identity": "EXACT_BYTE_IDENTITY_CONFIRMED_BY_LOCAL_GIT_BLOB_SHA"
+    },
+    {
+      "original_filename": "27_HISTORY_ARCHIVE_PART_06.md",
+      "original_bytes": 1139900,
+      "original_git_blob_sha1": "07f9228289413973e27b0195e236cdc1365d4d2e",
+      "original_sha256": "f194ca8f9d40228be12d89d8f3615d0bd0454859394c0a943875b33c91a769d6",
+      "backup_path": "backups/project_uploads_20261028/attachments/27_HISTORY_ARCHIVE_PART_06.md",
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "07f9228289413973e27b0195e236cdc1365d4d2e",
+      "existing_canonical_route": [
+        "27_HISTORY_ARCHIVE_PART_06.md"
+      ],
+      "byte_identity": "EXACT_BYTE_IDENTITY_CONFIRMED_BY_LOCAL_GIT_BLOB_SHA"
+    },
+    {
+      "original_filename": "Dana_Character_Source_2.md",
+      "original_bytes": 8078,
+      "original_git_blob_sha1": "257b33b1e1c53d74a833c14e2133b8bd9cae953b",
+      "original_sha256": "e3d7b5e377192c276c2e1ecce01440451392147360b72b84965d4c338968cc96",
+      "backup_path": "backups/project_uploads_20261028/attachments/Dana_Character_Source_2.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "canon/characters/dana_mana.md"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "MANIFEST.yaml",
+      "original_bytes": 337244,
+      "original_git_blob_sha1": "8cd2dd38dda3864003c1419d7fa0524af6f24963",
+      "original_sha256": "4d4ec12142131ea9858a20bf6844fff018312db4e633d68d0e360bac3a18dd50",
+      "backup_path": "backups/project_uploads_20261028/attachments/MANIFEST.yaml",
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "8cd2dd38dda3864003c1419d7fa0524af6f24963",
+      "existing_canonical_route": [
+        "releases/S7NS_CUMULATIVE_REPLACEMENT_PATCH_20261022/MANIFEST.yaml"
+      ],
+      "byte_identity": "EXACT_BYTE_IDENTITY_CONFIRMED_BY_LOCAL_GIT_BLOB_SHA"
+    },
+    {
+      "original_filename": "MANIFEST_SPACE_20261024.yaml",
+      "original_bytes": 231335,
+      "original_git_blob_sha1": "467e35ff2594724af054eed5429db24524a30b71",
+      "original_sha256": "49acfad805f76d73bc56957b16797c85c06f43342956c55abe80973825263228",
+      "backup_path": "backups/project_uploads_20261028/attachments/MANIFEST_SPACE_20261024.yaml",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "project_install/20261024_R21/MANIFEST_R21_20261024.yaml"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "Mana_Character_Source_2.md",
+      "original_bytes": 8092,
+      "original_git_blob_sha1": "19f5d86aa00e6d35139e06645d0d7c663fe10ec8",
+      "original_sha256": "0ba41abaf0c3d571a63a694b353184eb02584df03a8327f3044785d3cf5ddfbc",
+      "backup_path": "backups/project_uploads_20261028/attachments/Mana_Character_Source_2.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "canon/characters/dana_mana.md"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    },
+    {
+      "original_filename": "S7NS_Chris_Five_1v1s_and_Episodes_50_51_Reading_Pack.md",
+      "original_bytes": 8786,
+      "original_git_blob_sha1": "c9093d2b8432c4ba38060d1957b38884dfaaf0a1",
+      "original_sha256": "f59ba2aa30f12379f2b6346f3d96d0f123006377ab12a74913129cc30cc574db",
+      "backup_path": "backups/project_uploads_20261028/attachments/S7NS_Chris_Five_1v1s_and_Episodes_50_51_Reading_Pack.md",
+      "backup_status": "TEXT_EXTRACTED_SNAPSHOT_ARCHIVED",
+      "archived_git_blob_sha1": "e45f2437e4e778dbac141ee5020bb8c05e8a5bcb",
+      "existing_canonical_route": [
+        "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
+        "continuity/episodes/E51/S3_E51_Fetch_R3_FINAL_20261022.txt",
+        "source URLs in handoff"
+      ],
+      "byte_identity": "TEXT_CONTENT_EXTRACTED_BY_FILES_READER; NORMALIZED VERSION ARCHIVED; RAW BYTE IDENTITY NOT CLAIMED",
+      "notes": "The saved GitHub copy is the full text returned by the Files reader; its content length differs from the mounted raw file. Original raw source hashes retained above; do not call this byte-identical."
+    },
+    {
+      "original_filename": "S7NS_Director_Handoff_Kaze_Creative_Intent.md",
+      "original_bytes": 20467,
+      "original_git_blob_sha1": "85757b73b4f21674bd1255f523901232b39d9629",
+      "original_sha256": "8d792947b45666b42231b129fcdd54fc34211363fba0506dc522c5d02312149a",
+      "backup_path": "backups/project_uploads_20261028/attachments/S7NS_Director_Handoff_Kaze_Creative_Intent.md",
+      "backup_status": "TEXT_EXTRACTED_SNAPSHOT_ARCHIVED",
+      "archived_git_blob_sha1": "a2fdfea06b9f0ff68c1d40db762fd43df4a92530",
+      "existing_canonical_route": [
+        "KAZE_READ_FIRST.txt",
+        "current authorial intent/psychology/relationship owners"
+      ],
+      "byte_identity": "TEXT_CONTENT_EXTRACTED_BY_FILES_READER; NORMALIZED VERSION ARCHIVED; RAW BYTE IDENTITY NOT CLAIMED",
+      "notes": "The saved GitHub copy is the full text returned by the Files reader; its content length differs from the mounted raw file. Original raw source hashes retained above; do not call this byte-identical."
+    },
+    {
+      "original_filename": "dana_mana.md",
+      "original_bytes": 79337,
+      "original_git_blob_sha1": "b2580172bc595bafd5efcf19e6eede0fa9ba4b95",
+      "original_sha256": "dea9374d91efe4a85d4e11482bb28e072fdf96ec6531b6c461db5d951835cfab",
+      "backup_path": "backups/project_uploads_20261028/attachments/dana_mana.md",
+      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
+      "archived_git_blob_sha1": null,
+      "existing_canonical_route": [
+        "canon/characters/dana_mana.md"
+      ],
+      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+    }
+  ]
+}

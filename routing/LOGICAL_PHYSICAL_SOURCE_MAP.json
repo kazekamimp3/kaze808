@@ -1,0 +1,158 @@
+{
+  "schema": "S7NS_LOGICAL_PHYSICAL_SOURCE_MAP_V1",
+  "pattern": "Logical/Physical Source Separation",
+  "purpose": "Capability routes identify what knowledge is needed. Logical owner IDs identify the authority concept. Physical paths/sections are retrieved only through current indices and manifests; do not assume a logical owner name is a standalone file.",
+  "canonical_repository": "kazekamimp3/kaze808",
+  "authority_and_routing": {
+    "startup": "AI_STUDIO_START_HERE.md",
+    "current_scope": "KAZE_READ_FIRST.txt",
+    "live_state": [
+      "continuity/CURRENT.json",
+      "continuity/DELIVERY_LEDGER.json"
+    ],
+    "capability_router": "routing/CAPABILITY_ROUTER.yaml",
+    "exact_source_locator": "routing/MASTER_SOURCE_INDEX.json",
+    "complete_owner_directory": "complete_sources/ACCESS_INDEX.json",
+    "physical_bundle_manifest": "MANIFEST.yaml",
+    "source_precedence": "Latest direct author instruction for scope > active scoped author authority > actual delivered evidence > complete original owners > derived plans and archives."
+  },
+  "logical_owners": [
+    {
+      "logical_owner_id": "state.live_episode_cursor",
+      "capabilities": [
+        "continuity_state",
+        "episode_construction"
+      ],
+      "physical_locator": [
+        "continuity/CURRENT.json",
+        "continuity/DELIVERY_LEDGER.json"
+      ],
+      "required_evidence": [
+        "matching manuscript",
+        "matching checkpoint",
+        "delivery reconciliation"
+      ],
+      "warning": "Do not use old snapshot headers or prepared episodes as a delivered cursor."
+    },
+    {
+      "logical_owner_id": "author.direct_scope",
+      "capabilities": [
+        "authorial_intent",
+        "chronology_and_outline"
+      ],
+      "physical_locator": [
+        "KAZE_READ_FIRST.txt",
+        "continuity/author/"
+      ],
+      "resolution_rule": "Identify the newest scoped authority for the precise subject; preserve historical decisions as evidence."
+    },
+    {
+      "logical_owner_id": "story.construction_procedure",
+      "capabilities": [
+        "episode_construction"
+      ],
+      "physical_locator": [
+        "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md"
+      ],
+      "warning": "This is the sole scene-construction procedure."
+    },
+    {
+      "logical_owner_id": "cast.character_fidelity",
+      "capabilities": [
+        "character_fidelity"
+      ],
+      "physical_locator": [
+        "canon/characters/",
+        "character_sources/",
+        "complete_sources/ACCESS_INDEX.json",
+        "routing/MASTER_SOURCE_INDEX.json"
+      ],
+      "resolution_rule": "Load current standalone owner plus all relevant full voice, psychology, relationship, equipment and mechanics owners; if owner is bundled, use exact manifest route."
+    },
+    {
+      "logical_owner_id": "mechanics.kits_resources_access",
+      "capabilities": [
+        "mechanics_and_equipment"
+      ],
+      "physical_locator": [
+        "canon/characters/s37_kit_application.md",
+        "canon/characters/chris_catfish_billy_current.md",
+        "canon/characters/dana_mana.md",
+        "routing/Current_Roster_Kit_Overrides_20261019.json",
+        "matching checkpoint"
+      ],
+      "warning": "Power/position/access/resource conditions and current state decide what can happen."
+    },
+    {
+      "logical_owner_id": "continuity.active_chronology",
+      "capabilities": [
+        "chronology_and_outline",
+        "episode_construction"
+      ],
+      "physical_locator": [
+        "continuity/SEASON3_ACTIVE_OUTLINE.json",
+        "KAZE_READ_FIRST.txt",
+        "latest scoped author route"
+      ],
+      "warning": "AUTHOR_SELECTED future development is not occurred story."
+    },
+    {
+      "logical_owner_id": "presentation.voice_tts_narration",
+      "capabilities": [
+        "presentation_and_tts",
+        "character_fidelity"
+      ],
+      "physical_locator": [
+        "canon/presentation/",
+        "18_WORLD_PRESENTATION(1)_R21_20261024.md",
+        "canon/presentation/S7NS_Plain_Language_Work_Communication_20261021.md"
+      ],
+      "warning": "Speaker-specific voices and narration knowledge/access remain distinct."
+    },
+    {
+      "logical_owner_id": "research.evidence",
+      "capabilities": [
+        "research_and_evidence"
+      ],
+      "physical_locator": [
+        "research/",
+        "research_sources/",
+        "20_RESEARCH_SUPPORT.md"
+      ],
+      "resolution_rule": "Use primary evidence first and keep coverage, limits, citations and open gaps explicit. Research does not silently amend canon."
+    },
+    {
+      "logical_owner_id": "production.connected_workspaces",
+      "capabilities": [
+        "integrations_and_installation"
+      ],
+      "physical_locator": [
+        "canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md",
+        "integrations/registry.json",
+        "integrations/IMPLEMENTATION_RECEIPT.json"
+      ],
+      "warning": "A connector write, package staging, chat delivery and Project installation are different states; require readback."
+    },
+    {
+      "logical_owner_id": "backup.project_file_archive",
+      "capabilities": [
+        "backup_and_migration"
+      ],
+      "physical_locator": [
+        "backups/project_uploads_20261028/BACKUP_INDEX.json",
+        "backups/project_uploads_20261028/attachments/",
+        "MIGRATION_FROM_KAZEKAMIMP3_20261028.md"
+      ],
+      "warning": "Backup copies do not outrank active source owners; preserve source hashes and normalization notes."
+    }
+  ],
+  "resolution_algorithm": [
+    "Select task capabilities from CAPABILITY_ROUTER.yaml.",
+    "Identify logical owners needed for each capability.",
+    "Resolve owners to current physical files through the master source index and complete-owner access index.",
+    "If the current owner is bundled, resolve exact bundle, byte offset, length and hash from MANIFEST.yaml or the routed index.",
+    "Fetch the complete relevant owner and its current scoped overrides; do not fetch all files by default.",
+    "Compare evidence against the live episode state when story state changes matter.",
+    "After any authorized change, read the destination back and record its real status."
+  ]
+}
