@@ -28,6 +28,10 @@ Keep `PROPOSED`, `AUTHOR_SELECTED`, `PREPARED`, `DELIVERED_PROVISIONAL`, `AUTHOR
 
 The root numbered Markdown bundles and old versioned snapshots are preserved for provenance and exact manifest routes. They are not an instruction to load every large bundle for every task. Route to the smallest sufficient capability set, then open each required complete owner.
 
+## Known validation issue
+
+The existing GitHub Actions integrity check is failing on source-hash and byte-range validation, including on main before the AI Studio router merge. Track it in [issue #3](https://github.com/kazekamimp3/kaze808/issues/3). Do not blindly rewrite manifest hashes to make the check green; reconcile exact source bytes and owner routes first.
+
 ## Backup and migration status
 
 - [Project attachment backup](backups/project_uploads_20261028/README.md) documents the 2026-10-28 project-file archive.
