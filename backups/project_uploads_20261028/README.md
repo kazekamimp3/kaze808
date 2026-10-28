@@ -3,7 +3,7 @@
 This index inventories the 40 project/conversation attachments visible in the session. **The full raw attachment backup is still incomplete.**
 
 - `BACKUP_INDEX.json` preserves original filenames, original mounted-file byte counts, original Git blob SHA-1 and SHA-256, destination path, archive status and source route.
-- 22 attachment snapshots are now archived as content-exact copies, verified by matching each archived Git blob SHA-1 to the indexed original. This includes 13 previously reused exact blobs and 9 newly added exact copies.
+- 26 attachment snapshots are archived as content-exact copies, verified by matching each archived Git blob SHA-1 to the indexed original.
 - 2 smaller generated handoff attachments have complete text-extracted snapshots stored, but Files-reader normalization changed their byte identity; they are not claimed as raw byte-identical backups.
 - The remaining 16 attachment-specific snapshots are pending. Their original hashes and canonical/current routes remain listed, but their complete source contents could not be retrieved for copy-and-hash verification in this session. Those metadata/routes are not a substitute for backup contents. Track completion in [issue #4](https://github.com/kazekamimp3/kaze808/issues/4).
 - Do not overwrite active source owners with old or alternative bundles. This backup is provenance; current scoped author decisions and complete-owner routes remain authoritative.
