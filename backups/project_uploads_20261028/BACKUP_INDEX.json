@@ -3,8 +3,8 @@
   "as_of": "2026-10-28",
   "canonical_repository": "kazekamimp3/kaze808",
   "purpose": "Inventory of all 40 project/conversation attachments visible in the session. The active source owners already in kaze808 remain authoritative; this index distinguishes exact raw copies from files whose attachment-specific snapshot is not yet copied.",
-  "completion_status": "PARTIAL_BACKUP_15_OF_40_SNAPSHOT_PATHS_ARCHIVED",
-  "note": "For 13 attachments the same Git blob already exists in the canonical repository and is reused under the dated backup path. For the other 27 attachments the original source hashes are inventoried and current canonical routes are listed, but their distinct attachment contents have not yet been archived byte-for-byte. Do not represent this as a complete raw-attachment backup.",
+  "completion_status": "PARTIAL_BACKUP_24_OF_40_SNAPSHOT_PATHS_ARCHIVED",
+  "note": "Snapshot accounting as of 2026-10-28: 22 exact attachment snapshots are archived and verified by matching original Git blob SHA-1; 2 snapshots are text-extracted and not byte-identical; 16 attachment-specific snapshots remain pending. Indexed source hashes and canonical routes do not count as an archived raw copy.",
   "attachments": [
     {
       "original_filename": "01_BOOT_AUTHORITY.md",
@@ -12,14 +12,14 @@
       "original_git_blob_sha1": "33bd00237829a0d15b6ea8a47ffa260b6bf5dc10",
       "original_sha256": "4841a244fc829e949c2b8f816eb345b4558dae195618cb48456f2d901c8e8c12",
       "backup_path": "backups/project_uploads_20261028/attachments/01_BOOT_AUTHORITY.md",
-      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
-      "archived_git_blob_sha1": null,
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "33bd00237829a0d15b6ea8a47ffa260b6bf5dc10",
       "existing_canonical_route": [
         "KAZE_READ_FIRST.txt",
         "AGENTS.md",
         "authority/Resolution_Register.json"
       ],
-      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+      "byte_identity": "EXACT_VERIFIED_BY_GIT_BLOB_SHA1_MATCH"
     },
     {
       "original_filename": "01_BOOT_AUTHORITY_SPACE_20261024.md",
@@ -27,14 +27,14 @@
       "original_git_blob_sha1": "53a476c38ad86324de1154cf7a8d3c854048ebb9",
       "original_sha256": "9a92bb8e4d32ca4b208b4912ee316966df2f4c2b44132e6e19a688703b12b98e",
       "backup_path": "backups/project_uploads_20261028/attachments/01_BOOT_AUTHORITY_SPACE_20261024.md",
-      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
-      "archived_git_blob_sha1": null,
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "53a476c38ad86324de1154cf7a8d3c854048ebb9",
       "existing_canonical_route": [
         "KAZE_READ_FIRST.txt",
         "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
         "continuity/author/S7NS_Condensed_Weave_R7_20261023.md"
       ],
-      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+      "byte_identity": "EXACT_VERIFIED_BY_GIT_BLOB_SHA1_MATCH"
     },
     {
       "original_filename": "02_CURRENT_STATE(1).md",
@@ -42,13 +42,13 @@
       "original_git_blob_sha1": "43820ade9806da14956d1ef552e40f54c91378f3",
       "original_sha256": "6da42e7579fb40edac3f49565ccd0c9f3ec079139c8e5839556aa884c8dd6eca",
       "backup_path": "backups/project_uploads_20261028/attachments/02_CURRENT_STATE(1).md",
-      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
-      "archived_git_blob_sha1": null,
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "43820ade9806da14956d1ef552e40f54c91378f3",
       "existing_canonical_route": [
         "continuity/CURRENT.json",
         "continuity/DELIVERY_LEDGER.json"
       ],
-      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+      "byte_identity": "EXACT_VERIFIED_BY_GIT_BLOB_SHA1_MATCH"
     },
     {
       "original_filename": "02_CURRENT_STATE_SPACE_20261024.md",
@@ -103,13 +103,13 @@
       "original_git_blob_sha1": "580acaf3b59701f7b8ed0457d0d90af7568bc5a2",
       "original_sha256": "85f7312f574af2a1950aa4f80ed1a6bc9ebfab0c071e75700c0fdb7e04869db8",
       "backup_path": "backups/project_uploads_20261028/attachments/04_KAZE_SINS.md",
-      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
-      "archived_git_blob_sha1": null,
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "580acaf3b59701f7b8ed0457d0d90af7568bc5a2",
       "existing_canonical_route": [
         "canon/characters/kaze_current.md",
         "related scoped author sources"
       ],
-      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+      "byte_identity": "EXACT_VERIFIED_BY_GIT_BLOB_SHA1_MATCH"
     },
     {
       "original_filename": "05_CHRIS_BILLY(1).md",
@@ -117,15 +117,15 @@
       "original_git_blob_sha1": "2618f95fb101a3dbf11c9cb13a1464ef2098b680",
       "original_sha256": "4ce1d1f2945b15b8ee1b47fadc6568511f80fa95081a09025148e04e15f85800",
       "backup_path": "backups/project_uploads_20261028/attachments/05_CHRIS_BILLY(1).md",
-      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
-      "archived_git_blob_sha1": null,
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "2618f95fb101a3dbf11c9cb13a1464ef2098b680",
       "existing_canonical_route": [
         "canon/characters/chris_catfish_billy_current.md",
         "character_sources/Chris_Character_Source.txt",
         "character_sources/Billy_Character_Source.txt",
         "character_sources/Chris_Billy_BELLY_Source.txt"
       ],
-      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+      "byte_identity": "EXACT_VERIFIED_BY_GIT_BLOB_SHA1_MATCH"
     },
     {
       "original_filename": "06_OTHER_MAIN_CAST(1).md",
@@ -133,15 +133,15 @@
       "original_git_blob_sha1": "47ef0dc4c648075ce5c8d36016189279e201473c",
       "original_sha256": "7208666d9f886c6554fbb7435cdaee56e873c87f0f6178011963ba2bfcdbd2ce",
       "backup_path": "backups/project_uploads_20261028/attachments/06_OTHER_MAIN_CAST(1).md",
-      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
-      "archived_git_blob_sha1": null,
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "47ef0dc4c648075ce5c8d36016189279e201473c",
       "existing_canonical_route": [
         "routing/Current_Roster_Kit_Overrides_20261019.json",
         "canon/characters/",
         "character_sources/",
         "complete owner index"
       ],
-      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+      "byte_identity": "EXACT_VERIFIED_BY_GIT_BLOB_SHA1_MATCH"
     },
     {
       "original_filename": "07_CROSSOVER_CAST(3).md",
@@ -149,14 +149,14 @@
       "original_git_blob_sha1": "4aaeffcd166dcb3d58ef313d1d7aa8038312c8fa",
       "original_sha256": "b7a8d9eeb70a551d043a937c5988f8a9d39b539bca61b9e2026c5abc4607cd59",
       "backup_path": "backups/project_uploads_20261028/attachments/07_CROSSOVER_CAST(3).md",
-      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
-      "archived_git_blob_sha1": null,
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "4aaeffcd166dcb3d58ef313d1d7aa8038312c8fa",
       "existing_canonical_route": [
         "routing/MASTER_SOURCE_INDEX.json",
         "complete_sources/ACCESS_INDEX.json",
         "cross-over character sources"
       ],
-      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+      "byte_identity": "EXACT_VERIFIED_BY_GIT_BLOB_SHA1_MATCH"
     },
     {
       "original_filename": "08_CROSSOVER_EXTENDED(4)(1).md",
@@ -164,14 +164,14 @@
       "original_git_blob_sha1": "b7989c9f346bd0c6f33bdaec7f127a403a7eea1a",
       "original_sha256": "20bb53a3e30ceb72f1fab924ded78cf0ad06b61fdf5467b76809f619c0242538",
       "backup_path": "backups/project_uploads_20261028/attachments/08_CROSSOVER_EXTENDED(4)(1).md",
-      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
-      "archived_git_blob_sha1": null,
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "b7989c9f346bd0c6f33bdaec7f127a403a7eea1a",
       "existing_canonical_route": [
         "routing/MASTER_SOURCE_INDEX.json",
         "complete_sources/ACCESS_INDEX.json",
         "character_sources/"
       ],
-      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+      "byte_identity": "EXACT_VERIFIED_BY_GIT_BLOB_SHA1_MATCH"
     },
     {
       "original_filename": "09_RUNETERRA_APPENDIX.md",
@@ -246,13 +246,13 @@
       "original_git_blob_sha1": "048b00ba911c0f071e109085787d44269c9475fa",
       "original_sha256": "d4bd7dead6c89bfcb8b6b8cf48eed7e0c58439b2f307e06258e30d34108732fb",
       "backup_path": "backups/project_uploads_20261028/attachments/14_BILLY_SPECIALS(3).md",
-      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
-      "archived_git_blob_sha1": null,
+      "backup_status": "ARCHIVED_EXACT_GIT_BLOB",
+      "archived_git_blob_sha1": "048b00ba911c0f071e109085787d44269c9475fa",
       "existing_canonical_route": [
         "canon/characters/chris_catfish_billy_current.md",
         "continuity/author/"
       ],
-      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+      "byte_identity": "EXACT_VERIFIED_BY_GIT_BLOB_SHA1_MATCH"
     },
     {
       "original_filename": "15_SEASON3_PLOTS.md",
