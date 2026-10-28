@@ -4,7 +4,7 @@
   "canonical_repository": "kazekamimp3/kaze808",
   "purpose": "Inventory of all 40 project/conversation attachments visible in the session. The active source owners already in kaze808 remain authoritative; this index distinguishes exact raw copies from files whose attachment-specific snapshot is not yet copied.",
   "completion_status": "PARTIAL_BACKUP_29_OF_40_SNAPSHOT_PATHS_ARCHIVED",
-  "note": "As of 2026-10-28: 27 exact snapshots verified by original Git blob SHA-1; 2 text-extracted snapshots without byte-identity claims; 11 attachment-specific snapshots remain pending.",
+  "note": "As of 2026-10-28: 27 exact snapshots are archived and verified by original Git blob SHA-1; 2 text-extracted snapshots are archived without byte-identity claims; 11 attachment-specific snapshots remain pending due to a source-read/transfer blocker.",
   "attachments": [
     {
       "original_filename": "01_BOOT_AUTHORITY.md",
@@ -570,5 +570,5 @@
       "byte_identity": "EXACT_VERIFIED_BY_GIT_BLOB_SHA1_MATCH"
     }
   ],
-  "remaining_copy_blocker": "Remaining originals will be copied from mounted raw attachments and verified by original Git blob SHA-1 before they are marked exact."
+  "remaining_copy_blocker": "Eleven remaining raw attachments are present in the session's mounted /mnt/data inventory, but the connected Project Files reader is currently returning 'No readable content was found in this file for the requested mode.' for those sources. Their original bytes, sizes and hashes were verified from the mounted files, but no GitHub archive copy is claimed until those bytes can be transferred and the resulting Git blob SHA-1 read back."
 }
