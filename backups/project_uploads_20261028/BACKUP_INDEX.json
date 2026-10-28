@@ -4,7 +4,7 @@
   "canonical_repository": "kazekamimp3/kaze808",
   "purpose": "Inventory of all 40 project/conversation attachments visible in the session. The active source owners already in kaze808 remain authoritative; this index distinguishes exact raw copies from files whose attachment-specific snapshot is not yet copied.",
   "completion_status": "PARTIAL_BACKUP_24_OF_40_SNAPSHOT_PATHS_ARCHIVED",
-  "note": "Snapshot accounting as of 2026-10-28: 22 exact attachment snapshots are archived and verified by matching original Git blob SHA-1; 2 snapshots are text-extracted and not byte-identical; 16 attachment-specific snapshots remain pending. Indexed source hashes and canonical routes do not count as an archived raw copy.",
+  "note": "As of 2026-10-28, 22 exact attachment snapshots are archived and verified by original Git blob SHA-1 match, 2 text-extracted snapshots are archived without byte-identity claims, and 16 attachment-specific snapshots remain pending. See remaining_copy_blocker; do not treat indexed hashes or canonical routes as an archived raw copy.",
   "attachments": [
     {
       "original_filename": "01_BOOT_AUTHORITY.md",
@@ -569,5 +569,6 @@
       ],
       "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
     }
-  ]
+  ],
+  "remaining_copy_blocker": "The remaining 16 attachment-specific source contents could not be retrieved as complete text for copy and hash verification from the current session's source interface. Their indexed original hashes, byte counts and canonical routes are preserved, but metadata/routes do not count as a backup. Do not mark these files archived until the original contents can be copied and their Git blob SHA-1 matches."
 }
