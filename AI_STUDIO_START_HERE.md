@@ -41,6 +41,10 @@ Latest direct author instruction for its scope → active scoped author authorit
 - Do not read every 1–3 MB numbered bundle by default. The root bundles are preserved compatibility sources; use the map and exact complete owner needed for the task.
 - If a physical source is missing, inaccessible, or conflicting without a controlling resolution, say that plainly. Never claim that a cross-workspace write or project installation happened without readback evidence.
 
+## Known repository integrity warning
+
+The existing source-integrity workflow is currently failing on multiple manifest hash mismatches and invalid byte ranges; this was already happening on the pre-router main commit. Track the cleanup in [issue #3](https://github.com/kazekamimp3/kaze808/issues/3). Do not update hashes or byte offsets wholesale just to make CI green. Keep new retrieval-layer files separate from source-owner/manifest reconciliation.
+
 ## Repository map
 
 - `continuity/`: live state, delivery status, episodes, checkpoints, active outline, scoped author decisions.
