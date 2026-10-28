@@ -1,10 +1,11 @@
 # Project-file backup — 2026-10-28
 
-This index inventories 40 project/conversation attachments. **Raw attachment backup status is partial, not complete.**
+This index inventories the 40 project/conversation attachments available in the session. **The full raw attachment backup is still incomplete.**
 
-- `BACKUP_INDEX.json` preserves original filenames, original mounted-file byte counts, local Git blob SHA-1, SHA-256, canonical route, and destination path.
-- `attachments/` currently contains exact blob copies for 13 attachments whose content was already present in the canonical repository. Those are byte-identical and safely reused.
-- The other 27 attachment-specific snapshots differ from the existing GitHub files. Their hashes and current canonical source routes are recorded, but those distinct raw/text versions are not yet copied; do not treat a route-equivalent source as a snapshot backup.
-- Do not overwrite current source owners with old or alternative bundles. The archive is provenance; current scoped author decisions and complete source owners remain authoritative.
+- `BACKUP_INDEX.json` preserves original filenames, original mounted-file byte counts, original Git blob SHA-1 and SHA-256, destination path, archive status and source route.
+- 13 attachments reuse content-exact blobs already present in the canonical repository.
+- 2 smaller generated handoff attachments have a complete text-extracted snapshot stored, but Files-reader normalization changed their length; their raw byte identity is not claimed.
+- The remaining 25 attachment-specific snapshots are pending. Their canonical/current source routes are listed, but route-equivalent content is not represented as a raw snapshot backup.
+- Do not overwrite active source owners with old or alternative bundles. This backup is provenance; current scoped author decisions and complete-owner routes remain authoritative.
 
-The small old starter README from `kazekamimp3/kazekamimp3` is preserved under `backups/repository_snapshots_20261028/kazekamimp3/README.md`. The old repository now points to `kazekamimp3/kaze808`.
+The old starter README from `kazekamimp3/kazekamimp3` is preserved under `backups/repository_snapshots_20261028/kazekamimp3/README.md`. The old repository now points to `kazekamimp3/kaze808`.

@@ -3,7 +3,7 @@
   "as_of": "2026-10-28",
   "canonical_repository": "kazekamimp3/kaze808",
   "purpose": "Inventory of all 40 project/conversation attachments visible in the session. The active source owners already in kaze808 remain authoritative; this index distinguishes exact raw copies from files whose attachment-specific snapshot is not yet copied.",
-  "completion_status": "PARTIAL_BACKUP_NOT_COMPLETE",
+  "completion_status": "PARTIAL_BACKUP_15_OF_40_SNAPSHOT_PATHS_ARCHIVED",
   "note": "For 13 attachments the same Git blob already exists in the canonical repository and is reused under the dated backup path. For the other 27 attachments the original source hashes are inventoried and current canonical routes are listed, but their distinct attachment contents have not yet been archived byte-for-byte. Do not represent this as a complete raw-attachment backup.",
   "attachments": [
     {
@@ -531,14 +531,15 @@
       "original_git_blob_sha1": "c9093d2b8432c4ba38060d1957b38884dfaaf0a1",
       "original_sha256": "f59ba2aa30f12379f2b6346f3d96d0f123006377ab12a74913129cc30cc574db",
       "backup_path": "backups/project_uploads_20261028/attachments/S7NS_Chris_Five_1v1s_and_Episodes_50_51_Reading_Pack.md",
-      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
-      "archived_git_blob_sha1": null,
+      "backup_status": "TEXT_EXTRACTED_SNAPSHOT_ARCHIVED",
+      "archived_git_blob_sha1": "e45f2437e4e778dbac141ee5020bb8c05e8a5bcb",
       "existing_canonical_route": [
         "continuity/episodes/E50/S3_E50_All_In_FINAL_20261021.txt",
         "continuity/episodes/E51/S3_E51_Fetch_R3_FINAL_20261022.txt",
         "source URLs in handoff"
       ],
-      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+      "byte_identity": "TEXT_CONTENT_EXTRACTED_BY_FILES_READER; NORMALIZED VERSION ARCHIVED; RAW BYTE IDENTITY NOT CLAIMED",
+      "notes": "The saved GitHub copy is the full text returned by the Files reader; its content length differs from the mounted raw file. Original raw source hashes retained above; do not call this byte-identical."
     },
     {
       "original_filename": "S7NS_Director_Handoff_Kaze_Creative_Intent.md",
@@ -546,13 +547,14 @@
       "original_git_blob_sha1": "85757b73b4f21674bd1255f523901232b39d9629",
       "original_sha256": "8d792947b45666b42231b129fcdd54fc34211363fba0506dc522c5d02312149a",
       "backup_path": "backups/project_uploads_20261028/attachments/S7NS_Director_Handoff_Kaze_Creative_Intent.md",
-      "backup_status": "RAW_ATTACHMENT_COPY_PENDING",
-      "archived_git_blob_sha1": null,
+      "backup_status": "TEXT_EXTRACTED_SNAPSHOT_ARCHIVED",
+      "archived_git_blob_sha1": "a2fdfea06b9f0ff68c1d40db762fd43df4a92530",
       "existing_canonical_route": [
         "KAZE_READ_FIRST.txt",
         "current authorial intent/psychology/relationship owners"
       ],
-      "byte_identity": "NOT_YET_VERIFIED_NOT_ARCHIVED"
+      "byte_identity": "TEXT_CONTENT_EXTRACTED_BY_FILES_READER; NORMALIZED VERSION ARCHIVED; RAW BYTE IDENTITY NOT CLAIMED",
+      "notes": "The saved GitHub copy is the full text returned by the Files reader; its content length differs from the mounted raw file. Original raw source hashes retained above; do not call this byte-identical."
     },
     {
       "original_filename": "dana_mana.md",
