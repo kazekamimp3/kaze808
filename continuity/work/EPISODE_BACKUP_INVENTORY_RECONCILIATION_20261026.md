@@ -30,3 +30,27 @@ Google Drive was not available in this session; the connected Notion backup reco
 2. Save missing manuscript/checkpoint pairs in GitHub and, where accessible, Drive; read back and verify hashes.
 3. Update Airtable episode rows and the Notion index with the verified references, version titles and hashes.
 4. Update the live cursor and ledger only when the full consecutive sequence 74–79 is supported; keep author acceptance NOT_ASSERTED unless Kaze explicitly accepts.
+
+
+## Backup pass — 2026-10-28
+
+This section records backup work only. It does not change the official cursor, delivery ledger, fictional time, or author-acceptance state.
+
+### Verified full-text backup coverage
+
+- **E74 — Carry-On:** exact GitHub manuscript and checkpoint read back; full text plus checkpoint copied into [Notion full-text backup](https://app.notion.com/p/4074e1b729b3811da909e7759ad58f86). Existing Airtable records remain the status index. Status: DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED.
+- **E75 — Dual Control:** exact saved GitHub manuscript and checkpoint read back; full text plus checkpoint copied into [Notion full-text backup](https://app.notion.com/p/4074e1b729b381e58560efa6d5252223). Delivery identity remains unresolved because the saved checkpoint says prepared-only while chat evidence records PLAY75. This backup does not resolve that conflict or assert acceptance.
+- **E80 — The Four-Billion-Brapple Visitor:** existing full GitHub manuscript/checkpoint pair and full Notion backup verified.
+- **E81 — High Fructose Homicide:** existing full GitHub manuscript/checkpoint pair and full Notion backup verified. The separate “The Velvet Extraction” lineage remains unverified and is not substituted.
+- **E84–E85 — Coolant & Contempt & Deep Sulphur Repo:** full paired feature manuscript/checkpoint backed up in GitHub, full manuscript in Notion, and two Airtable status records read back. Status DELIVERED_PROVISIONAL; author acceptance NOT_ASSERTED.
+
+### Exact-source gaps still open
+
+- **E76:** Notion has a metadata-only backup record for “The Chain of Custody”; prior evidence also names “Out of the Atmosphere.” The exact delivered full text and title/version lineage are not resolved.
+- **E77:** Notion has a metadata-only backup record for “Pre-Existing Conditions”; prior evidence also names “Recognized Property.” The exact delivered full text and title/version lineage are not resolved.
+- **E78 — MOS GREASY:** Airtable records chat delivery reported, but no exact manuscript/checkpoint pair was found in the connected archive during this pass.
+- **E79 — EYEHOLES AND THE EMPIRE:** Airtable records chat delivery reported, but no exact manuscript/checkpoint pair was found in the connected archive during this pass.
+- **E82 — Maximum Surcharge:** existing source is a readiness/blueprint record, not a verified full manuscript.
+- **E83:** the episode text discussed in conversation was not recovered as a complete, exact manuscript from the connected archive during this pass. Do not reconstruct it from summaries.
+
+No missing manuscript has been fabricated, retitled, merged, or marked accepted. Google Drive remains unavailable in this session. The official CURRENT/DELIVERY_LEDGER cursor remains unchanged.
