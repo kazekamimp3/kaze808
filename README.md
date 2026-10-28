@@ -34,6 +34,6 @@ The existing GitHub Actions integrity check is failing on source-hash and byte-r
 
 ## Backup and migration status
 
-- [Project attachment backup](backups/project_uploads_20261028/README.md) documents the 2026-10-28 project-file archive.
+- [Project attachment backup](backups/project_uploads_20261028/README.md) documents the 2026-10-28 project-file archive. Its exact raw-snapshot backup remains partial (15/40 paths archived); [issue #4](https://github.com/kazekamimp3/kaze808/issues/4) tracks the 25 remaining attachment-specific snapshots.
 - [Source-repository migration note](MIGRATION_FROM_KAZEKAMIMP3_20261028.md) records the contents of `kazekamimp3/kazekamimp3`. The former repository is kept as a redirect/provenance source, not deleted.
 - Backup inventories preserve source filenames, hashes, and byte/text-normalization caveats. A content hash verifies stored bytes only; it does not mean the content is current canon or author-accepted.
