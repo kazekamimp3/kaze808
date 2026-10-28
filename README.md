@@ -10,6 +10,10 @@
 4. Resolve the logical owner to its physical source using [`routing/LOGICAL_PHYSICAL_SOURCE_MAP.json`](routing/LOGICAL_PHYSICAL_SOURCE_MAP.json), [`routing/MASTER_SOURCE_INDEX.json`](routing/MASTER_SOURCE_INDEX.json), and [`complete_sources/ACCESS_INDEX.json`](complete_sources/ACCESS_INDEX.json).
 5. Read the full relevant owner and its current scope. An index or summary is not a substitute for the complete source.
 
+## Current organization receipt
+
+Read [the GitHub organization and backup status receipt](continuity/work/S7NS_GitHub_Organization_Backup_Status_20261028.md) for verified readbacks, the partial backup inventory, open integrity issue, and continuity-safety record.
+
 ## Repository layout
 
 - `continuity/` — live episode state, delivery ledger, episode manuscripts/checkpoints, active chronology, scoped author decisions, and historical reconciliation.
