@@ -1,11 +1,10 @@
 # Project-file backup — 2026-10-28
 
-This directory preserves the 40 project/conversation attachments available to the current S7NS session at backup time, including the uploaded source bundles/manifests, the two current space/R20/R21 variants, Dana/Mana sources and two generated handoffs.
+This index inventories 40 project/conversation attachments. **Raw attachment backup status is partial, not complete.**
 
-- `BACKUP_INDEX.json` records every original filename, original source hashes/sizes, the destination path and the copy method.
-- `attachments/` contains the retrievable text copy for every attachment.
-- Exact byte-identical files already present in the canonical repository reuse the existing identical Git blob in the archive path instead of needlessly creating a second content object.
-- For other Project-backed attachments, the Files text reader normalizes line endings while exposing the full text; the original mounted-file SHA-256 and byte count remain recorded for provenance. Therefore those text copies are searchable/readable backups, but their Git blob SHA is not claimed to match the original raw bytes.
-- This archive is provenance, not new canon. Active sources, author scope, current episode state and complete-owner routes still control.
+- `BACKUP_INDEX.json` preserves original filenames, original mounted-file byte counts, local Git blob SHA-1, SHA-256, canonical route, and destination path.
+- `attachments/` currently contains exact blob copies for 13 attachments whose content was already present in the canonical repository. Those are byte-identical and safely reused.
+- The other 27 attachment-specific snapshots differ from the existing GitHub files. Their hashes and current canonical source routes are recorded, but those distinct raw/text versions are not yet copied; do not treat a route-equivalent source as a snapshot backup.
+- Do not overwrite current source owners with old or alternative bundles. The archive is provenance; current scoped author decisions and complete source owners remain authoritative.
 
-The small previous starter README from `kazekamimp3/kazekamimp3` is preserved under `backups/repository_snapshots_20261028/kazekamimp3/README.md`, and the source repository is being left with a migration pointer rather than destructively deleted.
+The small old starter README from `kazekamimp3/kazekamimp3` is preserved under `backups/repository_snapshots_20261028/kazekamimp3/README.md`. The old repository now points to `kazekamimp3/kaze808`.
