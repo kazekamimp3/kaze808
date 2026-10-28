@@ -107,6 +107,7 @@ capabilities:
   project_setup_and_retrieval:
     triggers: ["AI Studio", "source organization", "prompt", "agent instructions", "retrieval", "manifest", "backup"]
     primary_sources:
+      - AI_STUDIO_SYSTEM_PROMPT.txt
       - AI_STUDIO_START_HERE.md
       - AGENTS.md
       - routing/CAPABILITY_ROUTER.yaml
