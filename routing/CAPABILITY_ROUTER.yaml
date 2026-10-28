@@ -1,0 +1,133 @@
+schema: S7NS_CAPABILITY_ROUTER_V1
+pattern_name: Capability-Routed Functional Abstraction (CRFA)
+secondary_principle: Logical/Physical Source Separation
+canonical_repository: kazekamimp3/kaze808
+start_here: AI_STUDIO_START_HERE.md
+default_mode: WORK
+fictional_time_advance_in_WORK: 0
+require_explicit_authorization_for_PLAY: true
+source_status_values:
+  - PROPOSED
+  - AUTHOR_SELECTED
+  - PREPARED
+  - DELIVERED_PROVISIONAL
+  - AUTHOR_ACCEPTED
+  - INSTALLED_READBACK
+authority_order:
+  - latest_direct_author_instruction_for_scope
+  - active_scoped_author_authority
+  - actual_delivered_scene_evidence
+  - complete_original_owners
+  - derived_plans_and_archives
+startup:
+  - KAZE_READ_FIRST.txt
+  - continuity/CURRENT.json
+  - continuity/DELIVERY_LEDGER.json
+  - matching_manuscript_checkpoint_and_delivery_reconciliation
+  - newest_relevant_scoped_author_sources
+  - routing/CAPABILITY_ROUTER.yaml
+  - routing/LOGICAL_PHYSICAL_SOURCE_MAP.json
+  - routing/MASTER_SOURCE_INDEX.json
+  - complete_sources/ACCESS_INDEX.json
+  - MANIFEST.yaml
+retrieval_rules:
+  - "Choose task capabilities before fetching character/source files."
+  - "Resolve logical owner IDs to actual physical file paths or bundle sections."
+  - "Read each relevant complete owner; indexes and summaries route but do not replace owners."
+  - "Prefer current standalone owners; use exact manifest offsets/lengths/hashes for bundled owners."
+  - "Do not bulk-load root numbered bundles unless that is the mapped source."
+  - "Do not infer absent details or silently resolve open contradictions."
+  - "A write is complete only after the destination is read back."
+capabilities:
+  continuity_state:
+    triggers: ["current episode", "next episode", "continuity", "status", "what has happened", "delivery", "checkpoint"]
+    primary_sources:
+      - continuity/CURRENT.json
+      - continuity/DELIVERY_LEDGER.json
+      - continuity/SEASON3_ACTIVE_OUTLINE.json
+    required_followups: ["matching episode manuscript", "matching checkpoint", "matching delivery reconciliation", "latest scoped author decisions"]
+    guard: "Never change cursor from chat memory or a prepared candidate alone."
+  authorial_intent:
+    triggers: ["Kaze intent", "creative direction", "protected line", "selected idea", "excluded idea", "tone"]
+    primary_sources:
+      - KAZE_READ_FIRST.txt
+      - canon/presentation/S7NS_Authorial_Intent_Raw_Note_Fidelity_Active_Comedy_v1_1_20261020.md
+      - continuity/author/S7NS_Cast_Focus_R8_20261023.md
+      - continuity/author/S7NS_Condensed_Weave_R7_20261023.md
+    required_followups: ["latest relevant section", "specific scoped author owner", "related original evidence"]
+  character_fidelity:
+    triggers: ["character", "voice", "speech", "psychology", "relationship", "backstory", "personality"]
+    primary_sources:
+      - routing/LOGICAL_PHYSICAL_SOURCE_MAP.json
+      - routing/MASTER_SOURCE_INDEX.json
+      - complete_sources/ACCESS_INDEX.json
+    required_followups: ["current standalone character owner", "complete original character owner", "speech/psychology/relationship owner relevant to task"]
+    guard: "Do not treat a condensed bundle or derived handoff as full character authority."
+  mechanics_and_equipment:
+    triggers: ["power", "fight", "kit", "weapon", "gear", "BELLY", "inventory", "resources", "injury", "access"]
+    primary_sources:
+      - routing/Current_Roster_Kit_Overrides_20261019.json
+      - canon/characters/s37_kit_application.md
+      - canon/characters/chris_catfish_billy_current.md
+      - canon/characters/dana_mana.md
+    required_followups: ["current state/checkpoint", "exact mechanic owner", "position/access/resource conditions"]
+    guard: "No automatic hits, duplicated actors/gear, new powers, or reset resources."
+  episode_construction:
+    triggers: ["write episode", "draft episode", "PLAY", "scene", "feature", "revise manuscript"]
+    primary_sources:
+      - canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md
+      - continuity/SEASON3_ACTIVE_OUTLINE.json
+      - continuity/CURRENT.json
+      - continuity/DELIVERY_LEDGER.json
+    required_followups: ["complete character/voice/mechanics sources for cast and action", "manuscript/checkpoint", "whole-manuscript quality read and repairs"]
+    guard: "One existing construction procedure. WORK is zero-time; PLAY requires explicit authorization."
+  chronology_and_outline:
+    triggers: ["outline", "arc", "future plan", "timeline", "episode sequence", "space season"]
+    primary_sources:
+      - continuity/SEASON3_ACTIVE_OUTLINE.json
+      - KAZE_READ_FIRST.txt
+    required_followups: ["selected active chronology", "latest relevant author section", "status/knowledge/geography/resource checks"]
+    guard: "Selected future development is not an occurred event."
+  research_and_evidence:
+    triggers: ["research", "verify", "source", "real-world reference", "compare", "evidence"]
+    primary_sources:
+      - research/
+      - research_sources/
+      - 19_RESEARCH(1)_R20_20261024.md
+      - 20_RESEARCH_SUPPORT.md
+    required_followups: ["primary sources first", "coverage and source limits", "open questions", "citations"]
+    guard: "Research does not silently update canon."
+  presentation_and_tts:
+    triggers: ["TTS", "read aloud", "presentation", "voice output", "formatting", "audio-first narration"]
+    primary_sources:
+      - canon/presentation/
+      - 18_WORLD_PRESENTATION(1)_R21_20261024.md
+      - canon/presentation/S7NS_Plain_Language_Work_Communication_20261021.md
+    required_followups: ["speaker-specific owners", "narrator knowledge/access rules", "current output-format instruction"]
+  project_setup_and_retrieval:
+    triggers: ["AI Studio", "source organization", "prompt", "agent instructions", "retrieval", "manifest", "backup"]
+    primary_sources:
+      - AI_STUDIO_START_HERE.md
+      - AGENTS.md
+      - routing/CAPABILITY_ROUTER.yaml
+      - routing/LOGICAL_PHYSICAL_SOURCE_MAP.json
+      - routing/MASTER_SOURCE_INDEX.json
+      - complete_sources/ACCESS_INDEX.json
+      - MANIFEST.yaml
+    guard: "Keep logical owner IDs separate from physical path/section/hash; preserve original bundles."
+  integrations_and_installation:
+    triggers: ["GitHub sync", "Airtable", "Notion", "Drive", "Project installation", "readback", "deployment"]
+    primary_sources:
+      - canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md
+      - integrations/registry.json
+      - integrations/IMPLEMENTATION_RECEIPT.json
+      - integrations/REFERENCE_OVERLAY.json
+    required_followups: ["destination-specific write contract", "fresh readback", "explicit unavailable/pending status"]
+    guard: "A snapshot or staged package does not prove a live installation."
+  backup_and_migration:
+    triggers: ["backup all", "archive project files", "migrate repository", "source repository", "move to kaze808"]
+    primary_sources:
+      - backups/project_uploads_20261028/README.md
+      - backups/project_uploads_20261028/BACKUP_INDEX.json
+      - MIGRATION_FROM_KAZEKAMIMP3_20261028.md
+    required_followups: ["compare original hash and destination bytes", "preserve prior versions", "update backup index and readback receipt"]
