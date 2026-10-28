@@ -1,6 +1,6 @@
 # S7NS — Canonical Source Repository
 
-**Canonical home: `kazekamimp3/kaze808`.** This repository is organized for capability-routed retrieval by AI Studio and other agents. Read [AI_STUDIO_START_HERE.md](AI_STUDIO_START_HERE.md) first.
+**Canonical home: `kazekamimp3/kaze808`.** This repository is organized for capability-routed retrieval by AI Studio and other agents. Start with [AI_STUDIO_START_HERE.md](AI_STUDIO_START_HERE.md), or paste [AI_STUDIO_SYSTEM_PROMPT.txt](AI_STUDIO_SYSTEM_PROMPT.txt) into an AI Studio system/instructions field.
 
 ## One entry point, task-routed source retrieval
 
