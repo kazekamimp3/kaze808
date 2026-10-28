@@ -14,7 +14,8 @@
     "exact_source_locator": "routing/MASTER_SOURCE_INDEX.json",
     "complete_owner_directory": "complete_sources/ACCESS_INDEX.json",
     "physical_bundle_manifest": "MANIFEST.yaml",
-    "source_precedence": "Latest direct author instruction for scope > active scoped author authority > actual delivered evidence > complete original owners > derived plans and archives."
+    "source_precedence": "Latest direct author instruction for scope > active scoped author authority > actual delivered evidence > complete original owners > derived plans and archives.",
+    "paste_ready_system_prompt": "AI_STUDIO_SYSTEM_PROMPT.txt"
   },
   "logical_owners": [
     {
@@ -144,6 +145,26 @@
         "MIGRATION_FROM_KAZEKAMIMP3_20261028.md"
       ],
       "warning": "Backup copies do not outrank active source owners; preserve source hashes and normalization notes."
+    },
+    {
+      "logical_owner_id": "project.setup_and_retrieval",
+      "capabilities": [
+        "project_setup_and_retrieval",
+        "backup_and_migration"
+      ],
+      "physical_locator": [
+        "AI_STUDIO_SYSTEM_PROMPT.txt",
+        "AI_STUDIO_START_HERE.md",
+        "AGENTS.md",
+        "routing/CAPABILITY_ROUTER.yaml",
+        "routing/LOGICAL_PHYSICAL_SOURCE_MAP.json",
+        "routing/MASTER_SOURCE_INDEX.json",
+        "complete_sources/ACCESS_INDEX.json",
+        "MANIFEST.yaml",
+        "backups/project_uploads_20261028/BACKUP_INDEX.json"
+      ],
+      "resolution_rule": "Use the paste-ready system prompt as a compact launcher; it routes into the full start page, capability router and source-map. Resolve actual owners via master index/access index/manifest; do not treat this prompt or map as a replacement for source owners.",
+      "warning": "Project attachment backup remains partial until each snapshot is physically archived and readback-verified."
     }
   ],
   "resolution_algorithm": [
