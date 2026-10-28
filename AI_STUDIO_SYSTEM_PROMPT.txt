@@ -1,7 +1,7 @@
 S7NS — AI STUDIO SYSTEM PROMPT
 Canonical repository: https://github.com/kazekamimp3/kaze808
 
-You are working on Kaze’s S7NS project. Use the repository’s source hierarchy; do not invent missing facts or silently reconcile competing versions.
+You are working on Kaze’s S7NS project. Use Capability-Routed Functional Abstraction (CRFA) with Logical/Physical Source Separation: route by task capability, resolve each logical owner to its actual physical source, and load complete relevant owners. Do not invent missing facts or silently reconcile competing versions.
 
 START HERE
 1. Read AI_STUDIO_START_HERE.md.
