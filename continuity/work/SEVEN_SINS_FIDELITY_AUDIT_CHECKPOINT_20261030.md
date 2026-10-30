@@ -96,3 +96,43 @@ The Notion checkpoint explicitly states that GitHub CURRENT/DELIVERY_LEDGER repo
 - Never infer exact inventory, ammunition counts, injuries, height, weight, scars, tattoos, location, or current health.
 - Preserve the user's requested labels Dana (Male Saiyan) and Mana (Male Dog), with Daynah/Mahnah only as TTS aliases where relevant.
 - No episode PLAY, no scene generation, no fictional time advancement.
+
+
+## Resume progress after checkpoint save — 2026-10-30
+
+Seven provisional manifests have now been drafted in the active conversation:
+1. Kaze
+2. Dana
+3. Mana
+4. Chris
+5. Catfish Billy
+6. Daniel
+7. Arthur Morgan
+
+They are source-grounded drafts, not committed character-owner replacements and not author-accepted canon. The exact user-requested schema is retained.
+
+### Additional extracted facts
+- Kaze: 5'11", 150 lb body weight, 200 lb fully equipped; True-Darkin/CASA; Black Marrow; BLACKLIGHT; right Sasuke-pattern Eternal Mangekyō; retained Shrine, Warwick-derived senses/recovery and bounded Nightmare.
+- Dana: pure Saiyan, 8'10", 840 lb baseline; exact right-sided tattoo placement; Kahuhu; Protector-Precision; distinct baseline and gamma/Kahuna voice routing.
+- Mana: male blue-nose pit bull, 5'7" at shoulder, approximately 1,400 lb base; nonverbal; independent canine agency; bite kit; tail vulnerability.
+- Chris: human, Milwaukee-born, 5'7", 170 lb; Jungle Hunter mask; CHOW MAIN, HAMMER TIME, BONER and one THE CRITIC rifle; no Ki or magic.
+- Catfish Billy: 10'6", approximately 1,700 lb serum baseline; independent consciousness; banjo, BELLY, Mudcat Wrestling and established predator kit.
+- Daniel: mythic simian Cryomancer, 5'8", 170 lb, age 38; Byakugan; spear, chain blade and unbreakable replenishing liquor bottle; permanently intoxicated.
+- Arthur: completed Cyber-Arthur reconstruction; two ten-round UNSHAKEN revolvers; one primary core configured as HIGH NOON or THE COUNT; R6 fully charged/Hypercharge restrictions remain controlling.
+
+### Manifest-level pending fields
+- Kaze: legal/full name expansion; exact distinguishing marks/scars/tattoos; current injuries; current physical inventory; exact individualized trigger hierarchy; exact present-state location/status; Kaze standalone current-owner path discrepancy.
+- Dana: legal/full name expansion; current injuries; current physical inventory; remaining transformation tree; exact signature Ki techniques/power ceiling; exact individualized activation thresholds and trigger hierarchy; current location checkpoint.
+- Mana: exact additional markings/scars; current injuries; revised non-base form measurements; exact present inventory; exact individualized trigger hierarchy; current episode location checkpoint.
+- Chris: legal/full name expansion; exact tattoo designs/scars; current injuries; exact ammunition and carried inventory; exact individualized trigger hierarchy; current episode location.
+- Catfish Billy: exact additional markings/scars; current injuries; exact current BELLY residents/resources and carried inventory; exact individualized trigger hierarchy; current episode placement.
+- Daniel: legal/full name expansion; exact additional markings/scars; current injuries; exact present equipment custody/inventory after departure; Beast activation trigger/duration/cost/multiplier; exact individualized trigger hierarchy.
+- Arthur: exact height/weight; exact additional scars/tattoos; current injuries/damage; current ammunition, cash and carried inventory; exact individualized trigger hierarchy; current episode location.
+
+### Important unresolved source/status constraints
+- The Kaze current owner modules named in MANIFEST.yaml returned 404. The accessible embedded logical owner in 04_KAZE_SINS.md was used for this provisional draft. Resolve before committing a standalone Kaze manifest as final.
+- Daniel's standalone canon/characters/daniel.md route returned 404; 06_OTHER_MAIN_CAST.md contains the accessible owner section.
+- Arthur's character_sources/Arthur_Character_Source.txt route returned 404; 06_OTHER_MAIN_CAST.md plus R4/R5/R6 author files were used.
+- Notion Author Decisions and Exclusions was fetched at 2026-10-28; the Space Saga Brainstorm Checkpoint was fetched at 2026-10-29.
+- Official GitHub CURRENT/DELIVERY_LEDGER cursor conflict with later Airtable/Notion episode records remains unresolved. Do not promote stale registry snapshots into current inventory/location.
+- Next action: resolve missing owner paths and current episode checkpoint; verify pending fields where sources exist; then prepare any requested repository writes. Do not silently replace existing owners or mark these drafts author-accepted.
