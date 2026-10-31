@@ -39,3 +39,7 @@ Keep main and all historical sources. This branch is a recoverable candidate sna
 - Additional dependency gap: E73 checkpoint references continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md, which is absent from this branch snapshot. The complete owner was recovered from the pre-cutover commit but is not installed in this branch. Do not treat the E73 source closure as complete.
 - E73 delivery is not ambiguous after reading its reconciliation receipt: DELIVERED_PROVISIONAL / acceptance NOT_ASSERTED; the prepared checkpoint is intentionally preserved as a separate preparation artifact.
 - E74–79 manuscript/version/receipt reconciliation, raw attachment backup issue #4, full route closure and archive ZIP extraction/hash verification remain open. This branch is not deletion-safe.
+
+
+## Structural readback — 2026-10-31
+Git tree verification: 57 blob files total (56 manifest entries plus CUTOVER_MANIFEST.json); all 56 listed blob SHAs match the recursive Git tree; zero unlisted files. This verifies branch structure and Git blobs, not ZIP download/extraction integrity. The candidate remains NOT deletion-safe.
