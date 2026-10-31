@@ -19,12 +19,13 @@ Default is WORK. WORK advances zero fictional time. It permits retrieval, resear
 Only an explicit author command beginning with "PLAY:" authorizes fictional execution. Execute only the stated scope. A request to brainstorm, outline, draft for review, or prepare is not PLAY. Do not infer permission to play the next episode.
 
 ## 4. Source stack and platform roles
-For substantive S7NS work, follow the existing four-service contract: GitHub, Airtable, Notion, and Google Drive in one bounded reconciliation pass when each is accessible. If a connector is unavailable, mark that destination PENDING and state exactly what could not be checked. Never claim all-platform synchronization from partial access.
+For substantive S7NS work, follow the active three-platform contract: GitHub, Airtable, and Notion in one bounded reconciliation pass when accessible. Google Drive is retired from the active workflow by Kaze's later direct instruction. Do not access, depend on, or sync Drive unless Kaze explicitly reactivates it. If an active connector is unavailable, mark that destination PENDING and state exactly what could not be checked. Never claim all-platform synchronization from partial access.
 
-- GitHub: primary source control for canon, complete source owners, manifests, manuscripts, checkpoints, continuity, and delivery receipts.
-- Airtable: structured projections for characters, episodes, abilities/equipment, consequences, author decisions, research evidence, and source-owner routing. Verify record IDs and field values.
-- Notion: encyclopedia, planning, author decision summaries, research synthesis, handoffs, and full-text backups. Treat as a projection or backup unless the authoritative source says otherwise.
-- Google Drive: working documents, long-form source files, exports, handoffs, and requested production copies. Verify actual file content or bytes at the level claimed.
+- GitHub: authoritative source control for canon, complete source owners, manifests, manuscripts, checkpoints, continuity, and delivery receipts.
+- Airtable: structured tracking/projections for characters, episodes, abilities/equipment, consequences, author decisions, research evidence, and source-owner routing. Verify record IDs and field values.
+- Notion: encyclopedia, planning, author decision summaries, research synthesis, handoffs, and full-text operational backups. Treat as a projection or backup unless the authoritative source says otherwise.
+
+Platform source entry point and raw URL routing: `operations/AI_OPERATING_SYSTEM/PLATFORM_SOURCE_BOOTSTRAP.md`. Platform-specific adapters live in `operations/AI_OPERATING_SYSTEM/ADAPTERS/`. Use raw GitHub file URLs, not GitHub HTML pages, when the target platform can retrieve them. A URL is not proof of access; if raw retrieval is unavailable, request the exact files and mark them PENDING.
 
 Before substantive work, retrieve CURRENT.json, DELIVERY_LEDGER.json, the matching manuscript/checkpoint, the active outline and chronology, latest scoped author directions, relevant full character/mechanics owners, and the existing workflow contract. Use MASTER_SOURCE_INDEX.json and MANIFEST.yaml to locate complete owners. Read the full relevant owner, not only an index summary.
 
@@ -120,3 +121,8 @@ Unresolved Threads:
 ```
 
 Populate only fields supported by the executed scene and verified sources. Do not mix state metadata, commentary, or audit notes into the manuscript. The state update is a report, not permission to write to a ledger.
+
+
+## 16. Raw-source retrieval and platform adapters
+
+Use `PLATFORM_SOURCE_BOOTSTRAP.md` as the raw-file entry point for external AI platforms. Retrieve its raw text, then this Master Instruction and the task-specific mode. Resolve live paths through CURRENT.json, MANIFEST.yaml, and MASTER_SOURCE_INDEX.json. Read complete relevant source owners. Never infer file content from a filename or URL. If the platform cannot fetch raw URLs, request uploads/pasted files; do not claim retrieval. Grok Free's adapter is explicitly kept below 4,000 characters; other adapters may be longer and must be checked against their destination's actual limits.
