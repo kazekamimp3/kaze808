@@ -74,3 +74,15 @@ GitHub README identifies pre-existing CI integrity failure issue #3 (source-hash
 
 ## Current package decision
 NO clean-cutover ZIP has been built. The source generations and delivery cursor conflicts make a replacement package unsafe until dependency closure and authoritative source generation are verified. No existing project source has been deleted or replaced. This is a deliberate migration safety hold, not a completed Definition of Done.
+
+
+## Source validation and instruction draft findings — 2026-10-30
+The attached Project manifest was locally checked against mounted source bytes: 28 of 31 physical sources match recorded length and SHA256; 3 physical paths are missing (ACTIVE_AUTHOR_UPDATE_20261017_BRIAR_KAZE_RICK_MORTY.txt, Dana_Character_Source 2.txt, Mana_Character_Source 2.txt). Its 535 logical modules resolve/hash-check for 533; two Dana/Mana logical owners lack their declared physical source. Renamed/related Markdown uploads exist but were not silently substituted. This is a hard dependency-closure failure for that attachment package.
+
+The current GitHub manifest is a separate 28-bundle / 476-module generation. Do not merge its logical modules with the 535-module Project manifest by filename or assume their physical offsets/hashes are interchangeable.
+
+Jabba's exact speech CORE owner has now been located in continuity/author/S7NS_Cast_Focus_R8_20261023.md: “Jabba speech CORE Joey Diaz throughout daily/business/domestic speech: personal specifics, bodily detail, detours, corrections, reenacted voices, affectionate vulgarity and threat. Not generic crimeboss plus cocksucker.” The same owner records source research as text analysis, not a full vocal audit. The 2026-10-29 Brainstorm Checkpoint independently repeats Joey Diaz-style cadence. Use both; do not claim audio validation.
+
+A copy-ready under-5,000-character instruction draft is prepared separately. It is explicitly NOT a cutover install and cannot be called ZIP-synchronized until a safe authoritative ZIP is built and verified.
+
+Validation totals for attached Project manifest: physical 28/31 exact; logical modules 533/535 exact; missing physical dependencies 3; missing logical routes 2; hash mismatches 0 among files that were present and resolvable. Overall result FAIL / NOT CUTOVER-READY.
