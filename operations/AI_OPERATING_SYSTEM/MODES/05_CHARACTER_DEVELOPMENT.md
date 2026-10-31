@@ -16,3 +16,7 @@ Develop source-faithful character behavior, dialogue, relationships, comedy, mot
 
 ## Output
 Provide source-grounded character findings, dialogue/behavior options, scene applications, mechanics/continuity dependencies, and clearly labeled proposals. Nothing becomes canon without Kaze's selection and the appropriate workflow.
+
+
+## Sandbox samples in WORK
+Dialogue/behavior tests and short exploratory scene fragments may be supplied as [NON-CANON SANDBOX SAMPLE]. They are evaluation material only, not character canon or continuity evidence.
