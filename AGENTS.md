@@ -8,7 +8,7 @@ The only canonical project repository is `kazekamimp3/kaze808`. Begin every subs
 3. Resolve the matching manuscript, checkpoint and any delivery reconciliation named by those live records.
 4. Read the newest scoped author decisions relevant to the requested task.
 5. Use `routing/CAPABILITY_ROUTER.yaml` then `routing/LOGICAL_PHYSICAL_SOURCE_MAP.json` to determine the required capabilities and physical owners.
-6. Use `routing/MASTER_SOURCE_INDEX.json`, `complete_sources/ACCESS_INDEX.json`, and the applicable manifest to retrieve complete original owners. Read the whole relevant owner section, not just an index summary.
+6. Use `routing/MASTER_SOURCE_INDEX.json` for exact physical paths/sections/offsets/lengths/hashes and `complete_sources/ACCESS_INDEX.json` as the owner directory. Use root `MANIFEST.yaml` only if present and verified current. The cutover candidate excludes the stale root manifest; `CUTOVER_MANIFEST.json` inventories candidate files/blobs but does not replace logical-owner locators. Read the whole relevant owner section, not just an index summary.
 
 ## Hard rules
 - The logical owner is a concept; the physical source is the actual file/section/hash. Never assume the owner name is a standalone filename.
