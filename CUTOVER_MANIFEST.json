@@ -1,0 +1,302 @@
+{
+  "schema": "S7NS_CUTOVER_SOURCE_MANIFEST_V1",
+  "built": "2026-10-31",
+  "repository": "kazekamimp3/kaze808",
+  "branch": "cutover/s7ns-authoritative-20261031",
+  "base_commit": "ac8138414d32f53ce75f479b69817a62ee60b18a",
+  "previous_cutover_commit": "27178ed0f7b5498c8bbbae6c278c4d8f6297b0d5",
+  "file_count": 55,
+  "source_bundle_count": 28,
+  "project_instruction_chars": 4426,
+  "current": {
+    "last_delivered_episode": 73,
+    "status": "DELIVERED_PROVISIONAL",
+    "author_acceptance": "NOT_ASSERTED",
+    "next_episode": 74,
+    "reconciliation_gate": "E74-E79 OPEN"
+  },
+  "qa": {
+    "source_blob_sha_readback": "VERIFIED",
+    "tree_path_readback": "VERIFIED",
+    "ci_status": "NO STATUS CHECKS OR WORKFLOW RUNS",
+    "archive_binary_extraction": "NOT VERIFIED IN RUNTIME",
+    "full_dependency_closure": "NOT CLAIMED; E74-E79 GATE OPEN"
+  },
+  "entries": [
+    {
+      "path": "11_RUNETERRA_A_M.md",
+      "blob_sha": "ac68ff49a95dd09654106d05154222b4d48ce6aa",
+      "role": "source_bundle"
+    },
+    {
+      "path": "12_RUNETERRA_N_Z.md",
+      "blob_sha": "9d25a11bd7a742b20cfd168b6086126eba157711",
+      "role": "source_bundle"
+    },
+    {
+      "path": "20_RESEARCH_SUPPORT.md",
+      "blob_sha": "d6e31258029a2db118f262bf271a0c84206b360b",
+      "role": "source_bundle"
+    },
+    {
+      "path": "10_RUNETERRA_CORE.md",
+      "blob_sha": "38d5c7a0f0c9b31600d363389bfd9ed4f2c1dd46",
+      "role": "source_bundle"
+    },
+    {
+      "path": "24_HISTORY_ARCHIVE_PART_03.md",
+      "blob_sha": "dc89b786054261555bb2f423e4e13e91790ff9c2",
+      "role": "source_bundle"
+    },
+    {
+      "path": "09_RUNETERRA_APPENDIX.md",
+      "blob_sha": "cf83e501b0218ab70579fd77aaba13355403361f",
+      "role": "source_bundle"
+    },
+    {
+      "path": "26_HISTORY_ARCHIVE_PART_05.md",
+      "blob_sha": "a45aec080fcb6b8a9ae53413c0028eb2e4a1fcc9",
+      "role": "source_bundle"
+    },
+    {
+      "path": "21_HISTORICAL_STATE.md",
+      "blob_sha": "95e7b9bfe086791360ba2f5c933c52f38ccf2b69",
+      "role": "source_bundle"
+    },
+    {
+      "path": "22_HISTORY_ARCHIVE_PART_01.md",
+      "blob_sha": "105f775542ed637f8a7c48ed9293d8fbfccea45e",
+      "role": "source_bundle"
+    },
+    {
+      "path": "27_HISTORY_ARCHIVE_PART_06.md",
+      "blob_sha": "07f9228289413973e27b0195e236cdc1365d4d2e",
+      "role": "source_bundle"
+    },
+    {
+      "path": "23_HISTORY_ARCHIVE_PART_02.md",
+      "blob_sha": "c15cbc9608c600ea7e7491c9c8797d6d3ac57e20",
+      "role": "source_bundle"
+    },
+    {
+      "path": "25_HISTORY_ARCHIVE_PART_04.md",
+      "blob_sha": "735a8d69405817656e16074a2dd952d2b3619514",
+      "role": "source_bundle"
+    },
+    {
+      "path": "14_BILLY_SPECIALS(3).md",
+      "blob_sha": "e55d2eeeb3b662874b2c286736ff7983141146fc",
+      "role": "source_bundle"
+    },
+    {
+      "path": "07_CROSSOVER_CAST(3).md",
+      "blob_sha": "c12173b13e8e6070cac8c6c50de4eaa138718301",
+      "role": "source_bundle"
+    },
+    {
+      "path": "08_CROSSOVER_EXTENDED(4).md",
+      "blob_sha": "865e52aef15d2940f7c3c49599fdf0563a56e29f",
+      "role": "source_bundle"
+    },
+    {
+      "path": "17_BELLY_COMBAT.md",
+      "blob_sha": "e1c877aa496a7ec4eb3757e2119cc634439b644b",
+      "role": "source_bundle"
+    },
+    {
+      "path": "18_WORLD_PRESENTATION.md",
+      "blob_sha": "abf744018f9ffb9c268cce80e93951f4f5b3a4fc",
+      "role": "source_bundle"
+    },
+    {
+      "path": "ACTIVE_AUTHOR_UPDATE_20261017_BRIAR_KAZE_RICK_MORTY.txt",
+      "blob_sha": "38ecaf5ffb3e628627a58aa88f6fb0ad1095aa63",
+      "role": "source_bundle"
+    },
+    {
+      "path": "16_ROSTER_DUELS_TRAVEL.md",
+      "blob_sha": "737fc1f72b6abde8999ea2eeb1433a3ee6d99c3f",
+      "role": "source_bundle"
+    },
+    {
+      "path": "01_BOOT_AUTHORITY.md",
+      "blob_sha": "bf74cc7edd478187593b04c1523d6d8b970b705b",
+      "role": "source_bundle"
+    },
+    {
+      "path": "02_CURRENT_STATE.md",
+      "blob_sha": "a4f33bcc5383ea36353607f4f7844a3606729d89",
+      "role": "source_bundle"
+    },
+    {
+      "path": "03_INDEX_ROUTING.md",
+      "blob_sha": "1ae11b2c9e2405a63fb5a8838b64c94f4bb197e5",
+      "role": "source_bundle"
+    },
+    {
+      "path": "04_KAZE_SINS.md",
+      "blob_sha": "48724986f5620153be34c974ad8febff38bc9ef4",
+      "role": "source_bundle"
+    },
+    {
+      "path": "05_CHRIS_BILLY.md",
+      "blob_sha": "bbc588e2c5a2a0587c8b6325acdad1c898979d9c",
+      "role": "source_bundle"
+    },
+    {
+      "path": "06_OTHER_MAIN_CAST.md",
+      "blob_sha": "e264b1e88006911504c565c89556c6caaae7e436",
+      "role": "source_bundle"
+    },
+    {
+      "path": "13_SEASON3_CURRENT.md",
+      "blob_sha": "c405f4e95a986f51c372eb520d167d90d0681af4",
+      "role": "source_bundle"
+    },
+    {
+      "path": "15_SEASON3_PLOTS.md",
+      "blob_sha": "114825bf0506679df338372b710b120bb98a64e9",
+      "role": "source_bundle"
+    },
+    {
+      "path": "19_RESEARCH.md",
+      "blob_sha": "e902d6dc02035b4aefd9b5cccdbdd456c7df1e12",
+      "role": "source_bundle"
+    },
+    {
+      "path": "AI_STUDIO_START_HERE.md",
+      "blob_sha": "0f6ac758729a77c2bd69384169757035e2e7a422",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "KAZE_READ_FIRST.txt",
+      "blob_sha": "1d9638ec3711840a20a6c5ad32c54ffa8ad732ab",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "AGENTS.md",
+      "blob_sha": "c98837232511fe31d419e37d46963bb2e761f5cc",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/CURRENT.json",
+      "blob_sha": "46d557e00a0391f3fa6c2ddb3cadd0ad5a9ece1b",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/DELIVERY_LEDGER.json",
+      "blob_sha": "8c7f9c737ab0351571d1a6bb11910c68bc592fda",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/SEASON3_ACTIVE_OUTLINE.json",
+      "blob_sha": "d9961c4718feb118f55c1ba73cf9b63aa3a4d6b9",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "routing/MASTER_SOURCE_INDEX.json",
+      "blob_sha": "9a149fbbc9a54b96273f23931599d67f9fc206db",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "routing/LOGICAL_PHYSICAL_SOURCE_MAP.json",
+      "blob_sha": "5866cffd0435c2cf4e039e4bb2fb6795f03e6450",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "routing/CAPABILITY_ROUTER.yaml",
+      "blob_sha": "f8d524f2aa7f85bf5815c95065442fb4c0f017c9",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "complete_sources/ACCESS_INDEX.json",
+      "blob_sha": "5ca503db10558ff1e7439fcc18882608373fe683",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md",
+      "blob_sha": "d87b1884d501efa36ddf646b10133ea99bb33d80",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "canon/presentation/S7NS_Authorial_Intent_Raw_Note_Fidelity_Active_Comedy_v1_1_20261020.md",
+      "blob_sha": "d5c42eaaa29ce1494f1444d347ea08715ea2438e",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "canon/presentation/S7NS_Plain_Language_Work_Communication_20261021.md",
+      "blob_sha": "37b96fc3d17260a9258aeb759cca6d4e1d4ad0ba",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/author/S7NS_Cast_Focus_R8_20261023.md",
+      "blob_sha": "30309c64e31abda4ac2d0eee99cb6f3225a164c6",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/author/S7NS_Condensed_Weave_R7_20261023.md",
+      "blob_sha": "cf2373e10f826c52fb6e88202e9593d5fb351eb3",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/author/S7NS_SPACE_ARC_E82_E100_AI_STUDIO_HANDOFF_20261027.md",
+      "blob_sha": "2649fd7b651ad7c06c1dd3ba91f2041b2a6f3454",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/author/S7NS_Kaze_Spice_Vaas_Fidelity_20261028.md",
+      "blob_sha": "07e6ef86f8bb5275d6f84942fc3f90c5bea5d402",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/author/S7NS_SPACE_SAGA_APPROVED_DEVELOPMENTS_20261031.md",
+      "blob_sha": "65eb25d650f387cd3aecb7396a04f721b599e286",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/work/EPISODE_BACKUP_INVENTORY_RECONCILIATION_20261026.md",
+      "blob_sha": "764c827dec05e5e97aaf9cd064b7c038a9e6f088",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/work/S7NS_E81_LINEAGE_LOCK_AND_E74_E79_AUDIT_20261026.md",
+      "blob_sha": "1888f145e29fcd781704a23219fc8d266851d5c9",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/work/S7NS_CONSOLIDATION_CHECKPOINT_20261030.md",
+      "blob_sha": "1185a281a89e4b5e064b92aab936fc557dbf06e7",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/work/S7NS_CONSOLIDATION_CHECKPOINT_20261031.md",
+      "blob_sha": "f8dfce7ee5d61ba93086b26d1db34f4ec29107d7",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/episodes/E73/S3_E73_Face_Value_20261025.txt",
+      "blob_sha": "e78a0a9eb7259c2156a80f7bc1db786d2e284864",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/episodes/E73/S3_E73_Face_Value_20261025_Checkpoint.json",
+      "blob_sha": "a8fdd5fca359de720385177548607cece620ee70",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "continuity/episodes/E73/CHAT_DELIVERY_RECONCILIATION_E73_20261025.json",
+      "blob_sha": "25169ade4e701961747bd8b19e77f26d0c94eb7f",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "PROJECT_INSTRUCTIONS.txt",
+      "blob_sha": "0eb7dd5aed901036a3cf3544b52d97c3dcb0d6be",
+      "role": "control_or_routed_owner"
+    },
+    {
+      "path": "S7NS_CUTOVER_INDEX.md",
+      "blob_sha": "7e9b86aea93480342e709d11459b417efb8beb9f",
+      "role": "control_or_routed_owner"
+    }
+  ]
+}
