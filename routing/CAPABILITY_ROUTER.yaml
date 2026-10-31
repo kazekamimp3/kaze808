@@ -29,12 +29,12 @@ startup:
   - routing/LOGICAL_PHYSICAL_SOURCE_MAP.json
   - routing/MASTER_SOURCE_INDEX.json
   - complete_sources/ACCESS_INDEX.json
-  - MANIFEST.yaml
+  - CUTOVER_MANIFEST.json
 retrieval_rules:
   - "Choose task capabilities before fetching character/source files."
   - "Resolve logical owner IDs to actual physical file paths or bundle sections."
   - "Read each relevant complete owner; indexes and summaries route but do not replace owners."
-  - "Prefer current standalone owners; use exact manifest offsets/lengths/hashes for bundled owners."
+  - "Prefer current standalone owners; use exact MASTER_SOURCE_INDEX offsets/lengths/hashes for bundled owners. Root MANIFEST.yaml is optional and usable only if present/current; CUTOVER_MANIFEST.json inventories candidate files and does not replace owner locators."
   - "Do not bulk-load root numbered bundles unless that is the mapped source."
   - "Do not infer absent details or silently resolve open contradictions."
   - "A write is complete only after the destination is read back."
@@ -114,8 +114,8 @@ capabilities:
       - routing/LOGICAL_PHYSICAL_SOURCE_MAP.json
       - routing/MASTER_SOURCE_INDEX.json
       - complete_sources/ACCESS_INDEX.json
-      - MANIFEST.yaml
-    guard: "Keep logical owner IDs separate from physical path/section/hash; preserve original bundles."
+      - CUTOVER_MANIFEST.json
+    guard: "Keep logical owner IDs separate from physical path/section/hash; preserve original bundles. Use MASTER_SOURCE_INDEX for owner locators; do not require an absent stale root MANIFEST.yaml."
   integrations_and_installation:
     triggers: ["GitHub sync", "Airtable", "Notion", "Drive", "Project installation", "readback", "deployment"]
     primary_sources:
