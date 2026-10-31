@@ -40,7 +40,7 @@ GitHub is the authoritative source repository. Airtable provides structured trac
 These are convenience assignments only. No model has canon authority.
 
 ## Existing S7NS procedures that remain controlling
-- Four-service source/update contract: `canon/presentation/S7NS_Four_Connector_Integrated_Brainstorm_PLAY_Workflow_20261019.md`
+- Active three-platform source/update contract: `operations/AI_OPERATING_SYSTEM/MASTER_INSTRUCTION.md` and `PLATFORM_SOURCE_BOOTSTRAP.md` (the dated four-connector contract is historical; its Google Drive requirement is superseded).
 - Sole scene construction/revision procedure: `canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md`
 - Current state: `continuity/CURRENT.json`
 - Delivery ledger: `continuity/DELIVERY_LEDGER.json`
@@ -55,7 +55,7 @@ The two-episode seamless-feature default is conditional on the latest author dir
 - Airtable and Notion contain later provisional delivery evidence, including E74, E75, E80, E81, and E84–E85.
 - E74–79 and official cursor reconciliation remain unresolved. E76–79 have exact-source gaps or title/version conflicts in the current inventory. Do not advance CURRENT/LEDGER or infer acceptance.
 - The Oct 29 Space Saga remaster checkpoint is WORK-only: no episode draft, no PLAY, zero fictional time advanced. Older event inventory and E82–E100 development remain candidates unless specifically selected.
-- The Notion handoff reports Google Drive was unavailable for its operation. In the ChatGPT environment checked on 2026-10-30, the Google Drive connector was installed but disabled by administrator policy. No Drive read/write/readback is claimed here.
+- Google Drive was unavailable in the checked ChatGPT environment on 2026-10-30 and was subsequently retired from active S7NS operations by Kaze. Do not recheck or use it unless explicitly reactivated.
 
 This snapshot is a warning about reconciliation, not an amendment to story canon. Recheck live sources before every substantive task.
 
