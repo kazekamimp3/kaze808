@@ -20,3 +20,7 @@ Return concise findings, citations, source quality, uncertainties, S7NS relevanc
 
 ## Research access boundary
 If a research source or connector is unavailable, state the coverage limit and request the exact material needed when consequential. Do not imply that an unavailable source was checked.
+
+
+## Research access boundary
+If a research source or connector is unavailable, state the coverage limit and request the exact material needed when consequential. Do not imply that an unavailable source was checked.
