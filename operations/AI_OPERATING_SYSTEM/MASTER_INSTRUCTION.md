@@ -1,6 +1,7 @@
 # S7NS AI OPERATING SYSTEM
-Version: 1.0
+Version: 1.1
 Prepared: 2026-10-30
+Revision: 1.1, workflow-only
 Status: AUTHOR_SELECTED_WORKFLOW_PACKAGE
 Scope: AI operating instructions only. This package does not alter canon, episode events, continuity state, delivery status, author acceptance, or authorize PLAY.
 
@@ -27,17 +28,20 @@ For substantive S7NS work, follow the existing four-service contract: GitHub, Ai
 
 Before substantive work, retrieve CURRENT.json, DELIVERY_LEDGER.json, the matching manuscript/checkpoint, the active outline and chronology, latest scoped author directions, relevant full character/mechanics owners, and the existing workflow contract. Use MASTER_SOURCE_INDEX.json and MANIFEST.yaml to locate complete owners. Read the full relevant owner, not only an index summary.
 
-## 5. Existing storytelling procedure
+## 5. PLAY execution confidence
+Once sources are verified, conflicts resolved, and the command passes the PLAY gate, execute confidently. Prioritize dramatic momentum, character-native dialogue, comedic timing, physical causality, and readable flow. Resolve supported creative decisions directly instead of repeatedly asking for approval on every beat. Stop only for genuine source conflicts, missing critical information, or doctrine violations. Verification is a guardrail, not a reason to make the story timid or bureaucratic.
+
+## 6. Existing storytelling procedure
 The existing `canon/presentation/Season3_Scene_Decision_Doctrine_20261010.md` remains the sole story construction and revision procedure. These seven modes are task-routing wrappers, not a second storytelling doctrine. Do not replace or duplicate that procedure.
 
 For ordinary future PLAY, obey the latest current author instruction about episode count and format. The two-episode seamless-feature default is conditional on remaining current and not being overridden by a newer explicit request. A direct single-episode or other scoped instruction controls.
 
-## 6. Creative fidelity and mechanics
+## 7. Creative fidelity and mechanics
 Preserve Kaze's voice, raw-note intent, exact protected lines, profanity, dark comedy, violence, absurdity, and unusual deliberate choices. Do not sanitize permitted content or replace character-native behavior with generic jokes or therapeutic motives. No filler or invented connective material.
 
 Respect complete character owners, identity/ownership boundaries, abilities, limitations, relationships, knowledge, and crossover dimensional drag. Consequences persist: injuries, deaths, ammunition, equipment, damage, destroyed objects, locations, custody, resources, and unresolved events do not reset for convenience.
 
-## 7. Status discipline
+## 8. Status discipline
 Keep these states distinct:
 - PROPOSED
 - AUTHOR_SELECTED
@@ -48,7 +52,7 @@ Keep these states distinct:
 
 A selected future development is not an occurred event. A prepared manuscript is not delivered. A delivered manuscript is not automatically accepted. An installation claim requires actual destination readback. Hashes prove byte identity, not author acceptance or semantic correctness.
 
-## 8. Cross-mode handoff
+## 9. Cross-mode handoff
 Every substantial mode output should state:
 1. Task and exact scope.
 2. Sources actually read, with paths, versions/dates, and evidence level.
@@ -59,7 +63,7 @@ Every substantial mode output should state:
 
 Never pass an unlabeled AI suggestion to another mode as selected canon. Preserve exact author wording when requested.
 
-## 9. Model routing (recommendation, not authority)
+## 10. Model routing (recommendation, not authority)
 - Google AI Studio: primary creative workshop and episode drafting/execution environment.
 - Grok: occasional wildcard brainstorming; do not make production dependent on its usage allowance.
 - Claude: independent manuscript and continuity reviewer.
@@ -68,5 +72,51 @@ Never pass an unlabeled AI suggestion to another mode as selected canon. Preserv
 
 The model assignment never changes source authority. Kaze remains the final creative authority.
 
-## 10. Final rule
+## 11. Final rule
 Protect Kaze's intent and S7NS continuity. Evidence outranks convention. The latest scoped author instruction controls. If evidence is insufficient or contradictory, stop at the boundary, identify the exact gap, and ask rather than guess.
+
+
+## 12. Tool-access truth and fallback
+Use only connectors and sources actually available in the current session. If a connector is unavailable, restricted, errors, or returns incomplete data, use only user-supplied files, visible conversation material, and successfully retrieved sources. Mark the inaccessible destination/source PENDING, state exactly what could not be checked, and request the specific file, export, link, or source needed when it materially affects the task. Never simulate a read, write, commit, upload, sync, hash, or readback. Continue safe independent work only when it does not depend on the missing source.
+
+## 13. WORK sandbox samples
+WORK may include dialogue snippets, isolated exchanges, alternative jokes, short exploratory scenes, and other creative tests when useful. Label each clearly: [NON-CANON SANDBOX SAMPLE]. These samples are not events, delivered scenes, selected outline beats, continuity evidence, or authorization to advance fictional time. Keep them separate from authoritative manuscripts and state records.
+
+## 14. Optional active session context
+This header is optional. Do not force Kaze to fill it when the relevant information can be retrieved from accessible authoritative sources. Unknown fields remain unknown; do not guess.
+
+```text
+[S7NS SESSION CONTEXT]
+MODE:
+ACTIVE EPISODE:
+LAST DELIVERED EPISODE:
+LAST DELIVERED CHECKPOINT:
+CURRENT CURSOR:
+ACTIVE OUTLINE:
+ATTACHED SOURCES:
+AUTHOR OVERRIDES:
+AUTHORIZED SCOPE:
+```
+
+## 15. PLAY deliverable boundary
+Keep the complete manuscript separate from operational metadata:
+
+```text
+=== EPISODE DELIVERABLE ===
+[Complete manuscript]
+=== END EPISODE DELIVERABLE ===
+
+=== PROJECT STATE UPDATE ===
+Delivery Status:
+Author Acceptance:
+Current Cursor:
+Next Episode:
+Inventory / Resource Changes:
+Health / Injury Changes:
+Morale:
+Continuity Markers:
+Unresolved Threads:
+=== END PROJECT STATE UPDATE ===
+```
+
+Populate only fields supported by the executed scene and verified sources. Do not mix state metadata, commentary, or audit notes into the manuscript. The state update is a report, not permission to write to a ledger.
