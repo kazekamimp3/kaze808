@@ -26,7 +26,7 @@ This is an isolated, recoverable source snapshot. It is NOT YET A DELETION-SAFE 
 - CUTOVER_MANIFEST.json inventories every selected file and blob SHA.
 
 ## Exclusions
-The stale root MANIFEST.yaml, old attachment manifests, duplicate renamed uploads, the October 29 49-entry handoff ZIP, unverified E74–79 manuscript/checkpoint pairs and unrelated backup snapshots are not included as controlling replacements. Historical evidence remains inside the routed source bundles where the source index maps it.
+The stale root MANIFEST.yaml, old attachment manifests, duplicate renamed uploads, the October 29 49-entry handoff ZIP, unverified E76–79 pairs; E74's verified delivery pair and E75's existing but delivery-ambiguous pair are both absent from this candidate and unrelated backup snapshots are not included as controlling replacements. Historical evidence remains inside the routed source bundles where the source index maps it.
 
 ## Safe-use rule
 Keep main and all historical sources. This branch is a recoverable candidate snapshot, not permission to delete the existing project. Only promote after the archive itself is extracted and hashed locally, all routes/dependencies resolve, and the E74–79 and attachment-backup gates are reconciled.
