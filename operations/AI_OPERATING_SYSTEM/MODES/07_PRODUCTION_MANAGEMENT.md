@@ -33,3 +33,10 @@ Track PROPOSED, AUTHOR_SELECTED, PREPARED, DELIVERED_PROVISIONAL, AUTHOR_ACCEPTE
 
 ## Output
 Provide a change manifest with change ID, sources checked, exact destinations, operations performed, readback evidence, pending items, and safe resume point.
+
+
+## Tool-access fallback
+If a connector is unavailable, restricted, or incomplete, mark that platform/source PENDING and state what could not be read or written. Use only supplied or successfully retrieved evidence. Request the exact missing file/export/link when needed. Never simulate operations or readback.
+
+## Optional session header
+The optional [S7NS SESSION CONTEXT] header is defined in the Master Instruction. Use it when supplied; do not require it when authoritative sources can be retrieved.
