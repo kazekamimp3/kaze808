@@ -86,3 +86,11 @@ Jabba's exact speech CORE owner has now been located in continuity/author/S7NS_C
 A copy-ready under-5,000-character instruction draft is prepared separately. It is explicitly NOT a cutover install and cannot be called ZIP-synchronized until a safe authoritative ZIP is built and verified.
 
 Validation totals for attached Project manifest: physical 28/31 exact; logical modules 533/535 exact; missing physical dependencies 3; missing logical routes 2; hash mismatches 0 among files that were present and resolvable. Overall result FAIL / NOT CUTOVER-READY.
+
+
+## QA / staged instruction verification — 2026-10-30
+The active GitHub Actions workflow runs scripts/validate.py, scripts/test_integrity.py and scripts/validate_continuity.py. These scripts are tied to the repository root manifest's older physical/logical source generation and assert a state/Post_Chris_Restart.json and specific older override paths. This is not evidence of semantic continuity acceptance; it is byte/routing validation only. The existing repository README already flags integrity failure issue #3. No complete repository checkout/runtime was available in this session to execute the GitHub workflow end-to-end. Do not claim smoke/regression/integration PASS.
+
+The concise project instruction draft was read back from GitHub. Exact UTF-8 character count: 4907; limit: 5,000; result: PASS. It is staged under continuity/work/S7NS_PROJECT_INSTRUCTIONS_DRAFT_20261030.txt and is explicitly NOT installed as root instructions or synchronized to a cutover ZIP.
+
+Cutover remains BLOCKED: source dependency gaps (attached manifest 28/31 physical, 533/535 logical), incompatible manifest generations (GitHub 28/476 vs Project 31/535), official cursor E73 vs later app evidence, E76–79 title/source gaps, known CI integrity issue #3, and partial attachment backup issue #4. No complete authoritative source closure, archive, or end-to-end QA pass is established. Do not delete/replace project files or claim Definition of Done.
