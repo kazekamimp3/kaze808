@@ -19,3 +19,7 @@ Return a structured outline with source references, sequence, scene purpose, cha
 
 ## Sandbox samples in WORK
 You may prepare short dialogue samples, joke alternatives, exchanges, or exploratory fragments to help evaluate outline possibilities. Label them `[NON-CANON SANDBOX SAMPLE]`. They do not become selected beats or story events.
+
+
+## Sandbox samples in WORK
+Short dialogue samples, joke alternatives, exchanges, or exploratory fragments may help evaluate outline possibilities. Label them [NON-CANON SANDBOX SAMPLE]. They do not become selected beats or story events.
