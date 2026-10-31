@@ -19,7 +19,7 @@
     "tree_path_readback": "VERIFIED",
     "ci_status": "NO STATUS CHECKS OR WORKFLOW RUNS",
     "archive_binary_extraction": "NOT VERIFIED IN RUNTIME",
-    "full_dependency_closure": "NOT CLAIMED; E74-E79, RAW ATTACHMENT BACKUP, MISSING E73 BEE MOO SCOPE OWNER, AND ARCHIVE EXTRACTION GATES OPEN"
+    "full_dependency_closure": "NOT CLAIMED; E74-E79 RECONCILIATION, MISSING E73 SCOPE AND E74/E75 EPISODE PAIRS, RAW ATTACHMENT BACKUP, AND ARCHIVE EXTRACTION GATES OPEN"
   },
   "entries": [
     {
@@ -299,7 +299,7 @@
     },
     {
       "path": "S7NS_CUTOVER_INDEX.md",
-      "blob_sha": "bd7dc705164347e5801ca3c82bc2099e67baff4b",
+      "blob_sha": "d4c886439b315eba32e6d1ad7b3fea26debabf81",
       "role": "control_or_routed_owner"
     }
   ]
