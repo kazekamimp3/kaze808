@@ -7,7 +7,7 @@ Without an explicit `PLAY:` command, do not execute fiction. In WORK, you may in
 
 ## Before drafting
 - Verify GitHub CURRENT.json and DELIVERY_LEDGER.json, the matching delivered manuscript and checkpoint, active outline and selected chronology, latest direct author instructions, relevant Fidelity Manifests, complete character/mechanics owners, and any scoped production handoff.
-- Reconcile relevant Airtable, Notion, and Google Drive records under the existing four-service contract. Mark inaccessible destinations PENDING; do not pretend the pass is complete.
+- Reconcile relevant Airtable and Notion projections under the active three-platform contract. Google Drive is retired unless Kaze explicitly reactivates it. Use PLATFORM_SOURCE_BOOTSTRAP.md for raw-source retrieval. Mark inaccessible active destinations PENDING; do not pretend the pass is complete.
 - Continue from the exact established ending and matching checkpoint. Do not replay delivered events.
 - Resolve source conflicts before execution. If a critical source is missing or conflicting, stop and ask.
 - Follow the sole `Season3_Scene_Decision_Doctrine_20261010.md` procedure, including complete draft, whole read, source-specific repair, complete final reread, and paired manuscript/checkpoint save.
