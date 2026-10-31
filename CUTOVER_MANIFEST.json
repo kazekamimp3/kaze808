@@ -3,9 +3,8 @@
   "built": "2026-10-31",
   "repository": "kazekamimp3/kaze808",
   "branch": "cutover/s7ns-authoritative-20261031",
-  "base_commit": "ac8138414d32f53ce75f479b69817a62ee60b18a",
-  "previous_cutover_commit": "27178ed0f7b5498c8bbbae6c278c4d8f6297b0d5",
-  "file_count": 55,
+  "previous_cutover_commit": "f5cedd7b949e2ea2520b07c3c4907624fdfd329e",
+  "file_count": 56,
   "source_bundle_count": 28,
   "project_instruction_chars": 4426,
   "current": {
@@ -20,7 +19,7 @@
     "tree_path_readback": "VERIFIED",
     "ci_status": "NO STATUS CHECKS OR WORKFLOW RUNS",
     "archive_binary_extraction": "NOT VERIFIED IN RUNTIME",
-    "full_dependency_closure": "NOT CLAIMED; E74-E79 GATE OPEN"
+    "full_dependency_closure": "NOT CLAIMED; E74-E79 AND RAW ATTACHMENT BACKUP GATES OPEN"
   },
   "entries": [
     {
@@ -254,6 +253,11 @@
       "role": "control_or_routed_owner"
     },
     {
+      "path": "continuity/author/S7NS_Brian_Meesa_Thyself_And_Boy_FINAL_20261024.txt",
+      "blob_sha": "048008224069a22116aa7b3099f2a694ba38c6cc",
+      "role": "control_or_routed_owner"
+    },
+    {
       "path": "continuity/work/EPISODE_BACKUP_INVENTORY_RECONCILIATION_20261026.md",
       "blob_sha": "764c827dec05e5e97aaf9cd064b7c038a9e6f088",
       "role": "control_or_routed_owner"
@@ -295,7 +299,7 @@
     },
     {
       "path": "S7NS_CUTOVER_INDEX.md",
-      "blob_sha": "7e9b86aea93480342e709d11459b417efb8beb9f",
+      "blob_sha": "0cae82ecb5902562e546e0ef5d12144df95bc50c",
       "role": "control_or_routed_owner"
     }
   ]
