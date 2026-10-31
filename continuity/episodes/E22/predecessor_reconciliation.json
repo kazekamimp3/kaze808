@@ -1,9 +1,0 @@
-{
-  "episode": 21,
-  "status": "DELIVERED_PROVISIONAL",
-  "evidence": "Exact matching final assistant response in this conversation, followed by user PLAY continuation. No explicit author acceptance claimed.",
-  "manuscript_sha256": "f5ae63c7b5bb546d4224d651eb06fd03083fc7b9219a1317839b172ef1d151f5",
-  "source_hash": "6bd2e87d866cdf2c30ba24ac2f19b0db38ee45ebaef8a708a83919a2b141d733",
-  "next": 22,
-  "original_checkpoint_preserved": true
-}
