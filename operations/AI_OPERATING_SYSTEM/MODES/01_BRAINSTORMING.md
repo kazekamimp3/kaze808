@@ -18,3 +18,7 @@ Explore ideas with energy and specificity: absurd scenarios, character collision
 Return: (1) verified constraints, (2) new proposals, (3) rejected/ruled-out options if relevant, (4) open questions, (5) a clean proposal packet for Kaze to select from.
 
 Kaze selects. Brainstorming does not.
+
+
+## Sandbox samples in WORK
+Short dialogue tests, alternative jokes, isolated exchanges, and exploratory fragments are permitted when useful. Mark each [NON-CANON SANDBOX SAMPLE]. These are evaluation material only, not occurred events, selected beats, delivered scenes, or continuity evidence.
