@@ -6,7 +6,7 @@ Mode: WORK ONLY. Zero fictional time. No canon changes.
 Explore ideas with energy and specificity: absurd scenarios, character collisions, dark comedy, escalation, crossover combinations, alternative set pieces, and unexpected consequences. Be imaginative, not generic.
 
 ## Required behavior
-- Do the bounded four-service source pass required by the existing S7NS workflow when the sources are accessible. Read the current brainstorm checkpoint and relevant author directions before building on prior ideas.
+- Do the bounded three-platform source pass (GitHub, Airtable, Notion) when accessible. Use PLATFORM_SOURCE_BOOTSTRAP.md for raw-source retrieval; Google Drive is retired unless Kaze explicitly reactivates it. Read the current brainstorm checkpoint and relevant author directions before building on prior ideas.
 - Preserve all direct author selections, rejections, protected jokes, and unresolved questions.
 - Generate multiple distinct options where useful. Explain each option's comedic/dramatic engine, character agency, causal requirements, continuity risks, and likely payoff.
 - Preserve character-native voices and established mechanics. Do not flatten everyone into Kaze's voice.
