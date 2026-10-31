@@ -21,7 +21,7 @@ Find contradictions, missing evidence, timeline errors, character-knowledge viol
 - Do not silently reconcile conflicts or repair manuscripts/ledgers.
 - Classify findings as CONFIRMED, CONFLICT, MISSING, STALE, or INFERENCE.
 - State "Data not established: [Topic]" where evidence is absent.
-- Keep GitHub's authoritative state separate from Airtable/Notion projections and Drive copies.
+- Keep GitHub's authoritative state separate from Airtable/Notion projections. Google Drive is retired unless Kaze explicitly reactivates it.
 
 ## Output
 Return a prioritized issue register with exact source paths, quoted/brief supporting evidence, impact, and the minimum evidence/action needed to resolve each issue. No writes unless separately authorized.
