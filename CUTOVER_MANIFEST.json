@@ -6,7 +6,7 @@
   "previous_cutover_commit": "f5cedd7b949e2ea2520b07c3c4907624fdfd329e",
   "file_count": 56,
   "source_bundle_count": 28,
-  "project_instruction_chars": 4426,
+  "project_instruction_chars": 4894,
   "current": {
     "last_delivered_episode": 73,
     "status": "DELIVERED_PROVISIONAL",
@@ -19,7 +19,7 @@
     "tree_path_readback": "VERIFIED",
     "ci_status": "NO STATUS CHECKS OR WORKFLOW RUNS",
     "archive_binary_extraction": "NOT VERIFIED IN RUNTIME",
-    "full_dependency_closure": "NOT CLAIMED; E74-E79 AND RAW ATTACHMENT BACKUP GATES OPEN"
+    "full_dependency_closure": "NOT CLAIMED; E74-E79, RAW ATTACHMENT BACKUP, MISSING E73 BEE MOO SCOPE OWNER, AND ARCHIVE EXTRACTION GATES OPEN"
   },
   "entries": [
     {
@@ -169,7 +169,7 @@
     },
     {
       "path": "KAZE_READ_FIRST.txt",
-      "blob_sha": "1d9638ec3711840a20a6c5ad32c54ffa8ad732ab",
+      "blob_sha": "1fe00d0a50231d81185655aaf977284bf5f56775",
       "role": "control_or_routed_owner"
     },
     {
@@ -274,7 +274,7 @@
     },
     {
       "path": "continuity/work/S7NS_CONSOLIDATION_CHECKPOINT_20261031.md",
-      "blob_sha": "f8dfce7ee5d61ba93086b26d1db34f4ec29107d7",
+      "blob_sha": "baaeb0835dc87a99ea09ef73ff6279ab1cd656e1",
       "role": "control_or_routed_owner"
     },
     {
@@ -294,7 +294,7 @@
     },
     {
       "path": "PROJECT_INSTRUCTIONS.txt",
-      "blob_sha": "0eb7dd5aed901036a3cf3544b52d97c3dcb0d6be",
+      "blob_sha": "fe0e9bf86922182954bf130e2b74f3acd483fd25",
       "role": "control_or_routed_owner"
     },
     {
