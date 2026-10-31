@@ -13,7 +13,7 @@ For a copy-and-paste system prompt, use [`AI_STUDIO_SYSTEM_PROMPT.txt`](AI_STUDI
 3. Follow their matching manuscript, checkpoint, state-owner and delivery-reconciliation paths. Do not infer status from a dated summary, handoff, or prepared file.
 4. Read the newest scoped direct-author source relevant to this task.
 5. Route the requested task through `routing/CAPABILITY_ROUTER.yaml`.
-6. Resolve logical owners through `routing/LOGICAL_PHYSICAL_SOURCE_MAP.json`; then consult `routing/MASTER_SOURCE_INDEX.json`, `complete_sources/ACCESS_INDEX.json`, and `MANIFEST.yaml` for the actual file, bundle section, offset, length and hash.
+6. Resolve logical owners through `routing/LOGICAL_PHYSICAL_SOURCE_MAP.json`; use `routing/MASTER_SOURCE_INDEX.json` as the exact logical-to-physical locator for file/section/byte offset/length/hash, and `complete_sources/ACCESS_INDEX.json` as the owner directory. Use root `MANIFEST.yaml` only when present and verified current. The cutover candidate intentionally excludes the stale root MANIFEST.yaml; `CUTOVER_MANIFEST.json` inventories files/blobs in the candidate and is NOT a substitute for logical-owner locators.
 7. Read all of each relevant complete owner before making consequential claims or writing scenes. A route/index/summary is not the owner itself.
 
 ## Source authority
