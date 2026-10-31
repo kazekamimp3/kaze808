@@ -2,6 +2,8 @@
 
 A modular instruction set for using different AI assistants without giving them competing versions of S7NS.
 
+**Current version: 1.1 (2026-10-30).** Shared execution, tool-access, sandbox, session-context, and delivery-format rules are defined in the Master Instruction.
+
 ## Install/use
 1. Give the AI `MASTER_INSTRUCTION.md` as its persistent S7NS foundation.
 2. For each task, attach only the relevant mode file from `MODES/`.
