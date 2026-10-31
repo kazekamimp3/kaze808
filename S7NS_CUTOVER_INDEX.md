@@ -4,7 +4,7 @@ Repository: kazekamimp3/kaze808
 Branch: cutover/s7ns-authoritative-20261031
 
 ## Status
-This is an isolated, recoverable source snapshot. It is NOT YET A DELETION-SAFE CUTOVER. The GitHub archive URL is available, and all listed Git blob IDs have repository readback verification. The archive binary could not be downloaded/extracted in this runtime, so ZIP integrity is not yet independently verified. The E74–79 reconciliation gate remains open, and raw attachment backup issue #4 remains open with conflicting pending counts. Do not delete existing project sources or treat this as a destructive replacement until those gates and local extraction/hash QA pass.
+This is an isolated, recoverable source snapshot. It is NOT YET A DELETION-SAFE CUTOVER. The GitHub archive URL is available, and all listed Git blob IDs have repository readback verification. The archive binary could not be downloaded/extracted in this runtime, so ZIP integrity is not yet independently verified. The E74–79 reconciliation gate remains open, and raw attachment backup issue #4 remains open with 11 remote snapshots pending; its body/title now match the 27 exact + 2 text-extracted + 11 pending index. Do not delete existing project sources or treat this as a destructive replacement until those gates and local extraction/hash QA pass.
 
 ## Authority and live cursor
 - Live continuity owner: continuity/CURRENT.json.
