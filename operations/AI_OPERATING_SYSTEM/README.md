@@ -22,9 +22,17 @@ A modular instruction set for using different AI assistants without giving them 
 | Research | `RESEARCH:` | Verify external facts separately from canon |
 | Production management | `MANUAL UPDATE:` / `PRODUCTION:` | Retrieve, reconcile, track, and perform authorized operations |
 
+## Raw-source bootstrap and platform adapters
+
+Start external AI platforms at [PLATFORM_SOURCE_BOOTSTRAP.md](PLATFORM_SOURCE_BOOTSTRAP.md). It provides direct raw GitHub links and the required source retrieval order. Use the matching adapter from [ADAPTERS](ADAPTERS/): Grok Free (under 4,000 characters), Google AI Studio, or the generic raw-source adapter. Raw links do not guarantee platform fetch capability; if a model cannot retrieve them, attach the exact files instead.
+
+## Active platform contract
+
+GitHub is the authoritative source repository. Airtable provides structured tracking/projections. Notion provides encyclopedia, planning, handoffs and research documentation. Google Drive is retired from active S7NS operations unless Kaze explicitly reactivates it.
+
 ## Suggested AI assignment
-- Google AI Studio: main creative workshop and episode writer.
-- Grok: optional wildcard ideas, not a required daily dependency.
+- Google AI Studio: primary creative workshop and episode writer; use its raw-source adapter.
+- Grok Free: optional wildcard brainstorming; use the ≤4,000-character adapter.
 - Claude: independent editor and continuity reviewer.
 - ChatGPT: source coordinator, research, and production management.
 - Gemini app: alternative model and second opinion.
@@ -53,6 +61,10 @@ This snapshot is a warning about reconciliation, not an amendment to story canon
 
 ## File map
 - [Master instruction](MASTER_INSTRUCTION.md)
+- [Raw-source bootstrap](PLATFORM_SOURCE_BOOTSTRAP.md)
+- [Grok Free adapter](ADAPTERS/GROK_FREE_4000.md)
+- [Google AI Studio adapter](ADAPTERS/GOOGLE_AI_STUDIO.md)
+- [Generic raw-source adapter](ADAPTERS/GENERIC_RAW_SOURCE.md)
 - [01 Brainstorming](MODES/01_BRAINSTORMING.md)
 - [02 Outline development](MODES/02_OUTLINE_DEVELOPMENT.md)
 - [03 Episode execution](MODES/03_EPISODE_EXECUTION.md)
