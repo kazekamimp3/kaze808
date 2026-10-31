@@ -25,3 +25,7 @@ Find contradictions, missing evidence, timeline errors, character-knowledge viol
 
 ## Output
 Return a prioritized issue register with exact source paths, quoted/brief supporting evidence, impact, and the minimum evidence/action needed to resolve each issue. No writes unless separately authorized.
+
+
+## Tool-access boundary
+If a source platform is unavailable, identify the exact inaccessible source and classify it as PENDING. Audit only evidence actually retrieved or supplied. Never simulate cross-platform comparison, readback, or a successful check.
