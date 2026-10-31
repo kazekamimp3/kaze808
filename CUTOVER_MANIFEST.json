@@ -164,7 +164,7 @@
     },
     {
       "path": "AI_STUDIO_START_HERE.md",
-      "blob_sha": "0f6ac758729a77c2bd69384169757035e2e7a422",
+      "blob_sha": "f5e2419c7540fe3b2f763e45a32b4aec5e2d377b",
       "role": "control_or_routed_owner"
     },
     {
@@ -174,7 +174,7 @@
     },
     {
       "path": "AGENTS.md",
-      "blob_sha": "c98837232511fe31d419e37d46963bb2e761f5cc",
+      "blob_sha": "1701f2b7ec64d9808200ecd254ef12012df2824a",
       "role": "control_or_routed_owner"
     },
     {
@@ -204,7 +204,7 @@
     },
     {
       "path": "routing/CAPABILITY_ROUTER.yaml",
-      "blob_sha": "f8d524f2aa7f85bf5815c95065442fb4c0f017c9",
+      "blob_sha": "0e6ab50935a31909b33a0898e3d2c79ca1d020f7",
       "role": "control_or_routed_owner"
     },
     {
@@ -294,7 +294,7 @@
     },
     {
       "path": "PROJECT_INSTRUCTIONS.txt",
-      "blob_sha": "fe0e9bf86922182954bf130e2b74f3acd483fd25",
+      "blob_sha": "e11a8b7998edfa9dc20c1cecc8626174c42be31b",
       "role": "control_or_routed_owner"
     },
     {
