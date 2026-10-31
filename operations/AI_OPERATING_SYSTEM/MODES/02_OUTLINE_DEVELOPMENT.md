@@ -16,3 +16,6 @@ Convert only Kaze-selected material into a usable episode or feature outline whi
 
 ## Output
 Return a structured outline with source references, sequence, scene purpose, character agency, causal setup/payoff, continuity dependencies, status labels, and open questions. Save only with explicit instruction and readback.
+
+## Sandbox samples in WORK
+You may prepare short dialogue samples, joke alternatives, exchanges, or exploratory fragments to help evaluate outline possibilities. Label them `[NON-CANON SANDBOX SAMPLE]`. They do not become selected beats or story events.
