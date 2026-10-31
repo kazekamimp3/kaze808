@@ -55,3 +55,14 @@ This section supersedes no prior source evidence. It records the exact resume po
 5. Verify archive ZIP by obtaining bytes, listing/extracting members and comparing every file hash. Until that succeeds, do not call the package deletion-safe.
 6. Preserve branch isolation and main; update manifest/index/instructions only after each change is verified.
 7. No PLAY, no story advancement, no author-acceptance inference.
+
+
+## Follow-on source synchronization — 2026-10-31
+After the prior resume checkpoint, the following in-scope source updates were committed on the same isolated branch and read back:
+- KAZE_READ_FIRST.txt: prepended the direct author correction Brian → B.Moo → Bee Moo after the Cow Bee bite; disambiguated the protected lyrics filename; explicitly blocked Brian Griffin identity substitution.
+- PROJECT_INSTRUCTIONS.txt: synchronized the correction and refreshed core operating rules; exact readback length is 4,894 characters, below the 5,000-character ceiling.
+- CUTOVER_MANIFEST.json: refreshed the blob hashes for KAZE_READ_FIRST.txt, this checkpoint and PROJECT_INSTRUCTIONS.txt; disclosed open dependency and archive gates.
+- S7NS_CUTOVER_INDEX.md: documented the correction, E73 receipt resolution and remaining blockers.
+- E73 reconciliation confirms DELIVERED_PROVISIONAL / acceptance NOT_ASSERTED. The prepared checkpoint is intentionally preserved as a preparation artifact, not a conflicting final delivery status.
+- The E73 checkpoint's referenced complete owner continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md is absent from the cutover branch. Its full content was recovered from prior commit ac8138414d32f53ce75f479b69817a62ee60b18a, but the attempt to add a separate file was blocked. This remains an explicit dependency gap.
+- No episode manuscript, CURRENT.json, DELIVERY_LEDGER.json, active outline or fictional chronology was modified. No PLAY or time advancement.
