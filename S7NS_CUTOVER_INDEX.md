@@ -30,3 +30,12 @@ The stale root MANIFEST.yaml, old attachment manifests, duplicate renamed upload
 
 ## Safe-use rule
 Keep main and all historical sources. This branch is a recoverable candidate snapshot, not permission to delete the existing project. Only promote after the archive itself is extracted and hashed locally, all routes/dependencies resolve, and the E74–79 and attachment-backup gates are reconciled.
+
+
+## Resume reconciliation — 2026-10-31
+- The latest direct author naming correction is synchronized in KAZE_READ_FIRST.txt and PROJECT_INSTRUCTIONS.txt: Brian → B.Moo → Bee Moo after the Cow Bee bite. The character is not Brian Griffin. The protected final lyrics filename containing “Brian_Meesa” is not a character-name authority. Original lyrics and delivered manuscripts remain unchanged.
+- PROJECT_INSTRUCTIONS.txt is now 4,894 characters (strictly under 5,000); its exact bytes and manifest blob SHA were read back.
+- The consolidation checkpoint was appended and read back. KAZE_READ_FIRST.txt and PROJECT_INSTRUCTIONS.txt were subsequently updated, and CUTOVER_MANIFEST.json was refreshed for their new blob hashes.
+- Additional dependency gap: E73 checkpoint references continuity/author/S7NS_E73_Bee_Moo_Scope_20261025.md, which is absent from this branch snapshot. The complete owner was recovered from the pre-cutover commit but is not installed in this branch. Do not treat the E73 source closure as complete.
+- E73 delivery is not ambiguous after reading its reconciliation receipt: DELIVERED_PROVISIONAL / acceptance NOT_ASSERTED; the prepared checkpoint is intentionally preserved as a separate preparation artifact.
+- E74–79 manuscript/version/receipt reconciliation, raw attachment backup issue #4, full route closure and archive ZIP extraction/hash verification remain open. This branch is not deletion-safe.
