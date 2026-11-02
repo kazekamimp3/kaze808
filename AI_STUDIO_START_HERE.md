@@ -57,6 +57,16 @@ The existing source-integrity workflow is currently failing on multiple manifest
 - `integrations/`, `project_install/`, `releases/`: reference projections and versioned installation/release artifacts, not automatic proof of current installation.
 - `backups/`: project-file backups and repository migration history.
 
+## Space Saga restart boundary — 2026-11-01
+
+Kaze explicitly restarted the Space Saga at Episode 1. This is a separate season-level sequence, not a continuation or renumbering of the older E73–E75 storyline.
+
+- Read `continuity/author/S7NS_SPACE_SAGA_RESTART_AUTHORITY_20261101.md` and the complete approved forward-development owner `continuity/author/S7NS_SPACE_SAGA_APPROVED_DEVELOPMENTS_20261031.md`.
+- The global `CURRENT.json` / `DELIVERY_LEDGER.json` cursor remains a separate legacy delivery-control record. Do not relabel E73/E74 as Space Saga episode numbers.
+- The October 31 Notion continuity audit remains IN PROGRESS. The complete E1–E100 episode map and several causal/mechanics dependencies remain open.
+- Do not infer missing placements from the older E82–E100 handoff or rewrite the legacy Season 3 active outline as the restarted Space Saga outline without a complete controlling map.
+- WORK advances zero fictional time. This restart record does not draft, deliver, accept, or authorize PLAY for Episode 1.
+
 ## Live cursor caution
 
 At the time of this router change, GitHub `CURRENT.json` and `DELIVERY_LEDGER.json` are authoritative and report E73 as last delivered / E74 next, with later E74–80 chat-delivery reconciliation open. Verify live matching evidence before continuation. This note does not alter the cursor.

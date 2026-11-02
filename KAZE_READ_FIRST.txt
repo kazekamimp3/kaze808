@@ -1,3 +1,11 @@
+CURRENT SPACE SAGA RESTART AUTHORITY — 2026-11-01
+
+Kaze has restarted the Space Saga at Episode 1. This is a separate season-level sequence, not a continuation or renumbering of the older E73–E75 storyline. The legacy global CURRENT.json / DELIVERY_LEDGER.json cursor remains separate and must not be relabeled as the Space Saga episode number.
+
+Read continuity/author/S7NS_SPACE_SAGA_RESTART_AUTHORITY_20261101.md and the complete approved forward-development owner continuity/author/S7NS_SPACE_SAGA_APPROVED_DEVELOPMENTS_20261031.md before Space Saga planning. The October 31 Notion continuity audit remains IN PROGRESS; the complete E1–E100 episode map and several causal/mechanics dependencies remain open. Do not infer missing placements from the older E82–E100 handoff. WORK advances zero fictional time; no PLAY, Episode 1 manuscript, delivery, or acceptance is implied.
+
+---
+
 CURRENT DIRECT AUTHOR CORRECTION — BRIAN NAME PROGRESSION (2026-10-31)
 Brian → B.Moo → Bee Moo after the Cow Bee bite. These are successive names for the same continuing character. Do not reverse/collapse the order or use Bee Moo before the bite. This character is not Brian Griffin; do not import Brian Griffin identity, species, appearance, voice or behavior. The Cow Bee is a separate creature. Preserve the original B.Moo lyrics. The filename S7NS_Brian_Meesa_Thyself_And_Boy_FINAL_20261024.txt is a protected lyrics-source filename, not the character's name. The exact Brian-to-B.Moo transition episode is not established here. This latest direct author correction controls over older same-scope material. No episode rewrite, PLAY or chronology advance is authorized by this correction.
 
