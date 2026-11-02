@@ -57,7 +57,14 @@ $env:GEMINI_API_KEY="YOUR_API_KEY"
 
 ## Run the complete ingestion
 
-From the repository root:
+First make sure both remote branches are available locally. From the repository root:
+
+```bash
+git fetch origin
+git branch --track cutover/s7ns-authoritative-20261031 origin/cutover/s7ns-authoritative-20261031
+```
+
+If that local branch already exists, skip the `git branch --track` command. Then run:
 
 ```bash
 python tools/ai_studio_full_corpus_ingest.py \
@@ -66,7 +73,7 @@ python tools/ai_studio_full_corpus_ingest.py \
   --store-display-name "S7NS Full Source Library"
 ```
 
-The script creates a new File Search store and indexes all eligible UTF-8 text blobs from both branches. It does not overwrite or delete an existing store. Save the printed store name and the generated `S7NS_FILE_SEARCH_INGESTION_REPORT.json`.
+The script creates a new File Search store and indexes all eligible UTF-8 text blobs from both branches. It does not overwrite or delete an existing store. It indexes Git-tracked repository content only. Chat attachments or local files that have not been committed to either selected branch are not included. In particular, the uploaded local checkpoint `S7NS_SOURCE_RECON_CHECKPOINT_20261101_R2.md` was not found by repository search at the time this guide was prepared; it must be added to a selected branch before it can be indexed. Save the printed store name and the generated `S7NS_FILE_SEARCH_INGESTION_REPORT.json`.
 
 If the run reports INCOMPLETE, do not treat the store as complete. Resolve each reported failure or skipped item and rerun into a fresh store. The report is written locally and is not automatically committed to GitHub.
 
