@@ -1,1 +1,13 @@
-RESTORING_ORIGINAL_FROM_PRIOR_COMMIT
+{
+  "schema": "S7NS_CURRENT_SOURCE_ROUTER_V2",
+  "branch_id": "S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017",
+  "as_of": "2026-11-09",
+  "last_delivered_episode": 73,
+  "next_episode": 74,
+  "delivery_status": "DELIVERED_PROVISIONAL",
+  "author_acceptance": "NOT_ASSERTED",
+  "delivery_ledger": "continuity/DELIVERY_LEDGER.json",
+  "prepared_episode": 74,
+  "state_rule": "Live cursor restored to match DELIVERY_LEDGER.json. E73 is DELIVERED_PROVISIONAL, acceptance NOT_ASSERTED, next E74. E74 is prepared only until full delivery reconciliation. Do not treat Space Saga Episode 1 restart experiments as the current cursor.",
+  "note": "Restored from placeholder RESTORING_ORIGINAL_FROM_PRIOR_COMMIT. Live source of truth remains the delivery ledger."
+}
